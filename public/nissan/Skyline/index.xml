@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Kuruma Stories on Kuruma Stories</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to Kuruma Stories on Kuruma Stories</description>
+    <title>Nissan Skyline on Kuruma Stories</title>
+    <link>http://localhost:1313/nissan/skyline/</link>
+    <description>Recent content in Nissan Skyline on Kuruma Stories</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Oct 2025 04:50:49 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/nissan/skyline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nissan Skyline 2000GT-R Hardtop (1971)</title>
       <link>http://localhost:1313/nissan/skyline/my-first-post/</link>
