@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nissan Skyline on Kuruma Stories</title>
-    <link>http://localhost:1313/nissan/skyline/</link>
+    <link>http://example.org/nissan/skyline/</link>
     <description>Recent content in Nissan Skyline on Kuruma Stories</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Oct 2025 04:50:49 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/nissan/skyline/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.org/nissan/skyline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nissan Skyline 2000GT-R Hardtop (1971)</title>
-      <link>http://localhost:1313/nissan/skyline/my-first-post/</link>
+      <link>http://example.org/nissan/skyline/my-first-post/</link>
       <pubDate>Sat, 11 Oct 2025 04:50:49 -0700</pubDate>
-      <guid>http://localhost:1313/nissan/skyline/my-first-post/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/sunset.jpg&#34; alt=&#34;Nissan Skyline 2000GT-R&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Publication:&lt;/b&gt; Car Graphic&lt;br&gt;&#xA;&lt;b&gt;Format:&lt;/b&gt; Road Test&lt;br&gt;&#xA;&lt;b&gt;Date:&lt;/b&gt; January 1971&lt;br&gt;&#xA;&lt;b&gt;Author:&lt;/b&gt; TBD&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Summary:&lt;/b&gt; A semi-racing hardtop with a six-cylinder twin-cam 24-valve engine. No knock even with regular fuel, relatively flexible, only minor impact on performance, extremely high maneuverability despite bias-ply tires, enjoyable on the circuit. Excellent steering response but lots of kickback, rear seat comfort comparable to a sedan, heavy controls, limited practicality, high price.&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;&lt;u&gt;Road testing the Skyline 2000GT-R Hardtop&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;</description>
+      <guid>http://example.org/nissan/skyline/my-first-post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://example.org/images/sunset.jpg&#34; alt=&#34;Nissan Skyline 2000GT-R&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Publication:&lt;/b&gt; Car Graphic&lt;br&gt;&#xA;&lt;b&gt;Format:&lt;/b&gt; Road Test&lt;br&gt;&#xA;&lt;b&gt;Date:&lt;/b&gt; January 1971&lt;br&gt;&#xA;&lt;b&gt;Author:&lt;/b&gt; &amp;ldquo;C/G Test Group&amp;rdquo; (uncredited)&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Summary:&lt;/b&gt; A semi-racing hardtop with a six-cylinder twin-cam 24-valve engine. No knock even with regular fuel, relatively flexible, only minor impact on performance, extremely high maneuverability despite bias-ply tires, enjoyable on the circuit. Excellent steering response but lots of kickback, rear seat comfort comparable to a sedan, heavy controls, limited practicality, high price.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nissan Skyline 2000GT-R Hardtop (1973)</title>
+      <link>http://example.org/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</link>
+      <pubDate>Sat, 11 Oct 2025 04:50:49 -0700</pubDate>
+      <guid>http://example.org/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://example.org/images/CG-RT-Nissan-Skyline-2000GTR-1973.jpg&#34; alt=&#34;Nissan Skyline 2000GT-R&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Publication:&lt;/b&gt; Car Graphic&lt;br&gt;&#xA;&lt;b&gt;Format:&lt;/b&gt; Road Test&lt;br&gt;&#xA;&lt;b&gt;Date:&lt;/b&gt; May 1973&lt;br&gt;&#xA;&lt;b&gt;Author:&lt;/b&gt; &amp;ldquo;C/G Test Group&amp;rdquo; (uncredited)&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Summary:&lt;/b&gt; The &amp;ldquo;Ska G-R&amp;rdquo; has a completely redesigned body. It is fitted with a semi-racing engine inherited from the previous model, but despite the attractive specs, there is nothing particularly impressive about the performance in stock form. The controls are heavy and the handling is very rough, but t has a fairly high level of balance and a solid ride. The four-wheel servo disc brakes require a lot of pedal effort. It has poor fuel economy, is noisy overall, is expensive, and is aimed at wealthy enthusiasts.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

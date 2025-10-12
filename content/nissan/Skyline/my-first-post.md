@@ -13,7 +13,7 @@ draft = false
 <b>Publication:</b> Car Graphic<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> January 1971<br>
-<b>Author:</b> TBD
+<b>Author:</b> "C/G Test Group" (uncredited)
 
 <b>Summary:</b> A semi-racing hardtop with a six-cylinder twin-cam 24-valve engine. No knock even with regular fuel, relatively flexible, only minor impact on performance, extremely high maneuverability despite bias-ply tires, enjoyable on the circuit. Excellent steering response but lots of kickback, rear seat comfort comparable to a sedan, heavy controls, limited practicality, high price.
 
