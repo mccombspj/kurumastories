@@ -1,10 +1,10 @@
 ---
 title: "Welcome to Kuruma Stories"
-type: "homepage"
 ---
 
 <h2>Explore stories by manufacturer:</h2>
-<ul>
+
+<ul style="list-style-type: none; padding-left: 0;">
   <li><a href="/nissan/">Nissan</a></li>
   <li><a href="/honda/">Honda</a></li>
   <li><a href="/toyota/">Toyota</a></li>
