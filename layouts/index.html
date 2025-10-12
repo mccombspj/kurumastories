@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <main class="main pa3" role="main">
+    <article class="cf pv5 ph3 ph4-ns">
+      <header class="tc">
+        <h1 class="f1">{{ .Title }}</h1>
+      </header>
+      <div class="nested-copy-line-height lh-copy serif f4 nested-links tc">
+        {{ .Content }}
+      </div>
+    </article>
+  </main>
+{{ end }}
