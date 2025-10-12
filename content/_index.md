@@ -1,6 +1,4 @@
 ---
-
----
 title: "Welcome to Kuruma Stories"
 ---
 
