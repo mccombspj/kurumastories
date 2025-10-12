@@ -1,12 +1,5 @@
 ---
-
-title: "Skyline"
-
+title: "Nissan Skyline"
 ---
 
-
-
-Welcome to Nissan Skyline stories!
-
-
-
+<h2>Skyline Stories</h2>
