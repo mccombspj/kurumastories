@@ -12,6 +12,6 @@ title: "Isuzu Stories"
 
 <ul style="list-style-type: none; padding-left: 0;">
 
-&nbsp; <li><a href="/isuzu/bellett/">Isuzu Bellett</a></li>
+&nbsp; <li><a href="/isuzu/117-coupe/">Isuzu 117 Coupe</a></li><li><a href="/isuzu/bellett/">Isuzu Bellett</a></li>
 
 </ul>

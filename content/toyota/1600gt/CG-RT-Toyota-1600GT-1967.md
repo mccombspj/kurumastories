@@ -1,0 +1,153 @@
++++
+
+
+
+title = "Toyota 1600GT (1967)"
+
+
+
+date = "2025-10-11T04:50:49-07:00"
+
+
+
+draft = false
+
+
+
++++
+
+
+
+![Toyota 1600GT](/images/CG-RT-Toyota-1600GT-1967.jpg)
+
+
+
+<b>Publication:</b> Car Graphic<br>
+<b>Format:</b> Road Test<br>
+<b>Date:</b> November 1967<br>
+<b>Author:</b> "C/G Test Group" (uncredited)
+
+
+
+<b>Summary:</b> This test was conducted for a total of about 800km for both the standard 4-speed gearbox (1600GT4) and the optional 5-speed gearbox (GT5). The GT5 was a very early production model, while the GT4 was the latest production model, so there were differences in other details besides the gearbox. I will discuss this later, but the conclusion is that as far as the gearbox is concerned, both cars have their pros and cons, but the GT4 is more suitable for general use mainly in urban areas, while driving enthusiasts should choose the GT5 even if it means some inconvenience.
+
+
+
+The 1600GT (internal name RT55, RT55-M for the 5-speed) is, of course, a Corona hardtop 1600S (RT51) equipped with a 110ps DOHC engine and reinforced suspension, so in this report we will avoid overlapping with the 1600S as much as possible and focus solely on the unique features of the 1600GT.
+
+
+
+
+
+
+
+<b><u>Road testing the Toyota 1600GT</b></u>
+
+
+
+The interior of the 1600GT is, to put it simply, a popular version of the 2000GT, with everything from the seats to the dash in black, and a very high standard of design and finish. The front bucket seats were "stolen" from the 2000GT, and are more generous than those of the 1600S, providing excellent lateral support even without the aid of the three-point seat belts (which are standard equipment). However, the cushions are extremely thin and lack "give," so the driver's first impression is very cold, but judging from the fact that no discomfort is felt even after long drives, it must be an appropriate design. Although the seating position is slightly lower than that of the 1600S, the driving position is natural, and the forward visibility over the relatively low cowl is excellent.
+
+
+
+There is a horn button covered with a pad in the center of the steering wheel, and you have to take your hand off the rim to honk the horn, which is a puzzling feature of this car (the 1600S, with the horn buttons embedded in the spokes, is better in this respect). The dashboard is exactly the same as the 1600S, except that the speedometer and rev counted scales have been expanded to 200km/h and 9000rpm, respectively. The instruments are well designed and arranged, with white letters on a black background and red needles that can be read in an instant. One reason for this is that the instruments are relatively far from the seating position, so even if you move your eyes from looking at the road surface to the instruments, your eyes do not have to re-focus. However, for the same reason, the light and wiper switches on the dash tend to be too far away from the leaned-back driving position that a 1600GT driver will instinctively (or willingly) assume.
+
+
+
+The center console is a unique feature of the 1600GT. The front panel has a switch for the electric radio antenna, and three blind holes for various accessories that the owner will likely add later. The rear of the console is a fairly large storage space that doubles as an armrest. The interior of this storage space is carpeted, so you can put a camera or other items inside. It does not lock, however.
+
+
+
+The shift lever protrudes from this console, but the position and angle of the lever are different between the 4-speed and 5-speed gearboxes. The 4-speed's lever is the same as the 1600S, so it is bent quite sharply backwards, while the 5-speed lever is almost vertical, like the 2000GT. In neutral, the knob is in almost the same position on both, but the movement is completely different. The knob on the 5-speed moves in a horizontal plane through the gates, while on the 4-speed it moves around the shape of a sphere. With the 4-speed, your hand may get caught between the console box and the knob when you quickly shift into second gear.
+
+
+
+The pedals are identical to other Coronas. Therefore, the brake and organ-type throttle pedal are widely spaced, and stepped so severely that heel-and-toe braking and double-clutch downshifting, essential for driving a sports car like a sports car, are all but impossible.
+
+
+
+The rear seats are not the +2 type that is common in this type of GT coupe, and although it is of course more cramped than the Corona sedan, it still has enough room for two adults to sit comfortably. However, the front seats can be slid 20mm further back than in the 1600S, so in this position there is still not enough knee room in the rear seats, and passengers are forced to sit with their legs at an angle.
+
+
+
+It is nice to have storage spaces for small items all over the cabin. I've already mentioned the console box, but in front of it there is a small, deep compartment that is extremely useful for storing coins and cigarettes. The glovebox is quite a substantial size, and in its right corner there is a map reading lamp and an inspection light socket. There is a shelf under the glovebox where you can place a document folder or a handbag, and there are six pockets in total--one in each door, on both sides of the rear seats, and on the rear of the front seat backrests--for road maps, newspapers, magazines, etc. Furthermore, behind the rear seats, there is a recess large enough to hold a small suitcase, although not as large as in a Volkswagen. If the rear seats are folded forward and secured with the well-designed metal fittings, the rear compartment is completely covered with carpet and becomes a vast luggage area. If only there was a strap (or at least a metal fitting for one) to secure a suitcase, like in a Porsche, it would be perfect for long-distance, high-speed trips for two people (isn't that what a Gran Turismo is originally supposed to be?).
+
+
+
+From my experience with the two 1600GTs, the DOHC 110ps engine always ran smoothly and was completely trouble-free. When the ignition key was turned on, the electromagnetic plunger pump at the rear started to work with a gentle hum, filling the twin Solex 40PHH carburetors' float chambers. A cold start in the morning was always instantaneous if you pulled the choke knob (the trick is not to press the throttle when doing this), and there was no stalling even if you immediately released the choke. It warmed up quickly, and in summer temperatures the water temperature gauge needle started to move in about three minutes. The idle of about 700rpm was quite rough even by sports engine standards, and the gear lever vibrated a lot.
+
+
+
+In terms of power performance, both in the catalog and in our actual measurements, there was no significant difference between the 4-speed and 5-speed gearboxes, but in terms of practical usability, there is a big difference. First, for comparison, the gear ratios for the GT4 and GT5, respectively, are as follows: 3.67/3.14 (first), 2.11/1.64 (second), 1.40/1.18 (third), 1.00/1.00 (fourth), and 0.84 (fifth, GT5 only). The standard final drive ratios are also different for the 4-speed and 5-speed, being 4.11 and 4.38, respectively.
+
+
+
+Testing was carried out first with the 5-speed gearbox (GT5), and this test car was one of the earliest production models, while the 4-speed was tested later. There were some defects that had already been improved in the second test car (GT4), so I would like to cover the GT5 first. The fully synchronized 5-speed gearbox was "taken" from its big brother, the 2000GT, so the gear ratio was by no means ideal for the power characteristics and weight of the 1600GT. First, the gear ratio of first gear was too high for the weight, and second, first and second gears were too far apart (the step-up between ratios are 0.52 from first to second gear, 0.72 from second to third, 0.84 from third to fourth, and 0.84 from fourth to fifth). As a result, drivers who drove the GT5 for the first time almost unanimously complained that acceleration from a standstill was lackluster; to put it bluntly, the car was so sluggish that it was as if the car was starting with the handbrake on. 
+
+
+
+The heavy throttle pedal only adds to this feeling. In fact, this is not just a matter of feeling, but for the first 10 meters or so (which is what matters at traffic lights), the GT5 can't even match up with a briskly-driven Corolla. On the other hand, the first gear can reach over 50km/h, so you can catch up with and overtake most cars in less than 20 meters. If you don't push hard in first gear, though, the acceleration will drop drastically as soon as you shift into second gear, which is relatively even taller, so this is also necessary for self-preservation.
+
+
+
+The clutch of the GT5 I tested required much more force to press (10kg) than the GT4 I drove later, so it wasn't suitable for frequent use in the city, but it worked reliably and had little slip. The lever of the 5-speed gearbox was almost vertical, and my hand found it naturally when lowered from the steering wheel. It was good that it had short movements, but it was extremely stiff for a car with a mileage of about 3,400km. As mentioned above, second gear has a tall gear ratio, and I often needed to downshift into first gear after turning a corner at a walking pace, but it took an almost violent amount of force to shift down to first gear while driving. Also, when I was driving in second gear and stopped the car, the gear lever would often get stuck.
+
+
+
+Embarrassingly for us, it is extremely difficult to express the characteristics of the 1600GT engine. Because it is a DOHC, 68ps per liter high-output unit, one might imagine it to be a so-called "peaky" engine (an engine that has a very narrow range of revolutions where strong torque is generated, and therefore a sharp torque curve) that requires repeated gear shifting to run well, but the truth is the exact opposite. The curve is flat like a tractor engine, and it produces strong torque of over 12kgm over a wide range of about 2000 to 5500rpm. When you first get into this car, you will usually want to drive in first and second gears around town, but you will soon realize that you can drive easily in higher gears.
+
+
+
+We have adopted the lazy method of driving in second gear up to about 50km/h in the city, then skipping third gear and shifting to fourth gear. With this close-ratio gearbox, there is not much point in shifting gears one by one at a low speed of only 60km/h. Moreover, the engine is so flexible that if you can drive in second gear, you can also drive in fourth gear without any difficulty. On the other hand, while fourth gear can run smoothly even at 40km/h (about 1300rpm), the driving force in second gear is not as strong at low speeds as you might imagine, and it is impossible to accelerate after turning a corner at about 15km/h (about 1000rpm). It is a very strange story, but the reason for this is probably because the gap between first and second gear is too wide and the engine torque drops sharply below 1500rpm.
+
+
+
+In our opinion, a more "peaky" engine is more suited to the characteristics of a sports car, even if it makes it a little harder to use at low speeds. Even if the car actually produces a large amount of torque, it lacks the climax of a sudden surge of power at a certain rpm, making it feel lackluster and boring.
+
+
+
+The 1600GT is not very impressive in the city, but it suddenly comes to life when you get it on the highway. The top speed of 175km/h is only possible on a long stretch like the Meishin Expressway, and probably with the help of a downhill slope, but it can reach a speed of 160km/h in both fourth gear and overdrive fifth. If you rev it up to 7000rpm, you can reach about 150km/h in third gear, and even in second gear you can reach nearly 110km/h. At 110ps, the power is more than enough, and acceleration in third and fourth gears is still quite sharp even after exceeding 100km/h. The 1600GT actually becomes lively from around 100km/h, where the acceleration of the regular 1600S hardtop reaches a plateau. Because third, fourth, and fifth gears are very close to each other, you can reach not only 100km/h but even 150km/h in any of the top three gears. The luxury of being able to choose from three gears at 150km/h is something you rarely experience, and there is probably no other car like it in the world that is as practical as a 1600cc class GT. The gear shift feels lighter at high speeds, and the synchronization is also effective. As we have already mentioned, the GT5 can be quite inconvenient in the city, but enthusiasts will be willing to overlook this for the enjoyment of its high-speed performance.
+
+
+
+The overdrive 5-speed is supposed to be for quiet and economical cruising, but when you shift from fourth to fifth gear (about 3100rpm) at the maximum speed 100km/h on Japanese public roads, the transmission starts making a high-pitched gear noise and the overall noise level increases. This is a pity, since the mechanical noise of the engine is surprisingly low. The exhaust noise increases suddenly above 3500rpm and creates resonances inside the body.
+
+
+
+It is true that the GT5 has excellent high-speed performance, but the engine of the car we tested, at least, lacked smoothness in the high revoluton range. In addition to the vibration cycles inherent to a four-cylinder engine, at speeds above 140km/h in third, fourth, or fifth gear, the entire driveline begins to vibrate quite badly, and I just didn't have the nerve to sustain that speed for long. 
+
+
+
+As mentioned above, this GT5 was an early-production model, but when I asked the manufacturer about this, they told me they had already taken corrective measures. In the GT4 model that was tested later, this vibration period was pushed out of the normal range of revolutions, and it was confirmed that there were no problems with the balance of the drivetrain at high speeds.   
+
+
+
+Next, let's talk about the GT4. Its 4-speed gearbox is exactly the same as that of the 1600S, but the final drive ratio is shorter than that of the 1600S (4.11 compared to 3.70), and the engine is 20ps more powerful, so the acceleration is overwhelmingly better than that of the normal 1600S. Compared to the GT5, the first gear ratio is much lower, so starting from a standstill is much quicker. The gear shift and clutch of the GT4 are much lighter, so it is more suitable for use in the city than the GT5, and there is no need to worry about being left behind by the 1600S at traffic lights. However, the measured test results showed that the GT5 is slightly faster in absolute acceleration. Comparing the acceleration from a standing start, the GT4 covers 0-100m in 7.8 seconds (GT5, 7.4 seconds), 0-200m in 11.9 seconds (GT5, 11.3 seconds), 0-400m in 18.3 seconds (GT5, 18.0 seconds). Various detailed measurements were taken on the GT4, and the results demonstrated the incredible flexibility of the DOHC engine. For example, looking at the overtaking acceleration data in third gear, the acceleration times for every 20km/h increment between 30km/h and 110km/h were all exactly 5.0 seconds. This reflects the flat torque curve, but in other words, it is too sluggish and not like a sports car. Also, when driving it like a sports car, the wide gap between third and fourth gears was clearly felt.
+
+
+
+All things considered, the GT4 is best suited for everyday use around town, while the GT5 is best suited to hot-blooded driving enthusiasts.
+
+
+
+The 1600GT's suspension is basically the same as the 1600S Hardtop's, except that a torque rod has been added to the rear. Its ride is generally firm and flat, with very little roll for a practical vehicle. One tester described the 1600GT as a scaled-down Shelby Mustang GT350 (both in size and performance), and that is certainly true. The suspension design is extremely simple, with an emphasis on manufacturing productivity, but the idea of using wide tires instead is also in line with the Shelby (and American sports sedans in general). The 1600GT comes standard with low-profile 6.45S-14-4PR tires (Dunlop Grand Speed on the test car) that is a size wider than the 1600S, and a 6.45H-14-4PR is also available for even higher speeds. Partly due to the effect of the limited-slip differential, the road grip of this tire is excellent even on wet roads. Even during a full-throttle racing start, the car gripped the road firmly with only a few meters of wheelspin. The effect of the torque rod was remarkable, and no rear axle tramp was experienced even during sudden acceleration or deceleration.
+
+
+
+The handling is surprisingly good, especially when you remember that it is basically the same suspension as the Corona. The steering, with 3.75 turns from lock to lock, is the same as the Corona, so it keeps the driver's arms a little busy in tight corners, and there is about 5cm of free play at the steering wheel rim when going straight, but once you get used to having to turn the steering wheel a little too much into corners at first, it responds surprisingly well. It can even be called precise, and the ease of steering force is unparalleled except when parking. 
+
+
+
+In order to compensate for the weight distribution of 54%/46% even with two people on board, the tire pressure is specified at 1.9kg/1.7kg (for up to 175km/h), but even so the handling is biased quite heavily towards understeer. Since the body roll is not felt much, at least by the driver, it is easy to enter a corner at a speed higher than the car's actual ability (and the driver's skill in handling it). The limit of cornering speed seems to be more than 30% higher than the 1600S, but all four wheels tend to slide out at once when the limit is reached.
+
+
+
+We have not yet been able to form an accurate judgment on the 1600GT's brakes. The GT5 had very strong stopping power with light pedal pressure from low speeds to high speeds of over 150km/h, and the posture was stable, so we all agreed that we had never experienced such excellent brakes. However, our confidence was greatly shaken by the GT4 we tested later. The braking power itself of the GT4 was just as strong, and for example, the time from 0 to 100km/h to a complete stop was 16.9 seconds. However, if you do this two or three times in a row, the brakes will fade immediately, the braking distance will increase, and the braking force will become heavier, and it takes a few minutes of rest for the brakes to return to their previous state. We tried going up and down a mountain road with a series of gentle corners at 70 to 90km/h, repeatedly braking suddenly, and here too we experienced fade. On the way downhill, the left rear wheel locked up and the car became unstable, even though the rear wheel circuit has a proportioning control valve. Our vague impression is that the brake pad materials used in the GT4 and GT5 test cars were different.
+
+
+
+Finally, regarding fuel economy, accurate measurements could only be taken for the GT5, but the average fuel economy over 282km of driving in Tokyo and on the Third Keihin National Highway was 6.4km/l. The GT4's carburetor setting seemed to be too rich, but a rough measurement suggested its fuel consumption was about 5km/l.
+
+
+
+
+

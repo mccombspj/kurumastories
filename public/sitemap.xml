@@ -5,6 +5,9 @@
     <loc>http://example.org/mazda/capella/cg-rt-mazda-capella-rotary-coupe-gs/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://example.org/mazda/luce-rotary-coupe/cg-ri-mazda-luce-rotary-coupe-1969/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://example.org/mitsubishi/colt-galant-gto/cg-ri-mitsubishi-colt-galant-gto-mii-1970/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -38,6 +41,12 @@
     <loc>http://example.org/honda/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://example.org/isuzu/117-coupe/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/isuzu/117-coupe/cg-rt-isuzu-117-coupe-1970/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://example.org/isuzu/bellett/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -56,6 +65,21 @@
     <loc>http://example.org/mazda/cosmo-sport/cg-ri-mazda-cosmo-sport/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://example.org/mazda/familia/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/mazda/familia/cg-rt-mazda-familia-rotary-coupe-1968/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/mazda/luce-rotary-coupe/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/mazda/savanna/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/mazda/savanna/cg-ri-mazda-savanna-gt-1972/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://example.org/mazda/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -65,6 +89,12 @@
     <loc>http://example.org/mitsubishi/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://example.org/nissan/bluebird/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/nissan/bluebird/cg-ri-nissan-bluebird-u-2000gt-x-1973/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://example.org/nissan/skyline/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -72,6 +102,18 @@
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://example.org/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/toyota/1600gt/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/toyota/1600gt/cg-rt-toyota-1600gt-1967/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/toyota/corolla/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/toyota/corolla/cg-rt-toyota-corolla-levin-1600-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://example.org/toyota/corona-mark-ii/</loc>

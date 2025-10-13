@@ -15,5 +15,8 @@ title: "Mazda Stories"
 &nbsp; 
 <li><a href="/mazda/capella/">Mazda Capella</a></li>
 <li><a href="/mazda/cosmo-sport/">Mazda Cosmo Sport</a></li>
+<li><a href="/mazda/familia/">Mazda Familia</a></li>
+<l1><a href="/mazda/luce-rotary-coupe/">Mazda Luce Rotary Coupe</a></li><br>
+<l1><a href="/mazda/savanna/">Mazda Savanna</a></li>
 
 </ul>
