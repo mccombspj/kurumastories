@@ -59,7 +59,6 @@ draft = false
 
 
 
-<b>Summary:</b> Exceptionally smooth and powerful rotary engine, conversation possible while cruising at 160km/h, strong mid-range torque, easy to use in urban areas, excellent handling and ride comfort. Lots of nose dive during hard braking, early rear wheel lock, effective ventilation.
 
 
 

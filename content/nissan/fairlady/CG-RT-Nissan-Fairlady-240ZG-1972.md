@@ -3,7 +3,7 @@
 
 
 title = "Nissan Fairlady 240ZG (1972)"
-weight = 2
+weight = 3
 
 
 
@@ -34,7 +34,7 @@ draft = false
 <b><u>Road testing the Fairlady 240ZG</b></u>
 
 
-Since the Fairlady Z debuted in December 1969, C/G has tested various models from time to time. First, we did a full test of the DOHC 2-liter 160ps Z432 at Yatabe (C/G, February 1972), then we drove the race-spec 240Z (the SCCN team car Z432R equipped with a SOHC 2.4-liter engine tuned to 200+ps) at FISCO (C/G, June 1971), then, when the domestic 240Z was officially released, we tested the automatic model, which we had never tried before (C/G, January 1972). We also went to <!--more-->Yatabe to test the 240ZG with a five-speed gearbox for last month's issue, but unfortunately, the valve gear was damaged and we had to stop the test. So, early in the new year, we tried it again with a different 240ZG.
+Since the Fairlady Z debuted in December 1969, C/G has tested various models from time to time. First, we did a full test of the DOHC 2-liter 160ps Z432 at Yatabe (C/G, February 1972), then we drove the race-spec 240Z (the SCCN team car Z432R equipped with a SOHC 2.4-liter engine tuned to 200+ps) at FISCO (C/G, June 1971), then, when the domestic 240Z was officially released, we tested the automatic model, which we had never tried before (C/G, January 1972). We also went to Yatabe to test the 240ZG with a five-speed gearbox for last month's issue, but unfortunately, the valve gear was damaged and we had to stop the test. So, early in the new year, we tried it again with a different 240ZG.<!--more-->
 
 
 

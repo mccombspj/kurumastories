@@ -4,6 +4,7 @@
 
 title = "Nissan Bluebird U 2000GT-X Hardtop (1973)"
 
+weight = 2
 
 
 date = "2025-10-11T04:50:49-07:00"
@@ -37,15 +38,15 @@ draft = false
 
 
 
-Why they had to go to the trouble of extending the wheelbase to fit that big, sleepy L20 six-cylinder unit in there is beyond our understanding. This is our honest first impression after testing the Bluebird U 2000GT-X. As explained in detail in this month's new model introduction, this new Bluebird U GT is based on the body of the Bluebird U that was introduced in August 1971, with an extended nose just like the Skyline GT, and a six-cylinder engine crammed into the engine bay that was originally intended for a four-cylinder engine. 
+Why they had to go to the trouble of extending the wheelbase to fit that big, sleepy L20 six-cylinder unit in there is beyond our understanding. This is our honest first impression after testing the Bluebird U 2000GT-X. As explained in detail in this month's new model introduction, this new Bluebird U GT is based on the body of the Bluebird U that was introduced in August 1971, with an extended nose just like the Skyline GT, and a six-cylinder engine crammed into an engine bay originally intended for a four-cylinder engine. 
 
 
 
-Based on our experience of testing several 1.6-liter and 1.8-liter Bluebird Us, it didn't seem necessary to equip the car with a six-cylinder engine.  If there was a reason for this, it would be Nissan's usual commercial policy of using engines from high-end models that have already proven their worth in top-of-the-line compact cars (the Skyline and Laurel are good examples of this). But if they had come up with a similar Bluebird by banking on the popularity of the so-called "Sky G," it would have been a very easy, predictable, and extremely stale product plan. However, what was somewhat reassuring when I actually drove it was that it has a more balanced chassis than any L20-equipped car I have ever experienced. On the other hand, the driving performance was once again disappointing.
+Based on our experience of testing several 1.6-liter and 1.8-liter Bluebird Us, it didn't seem necessary to equip the car with a six-cylinder engine.  If there was a reason for this, it would be Nissan's usual commercial policy of using engines from high-end models that have already proven their worth in top-of-the-line compact cars (the Skyline and Laurel are good examples of this). But if their goal was to bank on the popularity of the so-called "Sky G" and come up with a similar Bluebird, it would have been a very easy, predictable, and extremely stale product plan. However, what was somewhat reassuring when we actually drove it was that it has a more balanced chassis than any L20-equipped car we have ever experienced. On the other hand, the power performance was once again disappointing.
 
 
 
-The model we tested was the hardtop 2000GT-X, which is the most expensive of the four Bluebird U GT models, with a Tokyo price of 1,028,500 yen. The wheels were fitted with optional 175/HR-14 radial tires (Bridgestone RD102 Wide 70s, in this case), the standard tires are 6.45S-14-4PR bias-ply, and the rim width is 4.5 inches for both.
+<!--more-->The model we tested was the hardtop 2000GT-X, which is the most expensive of the four Bluebird U GT models, with a Tokyo price of 1,028,500 yen. The wheels were fitted with optional 175/HR-14 radial tires (Bridgestone RD102 Wide 70s, in this case), the standard tires are 6.45S-14-4PR bias-ply, and the rim width is 4.5 inches for both.
 
 
 
