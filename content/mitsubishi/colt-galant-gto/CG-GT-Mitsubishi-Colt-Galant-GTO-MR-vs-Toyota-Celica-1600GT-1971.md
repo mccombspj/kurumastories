@@ -16,7 +16,7 @@ draft = false
 <b>Date:</b> April 1971<br>
 <b>Author:</b> "C/G Test Group" (uncredited)
 
-<b><u>Comparison test: Toyota Celica GT vs. Mitsubishi Galant GTO MR</b></u>
+<b><u>Comparison test: Mitsubishi Galant GTO MR vs. Toyota Celica 1600GT</b></u>
 
 Mitsubishi's Galant GTO MR and Toyota's Celica GT are very similar in both specifications and character, and are five-seater sports coupes that appeared at roughly the same time, targeting the same market. Both are equipped with 1.6-liter DOHC engines and 5-speed gearboxes, and there is almost no difference in terms of external dimensions or weight. Structurally, both cars are very orthodox, with a monocoque hardtop body based on the same chassis as mass-market sedans (the GTO is based on the Galant AI/AII, the Celica on the Carina). Both have a conventional layout with MacPherson strut front suspensions and rigid axles at the rear, but the suspension method is different; the GTO series is leaf-sprung, and only the most powerful MR model has a torque rod added, while the Celica is suspended by coil springs, with four longitudinal links and lateral location via a Panhard rod. 
 

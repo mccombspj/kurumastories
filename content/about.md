@@ -16,7 +16,7 @@ Welcome to Kuruma Stories. This site is dedicated to preserving and translating 
 
 
 
-It was not only the state of automotive design and technology that progressed at breakneck speed during this time. These technical developments were taking place in parallel with such fundamentals as the development of the country's road network, construction of the first racetracks and test facilities, entry into motorsports, crash courses in international marketing strategy, and the local emergence of car culture and private car ownership itself. In this feverish environment, nearly every new model represented one "first" or another for a domestically-produced car.
+It was not only the state of automotive design and technology that progressed at breakneck speed during this time. These technical developments were taking place in parallel with such fundamentals as the development of the country's highway network, construction of the first racetracks and test facilities, entry into motorsports, the formulation of international marketing and export strategies, and the local emergence of car culture and private car ownership itself. In this feverish environment, nearly every new model represented one "first" or another for a domestically-produced car.
 
 
 
