@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mazda Savanna on Kuruma Stories</title>
-    <link>http://example.org/mazda/savanna/</link>
+    <link>http://localhost:1313/mazda/savanna/</link>
     <description>Recent content in Mazda Savanna on Kuruma Stories</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Oct 2025 04:50:49 -0700</lastBuildDate>
-    <atom:link href="http://example.org/mazda/savanna/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mazda/savanna/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mazda Savanna GT (1972)</title>
-      <link>http://example.org/mazda/savanna/cg-ri-mazda-savanna-gt-1972/</link>
+      <link>http://localhost:1313/mazda/savanna/cg-ri-mazda-savanna-gt-1972/</link>
       <pubDate>Sat, 11 Oct 2025 04:50:49 -0700</pubDate>
-      <guid>http://example.org/mazda/savanna/cg-ri-mazda-savanna-gt-1972/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://example.org/images/CG-RI-Mazda-Savanna-GT-1972.jpg&#34; alt=&#34;Mazda Savanna GT&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Publication:&lt;/b&gt; Car Graphic&lt;br&gt;&#xA;&lt;b&gt;Format:&lt;/b&gt; Road Impressions&lt;br&gt;&#xA;&lt;b&gt;Date:&lt;/b&gt; December 1972&lt;br&gt;&#xA;&lt;b&gt;Author:&lt;/b&gt; &amp;ldquo;C/G Test Group&amp;rdquo; (uncredited)&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;&lt;u&gt;Road testing the Savanna GT&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mazda rotary cars are more highly regarded overseas than in Japan, especially in the United States, and export numbers are growing dramatically (recently exceeding 10,000 units per month for all models). The Savanna is called the RX-3 in overseas markets, but the US market version differs from the domestic model in that it is equipped with the 12A, 573cc x 2 rotary engine used in the Capella instead of the 10A, 491cc x 2 engine. The coupe released under the name Savanna GT as the most popular model in the Savanna series can be considered the domestic version of the export RX-3. Or, racing fans may find it easier to understand it as a production version of the works Savanna (naturally, 573cc x 2) that always puts up thrilling close battles in domestic touring car races, finally shaking up the status of the legendary GT-R.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/mazda/savanna/cg-ri-mazda-savanna-gt-1972/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/CG-RI-Mazda-Savanna-GT-1972.jpg&#34; alt=&#34;Mazda Savanna GT&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Publication:&lt;/b&gt; Car Graphic&lt;br&gt;&#xA;&lt;b&gt;Format:&lt;/b&gt; Road Impressions&lt;br&gt;&#xA;&lt;b&gt;Date:&lt;/b&gt; December 1972&lt;br&gt;&#xA;&lt;b&gt;Author:&lt;/b&gt; &amp;ldquo;C/G Test Group&amp;rdquo; (uncredited)&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;&lt;u&gt;Road testing the Savanna GT&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mazda rotary cars are more highly regarded overseas than in Japan, especially in the United States, and export numbers are growing dramatically (recently exceeding 10,000 units per month for all models). The Savanna is called the RX-3 in overseas markets, but the US market version differs from the domestic model in that it is equipped with the 12A, 573cc x 2 rotary engine used in the Capella instead of the 10A, 491cc x 2 engine. The coupe released under the name Savanna GT as the most popular model in the Savanna series can be considered the domestic version of the export RX-3. Or, racing fans may find it easier to understand it as a production version of the works Savanna (naturally, 573cc x 2) that always puts up thrilling close battles in domestic touring car races, finally shaking up the status of the legendary GT-R.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

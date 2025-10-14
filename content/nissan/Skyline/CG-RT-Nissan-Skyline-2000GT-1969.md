@@ -1,0 +1,173 @@
++++
+
+
+
+
+
+
+
+title = "Nissan Skyline 2000GT (1969)"
+
+
+weight = 20
+
+
+
+
+date = "2025-10-11T04:50:49-07:00"
+
+
+
+
+
+
+
+draft = false
+
+
+
+
+
+
+
++++
+
+
+
+
+
+
+
+![Nissan Skyline 2000GT](/images/CG-RT-Nissan-Skyline-2000GT-1969.jpg)
+
+
+
+
+
+
+
+<b>Publication:</b> Car Graphic<br>
+<b>Format:</b> Road Test<br>
+<b>Date:</b> January 1969<br>
+<b>Author:</b> "C/G Test Group" (uncredited)
+
+
+
+
+
+
+
+<b>Summary:</b> A high-speed five-seater sedan with all-independent suspension, six-cylinder engine, flexible but somewhat rough at high revs, lower gearing than previous model, excellent 4-speed gearbox, high level of handling and ride comfort, lighter controls, more practical than previous model.
+
+
+
+
+
+
+
+
+
+
+
+<!--more--><b><u>Road testing the Skyline 2000GT</b></u>
+
+
+
+
+
+
+
+
+
+
+
+The new Skyline 2000GT model, announced just before the last Tokyo Motor Show, is a practical, heavyweight sports sedan with a 2.0-liter six-cylinder engine, equivalent to the previous (S54) Skyline 2000GT-A. The engine and body are completely different from the previous model, and the new car is based on the new Skyline 1500. The body has a bonnet that has been extended by 195mm to accommodate the six-cylinder engine, and the wheelbase is necessarily 150mm longer, but in other respects it is basically the same as the Skyline 1500. However, the suspension is completely different. A major feature of this car is the adoption of a semi-trailing arm rear independent suspension, which is the same as that in the Bluebird and Laurel. 
+
+
+
+The old GT-A's engine was the Prince G4 type 1988cc six-cylinder with four bearings from the Gloria, but the new model is fitted with the Nissan L20 type 1988cc SOHC six-cylinder with seven bearings from the Cedric, with minor modifications. Those modifications include the compression ratio, which has been increased from 8.5 to 9.0, the camshaft, and bearing material (changed to F770 metal, which has excellent high-speed durability), but the carburetor remains a single two-barrel unit for practicality's sake, and the power and torque are 105ps/5200rpm and 16.0kgm/3600rpm, respectively. These figures are the same as the base Cedric (and, coincidentally, those of the old 2000GT-A), but in reality, they are said to be slightly higher.
+
+
+
+If a driver familiar with the old 2000GT-A were to drive the new 2000GT, he would surely feel that it was much more refined and more adult-oriented (or even feminine, depending on how you look at it). The forced incorporation of a 2.0-liter, six-cylinder engine gave the old GT-A an unbalanced appeal, and driving it required a certain level of technique, like controlling a wild horse. The new model, on the other hand, has been mellowed out overall, and rather than being a GT for young people, it can be said to have grown into a highly practical, high-performance utility vehicle. Roominess has become much more "civilized," and while the weight has increased by 35kg to 1,090kg, the power performance is as good as the old model, if not better. Top speed was 172.4km/h on average over the 1km straight section of the Yatabe test course, and 170.6km/h on average over the 5.5km circular course. 
+
+
+
+The most noticeable improvement was the acceleration performance, which now covers 0-400m in 17.6 seconds (compared to 18.5 seconds for the old GT-A). This improved acceleration performance was achieved by changing the gear ratios rather than by the new engine. Comparing the gear ratios of old and new models, the results are as follows: 2000GT, 3.549 / 2.197 / 1.420 / 1.000; 2000GT-A, 2.963 / 1.632 /1.000 / 0.762. The gearbox is the most greatly improved part of the new 2000GT. The old model's gearbox was effectively a 3-speed plus overdrive, and fourth gear could only be used when the car was traveling 60km/h or more on the highway. The irregular shift pattern of having to make a U-turn to shift from third to fourth gear was also unpopular, and the overdrive fourth gear had louder gear whine than the direct third gear. The new gearbox, on the other hand, has much closer gear ratios, the Borg-Warner type synchro is more powerful, and the shift feel is excellent, making it a big improvement in all respects.
+
+
+
+As you can see from the figures, the new gear ratios are generally higher than the old model, so it is more flexible and feels much easier to use, especially in town. The clutch force is much lighter and the engagement is very smooth. Moreover, even when released suddenly from high revolutions, as in the acceleration tests, there is little clutch slip and the car can start cleanly with only a little wheelspin. The only complaint I have about this excellent gearbox is that the spring pushing the lever towards the third and fourth plane is too strong, so if you unconsciously shift from first to second gear, the spring can push you into fourth gear. I don't think drivers who are interested in buying a 2000GT need this safety device, and even if they do, a weaker spring would be sufficient.
+
+
+
+The 2000GT's new Cedric-based six-cylinder SOHC engine cannot be given a very good score, at least based on the test car. Up to about 3500rpm, which is the usual speed in normal driving, it does not have the smoothness you would expect from a six-cylinder engine, and there is a vibration period around 4800-5000rpm. Also, when it exceeds 6000rpm, it starts to vibrate badly, and when it gets to around 6200-6300rpm, it feels like a governor is engaged and it refuses to rev any higher. At the same time, the needle on the rev counter swings widely, so this may be due to electrical reasons. The redline is from 6400rpm, but once it exceeds 6000rpm, the torque drops sharply and there is no point in increasing the revs any further.
+
+
+
+As mentioned above, the gear ratios of this car are generally shorter than those of the previous model, which makes the engine's poor performance at high revolutions all the more unfortunate. When comparing gearing, it is meaningless to simply compare the final drive ratio or the top gear ratio; one must take into account the effective diameter of the tires and compare the speed per 1000rpm in top gear. The old model's overdrive fourth gear gave 32.9km/h per 1000rpm, while the new model's direct fourth is only 28.9km/h per 1000rpm. Both have a top speed of 170km/h, but while the old model reaches this speed at 5200rpm, the new model must be revved up to 5900rpm, which is about 12% higher, and is significantly higher than its maximum output speed of 5200rpm. A gear ration of 28.9km/h per 1000rpm in top gear is reasonable for a 2-liter car, but it seems a little too low-geared for this six-cylinder engine, which does not like high revolutions. At least, the charm of quiet high-speed cruising with high gearing that the old GT-A offered is largely lost.
+
+
+
+Whether you want flexibility of acceleration in top gear (e.g., higher revs) or quiet high-speed cruising (lower revs) will depend on the gear ratio setting if the engine is the same. However, if you work a little more on the engine to make it easier to use at high speeds, then it is not a question of choosing between the two, but rather it seems possible to achieve both. Or, even if the engine remains the same, if you add an electromagnetically operated overdrive such as a Laycock de Normanville type on top of the 4-speed gearbox, high-speed cruising will be much quieter and more economical.
+
+
+
+The engine of the test car had a flat spot around 3500-4000rpm, giving it a bad habit of catching its breath for a moment while accelerating, and the mechanical noise was by no means low, becoming noticeable as soon as the car exceeded 100km/h (3400rpm). Hopefully this is a problem that only affects the test car.
+
+
+
+In fairness, the above-mentioned dissatisfaction only becomes apparent when you try to make the most of the car's performance by revving it up to high speeds. Within the intended range of use, the 2000GT is extremely smooth, powerful, and easy to use. Due to the large absolute torque value and smooth clutch engagement, you can quietly start from idle at about 700rpm without even touching the throttle. And on national highways at a speed of 60-80km/h (2000-2500rpm), you can enjoy peaceful cruising. The power of the torque in top gear is shown by the fact that time it takes to accelerate in 20km/h increments, from 20-40km/h all the way up to 100-110km/h, are all in the 5-second range. Shifting down to third gear reduces that time by another 1.5-2 seconds, and you can instantly overtake two large trucks with ease.
+
+
+
+The brakes are opposed piston type discs in the front and leading/trailing drums in the rear, with tandem master cylinders and servos, as is to be expected for such a high-speed vehicle. The pedal pressure is light and the braking effect is gradual and good, but for some reason the absolute stopping power is not very strong. When braking strongly in neutral from 50km/h, no matter how the pedal pressure was modulated, the braking force never exceeded 0.85g, and if the brakes were applied harder than that, the front wheels would simply lock up. 
+
+
+
+In a fade test in which 0.5g braking was applied ten times in succession at 1km intervals from 100km/h, the pedal pressure increased from 22kg on the first stop to 28kg on the last, so it can be said that the vehicle has good fade resistance for this level of braking. When the vehicle was brought to a halt by applying full brakes from a high speed of 160km/h, a tremendous amount of blue smoke and the smell of burning pads arose from the front wheels. However, even under such sudden braking, the vehicle's posture remained completely stable, and nose dive was well suppressed. The handbrake is located to the right of the gear lever, and in an emergency it alone provides a braking force of 0.3g (stopping in 28m from 50km/h). The constant grinding noise that is a common problem with discs is quite irritating.
+
+
+
+The 2000GT, equipped with all-independent suspension, offers significantly better handling and ride comfort than the previous 2000GT-A. The first time you get behind the wheel and take the first corner, you'll notice how light and smooth the steering is. This is in stark contrast to the old GT-A, which required a lot of steering effort, exhibited strong understeer, and required considerable strength when cornering regardless of speed. The new 2000GT's steering is unbelievably light by comparison, even when parking. The steering gear ratio has been slightly increased, from 18.5:1 to 19.8:1, and it takes 3.5 turns from lock-to-lock, so it can be a bit hectic in tight corners. The steering system is highly rigid with almost no play, and the higher the speed, the sharper the response. 
+
+
+
+On the first day of the test, we drove with the standard Dunlop Grand Speed GS1 6.45S-14 tires. At high speeds (100km/h) with the specified air pressure of 1.8kg/cm² front, 2.0kg/cm² rear, the front tires in particular squealed badly in corners and the understeer was too strong. Moreover, the rear wheels lost grip unexpectedly quickly and started to slide outward. So we increased the air pressure to 2.5 and 2.2kg/cm², and the steering response improved noticeably, and the steering balance became almost neutral. Since we are used to cars with strong understeer, when we drove this car on a winding road, we tended to turn the steering wheel too much at first, and often had to pull it back a little in the middle of the corner. However, once we got used to it, we were able to enjoy precise cornering by aiming close to the curb.
+
+
+
+From the second day of testing, optional 165SR-14 radials (Yokohama GT Special) were installed, and the high-speed testing at Yatabe was also run with radials, and the steering response was almost the same as that of the Dunlop GS1s with 2.5 and 2.2kg/cm² pressure. The straight-line stability was excellent, and I was able to let go of the wheel at 160km/h without any worries. I also tried slalom turns using full throttle while maintaining a speed of 120-140km/h, and was very impressed by how lightly such a heavy car (with a test weight over 1200kg) responded to the steering. 
+
+
+
+The ride is much softer than the 2000GT-A, but it is still firm by general standards. However, there is almost no pitching, and on good roads, the 2000GT glides smoothly. However, the suspension has very little compliance, so even the bias-ply Dunlop GS1 tire feels as rough as the Yokohama GT Special (which has a soft tread for a radial). The dampers are very strong (for example, compared to the Laurel, the damping force of the 2000GT's rear dampers is 110kg in rebound, 50kg in compression, while the Laurel is 50kg and 20kg, respectively), so it jolts quite a bit on rough roads. In return, it has a very strong ability to withstand rough roads, and the body feels extremely rigid. However, the plastic cover of the steering column and the dash of the test car made rude creaking noises. Although it is a very minor detail, it greatly spoils the impression of the car. 
+
+
+
+The interior is far more luxurious than that of the old 2000GT-A. In terms of dimensions, for example, the width of the car is 100m wider, and the comfort in the back seats has been improved dramatically, allowing five people to comfortably enjoy long trips. The driving position is very good, similar to the 2000GT-A. The size and shape of the reclining seats, with height-adjustable headrests, is good, and the backrests reach shoulder height, providing good lateral support for the body. The cushions have just the right amount of "give" and firmness, but if I were to be picky, I would say that they could be a little longer for more thigh support. The higher the leading edge, the better. 
+
+
+
+The steering wheel is close to the vertical plane and in a low position, in the Mercedes style, so your shoulders won't get tired even when driving long distances. However, the rim feels a little too thin. This is probably the designer's personal preference, but a rim that is too thin can tire your fingers. The three spokes have horn buttons embedded in them, so you can honk the horn while holding the steering wheel. The horn has a sharp tone similar to that of a Porsche. The pedal placement is suitable for heel-and-toe.
+
+
+
+The dashboard is covered with wood grain panels, giving it a luxurious feel. A large rev counter and speedometer are lined up in front of the driver, and between them are the water temperature and oil pressure gauges, which are the most important indicators for knowing the engine's condition. Unfortunately, the glass is reflective and the pointers are too thin to read at a glance. If the pointers were made red, it would be a great improvement.
+
+
+
+A console box connects the center of the dash to the transmission tunnel, and houses the fuel gauge, ammeter, the frequently used light and wiper switches, and the lighter and windshield washer buttons. The light switch is obviously too far away; you have to lean your body forward to reach it. As pointed out in the earlier Skyline 1500 test report, I would like to see the light switch return to a convenient stalk control on the steering colum, where it has been since the first Skyline. According to the manufacturer, the addition of a steering lock made it impossible to attach the light switch to the column, but shouldn't they be more concerned with the light switch, which is used dozens of times every day, than the fear of a one-in-a-million chance of theft?
+
+
+
+The car is equipped with a heater and ventilator, allowing you to achieve the ideal condition of keeping your feel warm while blowing cool air on your face. It is also possible to install an air conditioner, which is now common for practical cars in this class. It is good that there are various places to store luggage inside the car. Behind the center console, there is a fairly deep box that also serves as an armrest, and a handheld camera easily fits inside. The width and depth of the glovebox are both generous. Below that, there is a shelf where you can place a handbag, but items easily slide off when accelerating.
+
+
+
+No other figure varies as much with usage conditions as fuel economy, but generally speaking, the 2000GT seems to be slightly better than the old GT-A. Our fuel economy tests use a precision gauge made in the UK to record constant-speed fuel economy over a 1km section of Yatabe, and we use the same instrument to measure practical fuel economy on public roads. Even under the worst conditions in urban areas, it never fell below 5.5km/l, and we recorded 7.5km/l on a round trip from Tokyo to Yatabe. Anyone who drives this car will want to rev the engine to its full potential, so fuel economy will inevitably be poor, but the constant-speed fuel economy and test data show that if you drive it in a gentle manner, which is possible thanks to the powerful low-speed torque, it is surprisingly fuel-efficient. Even so, the 50-liter fuel tank is a little insufficient in capacity.
+
+
+
+As I wrote at the beginning of this report, the new 2000GT is superior in almost every way to the old model, a high-performance practical vehicle that is equally easy to drive around town and on the highway. Hot-blooded, hard-boiled enthusiasts may find it a little disappointing, but their hopes will be fulfilled by the soon-to-be-released DOHC, 160ps 2000GTC (?)
+

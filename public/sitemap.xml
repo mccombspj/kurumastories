@@ -2,131 +2,195 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/mazda/capella/cg-rt-mazda-capella-rotary-coupe-gs/</loc>
+    <loc>http://localhost:1313/nissan/fairlady/cg-rt-datsun-fairlady-2000-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/mazda/luce-rotary-coupe/cg-ri-mazda-luce-rotary-coupe-1969/</loc>
+    <loc>http://localhost:1313/mazda/capella/cg-rt-mazda-capella-rotary-coupe-gs/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/mitsubishi/colt-galant-gto/cg-ri-mitsubishi-colt-galant-gto-mii-1970/</loc>
+    <loc>http://localhost:1313/mazda/luce-rotary-coupe/cg-ri-mazda-luce-rotary-coupe-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/nissan/fairlady/cg-rt-nissan-fairlady-z432-1970/</loc>
+    <loc>http://localhost:1313/mitsubishi/colt-galant/cg-rt-mitsubishi-colt-galant-ai-custom-1970/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/nissan/fairlady/cg-rt-nissan-fairlady-240zg-1972/</loc>
+    <loc>http://localhost:1313/mitsubishi/colt-galant-fto/cg-gt-mitsubishi-colt-galant-fto-giii-vs-toyota-sprinter-sr-1972/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mitsubishi/colt-galant-gto/cg-ri-mitsubishi-colt-galant-gto-mii-1970/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mitsubishi/lancer/cg-rt-mitsubishi-lancer-1400sl-5-1973/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/bluebird/cg-gt-nissan-bluebird-u-1600-sss-e-vs-toyota-celica-gtv-1972/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/cherry/cg-rt-nissan-cherry-coupe-x-1-1971/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/fairlady/cg-rt-nissan-fairlady-z432-1970/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/laurel/cg-ri-nissan-laurel-hardtop-2000gx-2000sgx-1972/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/silvia/cg-rt-nissan-silvia-1965/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mazda/capella/cg-ri-mazda-capella-rotary-coupe-gs-ii/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mazda/luce-rotary-coupe/cg-rt-mazda-luce-hardtop-gs-ii/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mitsubishi/colt-galant/cg-rt-mitsubishi-colt-galant-aii-gs-1970/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mitsubishi/colt-galant-gto/cg-gt-mitsubishi-colt-galant-gto-mr-1971/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mitsubishi/lancer/cg-fomd-mitsubishi-lancer-1600gsr-1973/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/bluebird/cg-ri-nissan-bluebird-u-2000gt-x-1973/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/fairlady/cg-rt-nissan-fairlady-240zg-1972/</loc>
     <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/mazda/capella/cg-ri-mazda-capella-rotary-coupe-gs-ii/</loc>
+    <loc>http://localhost:1313/mitsubishi/colt-galant-gto/cg-rt-mitsubishi-colt-galant-gto-2000gsr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/mitsubishi/colt-galant-gto/cg-gt-mitsubishi-colt-galant-gto-mr-1971/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://example.org/nissan/fairlady/</loc>
+    <loc>http://localhost:1313/nissan/fairlady/</loc>
     <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/nissan/</loc>
+    <loc>http://localhost:1313/nissan/</loc>
     <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/honda/honda-1300/</loc>
+    <loc>http://localhost:1313/mitsubishi/colt-galant-fto/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/honda/honda-1300/cg-rt-honda-1300-coupe-9s-1970/</loc>
+    <loc>http://localhost:1313/mitsubishi/lancer/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/honda/</loc>
+    <loc>http://localhost:1313/honda/honda-1300/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/isuzu/117-coupe/</loc>
+    <loc>http://localhost:1313/honda/honda-1300/cg-rt-honda-1300-77-deluxe/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/isuzu/117-coupe/cg-rt-isuzu-117-coupe-1970/</loc>
+    <loc>http://localhost:1313/honda/honda-1300/cg-rt-honda-1300-coupe-9s-1970/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/isuzu/bellett/</loc>
+    <loc>http://localhost:1313/honda/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/isuzu/bellett/cg-rt-isuzu-bellett-1600gtr-1971/</loc>
+    <loc>http://localhost:1313/isuzu/117-coupe/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/isuzu/</loc>
+    <loc>http://localhost:1313/isuzu/117-coupe/cg-rt-isuzu-117-coupe-1970/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/mazda/capella/</loc>
+    <loc>http://localhost:1313/isuzu/bellett/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/mazda/cosmo-sport/</loc>
+    <loc>http://localhost:1313/isuzu/bellett/cg-rt-isuzu-bellett-1600gtr-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/mazda/cosmo-sport/cg-ri-mazda-cosmo-sport/</loc>
+    <loc>http://localhost:1313/isuzu/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/mazda/familia/</loc>
+    <loc>http://localhost:1313/mazda/capella/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/mazda/familia/cg-rt-mazda-familia-rotary-coupe-1968/</loc>
+    <loc>http://localhost:1313/mazda/cosmo-sport/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/mazda/luce-rotary-coupe/</loc>
+    <loc>http://localhost:1313/mazda/cosmo-sport/cg-ri-mazda-cosmo-sport/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/mazda/savanna/</loc>
+    <loc>http://localhost:1313/mazda/familia/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/mazda/savanna/cg-ri-mazda-savanna-gt-1972/</loc>
+    <loc>http://localhost:1313/mazda/familia/cg-rt-mazda-familia-rotary-coupe-1968/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/mazda/</loc>
+    <loc>http://localhost:1313/mazda/luce-rotary-coupe/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/mitsubishi/colt-galant-gto/</loc>
+    <loc>http://localhost:1313/mazda/savanna/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/mitsubishi/</loc>
+    <loc>http://localhost:1313/mazda/savanna/cg-ri-mazda-savanna-gt-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/nissan/bluebird/</loc>
+    <loc>http://localhost:1313/mazda/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/nissan/bluebird/cg-ri-nissan-bluebird-u-2000gt-x-1973/</loc>
+    <loc>http://localhost:1313/mitsubishi/colt-galant/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/nissan/skyline/</loc>
+    <loc>http://localhost:1313/mitsubishi/colt-galant-gto/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/nissan/skyline/my-first-post/</loc>
+    <loc>http://localhost:1313/mitsubishi/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
+    <loc>http://localhost:1313/nissan/bluebird/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/toyota/1600gt/</loc>
+    <loc>http://localhost:1313/nissan/cherry/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/toyota/1600gt/cg-rt-toyota-1600gt-1967/</loc>
+    <loc>http://localhost:1313/nissan/laurel/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/toyota/corolla/</loc>
+    <loc>http://localhost:1313/nissan/silvia/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/toyota/corolla/cg-rt-toyota-corolla-levin-1600-1972/</loc>
+    <loc>http://localhost:1313/nissan/skyline/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/toyota/corona-mark-ii/</loc>
+    <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/toyota/corona-mark-ii/cg-rt-toyota-corona-mark-ii-gss-1970/</loc>
+    <loc>http://localhost:1313/nissan/skyline/my-first-post/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/toyota/</loc>
+    <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://localhost:1313/toyota/1600gt/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://localhost:1313/toyota/1600gt/cg-rt-toyota-1600gt-1967/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/corolla/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/corolla/cg-rt-toyota-corolla-levin-1600-1972/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-rt-toyota-corona-mark-ii-gss-1970/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

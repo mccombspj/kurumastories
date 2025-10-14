@@ -11,5 +11,7 @@ title: "Nissan Stories"
   <li><a href="/nissan/laurel/">Nissan Laurel</a></li>
 <li><a href="/nissan/silvia/">Nissan Silvia</a></li>  
 <li><a href="/nissan/skyline/">Nissan Skyline</a></li>
+<li><a href="/nissan/sunny/">Nissan Sunny</a></li>
+<li><a href="/nissan/violet/">Nissan Violet</a></li>
 </ul>
 

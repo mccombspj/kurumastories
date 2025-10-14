@@ -1,6 +1,7 @@
 +++
 
 title = "Nissan Skyline 2000GT-R Hardtop (1971)"
+weight = 40
 
 date = "2025-10-11T04:50:49-07:00"
 
