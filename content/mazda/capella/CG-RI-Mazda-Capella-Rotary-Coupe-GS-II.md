@@ -41,7 +41,7 @@ Last March, the Mazda Capella underwent a minor change. Then, the "G series" was
 
 
 
-<i>C/G</i> purchased an early Capella Rotary as soon as the model was released in May 1970, and we used it for about 50,000km as long-distance, high-speed transportation until very recently. We have covered the details in our test report, but looking back now, in contrast to the car's extraordinary power performance, we repeatedly struggled to improve its extremely unrefined handling, attempting fixes such as widening the wheel rims, replacing the tires, strengthening the dampers, and even changing to a smaller-diameter steering wheel. 
+C/G purchased an early Capella Rotary as soon as the model was released in May 1970, and we used it for about 50,000km as long-distance, high-speed transportation until very recently. We have covered the details in our test report, but looking back now, in contrast to the car's extraordinary power performance, we repeatedly struggled to improve its extremely unrefined handling, attempting fixes such as widening the wheel rims, replacing the tires, strengthening the dampers, and even changing to a smaller-diameter steering wheel. 
 
 
 
@@ -61,7 +61,7 @@ The most obvious effect of all this is a reduction in understeer. Compared to th
 
 
 
-Considering the potential of the Capella's four-link rear suspension, the test car seemed to lose its grip on the road rather early, but half the blame for this lies with the tires. The Bridgestone Super Speed Radial 20 tires (165SR-13 size) that were fitted this time did not feel particularly stiff even at an air pressure of 2kg/cm², which is far above the manufacturer's recommendation. Their absolute value of adhesion was low, and the sidewall of the outer front tire tended to roll under in downhill corners, where it bears a large load. In <i>C/G's</i> experience, the Yokohama GT Special XX of the same size seems to offer superior maneuverability (although the ride is quite stiff, even with the standard GS suspension and 1.5kg/cm² pressure). The stiffened suspension itself did not seem to impair ride comfort as much as we feared, and was much softer than the <i>C/G</i> Capella with its rally front dampers and Michelin XAS radials, picking up pavement joints only a little. The body roll, which is still large, isn't too noticeable in the GS II, but at higher speeds a tendency remains for the car to yaw a little when settling after a bump. 
+Considering the potential of the Capella's four-link rear suspension, the test car seemed to lose its grip on the road rather early, but half the blame for this lies with the tires. The Bridgestone Super Speed Radial 20 tires (165SR-13 size) that were fitted this time did not feel particularly stiff even at an air pressure of 2kg/cm², which is far above the manufacturer's recommendation. Their absolute value of adhesion was low, and the sidewall of the outer front tire tended to roll under in downhill corners, where it bears a large load. In C/G's experience, the Yokohama GT Special XX of the same size seems to offer superior maneuverability (although the ride is quite stiff, even with the standard GS suspension and 1.5kg/cm² pressure). The stiffened suspension itself did not seem to impair ride comfort as much as we feared, and was much softer than the C/G Capella with its rally front dampers and Michelin XAS radials, picking up pavement joints only a little. The body roll, which is still large, isn't too noticeable in the GS II, but at higher speeds a tendency remains for the car to yaw a little when settling after a bump. 
 
 
 
@@ -69,7 +69,7 @@ The new gearbox, a 5-speed fully-synchronized gearbox that is exclusive to the G
 
 
 
-As part of the updates, the secondary jet of one of the four-barrel carburetors was enlarged, the automatic ignition advance was set wider, and the exhaust pipe was partially widened, giving the new engine an output of 125ps/7000rpm (the rev counter is marked yellow from 6500rpm and red from 7000) and 16.3kgm/4000rpm, which is slightly stronger than the previous 120ps/6500rpm and 16.0kgm/3500rpm. However, the top speed was measured at 181.8km/h in a flying kilometer and the acceleration time from 0-400m was 16.7 seconds. The <i>C/G</i> Capella that we tested previously, which was practically a new car at the time that had driven only 2,000km, easily recorded a top speed 187.5km/h and 0-400m in 16.8 seconds. 
+As part of the updates, the secondary jet of one of the four-barrel carburetors was enlarged, the automatic ignition advance was set wider, and the exhaust pipe was partially widened, giving the new engine an output of 125ps/7000rpm (the rev counter is marked yellow from 6500rpm and red from 7000) and 16.3kgm/4000rpm, which is slightly stronger than the previous 120ps/6500rpm and 16.0kgm/3500rpm. However, the top speed was measured at 181.8km/h in a flying kilometer and the acceleration time from 0-400m was 16.7 seconds. The C/G Capella that we tested previously, which was practically a new car at the time that had driven only 2,000km, easily recorded a top speed 187.5km/h and 0-400m in 16.8 seconds. 
 
 
 
@@ -93,5 +93,5 @@ There is nothing particularly noteworthy about the interior or exterior of the G
 
 
 
-Loaded with all these features, the Capella Rotary Coupe GS II is fully qualified to be at the higher-priced end of the Japanese market for this type of car, and although it has lost some of its once-ferocious punch, it is still unbeatable on the highway. As always, the fact that it combines its dynamic performance with the roominess and ride comfort of a practical car is commendable. It is <i>C/G</i>'s hope that in the future, a Capella that combines the GS II's improved chassis with the "REmatic" JATCO automatic transmission will become a reality, to take full advantage of this model's good points.  
+Loaded with all these features, the Capella Rotary Coupe GS II is fully qualified to be at the higher-priced end of the Japanese market for this type of car, and although it has lost some of its once-ferocious punch, it is still unbeatable on the highway. As always, the fact that it combines its dynamic performance with the roominess and ride comfort of a practical car is commendable. It is C/G's hope that in the future, a Capella that combines the GS II's improved chassis with the "REmatic" JATCO automatic transmission will become a reality, to take full advantage of this model's good points.  
 
