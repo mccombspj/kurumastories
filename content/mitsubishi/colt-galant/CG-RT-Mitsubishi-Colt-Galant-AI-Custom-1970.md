@@ -105,7 +105,7 @@ In the AI series of Galants, only the Sport model has disc brakes in front, whil
 
 
 
-The ride is comfortable on all road surfaces, considering the conventional suspension layout, and its tuning is close to ideal for a family car. It is soft, but even when going over wavy roads at high speeds, it doesn't bounce, and the suspension absorbs irregularities well and doesn't transmit them to the body. Road noise is also well muted, and should be fine even with radial tires. The car is weak when asked to tackle truly bad roads, however (fortunately, these are less common around Tokyo), and we once scraped the oil pan even though we weren't going very fast.
+The ride is comfortable on all road surfaces, considering the conventional suspension layout, and its tuning is close to ideal for a family car. It is soft, but even when going over wavy roads at high speeds, it doesn't bounce, and the suspension absorbs irregularities well and doesn't transmit them to the body. Road noise is also well muted, and we imagine it would remain acceptable even with radial tires. The car rides a bit low for tackling truly bad roads, however (fortunately, these are less common around Tokyo), and we once scraped the oil pan even though we weren't going very fast.
 
 
 
