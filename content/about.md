@@ -12,7 +12,7 @@ type: "page"
 
 
 
-Welcome to Kuruma Stories. This site is dedicated to preserving and translating stories from one of the most remarkable chapters in automotive history - the rise of the Japanese automotive industry in the early 1960s to early 1970s. In this short period, Japan's auto industry transformed from a latecomer striving to catch up to the world's established automakers to a global leader representing the world's second-largest car-building nation.
+Welcome to Kuruma Stories. This site is dedicated to preserving and translating stories from one of the most remarkable chapters in automotive history - the rise of the Japanese automotive industry in the 1960s to early 1970s. In this short period, Japan's auto industry transformed from a latecomer striving to catch up to the world's established automakers to a global leader representing the world's second-largest car-building nation.
 
 
 
@@ -40,5 +40,14 @@ The articles on this site are English translations of reviews and road tests ori
 
 
 
+<b>A note about copyrights</b>
+
+
+
+The intent of sharing the text and images on this site with the community is educational, archival, and non-commercial. The original works are out of print, untranslated, and not readily accessible to non-Japanese speakers. Any requests to remove content by the rights holders will be honored.
+
+
+
+---
 
 

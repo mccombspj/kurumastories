@@ -29,9 +29,6 @@
     <loc>http://localhost:1313/nissan/cherry/cg-rt-nissan-cherry-coupe-x-1-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nissan/fairlady/cg-rt-nissan-fairlady-z432-1970/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/laurel/cg-ri-nissan-laurel-hardtop-2000gx-2000sgx-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -60,6 +57,9 @@
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/bluebird/cg-ri-nissan-bluebird-u-2000gt-x-1973/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/fairlady/cg-rt-nissan-fairlady-z432-1970/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/fairlady/cg-rt-nissan-fairlady-240zg-1972/</loc>
