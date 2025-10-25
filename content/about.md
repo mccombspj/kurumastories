@@ -40,7 +40,7 @@ The articles on this site are English translations of reviews and road tests ori
 
 
 
-<b>A note about copyrights</b>
+<b>A note about copyright</b>
 
 
 
