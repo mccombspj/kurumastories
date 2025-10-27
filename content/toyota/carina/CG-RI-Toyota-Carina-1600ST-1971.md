@@ -137,7 +137,7 @@ Finally, regarding fuel economy, we drove a total of 301km (corrected for the od
 
 
 
-In conclusion, the Carina was the first Toyota car I have driven that captivated me more for its driving performance than for its high-quality appearance.
+In conclusion, the Carina was the first Toyota car I have driven that was more captivating for its driving performance than for its high-quality appearance.
 
 
 
