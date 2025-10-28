@@ -86,7 +86,7 @@ draft = false
 
 
 
-![Toyota Corona Mark II Hardtop GSS](/images/CG-RI-Toyota-Corona-Mark-II-Hardtop-GSS.jpg)
+![Toyota Corona Mark II Hardtop GSS](/images/CG-RI-Toyota-Corona-Mark-II-Hardtop-GSS-1972.jpg)
 
 
 
