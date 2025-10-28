@@ -20,16 +20,13 @@ draft = false
 
 
 
-!\[Honda 1300 Coupe 9S](/images/MF-DTD\_Honda-1300-Coupe-9S-1970.jpg)
+![Honda 1300 Coupe 9S](/images/MF-DTD-Honda-1300-Coupe-9S-1970.jpg)
 
 
 
 <b>Publication:</b> Motor Fan<br>
-
 <b>Format:</b> Dynamic Test Drive<br>
-
 <b>Date:</b> May 1970<br>
-
 <b>Author:</b> Shigeki Asaoka, Noriko Asaoka
 
 

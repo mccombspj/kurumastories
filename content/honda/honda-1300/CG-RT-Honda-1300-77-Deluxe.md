@@ -3,7 +3,7 @@
 
 
 title = "Honda 1300 77 Deluxe (1970)"
-
+weight = 10
 
 
 date = "2025-10-11T04:50:49-07:00"
