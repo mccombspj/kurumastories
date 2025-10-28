@@ -6,7 +6,7 @@ title = "Toyota Corona Mark II LG (1973)"
 weight = 50
 
 
-date = "2025-10-11T04:50:49-07:00"
+date = "2025-10-12T04:50:49-07:00"
 
 
 
@@ -35,7 +35,7 @@ draft = false
 
 
 
-Even the C/G staff sometimes just wants to relax and enjoy a cruise while listening to music. In this scenario, American cars are ideal, with spacious interiors, good quality seats, the comfort of air conditioning, quiet and powerful engines combined with automatic transmissions, and power-assisted steering that requires no mental or physical effort. If they also had good quality AM/FM radios, they would be perfect. Some of the only domestic cars that fit this criteria are the luxurious four-door sedans of the Laurel and Mark II series, and among these, the Corona Mark II LG Automatic is one of the best.
+Even the C/G staff sometimes just wants to relax and enjoy a cruise while listening to music. In this scenario, American cars are ideal, with spacious interiors, good quality seats, the comfort of air conditioning, quiet and powerful engines combined with automatic transmissions, and power-assisted steering that requires no mental or physical effort. If they also had good quality AM/FM radios, they would be perfect. Some of the only domestic cars that fit this criteria are the luxurious four-door sedans of the Laurel and Mark II series, and among these, the Corona Mark II LG Automatic is one of the best. 
 
 
 
