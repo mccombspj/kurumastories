@@ -68,6 +68,9 @@
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/cg-rt-mitsubishi-colt-galant-gto-2000gsr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-rt-toyota-corona-mark-ii-1900sl-hardtop-1968/</loc>
+    <lastmod>2025-10-12T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/isuzu/bellett/cg-ri-isuzu-bellett-1600gtr-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -80,8 +83,8 @@
     <loc>http://localhost:1313/toyota/celica/cg-ri-toyota-celica-1600gt-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-rt-toyota-corona-mark-ii-1900sl-hardtop-1968/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-rt-toyota-corona-mark-ii-gss-1970/</loc>
+    <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/bellett/cg-rt-isuzu-bellett-1600gtr-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
@@ -95,8 +98,8 @@
     <loc>http://localhost:1313/toyota/celica/cg-gt-toyota-celica-1600gt-vs-mitsubishi-colt-galant-gto-mr-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-rt-toyota-corona-mark-ii-gss-1970/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-ri-toyota-corona-mark-ii-gss-1972/</loc>
+    <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
@@ -104,19 +107,16 @@
     <loc>http://localhost:1313/toyota/celica/cg-gt-nissan-bluebird-u-1600-sss-e-vs-toyota-celica-gtv-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-ri-toyota-corona-mark-ii-gss-1972/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-ri-toyota-corona-mark-ii-gsl-efi-1973/</loc>
+    <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/my-first-post/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-ri-toyota-corona-mark-ii-gsl-efi-1973/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-fomd-toyota-corona-mark-ii-lg-1973/</loc>
+    <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/cg-ri-nissan-skyline-2000gt-x-hardtop-1972/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-fomd-toyota-corona-mark-ii-lg-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
@@ -126,6 +126,12 @@
     <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/</loc>
+    <lastmod>2025-10-12T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/</loc>
+    <lastmod>2025-10-12T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/</loc>
     <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -248,16 +254,10 @@
     <loc>http://localhost:1313/toyota/corolla/cg-rt-toyota-corolla-levin-1600-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/corona-mark-ii/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/toyota/crown/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/sprinter/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
