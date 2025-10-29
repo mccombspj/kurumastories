@@ -1,7 +1,7 @@
 +++
 
-title = "Toyota Celica 1600GT vs. Mitsubishi Colt Galant GTO MR (1970)"
-weight = 10
+title = "Mitsubishi Colt Galant GTO MR vs. Toyota Celica 1600GT (1970)"
+weight = 20
 
 date = "2025-10-29T04:50:49-07:00"
 
@@ -9,7 +9,7 @@ draft = false
 
 +++
 
-![Mitsubishi Colt Galant GTO MR](/images/MF-GT-Toyota-Celica-1600GT-vs-Mitsubishi-Galant-GTO-MR-1970.jpg)
+![Mitsubishi Colt Galant GTO MR vs Toyota Celica 1600GT](/images/MF-GT-Toyota-Celica-1600GT-vs-Mitsubishi-Galant-GTO-MR-1970.jpg)
 
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Group Test<br>

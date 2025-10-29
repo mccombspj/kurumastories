@@ -3,7 +3,7 @@
 
 
 title = "Mazda Cosmo Sport (1967)"
-weight = 10
+weight = 20
 
 
 date = "2025-10-11T04:50:49-07:00"

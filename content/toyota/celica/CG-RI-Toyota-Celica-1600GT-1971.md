@@ -16,7 +16,7 @@
 
 title = "Toyota Celica 1600GT (1971)"
 
-weight = 10
+weight = 20
 
 
 

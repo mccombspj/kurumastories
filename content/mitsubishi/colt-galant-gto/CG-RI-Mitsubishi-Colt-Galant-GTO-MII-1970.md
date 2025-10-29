@@ -3,7 +3,7 @@
 
 
 title = "Mitsubishi Colt Galant GTO MII (1970)"
-weight = 1
+weight = 10
 
 
 date = "2025-10-11T04:50:49-07:00"
