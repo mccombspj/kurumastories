@@ -69,7 +69,7 @@ However, why does it look slightly smaller than the familiar 1300 sedan? Perhaps
 
 
 
-As my curiosity grew, I opened the door. Once again, I thought, "Ah, I thought so," and settled into the seat. The steering wheel felt great in my hands. The size was just right for my tastes. I focused my eyes on the dashboard. "So this is what they call a 'flight cockpit..." It felt good. I looked forward, reached out, and assumed a driving position. The gauges were very easy to read. It was the kind of thoughtful touch that you would expect from Honda, a leader in the racing world.
+As my curiosity grew, I opened the door. Once again, I thought, "Ah, I thought so," and settled into the seat. The steering wheel felt great in my hands. The size was just right. I focused my eyes on the dashboard. "So this is what they call a 'flight cockpit..." I looked forward, reached out, and assumed a driving position. The gauges were very easy to read. It was the kind of thoughtful design that you would expect from Honda, a leader in the racing world.
 
 
 
@@ -85,7 +85,7 @@ Honda is also likely targeting a much younger demographic with this car.
 
 
 
-When I started racing as a woman, I was driving a Honda S600. Taking part in this test drive, I was able to drive a Honda car for the first time in a long time, and it brought back so much nostalgia that I felt shivers. The first thing I felt when I sat in the seat was that it was not at all different than the Honda I had when I was racing three or four years ago. I have a 20-year-old younger brother who has been praising this Honda Coupe 9 to no end, and seeing it in person, I can understand his sentiment very well. The exterior and interior styling seem to incorporate all the latest trends--major manufacturers like Toyota and Nissan would never be able to go this extreme and avant-garde. I strongly felt that Honda's design philosophy is still alive and well.
+When I started racing as a woman, I was driving a Honda S600. Taking part in this test drive, I was able to drive a Honda car for the first time in a long time, and it brought back so much nostalgia that I felt shivers. The first thing I felt when I sat in the seat was that it was not at all different than the Honda I had when I was racing three or four years ago. I have a "20-year-old younger brother" here who has been singing the praises of this Honda Coupe 9, and seeing it in person, I can understand his sentiment very well. The exterior and interior styling seem to incorporate all the latest trends--major manufacturers like Toyota and Nissan would never be able to go this extreme and avant-garde. I strongly felt that Honda's design philosophy is still alive and well.
 
 
 
@@ -93,11 +93,11 @@ When I started racing as a woman, I was driving a Honda S600. Taking part in thi
 
 
 
-There's no point sitting and admiring the interior forever. So I prepared to set off from Fuji Speedway. I turned the key and started the engine. "Hmm... is this definitely air-cooled?" I checked with my editor just to be sure, and he said it was. Considering that, it's quite quiet. I wouldn't go far as to say it's better than a regular water-cooled engine, but it's quiet enough that it's hard to believe it's air-cooled. They must have put a lot of effort into it. The editor added that it's an OHC system and I thought, "I thought so." It's a mechanism that is unique in the world. 
+There's no point sitting and admiring the interior forever. So I prepared to set off from Fuji Speedway. I turned the key and started the engine. "Hmm... is this definitely air-cooled?" I checked with my editor just to be sure, and he said it was. Considering that, it's quite quiet. I wouldn't go far as to say it's better than a regular water-cooled engine, but it's quiet enough that it's hard to believe it's air-cooled. They must have put a lot of effort into it. The editor added that it's an OHC system and I thought, "of course it is." It's a mechanism that is unique in the world. 
 
 
 
-Leaving Fuji, I turned onto a nearby dirt road. I didn't increase my speed too much, and started off at a regular driving pace. The seat felt great, just as it did when the car was stationary. The cushion fit my lower body perfectly, and it was very supportive, so even as I was moved up and down or swayed side-to-side, I didn't slide around. The padding wasn't particularly soft, but it wasn't particularly hard either. The seatback was quite narrow, but the area under my shoulders was nicely concave, giving me the feeling that it was hugging my entire back.
+Leaving Fuji, I turned onto a nearby dirt road. I didn't push my speed too much, and started off at a regular driving pace. The seat felt great, just as it did when the car was stationary. The cushion fit my lower body perfectly, and it was very supportive, so even as I was moved up and down or swayed side-to-side, I didn't slide around. The padding wasn't particularly soft, but it wasn't particularly hard either. The seatback was quite narrow, but the area under my shoulders was nicely concave, giving me the feeling that it was hugging my entire back.
 
 
 
@@ -105,7 +105,7 @@ In addition, visibility was excellent, again giving the same impression while dr
 
 
 
-Even without driving hard or at high speeds, you can tell that the shifting effort feels a little too light, but the engagement and disengagement are crisp and satisfying. It's the complete opposite of the squishy feel of the Porsche-type gearboxes, and while some people like this and others dislike it, it's perfect for my tastes. The "click-click" feeling gives you confidence. Here again, I strongly sensed the design influence of "young people's preferences."
+Even without driving hard or at high speeds, you can tell that the shifting effort is light, and the engagement and disengagement are crisp and satisfying. It's the complete opposite of the squishy feel of the Porsche-type gearboxes, and while some people like this and others dislike it, it's perfect for my tastes. The "click-click" feeling gives you confidence. Here again, I strongly sensed the design influence of "young people's preferences."
 
 
 

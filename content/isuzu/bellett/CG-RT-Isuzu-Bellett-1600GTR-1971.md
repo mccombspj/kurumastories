@@ -3,7 +3,7 @@
 
 
 title = "Isuzu Bellett 1600GTR (1971)"
-weight = 20
+weight = 30
 
 
 date = "2025-10-11T04:50:49-07:00"

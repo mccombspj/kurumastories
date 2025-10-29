@@ -4,7 +4,7 @@
 
 title = "Toyota Celica 1600GTV vs. Nissan Bluebird U 1600SSS-E (1972)"
 
-weight = 30
+weight = 40
 
 
 

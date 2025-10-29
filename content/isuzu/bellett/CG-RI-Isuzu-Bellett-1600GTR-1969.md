@@ -8,7 +8,7 @@
 
 title = "Isuzu Bellett 1600GTR (1969)"
 
-weight = 10
+weight = 20
 
 
 
