@@ -7,7 +7,7 @@
 
 
 title = "Toyota 2000GT (1967)"
-
+weight = 20
 
 
 
