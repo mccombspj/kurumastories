@@ -29,7 +29,7 @@ draft = false
 
 
 
-<b><u>Robert Durham's Test Run: Toyota 2000GT</b></u>
+<b><u>Robert Dunham's Test Run: Toyota 2000GT</b></u>
 
 The Toyota 2000GT will be making an appearance at the Japanese Grand Prix in May. Fitting these ambitions, it left an impression on me as Japan's first full-scale sports car.
 

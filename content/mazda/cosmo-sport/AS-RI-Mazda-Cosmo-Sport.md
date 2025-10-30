@@ -29,7 +29,7 @@ draft = false
 
 
 
-<b><u>Robert Durham's Test Run: Mazda Cosmo Sport</b></u>
+<b><u>Robert Dunham's Test Run: Mazda Cosmo Sport</b></u>
 
 "I drove the much-anticipated rotary engine car, the Mazda Cosmo." I'm still surprised to say these words. This is a test-drive report of the Mazda Cosmo, published for the first time. 
 
