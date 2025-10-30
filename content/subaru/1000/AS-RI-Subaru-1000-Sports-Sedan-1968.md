@@ -59,7 +59,7 @@ draft = false
 
 
 
-A powerful front-wheel drive car with a taste of international rally cars...that's what the Subaru 1000 Sports Sedan is all about. With 67 horsepower, disc brakes, and radial tires, the front-wheel drive mechanism made it a real force on rough roads and highways.
+A powerful front-wheel drive car with a taste of international rally cars... that's what the Subaru 1000 Sports Sedan is all about. With 67 horsepower, disc brakes, and radial tires, the front-wheel drive mechanism made it a real force on rough roads and highways.
 
 
 
