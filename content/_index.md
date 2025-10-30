@@ -14,5 +14,6 @@ title: "Welcome to Kuruma Stories"
   <li><a href="/mazda/">Mazda</a></li><br>
   <li><a href="/mitsubishi/">Mitsubishi</a></li><br>
   <li><a href="/nissan/">Nissan</a></li><br>
+  <li><a href="/subaru/">Subaru</a></li><br>
   <li><a href="/toyota/">Toyota</a></li><br>
 </ul>
