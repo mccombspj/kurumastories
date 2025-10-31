@@ -49,7 +49,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> August 1967<br>
-<b>Author:</b> Jiro Kono, Osamu Hirao, Kenji Higuchi, Akio Miyamoto, Yasuhei Koguchi, Taizo Tateishi, Kazaburo Ishikawa, Toshihide Hirata, Riichi Toyota, Motor Fan Editorial Staff (uncredited)
+<b>Authors (Roundtable):</b> Jiro Kono, Osamu Hirao, Kenji Higuchi, Akio Miyamoto, Yasuhei Koguchi, Taizo Tateishi, Kenzaburo Ishikawa, Toshihide Hirata, Riichi Toyota, Motor Fan Editorial Staff (uncredited)
 
 
 

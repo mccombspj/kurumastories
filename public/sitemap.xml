@@ -77,6 +77,9 @@
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/cg-ri-mitsubishi-colt-galant-gto-mii-1970/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/silvia/cg-rt-nissan-silvia-1965/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-1500-super-deluxe-1968/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -104,9 +107,6 @@
     <loc>http://localhost:1313/mazda/cosmo-sport/cg-ri-mazda-cosmo-sport/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nissan/silvia/cg-rt-nissan-silvia-1965/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gt-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -116,6 +116,9 @@
     <loc>http://localhost:1313/toyota/celica/cg-ri-toyota-celica-1600gt-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/isuzu/bellett/mf-rt-isuzu-bellett-1600gtr-1970/</loc>
+    <lastmod>2025-10-30T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mazda/cosmo-sport/as-rt-mazda-cosmo-sport/</loc>
     <lastmod>2025-10-28T04:50:49-07:00</lastmod>
   </url><url>
@@ -123,9 +126,6 @@
     <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/honda-1300/mf-dtd-honda-1300-coupe-9s-1970/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/isuzu/bellett/cg-rt-isuzu-bellett-1600gtr-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/cg-gt-mitsubishi-colt-galant-gto-mr-vs-toyota-celica-1600gt-1971/</loc>
@@ -146,6 +146,9 @@
     <loc>http://localhost:1313/toyota/corona-mark-ii/cg-ri-toyota-corona-mark-ii-gsl-efi-1973/</loc>
     <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/isuzu/bellett/cg-rt-isuzu-bellett-1600gtr-1971/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/cg-rt-mitsubishi-colt-galant-gto-2000gsr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -163,6 +166,12 @@
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/isuzu/bellett/</loc>
+    <lastmod>2025-10-30T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/isuzu/</loc>
+    <lastmod>2025-10-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/silvia/</loc>
     <lastmod>2025-10-30T04:50:49-07:00</lastmod>
@@ -202,12 +211,6 @@
   </url><url>
     <loc>http://localhost:1313/toyota/celica/</loc>
     <lastmod>2025-10-29T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/isuzu/bellett/</loc>
-    <lastmod>2025-10-28T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/isuzu/</loc>
-    <lastmod>2025-10-28T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/fairlady/</loc>
     <lastmod>2025-10-12T04:50:49-07:00</lastmod>
