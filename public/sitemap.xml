@@ -116,6 +116,9 @@
     <loc>http://localhost:1313/toyota/celica/cg-ri-toyota-celica-1600gt-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/skyline/as-ri-nissan-skyline-2000gtr-1969/</loc>
+    <lastmod>2025-11-01T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/isuzu/bellett/mf-rt-isuzu-bellett-1600gtr-1970/</loc>
     <lastmod>2025-10-30T04:50:49-07:00</lastmod>
   </url><url>
@@ -131,9 +134,6 @@
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/cg-gt-mitsubishi-colt-galant-gto-mr-vs-toyota-celica-1600gt-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1969/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/toyota/2000gt/cg-ri-toyota-2000gt01967/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -141,7 +141,7 @@
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/honda-1300/mf-rt-honda-1300-coupe-9s-1970/</loc>
-    <lastmod>2025-10-31T04:50:49-07:00</lastmod>
+    <lastmod>2025-10-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/2000gt/mf-rt-toyota-2000gt-1967/</loc>
     <lastmod>2025-10-30T04:50:49-07:00</lastmod>
@@ -155,7 +155,7 @@
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/cg-rt-mitsubishi-colt-galant-gto-2000gsr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nissan/skyline/my-first-post/</loc>
+    <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/celica/cg-gt-nissan-bluebird-u-1600-sss-e-vs-toyota-celica-gtv-1972/</loc>
@@ -164,20 +164,29 @@
     <loc>http://localhost:1313/toyota/corona-mark-ii/cg-fomd-toyota-corona-mark-ii-lg-1973/</loc>
     <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/skyline/my-first-post/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/skyline/cg-ri-nissan-skyline-2000gt-x-hardtop-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/honda/honda-1300/</loc>
-    <lastmod>2025-10-31T04:50:49-07:00</lastmod>
+    <loc>http://localhost:1313/nissan/skyline/</loc>
+    <lastmod>2025-11-01T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/honda/</loc>
-    <lastmod>2025-10-31T04:50:49-07:00</lastmod>
+    <loc>http://localhost:1313/nissan/</loc>
+    <lastmod>2025-11-01T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-31T04:50:49-07:00</lastmod>
+    <lastmod>2025-11-01T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/honda/honda-1300/</loc>
+    <lastmod>2025-10-30T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/honda/</loc>
+    <lastmod>2025-10-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/bellett/</loc>
     <lastmod>2025-10-30T04:50:49-07:00</lastmod>
@@ -186,9 +195,6 @@
     <lastmod>2025-10-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/silvia/</loc>
-    <lastmod>2025-10-30T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/</loc>
     <lastmod>2025-10-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/subaru/1000/</loc>
@@ -267,9 +273,6 @@
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/laurel/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/skyline/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/sunny/</loc>
