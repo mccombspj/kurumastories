@@ -18,7 +18,7 @@ type: "page"
   </p>
   <p>
     <label>Your Message:<br>
-      <textarea name="message" rows="5" required></textarea>
+      <textarea name="message" rows="8" style="width:100%; max-width:800px;" required></textarea>
     </label>
   </p>
   <p>

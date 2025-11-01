@@ -25,7 +25,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> March 1970<br>
-<b>Authors (Roundtable):</b> Yozo Shimizu, Osamu Hirao, Ichiro Oka, Ren Ueda, Mineo Yamamoto, Hiroshi Toishi, Hiroshi Hoshijima, Hiroshi Okazaki, Kiyoshi Suzuki, Akio Miyamoto, Kunitaka Furitani, Masahide Sano, Katsuji Takanami, Taizo Tateishi, Atsushi Watari, Ichiro Kanaju, Kenji Higuchi, Kazaburo Ishikawa, Zo Doi, Ken Noguchi, Toshihide Hirata, Motor Fan Editorial Staff (uncredited)
+<b>Authors (Roundtable):</b> Yozo Shimizu, Osamu Hirao, Ichiro Oka, Ren Ueda, Mineo Yamamoto, Hiroshi Toishi, Hiroshi Hoshijima, Hiroshi Okazaki, Kiyoshi Suzuki, Akio Miyamoto, Kunitaka Furitani, Masahide Sano, Katsuji Takanami, Taizo Tateishi, Atsushi Watari, Ichiro Kanaju, Kenji Higuchi, Kazaburo Ishikawa, Zo Doi, Ken Noguchi, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
 
 
 
@@ -207,7 +207,7 @@ On the way back, Furutani was driving, and it seemed that the hardest part was w
 
 <b>Magazine:</b> Next, let's take a look at the measurements by the Higuchi Laboratory. 
 
-<b>Otoda:</b> The overall width has hardly changed compared to the Bellett 1500, but the front tread is now 1255mm, which is slightly wider than the previous model. The radial tires are 165x13, which is a big change in the numbers, but other than that, besides the divided front bumper, the small decorations, and the accents that make it recognizable as a GTR, the dimensions are basically the same. The most notable change in the interior dimensions is that the headrest is integrated, so the seatback height is a very high 770mm. The pedal arrangement hasn't changed much from the previous model, but one thing that remains notable is that is that while the clutch pedal in most cars straddles the steering shaft, the Bellett's pedals are all together to the right of the steering shaft, and the shaft is shifted to the left. 
+<b>Onda:</b> The overall width has hardly changed compared to the Bellett 1500, but the front tread is now 1255mm, which is slightly wider than the previous model. The radial tires are 165x13, which is a big change in the numbers, but other than that, besides the divided front bumper, the small decorations, and the accents that make it recognizable as a GTR, the dimensions are basically the same. The most notable change in the interior dimensions is that the headrest is integrated, so the seatback height is a very high 770mm. The pedal arrangement hasn't changed much from the previous model, but one thing that remains notable is that is that while the clutch pedal in most cars straddles the steering shaft, the Bellett's pedals are all together to the right of the steering shaft, and the shaft is shifted to the left. 
 
 <b>Yamamoto:</b> One thing I wish they would fix is the angle of the left footrest.
 
