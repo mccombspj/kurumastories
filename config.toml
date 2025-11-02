@@ -21,6 +21,6 @@ theme = "ananke"
     url = "/contact/"
     weight = 20
 
-
-
+[params]
+customCSSFiles = ["css/custom.css"]
 

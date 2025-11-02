@@ -1,0 +1,49 @@
+/* =========================
+   ARTICLE CARD IMAGE SIZING
+   ========================= */
+div.w-100.mb4.nested-copy-line-height {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+div.w-100.mb4.nested-copy-line-height img {
+    width: 100%;
+    height: 250px; /* Slightly taller than before */
+    object-fit: cover;
+    display: block;
+}
+
+/* =========================
+   ARTICLE CARD TEXT HEIGHT
+   ========================= */
+/* Only apply to nested-links inside article cards */
+div.w-100.mb4.nested-copy-line-height div.nested-links {
+    display: -webkit-box;
+    -webkit-line-clamp: 9;  /* Number of lines to display */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.4em;      /* Matches the site default */
+    margin-bottom: 0.5em;    /* Adds spacing before "read more" button */
+}
+
+/* =========================
+   "READ MORE" BUTTON
+   ========================= */
+a.ba.b--moon-gray.bg-light-gray.br2.color-inherit.dib.f7.hover-bg-moon-gray.link.mt2.ph2.pv1 {
+    display: inline-block;  /* Prevents button from stretching */
+    width: auto !important;
+    text-align: center;
+}
+
+/* =========================
+   CARD BACKGROUND AND PADDING
+   ========================= */
+div.mb3.pa4.gray.overflow-hidden.bg-white {
+    padding: 1.5rem;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    box-shadow: 0 0 4px rgba(0,0,0,0.05);
+    margin-bottom: 1.5rem;
+}

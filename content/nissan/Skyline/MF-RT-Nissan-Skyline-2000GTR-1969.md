@@ -3,7 +3,7 @@
 title = "Nissan Skyline 2000GT-R (1969)"
 weight = 50
 
-date = "2025-10-11T04:50:49-07:00"
+date = "2025-11-01T04:50:49-07:00"
 
 draft = false
 

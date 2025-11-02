@@ -1,0 +1,35 @@
+/* === Article Card Image Grid Fix (for Ananke custom layout) === */
+
+/* Target images inside the article-listing cards */
+.w-30-l img,
+.w-100 img {
+    width: 100%;              /* Fill the card horizontally */
+    height: 200px;            /* Fixed height for all card images */
+    object-fit: contain;      /* Keep aspect ratio, no cropping */
+    display: block;           /* Remove inline spacing */
+    background-color: #f8f8f8; /* (optional) light background for consistency */
+    padding: 0.25rem;         /* (optional) small breathing room */
+}
+
+/* Make each card align consistently */
+.w-30-l,
+.w-100 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+}
+
+/* Add spacing between cards */
+.w-30-l.mb4,
+.w-100.mb4 {
+    margin-bottom: 2rem;
+}
+
+/* Don't affect full-article lead images */
+.single img {
+    height: auto !important;
+    object-fit: none !important;
+    padding: 0 !important;
+}

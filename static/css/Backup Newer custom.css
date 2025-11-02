@@ -1,0 +1,49 @@
+/* === Custom CSS for Kuruma Stories === */
+
+/* ---------------------------- */
+/* 1. Article Cards on Listing Pages */
+/* ---------------------------- */
+
+/* Only affect images inside article cards on listing pages */
+.list article img,
+section article img,
+article.bb img {
+    width: 100%;            /* Fill card horizontally */
+    height: 200px;          /* Fixed visual height */
+    object-fit: contain;    /* Keep aspect ratio, no cropping */
+    display: block;
+    background-color: #f8f8f8; /* Optional subtle background for transparent images */
+}
+
+/* Make the cards the same height if text length varies */
+.list article,
+section article,
+article.bb {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 2rem; /* spacing between cards */
+}
+
+/* ---------------------------- */
+/* 2. Main Article Images */
+/* ---------------------------- */
+
+/* Only affect images inside a single article page */
+.single article img {
+    width: 100%;           /* Fill the content width */
+    height: auto;          /* Keep natural image height */
+    max-width: 1200px;     /* Optional: limit very large images */
+    display: block;
+    margin: 0 auto;        /* Center images */
+}
+
+/* ---------------------------- */
+/* 3. Optional Visual Testing */
+/* ---------------------------- */
+/* Remove after confirming layout works */
+/*
+.list article img {
+    border: 2px solid red;
+}
+*/
