@@ -15,7 +15,7 @@
 
 
 title = "Toyota Carina 1600GT (1971)"
-weight = 20
+weight = 30
 
 
 
