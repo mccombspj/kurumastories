@@ -9,11 +9,9 @@ div.w-100.mb4.nested-copy-line-height {
 
 div.w-100.mb4.nested-copy-line-height img {
     width: 100%;
-    height: 250px; /* Fixed height for uniform cards */
-    object-fit: contain; /* Preserve aspect ratio (no cropping) */
-    object-position: center; /* Center image vertically & horizontally */
+    height: 250px; /* Slightly taller than before */
+    object-fit: cover;
     display: block;
-    background-color: #f8f8f8; /* Optional subtle border fill for wide/narrow images */
 }
 
 /* =========================

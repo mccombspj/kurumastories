@@ -3,7 +3,7 @@
 
 
 title = "Toyota Corona Mark II Hardtop GSL (1973)"
-weight = 40
+weight = 50
 
 
 date = "2025-10-12T04:50:49-07:00"
