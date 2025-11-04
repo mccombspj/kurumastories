@@ -225,7 +225,7 @@ To tell the truth, the reason we jacked the car up was because there was an unpl
 
 <b><u>Gentle Exhaust Sound</b></u>
 
-I noticed that the interior noise level was rather loud when driving on the Yatabe test course, but less so on the Meishin Expressway. Looking back, I think it was because we were using BS racing tires at Yatabe. It was probably tread pattern noise that unique to the racing tires.
+I noticed that the interior noise level was rather loud when driving on the Yatabe test course, but less so on the Meishin Expressway. Looking back, I think it was because we were using BS racing tires at Yatabe. It was probably tread pattern noise unique to the racing tires.
 
 When the windows are opened only a little, or even if they are completely closed, there is a fair bit of wind noise right by your ears, and the exhaust note is of course louder than that of a sedan, but it's still pretty tame by sports car standards.
 

@@ -1,0 +1,149 @@
++++
+
+
+
+title = "Nissan Bluebird 1600SSS vs Toyota 1600GT (1967)"
+weight = 10
+
+
+date = "2025-11-03T04:50:49-07:00"
+
+
+
+draft = false
+
+
+
++++
+
+
+
+![Toyota 1600GT](/images/AS-GT-Nissan-Bluebird-1600SSS-vs-Toyota-1600GT-1967.jpg)
+
+
+
+<b>Publication:</b> Auto Sport<br>
+<b>Format:</b> Auto Sport Test<br>
+<b>Date:</b> October 1967<br>
+<b>Author:</b> Auto Sport Editorial Staff (uncredited)
+
+
+
+
+Two domestic sports cars of the same class have been released at the same time. One is the Bluebird 1600SSS, and the other is the Toyota 1600GT. We immediately assembled both cars to conduct an Auto Sport test. So, which one came out on top?
+
+<b><u>Built With the Experience of International Rallies: Bluebird SSS Reborn</b></u>
+
+Unlike the Toyota 1600GT, the Bluebird SSS was not developed through competition in domestic races. However, Nissan has had plenty of experience competing in international rallies. This has resulted in the development of an OHC 1595cc (82mm x 73mm) engine and a car that boasts outstanding driving stability thanks to its all-wheel independent suspension.
+
+The new Bluebird, although still called a Bluebird, is a completely different car from its predecessor. Its design is all-new and it has no discernable relationship to the previous model. 
+
+The design trends established during the high-speed era of being wider, longer, and lower have been fully incorporated into the body, and the exterior dimensions have become much larger. The tread width has increased, and the interior feels much more spacious due to the use of curved glass. Notably, the front seats have an increased sliding range of 160mm, and of course, they are separate, with reclining backrests.
+
+The steering wheel is a wooden-rim "cone" type, and the shift knob is also made of wood. The dashboard is finished all in black. Directly in front of the driver are a speedometer (scaled up to 180km/h) and a tachometer (up to 8000rpm). The tachometer has a yellow zone from 6500rpm to 7000rpm and a red zone beyond that. Inside the speedometer is an oil pressure gauge.
+
+The instrument panel also has a large clock which is useful for checking times at a glance during rallies. However, it is unfortunate that there is no second hand. Speaking of the usability of the car, there are horn buttons located in the three spokes of the cone-type steering wheel. This allows you to sound the horn with your fingertips without taking your hands off the steering wheel. We think this is essential for reducing the risk of accidents.
+
+The absence of a triangular front window gives the SSS a wide field of view and a spacious atmosphere, something it shares with the standard model, and the only external differences are the front grille, racing-style front fender mirrors, and the SSS emblem with a checkered flag on the rear quarter panels and tail. 
+
+<b><u>Incredible Flexibility</b></u>
+
+The metallic gray test car was brought out to us directly from a storage room. It was brand new and had hardly been driven, with only 300km on the odometer. However, when we drove it on public roads from the city center to the test course in Higashimurayama, it quickly demonstrated surprising flexibility.
+
+It has a flat torque curve from around 2500rpm to 5000rpm, and produces more than 12kgm of torque over a wide range, from 1800rpm to 4600rpm. The maximum torque is 13.5kgm at 4000rpm.
+
+The maximum power of 100ps is generated at 6000rpm, and the top speed of 165km/h is achieved in fourth gear at 6000rpm.
+
+The above data is calculated based on the engine's performance curve, but during actual driving, it was faithfully reflected in both the feeling and the numbers on the tachometer and speedometer. In fact, rather than being faithful to the calculated data, it demonstrated performance that seemed to exceed it.
+
+Of course, the OHC engine has a higher rotation limit than the OHV unit in the original SSS, but the throttle is surprisingly effective even in top gear, and once vehicle speed exceeds 40km/h, it accelerates smoothly with linear reaponse to the accelerator pedal. When the speed exceeds 60km/h, the response when opening and closing the throttle becomes extremely sharp. This is the result of the flat torque and spare power.
+
+The transmission is a traditional Porsche-type (fully synchronized), and combined with the wooden shift knob, it is extremely smooth-shifting. The synchro is powerful, so even beginners will not experience any noise changing gears. However, some people find the shifting too "floppy" and "soft." Some also say that first gear is too low. Structurally, the transmission is exactly the same as the previous Porsche type, but this time some measures have been taken to prevent the shift lever from seizing, which may be why it feels even softer than before. However, this is a matter of preference. 
+
+The gear ratios are 3.657 for first gear, 2.177 for second, 1.419 for third, and 1.000 for fourth, with a final drive ratio of 3.90. An option is available for even higher speeds, and although the top gear is the same 1.000, the other ratios are 3.382 for first gear, 2.013 for second, and 1.312 for third, with a final drive ratio of 3.70, making it a closer ratio gearbox. 
+
+For reference, the speeds in each gear at the 6000rpm power peak are 45km/h in first gear, 76km/h in second, 118km/h in third, and 167km/h in top.
+
+<b><u>Extraordinary Road Adhesion</b></u>
+
+Response to the steering is quite sharp. The SSS shows a moderate tendency to understeer, and there is a good sense of return force in the steering wheel's return to center motion. In any case, the steering has improved significantly compared to the previous model.
+
+Accelerating in a circle on the 15m radius skid pad, the Auto Sport test team was surprised. The Bluebird SSS is the first car that has been able been able to exceed 70km/h in this test, and is the fastest car we have recorded on the skid pad. This is due to the new suspension mechanism and the fact that the front and rear wheels have unusually good road grip. Certainly, at 70km/h, the outside front tire was rolled under and wheel disc was about to stirke the road surface, and the nside rear wheel was already spinning and smoking furiously. But the tires did not start to slide. When we were about to reach 50km/h, we felt the steering wheel start to "catch" on the inside with a binding feeling, and it became hard to turn.
+
+This cornering performance seems to be due to the new rear suspension in particular. It is a newly designed semi-trailing independent type, and its mechanism absorbs not only vertical motions but also lateral centrifugal force, which is thought to be what gave the car such excellent adhesion. 
+
+This proved to be counterproductive in the slalom test, in which we set up pylons at 10m intervals over a 100m distance. In such a sharp slalom, it is impossible to improve the best time without a certain amount of power sliding, which we could not achieve in the SSS. Instead, with this sort of adhesion, it is necessary to turn the wheel sharply and then wind it back the other way as quickly as possible. The steering gear ratio is 15.0:1. As such, it should feel pretty sharp, but even so we had a lot of trouble with the slalom.
+
+The 0-400m acceleration time of 17.7 seconds was rather surprising considering that it was a car that had not been run in yet. When passing the 400m mark, the car was in third gear and just over 6000rpm, but the SSS' engine was still pulling at full strength, and the speedometer was pointing to 130km/h. 
+
+As mentioned earlier, the new Bluebird was released as an all-new model, and one contrast with the previous SSS is in the planning of the engine compartment. The old model had a small engine bay, so it felt like the 1600cc engine had been forced into it. The new Bluebird SSS' engine bay is very spacious, making it easy to work on the engine, which is convenient, and what's more, it includes a service light, so the engine can be adjusted at night.
+
+There is still plenty of room for tuning. To make the understeer tendency occur more smoothly, the springs can be strengthened, and the car height can be modified to adjust the camber angle.
+
+After Nissan releases the Sunny sports kit, which is expected soon, one for the Bluebird SSS should also become available in due course. The Bluebird is extremely versatile and true to its character, and will be useful for races, rallies, and even country touring on public roads.
+
+<b><u>A Feminine Appearance Hides a Tiger's Power: Toyota 1600GT, the Phantom Racing Corona</b></u>
+
+It has been a year and a half since a prototype Corona equipped with a racing engine, the "RTX," made its first appearance on the circuit, in March 1966. This was a full month before last year's Japanese Grand Prix, making its debut at a Clubman race at Fuji Speedway.
+
+With this kind of background, even if you aren't a motorsports fan, it's hard not to have high expectations for this "phantom racing Corona." It looks much like any other Corona hardtop from the outside, but the mechanism underneath includes a high-performance DOHC engine, which you can tell from the powerful engine sound, and a five-speed gearbox.
+
+However, the year ended with nothing but dreams, as domestic races continued to be dominated by cars such as the Skyline 2000GT, Bluebird SSS, and Bellett GT, and the somewhat feminine Corona 1600S did not make much of an impact in races.
+
+It was in July of this year that the RTX, which had been absent for a long time, finally took part in an endurance race. Toyota's factory team entered two RTXs in the 12-hour race at Suzuka. This surprised the Nissan team, which was participating in an endurance race for the first time since it had been announced as something of a dream for the company. Moreover, this time, the RTX was no longer a hastily-finished prototype, but had an engine that was finished to look exactly like that of the Toyota 2000GT. On the side was decorative lettering that read, "Toyota 1600GT." With two cars taking part in the race side-by-side, it made a different impression than when the Corona 1600S had suddenly evolved into the RTX the year before.
+
+The development of the racing 1600GT was pursued through actual competition, including the fight for the endurance race speed record at Suzuka. The lessons gained during from that experience is reflected in the production 1600GT as well. In addition, although it only participated in two races, the 1600GT was developed in parallel with, and with thorough study of, the development of the 2000GT. 
+
+In particular, there seems to have been close cooperation between the two development teams in the creation of the DOHC engine. In fact, it is said that the development of the 1600GT's four-cylinder DOHC engine began before the 2000GT's six-cylinder DOHC engine. Therefore, this engine could be considered as one of the milestones that led to the completion of the 2000GT's engine.
+
+Since then, the Toyota 2000GT has been released on the market as a high-end model even by international standards, but the price of over 2.3 million yen is too expensive for the "young age" of affluence in Japan. This gap was predicted from the very beginning, and the 1600GT project was intended to close it. The Toyota 2000GT and 1600GT are related not only in name, but in reality as well.
+
+<b><u>A Tiger With the Face of a Cat</b></u>
+
+The Toyota 1600GT is a car that combines the sporty mood of the Corona Hardtop with the high performance of the Toyota 2000GT. The feeling is psychologically different when this performance is delivered in a sedan body, which could be that of a simple passenger car, and it evokes the specialized atmosphere of the Alfa Romeo 1600GT or Lotus Cortina.
+
+The problem was to bring to market a car that had high performance and was relatively inexpensive, and would appeal to those who would have had previously only been able to find a car like this from foreign manufacturers.
+
+There are also buyers who have wanted to buy a two-seater sports car, but whose family circumstances did not allow it, and the 1600GT aims to appeal to them as well.
+
+The adoption of a DOHC engine was a brilliant way to create a specialty GT car using the body of the Corona Hardtop, which is already so common on the streets that it is hard to notice. However, this appeal may be a hidden pleasure for the owner. The only things that distinguish the body from the original hardtop, with its feminine feel, are the vents on the side fenders, the inverted triangular edging on the front grille, and the stripped rear trim panel.
+
+One thing that does stand out is the racing mirrors, which are shared with the 2000GT, protruding from both front fenders, but hardly anyone noticed these while we were driving down the street. This perhaps explains the appeal of the "wolf in sheep's clothing" concept. Perhaps a car with a cat's face is a better fit for the 1600GT after all. It may look like nothing but a Corona Hardtop at first glance, but once you step on the accelerator, it instantly transforms and shows its true power as a 1600GT. 
+
+Also, while the body is a Corona Hardtop, once you step inside the interior, you'll be surprised at how different the atmosphere is. The front seats are the same full-fledged reclining sport seats as in the 2000GT, and the moderate stiffness and bolstering give you a driving position you wouldn't expect on a mass-market model. The speedometer reads to 200km/h, and the tachometer's red zone begins at 7000rpm. The steering wheel is made of resin so intricately textured that it fools you into thinking it is made of wood, and inside it is a sports-type padded horn button reminiscent of a Mustang. A short floor shift lever protrudes from the console, giving it a feel similar to the 2000GT. 
+
+The interior is finished in all black with red detailing, creating a sporting mood, and the rear seatbacks can be folded down, giving it a strong 2+2 image. The yellow exterior paint of this example, in particular, was a perfect match for the masculine interior.
+
+<b><u>The Scent of High Performance</b></u>
+
+When we opened the hood, the DOHC head cover was splattered with spilled engine oil, which was anything but elegant. It smelled of high performance, like a Lotus Cortina or Alfa Romeo. 
+
+This engine is called the 9R, and is manufactured by Yamaha. Its displacement is the same as the Corona 1600S, but it has a new 45mm intake inlet, a cross-flow aluminum head, and two chain-driven camshafts. The two carburetors are twin-choke Mikuni Solex rather than SU types. The exhaust is a single pipe that is sintered to avoid exhaust interference, and it exits through two outlets at the rear of the car, producing a fairly powerful exhaust note. The compression ratio has been increased from 9.0 on the 1600S to 10.0, and it is clear that the standard of tuning has been improved.
+
+Output is 110ps at 6200rpm, and the maximum torque is 14.0kgm at 5000rpm. However, factory-tuned machines for endurance races can produce around 140ps at 7500rpm within the scope of modifications allowed by the International Sporting Code for Group 2. This is possible by changing the compression ratio of the pistons and adjusting the camshaft and carburetors. A racing kit that includes these parts is scheduled to be released to the public at some point.
+
+However, the key feature of this engine is not the high-speed torque range found in racing engines, but rather its practicality. DOHC is often thought of as something that cannot show its potential unless it is always running at high revolutions, but this engine is flexible enough to accelerate from 1500rpm, just like the  six-cylinder unit in the 2000GT. As revolutions increase, the high-speed efficiency made possible by DOHC produces an exceptionally flat torque curve.
+
+During the test, when the car's speed dropped to 40km/h in fifth gear, the rotation speed was only about 1400rpm, but it was still possible to accelerate slowly without knocking. The test car was still not fully "broken in," and it did feel a bit sluggish, but in practical terms this is still a very useful character.
+
+There are two types of gearboxes available for the 1600GT. The 4-speed unit is the same as that in the 1600S, and the 5-speed unit is the same as the 2000GT's. They are visually differentiated by a GT4/GT5 badge on the rear of the car. The test car was the GT5, officially called the RT55M. The shift pattern is basically the same as the 2000GT, with fifth gear in the reverse plane, up and to the right. Since it was a new car with only 800km on it, shifting into the higher gears felt stiff, but the throws were short and the lever went into gear with a solid "thunk."
+
+For the GT5, the gear ratios are 3.143 (first), 1.636 (second), 1.179 (third), 1.000 (fourth), and 0.844 (fifth), and the final drive is 4.38 as standard. For the GT4, they are 3.673 (first), 2.114 (second), 1.403 (third), and 1.000 (fourth), the same ratios as the 1600S, but with the final drive lowered from 3.70 to 4.11.
+
+In the case of the GT5, it is not very easy to move away from rest in low gear. As this gearbox is originally from the 2000GT, its gearing is quite tall compared to other sports sedans, so acceleration feels sluggish from a start. Moreover, because the gears are far apart from each other, it feels like it is difficult to accelerate when shifting up into second. Once you get moving, though, acceleration becomes easy because the ratios from second gear up are full-fledged close ratios.
+
+The maximum power output at 6200rpm is achieved at 50km/h in first gear, 90km/h in second gear, 130km/h in third gear, 155km/h in fourth gear, and 175km/h in fifth gear. However, if you want to use the fifth gear to its full potential on public roads, the optional 4.62 final drive is recommended. This will reduce the top speed by about 6%.
+
+During the test drive in the city, we ended up mostly using second gear in crowded areas where I had to accelerate and decelerate, but once the traffic smoothed out, we found that fourth gear could be maintained even at slower speeds of 40 to 50km/h. The ratios of the third and fourth gear are only 18% apart, so there was no need to shift up or down unnecessarily on public roads. You can instinctively keep pace simply by pressing and releasing the accelerator, without having to do anything with the gearlever.
+
+<b><u>A Heavy Feeling That You Can't Escape</b></u>
+
+On the other hand, the 1600GT does not have the sharp, sudden acceleration of other sports sedans. Instead, it is the type of car in which the faster you go, the better the acceleration gets. This is due to the gear ratios and flat torque characteristics mentioned above, as well as the heavy body. The Bellett 1600GT weighs 940kg, the Skyline 2000GT 1070kg, the Bluebird SSS 915kg, and the Corona 1600S 980kg. In comparison, the Toyota 1600GT is quite heavy at 1030kg. This is because it uses the same hardtop body derived from the Corona sedan, and if it were 100kg lighter, it would have a very different character.
+
+What is especially noticeable when driving the 1600GT is the dramatic improvement in full-throttle starts and cornering performance due to the combined effects of the new V-shaped torque rod on the rear axle, the standard limited-slip differential, and the wider 6.45-14 low-profile tires. With the 1600S, the axle would wind up so much that the tires would hop and squeal when you accelerated from rest, and even after you got moving, the rear end would swerve. But with the 1600GT, you can make a sudden start while maintaining a stable posture. It feels like the car will take off smoothly even if you drop the clutch abruptly. 
+
+In cornering, the effect of the limited-slip is obvious in that it is difficult to oversteer by power sliding. Even when pushed through tight corners at the Murayama test course in third gear at 50km/h, the car would naturally tend to understeer, so as you turned the steering wheel further to the inside, the car just went along with the corner. In other words, it was close to neutral up to a certain limit, but once that limit was exceeded, the tires suddenly started to break away and the car would slide into oversteer. Compared to the front wheels, which have good grip, the weight distribution over the rear wheels is light, so the rear end loses grip first at the limit. This tendency was clearly evident in the slalom test. However, the steering response still retains the character of a normal passenger car, and seems to lack sharpness.
+
+The brakes are front discs and rear aluminum drums with servo assist as standard, so they are sharp even at low speeds. In addition, a new pressure control valve has been added to prevent rear wheel lockup during sudden braking, so directional control is maintained even when braking suddenly from high speed. 
+
+It was unfortunate that the test car had not yet been fully broken in, and that better test data could not be obtained. Instead, we were able to fully enjoy the experience of simply driving this car. The Toyota 1600GT is not only designed for sports, but is also designed to be a car that can be driven smoothly around town, so in that sense, is a car without quirks. It is a GT car that can be enjoyed by the whole family as well as enthusiasts.

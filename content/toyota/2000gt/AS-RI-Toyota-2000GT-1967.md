@@ -71,7 +71,7 @@ The design was created by Satoru Nozaki of Toyota Motor Corporation's design dep
 
 Though based on a fastback coupe shape, the overall lines are extremely original, with the razor-sharp edges that run from the front fenders to the rear fenders being the highlight of the car.
 
-Also, when seen from the side, the window line that rises up towards the rear of the car has been whispered at European and American car shows as being based on the motif of so-called "oriental eyes," and has become one of the car's major distinguishing features.
+Also, when seen from the side, the window line that rises up towards the rear of the car has been whispered at European and American car shows as being based on the motif of so-called "Asian eyes," and has become one of the car's major distinguishing features.
 
 The first thing that catches your eye about the interior is the polished cherry wood dash panel. This is a thick veneer, not plywood, which gives it a luxurious feel. The interior is lined with black thick-pile carpeting, and the doors and ceiling are lined with black vinyl leather. Everything is top-notch.
 
@@ -85,7 +85,7 @@ The main switches are located on the dash panel under the steering column. You c
 
 <b><u>Stable High-Speed Performance</b></u>
 
-Next, I put the key in the ignition and started the engine. I was told that the engine had been broken in, but I still felt it was too early for this engine to rev it too much, too quickly.
+Next, I inserted the key and started the engine. I was told that the engine had been broken in, but I still felt it was too early for this engine to rev it too much, too quickly.
 
 The engine was cold, so I let it warm up, and since it does not have a normal cooling fan, but rather an electric fan operated by the thermostat, it quickly reached operating temperature. It idled at 700-800 rpm. The DOHC valvetrain is extremely quiet. 
 

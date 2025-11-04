@@ -28,13 +28,13 @@ In terms of general features, the engine is a newly developed unit. The transmis
 
 <b>Watari:</b> It's great that anyone can drive it and that you can push it hard when you want to have some sporty fun, but on the other hand, I think it would be better if it had a torque converter. Also, although it might be a bit extravagant, I feel like I'd like power steering.
 
-<b>Hirano:</b> We have a wide target audience, so we have to keep the price within reason. Power steering is expensive.
+<b>Amano:</b> We have a wide target audience, so we have to keep the price within reason. Power steering is expensive.
 
-<b>Watari:</b> With this type of car, the options tend to be biased towards the sports side, but I think it would be good to have a torque converter and power steering as luxury options.
+<b>Watari:</b> With this type of car, the options tend to be biased towards the sports side, but I still think it would be good to have a torque converter and power steering as luxury options.
 
 <b>Magazine:</b> Isn't the transmission also the same as the 2000GT?
 
-<b>Sakakibara:</b> This is also true. The 2000GT underwent a minor change in August, and the transmission servo capacity was increased at that time, and we are using almost the same thing in the GSS.
+<b>Sakakibara:</b> Yes, that's true. The 2000GT underwent a minor change in August, and the transmission servo capacity was increased at that time, and we are using almost the same thing in the GSS.
 
 <b>Magazine:</b> So, does this mean that the 2000GT torque converter is not available?
 
@@ -45,11 +45,11 @@ In terms of general features, the engine is a newly developed unit. The transmis
 
 <b>Magazine:</b> You mentioned that you kept the price down, but it seems like you really worked hard in terms of price compared to the Skyline 2000GT-R and Bellett 1600GTR in the same class.
 
-<b>Hirano:</b> When I'm working on a car, I look at the balance between quality, quantity, cost, and time. It can't be less than a good product, but it can't be too expensive. It can't be something so "virtuoso" that it can't be made in large quantities. It can't be something that takes five or ten years to complete. Of these, cost carries a huge weight. I calculate how much each part costs, juggling here and there to make ends meet. I thought it would cost around 1 million yen, but it ended up being 1,055,000 yen.
+<b>Amano:</b> When we're working on a car, we look at the balance between quality, quantity, cost, and time. It can't be anything less than a good product, but it can't be too expensive. It can't be something so specialized, so "virtuoso," that it can't be made in large quantities. It can't be something that takes five or ten years to complete. Of these, cost carries a huge weight. We calculate how much each part costs, juggling here and there to make ends meet. We thought it would cost around 1 million yen, but it ended up being 1,055,000 yen.
 
 <b>Magazine:</b> Is the engine just a Mark II 1900SL engine with a different head?
 
-<b>Sakakibara:</b> The only things that are the same as the base engine are the crankshaft and cylinder block. The biggest change is the cylinder head, which is now made of aluminum for better cooling and has a DOHC design that allows for larger valve ports. It also has two Solex carbs, a compression ratio of 9.7, a maximum torque of 17.0kgm/5200rpm, and a maximum output of 140ps/6400rpm.
+<b>Sakakibara:</b> Actually, the only things that are the same as the base engine are the crankshaft and cylinder block. The biggest change is the cylinder head, which is now made of aluminum for better cooling and has a DOHC design that allows for larger valve ports. It also has two Solex carbs, a compression ratio of 9.7, a maximum torque of 17.0kgm/5200rpm, and a maximum output of 140ps/6400rpm.
 
 The maximum rotational speed is 6800rpm, and the powerband is generally above 2500rpm, but it can also be used at 1500rpm. By extending the high-speed range as much as possible without reducing the low-speed torque compared to the 1900SL, the engine can pull the car up to 200km/h. Also, the fuel economy is relatively good. 
 
@@ -85,7 +85,7 @@ In numerical terms, we made the springs about 10% stronger than those of the 190
 
 <b>Sakakibara:</b> Generally speaking, it would be better to make it independent. There are various issues as to whether it is a good idea or not for a specific car, but in our case, we think that attaching a torque rod to the conventional Hotchkiss drive type is a good option for a front engine/rear drive vehicle. 
 
-<b>Watari:</b> There are many different types of suspension, and when you consider the pros and cons, the conventional type may seem ordinary, but I think it's the most smartest way to go. However, the spring constant depends on your target, and if you're focused on rallies, it would be nice to have an option with a slightly lower spring constant for city use.
+<b>Watari:</b> There are many different types of suspension, and when you consider the pros and cons, the conventional type may seem ordinary, but I think it's the smartest way to go. However, the spring constant depends on your target, and if you're focused on rallies, it would be nice to have an option with a slightly lower spring constant for city use.
 
 <b>Magazine:</b> How was the performance?
 
@@ -109,7 +109,7 @@ I alto think it's important to express how fun it is to overtake the car in fron
 
 <b>Magazine:</b> Can it drive continuously at 200km/h?
 
-<b>Sakakibara:</b> If there is a course that allows it, then yes, it will be fine. The catalogue states that the rotation speed at 200km/h is 6800rpm, but with the bias-ply tires, the tire diameter increases as they expand due to centrifugal force, so the car can reach 200km/h at 6150rpm. 
+<b>Sakakibara:</b> If there is a course that allows it, then yes, it can. The catalogue states that the rotation speed at 200km/h is 6800rpm, but with the bias-ply tires, the tire diameter increases as they expand due to centrifugal force, so the car will reach 200km/h at 6150rpm. 
 
 <b><u>Slightly Heavy Steering Effort at Low Speeds</b></u>
 
@@ -133,7 +133,7 @@ I alto think it's important to express how fun it is to overtake the car in fron
 
 <b>Magazine:</b> Where is the point at which it changes into oversteer? It seems a little early.
 
-<b>Doi:</b> I thought it was a little early while testing, but the road surface was wet around the time I felt it start to slide. It was not so wet that there were any puddles on the road, though.
+<b>Doi:</b> While I was testing, I thought it was a little early when I felt it start to slide, but the road surface was wet at that time. It was not so wet that there were any puddles on the road, though.
 
 <b>Higuchi:</b> In second gear, it's at about 40km/h, and when the radius is about 20m.
 
@@ -155,7 +155,7 @@ I alto think it's important to express how fun it is to overtake the car in fron
 
 <b>Sakakibara:</b> The cornering performance is different. However, with cross-plies, the tires slide gradually, while radial tires are quite sticky, but once you exceed the limit, they slide all at once. Which is better depends on the driver's skill level.
 
-<b>Okazaki:</b> Aside from the weight of the steering, I was a little dissatisfied with the response.
+<b>Okazaki:</b> Aside from the weight of the steering, I was fairly satisfied with the response.
 
 <b><u>Brakes With the Benefits of Discs</b></u>
 
@@ -173,7 +173,7 @@ The operating force of each part is light for the shift lever. The clutch felt h
 
 <b>Furutani:</b> The feeling is good. There are disc brakes with a strong servo feeling and others with a dual-leading feel, but I think these are good brakes that exhibit all the good qualities of discs. 
 
-<b>Koguchi:</b> Rather than the length of the braking distance, the feeling when you step on it is very solid. It's just a feeling, so you can't easily define it, but the braking feels different from that of mainstream Toyota cars. 
+<b>Koguchi:</b> Besides the length of the braking distance, the feeling when you step on the pedal is very solid. It's just a feeling, so you can't easily define it, but the braking feels different from that of mainstream Toyota cars. 
 
 <b>Sakakibara:</b> Along with the improved power performance, the brakes are large for the class, equivalent to those used in the Crown class. That's probably what makes it so powerful.
 
