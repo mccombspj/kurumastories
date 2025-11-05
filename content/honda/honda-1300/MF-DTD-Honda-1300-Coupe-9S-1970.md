@@ -4,7 +4,7 @@
 
 title = "Honda 1300 Coupe 9S (1970)"
 
-weight = 30
+weight = 40
 
 
 

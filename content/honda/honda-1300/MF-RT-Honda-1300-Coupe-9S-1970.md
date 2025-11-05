@@ -10,7 +10,7 @@ title = "Honda 1300 Coupe 9S and 7 Custom (1970)"
 
 
 
-weight = 40
+weight = 50
 
 
 

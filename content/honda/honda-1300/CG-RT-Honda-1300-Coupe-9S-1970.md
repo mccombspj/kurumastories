@@ -1,7 +1,7 @@
 +++
 
 title = "Honda 1300 Coupe 9S (1970)"
-weight = 20
+weight = 30
 
 date = "2025-10-11T04:50:49-07:00"
 
