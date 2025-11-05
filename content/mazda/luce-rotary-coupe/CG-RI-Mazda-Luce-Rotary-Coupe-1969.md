@@ -10,7 +10,7 @@ title = "Mazda Luce Rotary Coupe (1969)"
 
 
 
-weight = 1
+weight = 10
 
 
 

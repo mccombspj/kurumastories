@@ -5,9 +5,6 @@
     <loc>http://localhost:1313/mazda/capella/cg-rt-mazda-capella-rotary-coupe-gs/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mazda/luce-rotary-coupe/cg-ri-mazda-luce-rotary-coupe-1969/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant/cg-rt-mitsubishi-colt-galant-ai-custom-1970/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -30,9 +27,6 @@
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/capella/cg-ri-mazda-capella-rotary-coupe-gs-ii/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mazda/luce-rotary-coupe/cg-rt-mazda-luce-hardtop-gs-ii/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant/cg-rt-mitsubishi-colt-galant-aii-gs-1970/</loc>
@@ -65,6 +59,9 @@
     <loc>http://localhost:1313/honda/honda-1300/cg-rt-honda-1300-77-deluxe/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mazda/luce-rotary-coupe/cg-ri-mazda-luce-rotary-coupe-1969/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/cg-ri-mitsubishi-colt-galant-gto-mii-1970/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -76,6 +73,9 @@
   </url><url>
     <loc>http://localhost:1313/toyota/carina/cg-ri-toyota-carina-1600st-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mazda/luce-rotary-coupe/mf-tdr-mazda-luce-rotary-coupe-1969/</loc>
+    <lastmod>2025-11-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/fairlady/mf-rt-nissan-fairlady-z432-1970/</loc>
     <lastmod>2025-11-04T04:50:49-07:00</lastmod>
@@ -134,6 +134,9 @@
     <loc>http://localhost:1313/honda/honda-1300/mf-dtd-honda-1300-coupe-9s-1970/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mazda/luce-rotary-coupe/cg-rt-mazda-luce-hardtop-gs-ii/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/cg-gt-mitsubishi-colt-galant-gto-mr-vs-toyota-celica-1600gt-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -190,6 +193,12 @@
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mazda/luce-rotary-coupe/</loc>
+    <lastmod>2025-11-04T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mazda/</loc>
+    <lastmod>2025-11-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/fairlady/</loc>
     <lastmod>2025-11-04T04:50:49-07:00</lastmod>
@@ -254,9 +263,6 @@
     <loc>http://localhost:1313/mazda/cosmo-sport/</loc>
     <lastmod>2025-10-29T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mazda/</loc>
-    <lastmod>2025-10-29T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/</loc>
     <lastmod>2025-10-29T04:50:49-07:00</lastmod>
   </url><url>
@@ -282,9 +288,6 @@
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/familia/cg-rt-mazda-familia-rotary-coupe-1968/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mazda/luce-rotary-coupe/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/savanna/</loc>

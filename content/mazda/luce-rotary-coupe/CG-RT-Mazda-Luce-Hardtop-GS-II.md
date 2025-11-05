@@ -22,7 +22,7 @@ title = "Mazda Luce Hardtop GS II (1973)"
 
 
 
-weight = 2
+weight = 30
 
 
 

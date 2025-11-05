@@ -41,12 +41,12 @@ So, in relation to the fact that it is a high-performance sports car that can al
 
 Specifically for the US market, we increased the displacement to 2.4 liters. This was due to issues with the US exhaust regulations, and since we export a considerable number of Bluebirds to the US, we used the L24 type, which has the same bore and stroke as the 1.6 liter engine, so there are many commonalities. 
 
-At the beginning of the planning, there was a great deal of uncertainty about the body, such as whether to make it an open-top or closed body, or whether to make it a two-seater or a four-seater. However, as expressways continue to develop, speeds will naturally increases and distances traveled will become longer. In this kind of era, convertibles are no longer necessarily comfortable to drive. In that sense, we thought about noise, airtightness, improved comfort including the effectiveness of heating and ventilation, and also safety in the event of a rollover, so we went for a closed body. As for the two-seater arrangement, we concluded from market research in the U.S. that two seats would be sufficient. 
+At the beginning of the planning, there was a great deal of uncertainty about the body, such as whether to make it an open-top or closed body, or whether to make it a two-seater or a four-seater. However, as expressways continue to develop, speeds will naturally increase and distances traveled will become longer. In this kind of era, convertibles are no longer necessarily comfortable to drive. In that sense, we thought about noise, airtightness, improved comfort including the effectiveness of heating and ventilation, and also safety in the event of a rollover, so we went for a closed body. As for the two-seater arrangement, we concluded from market research in the U.S. that two seats would be sufficient. 
 
 We used strut-type suspensions for both the front and rear. We chose the strut type for the front because it has strong lateral rigidity and because we could soften the rigidity of the front and rear to a certain extent, taking into account the issue of harshness. We chose struts for the rear wheels because being a two-seater allows the strut towers to be high enough. This reduces camber change, almost completely eliminates axle steer, and can even reverse the jack-up tendency during cornering, so we think it is a suspension that offers a high degree of flexibility in terms of stability. 
 
 As for the steering, the rack-and-pinion gears are the same as those of the Laurel, but the total gear ratio is made sharper than the Laurel, with a lock-to-lock ratio of 2.59 to improve response.
-　
+
 As for ride comfort, the spring constants are different between the Z432 and the Z equipped with the Cedric-type 6-cylinder engine, with the Z having the same spring constants as the Bluebird, while the Z432 is stiffer, improving driving and handling. So, I think the biggest issue in planning was that we had two fundamental aims, and we wanted to offer a choice of engines, suspensions, etc. and attract a wide range of users.
 
 We currently have a production capacity of 2,000 units per month, of which we plan to export about 1,500 units and sell about 500 units domestically. 
@@ -95,7 +95,7 @@ I think it's a styling trend that has changed from the streamlined style of the 
 
 <b>Sakakibara:</b> The basic structure of the Z432's engine is that of the R380 engine, and it has been modified to make it easier to produce, easier to install in the car, and easier to maintain. At the planning stage, the Skyline 2000GT-R and this Z series were being developed almost simultaneously, so the engine for the GT-R and this one are made almost the same. However, there were some parts that had to be changed due to the nature of the cars and the installation. Specifically, only exterior parts such as the shape of the oil pan and the shape of the air cleaner have been changed.
 
-<b>Koguchi:</b> There is a big price difference between the base Z and this Z432, but how much do the engines differ in cost? I also heard that the wheel discs (made of magnesium and steel) cost about 50,000 yen each...
+<b>Koguchi:</b> There is a big price difference between the base Z and this Z432, but how much of this is due to the difference in the cost of the engines? I also heard that the wheel discs (made of magnesium and steel) cost about 50,000 yen each...
 
 <b>Mizutsu:</b> The Z432 engine costs about three times as much, because it is not produced in large quantities and is close to being tuned up.
 
@@ -145,7 +145,7 @@ They will prefer to ride in a two-seater car, which will allow them to avoid hav
 
 <b>Hirao:</b> I don't think you can say in general.
 
-<b>Tanabe:</b> The main idea was that we didn't want the struts to stick up too high intrude on the interior packaging... so it has nothing to do with handling stability. 
+<b>Tanabe:</b> The main idea was that we didn't want the struts to stick up too high and intrude on the interior packaging... so it has nothing to do with handling stability. 
 
 <b>Mizutsu:</b> We decided on the geometry, such as the height of the differential and the angle of the link on the strut side, to see where we could minimize the camber change... the car has a tendency to sink at the rear when cornering and accelerating.
 
@@ -185,7 +185,7 @@ However, although it has not yet been released, we are considering stiffer sprin
 
 <b>Tanabe:</b> About two-thirds the weight of steel.
 
-<b>Okazaki:</b> Actually, while I'm on the thin side, I think I'm of average height, and the shape of the seat itself is fine, such as the points that support my lower back and the curve of the seatback, but perhaps because the seat is tailored to the American market, it feels loose when I sit in it, or rather, very loose. So, I think that if enough units are sold in Japan, I'd like to have a seat that fits us more perfectly... (laughs).
+<b>Okazaki:</b> Actually, while I'm a bit on the thin side, I think I'm of average height, and the shape of the seat itself is fine, such as the points that support my lower back and the curve of the seatback, but perhaps because the seat is tailored to the American market, it feels loose when I sit in it, or rather, very loose. So, I think that if enough units are sold in Japan, I'd like to have a seat that fits us more perfectly... (laughs).
 
 <b>Watari:</b> It was perfect for me (laughs). However, the headrest gets in the way when backing up, so I think a retractable type would be better.
 
@@ -201,7 +201,7 @@ However, although it has not yet been released, we are considering stiffer sprin
 
 <b>Tanabe:</b> Of course, making the nose longer reduces air resistance, but from a safety standpoint, it also serves the purpose of absorbing energy, so the rigidity is not too strong to absorb an impact. The steering shaft is also staggered midway for this reason.
 
-<b>Higuchi:</b> The steering wheel is also energy absorbing. 
+<b>Higuchi:</b> The steering wheel is also energy absorbing, isn't it? 
 
 <b>Tanabe:</b> Yes, it is a lantern-shaped, collapsible type.
 
