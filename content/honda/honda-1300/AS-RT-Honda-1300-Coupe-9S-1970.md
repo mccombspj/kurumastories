@@ -3,7 +3,7 @@
 title = "Honda 1300 Coupe 9S (1970)"
 weight = 20
 
-date = "2025-10-11T04:50:49-07:00"
+date = "2025-11-05T04:50:49-07:00"
 
 draft = false
 
@@ -20,15 +20,15 @@ The Honda 1300 Coupe 9 has just been released, with an aerodynamic body born fro
 
 <b><u>High-Powered FF Car</b></u>
 
-I am a man fascinated by FF cars. That said, I didn't start off racing in them. I raced a Honda S500 until I switched to a Mini Cooper in 1967, and was completely satisfied with the S500. In the All Japan Racing Drivers' Championship T-1 class, I raced against 1300cc Contessa Coupes and other cars in the 800-1200cc class, and was able to get quite close to my opponents despite the difference in displacement.
+(Sugawara): I am a man fascinated by FF cars. That said, I didn't start off racing in them. I raced a Honda S500 until I switched to a Mini Cooper in 1967, and was completely satisfied with the S500. In the All Japan Racing Drivers' Championship T-1 class, I raced against 1300cc Contessa Coupes and other cars in the 800-1200cc class, and was able to get quite close to my opponents despite the difference in displacement.
 
 What made me switch to a Mini Cooper was that even if I could get pretty far in a 500cc car, I still couldn't hope to win the T-1 class.
 
 I couldn't go on that way and expect to advance. I really wanted to drive a 1300cc car. At the time, I had heard about the Mini Cooper's successes in races abroad, and I decided to give it a go.
 
-Although I thought I could compete in a Mini Cooper, I didn't give much thought to competing using a front-wheel-drive car. Why? Because although I knew that the Mini Cooper was front-wheel-drive, I had never driven one and I assumed that there would be no significant difference in handling between rear-wheel-drive and front-wheel-drive cars. That turned out to be a complete lack of understanding. 
+Although I thought I could be competitive in a Mini Cooper, I didn't give much thought to competing using a front-wheel-drive car. Why? Because although I knew that the Mini Cooper was front-wheel-drive, I had never driven one and I assumed that there would be no significant difference in handling between rear-wheel-drive and front-wheel-drive cars. That turned out to be a complete lack of understanding. 
 
-During practice before participating in races with the Mini Cooper, I even thought, "That's it, I'm giving up on FF cars." The car just wouldn't go in the direction I wanted it to, and if I continued driving with the same techniques, the car would be jumping here and there, and I wouldn't even be able to finish a race, let alone win one. At first, it was very embarrassing. But if I gave up on the Mini Cooper at that point, my racing career would be over.
+During practice with the Mini Cooper before participating in races, I even thought, "That's it, I'm giving up on FF cars." The car just wouldn't go in the direction I wanted it to, and if I continued driving with the same technique, the car would be jumping here and there, and I wouldn't even be able to finish a race, let alone win one. At first, it was very embarrassing. But if I gave up on the Mini Cooper at that point, my racing career would be over.
 
 That's how much I was worrying about it at the time. I told myself, "Mini Coopers have been doing well in overseas races, so there's no reason why I can't do it." And I wanted to beat the manufacturer's team. To achieve their track record, they absolutely needed a high-performance car. The difference was that they had tamed the rodeo horse. 
 
@@ -46,15 +46,15 @@ First of all, before leaving, we took a long look at the Coupe's body. It appear
 
 Honda's distinctive longer and thinner nose also helps to reduce the frontal area. The windshield is also more raked than Nissan or Toyota models, for example, making it look faster. But what is most appealing to me is that, while many European front-wheel-drive cars have a long wheelbase and wheels that run the full length of the car, the 1300 Coupe has such an elegant style, with longer overhangs, that it could be mistaken for an FR car. 
 
-After getting out of the city, we finally entered the Tomei Expressway. When I stepped on the accelerator, the OHC engine revved up as smoothly as a rotary engine. And yet, the engine noise was not noticeable at all. When I drove the 99S (at 140km/h or more) I was bothered by the wind noise, but in the Coupe, I could hardly hear it, and could talk to the person in the passenger's seat without shouting.
+After getting out of the city, we finally entered the Tomei Expressway. When I stepped on the accelerator, the OHC engine revved up as smoothly as a rotary engine. And yet, the engine noise was hardly noticeable at all. When I drove the 99S (at 140km/h or more) I was bothered by the wind noise, but in the Coupe, I could hardly hear it, and could talk to the person in the passenger's seat without shouting.
 
-We immediately began an acceleration test with the help of the editorial department. In top gear, the speed increased from 80 to 120km/h in 11 seconds, while the same acceleration in third gear took only 8.1 seconds, showing that this is an extremely flexible engine.
+We immediately began acceleration tests with the help of the editorial department. In top gear, the speed increased from 80 to 120km/h in 11 seconds, while the same acceleration in third gear took only 8.1 seconds, showing that this is an extremely flexible engine.
 
 During the test, the engine revved up so smoothly that I constantly had to keep an eye on the tachometer to avoid over-revving.
 
 When driving straight, you don't feel any effect from crosswinds, which are inevitable on the highway, so you can drive with peace of mind.
 
-The next thing that impressed me while driving was the dashboard area, which has ben designed with great attention to detail. The placement of the tachometer, speedometer, and other gauges, the angle of the ashtray and lighter, and other parts are all perfectly aligned, and it's rare to see a car designed around the driver to this extent. This will surely ease the driver's level of frustration during rush hour.
+The next thing that impressed me while driving was the dashboard area, which has been designed with great attention to detail. The placement of the tachometer, speedometer, and other gauges, the angle of the ashtray and lighter, and other parts are all perfectly aligned, and it's rare to see a car designed around the driver to this extent. This will surely ease the driver's level of frustration during rush hour.
 
 <b><u>FF Driving Techniques Learned From Experience</b></u>
 
@@ -84,6 +84,6 @@ One last thing that impressed me was how well the engine's serviceability has be
 
 Another difference between the 1300 Coupe and the the Mini Cooper is that the latter uses engine oil to lubricate the engine, transmission, and differential parts, so small metal chips from the transmission can also get into the engine, which is naturally bad for it. Also, there is a crevice in the oil pan which causes the oil to be splashed around, resulting in premature engine wear.
 
-By contrast, the Honda 1300 series is equipped with a full dry sump system similar to that in a racing car, the engine uses only synthetic oil, and the transmission uses a forced oil supply system, which is quite an elaborate mechanism for a street car.
+By contrast, the Honda 1300 series is equipped with a full dry sump system similar to that in a racing car, the engine uses only synthetic oil, and the transmission uses a forced oil supply system, which are quite elaborate mechanisms for a street car.
 
 Overall, I was impressed by the potential of the Honda 1300 Coupe, and felt a strong desire to use it in my own racing activities.

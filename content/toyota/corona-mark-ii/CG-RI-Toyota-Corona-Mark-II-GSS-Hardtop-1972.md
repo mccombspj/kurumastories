@@ -22,7 +22,7 @@ title = "Toyota Corona Mark II Hardtop GSS (1972)"
 
 
 
-weight = 40
+weight = 50
 
 
 
