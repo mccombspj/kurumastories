@@ -3,7 +3,7 @@
 
 
 title = "Nissan Fairlady Z432 (1970)"
-weight = 20
+weight = 40
 
 
 date = "2025-11-04T04:50:49-07:00"

@@ -3,7 +3,7 @@
 
 
 title = "Nissan Fairlady 240ZG (1972)"
-weight = 40
+weight = 50
 
 
 
