@@ -1,0 +1,200 @@
++++
+
+
+
+title = "Nissan Sunny Coupe 1200GL (1970)"
+
+
+
+date = "2025-11-06T04:50:49-07:00"
+
+
+
+draft = false
+
+
+
++++
+
+
+
+![Nissan Sunny Coupe 1200GL](/images/MF-RT-Nissan-Sunny-Coupe-1200GL-1970.jpg)
+
+
+
+<b>Publication:</b> Motor Fan<br>
+<b>Format:</b> Road Test<br>
+<b>Date:</b> July 1970<br>
+<b>Author (Roundtable):</b> Hiroshi Takahashi, Osamu Hirao, Hiroshi Okazaki, Zenzo Sonoda, Kenji Higuchi, Motoo Harada, Akio Miyamoto, Kunitaka Furitani, Yasuhei Koguchi, Taizo Tateishi, Masahide Sano, Kenzaburo Ishikawa, Zo Doi, Kenichi Otani, Minoru Onda 
+
+
+
+<b><u>Designed For Advanced Students Too</b></u>
+
+<b>Magazine:</b> We’ve introduced the new Sunny 1200 series previously in these pages. This road test focuses on the GL coupe, but we would like to start by asking Nissan’s Takahashi-san about the aims of development for the series as a whole.
+
+<b>Takahashi:</b> First, let me briefly explain the aims of the full model change project. After the previous, first-generation Sunny was released, we conducted various surveys in Japan, and since it is a mass-market car, we considered how we could increase sales. What we found was that we needed to penetrate a wider demographic. For example, age was an issue, and the previous Sunny tended to be biased towards younger people. While we still want to attract younger customers, we also need to expand to include middle-aged people. Another finding, and this is not limited to mass-market cars, was that when looking at each model, the luxury trim levels tend to outsell lesser trim levels. For example, while up until now "Deluxe" models have typified this trend, recently there has been a trend of even higher-end models like the GL and SSS becoming more popular. Taking these points into consideration, we decided to go a little more upscale with the model change.
+
+Another point is regarding exports. We are currently selling an average of around 2,000 units per month with the Sunny. This is a model that we originally launched with a focus on the domestic market, and exports were considered secondary, but this time we are going to fully expand export production. To do that, we are thinking about appealing to all regions, all over the world, and to achieve that, we thought that if we stick to the development goals for domestic sales mentioned above, it would work just fine to increase its appeal in other markets. That is the idea behind the design and layout. To be a little more specific, we decided to make the layout a little larger. Japanese cars in particular are a little on the narrow side. Originally, Japanese cars were designed to fit the road conditions; in other words, to be smaller cars. The width of this new Sunny is still somewhat narrow compared to its length, but we have increased the width without increasing the length too much to improve the livability of the interior. We also aimed to make the interior look a little more luxurious.
+
+As for styling, the Sunny has always had a style based on straight lines, and has been well-received for having a very light, nimble look and feel. But to appeal to a slightly more mature audience, or rather, to a wider age range, we wanted to use a bit more curves to create a sense of volume, a sense of weight, and of roominess… well, in the commercials, we say it has a “rich feel,” and that’s what we’re aiming for. As for the coupe, the 1000 fastback has been very well-received, so we thought we should continue that and created a fastback coupe.
+
+In terms of power performance, the weight has only increased by around 30kg, which meant that the power performance was not particularly affected, but we wanted to further improve the power performance, so we increased the engine to 1200cc. I’ve mentioned the primary development aims and changes, but in addition to those, since the car is now able to run at higher speeds, we have also taken sufficient care to consider high-speed performance and the safety issues that are being talked about a lot these days.
+
+<b><u>Spacious Car</b></u>
+
+<b>Magazine:</b> I’d like to ask about the specifics one by one, but overall, I think this model change has significantly changed the impression that people had of the Sunny. So I’d like to hear your first impressions of the car itself. Professor Hirao, what was it like driving it?
+
+<b>Hirao:</b> I think that the policies that were just mentioned are definitely showing up. In fact, when I was test driving the Laurel, I made a bet with Nissan to guess how many Nissan cars driven by female drivers I would come across during my half-day trip to Hakone and back. (Laughs) I said that there would probably be two or three, but Nissan said there would be more than ten. In the end I won and got the chocolates. (Laughs) So, I think that unless a car can attract many women, it won’t be easy to sell to a wide range of people, but Takahashi’s explanation just now seems to suggest that they are aiming for a wide range of people this time. 
+
+I’ve test driven a variety of these cars, and there is certainly room and a sense of playfulness. Nissan’s cars up until now have been designed in a rigid, logical way, and their form has been determined rigidly by the way they will be used and driven. When I look at the original Sunny, I feel that it’s a form that pursues functionality to the limit, and there’s no dream, no mood. It gives off a sense of tension. I think that the policy in this regard has changed dramatically. I think this time there will be a lot of young housewives. (Laughs). Also, the Bluebird next to it looks small, so I’m a little worried about that. (Laughs)  
+
+<b>Takahashi:</b> In fact, the Bluebird is a size larger, and its engine has gone from 1300cc to 1600cc. Until now, the Bluebird and Sunny were quite far apart, but now they’ve become a little closer.
+
+<b>Hirao:</b> How much is the price difference between them?
+
+<b>Takahashi:</b> It’s about 100,000 yen.
+
+<b>Hirao:</b> Ultimately, it would be ideal if people could tell just by looking at the cars that they were 100,000 yen apart in price. If the perceived difference is small, it will be a bit tough for the one that is higher-priced.
+
+<b>Okazaki:</b> Just as Professor Hirao says, when you drive next to a Bluebird and look at it from behind, you think the Sunny is about the same size, and it does seem to have grown, at least by a factor of two. Another thing is that it often said that Nissans are preferred by people who are very picky about cars, and know a lot about cars, and it seemed that there were surprisingly few people who drove one just for the atmosphere. I have a strong impression that this has changed quite a bit. Also, I don’t know much about design, but it does seem like this car is quite different from the image I’ve had of the Sunny up until now. I was surprised to see that a slight change in the lines could make such a difference. Or maybe I just thought so because I’ve gotten caught up in the advertising, but I think it would be interesting to hear more about how a simple change in the way lines are used can make such a difference.
+
+<b>Sonoda:</b> I think the difference in width appears more pronounced due to the rounded styling. The curved side glass is used effectively, and I think this is the reason why it looks larger.
+
+<b><u>Retaining Functional Sharpness</b></u>
+
+<b>Higuchi:</b> Actually, when I first saw the new car, I was shocked, as Professor Hirao mentioned earlier. Nissan cars are well-designed from a functional perspective, and I personally prefer them for this reason, but when I saw this new car, it just felt like an ordinary car. In other words, being functionally sharp just doesn’t sell cars, so the styling has become more mood-oriented. I could tolerate this if it was just the styling, but I was worried that if the driving feel had also become more mood-oriented, it would be a disaster. So when I drove it, I was relieved to find that the way it drives is similar to the previous Sunny 1000 or Bluebird 310. 
+
+You mentioned earlier that Nissan cars are driven by connoisseurs, and I think that more and more people like that will be driving them in the future. As new owners move on from their first car to their second or third, they will naturally want to graduate from cars with a standard body to ones that are more upscale and attractive. But I think ultimately their interest in the functional aspects will come out. In that case, I think that if Nissan can update the aesthetics while retaining the driving functionality of previous Nissans, that will be very reassuring. The mood of this car has certainly changed completely, but I’m optimistic that the interior and mechanical characteristics will remain the same as before, which would be an encouraging sign.
+
+Not only in the front seats of the car, but also when you sit in the back seat, you get the feeling that it's spacious. This helps keep you from getting tired even when driving long distances or sitting in the back. It's always better to have more space, but there are always conditions to fit everything within certain overall dimensions, so from that perspective, I did get the impression that the interior is spacious. But that's just a feeling.
+
+<b>Magazine:</b> You mentioned that the styling emphasizes size and spaciousness, and I imagine you've put in a lot of effort to achieve that, but I also see that the engine has a much higher compression ratio, and that it's been powered up, so I imagine it must have been a very difficult design for a mass-market car. I'd like to hear about its outline and features.
+
+<b>Harada:</b> I'll give a brief explanation of the engine. The previous 1000cc engine had a bore of 73mm and a stroke of 59mm, but for this 1200cc engine, we increased the stroke by 11mm, making the new bore and stroke 73 x 70mm. Furthermore, the production line was designed with the idea of sharing as much of the previous 1000cc line as possible. As an engine that is most suitable for mass production and aimed at a very wide range of people, the main aim was to achieve a balance that makes both high-speed and low-speed performance easy to use. Also, as it is a mass-market car, we aimed to retain the economy of the previous 1000cc car. As for pollution prevention measures, the previous car was equipped with a blow-by device, but this time we have changed to a system that actively ventilates the blow-by into the intake manifold.
+
+Quietness is also important in relation to the development of highways and high-speed travel, so we aimed for that and used five bearings. Also, increasing the stroke can lead to the risk of excess oil consumption due to increased piston travel, so we have adopted a combined ring to completely eliminate this. We have also tried to improve exhaust emissions as much as possible, and carbon monoxide is now in the range of just over 1%, so when exporting to North America, we do not need to install any large equipment. We have taken great care to ensure that even the most discerning customers are satisfied.
+
+<b><u>0-400m in 18.0 Seconds</b></u>
+
+<b>Magazine:</b> The stroke has become much longer. Up until now, oversquare engines have been a bit inflexible, so I imagine that has made a big difference in the feeling. When you actually drive the car, do you feel that it is more flexible than before?
+
+<b>Harada:</b> That was the thing we paid the most attention to in the development. In order to improve the response when stepping on the acclerator from low speeds, we selected from various manifold designs and carburetor sizes, and spent a lot of time mainly on improving the manifold, using one with good distribution and a relatively thin construction.
+
+<b>Miyamoto:</b> I've driven both the 1000 and the 1200, and as you said, the longer stroke made the engine very tenacious, and the acceleration response for overtaking was great, so it was definitely easier to drive. I was wondering how it would turn out since the displacement increased only a little, and, well, it's more than enough. And of course, standing-start acceleration has also improved. Oversquare engines seem to be popular lately, but I also feel that the fact that each company is extending the stroke is a good trend.
+
+<b>Magazine:</b> I would like to provide some measurement data now. What about the data from the Hirao Laboratory?
+
+<b>Furutani:</b> We tested two cars, the Coupe GL and the four-door GL, but I'll start with the Coupe GL. Acceleration from a standing start was 4.8 seconds to 50m, 7.7 seconds for 100m, 11.3 seconds for 200m, and 18.0 seconds for 400m.
+
+The four-door GL accelerated from a standing start in 4.7 seconds to 50m, 7.2 seconds for 100m, 11.4 seconds for 200m, and 18.1 seconds for 400m. 
+
+The third-gear overtaking acceleration from 30km/h is almost the same for both the coupe and sedan: 40km/h in 4.1 seconds, 60km/h in 7.5 seconds, 80km/h in 11.1 seconds, and 100km/h in 15.4 seconds. What do you think of this data compared to the acceleration you felt when you actually drove it?
+
+<b>Hirao:</b> With numbers like this, whether it's 0.1 second more or less really doesn't matter. In that sense, I think the acceleration is good. Another small detail is whether the engine wakes up well when it is first started. Can you jump right in and drive without any jerks after starting in the morning? And when you try to warm up the car a little by idling in the morning, can you start the engine and then go inside and eat a meal, or do you have to wait 10 or 20 seconds after starting the car so you can leave it running safely? I feel like those are pretty important things. When you test a lot of different cars, the differences can be quite pronounced in this regard. 
+
+<b>Okazaki:</b> As everyone has said, it's an engine with a very broad range of use, and it's much smoother than the previous 1000cc. It's also much quieter. And what I thought was best about it was that while maintaining the low-speed ease of use, it still has the high-speed feeling that Nissan fans will appreciate, and I think that flavor will be very appealing to those with a bit of an engineering-enthusiast side. In that sense, I felt that it was an engine that was both very easy to use and enjoyable.
+
+<b><u>1200cc Margin</b></u>
+
+<b>Koguchi:</b> I think the feeling is, "I have more in reserve." In terms of acceleration, the numbers aren't that different from the 1000cc, but there is a sense of leeway that isn't really apparent in the numbers. It feels like it's reached a good balance. For example, it takes 13.4 seconds to reach 100km/h, and as Professor Hirao said earlier, this is about right, for those who are going to regularly drive at those speeds. As far as starting on a cold morning goes, I don't know for sure, but it feels like there's a slight sense of overcooling. It might have something to do with the operation of the thermostat...
+
+<b>Hirao:</b> I wondered about that. It wakes up quickly, but it tends to be a little slow to warm up. So if you try to run too hard right away, it starts shaking.
+
+<b>Magazine:</b> Please explain the data that was measured at the Watari Laboratory.
+
+<b>Tateishi:</b> For the Coupe GL, when we measured the sprung frequency, it was 1.3-1.4Hz for the front wheels, and 1.4-1.5Hz for the rear wheels. The unsprung frequency was 14.0Hz for the front wheels and 15.0Hz for the rear wheels. 
+
+The noise level was 65 hones at 40km/h, 68 hones at 60km/h, 73 hones at 80km/h, 77 hones at 100km/h, and 81 hones at 120km/h. External noise was 71.5 hones during steady driving and 79.5 hones during acceleration. 
+
+For the four-door sedan, the vibration frequency was 1.4Hz for both the front and rear wheels. The unsprung vibration frequency was 15.0Hz, also for both the front and rear wheels. 
+
+The interior noise was 64 hones at 40km/h, 67 hones at 60km/h, 71 hones at 80km/h, 74 hones at 100km/h and 80 hones at 120km/h. External noise was 70.5 hones in steady driving and 78.5 hones during acceleration.
+
+In terms of vibration, a bouncing result of 1.3-1.4Hz is typical for a car of this class, so I think the ride is relatively comfortable. The noise figures are also good, but the coupe feels a little louder than the sedan. The external noise of both cars is under 80 hones under acceleration, and from the perspective of traffic noise pollution, anything under 80 is considered acceptable, so we believe the overall results are very good in terms of noise, vibration, and ride comfort.
+
+<b><u>Better Fuel Efficiency Than the Catalog Values</b></u>
+
+<b>Magazine:</b> Next, please present the fuel economy figures from Koguchi Laboratory.
+
+<b>Sano</b>: In terms of steady-state fuel economy, for the Coupe GL, it's 25.5km/l at 40km/h, 23.5km/l at 60km/h, 20.1km/l at 80km/h, and 15.2km/l at 100km/h. The catalog fuel economy is listed as 22.5km/l, but our actual result of 23.5km/l is better than that. This was with three people and test equipment on board.
+
+The model operating fuel efficiency was 14.2km/l when driving in a simulated 40km/h speed zone, with an average speed of 21.0km/h, which is almost 56% of the value at 40km/h when driving at a steady speed. In a simulated 60km/h speed zone, the result was 11.8km/l with an average speed of 24.5km/h, which is almost 60% of the value in steady-speed driving. 
+
+<b>Magazine:</b> How does this compare to the previous Sunny?
+
+<b>Koguchi:</b> It's difficult to compare the fuel economy, since our test methods have changed since we tested the Sunny 1000. But I think a constant-speed fuel economy of 23.5km/l at 60km/h is pretty good, considering the weight of the test load.
+
+<b>Magazine:</b> I think it's been common knowledge for some time that the Sunny has very good fuel economy. So, please provide us with data on braking and control operating force measured by the Ship Research Institute.
+
+<b>Ishikawa:</b> What stands out in the measurements is that the weight at the right front wheel is 25kg heavier than the left front wheel. The front-to-rear weight distribution is 53:47 with one person on board. With two people on board, the weight distribution is almost unchanged.
+
+Regarding wheel alignment, with one person on board, there's a little too much toe-in and a medium amount of camber. The rear also has a slight reverse camber, resulting in almost zero side slip. The brakes are discs in front and leading-trailing drums in the rear, typical of this type of car. I should mention that the car I measured was the GL Coupe, not the sedan. However, for disc brakes, they're fairly effective, with a pedal force of 23kg at 0.6g deceleration. The left-right balance of the brakes seems very good, too. The front-to-rear brake force distribution is roughly 7:3. 
+
+In terms of operating force, the gear lever is almost too light. It's a floor-mounted 4-speed change, and effort is about 2kg. Actually, the figures are 3kg going into reverse, and 1kg otherwise. The accelerator pedal effort is 1.5kg when maintaining a steady 50km/h, and 2kg when accelerating hard, which are also quite low values. The operating force for window cranks, doors, and various other parts is also generally around 2kg, making everything extremely light. 
+
+<b>Magazine:</b> We've heard that the various controls and brakes are very light, but what did you think of the controls, Okazaki-san?   
+
+<b>Okazaki:</b> I got the same impression as what we just heard. The steering is very light, and I liked the steering feel of the previous Sunny, but this time it's aimed at a slightly wider demographic, so the sharpness is somewhat diminished. Still, the response is good enough to satisfy even young people, and I think that generally speaking, it still has all the elements that make it a sporty car. 
+
+<b>Koguchi:</b> I thought that the car is well suited to the GL name. It has that kind of performance. There's no imbalance, such as, for example, a very light clutch and a heavy brake pedal. It's a well-balanced car that's easy to get into and drive, with a well-rounded, easy-to-use feel. That's what this coupe has.
+
+<b>Hirao:</b> It would be a problem if the throttle was too light, but I think it's just right. 
+
+<b><u>Slightly Strong Understeer</b></u>
+
+<b>Magazine:</b> Professor Hirata is not here today as he is on a tour of his laboratory’s factories, so Professor Yamamoto will be providing us with the data on visual field measurements, while also touching on the characteristics of the cars.
+
+<b>Yamamoto:</b> For the Coupe GL, from the driver’s perspective, the distance to the windshield is 52cm at the center of the seat slide, which is a relatively good value compared to other cars in this class. In the event of a collision, it is better for this distance to be as far as possible, but if it is too far, the field of view will be poor. When comparing the visibility range of the windshield with other cars, it is probably on the better side.
+
+The wipers’ cleared range is also relatively good. Executive Director Takahashi mentioned earlier that they were paying particular attention to visibility, and while the car still has triangular windows, the pillars have been made very thin. If the triangular windows weren’t there, I think things would be a bit different.
+
+<b>Magazine:</b> Thank you. In the coupe, the rear window is quite large, but when the glass area is this large, the image becomes distorted and it becomes quite difficult to see, even though there is no problem with the field of view itself.
+
+<b>Yamamoto:</b> It’s even worse because the angle of the glass is so horizontal.
+
+<b>Higuchi:</b> I was also concerned about the amount of distortion.
+
+<b>Magazine:</b> Next, the Saito lab will present the data about maneuverability and stability.
+
+<b>Doi:</b> There was still some snow left on the test course, which was a bit concerning, but the skid pad was completely dry. First, the minimum practical turning radius was 4.55m on the outside and 2.09m on the inside. It’s noticeably smaller than other cars in the class.
+
+Comparing the understeer and oversteer characteristics at V²=100, the R/Ro was 1.54, which indicates a slightly strong understeer. I was unable to find a point where it reversed into oversteer, even after reaching a speed of 40km/h. The steering force in this test was 3.1kg at 0.5g, which seems to be roughly a medium level of steering force. The roll rate was 4.5°, which is a little firm for a sedan, but I think it’s standard for a sports car. When the car is stationary, the steering force to turn the wheel to the left was 8.5kg at 90°, 12.0kg at 180°, 13.8kg at 270°, and 14.0kg at 360°, for a maximum of 14kg. Turning to the right, the steering force was 6.5kg at 90°, 12.0kg at 180°, 15.0kg at 270°, and 14.0kg at 360°, for a peak of 15.0kg. This is slightly heavier than comparable cars in the class. To measure steering force at higher speeds, we performed a slalom test with the cones separated 70m apart, and when turning right at a lateral acceleration of 0.25g, the force was 2.6kg, and when turning left it was 2.3kg, which are considered standard values in the middle range for cars in this class.
+
+Regarding the directional stability in the free-release test, the damping ratio, which was measured at 100km/h as always, was about 0.2, with a frequency of 0.8Hz. The period was 1.25 seconds, and the waveform shows excellent attenuation and stability.
+
+<b><u>Happy Maniac</b></u>
+
+<b>Okazaki:</b> I didn’t feel that there was much understeer. I thought it was very nimble to drive. However, one thing that bothered me was the so-called bouncing vibration, the firmness seemed a little excessive.    
+
+<b>Takahashi:</b> It may sound like a strange thing to say, but I like to think of it as a strong underdog.
+
+<b>Doi:</b> Compared to the cars I usually drive, it didn’t feel like there was too much understeer, and compared to the first Sunny, that car’s R/Ro was a little larger, at 1.57.
+
+<b>Hirao:</b> I think I understand why the understeer is quite strong in terms of numbers, but doesn’t feel that way to the driver. I think it’s because the steering is light. It's especially light at high speeds. When that is the case, you end up turning the steering wheel more than you think you should. That counteracts the feeling of understeer. You don’t think you’re turning it that much, but you’re giving it extra input without realizing that it’s washing out. And I think that’s why you’re already compensating for it properly.
+
+<b>Otani:</b> Cars with extremely strong understeer like in the old days are no longer viable.
+
+<b>Magazine:</b> Now we’d like to ask for the information on the dimensions and safety from Higuchi Keikyusho.
+
+<b>Onda:</b> Measurements were taken on both the GL Coupe and the GL four-door sedan, but I will mainly focus on the GL Coupe. As mentioned, I think the biggest change is the width of the body. Accordingly, the front and rear treads have also become slightly wider. The overall length has not increased as much as the width. As for the interior, the basic layout remains the same as the previous coupe, and the folding rear seats and the integrated trunk space have been retained. In terms of dimensions, the interior is also 50mm wider than the previous model. Another difference is that the handbrake is now a lever type compared to the umbrella type of the previous model.
+
+<b>Higuchi:</b> Next, I’ll talk about safety and maintenance. To give you the conclusion first, the safety rating was 83 out of 100. Up until now, it’s been normal for a car to score below 80, so in that sense, this car’s safety equipment is very good. This is just a visual assessment of safety factors, though.
+
+Next, regarding maintenance, when I read the manual, I found many things that I found very encouraging. For example, even if rubber hoses for brakes and gasoline look safe to the naked eye, they should be replaced when the time is right. This has long been a common practice on airplanes and trains, but this was the first time I’d seen it in an owner’s manual for a car. It is clearly stated in bold Gothic font that “When the treads on the tires start to fade, replace them” and “Use regular fuel.” This was the first time I’ve come across such a helpful manual.
+
+<b>Hirao:</b> The gas station guy would be pleased. (Laughs)
+
+<b>Higuchi:</b> I want to thank them for an instruction manual that includes so much useful information for users, but it also says that you should change the engine oil every 5,000km, and lubricate various parts every 10,000km. It also says that you should have a minor tune-up about every 20,000km, and a major tune-up every 40,000km. So, I think the average user won’t need to do much until the car is due for inspection.
+
+<b>Magazine:</b> Now that we’ve covered most of the topics, we understand that the older model will also continue to be produced, so we would like you to explain the goals in this regard and the ratio of coupes to sedans.
+
+<b>Takahashi:</b> In February, the 1200 sold 13,000 units, and the 1000, 3,300 units, for a total of 16,000 units. This is a personal opinion, but I was wondering if, at 13,000 units, we planned too few. I thought that the ratio would be about half GL four-doors and half coupes, but in fact there were more GL four-doors. Also, many people seemed to want the Sunflower Gold color, and we were actually unable to fill all the orders.
+
+<b>Magazine:</b> We’ve heard that the sales ratio of coupes to sedans is 4:6.
+
+<b>Takahashi:</b> I think coupe production is still lacking a bit. It’s still a little ways off, but we’re aiming for 28,000 units annually for the series domestically, and around 35,000 units including exports.
+
+<b>Magazine:</b> Thank you all very much. 
+ 
+
