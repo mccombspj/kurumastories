@@ -1,7 +1,7 @@
 +++
 
 title = "Mitsubishi Colt Galant GTO MR vs. Toyota Celica 1600GT (1970)"
-weight = 20
+weight = 10
 
 date = "2025-10-29T04:50:49-07:00"
 

@@ -8,7 +8,7 @@
 
 title = "Mitsubishi Colt Galant GTO 2000GSR (1973)"
 
-weight = 40
+weight = 50
 
 
 

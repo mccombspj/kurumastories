@@ -3,7 +3,7 @@
 
 
 title = "Mitsubishi Colt Galant GTO MII (1970)"
-weight = 10
+weight = 20
 
 
 date = "2025-10-11T04:50:49-07:00"
@@ -24,7 +24,7 @@ draft = false
 
 <b>Publication:</b> Car Graphic<br>
 <b>Format:</b> Road Impressions<br>
-<b>Date:</b> January 1970<br>
+<b>Date:</b> January 1971<br>
 <b>Author:</b> "C/G Test Group" (uncredited)
 
 
