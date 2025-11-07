@@ -2,7 +2,7 @@
 
 
 
-title = "Mitsubishi Colt Galant GTO MII (1970)"
+title = "Mitsubishi Colt Galant GTO MII (1971)"
 weight = 20
 
 
