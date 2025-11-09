@@ -74,6 +74,9 @@
     <loc>http://localhost:1313/toyota/carina/cg-ri-toyota-carina-1600st-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mazda/cosmo-sport/mf-rt-mazda-cosmo-sport/</loc>
+    <lastmod>2025-11-08T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/honda/honda-1300/as-rt-honda-1300-coupe-9s-1970/</loc>
     <lastmod>2025-11-05T04:50:49-07:00</lastmod>
   </url><url>
@@ -206,6 +209,15 @@
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mazda/cosmo-sport/</loc>
+    <lastmod>2025-11-08T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mazda/</loc>
+    <lastmod>2025-11-08T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-08T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/</loc>
     <lastmod>2025-11-06T04:50:49-07:00</lastmod>
   </url><url>
@@ -219,9 +231,6 @@
     <lastmod>2025-11-06T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/sunny/mf-rt-nissan-sunny-coupe-1200gl-1970/</loc>
-    <lastmod>2025-11-06T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2025-11-06T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/honda-1300/</loc>
@@ -240,9 +249,6 @@
     <lastmod>2025-11-05T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/luce-rotary-coupe/</loc>
-    <lastmod>2025-11-04T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mazda/</loc>
     <lastmod>2025-11-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/bluebird/</loc>
@@ -283,9 +289,6 @@
   </url><url>
     <loc>http://localhost:1313/toyota/2000gt/</loc>
     <lastmod>2025-10-30T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mazda/cosmo-sport/</loc>
-    <lastmod>2025-10-29T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-fto/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
