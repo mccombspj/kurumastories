@@ -4,7 +4,7 @@
 
 title = "Mazda Capella Rotary Coupe GS (1970)"
 
-weight = 1
+weight = 20
 
 
 
