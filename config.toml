@@ -1,4 +1,4 @@
-baseURL = "http://kurumastories.com/"
+baseURL = "https://kurumastories.com/"
 languageCode = "en-us"
 title = "Kuruma Stories"
 theme = "ananke"
