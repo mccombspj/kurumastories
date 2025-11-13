@@ -155,7 +155,7 @@ They will prefer to ride in a two-seater car, which will allow them to avoid hav
 
 <b>Tanabe:</b> When we were making the SR, we wanted to increase the number of people racing, so we thought of it as a car that could be used in amateur races without much effort. After that, it was used that way in the United States and Japan, but market research in the United States showed that about 20% of the cars were used by women. This created a dilemma: if we made it too stiff, it would make it unsuitable for general use, and at the same time, if we made it only somewhat stiffer, it wouldn't be hard enough for racing. This would be a case of “too short for the sash, too long for the belt," in other words, not suitable for either purpose. Ultimately, we decided that if we made it any harder, it would not be marketable to general users, so we stopped trying to make it stiffer and instead focused on making it softer as a specialty car. 
 
-However, although it has not yet been released, we are considering stiffer springs as an option for the "4Z32R."
+However, although it has not yet been released, we are considering stiffer springs as an option for the "Z432R."
 
 <b>Okazaki:</b> I thought the steering response at high speeds was good, but there was a sense of elasticity. I found that a little unpleasant... 
 

@@ -59,9 +59,9 @@ To be honest, no matter how strong a car was in the past in racing, and no matte
 In the past, most fast cars were rough around the edges. In times when technology was low, something had to be sacrificed for the sake of performance, but in today's world, it is by no means impossible to create a car that is smooth, quiet, and effortlessly fast. As the flagship of the Skyline series that defined an era in the history of domestic automobiles, isn't it about time that it took on this new possibility? 
 
 
- 
+<b><u>Postscript: Story Photos</b></u>
 
-
+{{< gallery "CG-RT-Nissan-Skyline-2000GTR-1973-Gallery" >}}
 
 
 

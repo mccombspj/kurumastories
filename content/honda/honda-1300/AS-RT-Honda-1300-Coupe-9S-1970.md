@@ -82,7 +82,7 @@ The fuel consumption over our drive was about 7km/l. It's a little excessive for
 
 One last thing that impressed me was how well the engine's serviceability has been considered. In the case of the Mini Cooper, cylinder head-related repairs can be done without removing the engine, but all other repairs must be done by removing the engine along with the subframe. With the Honda 1300 Coupe, not only the head but also the cylinder block can be removed as is, and the design of the underside makes it easy to inspect the transmission. This is an absolute advantage in racing. 
 
-Another difference between the 1300 Coupe and the the Mini Cooper is that the latter uses engine oil to lubricate the engine, transmission, and differential parts, so small metal chips from the transmission can also get into the engine, which is naturally bad for it. Also, there is a crevice in the oil pan which causes the oil to be splashed around, resulting in premature engine wear.
+Another difference between the 1300 Coupe and the Mini Cooper is that the latter uses engine oil to lubricate the engine, transmission, and differential parts, so small metal chips from the transmission can also get into the engine, which is naturally bad for it. Also, there is a crevice in the oil pan which causes the oil to be splashed around, resulting in premature engine wear.
 
 By contrast, the Honda 1300 series is equipped with a full dry sump system similar to that in a racing car, the engine uses only synthetic oil, and the transmission uses a forced oil supply system, which are quite elaborate mechanisms for a street car.
 

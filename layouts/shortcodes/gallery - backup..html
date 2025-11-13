@@ -1,0 +1,12 @@
+<div style="display:flex; flex-direction:row; overflow-x:auto; gap:8px; padding:8px 0; white-space:nowrap;">
+  {{ $folder := .Get 0 }}  <!-- gets folder name passed from Markdown -->
+  {{ $path := printf "static/images/%s" $folder }}
+  {{ $files := readDir $path }}
+
+  {{ range sort $files "Name" }}
+    <a href="{{ printf "/images/%s/%s" $folder .Name }}" target="_blank" style="flex:0 0 auto;">
+      <img src="{{ printf "/images/%s/%s" $folder .Name }}" 
+           alt="{{ .Name }}" style="width:120px; height:120px; object-fit:cover;">
+    </a>
+  {{ end }}
+</div>

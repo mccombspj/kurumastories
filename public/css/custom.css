@@ -49,3 +49,37 @@ div.mb3.pa4.gray.overflow-hidden.bg-white {
     box-shadow: 0 0 4px rgba(0,0,0,0.05);
     margin-bottom: 1.5rem;
 }
+
+/* =========================
+   SCROLLING GALLERY STYLING
+   ========================= */
+.scroll-gallery {
+    display: flex;
+    overflow-x: auto;          /* Enables horizontal scrolling */
+    gap: 8px;                  /* Spacing between thumbnails */
+    padding: 8px 0;
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on mobile */
+}
+
+.scroll-gallery::-webkit-scrollbar {
+    height: 8px;               /* Height of scrollbar */
+}
+
+.scroll-gallery::-webkit-scrollbar-thumb {
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 4px;
+}
+
+.gallery-thumb {
+    flex: 0 0 auto;            /* Prevent shrinking */
+    width: 120px;
+    height: 120px;
+    object-fit: cover;          /* Crop to fit */
+    border: 1px solid #ccc;    /* Optional border */
+    border-radius: 4px;         /* Optional rounding */
+    transition: transform 0.2s; /* Optional hover effect */
+}
+
+.gallery-thumb:hover {
+    transform: scale(1.05);     /* Slight zoom on hover */
+}
