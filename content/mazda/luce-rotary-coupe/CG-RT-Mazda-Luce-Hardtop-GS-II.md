@@ -217,3 +217,6 @@ After this second experience, and as far as we can judge, we can summarize the L
 
 
 
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Mazda-Luce-Hardtop-GS-II-1973-Gallery" >}}

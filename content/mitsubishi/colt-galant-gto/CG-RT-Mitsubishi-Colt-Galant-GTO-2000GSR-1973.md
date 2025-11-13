@@ -167,5 +167,8 @@ There is nothing more that needs to be added to the complete set of accessories,
 
 
 
-The price is 943,000 yen, which is much cheaper than the previous DOHC 1.6-liter MR (1,125,000 yen). The relationship between the GSR and MR is similar to that between the Porsche 914/2.0S and the discontinued six-cylinder 914/6. If you don't hear the engine sound, you can't tell the difference between the two cars from the outside, and the 914/2.0S is actually faster than the 914/6 in terms of standing-start acceleration. The 914/6 is superior only in terms of top speed and acceleration performance at higher speeds, and the price was 50% higher. The same can be said about the GSR and MR, but since there is less difference in performance than in the case of the Porsches, the GSR can be said to be a good deal. 
+The price is 943,000 yen, which is much cheaper than the previous DOHC 1.6-liter MR (1,125,000 yen). The relationship between the GSR and MR is similar to that between the Porsche 914/2.0S and the discontinued six-cylinder 914/6. If you don't hear the engine sound, you can't tell the difference between the two cars from the outside, and the 914/2.0S is actually faster than the 914/6 in terms of standing-start acceleration. The 914/6 is superior only in terms of top speed and acceleration performance at higher speeds, and the price was 50% higher. The same can be said about the GSR and MR, but since there is less difference in performance than in the case of the Porsches, the GSR can be said to be an even better deal. 
 
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Mitsubishi-Galant-GTO-2000GSR-1973-Gallery" >}}

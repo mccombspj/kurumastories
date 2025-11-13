@@ -143,7 +143,9 @@ The fuel consumption rate was a middling 7.4km/l over the 500km test distance, i
 
 After the test, our impression of the Violet remained in our minds only in a very vague form. It is a faithful successor to the Bluebird 510, a scaled-down version of the Bluebird U, and, in short, a modern Nissan compact car. So, if a current Nissan owner were to switch from their car into this one, they would probably think, "ah, I thought so," and if it were someone's very first time driving a car, they might come to understand that this is what a normal car is like. That may be what the designers of the Violet were aiming for. 
 
+<b><u>Postscript: Story Photos</b></u>
 
+{{< gallery "CG-RT-Nissan-Violet-Hardtop-1600SSS-E-1973-Gallery" >}}
 
 
 

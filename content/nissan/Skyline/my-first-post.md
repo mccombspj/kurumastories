@@ -82,6 +82,9 @@ We've spent a lot of time on handling and power performance, so we don't have th
 We discussed how we would spec the GT-R if we were buying one for our own practical use, and decided we would equip it with the following options: 4.88 final drive ratio, 5J rims and 6.95H-14 Bridgestone Super Speed 2 tires from the Z432, racing brake pads with servo, quick 15.2:1 steering ratio, iodine lights, and a quieter exhaust to avoid raising eyebrows when warming up in a residential area in the early morning. These finishing touches would complete a hard-core grand tourer that is great fun to drive.
 
 
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Nissan-Skyline-2000GTR-Hardtop-1971-Gallery" >}}
 
  
 

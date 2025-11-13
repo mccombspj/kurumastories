@@ -87,3 +87,5 @@ Another difference between the 1300 Coupe and the Mini Cooper is that the latter
 By contrast, the Honda 1300 series is equipped with a full dry sump system similar to that in a racing car, the engine uses only synthetic oil, and the transmission uses a forced oil supply system, which are quite elaborate mechanisms for a street car.
 
 Overall, I was impressed by the potential of the Honda 1300 Coupe, and felt a strong desire to use it in my own racing activities.
+
+

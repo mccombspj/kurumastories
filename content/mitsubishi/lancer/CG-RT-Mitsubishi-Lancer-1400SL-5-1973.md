@@ -223,3 +223,7 @@ Average fuel economy over the total test distance of 396km, including repeated t
 
 People have different tastes when it comes to body styling and interior design, and the Lancer is fairly average in both respects. It's not particularly roomy or quiet, but it has the capacity to transport four adults safely and comfortably for long periods of time at high speeds, and above all, it is exceptionally easy to drive, as exemplified by its smooth and highly maneuverable handling. Anyone can simply get in and drive without worries, like a a car they've been familiar with for a long time, and it can also be enjoyed by those who drive in a sporty manner. It can be said that it is suitable for everyone because it can accommodate various driving styles depending on the driver's need and mood. Therefore, the four-door version is probably best from the viewpoint of practicality. If it can produce results like the ones in this test, there is no need to go for the 1600 with its additional 8ps. In that sense, the Lancer 1400SL-5 is a safe, high-value purchase. Due to the favorable characteristics of the engine, the 5-speed gearbox is practically unnecessary, so even the 1400GL (609,000 yen, 586,000 yen for the two-door) is worthy of consideration.
 
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Mitsubishi-Lancer-1400SL-5-1973-Gallery" >}}
+
