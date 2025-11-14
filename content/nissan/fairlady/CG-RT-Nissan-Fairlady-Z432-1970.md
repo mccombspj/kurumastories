@@ -131,3 +131,8 @@ The ride is quite soft compared to the Fairlady 2000, but still quite hard by ge
 
 Unfortunately, we were not able to fully experience the Z432's capabilities during this test because the engine was not in perfect condition, but we were deeply impressed by its excellent handling. A race-spec car that has been made 110kg lighter (by changing the windows to acrylic and the hood to FRP, etc.) and has stiffer suspension (front spring constant raised from 1.8kg/mm to 5.5kg/mm, rear from 2.1kg/mm to 5.6kg/mm) should be released soon, and we would like to conduct a full test if possible.
 
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Nissan-Fairlady-Z432-1970-Gallery" >}}
+

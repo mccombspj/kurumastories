@@ -73,3 +73,8 @@ The Mark II suspension is well matched to the radial tires, and even without cha
 In terms of the interior, the main difference from the SL is the seats. They are semi-bucket seats with headrests attached, and are extremely comfortable. The seating position is slightly lower than in the SL, and there is no mechanism to adjust the seat height like in the SL. The steering wheel is wrapped in black leather, the throttle pedal is elongated to make heel-and-toeing easier, and some of the Hardtop SL's standard accessories, such as power windows, rear window defogger, and power antenna, are made optional to reduce weight.
 
 Let's jump straight to the conclusion. The GSS is a high-performance five-seater hardtop that is easier to drive around town than the Skyline 2000GT-R, much roomier than the Isuzu Bellett GTR, and is slightly less expensive than either. It still costs about 200,000 yen more than its sister model, the 1900 Hardtop SL, but we can say with confidence that it is well worth it. 
+
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Toyota-Corona-Mark-II-GSS-1970-Gallery" >}}

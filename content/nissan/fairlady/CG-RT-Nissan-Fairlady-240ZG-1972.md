@@ -100,3 +100,8 @@ The tailgate opens wide and easily on hydraulic struts like the E-Type, and the 
 
 So, is the 240Z worth its price, which is 220,000 to 350,000 yen more expensive than the 2-liter Z, plus the additional tax you have to pay for a 3-number vehicle? In terms of performance, the difference of 400cc certainly has an effect, especially in terms of acceleration, and it is true that it is much easier to drive because of the extra power. However, if you are looking for an easy-to-drive car of this type, the automatic 240Z is more suitable. If you plan to use it as a true GT car, and if you are already willing to spend 1.5 million yen to buy the 240ZG, we think you should splurge a little and buy the Z432. 
 
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Nissan-Fairlady-240ZG-1972-Gallery" >}}
+

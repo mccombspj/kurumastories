@@ -132,4 +132,6 @@ Finally, a note on fuel economy. It is said that the rotary engine's biggest wea
 With acceleration on par with that of a 2-liter sports car, an exceptionally small turning radius of 4.1m, and a rotary engine that is easier to use at low speeds than the average reciprocating engine, the Rotary Coupe is a perfect city runabout for modern metropolitan traffic conditions. Our conclusion is that, for grand touring on the highway, another potential specialty of this car, a chassis worthy of the wonderful rotary engine is required, even if the price becomes higher for this reason. 
 
 
+<b><u>Postscript: Story Photos</b></u>
 
+{{< gallery "CG-RT-Mazda-Familia-Rotary-Coupe-1968-Gallery" >}}

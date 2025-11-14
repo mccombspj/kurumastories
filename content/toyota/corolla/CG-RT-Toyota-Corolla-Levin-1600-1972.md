@@ -148,4 +148,6 @@ Fuel consumption is very high. Even at a constant speed, the Levin’s fuel cons
 The Corolla Levin, with its compact body and powerful DOHC engine, is the Japanese equivalent of the Escort RS (the TC is no longer in production). Compared to the RS, a detuned racing sedan, the Levin is superior in that it offers extremely high levels of maneuverability, livability, power performance, and flexibility. In that sense, although it looks like a fairly normal coupe, it is in fact a "fun car" that exists only for the pleasure of driving. The price of 813,000 yen in standard form is reasonable, its performance will easily surpass the Celica GT if you order practical accessories such as a limited-slip differential, and it is hard to give up the fun of legally racing on the highway. 
 
 
+<b><u>Postscript: Story Photos</b></u>
 
+{{< gallery "CG-RT-Toyota-Corolla-Levin-1600-1972-Gallery" >}}

@@ -133,3 +133,7 @@ The frequently-used headlight switch is located far away on the center console, 
 
 In conclusion, contrary to our expectations (hopes?), the GT-R turned out to be an effectively detuned high-performance sedan that is sufficiently tractable for practical use around town. However, since it is based on the R380, it will be relatively easy to restore the engine to its full 220ps. Tuning parts for the engine and suspension are already listed in the catalog, each according to its intended purpose, such as rallying or circuit racing, which is very encouraging for drivers who are planning to enter the GT-R in competition. As we have explained, we were unable to test the GT-R's amazing high-speed performance fully due to the condition of the test car, and we hope to have an opportunity to confirm its true capabilities in the near future.
 
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Nissan-Skyline-2000GTR-1969-Gallery" >}}
