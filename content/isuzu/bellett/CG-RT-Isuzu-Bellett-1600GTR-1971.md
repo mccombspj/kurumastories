@@ -113,7 +113,7 @@ Certainly, the Bellett GTR, whose basic design is nearly ten years old, is an ol
 
 
 
-<b></u>Supplement: from July 1971 issue</b></u>
+<b><u>Supplement: from July 1971 issue</b></u>
 
 
 
@@ -135,3 +135,7 @@ To summarize what was confirmed in the second test, the 1600GTR's power performa
 
 The condition of the GTR's engine remained constant throughout the test period. Even when the car was kept at top speed and repeatedly lapped for more than 10 minutes, the water temperature remained constant at 85°C, although the oil pressure dropped slightly. Still, extended cruising at 160km/h (about 5600rpm) showed all readouts well within the safe range. In addition, the air pressures in the Yokohama GT Special XX 165HR-13 tires, which started out at 1.8kg/2.1kg, and had risen to 2.0kg/2.4kg immediately after the speed test, also stayed within the normal range.
 
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Isuzu-Bellett-1600GTR-1971-Gallery" >}}

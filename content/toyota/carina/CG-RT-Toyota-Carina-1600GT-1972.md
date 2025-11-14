@@ -228,4 +228,6 @@ The interior is almost the same as that of the Carina ST. The main difference is
 The Carina GT is a four- to five-seat family sports car that is easy to drive in the city and has high performance that can withstand continuous high-speed driving. This Japanese Alfa Romeo 1600 Super, which can be purchased for 818,000 yen, can certainly be considered "best value for money" in its class.
 
 
+<b><u>Postscript: Story Photos</b></u>
 
+{{< gallery "CG-RT-Toyota-Carina-1600GT-1972-Gallery" >}}

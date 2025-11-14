@@ -167,4 +167,8 @@ A problem with this type of coupe, which is a recent trend, is the limited visib
 
 
 
-The interior equipment includes a variety of useless items, but the functional parts that are truly necessary for practical use are optional. For example, a heated rear window, intermittent wipers, and three-point seat belts are optional equipment even in the highest-end models, and these should be standard equipment no matter what.
+The interior equipment includes a variety of superfluous items, but the functional parts that are truly necessary for practical use are optional. For example, a heated rear window, intermittent wipers, and three-point seat belts are optional equipment even in the highest-end models, and these should be standard equipment no matter what.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Nissan-Cherry-Coupe-X-1-1971-Gallery" >}}

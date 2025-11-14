@@ -119,7 +119,9 @@ We're looking forward to testing the GTO MR with DOHC, 125ps, and the 5-speed ge
 
 
 
- 
+ <b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RI-Mitsubishi-Galant-GTO-MII-1971-Gallery" >}}
 
 
 

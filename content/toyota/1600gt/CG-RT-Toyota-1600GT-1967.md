@@ -143,3 +143,7 @@ We have not yet been able to come to a conclusion on the 1600GT's brakes. The GT
 
 
 Finally, regarding fuel economy, accurate measurements could only be taken for the GT5, but the average fuel economy over 282km of driving in Tokyo and on the Third Keihin National Highway was 6.4km/l. The GT4's carburetor setting seemed to be overly rich, and a rough measurement suggested its fuel consumption was about 5km/l.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Toyota-1600GT-1967-Gallery" >}}

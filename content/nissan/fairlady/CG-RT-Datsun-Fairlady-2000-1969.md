@@ -84,3 +84,7 @@ The Fairlady meets all US safety standards (except for emissions, on the domesti
 The Fairlady is a pure two-seater, nothing more, but there is a truly spacious luggage area behind the seats, and two large suitcases can be placed there. Although it is very simple, it is equipped with a cloth band to secure luggage. In addition to the glove box on the dash, there is a locker between the seats that can hold a camera, and both doors have map pockets. There is an ashtray behind the gear lever. It has a sliding lid, so non-smokers will find it useful as a coin tray. The dashboard is completely covered with a matte black crash pad, and all the switches are flat and have a safe shape. There is a warning light on the console to notify the driver of brake fluid leakage, which is rare for a Japanese car, and there is also a switch to check if the bulb of this warning light is burned out. All the instruments are located high in the dash, making them easy to see day and night.
 
 As we have said many times before, the Fairlady is not a modern grand touring car. It is a traditional (and probably one of the last) open two-seater sports car. It has many inconveniences when viewed as multi-purpose transportation, but for drivers who can drive a sports car like a sports car, it will give deep pleasure that exceeds its price. 
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Datsun-Fairlady-2000-1969-Gallery" >}}
