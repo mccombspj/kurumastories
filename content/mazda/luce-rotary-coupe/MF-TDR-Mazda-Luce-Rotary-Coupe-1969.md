@@ -187,3 +187,8 @@ What's more, if you pull out the armrest in the middle of the rear seat by undoi
 Finally, regarding fuel consumption, the route was slightly different over the round trip from Tokyo to Hakone, but the consumption data measured on the outbound journey was 7.2km/l over 110.6km. If we consider this rotary engine, with a single chamber capacity of 655cc, to be equivalent to a 2620cc (655 x 2 x 2) reciprocating engine, then we must say that its fuel consumption is somewhat high. Also, it seems that for tax purposes it will be treated as an 1800cc engine depending on its "vehicle class," but compared to an 1800cc reciprocating engine, its fuel consumption will be significantly higher. However, since the car can run on regular-grade gasoline, the difference in fuel cost will not be as great as with a high-performance reciprocating engine that requires high-octane gasoline.
 
 Finally, I should add that on my round trip from Tokyo to Hakone, the tolls on the toll road were always priced at "small passenger car" rates.
+
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-TDR-Mazda-Luce-Rotary-Coupe-1969-Gallery" >}}

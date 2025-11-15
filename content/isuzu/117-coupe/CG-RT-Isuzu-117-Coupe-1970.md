@@ -161,3 +161,7 @@ I seems unlikely that those wealthy enough to afford this 1.72 million yen car w
 
 For those fortunate enough to spend 1.72 million yen on a car, the Isuzu 117 Coupe will provide satisfaction that is well worth the price. 
 
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RI-Isuzu-117-Coupe-1970-Gallery" >}}

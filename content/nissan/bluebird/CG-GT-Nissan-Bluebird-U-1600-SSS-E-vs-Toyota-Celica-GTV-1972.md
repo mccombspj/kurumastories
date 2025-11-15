@@ -202,4 +202,7 @@ There is a big difference in the tools provided. Toyota has always provided a go
 In conclusion, these cars are comparable in terms of performance, and they both have high levels of maneuverability. They are both fun to drive, which is rare for domestic cars in this class these days. The Celica GTV is a step ahead in terms of handling, but this is largely due to the 5J rims and 185/70HR-13 radial tires. If the Bluebird were fitted with wider tires of the same class, the competition would be even more interesting. Previously, Nissan was far inferior to Toyota in terms of interior finish and equipment, but this gap has narrowed significantly since the Bluebird U was introduced. 
 
 
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-GT-Nissan-Bluebird-U-1600-SSS-E-vs-Toyota-Celica-1600GTV-1972-Gallery" >}}
 

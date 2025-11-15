@@ -159,3 +159,6 @@ The interior is luxurious but unified in modest good taste. Naturally, priority 
 
 
 
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RI-Mazda-Luce-Rotary-Coupe-1969-Gallery" >}}
