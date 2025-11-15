@@ -99,3 +99,8 @@ This description may make it sound like a gradual process, but it actually happe
 
 In conclusion, the Savanna GT is not a practical GT suitable for long-distance and high-speed travel, but is closer to a sports car purely for the enjoyment of driving. It is a good choice for those who are skilled, but for the average driver, the GS II, which is much more comfortable to drive, is already more than sufficient.
 
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RI-Mazda-Savanna-GT-1972-Gallery" >}}
+

@@ -67,11 +67,11 @@ The gear spacing of the 5-speed gearbox is appropriate for the power and weight.
 
 
 
-The shift pattern is the same as in the Fiat 124, with fifth gear located to the upper right, and you cannot shift into the reverse gate below that without lifting the lever, so there is no worry about making a mistake. The shift is sure and light, with a relatively short throw, which is pleasant.
+The shift pattern is the same as in the Fiat 124, with fifth gear located to the upper right, and you cannot shift into the reverse gate below that without lifting the lever, so there is no worry about making a mistake. The shift is sure and light, with a relatively short throw and a pleasant feel.
 
 
 
-What was a little disappointing about this car was the acceleration performance. The 0-400m time was 17.5 seconds, and 0-1000m took 32.3 seconds, which was far behind the 16.8 seconds and 32.0 seconds of the Celica GT we tested last year, and overtaking acceleration was even worse. On the other hand, the top speeds were 176.8km/h for the GT and 175.4km/h for the GTV, which are pretty much the same, so we don't think that the GTV's engine was particularly out of order. 
+What was a little disappointing about this car was the acceleration performance. The 0-400m time was 17.5 seconds, and 0-1000m took 32.3 seconds, which was far behind the 16.8 seconds and 32.0 seconds of the Celica GT we tested last year, and overtaking acceleration was even worse. On the other hand, the top speeds were 176.8km/h for the GT and 175.4km/h for the GTV, which are pretty much the same, so we don't think that the GTV's engine was particularly out of tune. 
 
 
 
@@ -139,7 +139,7 @@ In this comparative test, the Celica GTV won out in terms of handling, but if yo
 
 
 
-Returning to the Bluebird U, we would like to see what kind of results would come from combining the high level of maneuverability of the bias-plies with the grip of good radial tires. The specified standard pressure for the bias-plies is 1.6kg/1.6kg, but we always ran them at 1.9kg/1.9kg and obtained good maneuverability. However, road joints and other impacts caused loud clunks and thumps, and it seems that more steps need to be taken to block out road noise. Although we didn't feel this so much with the 1800 SSS-E that we tested previously, with the 1600 SSS-E, there was always a sense of heavy unsprung mass moving under the floor, which we could feel as vibrations through the floor. Although the mileage of our test car was less than 2,000km, it felt like a car that had already been driven a long distance. 
+Returning to the Bluebird U, we would like to see what kind of results would come from combining the high level of maneuverability of the bias-plies with the grip of good radial tires. The specified standard pressure for the bias-plies is 1.6kg/1.6kg, but we always ran them at 1.9kg/1.9kg and obtained good maneuverability. However, road joints and other impacts caused loud clunks and thumps, and it seems that more steps need to be taken to block out road noise. Although we didn't feel this so much with the 1800 SSS-E that we tested previously, with the 1600 SSS-E, there was always a sense of heavy unsprung mass moving under the car, which we could feel as vibrations through the floor. Although the mileage of our test car was less than 2,000km, it felt like a car that had already been driven much further than that. 
 
 
 

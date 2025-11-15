@@ -200,3 +200,7 @@ Fuel consumption over the first measurement section, on the Tomei Expressway, wa
 <b><u>8. Engine Flexibility Index</b></u>
 
 This formula is derived from the engine's horsepower, torque, and rotation speed, and is used to determine whether a car is easy to drive, or whether it is a car that prioritizes driving performance at the expense of some ease of driving. The Capella Rotary's flexibility index is a high 3.3, making it a car with an easy-to-use engine. By comparison, practical sedans tend to have an index of 1.5 to 2.5, while GT cars and sports cars are around 1.0 to 1.5.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-BSRT-Mazda-Capella-Rotary-Coupe-GS-1970-Gallery" >}}

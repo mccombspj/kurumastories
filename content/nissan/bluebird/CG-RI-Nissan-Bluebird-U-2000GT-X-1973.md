@@ -105,4 +105,6 @@ The interior equipment is pretty much standard for a high-end Japanese car. In a
 Many excellent four-cylinder engines (e.g., BMW's) show that a six-cylinder engine is not necessary for a practical engine of only about 2 liters, but there is no point in saying that here. For people who want that L20 engine for some reason, the Bluebird U 2000GT is a better buy than the Skyline GT or the six-cylinder Laurel, mainly in terms of its overall balance. Of course, it is not light enough to drive actively, but its strengths are its quietness at low speeds and its large torque, so the best choice in C/G's view is the 3-speed automatic transmission (35,000 yen extra, and the suspension is standard specification), and of course it is preferable to put on the optional wide radials. The overall average fuel economy during this test was 8.4km/l (on regular gasoline), and 10.8km/l when driving on the Tomei Expressway, mostly in fifth gear, occasionally dropping to fourth gear, at around 100km/h. 
 
 
+<b><u>Postscript: Story Photos</b></u>
 
+{{< gallery "CG-RI-Nissan-Bluebird-U-2000GT-X-1973-Gallery" >}}
