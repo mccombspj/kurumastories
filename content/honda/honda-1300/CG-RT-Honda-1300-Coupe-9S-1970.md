@@ -70,3 +70,7 @@ The coupe's seating is lower than in the sedan, the steering column is tilted sl
 When it comes to styling, individual tastes vary, but in our experience, the Honda 1300 Coupe, which looks like a miniature Pontiac GTO, attracted attention wherever it went. 
 
 After testing the Coupe, we felt that Honda made two important mistakes with the 1300: first, the 1300 sedan was brought to market too early, and second, the coupe was brought to market too late.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Honda-1300-Coupe-9S-1970-Gallery" >}}

@@ -124,4 +124,6 @@ A traditional feature of the Sunny Coupe is that the rear seat backrest can be f
 Owners of the outgoing Sunny 1000 Coupe will find the new 1200 Coupe GL to be a great improvement in almost every respect. With excellent economy and a low price of 590,000 yen, the Sunny 1200 Coupe GL is sure to become the first choice for many young people looking for a sporty coupe.
 
 
+<b><u>Postscript: Story Photos</b></u>
 
+{{< gallery "CG-RT-Nissan-Sunny-Coupe-1200GL-1970-Gallery" >}}

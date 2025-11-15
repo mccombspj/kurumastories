@@ -141,3 +141,9 @@ Unfortunately, the interior materials and finishes are a step below those of the
 
 Admittedly, there are areas of the Capella that need improvement, but owners who enjoy and appreciate the excellent dynamic performance will likely overlook some of the minor shortcomings. Overall, in terms of performance, livability, ease of use, and price, we would say that the Capella is one of the most significant cars of this year.
 
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Mazda-Capella-Rotary-Coupe-GS-1970-Gallery" >}}
+
+

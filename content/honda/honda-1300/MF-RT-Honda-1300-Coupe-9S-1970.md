@@ -621,3 +621,7 @@ For example, many people have seat belts but don't use them, so they end up cove
 
 <b>Magazine:</b> Thank you all for your continued support.
 
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-RT-Honda-1300-Coupe-9S-1970-Gallery" >}}

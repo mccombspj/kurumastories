@@ -73,3 +73,8 @@ Both cars' front seats are fully reclining with integrated headrests, and are ex
 Both cars have a full range of instruments, including an oil temperature gauge in the GTO. But the Celica's dashboard is more attractive and tidy, while the GTO's is busy, distracting and hard to read. Functionally, one problem with the GTO is that the horn button is in the center of the steering wheel, while the Celica places horn buttons in three positions on the steering wheel spokes where they can be operated without taking your hands off the steering wheel. However, the light and wiper switches are closer to hand in the GTO, as the Celica's are both located far away on the dash. The Celica's radio is AM/FM as standard, whereas the GTO's is AM. Generally speaking, the Celica's interior design and equipment are more luxurious.
 
 In conclusion, these two cars are so similar in both performance and design that it is difficult to find a decisive factor for choosing one over the other. If we had to say, the GTO is better in terms of maneuverability and power performance, so it is more suitable for "racers," while the Celica, with its elegant styling and well-equipped interior, would be preferred for "cruisers." In the end, however, the true deciding factor may be the price, as the difference between 875,000 and 1,125,000 yen is quite large.
+
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-GT-Mitsubishi-Galant-GTO-MR-vs-Toyota-Celica-1600GT-1971-Gallery" >}}

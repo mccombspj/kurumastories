@@ -122,3 +122,8 @@ The ride quality is very different between the front and rear seats. The front s
 The interior is mostly shared with the AI, so we will leave the details to the AI test report and focus on the unique features of the AII GS here. The driving position is very good, and the wood-rimmed steering wheel can be adjusted up and down by about 50mm, a feature unique to the Galant, so it can be tailored to suit the preferences of drivers of all sizes. The only thing we aren't happy about with the controls is that the horn button is located in the center of the steering wheel, which means that when driving in rally-like conditions as described above, you can't sound the horn without taking your hands off the steering wheel rim, which is very inconvenient. (In this respect, the AI Custom, which has the horn buttons embedded in the spokes, is better).
 
 Overall, the AII GS is a well-rounded everyday vehicle that is also suitable for hard, sporty driving, and almost completely satisfies the needs of the family man who wants everything in one car. In fact, we would say it's the best value for money in its class.
+
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Mitsubishi-Colt-Galant-AII-GS-1970-Gallery" >}}

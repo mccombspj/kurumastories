@@ -257,3 +257,6 @@ If you ask me which current FF car is the most rational, I would answer: BLMC's 
 
 
 
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-DTD-Honda-1300-Coupe-9S-1970-Gallery" >}}

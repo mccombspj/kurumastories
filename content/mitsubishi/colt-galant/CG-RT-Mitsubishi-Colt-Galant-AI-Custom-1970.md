@@ -126,3 +126,7 @@ The trunk is long but relatively shallow, and the opening is rather narrow. The 
 
 
 The Galant's body is solidly constructed, and there was no abnormal vibration or creaking, even on rough roads. Despite the lightweight body, the doors close with an "expensive" sound. 
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Mitsubishi-Colt-Galant-AI-Custom-1970-Gallery" >}}
