@@ -171,3 +171,7 @@ The rain got heavier and the rear window started to fog up, so I switched on the
 
 Although I was not able to test the handling thoroughly, even in my limited experience, I found that the Bridgestone Radial 20 165HR-13 tires had good grip on wet roads, and even when I applied power in a tight corner in second gear, the rear wheels did not slide. Despite having a rigid axle, the Celica behaves exceptionally well for a Japanese car under such adverse conditions (as does the Carina). One of the reasons for this excellent handling, which is comparable to that of a top European sports sedan, is that it has ample tire and rim width (4.5J rims and 165HR-13 tires are common for a car of this size and weight in Europe, but the standard practice for Japanese cars is 4J and 155SR-13 tires at most). There are many positive aspects to the Celica’s design, but I particularly commend their judgment in choosing to equip the car with high-speed radial tires one size larger than usual. I hope to take the Toyota Celica GT for a test drive again soon.
 
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RI-Toyota-Celica-1600GT-1971-Gallery" >}}

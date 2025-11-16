@@ -27,7 +27,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Dynamic Test Drive<br>
 <b>Date:</b> May 1970<br>
-<b>Author:</b> Shigeki Asaoka, Noriko Asaoka
+<b>Author:</b> Shigeki Asaoka, Noriko Asaoka, Motor Fan Editorial Staff (uncredited)
 
 
 
@@ -153,43 +153,43 @@ After driving on dirt roads and completing the test drive assignment, I drove th
 
 
 
-Now, let's move on to the main topic and add what I think.
+Now, let's move on to the main topic and get into what I think.
 
 
 
-In terms of my preferences, I honestly don't care much about interior comfort or exterior styling. That's probably why I am into racing, but what I'm really interested in is power and handling. If you ask me what the true joy of racing is, it's the constant pursuit of the limits and challenging the mechanisms. I apologize for sounding like I think I know what I'm talking about, but I truly believe this. It's a big mistake to think that cars simply go where they are pointed naturally. It is the effort of all manufacturers, not just in Japan, but all around the world, who go to great lengths to make their cars follow the driver's intended line. 
+In terms of my preferences, I honestly don't care much about interior comfort or exterior styling. That's probably why I am into racing, because what I'm really interested in is power and handling. If you ask me what the true joy of racing is, it's the constant pursuit of the limits and challenging the machines. I apologize for sounding like I think I know what I'm talking about, but I truly believe what I want to say next. It's a big mistake to think that cars simply go where they are pointed naturally. It is the effort of all manufacturers, not just in Japan, but all around the world, who go to great lengths to make their cars follow the driver's intended line. 
 
 
 
-The current situation is that we are somehow able to create cars that follow the driver's intended line by accumulating experiments day after day to determine what is wrong. The power of the racer, or rather the driver, plays a major role in this. What the driver feels during each test is essential to creating a safe car. In some ways, it is not an exaggeration to say that the feeling of a single driver determines everything.
+The current situation is that we are somehow able to create cars that follow the driver's intended line by accumulating experiments day after day to determine what is wrong with a car dynamically, and then improve it. The power of the racer, or rather the driver, plays a major role in this. What the driver feels during each test is essential to creating a safer car. In some ways, it is not an exaggeration to say that the feeling of a single driver determines everything.
 
 
 
-Moving on to high-speed driving, the first thing I noticed in the Coupe 9 was that it was a very difficult car to get a grasp of. Of course, I kept in mind the trendy FF mechanism while I drove. I felt this when I was driving around Otome Pass and around Gora, where the steering wheel was turned to the right or left, and the way it turned and returned to its original position was not consistent.
+When it came to high-speed driving, the first thing I noticed in the Coupe 9 was that it was a very difficult car to get a grasp of. Of course, I kept in mind the trendy FF mechanism while I drove. Even so, when I was winding through Otome Pass and around Gora, turning the steering wheel right and left, I felt that the way it turned and returned to its original position was not consistent.
 
 
 
-If you turn the wheel more than necessary, or if you anticipate it returning naturally to the straight-ahead position, the turned position will be maintained, even if only for a fraction of a second. If this is a fixed pattern and always happens consistently, then you can just adjust your driving accordingly. However, under repeated similar conditions, there just doesn't seem to be one set way you should steer the car to get the intended result.
+To be specific, if you turn the wheel more than necessary, or if you anticipate it returning naturally to the straight-ahead position, it will remain in the turned position, even if only for a fraction of a second. If this is a fixed pattern and always happens consistently, then you can just adjust your driving accordingly. However, under repeated similar conditions, there just doesn't seem to be one set way you should steer the car to get the intended result.
 
 
 
-After two days of intensive driving, I finally figured out the quirks of the car's handling. The FF mechanism itself is quite complicated, but even so, I couldn't help but feel a little uneasy.
+It took two days of intensive driving before I finally figured out the quirks of the car's handling. I acknowledge that the FF mechanism itself is quite complicated, but even so, I couldn't help but feel a little uneasy about this.
 
 
 
-Of course, this may not have much of an impact on the average driver. Perhaps my uneasiness is due to being overly nervous about the tough races at 200km/h and 300km/h?
+Of course, this may not have much of an impact on the average driver in normal driving. Perhaps my uneasiness is due to being overly nervous about the tough races at 200km/h and 300km/h?
 
 
 
-However, this judgment led me to the following speculation: Perhaps this unstable handling was the result of insufficient testing. Despite all the painstaking effort, perhaps there were still some unresolved issues that could not be ironed out before the car was put to commercial use. I'm not trying to make excuses, and I'm in no way saying that it's a defective car. No car is built perfectly.
+However, this judgment led me to the following speculation: Perhaps this unstable handling was the result of insufficient testing. Despite all the painstaking effort, perhaps there were still some unresolved issues that could not be ironed out before the car was released onto the market. I'm not trying to make excuses, and I'm in no way saying that it's a defective car. No car is built perfectly.
 
 
 
-It's the same in any organization. There's always a fierce battle between engineers and salespeople. The combination of providing cars to users as quickly as possible and collecting as much data as possible to create an even more perfect car is what leads to the creation of cars like this. There must be some high-level judgment at play here that a simple person like me can't understand.
+It's the same in any organization. There's always a fierce battle between engineers and salespeople. The balance between providing cars to users as quickly as possible and collecting as much data as possible to create an even more perfect car is what leads to the creation of cars like this. There must be some high-level judgment at play here that a simple person like me can't understand.
 
 
 
-However, I can't help but feel that with minor modifications to the handling, rather than making fundamental changes, they could have achieved much more stable performance. I have a friend who is an engineer at Honda. He is a very talented guy. Honda has many young engineers with great potential. I have heard him express the same thoughts, and perhaps this is why I am greedy, wanting more from the car.
+However, I can't help but feel that with minor modifications to improve the handling, as opposed to fundamental changes, they could have achieved much better stability. I have a friend who is an engineer at Honda. He is a very talented guy. Honda has many young engineers with great potential. I have heard him express the same opinions, and perhaps this is why I am greedy, wanting more from the car.
 
 
 
@@ -197,11 +197,11 @@ Of course, even if the fix is just a "small" correction, it's not something you 
 
 
 
-So, the manufacturer's so-called corporate social conscience determines the limits of safety, compromises are made, and the product is commercialized. So, it's true that I can't just say I understand it after driving the car for a day or two. But I agreed to at least write a test drive report for Motor Fan. It's my responsibility to express everything that comes to mind.
+So, the manufacturer's so-called corporate social conscience determines the limits of safety, compromises are made, and the product is commercialized. So, it's true that I can't just say I understand it after driving the car for a day or two. But since I agreed to at least write a test drive report for Motor Fan, it's my responsibility to express everything that comes to mind.
 
 
 
-If I may add, I felt that the relationship between the steering and the suspension was a little lacking. In other words, it was something called tracking, but it just didn't feel right. It's a slightly different nuance from the sharpness of the steering, but I got the feeling that the way the steering wheel was turned and the way the car turned were somehow inconsistent. It's not that there was any play in the steering, it's just...
+If I may add, I felt that the relationship between the steering and the suspension was a little lacking. In other words, the trait we call tracking just didn't feel right. It's a slightly different nuance from the sharpness of the steering, but I got the feeling that the way the steering wheel was turned and the way the car turned were somehow inconsistent. It's not that there was any play in the steering, it was just...
 
 
 
@@ -209,7 +209,7 @@ If I may add, I felt that the relationship between the steering and the suspensi
 
 
 
-I have given a rough outline of the appearance and driving feel, but after writing down all my thoughts, I have come to the conclusion that I still don't understand why this car had to be FF. 
+I have given a rough outline of the appearance and driving feel, but after writing down all my thoughts, my overall conclusion is that I still don't understand why this car had to be FF. 
 
 
 
@@ -225,7 +225,7 @@ However, the interior of the Honda 1300 Coupe 9 did not feel particularly spacio
 
 
 
-Despite these two advantages, FF also has a disadvantage. Namely, the extreme characteristics of understeer and oversteer are combined. This is why FF is said to be difficult for amateurs, as stability is usually derived from weight distribution. However, even just looking at the suspension, it will behave differently when driving at a steady speed, accelerating, braking, turning, turning while accelerating, and turning while braking--all of these conditions will lead to different situations. Therefore, it is necessary to make the characteristics suit all of these conditions, so to speak. This is extremely difficult. 
+Despite these two advantages, FF also has a disadvantage. Namely, the extreme characteristics of understeer and oversteer are combined at the limit. This is why FF is said to be difficult for amateurs, as stability is usually derived from weight distribution. Just looking at the suspension as one example, it will behave differently when driving at a steady speed, accelerating, braking, turning, turning while accelerating, and turning while braking--all of these conditions will lead to different situations. Therefore, it is necessary to make the characteristics suit all of these conditions, so to speak. This is extremely difficult. 
 
 
 
@@ -233,7 +233,7 @@ I said earlier that even small things can take a considerable amount of time and
 
 
 
-Although it's not directly related to the issue of rationality, perhaps this is also something that can be said about this coupe. In other words, it was equipped with the latest and most fashionable mechanisms, but somehow they didn't all fit together perfectly. Whether it was the FF mechanism, the air-cooling, the coupe style, or the OHC mechanism, there was nothing that would not stimulate the enthusiasm of young people.
+Although it's not directly related to the issue of rationality, this is something that can perhaps be same more broadly about this coupe. That is, it has been equipped with the latest and most fashionable mechanisms, but somehow they didn't all fit together perfectly. Whether it was the FF mechanism, the air-cooling, the coupe style, or the OHC mechanism, there was nothing that would not stimulate the enthusiasm of young people.
 
 
 
@@ -241,7 +241,7 @@ However, even if you assign the best technology to each area of the design, it d
 
 
 
-I apologize for jumping ahead a little, but consider, for example, the brakes. The initial pressure is very good. They create a sense of reliability that is not found in other cars. However, when it really matters, they are too strong at the front, locking up early, so although the brakes are effective, it takes a long time to stop. I think this is due in some subtle way to the geometry of the MacPherson-type front suspension. As another example, perhaps because the front suspension is slightly too soft, if you drive with one wheel stuck in gravel, the stability becomes extremely poor.
+I apologize for jumping around a little, but consider, for example, the brakes. The initial pressure is very good. They create a sense of reliability that is not found in other cars. However, when it really matters, they are too strong at the front, locking up early, so although the brakes are effective, it takes a long time to stop. I think this is due in some subtle way to the geometry of the MacPherson-type front suspension. As another example, perhaps because the front suspension is slightly too soft, if you drive with one wheel stuck in gravel, the stability becomes extremely poor.
 
 
 
@@ -249,7 +249,7 @@ Of course, when it comes to the suspension, just one issue will be a major probl
 
 
 
-I have no intention of saying something nonsensical like they should change this car from FF to FR, but if Honda is taking such forward-thinking measures that mass-market manufacturers like Toyota and Nissan would never be able to do, and I do want to applaud their stance of trying to go their own way, I would say that I strongly believe they should be able to make it a full four-seater front-midship and take full advantage of its layout. 
+I have no intention of saying something nonsensical like they should change this car from FF to FR, but if Honda is committed to taking such forward-thinking measures that mass-market manufacturers like Toyota and Nissan would never be able to attempt, and I do want to applaud their stance of trying to go their own way, I would say that I strongly believe they should be able to make it a full four-seater front-midship and take full advantage of its layout. 
 
 
 

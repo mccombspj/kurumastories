@@ -14,7 +14,7 @@ draft = false
 <b>Publication:</b> Auto Sport<br>
 <b>Format:</b> Road Impression<br>
 <b>Date:</b> March 1970<br>
-<b>Author:</b> Yoshimasa Sugawara
+<b>Author:</b> Yoshimasa Sugawara, Auto Sport Editorial Staff (uncredited)
 
 The Honda 1300 Coupe 9 has just been released, with an aerodynamic body born from wind tunnel testing and a high-power, high-speed 110 horsepower engine. Yoshimasa Sugawara, an expert on front-wheel drive cars, took it for a test drive.
 

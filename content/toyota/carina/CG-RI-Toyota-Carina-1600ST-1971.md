@@ -141,7 +141,9 @@ In conclusion, the Carina was the first Toyota car I have driven that was more c
 
 
 
+<b><u>Postscript: Story Photos</b></u>
 
+{{< gallery "CG-RI-Toyota-Carina-1600ST-1971-Gallery" >}}
 
 
 

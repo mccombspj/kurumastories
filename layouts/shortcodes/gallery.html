@@ -1,0 +1,167 @@
+<style>
+  /* Hide scrollbars while keeping scroll/pan behavior */
+  #lightbox-overlay::-webkit-scrollbar {
+    display: none;
+  }
+  #lightbox-overlay {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+</style>
+
+<div class="thumbnail-gallery" style="display:flex; overflow-x:auto; gap:8px; padding:8px 0; white-space:nowrap;">
+  {{ $folder := .Get 0 }}
+  {{ $files := readDir (printf "static/images/%s" $folder) }}
+  {{ $sorted := sort $files "Name" }}
+
+  {{ range $index, $file := $sorted }}
+    <img src="{{ printf "/images/%s/%s" $folder $file.Name }}"
+         alt="{{ $file.Name }}"
+         style="width:120px; height:120px; object-fit:cover; cursor:pointer; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.25); transition: transform 0.2s ease;"
+         data-index="{{ $index }}"
+         onmouseover="this.style.transform='scale(1.05)'"
+         onmouseout="this.style.transform='scale(1)'">
+  {{ end }}
+</div>
+
+<!-- Lightbox overlay -->
+<div id="lightbox-overlay" style="
+  display:none; position:fixed; top:0; left:0; width:100%; height:100%;
+  background:rgba(0,0,0,0.95); justify-content:center; align-items:center;
+  z-index:9999; flex-direction:column; overflow:hidden; opacity:0; transition:opacity 0.3s ease;">
+  
+  <span id="lightbox-close" style="position:absolute; top:20px; right:30px; font-size:40px; color:white; cursor:pointer;">&times;</span>
+  <span id="lightbox-prev" style="position:absolute; left:30px; font-size:60px; color:white; cursor:pointer;">&#10094;</span>
+  <span id="lightbox-next" style="position:absolute; right:30px; font-size:60px; color:white; cursor:pointer;">&#10095;</span>
+  <img id="lightbox-image" src="" style="max-width:90%; max-height:85%; border-radius:8px; box-shadow:0 0 30px rgba(0,0,0,0.6); cursor:zoom-in; transition:opacity 0.3s ease;">
+</div>
+
+<script>
+  const thumbs = document.querySelectorAll('.thumbnail-gallery img');
+  const overlay = document.getElementById('lightbox-overlay');
+  const img = document.getElementById('lightbox-image');
+  const closeBtn = document.getElementById('lightbox-close');
+  const nextBtn = document.getElementById('lightbox-next');
+  const prevBtn = document.getElementById('lightbox-prev');
+
+  const images = Array.from(thumbs).map(t => t.src);
+
+  let index = 0;
+  let zoomed = false;
+  let isDragging = false, startX = 0, startY = 0, scrollLeft = 0, scrollTop = 0;
+
+  function resetZoom() {
+    zoomed = false;
+    img.style.cursor = 'zoom-in';
+    overlay.style.overflow = 'hidden';
+
+    img.style.width = '';
+    img.style.height = '';
+    img.style.maxWidth = '90%';
+    img.style.maxHeight = '85%';
+
+    overlay.scrollTop = 0;
+    overlay.scrollLeft = 0;
+  }
+
+  function showOverlay(i) {
+    index = i;
+    resetZoom();
+    img.src = images[index];
+    overlay.style.display = 'flex';
+    requestAnimationFrame(() => overlay.style.opacity = 1);
+  }
+
+  function hideOverlay() {
+    overlay.style.opacity = 0;
+    setTimeout(() => {
+      overlay.style.display = 'none';
+      resetZoom();
+      img.src = '';
+    }, 300);
+  }
+
+  function nextImage() {
+    index = (index + 1) % images.length;
+    resetZoom();
+    fadeTo(images[index]);
+  }
+
+  function prevImage() {
+    index = (index - 1 + images.length) % images.length;
+    resetZoom();
+    fadeTo(images[index]);
+  }
+
+  function fadeTo(src) {
+    img.style.opacity = 0;
+    setTimeout(() => {
+      img.src = src;
+      img.onload = () => img.style.opacity = 1;
+    }, 200);
+  }
+
+  /* --- REAL WORKING ZOOM (fixes panning) --- */
+  img.addEventListener('click', () => {
+    if (!zoomed) {
+      zoomed = true;
+      img.style.cursor = 'grab';
+
+      overlay.style.overflow = 'auto';
+
+      // Remove constraints
+      img.style.maxWidth = 'none';
+      img.style.maxHeight = 'none';
+
+      // Physically enlarge image (not via transform)
+      const w = img.naturalWidth;
+      const h = img.naturalHeight;
+      img.style.width = w * 2 + 'px';
+      img.style.height = h * 2 + 'px';
+
+    } else {
+      resetZoom();
+    }
+  });
+
+  /* Panning (now works in all directions) */
+  overlay.addEventListener('mousedown', e => {
+    if (!zoomed) return;
+    isDragging = true;
+    startX = e.pageX;
+    startY = e.pageY;
+    scrollLeft = overlay.scrollLeft;
+    scrollTop = overlay.scrollTop;
+    img.style.cursor = 'grabbing';
+  });
+
+  overlay.addEventListener('mousemove', e => {
+    if (!isDragging) return;
+    overlay.scrollLeft = scrollLeft - (e.pageX - startX);
+    overlay.scrollTop = scrollTop - (e.pageY - startY);
+  });
+
+  overlay.addEventListener('mouseup', () => {
+    isDragging = false;
+    img.style.cursor = zoomed ? 'grab' : 'zoom-in';
+  });
+
+  overlay.addEventListener('mouseleave', () => {
+    isDragging = false;
+    img.style.cursor = zoomed ? 'grab' : 'zoom-in';
+  });
+
+  thumbs.forEach((t, i) => t.addEventListener('click', () => showOverlay(i)));
+  closeBtn.addEventListener('click', hideOverlay);
+  nextBtn.addEventListener('click', nextImage);
+  prevBtn.addEventListener('click', prevImage);
+  overlay.addEventListener('click', e => { if (e.target === overlay) hideOverlay(); });
+
+  document.addEventListener('keydown', e => {
+    if (overlay.style.display === 'flex') {
+      if (e.key === 'ArrowRight') nextImage();
+      if (e.key === 'ArrowLeft') prevImage();
+      if (e.key === 'Escape') hideOverlay();
+    }
+  });
+</script>

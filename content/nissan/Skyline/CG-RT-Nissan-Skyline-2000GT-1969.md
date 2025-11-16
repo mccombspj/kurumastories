@@ -171,3 +171,7 @@ Fuel economy varies with usage conditions more than any other test figure, but g
 
 As we wrote at the beginning of this report, the new 2000GT is superior in almost every way to the old model, a practical high-performance vehicle that is equally easy to drive around town and on the highway. Hot-blooded, hard-boiled enthusiasts may find it a little disappointing, but their hopes will be fulfilled by the soon-to-be-released DOHC, 160ps 2000GT-C (?).
 
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Nissan-Skyline-2000GT-1969-Gallery" >}}

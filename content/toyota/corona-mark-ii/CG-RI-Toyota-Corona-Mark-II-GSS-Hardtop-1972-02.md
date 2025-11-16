@@ -146,3 +146,7 @@ The brakes are very good, with larger diameter front discs (increased from 200mm
 There's no space to go into detail about the interior and passenger comfort. An interior as well-designed as the original GSS's didn't need any major changes, so the layout remains largely the same as before. One small but important improvement is that the horn button has been moved from the center of the steering wheel to three buttons on the spokes, allowing the driver to sound the horn with the thumbs while still holding the rim. Rear passengers enjoy increased legroom, which makes the cabin almost sedan-like, although visibility to the sides is limited by the large rear quarters. The seat cushioning above the transmission tunnel is also relatively thick, making it possible for three passengers to sit in the back without difficulty. 
 
 Fuel consumption was 48.4 liters over a distance of 345km, which included a commute from the suburbs to the city center, the Murayama test, and a round trip to Lake Okutama, for an average of 7.12km/l (the tank holds 60 liters). The price is 1.15 million yen (delivered to Tokyo), which is a 72,000 yen increase over the previous GSS.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RI-Toyota-Corona-Mark-II-GSS-1972-2-Gallery" >}}

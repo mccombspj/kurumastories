@@ -248,3 +248,7 @@ The car is powerful and has twin carbs, so I expected the fuel economy to be qui
 <b>Okubo:</b> As it is, we can't keep up with orders. The 1600GT sold about 200 units per month on average, and its best month was about 270, so I think we'll at least be able to sell more than that.
 
 <b>Magazine:</b> Thank you all very much.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-RT-Toyota-Corona-Mark-II-GSS-1970-Gallery" >}}

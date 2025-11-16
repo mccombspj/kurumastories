@@ -111,3 +111,7 @@ Heavy rain fell during our test period, giving us a chance to test the effective
 The most attractive feature of the interior of this car is the AM/FM search tuner radio, which has speakers at the front and back, and allows the balance to be freely adjusted from front to rear and side to side. To tell the truth, this editor even took an extra lap around the Tokyo Circuit just to listen to the final movement of a concerto that started on the way home.
 
 The model that we tested, the Hardtop SL with 4-speed floor shift, is the most "hard-core" of the hardtops, but the heavy controls felt a little out of place in this type of car. Rather, it would be best to drive it in the standard "husband spec" model (not the SL) with a torque converter automatic, power steering, and air conditioning (all optional), and relax while listening to the stereo, which must have been the designers' intention.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Toyota-Crown-Hardtop-SL-1969-Gallery" >}}
