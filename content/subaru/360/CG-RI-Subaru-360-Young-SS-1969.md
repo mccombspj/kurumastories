@@ -82,3 +82,7 @@ The low center of gravity and stiffer suspension make the Young SS much easier t
 The interior is outfitted with a sporty atmosphere, with a leather-wrapped two-spoke steering wheel and a small, easy-to-read circular tachometer and speedometer. The Subaru's driving position is unique, with the driver sitting very low and close to the steering wheel, and this SS model is no exception. The SS's seats are special for this model and much better than the standard car's, but taller drivers would be better off with the backrest tilted back a little more. In any case, it is far from the trendy straight-arm position.
 
 The noise level is high even by kei car standards, and the exhaust sound resonates through the cabin at speeds above 80km/h, but for young people with tough nerves accustomed to the roar of "rock group sounds," this probably won't bother them at all.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RI-Subaru-360-Young-SS-1969-Gallery" >}}
