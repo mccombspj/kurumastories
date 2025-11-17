@@ -109,7 +109,7 @@ The above can be broadly characterized as follows, in a spectrum from family- to
 
 
 
-<b>Mabuchi:</b> The Coupe was born after the sedan, and the entire shape was changed except for the undercarriage and one side of the front fender. As you may have noticed, there are two lines running from front to back on the roof. The body structure is welded beneath those to increase the body rigidity. Of course, this is done as part of the unibody structure for mass production, but even this has changed the shape of the car.
+<b>Mabuchi:</b> The Coupe was designed after the sedan, and the entire shape was changed except for the undercarriage and one side of the front fender. As you may have noticed, there are two lines running from front to back on the roof. The body structure is welded beneath those to increase the body rigidity. Of course, this is done as part of the unibody structure for mass production, but even this has changed the shape of the car.
 
 
 
@@ -129,15 +129,15 @@ The biggest difference from conventional automatics is that it is a two-shaft sy
 
 
 
-<b>Magazine:</b> At the same time when the Coupe 9 was released, the power was reduced by 5 horsepower. Why was the horsepower reduced?
+<b>Magazine:</b> At the same time the Coupe 9 was released, the power was reduced by 5 horsepower. Why was the horsepower reduced?
 
 
 
-<b>Irikoshi:</b> The the power drop coincided with the release of the Coupe, but it was not the reason. We changed it at the end November last year, including for the sedan. The reason we lowered it is that it's said that Honda engines rev well at high speeds but not at low speeds, and that the range we consider to be low-speed torque, for example, around 1500rpm, is actually not that low.
+<b>Irikoshi:</b> The power drop coincided with the release of the Coupe, but was not related to it. We made this change at the end November last year, including for the sedan. The reason we lowered it is that we heard people saying that Honda engines rev well at high speeds but not at low speeds, and that the torque range we consider to be low-speed, for example, around 1500rpm, is actually not that low.
 
 
 
-We received feedback from users who said they wanted a little more torque at extremely low speeds, when the engine is just off idle, so we made some changes to improve the feel in that area. To achieve this, we sacrificed a certain amount of horsepower, but the majority of the change was just to the valve timing...
+We received feedback from users saying they wanted more torque at extremely low speeds, such as when the engine is just off idle, so we made some changes to improve the feel in that area. To achieve this, we sacrificed a certain amount of horsepower, but the majority of the change was just in the valve timing...
 
 
 
@@ -145,7 +145,7 @@ We received feedback from users who said they wanted a little more torque at ext
 
 
 
-<b>Irikoshi:</b> That's right. If the low-speed torque is insufficient, the stall speed of the torque converter will have to be increased to keep the rotations high at all times, and of course, fuel economy will be worse to some extent with any automatic, so the upper limit was lowered to take fuel economy and other factors into consideration rather than increasing the horsepower at the upper end.
+<b>Irikoshi:</b> That's right. If the low-speed torque is insufficient, the stall speed of the torque converter must be increased to keep the rotations high at all times, and of course, fuel economy will be worse to some extent with any automatic, so the upper limit was lowered to take fuel economy and other factors into consideration rather than increasing the horsepower at the upper end.
 
 
 
@@ -153,15 +153,15 @@ We received feedback from users who said they wanted a little more torque at ext
 
 
 
-<b>Higuchi:</b> In reality, were you afraid of strong idle creep if it kept its high-rpm characteristics?
+<b>Higuchi:</b> In reality, were you also afraid of strong idle creep if it kept its high-rpm characteristics?
 
 
 
-<b>Mabuchi:</b> Yes, that too. It's also related to fuel efficiency. However, the aim from the beginning was to make it very family-friendly, so we decided to reduce the horsepower to 80, as a top speed of 150km/h would be sufficient for this model.
+<b>Mabuchi:</b> Yes, that too. It's also related to fuel efficiency. However, the aim from the beginning was to make it very family-friendly, so we settled on a horsepower reduction to 80, as a top speed of 150km/h would be sufficient for this model.
 
 
 
-At the end of last year, the horspower of the manual transmission vehicle was reduced from 100 horsepower to 95 horsepower. This improves what is is generally referred to as the practical maximum speed, because while the peak power is reduced, it means that the time it takes to reach 150km/h or 160km/h is actually shorter than before due to the increased acceleration force at low to medium speeds on the highway. 
+At the end of last year, the horsepower of the manual transmission vehicle was reduced from 100 horsepower to 95 horsepower. This improves what is generally referred to as the practical maximum speed, because while the peak power is reduced, the time it takes to reach 150km/h or 160km/h is actually shorter due to the increased acceleration force at low to medium speeds on the highway. 
 
 
 
@@ -169,11 +169,11 @@ Moreover, the coupe has less rolling resistance, so its top speed is 175km/h for
 
 
 
-<b>Higuchi:</b> If the horsepower is reduced when it is put on sale, it will be a bit strange for the fans who have been crying "horsepower, horsepower" up until now, so instead, it would be better to say "we've increased the usable torque and horsepower." From the user's perspective, that is the easiest engine to drive.
+<b>Higuchi:</b> If the horsepower is reduced when it is put on sale, it will seem a bit strange to the fans who have been crying "horsepower, horsepower" up until now, so instead, it would be better to say "we've increased the usable torque and horsepower." From the user's perspective, that is the easiest type of engine to drive.
 
 
 
-<b>Mabuchi:</b> Generally, people will complain if we say horsepower has dropped, but by contrast, the change seemed to be well-received by journalists. Perhaps that's because they interpreted it in the way we did.
+<b>Mabuchi:</b> Generally, people will complain if we say horsepower has dropped, but by contrast, the change seemed to have been well-received by journalists. Perhaps that's because they interpreted it the same way we did.
 
 
 
@@ -215,11 +215,11 @@ Moreover, the coupe has less rolling resistance, so its top speed is 175km/h for
 
 
 
-<b>Mabuchi:</b> In short, we want to make a car that many people will buy...
+<b>Mabuchi:</b> To put it another way, we wanted to make it a car that many people will buy...
 
 
 
-<b>Okazaki:</b> It's true that it's a one-man owner kind of car. The driver is fine, but the person in the passenger seat sometimes complains, and I heard two people say that the passenger's side seems to be neglected in terms of design, and there is certainly a big disparity.
+<b>Okazaki:</b> It's true that it's a one-man owner kind of car. It takes care of the driver very well, but the person in the passenger seat sometimes complains, and I heard two people say that the passenger's side seems to be neglected in terms of design, and there is certainly a big disparity.
 
 
 
@@ -235,7 +235,7 @@ Moreover, the coupe has less rolling resistance, so its top speed is 175km/h for
 
 
 
-<b>Hoshijima:</b> In the case of the Custom, since the console is ine middle, if you want to install an air conditioner, it will go right in front of the passenger seat.
+<b>Hoshijima:</b> In the case of the Custom, since the console is in the middle, if you want to install an air conditioner, it will go right in front of the passenger seat.
 
 
 
@@ -251,7 +251,7 @@ Moreover, the coupe has less rolling resistance, so its top speed is 175km/h for
 
 
 
-<b>Mabuchi:</b> Actually, this was also the case with the sedan. There were many discussions. There was a question of whether we should make it a little wider, but we felt that as cars become more popular, bigger is not necessarily better. We thought that there would come a time when we would return to the original dimensions. Also, in Japan, with road conditions and parking issues, we thought it would be fine for the car to have a character that is something like, "a small pepper with a spicy kick." As you say, there is some debate about whether it is comfortable enough for five people, but for a coupe, we think it is among the better ones.
+<b>Mabuchi:</b> Actually, this was also the case with the sedan. There were many discussions. There was a question of whether we should make it a little wider, but we felt that as cars become more popular, bigger is not necessarily better. We thought that there would come a time when we would return to the original dimensions. Also, in Japan, with road conditions and parking issues, we thought it would be fine for the car to have a character that is something like, "a small pepper with a spicy kick." As you say, there is some debate about whether it is comfortable enough for five people, but among coupes, we think it is among the better ones.
 
 
 
@@ -271,11 +271,11 @@ Next, the automatic Coupe 7 accelerates from 0-200m in 12.5 seconds and 0-400m 1
 
 
 
-<b>Magazine:</b> The automatic model did not have the same front wheelspin when starting off.
+<b>Magazine:</b> The automatic model did not have as much front wheelspin when starting off.
 
 
 
-<b>Furutani:</b> Yes, the front wheels of the Coupe 9 were slipping quite a bit, but the automatic didn't slip as much.
+<b>Furutani:</b> Yes, the front wheels of the Coupe 9 were spinning quite a bit, but the automatic didn't slip as much.
 
 
 
@@ -283,11 +283,11 @@ Next, the automatic Coupe 7 accelerates from 0-200m in 12.5 seconds and 0-400m 1
 
 
 
-<b>Mabuchi:</b> The FF design makes it inevitable that front tire wear will occur a little earlier. We ask our users to rotate the tires more frequently. I don't think the average tread life is bad at all.
+<b>Mabuchi:</b> The FF design makes it inevitable that front tire wear will occur a little earlier. We ask our users to rotate the tires more frequently. In this case, I don't think the average tread life is bad at all.
 
 
 
-<b>Hattori:</b> We have decided that the rotation period is every 5,000km. On the other hand, the rear tires do not wear down very much at all. If you use the Tomei Expressway without rotation, the figure is 100,000km. 
+<b>Hattori:</b> We advise that the rotation period is every 5,000km. By contrast, the rear tires do not wear down very much at all. If you're driving only on the Tomei Expressway, the figure without rotation is 100,000km. 
 
 
 
@@ -295,7 +295,7 @@ Next, the automatic Coupe 7 accelerates from 0-200m in 12.5 seconds and 0-400m 1
 
 
 
-<b>Watari:</b> Speaking of driving on the Tomei Expressway, in the past, the surface of the Third Keihin Expressway was relatively better in terms of noise at low speeds, and the data for the Third Keihin Expressway and the Murayama Expressway were not that different, so that's where I took measurements. But since the Tomei Expressway can be driven at 100km/h, I tried taking measurements there this time. I think the readings are a little higher than the data we've had up to now, but from my experience driving in the city, I don't think it will have too much of an impact on the comparative data, so I think it will be a good idea to continue with this change in the test routine and see how it goes.
+<b>Watari:</b> Speaking of driving on the Tomei Expressway, in the past, the surface of the Third Keihin Expressway was relatively better in terms of noise at low speeds, and the data for the Third Keihin Expressway and the Murayama course were not that different, so that's where I took measurements. But since the Tomei Expressway can be driven at 100km/h, I tried taking measurements there this time. I think the readings are a little higher than the data we've had up to now, but from my experience driving in the city, I don't think it will have too much of an impact on the comparative data, so I think it will be a good idea to continue with this change in the test routine and see how it goes.
 
 
 
@@ -311,15 +311,15 @@ The 7 automatic is 62 hones at 40km/h, 66 hones at 60km/h, 72 hones at 80km/h, 7
 
 
 
-<b>Mabuchi:</b> The peak at 90km/h is due to the resonance of the exhaust sound. We would like to fix that somewhat. We're thinking about using a bulkhead. 
+<b>Mabuchi:</b> The peak at 90km/h is due to the resonance of the exhaust sound. We would like to fix that somehow. We're thinking about changing the bulkhead. 
 
 
 
-<b>Watari:</b> In relation to sound, another aspect of the imbalance I mentioned earlier is that some parts of the interior can produce a cheap sound. I think it would be good to eliminate these noises in places like the dashboard and steering column. 
+<b>Watari:</b> In relation to sound, another aspect of the imbalance I mentioned earlier is that some parts of the interior can produce cheap noises. I think it would be good to eliminate these noises in places like the dashboard and steering column. 
 
 
 
-In terms of ride comfort and up-and-down vibration, the sprung frequency of 1.5Hz is about standard for this class of car, but what the user thinks will depend on what is important to them. If it were a real family car, I think it would be better to lower the spring rates a little more. On the other hand, I think street racers will have to raise them even higher than this. I've been thinking lately that cars like this should offer two different spring constants for the suspension.
+In terms of ride comfort and up-and-down vibration, the sprung frequency of 1.5Hz is about standard for this class of car, but what the user thinks will depend on their priorities. If it were really being used as a family car, I think it would be better to lower the spring rates a little more. On the other hand, I think street racers will want to raise them even higher than this. I've been thinking lately that cars like this should offer two different spring constants for the suspension.
 
 
 
@@ -371,11 +371,11 @@ On minor expressways, it's about 20-30% better. The fuel economy I recorded late
 
 
 
-<b>Higuchi:</b> It's good in terms of fuel efficiency for its horsepower, but bad in terms of fuel efficiency for its cc displacement.
+<b>Higuchi:</b> In terms of fuel efficiency, it's good for its horsepower, but bad for its cc displacement.
 
 
 
-<b>Sano:</b> That's not the case with the 9. It reached over 20km/l. When I did a model run with the 99 sedan, it got 10.7km/l, while the coupe got 11.5km/l, which is good. At 60km/h the coupe achieved 9.6km/l while the sedan achieved 9.1km/l, both of which are good figures.
+<b>Sano:</b> This is less true with the 9. It managed to reach over 20km/l. When I did a practical fuel economy run with the 99 sedan, it got 10.7km/l, while the coupe got 11.5km/l, which is good. In a simulated 60km/h speed zone the coupe achieved 9.6km/l, while the sedan achieved 9.1km/l, both of which are good figures.
 
 
 
@@ -383,7 +383,7 @@ On minor expressways, it's about 20-30% better. The fuel economy I recorded late
 
 
 
-<b>Koguchi:</b> This is related to exhaust gas control, so wouldn't it be okay to just make the mixture a little leaner? Fuel efficiency has also improved, so it's one of the many changes that have been made...
+<b>Koguchi:</b> If this is related to exhaust gas control, wouldn't it be okay to just make the mixture a little leaner? Fuel efficiency has also improved, so it's one of the many changes that have been made...
 
 
 
@@ -391,7 +391,7 @@ Then something that bothered me was that when I was driving around Yatabe, I had
 
 
 
-Another thing is that the fuel economy hasn't changed, but at first, Mr. Sano was having a very hard time with it, the data was all over the place, which was unsettling. We gave up, thinking that the test equipment was broken, but when we moved on to the 7 automatic it was working fine, so we thought something must be wrong. 
+Another thing is that while the average fuel economy hasn't changed, at first, Mr. Sano was having a very hard time with individual measurements, the data was all over the place, which was unsettling. We gave up, thinking that the test equipment was broken, but when we moved on to the 7 automatic it was working fine, so we thought something must be wrong. 
 
 
 
@@ -403,11 +403,11 @@ Another thing is that the fuel economy hasn't changed, but at first, Mr. Sano wa
 
 
 
-<b>Mabuchi:</b> Maybe, for example, the engine was very cold. The values will change depending on whether the engine is cold or warm. We adjust the engine before shipping when it is in a fairly warm state, so unless the adjustment is poor, it is unlikely that a warm engine should be affected.
+<b>Mabuchi:</b> Maybe this was because, for example, the engine was very cold. The values will change depending on whether the engine is cold or warm. We adjust the engine before shipping when it is in a fairly warm state, so unless the adjustment is poor, it is unlikely that a warm engine should be affected.
 
 
 
-<b>Hoshijima:</b> I happened to drive about 10,000km in the US with this car, and the fuel economy was almost perfect, at 25 miles per gallon. In terms of liters, that is 10.2 to 10.3km/l. We were traveling at a much faster speed than the average American traffic. The worst was in Arizona, where we were hit by a massive sandstorm and couldn't go very fast. But, at 130-140km/h, I got about 8km/l. At its best, I got about 12km/l. I thought that this was probably what people in America want from a small car.
+<b>Hoshijima:</b> I happened to drive about 10,000km in the US with this car, and the fuel economy was almost perfectly consistent, at 25 miles per gallon. In terms of liters, that is 10.2 to 10.3km/l. We were traveling at a much faster speed than the average American traffic. The worst was in Arizona, where we were hit by a massive sandstorm and couldn't go very fast. But, at 130-140km/h, I got about 8km/l. At its best, I got about 12km/l. I thought that this was probably about what people in America expect from a small car.
 
 
 
@@ -415,7 +415,7 @@ Another thing is that the fuel economy hasn't changed, but at first, Mr. Sano wa
 
 
 
-<b>Magazine:</b> What do you mean when you say the coupe's fuel economy is better than the sedan's?
+<b>Magazine:</b> Why do you think the coupe's fuel economy is better than the sedan's?
 
 
 
@@ -455,15 +455,15 @@ The highest speed reached in the free-release stability test was 120km/h. At the
 
 
 
-<b>Hirao:</b> One thing that bothered me when I was driving on the expressway was that when I backed off the power, it felt like the car couldn't decide which direction to go. This is definitely a characteristic of the car. This was on a slight downhill slope, but I was driving in the express lane and someone was chasing me, so I increased my speed to about 130km/h to get some distance from them, and then immediately took my foot off the accelerator. However, the car would not steer in the right direction. Up until then I had been driving without paying attention to such things, so I thought this was strange and tried it again, trying various things, but whenever I stepped on the accelerator the car would steer in the right direction, but when I took my foot off the accelerator it would not steer in the right direction. I felt this is definitely what happens.
+<b>Hirao:</b> One thing that bothered me when I was driving on the expressway was that when I backed off the power, it felt like the car couldn't decide which direction to go. This is a definitely a characteristic of the car. To give one example, this was on a slight downhill slope, but I was driving in the express lane and someone was chasing me, so I increased my speed to about 130km/h to get some distance from them, and then immediately took my foot off the accelerator. However, the car would not steer in the right direction. Up until then I had been driving without paying attention to such things, so I thought it was strange and repeated the inputs, trying various things, and whenever I stepped on the accelerator the car would steer in the right direction, but when I took my foot off the accelerator it would not steer in the right direction. I felt this is definitely something that happens.
 
 
 
-So in terms of the stability testing, I think the data would be slightly different depending on whether power was being applied during the test or whether the power was immediately turned off.
+So in terms of the free-release stability testing, I think the data will be slightly different depending on whether power was being applied during the test or whether the power was immediately released.
 
 
 
-<b>Koguchi:</b> I drove at the Yatabe course to get a feel for this, increasing the speed, adjusting the steering, and then taking my foot off the accelerator, and as I increased the speed to about 100km/h, I hardly felt anything. But when I got to 120-130km/h, I thought, "Oh, there it is."
+<b>Koguchi:</b> I drove at the Yatabe course to get a feel for this, gradually increasing the speed, adjusting the steering, and then taking my foot off the accelerator, and as I increased the speed up through about 100km/h, I hardly felt anything. But when I got to 120-130km/h, I thought, "Oh, there it is."
 
 
 
@@ -471,7 +471,7 @@ So in terms of the stability testing, I think the data would be slightly differe
 
 
 
-<b>Hirao:</b> I don't think you'll feel it much when you're driving alone on a relatively wide course like Yatabe. However, when you're driving on a three-lane road, it's a bit strange. 
+<b>Hirao:</b> I don't think you'll feel it much when you're driving alone on a relatively wide course like Yatabe. However, when you're driving in traffic on a three-lane road, it's a bit unnerving. 
 
 
 
@@ -479,19 +479,19 @@ The engine is large, so it has a big effect. I think if the engine was smaller, 
 
 
 
-<b>Mori:</b> Yes, there's some of that.
+<b>Mori:</b> Yes, there is some of that.
 
 
 
-<b>Higuchi:</b> It's very safe for people who have a proactive attitude about driving safely, but dangerous for people with a passive attitude towards safe driving. 
+<b>Higuchi:</b> It's perfectly safe for people who have a proactive attitude about driving safely, but dangerous for people with a passive attitude towards safe driving. 
 
 
 
-<b>Okazaki:</b> There is definitely a change in steering force. The chassis reaction coincides with that, and it feels strange. Sometimes this happens suddenly, so it's scary. 
+<b>Okazaki:</b> There is definitely a change in steering force. The chassis reaction coincides with that, and it feels unsettling. Sometimes this happens suddenly, which can be scary. 
 
 
 
-In actual driving, I try to slow down completely before entering corners, but on a wide area like a test course, I end up spinning out. 
+In actual driving, I just slowed all the way down before entering corners, but when I tried harder on the wide area of the test course, I ended up spinning out. 
 
 
 
@@ -567,7 +567,7 @@ The pedal force at 0.6g deceleration is approximately 25g in bench tests, but th
 
 
 
-<b>Magazine:</b> Please share the dimensions.
+<b>Magazine:</b> Please share the data on dimensions.
 
 
 
@@ -579,11 +579,11 @@ The position of the four wheels remains the same, so the body is larger, but the
 
 
 
-Also, while FF cars have a flat floor, the space next to the pedals is cramped, and it feels like a large amount of floor space has been sacrificed. The gauges are luxurious and generously sized, so I think they are a good value in terms of perceived product value.
+Also, while FF cars have a flat floor, the space next to the pedals is cramped, and it feels like a large amount of floor space has been sacrificed. The gauges are luxurious and generously sized, so I think they are a good feature in terms of perceived product value.
 
 
 
-<b>Hoshijima:</b> I think it's a bad idea to have the air conditioner on the dashboard. It's too loud, so I think it would be better to have it installed at the rear of the cabin.
+<b>Hoshijima:</b> I think it's a bad idea to have the air conditioner on the dashboard. It's too conspicuous, so I think it would be better to have it installed at the rear of the cabin.
 
 
 
