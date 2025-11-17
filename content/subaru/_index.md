@@ -10,7 +10,7 @@ title: "Subaru Stories"
 
 <ul style="list-style-type: none; padding-left: 0;">
 
-&nbsp; <li><a href="/subaru/1000/">Subaru 1000</a></li>
+&nbsp; <li><a href="/subaru/360/">Subaru 360</a></li><li><a href="/subaru/1000/">Subaru 1000</a></li>
 
 </ul>
 
