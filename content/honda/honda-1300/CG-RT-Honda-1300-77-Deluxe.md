@@ -29,7 +29,7 @@ draft = false
 
 
 
-<b>Summary:</b> Air-cooled four-cylinder, powerful, smooth up to 8000rpm, low noise level even at high revolutions, power performance comparable to a 1600cc GT, poor fuel economy, worrisome handling a cause for concern, unsatisfactory heater and demister.
+<b>Summary:</b> Air-cooled four-cylinder, powerful, smooth up to 8000rpm, low noise level even at high revolutions, power performance comparable to a 1600cc GT, poor fuel economy, unsettled handling a cause for concern, unsatisfactory heater and demister.
 
 
 
