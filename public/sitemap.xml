@@ -23,6 +23,9 @@
     <loc>http://localhost:1313/toyota/sprinter/cg-gt-toyota-sprinter-sr-vs-mitsubishi-colt-galant-fto-giii-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/crown/mf-rtd-toyota-crown-hardtop-super-saloon-1971/</loc>
+    <lastmod>2025-11-18T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant/cg-rt-mitsubishi-colt-galant-aii-gs-1970/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -206,7 +209,7 @@
     <loc>http://localhost:1313/toyota/corona-mark-ii/cg-ri-toyota-corona-mark-ii-gsl-efi-1973/</loc>
     <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nissan/skyline/my-first-post/</loc>
+    <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-hardtop-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/corona-mark-ii/cg-fomd-toyota-corona-mark-ii-lg-1973/</loc>
@@ -225,6 +228,12 @@
     <lastmod>2025-11-18T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/</loc>
+    <lastmod>2025-11-18T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/crown/</loc>
+    <lastmod>2025-11-18T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/</loc>
     <lastmod>2025-11-18T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -270,9 +279,6 @@
     <lastmod>2025-11-05T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/corona-mark-ii/</loc>
-    <lastmod>2025-11-05T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/</loc>
     <lastmod>2025-11-05T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/luce-rotary-coupe/</loc>
@@ -360,9 +366,6 @@
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/corolla/cg-rt-toyota-corolla-levin-1600-1972/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/crown/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/sprinter/</loc>
