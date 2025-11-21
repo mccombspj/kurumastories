@@ -63,7 +63,7 @@ draft = false
 
 <b>Hasegawa:</b> The common concept of a sports car is that it is something that needs a powerful engine, a unique suspension, and a lot of horsepower to force its way to high speeds. However, this is not a racing car with a top speed of 200km/h or more, but rather, what is now being called a "100-mile car," designed to run continuously at high speeds of around 160km/h to 170km/h. To meet these aims, it does not need to be a special car with a high horsepower engine, but can be designed rationally by reducing air resistance and weight.
 
-As a result, we bored out the Publica engine to 790cc, increased the compression ratio to 9.0:1, and made other improvements to increase its horsepower of 45ps. By putting it in a lightweight sports-type body, we succeeded in creating a high-speed car with a top speed of 155km/h. This gave us confidence that our original idea was not wrong. 
+As a result, we bored out the Publica engine to 790cc, increased the compression ratio to 9.0:1, and made other improvements to increase its horsepower to 45ps. By putting it in a lightweight sports-type body, we succeeded in creating a high-speed car with a top speed of 155km/h. This gave us confidence that our original idea was not wrong. 
 
 Comparing this car with other sports cars, the data is quite interesting.
 
@@ -77,7 +77,7 @@ From these comparative studies, we believe that by simply creating a lightweight
 
 <b><u>All-Weather Roof</b></u>
 
-<b>Magazine:</b> The body is not a hardtop, is it?
+<b>Magazine:</b> The body is not a fixed-roof hardtop. Can you tell us more about that?
 
 <b>Hasegawa:</b> Without a hardtop, it is more difficult to reduce air resistance, but I think there is a demand for the feel of an open-top car. There are a few convertible-type cars in Japan, but they all have practical drawbacks in all-weather use, such as being vulnerable to cold winters, rain, and dust.
 
@@ -87,11 +87,11 @@ So, with this car, we decided on a removable roof.  When the roof is attached, a
 
 <b>Sato:</b> Two years ago, we built a prototype car, the Publica Sports, which could be called the predecessor of this car. It used a canopy-type roof where the entire upper part of the body slides back and forth. Toyota's request to Kanto Jidosha Co., Ltd. was to make a commercially available sports car that was not too different from the Publica Sports.
 
-Regarding the problem of air resistance, we conducted wind tunnel tests using both the prototype and the commercially availble car, and the results for the new car were somewhat better. We also applied tape strips to the body and observed how the wind flowed over the car while driving. As a result of the canopy-style roof, the prototype had rail-like guides along the sides of its body. These disturbed the air flow, and since the production car has adopted normal doors, it has actually improved in this area.
+Regarding the problem of air resistance, we conducted wind tunnel tests using both the prototype and the commercially availble car, and the results for the new car were somewhat better. We also applied tape strips to the body and observed how the wind flowed over the car while driving. Because of the canopy-style roof, the prototype had rail-like guides along the sides of its body. These disturbed the air flow, and since the production car has adopted normal doors, it has actually improved in this area.
 
 Also, Chief Engineer Hasegawa requested that we make the body surfaces as smooth as possible. A streamlined shape, in other words. He asked us to avoid any unevenness, so we struggled with the placement of the headlamps and taillamps, in particular. We couldn't simply mount them on a vertical surface as usual, so we spent a lot of time before arriving at the current design.
 
-Also, in terms of the aerodynamic shaping, we found that the shoulders of the bonnet needed to be made a little larger and rounder than on the prototype, so we rounded them further. I think cars with a cross section this round are quite rare.
+Also, in terms of the aerodynamic shape, we found that the shoulders of the bonnet needed to be made a little larger and rounder than on the prototype, so we rounded them further. I think cars with a cross section this round are quite rare.
 
 In terms of weight reduction, we designed the body so that there was almost no wasted space, with not even 1cm to spare. It is unlikely that the front or rear overhangs could possibly be shortened any further. In any case, we made the body as close-coupled as we could without encroaching on interior space. In fact, the interior space is quite comfortable.
 
@@ -99,7 +99,7 @@ Also, as we discovered later, there are FIA ​​standards that require a minim
 
 <b><u>Bore Diameter Increased by 5mm</b></u>
 
-<b>Magazine:</b> In terms of the technical content, what are the important features of this car?
+<b>Magazine:</b> In terms of the technical content, what are the most important features of this car?
 
 <b>Hasegawa:</b> Starting with the engine, the Publica's 700cc engine had a bore of 78mm, but we enlarged it to 83mm, giving it a total displacement of 790cc. As a result of the bore-up, the cylinder head, piston rings, and other components have been changed.
 
@@ -109,13 +109,13 @@ The clutch has also been strengthened, and we took measures to prevent oil leaka
 
 The propeller shaft has been shortened and uses a Hooke-type universal joint. The differential ratio and breather relationship have been changed on the rear axle.
 
-The suspension springs are stiffer overall, and while the steering system itself has not changed at all, but the post angle and the alignment have changed.
+The suspension springs are stiffer overall, and while the steering system itself has not changed, the post angle and the alignment are different.
 
 For the gear lever, we switched to a remote-controlled floor type. The tires are the same, but the pressure is increased.
 
 <b>Kumabe:</b> Is there any problem with the strength of the Publica engine after being bored up?
 
-<b>Hasegawa:</b> There is no problem in terms of the margin for bore-up, but the pistons of the sedan couldn't be used as-is, so we changed the size and reinforced them. Having done that, there are no particular concerns about the strength of the engine.
+<b>Hasegawa:</b> There is no problem in terms of the margin for bore-up, but the pistons of the sedan couldn't be used as-is, so we changed the size and reinforced them. Having done that, we have no particular concerns about the strength of the engine.
 
 <b>Kumabe:</b> For a bore diameter increase of 5mm, were no other changes needed?
 
@@ -129,9 +129,9 @@ For the gear lever, we switched to a remote-controlled floor type. The tires are
 
 <b>Kumabe:</b> How is the fuel economy?
 
-<b>Hasegawa:</b> We didn't expect this from the beginning, but it's so good that it's a bit of a problem. In fact, it may be better than the sedan. According to data from the Ministry of Transport's certification tests, the running fuel economy is 31km/l, and the constant-speed fuel economy is 34km/l. In other words, it's better than a light car. It may be a bit off the mark to advertise good fuel economy in a sports car, but to give a real-world example, when driving on a typical road at 60km/h in top gear, the engine speed is around 2000rpm, which is very low. When combined with the low air resistance, and the light weight that comes with being a two-seater, it seems that various factors have led to this unexpected result.
+<b>Hasegawa:</b> We didn't expect this from the beginning, but it's so good that it's a bit of a problem. In fact, it may be better than that of the sedan. According to data from the Ministry of Transport's certification tests, the running fuel economy is 31km/l, and the constant-speed fuel economy is 34km/l. In other words, it's better than a light car. It may be a bit off the mark to advertise good fuel economy in a sports car, but to give a real-world example, when driving on a typical road at 60km/h in top gear, the engine speed is around 2000rpm, which is very low. When combined with the low air resistance, and the light weight that comes with being a two-seater, it seems that various factors have led to this unexpected result.
 
-Another thing we noticed is, when you're driving down the road and try to coast to an intersection that's approaching in the distance, the car just keeps on rolling and doesn't stop. The coasting coefficient for a normal sedan is 0.0019 or 2, but in this car it's 0.00155, which is very low.
+Another thing we noticed is, when you're driving down the road and try to coast to an intersection that's approaching in the distance, the car just keeps on rolling and doesn't stop. The coasting coefficient of the sedan is 0.0019 or 2, but in this car it's 0.00155, which is very low.
 
 <b>Hirao:</b> In addition to that, the tire pressures are higher. You've also increased the cylinder volume and raised the gear ratio, and all these things contribute to better fuel economy. So it's only natural that the figures have improved.
 
@@ -149,9 +149,9 @@ Another thing we noticed is, when you're driving down the road and try to coast 
 
 <b>Yamamoto:</b> The vehicle weight is 580kg, which is very light. What kind of reinforcements have been done to ensure adequate strength?
 
-<b>Hasegawa:</b> In fixed-roof type hardtops, the roof contributes to the overall body rigidity, which helps a great deal. However, with a removable roof, we couldn't rely on that for this car, and we struggled with it up to the very end. Considering this handicap, achieving 580kg was the reward for our efforts, but it is by no means a figure we're satisfied with. 
+<b>Hasegawa:</b> In fixed-roof type hardtops, the roof contributes to overall body rigidity, which helps a great deal. However, with a removable roof, we couldn't rely on that for this car, and we struggled with it up to the very end. Considering this handicap, achieving 580kg was the reward for our efforts, but it is by no means a figure we're satisfied with. 
 
-Structurally speaking, the front frame is similar to the sedan's, but where the sedan's is bolted on and detachable, it's permanently attached on this car. Given the more specialized use of this car, we thought that we didn't necessarily need to prioritize ease of servicing.
+Structurally speaking, the front frame is similar to the sedan's, but where the sedan's is bolted on and detachable, it's permanently attached on this car. Given the more specialized use of this car, we thought that we didn't necessarily need to prioritize ease of servicing as much.
 
 Also, light alloys are used for the bonnet and trunk lid. In any case, simply making the car as compact as possible was probably the biggest factor in reducing the weight. For a car of this class, a 50kg reduction in weight can make a difference of one second in 0-400m acceleration. That was why we reluctantly used acrylic material for the rear window and other parts.
 
@@ -161,7 +161,7 @@ Also, light alloys are used for the bonnet and trunk lid. In any case, simply ma
 
 <b>Yamamoto:</b> What about the sheet metal, how thick is it?
 
-<b>Yoshida:</b> The steel panels are generally 0.9mm thick, but it is thicker in areas where strength is required. The only parts we can truly rely on structurally are the side rails. We struggled with the design of how the front and rear body sections are joined at both ends.
+<b>Yoshida:</b> The steel panels are generally 0.9mm thick, but it is thicker in areas where strength is required. The only parts we can really rely on structurally are the side rails. We struggled with the design of how the front and rear body sections are joined at both ends.
 
 <b>Hasegawa:</b> With an open-top car, the cowl tends to flex sideways. Specifically, the instrument panel area. We had a hard time getting rid of that.
 
@@ -171,7 +171,7 @@ Also, light alloys are used for the bonnet and trunk lid. In any case, simply ma
 
 <b>Magazine:</b> Now, here are the results of the power performance tests....
 
-<b>Koguchi:</b> Looking at the standing-start acceleration in terms of time to distance, the results were 11.9 seconds for 0-200m and 18.8 seconds for 0-400m. These are excellent values ​​that you wouldn't expect from an 800cc class car. Since the overall reduction ratio in third and top gear is small, we measured overtaking times by accelerating from around 20-30km/h in third gear, and 30-40km/h in top gear. From 30km/h in third gear it took 19.6 seconds to reach 100km/h, and from 40km/h in top gear it took 31.9 seconds.
+<b>Koguchi:</b> Looking at the standing-start acceleration in terms of time to distance, the results were 11.9 seconds for 0-200m and 18.8 seconds for 0-400m. These are excellent figures ​​that you wouldn't expect from an 800cc class car. Since the overall reduction ratio in third and top gear is small, we measured overtaking times by accelerating from around 20-30km/h in third gear, and 30-40km/h in top gear. From 30km/h in third gear it took 19.6 seconds to reach 100km/h, and from 40km/h in top gear it took 31.9 seconds.
 
 As for the time spent in each gear during through-the-gears acceleration, low gear is used for 3.6 seconds and second gear for 4.2 seconds. We didn't shift into top gear in the acceleration run, we just carried through to the end in third. 
 
@@ -183,13 +183,13 @@ Up to now, we've conducted our Motor Fan tests with three people on board, but t
 
 <b>Hasegawa:</b> As far as the number of passengers goes, having one fewer person makes about a one-second difference in the 0-400m time. Even so, the time was slower than our in-house data, by 0.4 seconds...
 
-<b>Hirao:</b> In-house figures are the peak numbers. An 0.4 second difference is fairly routine. Also, the test load was 137kg in total, with the driver at 57.5kg, the passenger at 68kg, and the test instruments at 11.5kg, so the weight was probably a little heavier. 
+<b>Hirao:</b> In-house figures are the peak numbers. A 0.4 second difference is fairly routine. Also, the test load was 137kg in total, with the driver at 57.5kg, the passenger at 68kg, and the test instruments at 11.5kg, so the weight was probably a little heavier. 
 
 <b>Watari:</b> The other day, during a test drive, the speedometer reached 130km/h before we exited a certain tunnel. Other cars don't usually pick up that much speed there, so the acceleration is certainly impressive.
 
 <b>Koguchi:</b> On the subject of the speedometer, in most cars, the speedometer shows a higher reading than the actual vehicle speed. In this car, the actual vehicle speed was higher.
 
-<b>Watari:</b> So, that means it actually went over 130km/h. But we need to tell people who buy cars like this that they can't use the top gear in the city. It seems like even 60km/h is pushing it. This is what the tachometer markings are for, but it would be safer if the speedometer also showed the range of use for each gear.
+<b>Watari:</b> So, that means it actually went over 130km/h. But we need to tell people who buy cars like this that they can't use top gear in the city. It seems like even 60km/h is pushing it. This is what the tachometer markings are for, but it would be safer if the speedometer also showed the range of use for each gear.
 
 <b><u>A "Husband's Spec" We'd Like to See</b></u>
 
@@ -229,13 +229,13 @@ During this test, the steering force was about 2kg, which I think is very light.
 
 The maximum steering force for turning the wheel at a standstill was 14 to 15kg, which is similar to other recent sports cars. We conducted the free-release stability tests up to a maximum of 110km/h, and I thought it was quite stable.
 
-<b>Hirao:</b> This is all fine if you're just enjoying sporty driving around town, but if you want to enter a race, the steering force will become an issue. If you make the steering gear ratio smaller, it will become heavier and rigidity will increase as well. I think the car could be improved by adjusting that.
+<b>Hirao:</b> This is all fine if you're just enjoying sporty driving around town, but if you want to enter a race, the steering force will become an issue. If you make the steering gear ratio smaller, it will become heavier and rigidity will increase as well. I think the car would be improved by adjusting that.
 
 <b><u>High-Speed Brakes with Heavy Front Wheel Load</b></u>
 
 <b>Magazine:</b> Next, let's please see the results of the Ship Research Institute's tests.
 
-<b>Ishikawa:</b> The official weight is 580kg, but with the spare tire and tools it came to 596kg. Weight distribution is 316kg, or 53%, at the front, and 280kg, or 47% at the rear. With two people on board, it's roughly 50/50%. The footprint area is 5.24 square meters, which is a small cc displacement, but in terms of area it's wider than an Austin Healey and narrower than a Triumph TR4. The weight per unit area is 110kg, which is a smaller value that you'll find on any Japanese or European car. I think this confirms how serious the focus was on weight reduction.
+<b>Ishikawa:</b> The official weight is 580kg, but with the spare tire and tools it came to 596kg. Weight distribution is 316kg, or 53%, at the front, and 280kg, or 47% at the rear. With two people on board, it's roughly 50/50%. The footprint area is 5.24 square meters, which is a small cc displacement, but in terms of area it's wider than an Austin Healey and narrower than a Triumph TR4. The weight per unit area is 110kg, which is a smaller value that you'll find on any Japanese or European car. I think this confirms how serious the focus on weight reduction was.
 
 Next, when we looked at the alignment with a side slip tester, there was almost no change in the front and rear wheels whether one or two people were on board. The front wheels have quite large camber and toe-in, in reverse they show toe-out but the balance is good in the forward direction. The rear wheels are slightly toe-out.
 
@@ -251,7 +251,7 @@ As for the force required to operate other controls, the gear lever is a little 
 
 <b>Kumabe:</b> This may have just been the test car, but when I slammed on the brakes at a high speed of about 70km/h, it became a little unstable. Is there a need for disc brakes on the front wheels?
 
-<b>Hasegawa:</b> The Publica's brakes are actually more than enough for the sedan, so we used them as they were, but in the future, as highways are built and if the need arises, we will consider discs. Generally, no one has said the braking is unstable.
+<b>Hasegawa:</b> The Publica's brakes are actually more than capable enough for the sedan, so we used them as-is, but in the future, as highways are built and if the need arises, we will consider discs. Generally, no one has said the braking is unstable.
 
 <b><u>Excellent Forward Visibility, Rare For a Sports Car</b></u>
 
@@ -261,7 +261,7 @@ As for the force required to operate other controls, the gear lever is a little 
 
 For this test, we also measured the solid angle of the visible range. In general, we noticed that the area of ​​the parts that are in the forward field of view is relatively small. For example, the bonnet, wipers, and steering wheel do not block much of the lower forward view.
 
-However, if I had to say one thing, I felt that visibility to the rear could have been improved. Specifically, the view through the rearview mirror mentioned by Professor Watari earlier.
+However, if I had to say one thing, I felt that visibility to the rear could be improved. Specifically, the view through the rearview mirror mentioned by Professor Watari earlier.
 
 <b>Kondo:</b> For a car with such a low seating position, the forward view is quite good.
 
@@ -305,7 +305,7 @@ The driving position is very spacious, as the small-diameter steering wheel is a
 
 However, the handbrake lever is too close, so it is difficult to apply force to it. It is particularly difficult to use when turning right at high speed, so I think it should be moved a little further forward. The brake and accelerator pedals are positioned close to each other, so heel-and-toe is easy.
 
-In terms of equipment, the monocoque body uses curved glass on all four sides, which I think contributes to the high overall rigidity. The rear quarter panel vents mentioned earlier certainly seem to be effective in extracting cabin air. However, the triangular windows are fixed, there are no sun visors, and I could not find any ventilators at floor level, so I expect it's going to get hot in the summer.
+In terms of equipment, the monocoque body uses curved glass on all four sides, which I think contributes to the high overall rigidity. The rear quarter panel vents mentioned earlier certainly seem to be effective in extracting cabin air. However, the triangular windows are fixed, there are no sun visors, and I could not find any ventilators at floor level, so I expect it will get hot in the summer.
 
 The gauges are fully separated, good-sized, and well-placed, but I would have liked a clock. The safety belts include shoulder-type anchors, the assist grip is solid, and the crash pad is thick, so I thought the attention to safety was impressive.
 
