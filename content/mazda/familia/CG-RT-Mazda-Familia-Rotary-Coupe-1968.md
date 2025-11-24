@@ -29,7 +29,7 @@ draft = false
 
 
 
-<b>Summary:</b>Car Graphic purchased the Mazda Familia Rotary Coupe as soon as it was released, and immediately began our customary long-term practical testing. Our magazine has already purchased the Toyota Corolla, Bluebird 1300, Lotus Europa, and Nissan Laurel one after the other, and is conducting controlled tests from a strictly neutral standpoint while also putting them to use in daily life. The Familia Rotary Coupe is our fifth attempt to evaluate a new model through this method of long-term practical testing.
+<b>Summary:</b>Car Graphic purchased the Mazda Familia Rotary Coupe as soon as it was released, and immediately began our customary long-term practical testing. Our magazine has already purchased the Toyota Corolla, Bluebird 1300, Lotus Europa, and Nissan Laurel one after the other, and is conducting controlled tests from a strictly objective standpoint while also putting them to use in daily life. The Familia Rotary Coupe is our fifth attempt to evaluate a new model through this method of long-term practical testing.
 
 
 
@@ -41,15 +41,15 @@ draft = false
 
 
 
-Our conclusion after testing the Familia Rotary Coupe for about 2,000km is that, as far as power performance is concerned, it can be summed up in one word: "excellent." On the 5.5km test course at Yatabe, our test car recorded a maximum speed of 184.0km/h (measured by fifth wheel speedometer), an average speed of 179.7km/h over the 400m section (measured by photocell), a 0-400m time of 17.2 seconds, and a time to 160km/h of 33.4 seconds, which is almost as fast as the standard Lotus Elan. Moreover, while the Lotus is a pure two-seater sports car, the Rotary Coupe is a completely practical five-seat (at least legally) coupe, and above all, it is a low-priced car at 700,000 yen. 
+Our conclusion after testing the Familia Rotary Coupe for about 2,000km is that, as far as power performance is concerned, it can be summed up in one word: "exceptional." On the 5.5km test course at Yatabe, our test car recorded a maximum speed of 184.0km/h (measured by fifth wheel speedometer), an average speed of 179.7km/h over the 400m section (measured by photocell), a 0-400m time of 17.2 seconds, and a time to 160km/h of 33.4 seconds, which is almost as fast as the standard Lotus Elan. Moreover, while the Lotus is a pure two-seater sports car, the Rotary Coupe is a completely practical five-seat (at least legally) coupe, and above all, it is a low-priced car at 700,000 yen. 
 
 
 
-The key to this amazing performance is, of course, the NSU-Wankel patented twin-rotor rotary engine, which is basically the same as the Cosmo's 491cc x 2 engine (L10B type) of which 340 have been sold since last June, but it has been slightly detuned and redesigned to suit mass production. Power is 100ps/7000rpm compared to the Cosmo's 128ps/7000rpm, and torque is 13.5kgm/3500rpm compared to the Cosmo's 14.2kgm/5000rpm. However, the Familia Rotary Coupe weighs only 805kg, 150kg less than the Cosmo, so there is almost no difference in power-to-weight ratio.
+The key to this amazing performance is, of course, the NSU-Wankel patented twin-rotor rotary engine, which is basically the same as the Cosmo's 491cc x 2 engine (L10B type) of which 340 have been sold since last June, but it has been slightly detuned and redesigned to better suit a mass-market vehicle. Power is 100ps/7000rpm compared to the Cosmo's 128ps/7000rpm, and torque is 13.5kgm/3500rpm compared to the Cosmo's 14.2kgm/5000rpm. However, the Familia Rotary Coupe weighs only 805kg, 150kg less than the Cosmo, so there is almost no difference in power-to-weight ratio.
 
 
 
-The Cosmo engine is already known for its smoothness and flexibility, but the new Rotary Coupe's 100ps engine feels even more so. On cold mornings, it literally starts with a flick of the starter, and even if you immediately take your foot off the throttle, it continues to rotate smoothly at 600-700rpm (this is the rotation speed of the output shaft, and the rotor itself rotates at that speed). Even when you first pull out onto the road after a brief warm-up, it responds immediately to the throttle and accelerates powerfully. 
+The Cosmo engine is already known for its smoothness and flexibility, but the new Rotary Coupe's 100ps engine feels even more so. On cold mornings, it literally starts with a flick of the starter, and even if you immediately take your foot off the throttle, it continues to rotate smoothly at 600-700rpm (this is the rotation speed of the output shaft, and the rotor itself rotates at the same speed). Even when you first pull out onto the road after a brief warm-up, it responds immediately to the throttle and accelerates powerfully. 
 
 
 
