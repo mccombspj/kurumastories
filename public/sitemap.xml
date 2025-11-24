@@ -80,6 +80,9 @@
     <loc>http://localhost:1313/toyota/carina/cg-ri-toyota-carina-1600st-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/mf-ri-toyota-corona-mark-ii-gss-1969/</loc>
+    <lastmod>2025-11-23T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mazda/cosmo-sport/mf-rt-mazda-cosmo-sport/</loc>
     <lastmod>2025-11-08T04:50:49-07:00</lastmod>
   </url><url>
@@ -100,9 +103,6 @@
   </url><url>
     <loc>http://localhost:1313/toyota/2000gt/as-ri-toyota-2000gt-1967/</loc>
     <lastmod>2025-10-29T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-rt-toyota-corona-mark-ii-gss-1970/</loc>
-    <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/bellett/cg-ri-isuzu-bellett-1600gtr-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
@@ -134,9 +134,6 @@
     <loc>http://localhost:1313/toyota/celica/mf-rt-toyota-celica-1600gt-toyota-carina-1600st-1970/</loc>
     <lastmod>2025-11-02T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/corona-mark-ii/mf-rt-toyota-corona-mark-ii-gss-1970/</loc>
-    <lastmod>2025-11-02T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/skyline/as-ri-nissan-skyline-2000gtr-1969/</loc>
     <lastmod>2025-11-01T04:50:49-07:00</lastmod>
   </url><url>
@@ -145,6 +142,9 @@
   </url><url>
     <loc>http://localhost:1313/mazda/cosmo-sport/as-rt-mazda-cosmo-sport/</loc>
     <lastmod>2025-10-28T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-rt-toyota-corona-mark-ii-gss-1970/</loc>
+    <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/honda-1300/cg-rt-honda-1300-coupe-9s-1970/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
@@ -167,11 +167,11 @@
     <loc>http://localhost:1313/toyota/carina/cg-rt-toyota-carina-1600gt-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-ri-toyota-corona-mark-ii-gss-hardtop-1972-02/</loc>
-    <lastmod>2025-11-05T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/fairlady/mf-rt-nissan-fairlady-z432-1970/</loc>
     <lastmod>2025-11-04T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/mf-rt-toyota-corona-mark-ii-gss-1970/</loc>
+    <lastmod>2025-11-02T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/2000gt/mf-rt-toyota-2000gt-1967/</loc>
     <lastmod>2025-10-30T04:50:49-07:00</lastmod>
@@ -194,6 +194,9 @@
     <loc>http://localhost:1313/toyota/2000gt/mf-dtd-toyota-2000gt-1970/</loc>
     <lastmod>2025-11-21T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-ri-toyota-corona-mark-ii-gss-hardtop-1972-02/</loc>
+    <lastmod>2025-11-05T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/skyline/mf-rt-nissan-skyline-2000gtr-1969/</loc>
     <lastmod>2025-11-01T04:50:49-07:00</lastmod>
   </url><url>
@@ -203,14 +206,14 @@
     <loc>http://localhost:1313/nissan/fairlady/cg-rt-nissan-fairlady-240zg-1972/</loc>
     <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-ri-toyota-corona-mark-ii-gss-hardtop-1972/</loc>
-    <lastmod>2025-10-12T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/cg-rt-mitsubishi-colt-galant-gto-2000gsr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/celica/cg-gt-nissan-bluebird-u-1600-sss-e-vs-toyota-celica-gtv-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/cg-ri-toyota-corona-mark-ii-gss-hardtop-1972/</loc>
+    <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-hardtop-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
@@ -230,13 +233,16 @@
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/2000gt/</loc>
-    <lastmod>2025-11-21T04:50:49-07:00</lastmod>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/</loc>
+    <lastmod>2025-11-23T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/</loc>
-    <lastmod>2025-11-21T04:50:49-07:00</lastmod>
+    <lastmod>2025-11-23T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-23T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/2000gt/</loc>
     <lastmod>2025-11-21T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/sports-800/</loc>
@@ -288,9 +294,6 @@
     <lastmod>2025-11-06T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/fairlady/</loc>
-    <lastmod>2025-11-05T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/corona-mark-ii/</loc>
     <lastmod>2025-11-05T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/luce-rotary-coupe/</loc>

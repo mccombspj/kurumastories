@@ -6,7 +6,7 @@
 
 
 
-title = "Toyota Corona Mark II 1900SL Hardtop (1968)"
+title = "Toyota Corona Mark II Hardtop 1900SL (1968)"
 weight = 10
 
 
@@ -64,7 +64,7 @@ Of the eight models and 48 possible variations of Corona II Mark II available, t
 
 When buying a new car, the most fun part is thinking about which body color and option combinations to choose, but in our case, such luxuries were not allowed. As usual, we had to get the car as soon as possible, drive it day and night to run it in, take it to the Yatabe High-Speed Proving Ground for road tests, use it every day under all kinds of conditions, and write up an accurate test report by the deadline for the next issue, all on an almost relentless schedule (being an automotive journalist is not as easy as you might imagine).
 
-Of the four body colors, our preference was Yellow Topaz, a German-style pale yellow. However, that was not among the first batch that arrived at Tokyo Toyopet, so we made do with White Moonstone, a cool white color. Moreover, as you can see in the photo, it has a fashionable vinyl top (a 12,000 yen option, which of course did not suit our tastes, but is the most beautiful part of the Corona hardtop. It breaks up the delicate connection from the roof to the tail. We later discovered that it also has the advantage of not having to wax the wide roof).
+Of the four body colors, our preference was Yellow Topaz, a German-style pale yellow. However, that was not among the first batch that arrived at Tokyo Toyopet, so we made do with White Moonstone, a cool white color. Moreover, as you can see in the photo, it has a trendy vinyl top (a 12,000 yen option which of course did not suit our tastes, but is the most fashionable part of the Corona hardtop, breaking up the delicate connection from the roof to the tail. We later discovered that it also has the advantage of not having to wax the wide roof).
 
 To get straight to the point, the 1900 Hardtop SL is far superior in every aspect, including performance, ride comfort, handling, roominess, and safety, to any of the previous Corona sports models we have tested (1600GT4, 1600GT5, and 1600S). In fact, it is safe to say that this is the best passenger car that Toyota has ever produced.
 
@@ -115,5 +115,7 @@ A nice touch is that everyone in the cabin has somewhere to store their luggage.
 Finally, while previous Coronas had many grease points on the suspension, the Mark II requires no lubrication at all, simplifying maintenance.
 
 
+<b><u>Postscript: Story Photos</b></u>
 
+{{< gallery "CG-RT-Toyota-Mark-II-1900SL-Hardtop-1968-Gallery" >}}
 
