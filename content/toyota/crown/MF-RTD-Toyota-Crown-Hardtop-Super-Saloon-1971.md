@@ -58,6 +58,32 @@ draft = false
 
 
 
+<b><u>Toyota Crown Hardtop Model Overview</b></u>
+
+With this model change, the Crown's styling has undergone major changes that seem to be ahead of their time. The rounded roofline, bonnet treatment, and other innovative forms are evident throughout, giving the car a style that ranks among the best of Toyota's cars, while still retaining the familiar curved body shapes in the same vein as the Corona and Mark II, the so-called "Toyota Line." The first thing that catches your eye is how smooth the body is, without any conspicuous protrusions. The front and rear body-colored bumpers are integrated into the rest of the body so as not to disturb the lines of the exterior. The bumpers are thicker than the body panels, giving them the strength required for their function, while also making them easy to replace in the event of damage. The smooth flow of the roofline blends into the rear fender line to create a graceful curved surface. The semi-matte wheel covers, which at first glance resemble magnesium, and the large air outlets in the rear pillars add a further special touch to the car's exterior. 
+
+To reduce driver fatigue, power steering is standard equipment, but it is not too light and is easy to get used to, which is more typical of European cars. Another convenient feature is the remote trunk opener, which allows the driver to open the trunk by turning the key counterclockwise in the ignition, without leaving the driver's seat. 
+
+The engine remains an OHC inline six-cylinder with twin two-barrel carburetors. Maximum output is 115ps/5800rpm, maximum torque is 16.0kgm/3600rpm, and it is equipped with a PCV device designed to purify exhaust gases.
+
+The transmission is a fully synchronized 4-speed, and the previous tough shifting feel has been softened by increasing the size of the synchro spline diameter.
+
+The front suspension is double wishbone, while the rear suspension is a four-link rigid axle type with four arms of unequal length supporting the front of the axle and a Panhard rod to maintain rigidity in the lateral direction. Coil springs are used front and rear, providing a soft ride.
+
+The driveshaft is divided into three parts, and the center part is fixed to the floor with a rubber bearing. This, combined with reinforcements to the propeller shaft and the reduction in the swing of the differential due to the four-link system, has resulted in improved safety and quietness.
+
+When braking suddenly on wet, frozen, or gravel roads, a car's rear wheels tend to lock up first, causing directional control to become unstable. To prevent this, a proportioning valve is installed to regulate hydraulic pressure to the rear wheels so that it does not exceed a certain value.
+
+
+<b><u>Manufacturer's Development Goals</b></u>
+
+The new Crown series was developed with the five following basic points in mind, with the overall aim of bringing the car to a standard of international acceptance:
+
+1) Make it unmistakable that this is a full model change, with a completely new exterior and interior.
+2) Address safety thoroughly, without compromise.
+3) Improve the drive system and chassis to provide additional strength and rigidity.
+4) Improve high-speed driving performance, and since the engine is 2000cc, focus not only on increasing the maximum speed, but on improving performance for continuous driving on the highway.
+5) Offer a wide range of models to meet a diverse variety of customer needs.
 
 
 <b><u>Toyota Crown Hardtop Test Drive</b></u>

@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/toyota/sprinter/mf-rtd-toyota-sprinter-sr-1971/</loc>
+    <lastmod>2025-11-18T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant/cg-rt-mitsubishi-colt-galant-ai-custom-1970/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -257,6 +260,9 @@
     <loc>http://localhost:1313/toyota/crown/</loc>
     <lastmod>2025-11-18T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/sprinter/</loc>
+    <lastmod>2025-11-18T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/silvia/</loc>
     <lastmod>2025-11-16T04:50:49-07:00</lastmod>
   </url><url>
@@ -378,9 +384,6 @@
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/corolla/cg-rt-toyota-corolla-levin-1600-1972/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/sprinter/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
