@@ -87,17 +87,18 @@ Although it is a rally car, it is not capable of participating in a full-scale r
 <b><u>Toyota Sprinter 1400SR Test Drive</b></u>
 
 The Sprinter SR is the fastest and sportiest model in the Corolla/Sprinter series, as indicated by the SR (Sports Rally) name.
+
 In terms of appearance, there are only slight differences compared to the SL, but it still has a distinct sports car feel. The test car was painted dark green with yellow SR markings and side stripes, which will surely be popular with young people.
 
-The driving position is no different from other Sprinters, but since it was a sporty position to begin with, there was no need to change it specifically for the SR model.
+The driving position is no different from other Corollas and Sprinters, but since it was a sporty position to begin with, there was no need to change it specifically for the SR model.
 
 The pedal layout is unchanged, and there seems to be no problem with this either. If we had to point out a problem, it would be that it's a little difficult to heel and toe...
 
-The steering wheel is made of soft synthetic resin and at first glance looks like real leather. It's a good thickness and diameter, and feels much better in your hands than a hard, cheap leather-wrapped wheel.
+The steering wheel is made of soft synthetic resin and at first glance looks like real leather. It's a good thickness and diameter, and feels much better in your hands than a cheap leather-wrapped wheel.
 
 The SR is marketed as a car that is focused on functionality, and a radio and console box are only available as options. Functionality is fine, but you would still want a radio...
 
-The SR's engine has a displacement of 1407cc, and although it is OHV, it has a cross-flow head. Carburetion is by twin downdraft two-barrels. With a compression ratio of 9.6, it produces a maximum output of 95ps/6000rpm and a maximum torque of 12.3kgm/4000rpm. Perhaps because the test car was new, it felt heavy when revved, and I got the strong impression that its throttle response was poor, especially at high rpm. 
+The SR's engine has a displacement of 1407cc, and although it is OHV, it has a cross-flow head. Carburetion is by twin downdraft two-barrels. With a compression ratio of 9.6, it produces a maximum output of 95ps/6000rpm and a maximum torque of 12.3kgm/4000rpm. Perhaps because the test car was new, its revving felt heavy, and we got a strong impression of poor throttle response, especially at high rpm. 
 
 The gearbox is a fully-synchronized 5-speed, the same as in the Celica/Carina. The gear ratios are the same as the Corolla 1400's 4-speed with an overdrive fifth gear of 0.861 added on top, but the final drive ratio is 4.38, compared to 4.11 for the 4-speed.
 
@@ -122,6 +123,7 @@ However, although the manufacturer says that "this car can be entered into ralli
 Of course, it's unlikely that any driver would be so ignorant as to enter a full-scale rally with a stock car as-is...
 
 With that in mind, although the name is "Rally," the suspension settings of this car give the impression that it is primarily designed for paved roads. In practical terms, this is by no means a negative. Until now, sports cars have tended to only increase engine power while maintaining the same suspension as standard models, so in that sense, the SR can be said to be a true enthusiast's car.
+
 All manufacturers sell suspension kits for racing and rallying, but there were practically no sports kits for street use, making tuning difficult. By contrast, the SR is perfect or users who want high performance in a sports car they can drive around town.
 
 With the introduction of this SR, we can expect other manufacturers to also introduce full-fledged street sports models with reinforced suspension.
