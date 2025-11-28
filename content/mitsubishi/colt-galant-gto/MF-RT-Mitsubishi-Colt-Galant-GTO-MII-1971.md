@@ -386,3 +386,7 @@ In terms of interior dimensions, the measured headroom figures are sufficient, a
 <b>Higuchi:</b> Why not just make it with the blueprint turned upside down? (laughs)
 
 <b>Magazine:</b> That's all for now...
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-RT-Mitsubishi-Galant-GTO-MII-1971-Gallery" >}}

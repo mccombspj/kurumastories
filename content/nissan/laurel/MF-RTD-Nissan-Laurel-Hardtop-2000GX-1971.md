@@ -92,7 +92,7 @@ The first is related to the appealing style and usability of the hardtop, such a
 
 Secondly, because it is a specialty car, the equipment was enhanced. The engine, which had previously been 1800cc, has been enlarged to 2000cc, and the interior has been given a luxurious atmosphere with a console, power windows, etc. 
 
-The third is the issue of body strength, which applies to any hardtop with no center pillar. The strength of the greenhouse section from the front pillar through the roof to the rear quarter pillar was almost doubled, and the door hinge attachment points were also strengthened to improve safety. 
+The third is the issue of body strength, which applies to any hardtop with no center pillar. The strength of the greenhouse section from the front pillar through the roof to the rear quarter pillar was almost doubled, and the door hinge attachment points were also strengthened to make them more secure. 
 
 Finally, fourth, as much attention as possible was given to safety, including the fitment of front disc brakes, a collapsible steering column, and pollution control measures."
 
@@ -100,7 +100,7 @@ Finally, fourth, as much attention as possible was given to safety, including th
 
 This hardtop was developed based on the "high-end private owner's car," the Laurel 1800 sedan, but the only part of the exterior that retains the sedan's image is the front end. Elsewhere, it has been given a sleek and elegant styling treatment that completely overturns the plain image of the sedan.
 
-However, while it is sleek, it does not come off as too flashy, which shows that, like the sedan, it is calibrated to appeal to middle-aged and older people more than younger people. 
+However, while it is sleek, it does not come off as too flashy, which shows that, like the sedan, it is meant to appeal to middle-aged and older people more than younger people. 
 
 The interior is also luxuriously finished, and the design gives a strong impression of emphasizing calm. Once inside the car, you can sense a feeling of comfort and serenity, even with the novelty of the pillar-free hardtop and resulting wide visibility. 
 
