@@ -257,7 +257,7 @@ We conducted the free-release stability test up to 140km/h, and at 100km/h, the 
 
 <b>Toyoshima:</b> The exhaust sound was so quiet that we had to re-measure it when the Ministry of Transport inspected it. In early sedans, a louder sound was preferred, so we had to make the exhaust louder, even if we didn't want to. However, recently, quieter sounds have become more desirable, so we have switched to an optional quieter exhaust system.
 
-<b><b\u>0-400m in 16.7 Seconds</b></u>
+<b><u>0-400m in 16.7 Seconds</b></u>
 
 <b>Magazine:</b> How about the results for power performance?
 
@@ -269,9 +269,9 @@ We conducted the free-release stability test up to 140km/h, and at 100km/h, the 
 
 <b>Magazine:</b> So the good acceleration is partly due to large first and second gear ratios?
 
-<b>Furutani:</b> Considering that, the acceleration doesn't generate a particularly high g force. However, it can maintain that g force for a long time.
+<b>Furutani:</b> Considering that, the acceleration doesn't generate a particularly high peak g force. However, it can maintain that g force for a long time.
 
-<b>Okazaki:</b> When I timed it with a stopwatch, it was very quick to reach 160km/h. Even when the initial starting speed was over 100km/h, its response didn't drop off. 
+<b>Okazaki:</b> When I timed it with a stopwatch, it was very quick to reach 160km/h. Even when the speed passed 100km/h, its response didn't drop off. 
 
 <b>Hirao:</b> Less air resistance means good acceleration.
 
@@ -279,7 +279,7 @@ We conducted the free-release stability test up to 140km/h, and at 100km/h, the 
 
 <b>Furutani:</b> Yes, there is a little, but not that much. 
 
-<b>Koguchi:</b> The acceleration force is about 0.6g, and it's maintained for a long time. As far as the launch, it depends on the way the clutch is engaged, but I felt that it took off smoothly with little shock.
+<b>Koguchi:</b> The maximum acceleration force is about 0.6g, and it's maintained for a long time. As far as the launch, it depends on the way the clutch is engaged, but I felt that it took off smoothly with little shock.
 
 <b>Magazine:</b> How was the clutch?
 

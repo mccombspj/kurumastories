@@ -339,7 +339,7 @@ Comparing these results to the data we have collected for other cars, where the 
 
 <b>Magazine:</b> From what I can see, the Carina seems brighter inside.
 
-<b>Hoshijima:</b> Overall, the Celica felt better from the driver's seat. One thing that bothered me was that the rearview mirror was a little small. Also, the design of the instrument panel in previous Toyota cars was very luxurious, but when I look at the Carina, especially, that feeling is gone. This may be because other cars have improved, but in that sense, I would like to see the Celica take another step forward to captivate young drivers. 
+<b>Hoshijima:</b> Overall, the Celica felt better from the driver's seat. One thing that bothered me was that the rearview mirror was a little small. Also, the design of the instrument panel in previous Toyota cars was very luxurious, but when I look at the Carina, especially, that feeling is gone. This may be because other cars have improved, but in that sense, I would like to see it take another step forward to captivate young drivers like the Celica. 
 
 <b>Magazine:</b> Please give us some data on exterior and interior dimensions from the Higuchi Lab.
 
@@ -368,3 +368,7 @@ In terms of safety, the Carina ST received 90 points out of 100. The Celica's in
 <b>Higuchi:</b> It's not clear yet, but we think we'll start with 5,000 to 6,000 units in the spring. Mainly for America.
 
 <b>Magazine:</b> That's all for now...
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-RT-Toyota-Carina-1600ST-1971-Gallery" >}}
