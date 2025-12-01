@@ -52,7 +52,7 @@ draft = false
 
 
 
-<b><u>2,000mkm of Endurance Touring</b></u> 
+<b><u>2,000km of Endurance Touring</b></u> 
 
 
 
