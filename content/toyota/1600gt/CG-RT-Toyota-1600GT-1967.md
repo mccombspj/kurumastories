@@ -98,23 +98,23 @@ In our time with the car, we have adopted the lazy method of driving in second g
 
 
 
-In our opinion, a more "peaky" engine is more suited to the characteristics of a sports car, even if it makes it a little harder to use at low speeds. In the 1600GT's case, even if the car actually produces a large amount of torque, it lacks the climax of a sudden surge of power at a certain rpm, making it feel lackluster and boring.
+In our opinion, a "peaky" engine is better suited to the characteristics of a sports car, even if it makes it a little harder to use at low speeds. In the 1600GT's case, even if the car actually produces a large amount of torque, it lacks the climax of a sudden surge of power at a certain rpm, making it feel somewhat lackluster and dull.
 
 
 
-The 1600GT is not very impressive in the city, but it comes to life when you get it on the highway. The top speed of 175km/h is only possible on a long, straight stretch like on the Meishin Expressway, and probably with the help of a downhill slope, but it can reach a speed of 160km/h in both fourth gear and overdrive fifth. If you rev it up to 7000rpm, you can reach about 150km/h in third gear, and even in second gear you can reach nearly 110km/h. At 110ps, the power is more than enough, and acceleration in third and fourth gear is still quite sharp even after exceeding 100km/h. The 1600GT actually becomes livelier from around 100km/h, where the acceleration of the regular 1600S hardtop reaches a plateau. Because third, fourth, and fifth gears are so close to each other, you can reach not only 100km/h but even 150km/h in any of the top three gears. The luxury of being able to choose from three gears at 150km/h is something you rarely experience, and among practical 1600cc class GTs, there is probably no other car like it in the world. The gear shift feels lighter at high speeds, and the synchronization is also effective. As we have already mentioned, the GT5 can be quite inconvenient in the city, but enthusiasts will almost certainly be willing to overlook this for the enjoyment of its high-speed performance.
+The 1600GT is not very impressive in the city, but it comes to life when you get it on the highway. The catalog top speed of 175km/h is only possible on a long, straight stretch like those on the Meishin Expressway, and probably with the help of a downhill slope, but it can reach a speed of 160km/h in both fourth gear and overdrive fifth without difficulty. If you rev it up to 7000rpm, you can reach about 150km/h in third gear, and even in second gear you can reach nearly 110km/h. At 110ps, the power is more than sufficient, and acceleration in third and fourth gear is still quite sharp even after exceeding 100km/h. The 1600GT actually becomes livelier from around 100km/h, where the acceleration of the regular 1600S hardtop reaches a plateau. Because third, fourth, and fifth gears are so close to each other, you can reach not only 100km/h but even 150km/h in any of the top three gears. The luxury of being able to choose from three gears at 150km/h is something you rarely experience, and among practical 1600cc class GTs, there is probably no other car like it in the world. The gear shift feels lighter at high speeds, and the synchronization is also effective. As we have already mentioned, the GT5 can be quite inconvenient in the city, but enthusiasts will almost certainly be willing to overlook this for the enjoyment of its high-speed performance.
 
 
 
-The overdrive 5-speed is supposed to provide quiet and economical cruising, but when you upshift from fourth gear into fifth (about 3100rpm) at 100km/h, the maximum speed on Japanese public roads, the transmission emits a high-pitched gear whine and the overall noise level actually increases. This is a pity, since the mechanical noise of the engine is surprisingly low. The exhaust noise increases suddenly above 3500rpm and creates resonances inside the body.
+The extra gear in the overdrive 5-speed is supposed to provide quiet and economical cruising, but when you upshift from fourth gear into fifth (about 3100rpm) at 100km/h, the maximum speed on Japanese public roads, the transmission emits a high-pitched gear whine and the overall noise level actually increases. This is a pity, since the mechanical noise of the engine is surprisingly low. The exhaust noise increases suddenly above 3500rpm and creates resonances inside the body.
 
 
 
-It is true that the GT5 has excellent high-speed performance, but the engine, at least in the car we tested, lacks smoothness in the high revolution range. Around 5500-6000rpm, the four-cylinder's inherent vibration cycles kick in, and at speeds above 140km/h in third, fourth, or fifth gear, the entire drivetrain begins to vibrate quite badly, and we just didn't have the nerve to sustain that speed for long. 
+It is true that the GT5 has excellent high-speed performance, but the engine, at least in the car we tested, lacks smoothness in the high revolution range. Around 5500-6000rpm, the four-cylinder's inherent vibration cycles kick in, and at speeds above 140km/h in third, fourth, or fifth gear, the entire drivetrain begins to vibrate quite badly, and we just didn't have the nerve to sustain such speeds for long. 
 
 
 
-As mentioned above, this GT5 was an early-production model, and when we asked the manufacturer about this, they told us they had already taken measures to correct it. In the GT4 model that was tested later, this vibration period was pushed out of the normal range of revolutions, and it was confirmed that there were no problems with the balance of the drivetrain at high speeds.   
+As mentioned above, this GT5 was an early-production model, and when we asked the manufacturer about this, they told us they had already taken corrective measures. In the GT4 model that was tested later, this vibration period was pushed out of the normal range of revolutions, and it was confirmed that there were no problems with the balance of the drivetrain at high speeds.   
 
 
 
@@ -130,11 +130,11 @@ The 1600GT's suspension is basically the same as the 1600S Hardtop's, except tha
 
 
 
-The handling is surprisingly good, especially when you remember that it is basically the same suspension as the Corona. The steering, with 3.75 turns from lock to lock, is the same as the Corona, so it keeps the driver's hands a little busy in tight corners, and there is about 5cm of free play at the steering wheel rim when going straight, but once you get used to having to turn the steering wheel a little too much when entering corners, it responds surprisingly well. It can even be called precise, and the steering is exceptionally light except when parking. 
+The handling is surprisingly good, especially when you remember that it is basically the same suspension as the Corona. The steering, with 3.75 turns from lock to lock, is the same as the Corona, so it keeps the driver's hands a little busy in tight corners, and there is about 5cm of free play at the steering wheel rim when going straight, but once you get used to having to turn the steering wheel that little bit extra when entering corners, it responds surprisingly well. It can even be called precise, and the steering is exceptionally light except when parking. 
 
 
 
-In order to compensate for the weight distribution of 54%/46% even with two people on board, the tire pressure is specified at 1.9kg/1.7kg (for up to 175km/h), but even so the handling is biased quite heavily towards understeer. Since the body roll is not felt much, at least by the driver, it is easy to enter a corner at speeds too high for the car's actual capabilities (and the driver's skill in handling it). The 1600GT seems to reach its cornering limits at speeds more than 30% higher than the 1600S, but once it does, all four wheels tend to let go at once.
+In order to compensate for the front-heavy weight distribution of 54%/46%, even with two people on board, the tire pressure is specified at 1.9kg/1.7kg (for up to 175km/h), but even so the handling is biased quite heavily towards understeer. Since the body roll is not felt much, at least by the driver, it is easy to enter a corner at speeds too high for the car's actual capabilities (not to mention the driver's). The 1600GT seems to reach its cornering limits at speeds more than 30% higher than the 1600S, but once it does, all four wheels tend to let go at once.
 
 
 
