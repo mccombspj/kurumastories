@@ -135,7 +135,7 @@ The increased power and torque raise exit speeds out of corners, and the maximum
 
 Even in the mountains around Rokko, there were two or three moments when I wondered if the S600 would have hung on as well. The increased tire contact area and greater driving force available when cornering make the S800 not only more enjoyable to drive, but also safer.
 
-At the same time, the engine's greater power reserves and generally lower revolutions not only increase durability, but also reduce vibration, and combined with the improvements in ride comfort, these factors all make it easier to use this car as a business vehicle. 
+At the same time, the engine's greater power reserves and generally lower revolutions not only increase durability, but also reduce noise and vibration, and combined with the improvements in ride comfort, these factors all make it easier to use this car as a business vehicle. 
 
 Sitting in the driver's seat, you can see that the previous polished instrument panel has been replaced with a matte black finish. At first glance, it looks less flashy, which some may consider a downside, but on a long drive, you'll realize that this small improvement goes a long way in reducing driver fatigue.
 
