@@ -4,7 +4,7 @@
 
 title = "Nissan Bluebird U 2000GT-X Hardtop (1973)"
 
-weight = 30
+weight = 40
 
 
 date = "2025-10-11T04:50:49-07:00"
