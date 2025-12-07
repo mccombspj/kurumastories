@@ -68,13 +68,13 @@ At 11:00am, we departed from Isuzu Motors' headquarters in Omori, Tokyo. Tsutsum
 
 Just before the Chofu Interchange, Tsutsumi handed control over to Yoneyama. He settled deep into the driver's seat and assumed a driving position with arms and legs stretched out straight. "Now, let's see this car's real potential." 
 
-Yoneyama stepped hard on the accelerator and jumped into the fast lane. The needle on the tachometer immediately jumped to 6500rpm (in second gear), just before the yellow zone. He shifted to third gear using the short, thick shift lever. The exhaust sound stopped for a moment, then the car accelerated with a low, crisp roar. Before it reached 5000rpm in third, the speed was about to exceed 100km/h. 
+Yoneyama stepped hard on the accelerator and jumped into the fast lane. The needle on the tachometer immediately jumped to 6500rpm (in second gear), just before the yellow zone. He shifted to third gear using the short, thick shift lever. The exhaust sound stopped for a moment, then the car accelerated with a low, crisp roar. Before it could reach 5000rpm in third, our speed was already pushing the 100km/h limit. 
 
 On the Shuto Expressway before entering the Chuo Expressway, we had been forced to drive slowly as usual. After handing the car over to Yoneyama and taking the passenger's seat, Tsutsumi commented, "This car is definitely better suited to the highway than the city," as he watched Yoneyama's brisk driving. "Even in top gear, it accelerates easily from 2000rpm, so I didn't feel any particular problems while driving around Tokyo. But it's a shame to use it at less than 2000rpm."
 
 For a DOHC equipped with two Solex twin-choke carburetors that are designed for high performance, this engine is surprisingly flexible at low speeds.
 
-No matter how effective it is at low speeds, though, this engine was originally developed for racing. Its true potential begins to emerge at rotation speeds of over 4500rpm. The "wolf" that is successfully tamed at lower engine speeds then begins to show its true nature from 4500rpm onwards. The high power is firmly controlled by the reinforced front and rear suspension, standard limited-slip differential, and grippy 165HR-13 radial tires, producing sharp acceleration (you can choose from three brands of tire: Dunlop, Bridgestone, or Yokohama). 
+Despite its effectiveness at low speeds, though, this engine was originally developed for racing. Its true potential begins to emerge at rotation speeds of over 4500rpm. The "wolf" that is successfully tamed at lower engine speeds then begins to show its true nature from 4500rpm onwards. The high power is firmly controlled by the reinforced front and rear suspension, standard limited-slip differential, and grippy 165HR-13 radial tires, producing sharp acceleration (you can choose from three brands of tire: Dunlop, Bridgestone, or Yokohama). 
 
 Opening the bonnet reveals two cam covers with a crackle-black finish. This DOHC 1.6-liter engine is called the G161WK type, which was modified from the G161W type from the Isuzu 117 Coupe to fit into the engine bay of the Bellett GT. It has double cams, a V-shaped arrangement of intake and exhaust valves, and cross-flow hemispherical combustion chambers for an efficient intake and exhaust system. The piston tops have a special shape that optimizes flame propagation, and the compression ratio is 10.3. The cam drive is a quiet two-stage double chain.
 
@@ -86,19 +86,19 @@ The production process of this G161W engine is different from that of mass-produ
 
 Tsutsumi: "Regarding the driving position, the bucket seats with headrests are perfect in terms of the shape and firmness of the padding. However, if you sink too deeply into the seat, the left fender mirror is blocked by the wiper blade. The leather-wrapped steering wheel is nice, but I would prefer it to be about 20mm smaller in diameter."
 
-Yoneyama: "This is typical of Belletts, but the steering column is mounted up too high. When you're driving long distances, you naturally get tired and your hands lose grip and drop."
+Yoneyama: "This is true of all Belletts, but the steering column is mounted up too high. When you're driving long distances, you naturally get tired and your hands lose grip and drop."
 
 On the front right of the dashboard there is a speedometer marked up to 220km/h, and on the left is a tachometer marked to 8000rpm. The yellow zone is from 6500 to 7000rpm, and anything above 7000rpm is the red zone. To the left of that are small gauges for oil pressure, oil temperature, and current lined up in a row. All of the gauges are simple, with white markings and needles on a black background.
 
-Tsutsumi: "The layout and size of the gauges are excellent. The markings on the speedometer seem too detailed. The smaller gauges for oil pressure and oil temperature have rougher scales and are easier to read. The pedals are a little heavy."
+Tsutsumi: "The layout and size of the gauges are excellent. The markings on the speedometer seem too detailed. The smaller gauges for oil pressure and oil temperature have wider scales and are easier to read. The pedals are a little heavy."
 
 Yoneyama: "It's a high-powered GT car, so it's only natural that the controls are this heavy. However, perhaps because my shoes are a bit big, every time I press the clutch my toes hit the steering shaft, which is a nuisance."
 
 Tsutsumi: "Heel-and-toeing is easier with a suspended accelerator pedal. The GTR's is an organ type. The part of the pedal that your heel hits acts as the fulcrum, so it is heavy and awkward to operate this way."
 
-The interior is mostly black, created a calm and sporty atmosphere. As befitting a GT car that can reach 190km/h, it is equipped with safety measures such as crash padding and a collapsible steering column.
+The interior is mostly black, creating a calm and sporty atmosphere. As befitting a GT car that can reach 190km/h, it is equipped with safety measures such as crash padding and a collapsible steering column.
 
-The test car was painted a deep orange. The front, tail end, and bonnet are finished in matte black. On the hood, there are two outlets (the one on the left side is a dummy). There are large outlets for cabin ventilation on the rear fenders, which accentuate the sporty look. From the first glance, it is clear that Isuzu is aiming for a bold mood with this car. Visually, it is one of the most extreme examples of the "wolf" category of sports sedans. 
+The test car was painted a deep orange. The front, tail end, and bonnet are finished in matte black. On the hood, there are two outlets (the one on the left side is a dummy). There are also large outlets for cabin ventilation on the rear fenders, which accentuate the sporty look. From the first glance, it is clear that Isuzu is aiming for a bold mood with this car. Visually, it is one of the most extreme examples of the "wolf" category of sports sedans. 
 
 Tsutsumi and Yoneyama, who are used to driving simple, functional racing machines, seemed confused at first by the colors and decorations.
 
@@ -106,7 +106,7 @@ Tsutsumi and Yoneyama, who are used to driving simple, functional racing machine
 
 As with all design, different people have different perceptions, so it's impossible to make a blanket statement, but all the test-drive participants, at least, seemed to feel that the car was somewhat over-decorated.
 
-Since the GTR can be raced with just a few modifications, it would have been more effective to have a design that would let the high performance shine through from the inside, rather than making the exterior too flashy. The capless wheels, which have recently become popular, are a good example of this kind of approach.
+Since the GTR can be raced with just a few modifications, it would have been better to have a design that would let the high performance shine through from within, rather than making the exterior too flashy. The capless wheels, which have recently become popular, are a good example of this kind of approach.
 
 <b><u>It's Up to You to Unleash the Potential</b></u>
 
@@ -116,9 +116,10 @@ The GTR's 4-speed transmission is operated with a short shift lever. It is a clo
 
 Yoneyama: "It's a 'clicky' shift with little friction. This feeling is the same in all Belletts."
 
-Tsutsumi: "Since it has a DOHC engine, a 5-speed transmission would be ideal. I usually drive a Toyota 1600GT with a 5-speed transmission when I drive around town, and the fifth gear is advantageous not only in terms of fuel economy, but also in terms of quietness during high-speed cruising."
+Tsutsumi: "Since it has a DOHC engine, a 5-speed transmission would be ideal. When I drive on the street, I usually drive a Toyota 1600GT with a 5-speed transmission, and the fifth gear is advantageous not only in terms of fuel economy, but also in terms of quietness during high-speed cruising."
 
 Yoneyama: "Even with a 4-speed, in terms of quietness, the GTR is much quieter than previous OHV Bellett GTs."
+
 As we gained altitude, the fog became thicker. We turned on the fog lamps between the split bumpers that are standard equipment on the GTR. These were powerful 55W halogen bulbs (containing iodine). They are installed low, so there was no diffuse reflection and they were quite effective.
 
 The suspension of the GTR is quite stiff and has little roll. The radial tires pick up a lot of small bump harshness, but they gripped the wet road surface firmly, allowing the car to climb powerfully. Any car will tend to oversteer once it exceeds a certain speed, and the Bellett GTR is no exception.
@@ -133,11 +134,11 @@ Tsutsumi: "The spring rate is appropriate. The balance with the shock absorbers 
 
 Even on these dirt roads, Tsutsumi kept driving the GTR at high speeds. The tail swung out at every corner, but he controlled it easily with just a slight steering correction.
 
-The coarse volcanic ash that is unique to the Fuji volcanic belt quickly and easily causes tires to lose grip. However, the GTR with differential lock climbs this dirt mountain road at a rapid pace.
+The coarse volcanic ash that is unique to the Fuji volcanic belt causes tires to quickly and easily lose grip. However, the GTR with differential lock climbed this dirt mountain road at a rapid pace.
 
 Tsutsumi: "The limited-slip differential seems to be very effective."
 
-The limited-slip differential is also very effective in racing, as it ensures driving force even when the inside drive wheel tends to lift up in tight corners or high-speed corners.
+The limited-slip differential is also very effective in racing, as it ensures driving force even when the inside drive wheel tends to lift up in tight or high-speed corners.
 
 As a "wolf," the GTR needs powerful brakes to match its engine performance. The manufacturer's claim that "a light touch provides sharp braking" proved to be a fitting description. It seems that what impressed the Tsutsumi/Yoneyama due the most about the GTR was the brakes' great feel.
 
