@@ -222,3 +222,7 @@ On the way back, Furutani was driving, and it seemed that the hardest part was w
 <b>Higuchi:</b> Regarding the safety results, on a 100-point scale, recent 1500cc class sedans generally score around 90 points, while GT sports cars score around 80 to 85 points. This car scored 84 points, which is on the low side for a sedan. The fact that the front bumper is divided into left and right halves and is not attached in the middle, and that it uses tempered glass instead of laminated glass, both lowered its score by 3 points each, but I don't think a score above 80 points is a problem.
 
 <b>Magazine:</b> Thank you all very much.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-RT-Isuzu-Bellett-1600GTR-1970-Gallery" >}}

@@ -238,3 +238,7 @@ The operating force of each control is light. The gear lever is about 2kg. The c
 <b>Hirata:</b> When the seat is in the middle position, the height of the viewpoint is 106.9 cm, the distance to the windshield is 56.5 cm, and the distance to the rearview mirror is 55.5 cm. The visible range through the windshield was 90.5° in total from left to right, and 26.5° up and down. The rear window was 46.0° in total from left to right, 13° up and down, and the wiper wiping range was 74.5°. So, the dead angle in the horizontal plane, including the viewpoint, is 56° overall. Expressed in solid angles, the area in front of the driver's eye is 1.08 steradians, the windshield is 0.641 steradians, and the wiper's wiping range is 0.46 steradians, wiping 64.9% of the visible area. The rear visible range is 11.7 steradians, which is natural for this type of car, but the overall field of view is slightly below average.
 
 <b>Magazine:</b> Thank you all very much.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-RT-Nissan-Fairlady-Z432-1970-Gallery" >}}
