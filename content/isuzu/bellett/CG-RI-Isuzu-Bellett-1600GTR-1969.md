@@ -67,11 +67,11 @@ draft = false
 
 
 
-When Paul Frere first came to Japan, he said that his favorite of all the Japanese cars he test drove was the Bellett 1600GT, which had been tuned to be low and stiff. He also suggested that the Bellett GTX, which was active in touring car racing with a twin-cam engine from the 117 Coupe, should be made commercially available. The manufacturer seemed interested in this idea, and almost immediately, the car was released under the name 1600GTR (Tokyo price, 1.16 million yen). The general outline of the GTR, compared to the GT, is that its suspension has been lowered and stiffened to a standard similar to that of Isuzu's existing Stage I sports kit (for gymkhana), radial tires have been fitted, and it is equipped with the same DOHC four-cylinder engine as the 117 Coupe. 
+When Paul Frere first came to Japan, he said that his favorite of all the Japanese cars he test drove was the Bellett 1600GT, which had been tuned to be low and stiff. He also suggested that the Bellett GTX, which was active in touring car racing with a twin-cam engine from the 117 Coupe, should be made commercially available. The manufacturer seemed interested in this idea as well, and almost immediately, the car was released under the name 1600GTR (Tokyo price, 1.16 million yen). The general outline of the GTR, compared to the GT, is that its suspension has been lowered and stiffened to a standard similar to that of Isuzu's existing Stage I sports kit (for gymkhana), radial tires have been fitted, and it is equipped with the same DOHC four-cylinder engine as the 117 Coupe. 
 
 
 
-Although the 117 and the GTR use the same engine, it is clearly evident from their body styles that the 117 is a Gran Turismo that runs gracefully on the highway, while the GTR is designed for performance and is "hot" enough to participate in gymkhana straight from the factory. However, it is not an unruly horse, and is extremely easy to drive.
+Although the 117 and the GTR use the same engine, it is clearly evident from their body styles that the 117 is a Gran Turismo for running gracefully on the highway, while the GTR is designed for performance and is "hot" enough to participate in gymkhana straight from the factory. However, it is not an unruly horse, and is extremely easy to drive.
 
 
 
@@ -83,7 +83,7 @@ The test car ran roughly at around 2500rpm due to poorly adjusted carburetors (t
 
 
 
-The engine is a little rough at its idling speed of 900rpm, and there is a lot of buzzing vibration. The very short shift lever protruding from the floor tunnel is a feature unique to Isuzu vehicles. Its action has a nice "click" to it, but it takes quite a bit of force to operate. The clutch engages cleanly and smoothly. 
+The engine is a little rough at its idling speed of 900rpm, and there is a lot of buzzing vibration. The very short shift lever protruding from the floor tunnel is a unique feature of Isuzu vehicles. Its action has a nice "click" to it, but it takes quite a bit of force to operate. The clutch engages cleanly and smoothly. 
 
 
 
@@ -103,7 +103,7 @@ Although the handling is excellent, it is inevitable that ride comfort is sacrif
 
 
 
-The springs also feel stiff on unpaved country roads, where there is some bouncing, but it's not enough to upset your stomach, and the ride quality isn't so bad as to be a cause fpr concern. The Bellett has always had a good ride on rough roads, and while the kickback, noise, and vibration give a bad initial impression, this probably won't be a big deal for people considering buying a GTR. On gravel roads, the differential lock is effective and prevents one-wheel spin. This differential lock was previously an option on the GT.
+The springs also feel stiff on unpaved country roads, where there is some bouncing, but it's not enough to upset your stomach, and the ride quality isn't so bad as to be a cause for concern. The Bellett has always had a good ride on rough roads, and while the kickback, noise, and vibration give a bad initial impression, this probably won't be a big deal for people considering buying a GTR. On gravel roads, the differential lock is effective and prevents one-wheel spin. This differential lock was previously an option on the GT.
 
 
 
@@ -123,4 +123,4 @@ By the current standards of the class, the Bellett has small body dimensions, an
 
 
 
-Finally, the fuel economy was 9.2km/l on average for a 300km round trip to FISCO on the Tomei Expressway and driving around Tokyo, which is a relatively good figure for this type of vehicle. Although this article only provides a brief impression of the 1600GTR, we are planning to conduct a full-scale road test at a later date, so please look forward to it.
+Finally, the fuel economy was 9.2km/l on average for a 300km round trip to FISCO on the Tomei Expressway and driving around Tokyo, which is a relatively good figure for this type of vehicle. Although this article only provides a brief impression of the 1600GTR, we are planning to conduct a full-scale road test at a later date, so please be on the lookout for it.
