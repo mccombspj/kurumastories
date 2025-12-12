@@ -3,7 +3,7 @@
 
 
 title = "Nissan Bluebird 1600SSS vs Toyota 1600GT (1967)"
-weight = 10
+weight = 1
 
 
 date = "2025-11-03T04:50:49-07:00"
