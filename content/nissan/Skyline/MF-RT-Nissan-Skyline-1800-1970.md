@@ -14,7 +14,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> December 1969<br>
-<b>Author (Roundtable):</b> Jiro Tanaka, Takashi Ushijima, Osamu Hirao, Kenichi Goto, Tadashi Terashima, Kunitaka Furutani, Hiroshi Okazaki, Kenji Higuchi, Shinichiro Sakurai, Taizo Tateishi, Masahide Sano, Akio Miyamoto, Zo Doi, Mineo Yamamoto, Kenzaburo Ishikawa, Minoru OndaMotor Fan Editorial Staff (uncredited)
+<b>Authors (Roundtable):</b> Jiro Tanaka, Takashi Ushijima, Osamu Hirao, Kenichi Goto, Tadashi Terashima, Kunitaka Furutani, Hiroshi Okazaki, Kenji Higuchi, Shinichiro Sakurai, Taizo Tateishi, Masahide Sano, Akio Miyamoto, Zo Doi, Mineo Yamamoto, Kenzaburo Ishikawa, Minoru Onda, Motor Fan Editorial Staff (uncredited)
 
 
 <b><u>Responding to the Need for a Wider Model Range</b></u>
