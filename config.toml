@@ -2,6 +2,8 @@ baseURL = "https://kurumastories.com/"
 languageCode = "en-us"
 title = "Kuruma Stories"
 theme = "ananke"
+[pagination]
+  pagerSize = 20
 
 [markup]
   [markup.goldmark]
