@@ -27,7 +27,7 @@ This car is so well-known that it goes by the nickname “Ska G” among young s
 
 In 1964, when Prince was still independent from Nissan, the company took the chassis of its Skyline 1500, extended the nose, and fitted it with the Gloria's six-cylinder OHC engine powered up with triple Weber carburetors, creating the original Skyline 2000GT.
 
-Such an endeavor was unprecedented in Japan at the time, and its appearance was hailed as a highly topical sensation. What quickly elevated its status to something approaching a legend, however, was that this newly emerged Skyline GT went on to achieve near-total dominance in competition, winning race after race in the domestic motorsports scene
+Such an endeavor was unprecedented in Japan at the time, and its appearance was hailed as a highly topical sensation. What quickly elevated its status to something approaching a legend, however, was that this newly emerged Skyline GT went on to achieve near-total dominance in competition, winning race after race in the domestic motorsports scene.
 
 In response to the popularity of the "Ska G" as an idol for young motorsports fans, a more street-friendly A-type was introduced (curiously, the heavily tuned B-type came first, with the mass-market A-type appearing later, a reversal of the usual order). At the same time, the manufacturer energetically promoted its image as a high-speed touring car with a strong sporty character.
 
@@ -37,9 +37,9 @@ Prince later merged with Nissan, and the car became known as the Nissan Skyline 
 
 However, the GT model retained its “traditional” design features of a six-cylinder, 2000cc engine and long-nose proportions.
 
-Tracing the development story of the 2000GT is quite complicated, and since most readers are already aware, we will refrain from going into the details.
+Tracing the development story of the 2000GT is quite complicated, and since most readers are already aware of it, we will refrain from going into the details.
 
-What did attract attention at the time of the model change, however, was the new car's specification of 105 horsepower, a single carburetor, and a 4-speed transmission. The reasoning behind this was later explained by the appearance of the GT-R and its R380 engine, but at the time of the 2000GT’s announcement, it left many people scratching their heads.
+What did attract attention at the time of the model change, however, was the new car's specification of 105 horsepower, a single carburetor, and a 4-speed transmission. The reasoning behind this was later explained by the appearance of the GT-R with the R380 engine, but at the time of the 2000GT’s announcement, it left many people scratching their heads.
 
 The commonly asked question was, “It’s still wearing sheep’s clothing, but where is the wolf inside?”
 
@@ -93,7 +93,7 @@ We continued the in-gear performance tests. When accelerating to merge on an on-
 
 For climbing ability, we used the same 1,150m section of the Hakone Turnpike that we used last time. It’s an up-and-down course with a maximum uphill grade of 10%. The time required was 43.6 seconds.
 
-In addition to this hill-climbing test, we also conducted a comparative test. Climbing the same section, the 1800 Sporty Deluxe was able to maintain 65km/h in third gear, but the 2000GT managed to reach 80km/h. In top gear, the 1800 could only just manage the climb at around 50km/h, while the 2000GT climbed comfortably at 60km/h. This was measured on the steepest section where the indicated gradient was 10%, and our method was to observe the drop in speed as we gradually pressed the cars' accelerators to the floor. It may be somewhat unfair to the 1800 to directly compare it to the 2000GT like this, but it does show how big the difference is between the two.
+In addition to this hill-climbing test, we also conducted a comparative test. Climbing the same section, the 1800 Sporty Deluxe was able to maintain 65km/h in third gear, but the 2000GT managed to reach 80km/h. In top gear, the 1800 could only just manage the climb at around 50km/h, while the 2000GT climbed comfortably at 60km/h. This was measured on the steepest section where the indicated gradient was 10%, and our method was to observe the drop in speed as we gradually pressed the cars' accelerators to the floor. It may be somewhat unfair to the 1800 to directly compare it to the 2000GT like this, but it does show how big the difference is for reference.
 
 Turning next to handling stability, the first point we considered was straight-line stability with one's hands off the steering wheel. When we twitched and released the wheel, the convergence took just over one cycle. Seen from the accompanying car, the 2000GT appeared to settle quickly and smoothly. The apparent movement was small. However, the testers inside the car gave it a poor rating. The instrument readings show that it settles well, but to the human senses, the way it settles feels drawn-out and leaves a sense of unease.
 
@@ -101,7 +101,7 @@ Turning next to handling stability, the first point we considered was straight-l
 
 This has yet to be clearly explained theoretically. In terms of the measured lateral acceleration data, the numbers are not bad. However, the driver is left with a lingering, unsteady feeling. This is not unique to the Skyline 2000GT, but it is regrettable that, despite having excellent power performance and acceleration, this aspect is still lagging behind. If this problem could be corrected and resolved, it could become a truly superb GT. We would like to see this become a major goal for Japan’s automotive industry in the future.
 
-As for steering, the car was equipped with the optional wood-rimmed steering wheel. In terms of how it feels, it has the same crisp feeling common to Nissan cars. This trait is often described as a "dry" (as opposed to "soggy") steering feel. This is a matter of personal preference, so it’s hard to judge absolutely, but for a sporty car, we would definitely recommend this dry type. All of the testers responded positively to this steering feel.
+As for steering, the car was equipped with the optional wood-rimmed steering wheel. In terms of feeling, it has the same crisp feel common to Nissan cars. This trait is often described as a "dry" (as opposed to "soggy") steering feel. This is a matter of personal preference, so it’s hard to judge absolutely, but for a sporty car, we would definitely recommend this dry type. All of the testers responded positively to this steering feel.
 
 Of the transmission, the group said, “It’s a good transmission that matches the car perfectly.” Also: “It fully brings out the virtues of the Warner-type unit. The gear ratios, shift feel, stroke, and weight of the lever are all perfect.” Some even went so far as to ask why the shift feel differs so much from that of the Fairlady Z, since both are Nissans.
 
@@ -109,15 +109,15 @@ We found the crisp, precise engagements perfectly suited to the task of managing
 
 “Nissan's transmissions are well-known for their quality. You often hear acclaim for their clean, decisive shifting,” someone remarked, offering a bit of insider perspective.
 
-On the other hand: "I wish they would do something about the low-frequency gear noise, though."
+"On the other hand, I wish they would do something about the low-frequency gear noise."
 
-As for the clutch, we weren’t as wild about it. “The first thing I noticed when I got in was the weight of the clutch. I don’t like it,” said Oguchi and Sanbon.
+As for the clutch, we weren’t as enthusiastic. “The first thing I noticed when I got in was the weight of the clutch. I don’t like it,” said Oguchi and Sanbon.
 
 “When I drove the 1800, I felt its clutch was softer than the one in the car I usually drive (a Bluebird SSS), but the 2000GT was a different story. However, it may have been a matter of getting tired from using it repeatedly around town,” said both Sasaki and Okubo.
 
-The pedals give a strong sense of responsiveness to initial pressure, then seem to relax slightly as you depress them further. The difference in pedal force between the brake and accelerator can increase fatigue. Oguchi emphasized that this isn't only a matter of pedal force, and that more serious attention should be paid to control harmony in general. This includes inputs to secondary controls such as switches and knobs.
+The pedals give a strong sense of responsiveness to initial pressure, then seem to relax slightly as you depress them further. The difference in pedal force between the brake and accelerator can increase fatigue. Oguchi emphasized that this point isn't limited to pedal force, and that more serious attention should be paid to control harmony in general. This includes inputs to secondary controls such as switches and knobs.
 
-Regarding the controls, opinions included: “They’re scattered, and having to look for them disrupts your concentration” (Sanbon). “The console-mounted light and wiper switches are easy to find by feel and pose no problems in use” (Sano). “The fuel and voltage gauges on the console would have been better positioned up near the radio and heater” (Sasaki). The small size of the ashtray came in for harsh criticism as equipment on a long-distance, high-speed touring car: “It looks just like a chest of drawers for Hina dolls...”
+Regarding the controls, opinions included: “They’re scattered, and looking for them disrupts your concentration” (Sanbon). “The console-mounted light and wiper switches are easy to find by feel and pose no problems in use” (Sano). “The fuel and voltage gauges on the console would have been better positioned up near the radio and heater” (Sasaki). The small size of the ashtray came in for harsh criticism as equipment on a long-distance, high-speed touring car: “It looks just like a chest of drawers for Hina dolls...”
 
 
 <b><u>Problems With Wind Noise and Seats</b></u>
@@ -126,7 +126,7 @@ In terms of comfort, we found some issues with the seat. “The bottom cushion p
 
 “I think it would be better to have more support for the lower back,” said Oguchi. “The bottom cushion grips the hips a bit too much, but it’s good that its front edge doesn't press up against the thighs. Overall, the seating retains the typical characteristics of Japanese cars, which tend to have high seats."
 
-By comparison, the Fairlady’s seat cushion has a 1.5cm height adjustment, allowing it to be tailored to suit to the driver’s body. For a car in this class, at least that level of consideration would have been welcome.
+By comparison, the Fairlady’s seat cushion has a 1.5cm height adjustment, allowing it to be tailored to the driver’s body. For a car in this class, at least that level of consideration would have been welcome.
 
 On the other hand, the rear seats are near-perfect. Legroom is generous and the seats themselves are comfortable. However, some commented: "The backrest angle is a bit too reclined. I suppose it depends on personal preference…"
 
@@ -134,7 +134,7 @@ As for interior noise, at 60km/h we measured 67 hones, at 80km/h around 72 hones
 
 However, wind noise is relatively loud. After trying various things, it appears that the cause is the antenna mounted on the right windshield pillar. The antenna sits about 1cm above the surface of the pillar, being fixed at the upper and lower ends. As air passes through the small gap, it seems to create friction noise and turbulence, resulting in a fairly pronounced wind noise.
 
-Regarding ride comfort , the Skyline series uses a typical strut-type suspension for the front wheels, while at the rear, it employs the same semi-trailing arm independent suspension as the Bluebird and Laurel. The tires are 6.45-14-4PR bias-plies.
+Regarding ride comfort, the Skyline series uses a typical strut-type suspension for the front wheels, while at the rear, it employs the same semi-trailing arm independent suspension as the Bluebird and Laurel. The tires are 6.45-14-4PR bias-plies.
 
 The resulting ride leaves little to criticize. Comments such as, “You don't feel the sense of speed,” and “It feels stable, so you can drive for long distances” were in the majority.
 
@@ -148,16 +148,16 @@ That said, the steering wheel spokes are not anti-glare treated, and bright trim
 
 We mentioned earlier that the wood-rimmed steering wheel was optional, but the latest catalog appears to list it as standard equipment. In any case, even if the wheel rim is molded synthetic resin, the spokes likely remain glaringly bright. It would be better if the kind of anti-glare treatment used on the Nissan Bluebird SSS were used instead.
 
-As for the sound of the horn, it sounds small when heard from inside while driving, but heard from the outside, its tone is clear and high-pitched. Among Nissan units, it is probably the best, and is possibly one of the best horns fitted to any domestic car. 
+As for the sound of the horn, it sounds quiet when heard from inside while driving, but heard from the outside, its tone is clear and high-pitched. Among Nissan horns, it is probably the best, and is possibly one of the best fitted to any domestic car. 
 
-Another item is the headrests, which are standard equipment to protect the head and neck in a rear-end collision. Normally, these are mounted using two metal posts inserted into the seatback, but in the case of the Skyline, the headrest is supported by a single, fairly thick steel plate. To adjust it, you loosen screws on the back of the backrest and move the headrest into position. If you do not fit the screw properly into the next adjustment hole, it will not lock into place. If you notice this while driving, you will have to stop the car and move to the rear seat to adjust the height. It’s impossible to adjust it by reaching back and moving it while sitting at an intersection. 
+Another point concerns the headrests, which are standard equipment to protect the head and neck in a rear-end collision. Normally, these are mounted using two metal posts inserted into the seatback, but in the case of the Skyline, the headrest is supported by a single, fairly thick steel plate. To adjust it, you loosen screws on the back of the backrest and move the headrest into position. If you do not fit the screw properly into the next adjustment hole, it will not lock into place. If you notice this while driving, you will have to stop the car and move to the rear seat to adjust the height. It’s impossible to adjust it by reaching back and moving it while sitting at an intersection. 
 
 The cushion feels soft when your head contacts it, and one wonders if it could sink in deeply, then rebound and throw the head forward in a rear impact. It may have been better to make it a little firmer.
 
 
 <b><u>High-Quality, Substantial High-Speed Car</b></u>
 
-In conclusion, we have raised various criticisms, but when we scored the Skyline 2000GT in terms of overall product value, it returned high averages, as you can see from the hexagonal scoring chart at the beginning of the article. It could be said that this type of car tends to appeal to the preferences of drivers like ourselves, but that wasn’t necessarily the case when we were driving and testing the 2000GT. Instead, what it delivers is a fairly high overall standard. In terms of acceleration, ride comfort, and handling, it offered satisfactory responses to our critical eye. If anything, it could be said that we were the ones who were holding high expectations for it as a car of this type and class, and were watching coldly to see whether it could meet those expectations.
+In conclusion, we have raised various criticisms, but when we scored the Skyline 2000GT in terms of overall product value, it returned high averages, as you can see from the hexagonal scoring chart. It could be said that this type of car tends to appeal to the preferences of enthusiasts like ourselves, but that wasn’t necessarily the case when we were driving and testing the 2000GT. Instead, what it delivers is a fairly high overall standard. In terms of acceleration, ride comfort, and handling, it offered satisfactory responses to our critical eye. If anything, it could be said that we were the ones holding high expectations for it as a car of this type and class, and were watching coldly to see whether it could live up to them.
 
 As for fuel economy, we initially recorded an astonishing figure of 13.5km/l between the Tokyo Interchange and Ebina Service Area. From Ebina onward, we ran various tests and took measurements, followed by repeated runs up and down the Hakone Turnpike at high rpm. During the demanding hill-climb test, we must have gone up and down the course more than a dozen times. After that, we drove along the winding Hakone mountain route, covering a total distance of 135km. Under these hard driving conditions, fuel consumption was 6.5km/l. One is tempted to add the words, "even so" to this. The next day, after driving at full speed from Gotemba, we covered 99.4km on the Tomei Expressway from the Tokyo Interchange to Shinagawa, navigating the city rush hour traffic, using 10.8l of fuel. Our overall fuel economy for the the trip was 9.2km/l. Despite our driving style being harsher than that of the average driver, the car still managed to deliver fairly economical results both on the highway and in the city.
 
@@ -167,11 +167,11 @@ When we posed the question, “Who would buy this car, and for what purpose?”,
 
 There was one last thing that everyone in the group agreed on: one more letter should be added to the car’s name.
 
-“In Japan, the term 'GT' is associated with sportiness or aggressive driving. But the nature of this car is closer to the true meaning of Gran Turismo. Although it appears mild-mannered at first, it hides an inner strength that borders on extravagance. For a car with such a character, the simplicity of the GT badge and its connotations may be doing it a disservice. Now that the GTR has been released, it might be better to give it a more evocative name, like GTL, for example. Couldn't this be a car capable of opening up a new customer base?"
+“In Japan, the term 'GT' is associated with sportiness or aggressive driving. But the nature of this car is closer to the true meaning, <i>Gran Turismo.</i> Although it appears mild-mannered at first, it hides an inner strength that borders on extravagance. For a car with such a character, the simplicity of the GT badge and its connotations may be doing it a disservice. Now that the GTR has been released, it might be better to give it a more evocative name, like GTL, for example. Couldn't this be a car capable of opening up a new customer base?"
 
 <b><u>How to Read the Bubble Index</b></u>
 
-Automobiles have what might be called character. It can be said that this character emerges from a combination of factors such as performance and functionality, intended use, vehicle class, and design philosophy. However, not all aspects of the car's character are clearly revealed to the user. The purpose of this series is to unravel the character of a car by evaluating six important aspects of its performance. 
+Cars have what might be called character. It can be said that this character emerges from a combination of factors such as performance and functionality, intended use, vehicle class, and design philosophy. However, not all aspects of the car's character are clearly revealed to the user. The purpose of this series is to unravel the character of a car by evaluating six important aspects of its performance. 
 
 The size of the circle at each vertex of the index represents a rating of the attribute indicated there, and by comparing the six circles, one can also get a sense of the balance among them. In the case of the Skyline 2000GT, it received a particularly high rating for economy, but this is because it is a 2000cc class car priced at 860,000 yen, making it exceptionally economical within the context of its class. Otherwise, apart from some issues with handling stability, the six performance areas all received good scores and were well-aligned, making it a well-balanced model overall.
 
