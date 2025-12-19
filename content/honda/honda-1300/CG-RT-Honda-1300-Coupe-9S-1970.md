@@ -1,7 +1,7 @@
 +++
 
 title = "Honda 1300 Coupe 9S (1970)"
-weight = 30
+weight = 50
 
 date = "2025-10-11T04:50:49-07:00"
 
@@ -23,7 +23,7 @@ draft = false
 <b><u>Road testing the Honda 1300 Coupe 9S</b></u>
 
 
-When we tested the Honda 1300 77 in the February issue, we were very impressed by its excellent engine, but criticized its chassis for being too weak to handle it, and for being unable to safely utilize its great power performance. The 77 Deluxe we tested for that report was a very early production model (chassis number H1300-1000611) that was purchased by C/G for long-term testing, and during the approximately 20,000km that we had it, it had frequent problems, so the passion we had initially felt for the Honda 1300 gradually faded. 
+When we tested the Honda 1300 77 in the February issue, we were highly impressed by its excellent engine, but criticized its chassis for being too weak to keep up with it, and for being unable to safely utilize its great power performance. The 77 Deluxe we tested for that report was a very early production model (chassis number H1300-1000611) that was purchased by C/G for long-term testing, and during the approximately 20,000km that we had it, it had frequent problems, so the enthusiasm we had initially felt for the Honda 1300 gradually faded. 
 
 Later, as mass production progressed, we began to hear people say that the Honda 1300 had improved a lot, but when we occasionally borrowed one to drive, we couldn't find any improvements significant enough to convince us.
 
