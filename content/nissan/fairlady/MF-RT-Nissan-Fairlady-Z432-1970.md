@@ -24,7 +24,7 @@ draft = false
 
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
-<b>Date:</b> June 1970<br>
+<b>Date:</b> January 1970<br>
 <b>Author (Roundtable):</b> Hajime Mizutsu, Osamu Hirao, Kazumi Yotsumoto, Kenji Higuchi, Kuniyuki Tanabe, Yuji Sakakibara, Yasuhei Koguchi, Kunitaka Furitani, Masahide Sano, Taizo Tateishi, Atsushi Watari, Hiroshi Okazaki, Minoru Onda, Mineo Yamamoto, Kenzaburo Ishikawa, Toshihide Hirata, Motor Fan Editorial Staff (uncredited)
 
 
