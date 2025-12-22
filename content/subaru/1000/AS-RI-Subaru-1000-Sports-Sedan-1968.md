@@ -7,6 +7,7 @@
 
 
 title = "Subaru 1000 Sports Sedan (1968)"
+weight = 10
 
 
 

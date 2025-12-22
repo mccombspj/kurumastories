@@ -14,7 +14,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> June 1969<br>
-<b>Author (Roundtable):</b> Jiro Tanaka, Kazuri Okamoto, Osamu Hirao, Atsushi Watari, Kenji Higuchi, Yuji Sakakibara, Jun Narue, Shinichiro Sakurai, Kunitaka Furitani, Hiroshi Hoshijima, Akio Miyamoto, Tadashi Terashima, Taizo Tateishi, Kazuo Kumabe, Ken Goto, Yasuhei Koguchi, Kenzaburo Ishikawa, Yoshio Akutsu, Mineo Yamamoto, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
+<b>Author (Roundtable):</b> Jiro Tanaka, Kazuri Okamoto, Osamu Hirao, Atsushi Watari, Kenji Higuchi, Yuji Sakakibara, Jun Narue, Shinichiro Sakurai, Kunitaka Furitani, Hiroshi Hoshijima, Akio Miyamoto, Tadashi Terashima, Taizo Tateishi, Kazuo Kumabe, Ken Goto, Yasuhei Oguchi, Kenzaburo Ishikawa, Yoshio Akutsu, Mineo Yamamoto, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
 
 
 <b><u>World-Class Performance</b></u>
@@ -143,7 +143,7 @@ In terms of time to speed, it took 2.9 seconds to reach 40km/h, 4.4 seconds to r
 
 <b>Hirao:</b> Has a foreign car ever done so?
 
-<b>Koguchi:</b> None in Motor Fan testing. When we hit the 4-second mark, we also measured the force of acceleration, which dropped from 0.6g to 0.54g and then didn't drop any further. Normally, acceleration peaks at the start and then drops, but this car felt like it was maintaining a high g for a very long time. I think it's appropriate to say that it felt like you were being pinned back in the seat for a long time. The overtaking acceleration times in third gear were 1.2 seconds to go from 30km/h to 40km/h, 4.6 seconds to 60km/h, 7.4 seconds to 80km/h, 10.2 seconds to 100km/h, and 13.2 seconds to 120km/h.
+<b>Oguchi:</b> None in Motor Fan testing. When we hit the 4-second mark, we also measured the force of acceleration, which dropped from 0.6g to 0.54g and then didn't drop any further. Normally, acceleration peaks at the start and then drops, but this car felt like it was maintaining a high g for a very long time. I think it's appropriate to say that it felt like you were being pinned back in the seat for a long time. The overtaking acceleration times in third gear were 1.2 seconds to go from 30km/h to 40km/h, 4.6 seconds to 60km/h, 7.4 seconds to 80km/h, 10.2 seconds to 100km/h, and 13.2 seconds to 120km/h.
 
 <b>Hirao:</b> Is that about the same acceleration as a Porsche?
 
@@ -221,13 +221,13 @@ In terms of time to speed, it took 2.9 seconds to reach 40km/h, 4.4 seconds to r
 
 <b>Magazine:</b> How was the fuel economy?
 
-<b>Koguchi:</b> Before our first test, we thought that because it's a GT-R, it would consume a lot of fuel, but when we measured it, we was surprised to find that its fuel efficiency curve didn't drop sharply at higher speeds, and the overally figures weren't that bad either. 
+<b>Oguchi:</b> Before our first test, we thought that because it's a GT-R, it would consume a lot of fuel, but when we measured it, we was surprised to find that its fuel efficiency curve didn't drop sharply at higher speeds, and the overally figures weren't that bad either. 
 
 In terms of constant-speed fuel economy, in direct fourth gear, the figures were 14.0km/l at 40km/h, 13.8km/l at 60km/h, 12.5km/l at 80km/h, 12.3km/l at 100km/h, 9.0km/l at 120km/h, and 6.9km/l at 140km/h. In overdrive fifth gear, the fuel consumption was 15.4km/l at 60km/h, 14.0km/l at 80km/h, 12.3km/l at 100km/h, 10.3km/l at 120km/h, 8.2km/l at 140km/h, and 5.7km/l at 160km/h. In other words, 60km/h in fifth gear is the most fuel-efficient way to drive.
 
 <b>Magazine:</b> What was the practical fuel consumption measured under conditions similar to driving in an urban area?
 
-<b>Koguchi:</b> When we simulated driving in a 40km/h speed limit zone, keeping our acceleration below 0.3g and stopping intermittently, our fuel consumption was 7.3km/l, with an average speed of 21.5km/h. When the speed limit was 60km/h and our average speed was 25.3km/h, the figure was 5.7km/l.
+<b>Oguchi:</b> When we simulated driving in a 40km/h speed limit zone, keeping our acceleration below 0.3g and stopping intermittently, our fuel consumption was 7.3km/l, with an average speed of 21.5km/h. When the speed limit was 60km/h and our average speed was 25.3km/h, the figure was 5.7km/l.
 
 <b>Magazine:</b> I see, that's relatively good. Has anything been done to improve the fuel economy?
 

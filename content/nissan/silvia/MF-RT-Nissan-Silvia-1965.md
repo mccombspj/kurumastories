@@ -98,7 +98,7 @@ draft = false
 
 
 
-<b>Publication:</b> Motor Fan<br><b>Format:</b> Road Test<br><b>Date:</b> July 1965<br><b>Authors (Roundtable):</b> Motoo Harada, Osamu Hirao, Hiromichi Nakamura, Kenzaburo Ishikawa, Kazuo Kumabe, Masahi Kondo, Kazumi Yotsumoto, Mineo Yamamoto, Yasuhei Koguchi, Atsushi Watari, Taizo Tateishi, Akio Miyamoto, Kenji Higuchi
+<b>Publication:</b> Motor Fan<br><b>Format:</b> Road Test<br><b>Date:</b> July 1965<br><b>Authors (Roundtable):</b> Motoo Harada, Osamu Hirao, Hiromichi Nakamura, Kenzaburo Ishikawa, Kazuo Kumabe, Masahi Kondo, Kazumi Yotsumoto, Mineo Yamamoto, Yasuhei Oguchi, Atsushi Watari, Taizo Tateishi, Akio Miyamoto, Kenji Higuchi
 
 
 
@@ -270,19 +270,19 @@ The body sides have a relatively flat feel, and another reason for this is that,
 
 <b>Magazine:</b> Now, here are the results of the power performance tests...
 
-<b>Koguchi:</b> In terms of standing-start acceleration, the 0-200m time was 11.0 seconds, and the 0-400m time was 17.4 seconds. The in-house data showed 0-400m in 17.9 seconds, so we actually got better figures in the Motor Fan test. 
+<b>Oguchi:</b> In terms of standing-start acceleration, the 0-200m time was 11.0 seconds, and the 0-400m time was 17.4 seconds. The in-house data showed 0-400m in 17.9 seconds, so we actually got better figures in the Motor Fan test. 
 
 <b>Kondo:</b> It seems the wind was quite strong... 
 
-<b>Koguchi:</b> It was, but during our test, the wind had died down considerably and the crosswind was around 5 to 7m/s.
+<b>Oguchi:</b> It was, but during our test, the wind had died down considerably and the crosswind was around 5 to 7m/s.
 
 <b>Hirao:</b> So the conditions weren't particularly favorable. 
 
-<b>Koguchi:</b> That's right. Also, this was the first time that we have been able to measure the top-gear overtaking acceleration time from 40km/h to 140 km/h. This was because the test location was Yatabe and not Murayama this time. In any case, I think this data proves the good acceleration of the car.
+<b>Oguchi:</b> That's right. Also, this was the first time that we have been able to measure the top-gear overtaking acceleration time from 40km/h to 140 km/h. This was because the test location was Yatabe and not Murayama this time. In any case, I think this data proves the good acceleration of the car.
 
 <b>Magazine:</b> We weren't able to measure the fuel economy ourselves this time, so we will refer to Nissan's data, but it seems we did did conduct coasting performance tests at highway speeds.
 
-<b>Koguchi:</b> I haven't been able to organize the data yet, so I'll publish the rolling resistance coefficient. The rolling resistance coefficient is about 0.015, which is on the low side. For a normal car, it's about 0.018. The air resistance is also about 0.002, so I think it's also small.
+<b>Oguchi:</b> I haven't been able to organize the data yet, so I'll publish the rolling resistance coefficient. The rolling resistance coefficient is about 0.015, which is on the low side. For a normal car, it's about 0.018. The air resistance is also about 0.002, so I think it's also small.
 
 <b>Kondo:</b> I thought the typical rolling resistance was around 0.013 or 0.012...
 

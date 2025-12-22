@@ -89,7 +89,7 @@ In terms of the chassis, the drive system has been strengthened to match the inc
 
 <b>Toishi:</b> The quality of the radial tires is very good, and they don't slip, even when braking hard.
 
-<b>Magazine:</b> Next, please give us the Koguchi Laboratory's fuel economy report.
+<b>Magazine:</b> Next, please give us the Oguchi Laboratory's fuel economy report.
 
 <b>Sano</b>: In terms of constant-speed fuel economy in top gear, the results were 17.2km/l at 30km/h, 17.1km/l at 60km/h, 15.4km/l at 80km/h, and 12.5km/l at 100km/h. The results at speeds around 40km/h, 50km/h, and 60km/h are very close with almost no change, and the curve is generally quite flat. We were also conducting a road test with the 117 Coupe at the same time, and the GTR was slightly better in constant-speed fuel economy. This may be because of its lighter weight.
 

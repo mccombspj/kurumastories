@@ -53,7 +53,7 @@ draft = false
 **Publication:** Motor Fan<br>
 **Format:** Road Test<br>
 **Date:** July 1970<br>
-**Author:** Ryozo Mabuchi, Torao Hattori, Akiro Irikoshi, Osamu Hirao, Kenji Higuchi, Hiroshi Okazaki, Atsushi Watari, Hiroshi Hoshijima, Kunitaka Furutani, Taizo Tateishi, Masahide Sano, Yasuhei Koguchi, Yasushi Saito, Kiyoshi Mori, Kenzaburo Ishikawa, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
+**Author:** Ryozo Mabuchi, Torao Hattori, Akiro Irikoshi, Osamu Hirao, Kenji Higuchi, Hiroshi Okazaki, Atsushi Watari, Hiroshi Hoshijima, Kunitaka Furutani, Taizo Tateishi, Masahide Sano, Yasuhei Oguchi, Yasushi Saito, Kiyoshi Mori, Kenzaburo Ishikawa, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
 
 
 
@@ -383,7 +383,7 @@ On minor expressways, it's about 20-30% better. The fuel economy I recorded late
 
 
 
-<b>Koguchi:</b> If this is related to exhaust gas control, wouldn't it be okay to just make the mixture a little leaner? Fuel efficiency has also improved, so it's one of the many changes that have been made...
+<b>Oguchi:</b> If this is related to exhaust gas control, wouldn't it be okay to just make the mixture a little leaner? Fuel efficiency has also improved, so it's one of the many changes that have been made...
 
 
 
@@ -463,7 +463,7 @@ So in terms of the free-release stability testing, I think the data will be slig
 
 
 
-<b>Koguchi:</b> I drove at the Yatabe course to get a feel for this, gradually increasing the speed, adjusting the steering, and then taking my foot off the accelerator, and as I increased the speed up through about 100km/h, I hardly felt anything. But when I got to 120-130km/h, I thought, "Oh, there it is."
+<b>Oguchi:</b> I drove at the Yatabe course to get a feel for this, gradually increasing the speed, adjusting the steering, and then taking my foot off the accelerator, and as I increased the speed up through about 100km/h, I hardly felt anything. But when I got to 120-130km/h, I thought, "Oh, there it is."
 
 
 

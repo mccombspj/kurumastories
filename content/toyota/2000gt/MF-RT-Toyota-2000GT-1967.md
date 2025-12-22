@@ -49,7 +49,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> August 1967<br>
-<b>Authors (Roundtable):</b> Jiro Kono, Osamu Hirao, Kenji Higuchi, Akio Miyamoto, Yasuhei Koguchi, Taizo Tateishi, Kenzaburo Ishikawa, Toshihide Hirata, Riichi Toyota, Motor Fan Editorial Staff (uncredited)
+<b>Authors (Roundtable):</b> Jiro Kono, Osamu Hirao, Kenji Higuchi, Akio Miyamoto, Yasuhei Oguchi, Taizo Tateishi, Kenzaburo Ishikawa, Toshihide Hirata, Riichi Toyota, Motor Fan Editorial Staff (uncredited)
 
 
 
@@ -209,7 +209,7 @@ However, if possible, I think it would be good to sell a 2+2 type in addition to
 
 <b>Magazine:</b>Now, let's please announce the results of the dynamic performance tests conducted by the Hirao Laboratory.
 
-<b>Koguchi:</b> It was raining on the day of the test, and the road conditions were poor, so I must ask you to excuse the poor figures. The test vehicle's odometer read 7,990km, which means it is a heavily used vehicle. The test conditions were two passengers plus the test equipment, so the vehicle was loaded with a total of 139.5 kg.
+<b>Oguchi:</b> It was raining on the day of the test, and the road conditions were poor, so I must ask you to excuse the poor figures. The test vehicle's odometer read 7,990km, which means it is a heavily used vehicle. The test conditions were two passengers plus the test equipment, so the vehicle was loaded with a total of 139.5 kg.
 
 First, in terms of standing-start acceleration, the time-to-distance results were 0-50m in 4.5 seconds, 0-100m in 6.9 seconds, 0-200m in 10.4 seconds, and 0-400 m in 16.1 seconds. In terms of time to speed, it took 5.2 seconds to reach 60km/h, 7.4 seconds to reach 80km/h, 9.6 seconds to reach 100km/h, 12.5 seconds to reach 120km/h, and 14.4 seconds to reach 130km/h, so by the end of the standing 400m, you will be traveling at a speed of 130km/h.
 
@@ -223,7 +223,7 @@ Finally, we also measured overtaking times in overdrive, and from 50km/h in over
 
 <b>Kono:</b> The catalog says 15.9 seconds, but the best time within the company is about 15.3 seconds. This was done on a day with good conditions, taking into account the tire conditions, so that we could get the best data possible.
 
-<b>Koguchi:</b> If the test conditions were good, it would have been an easy dash to get 16 seconds. There was a lot of slipping at the start, which caused a loss. When you drive it, the G at the start isn't that big, but it accelerates well after building up speed. The increase from 80km/h or 100km/h is particularly impressive.
+<b>Oguchi:</b> If the test conditions were good, it would have been an easy dash to get 16 seconds. There was a lot of slipping at the start, which caused a loss. When you drive it, the G at the start isn't that big, but it accelerates well after building up speed. The increase from 80km/h or 100km/h is particularly impressive.
 
 <b>Magazine:</b> Of course, we weren't able to conduct a top speed test, but how fast can it go?
 

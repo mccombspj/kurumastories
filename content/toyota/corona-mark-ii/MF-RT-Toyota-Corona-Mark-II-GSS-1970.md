@@ -14,7 +14,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> February 1970<br>
-<b>Authors (Roundtable):</b> Masuo Amano, Atsushi Watari, Jun Sakakibara, Mineo Yamamoto, Hiroshi Okazaki, Kunitaka Furutani, Taizo Tateishi, Zo Doi, Kenji Higuchi, Kenzaburo Ishikawa, Yasuhei Koguchi, Toshihide Hirata, Minoru Onda, Mamoru Okubo, Motor Fan Editorial Staff (uncredited)
+<b>Authors (Roundtable):</b> Masuo Amano, Atsushi Watari, Jun Sakakibara, Mineo Yamamoto, Hiroshi Okazaki, Kunitaka Furutani, Taizo Tateishi, Zo Doi, Kenji Higuchi, Kenzaburo Ishikawa, Yasuhei Oguchi, Toshihide Hirata, Minoru Onda, Mamoru Okubo, Motor Fan Editorial Staff (uncredited)
 
 <b><u>Definitive Edition of the Mark II</b></u>
 
@@ -173,7 +173,7 @@ The operating force of each part is light for the shift lever. The clutch felt h
 
 <b>Furutani:</b> The feeling is good. There are disc brakes with a strong servo feeling and others with a dual-leading feel, but I think these are good brakes that exhibit all the good qualities of discs. 
 
-<b>Koguchi:</b> Besides the length of the braking distance, the feeling when you step on the pedal is very solid. It's just a feeling, so you can't easily define it, but the braking feels different from that of mainstream Toyota cars. 
+<b>Oguchi:</b> Besides the length of the braking distance, the feeling when you step on the pedal is very solid. It's just a feeling, so you can't easily define it, but the braking feels different from that of mainstream Toyota cars. 
 
 <b>Sakakibara:</b> Along with the improved power performance, the brakes are large for the class, equivalent to those used in the Crown class. That's probably what makes it so powerful.
 
@@ -227,11 +227,11 @@ The car is powerful and has twin carbs, so I expected the fuel economy to be qui
 
 <b>Sakakibara:</b> I think would be better for us to explain the options to the customer after they arrive. (laughs) There are various individual cases, and the extent to which you can increase the engine revolutions, for example, depends on the skill of the driver.
 
-<b>Koguchi:</b> When you say that, I kind of understand what you mean, but I don't really understand. (laughs)
+<b>Oguchi:</b> When you say that, I kind of understand what you mean, but I don't really understand. (laughs)
 
 <b>Sakakibara:</b> One driver might say that this stabilizer is good, while another driver might prefer this one, and there are all kinds of preferences when it comes to things like brake feel as well...
 
-<b>Koguchi:</b> If the engine is made 20% or 30% more powerful, can the rest of the powertrain remain the same?
+<b>Oguchi:</b> If the engine is made 20% or 30% more powerful, can the rest of the powertrain remain the same?
 
 <b>Sakakibara:</b> It depends on how you're going to use it, but there are options for things like the clutch. The differential can also be selected for the driver and the course.
 

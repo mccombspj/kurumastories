@@ -25,7 +25,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> July 1970<br>
-<b>Author (Roundtable):</b> Hiroshi Takahashi, Osamu Hirao, Hiroshi Okazaki, Zenzo Sonoda, Kenji Higuchi, Motoo Harada, Akio Miyamoto, Kunitaka Furitani, Yasuhei Koguchi, Taizo Tateishi, Masahide Sano, Kenzaburo Ishikawa, Zo Doi, Kenichi Otani, Minoru Onda 
+<b>Author (Roundtable):</b> Hiroshi Takahashi, Osamu Hirao, Hiroshi Okazaki, Zenzo Sonoda, Kenji Higuchi, Motoo Harada, Akio Miyamoto, Kunitaka Furitani, Yasuhei Oguchi, Taizo Tateishi, Masahide Sano, Kenzaburo Ishikawa, Zo Doi, Kenichi Otani, Minoru Onda 
 
 
 
@@ -97,7 +97,7 @@ The third-gear overtaking acceleration from 30km/h is almost the same for both t
 
 <b><u>1200cc Margin</b></u>
 
-<b>Koguchi:</b> I think the feeling is, "I have more in reserve." In terms of acceleration, the numbers aren't that different from the 1000cc, but there is a sense of leeway that isn't really apparent in the numbers. It feels like it's reached a good balance. For example, it takes 13.4 seconds to reach 100km/h, and as Professor Hirao said earlier, this is about right, for those who are going to regularly drive at those speeds. As far as starting on a cold morning goes, I don't know for sure, but it feels like there's a slight sense of overcooling. It might have something to do with the operation of the thermostat...
+<b>Oguchi:</b> I think the feeling is, "I have more in reserve." In terms of acceleration, the numbers aren't that different from the 1000cc, but there is a sense of leeway that isn't really apparent in the numbers. It feels like it's reached a good balance. For example, it takes 13.4 seconds to reach 100km/h, and as Professor Hirao said earlier, this is about right, for those who are going to regularly drive at those speeds. As far as starting on a cold morning goes, I don't know for sure, but it feels like there's a slight sense of overcooling. It might have something to do with the operation of the thermostat...
 
 <b>Hirao:</b> I wondered about that. It wakes up quickly, but it tends to be a little slow to warm up. So if you try to run too hard right away, it starts shaking.
 
@@ -115,7 +115,7 @@ In terms of vibration, a bouncing result of 1.3-1.4Hz is typical for a car of th
 
 <b><u>Better Fuel Efficiency Than the Catalog Values</b></u>
 
-<b>Magazine:</b> Next, please present the fuel economy figures from Koguchi Laboratory.
+<b>Magazine:</b> Next, please present the fuel economy figures from Oguchi Laboratory.
 
 <b>Sano</b>: In terms of steady-state fuel economy, for the Coupe GL, it's 25.5km/l at 40km/h, 23.5km/l at 60km/h, 20.1km/l at 80km/h, and 15.2km/l at 100km/h. The catalog fuel economy is listed as 22.5km/l, but our actual result of 23.5km/l is better than that. This was with three people and test equipment on board.
 
@@ -123,7 +123,7 @@ The model operating fuel efficiency was 14.2km/l when driving in a simulated 40k
 
 <b>Magazine:</b> How does this compare to the previous Sunny?
 
-<b>Koguchi:</b> It's difficult to compare the fuel economy, since our test methods have changed since we tested the Sunny 1000. But I think a constant-speed fuel economy of 23.5km/l at 60km/h is pretty good, considering the weight of the test load.
+<b>Oguchi:</b> It's difficult to compare the fuel economy, since our test methods have changed since we tested the Sunny 1000. But I think a constant-speed fuel economy of 23.5km/l at 60km/h is pretty good, considering the weight of the test load.
 
 <b>Magazine:</b> I think it's been common knowledge for some time that the Sunny has very good fuel economy. So, please provide us with data on braking and control operating force measured by the Ship Research Institute.
 
@@ -137,7 +137,7 @@ In terms of operating force, the gear lever is almost too light. It's a floor-mo
 
 <b>Okazaki:</b> I got the same impression as what we just heard. The steering is very light, and I liked the steering feel of the previous Sunny, but this time it's aimed at a slightly wider demographic, so the sharpness is somewhat diminished. Still, the response is good enough to satisfy even young people, and I think that generally speaking, it still has all the elements that make it a sporty car. 
 
-<b>Koguchi:</b> I thought that the car is well suited to the GL name. It has that kind of performance. There's no imbalance, such as, for example, a very light clutch and a heavy brake pedal. It's a well-balanced car that's easy to get into and drive, with a well-rounded, easy-to-use feel. That's what this coupe has.
+<b>Oguchi:</b> I thought that the car is well suited to the GL name. It has that kind of performance. There's no imbalance, such as, for example, a very light clutch and a heavy brake pedal. It's a well-balanced car that's easy to get into and drive, with a well-rounded, easy-to-use feel. That's what this coupe has.
 
 <b>Hirao:</b> It would be a problem if the throttle was too light, but I think it's just right. 
 

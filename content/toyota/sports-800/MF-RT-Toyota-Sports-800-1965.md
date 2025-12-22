@@ -49,7 +49,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> June 1965<br>
-<b>Authors (Roundtable):</b> Tatsuo Hasegawa, Shozo Sato, Kazuo Kumabe, Osamu Hirao, Mineo Yamamoto, Masatoshi Yoshida, Yasuhei Koguchi, Atsushi Watari, Kenji Higuchi, Taizo Tateishi, Masahi Kondo, Kenzaburo Ishikawa, Tenji Kobayashi, Motor Fan Editorial Staff (uncredited)
+<b>Authors (Roundtable):</b> Tatsuo Hasegawa, Shozo Sato, Kazuo Kumabe, Osamu Hirao, Mineo Yamamoto, Masatoshi Yoshida, Yasuhei Oguchi, Atsushi Watari, Kenji Higuchi, Taizo Tateishi, Masahi Kondo, Kenzaburo Ishikawa, Tenji Kobayashi, Motor Fan Editorial Staff (uncredited)
 
 
 
@@ -171,7 +171,7 @@ Also, light alloys are used for the bonnet and trunk lid. In any case, simply ma
 
 <b>Magazine:</b> Now, here are the results of the power performance tests....
 
-<b>Koguchi:</b> Looking at the standing-start acceleration in terms of time to distance, the results were 11.9 seconds for 0-200m and 18.8 seconds for 0-400m. These are excellent figures ​​that you wouldn't expect from an 800cc class car. Since the overall reduction ratio in third and top gear is small, we measured overtaking times by accelerating from around 20-30km/h in third gear, and 30-40km/h in top gear. From 30km/h in third gear it took 19.6 seconds to reach 100km/h, and from 40km/h in top gear it took 31.9 seconds.
+<b>Oguchi:</b> Looking at the standing-start acceleration in terms of time to distance, the results were 11.9 seconds for 0-200m and 18.8 seconds for 0-400m. These are excellent figures ​​that you wouldn't expect from an 800cc class car. Since the overall reduction ratio in third and top gear is small, we measured overtaking times by accelerating from around 20-30km/h in third gear, and 30-40km/h in top gear. From 30km/h in third gear it took 19.6 seconds to reach 100km/h, and from 40km/h in top gear it took 31.9 seconds.
 
 As for the time spent in each gear during through-the-gears acceleration, low gear is used for 3.6 seconds and second gear for 4.2 seconds. We didn't shift into top gear in the acceleration run, we just carried through to the end in third. 
 
@@ -179,7 +179,7 @@ Up to now, we've conducted our Motor Fan tests with three people on board, but t
 
 <b>Sato:</b> How high did you take the rotation speed in each gear? 
 
-<b>Koguchi:</b> We pulled up to about 6000rpm.
+<b>Oguchi:</b> We pulled up to about 6000rpm.
 
 <b>Hasegawa:</b> As far as the number of passengers goes, having one fewer person makes about a one-second difference in the 0-400m time. Even so, the time was slower than our in-house data, by 0.4 seconds...
 
@@ -187,7 +187,7 @@ Up to now, we've conducted our Motor Fan tests with three people on board, but t
 
 <b>Watari:</b> The other day, during a test drive, the speedometer reached 130km/h before we exited a certain tunnel. Other cars don't usually pick up that much speed there, so the acceleration is certainly impressive.
 
-<b>Koguchi:</b> On the subject of the speedometer, in most cars, the speedometer shows a higher reading than the actual vehicle speed. In this car, the actual vehicle speed was higher.
+<b>Oguchi:</b> On the subject of the speedometer, in most cars, the speedometer shows a higher reading than the actual vehicle speed. In this car, the actual vehicle speed was higher.
 
 <b>Watari:</b> So, that means it actually went over 130km/h. But we need to tell people who buy cars like this that they can't use top gear in the city. It seems like even 60km/h is pushing it. This is what the tachometer markings are for, but it would be safer if the speedometer also showed the range of use for each gear.
 

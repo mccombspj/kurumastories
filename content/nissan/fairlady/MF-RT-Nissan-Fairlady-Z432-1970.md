@@ -25,7 +25,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> January 1970<br>
-<b>Author (Roundtable):</b> Hajime Mizutsu, Osamu Hirao, Kazumi Yotsumoto, Kenji Higuchi, Kuniyuki Tanabe, Yuji Sakakibara, Yasuhei Koguchi, Kunitaka Furitani, Masahide Sano, Taizo Tateishi, Atsushi Watari, Hiroshi Okazaki, Minoru Onda, Mineo Yamamoto, Kenzaburo Ishikawa, Toshihide Hirata, Motor Fan Editorial Staff (uncredited)
+<b>Author (Roundtable):</b> Hajime Mizutsu, Osamu Hirao, Kazumi Yotsumoto, Kenji Higuchi, Kuniyuki Tanabe, Yuji Sakakibara, Yasuhei Oguchi, Kunitaka Furitani, Masahide Sano, Taizo Tateishi, Atsushi Watari, Hiroshi Okazaki, Minoru Onda, Mineo Yamamoto, Kenzaburo Ishikawa, Toshihide Hirata, Motor Fan Editorial Staff (uncredited)
 
 
 
@@ -95,7 +95,7 @@ I think it's a styling trend that has changed from the streamlined style of the 
 
 <b>Sakakibara:</b> The basic structure of the Z432's engine is that of the R380 engine, and it has been modified to make it easier to produce, easier to install in the car, and easier to maintain. At the planning stage, the Skyline 2000GT-R and this Z series were being developed almost simultaneously, so the engine for the GT-R and this one are made almost the same. However, there were some parts that had to be changed due to the nature of the cars and the installation. Specifically, only exterior parts such as the shape of the oil pan and the shape of the air cleaner have been changed.
 
-<b>Koguchi:</b> There is a big price difference between the base Z and this Z432, but how much of this is due to the difference in the cost of the engines? I also heard that the wheel discs (made of magnesium and steel) cost about 50,000 yen each...
+<b>Oguchi:</b> There is a big price difference between the base Z and this Z432, but how much of this is due to the difference in the cost of the engines? I also heard that the wheel discs (made of magnesium and steel) cost about 50,000 yen each...
 
 <b>Mizutsu:</b> The Z432 engine costs about three times as much, because it is not produced in large quantities and is close to being tuned up.
 
@@ -141,7 +141,7 @@ They will prefer to ride in a two-seater car, which will allow them to avoid hav
 
 <b>Magazine:</b> Although we did not conduct any instrumented handling or stability tests this time, we were told that the car has good stability thanks to the use of a strut-type suspension at the rear.
 
-<b>Koguchi:</b> This car's struts are located in front of the axle, but how does handling stability differ if they are located above the axle or behind the axle? 
+<b>Oguchi:</b> This car's struts are located in front of the axle, but how does handling stability differ if they are located above the axle or behind the axle? 
 
 <b>Hirao:</b> I don't think you can say in general.
 
@@ -223,7 +223,7 @@ The operating force of each control is light. The gear lever is about 2kg. The c
 
 <b>Magazine:</b> What do you think of the Porsche-synchro transmission?
 
-<b>Koguchi:</b> I like it, but some people don't like it, and want a more definite, crisp feeling.
+<b>Oguchi:</b> I like it, but some people don't like it, and want a more definite, crisp feeling.
 
 <b>Watari:</b> Isn't the gear lever a little too long to hold at the top? However, I suppose if it were shorter, it would become heavy.
 

@@ -49,7 +49,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> January 1971<br>
-<b>Author (Roundtable):</b> Sadao Kobayashi, Masakatsu Suzuki, Osamu Hirao, Yasutaka Toyoshima, Hiroshi Hoshijima, Kimiaki Uesuna, Kenji Higuchi, Yutaka Nakamura, Chiaki Moriya, Hiroshi Okazaki, Zo Doi, Kunitaka Furutani, Yasuhei Koguchi, Kenzaburo Ishikawa, Minoru Onda, Takashi Ishizaka, Toshihide Hirata, Masanori Suda, Motor Fan Editorial Staff (uncredited)
+<b>Author (Roundtable):</b> Sadao Kobayashi, Masakatsu Suzuki, Osamu Hirao, Yasutaka Toyoshima, Hiroshi Hoshijima, Kimiaki Uesuna, Kenji Higuchi, Yutaka Nakamura, Chiaki Moriya, Hiroshi Okazaki, Zo Doi, Kunitaka Furutani, Yasuhei Oguchi, Kenzaburo Ishikawa, Minoru Onda, Takashi Ishizaka, Toshihide Hirata, Masanori Suda, Motor Fan Editorial Staff (uncredited)
 
 
 
@@ -279,19 +279,19 @@ We conducted the free-release stability test up to 140km/h, and at 100km/h, the 
 
 <b>Furutani:</b> Yes, there is a little, but not that much. 
 
-<b>Koguchi:</b> The maximum acceleration force is about 0.6g, and it's maintained for a long time. As far as the launch, it depends on the way the clutch is engaged, but I felt that it took off smoothly with little shock.
+<b>Oguchi:</b> The maximum acceleration force is about 0.6g, and it's maintained for a long time. As far as the launch, it depends on the way the clutch is engaged, but I felt that it took off smoothly with little shock.
 
 <b>Magazine:</b> How was the clutch?
 
 <b>Furutani:</b> For a car of this type that puts out a lot of power, the engagement is smooth. 
 
-<b>Koguchi:</b> One factor is the relationship between the stroke and the pedal force. 
+<b>Oguchi:</b> One factor is the relationship between the stroke and the pedal force. 
 
 <b>Hirao:</b> In the case of a twin carburetor, it's also a function of the weight of the accelerator pedal.
 
 <b>Ishikawa:</b> The operating forces were 12.0kg to release the clutch, 12.5kg to engage it, 2.0kg to hold the accelerator at a constant speed, and about 4.5kg to accelerate, which is about the same as a normal sedan. 
 
-<b>Koguchi:</b> In that respect, the feeling is that it's easy to handle, and the acceleration also feels gentle. But it's actually very fast.
+<b>Oguchi:</b> In that respect, the feeling is that it's easy to handle, and the acceleration also feels gentle. But it's actually very fast.
 
 <b>Higuchi:</b> I guess it's not recommended for people who don't have self-control (laughs).
 

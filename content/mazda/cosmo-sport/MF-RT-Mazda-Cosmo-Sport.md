@@ -25,7 +25,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> August 1967<br>
-<b>Author:</b> Kenichi Yamamoto, Mamoru Watanabe, Osamu Hirao, Masahi Kondo, Kazuo Kumabe, Atsushi Watari, Kenji Higuchi, Kazuo Takada, Akio Miyamoto, Yasuhisa Minagawa, Saburo Araki, Yasuhei Koguchi, Mineo Yamamoto, Toshihide Hirata, Masataka Matsui, Minoru Onda, Motor Fan Editorial Staff (uncredited)
+<b>Author:</b> Kenichi Yamamoto, Mamoru Watanabe, Osamu Hirao, Masahi Kondo, Kazuo Kumabe, Atsushi Watari, Kenji Higuchi, Kazuo Takada, Akio Miyamoto, Yasuhisa Minagawa, Saburo Araki, Yasuhei Oguchi, Mineo Yamamoto, Toshihide Hirata, Masataka Matsui, Minoru Onda, Motor Fan Editorial Staff (uncredited)
 
 
 
@@ -197,7 +197,7 @@ In that case, a transmission with fewer gears would be more than sufficient; one
 
 <b>Magazine:</b> Next, please announce the results of the power performance test conducted today at the Miyoshi test course.
 
-<b>Koguchi:</b> We measured standing-start acceleration times with only the driver aboard and also with two people on board. With only the driver, the times were 4.2 seconds for 0-50m, 6.5 seconds for 0-100m, 10.1 seconds for 0-200m, and 15.9 seconds to go from 0-400m. This time, we were also able to run up to 1000m, and 0-1000m took 29.8 seconds. Next, with two passengers, the times were 4.3 seconds for 0-50m, 6.8 seconds for 0-100m, 10.3 seconds for 0-200m, and 16.3 seconds for 0-400m. These figures are exactly the same as those in the catalog.
+<b>Oguchi:</b> We measured standing-start acceleration times with only the driver aboard and also with two people on board. With only the driver, the times were 4.2 seconds for 0-50m, 6.5 seconds for 0-100m, 10.1 seconds for 0-200m, and 15.9 seconds to go from 0-400m. This time, we were also able to run up to 1000m, and 0-1000m took 29.8 seconds. Next, with two passengers, the times were 4.3 seconds for 0-50m, 6.8 seconds for 0-100m, 10.3 seconds for 0-200m, and 16.3 seconds for 0-400m. These figures are exactly the same as those in the catalog.
 
 Looking at the acceleration in terms of time to speed, with one passenger, it reached 60km/h in 3.2 seconds, 100km/h in 8.1 seconds, and 140km/h in 16.7 seconds. With two passengers on board, it reached 60km/h in 3.5 seconds, 100km/h in 8.8 seconds, and 140km/h in 18.0 seconds.
 
@@ -209,11 +209,11 @@ Today's test conditions were not good, with occasional light rain. It seems that
 
 <b>Magazine:</b> Have we ever tested a car that could achieve 0-400m in 15.9 seconds?
 
-<b>Koguchi:</b> No car has been this fast in our testing yet. My impression when I drove the car was that the g forces during standing-start acceleration runs started off strong, and remained strong. Good acceleration is one of the rotary's distinctive features.
+<b>Oguchi:</b> No car has been this fast in our testing yet. My impression when I drove the car was that the g forces during standing-start acceleration runs started off strong, and remained strong. Good acceleration is one of the rotary's distinctive features.
 
 <b>Magazine:</b> Also, this was a larger test course, so we were able to test the top speed. 
 
-<b>Koguchi:</b> When we talk about top speed, we don't just mean the top speed that can be achieved instantaneously. We did four laps around the Miyoshi test course (one lap is 4.3km), and calculated the average speed per lap from the lap times, and the result was a little over 200km/h.
+<b>Oguchi:</b> When we talk about top speed, we don't just mean the top speed that can be achieved instantaneously. We did four laps around the Miyoshi test course (one lap is 4.3km), and calculated the average speed per lap from the lap times, and the result was a little over 200km/h.
 
 <b>Yamamoto (Mineo):</b> I'd like to ask something about this. The top speed listed in the catalog for this car is 185km/h, but when I test drove it, the needle went over 200km/h many times. Does the catalog value leave that much leeway intentionally?
 

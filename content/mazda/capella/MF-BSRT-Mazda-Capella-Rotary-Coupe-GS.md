@@ -25,7 +25,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> "Bubble Session" Road Test<br>
 <b>Date:</b> August 1970<br>
-<b>Author:</b> Osamu Mochizuki, Katsuzo Kageyama, Shigeki Asaoka, Yasuhei Koguchi, Reiko Ikuuchi, Kenzuke Ishizu, Masahide Sano
+<b>Author:</b> Osamu Mochizuki, Katsuzo Kageyama, Shigeki Asaoka, Yasuhei Oguchi, Reiko Ikuuchi, Kenzuke Ishizu, Masahide Sano
 
 
 
@@ -103,7 +103,7 @@ The 1600cc sedan that accompanied us is equipped with a 100ps SOHC four-cylinder
 
 It is impressive that the Capella manages to be quieter than its rivals in terms of both intake and exhaust noise, in both the rotary and reciprocating engine models. However, compared to the excellence of the powerplant, there are still some shortcomings in the interior and design. 
 
-<b><u>Safety: Situational Awareness is the First Step Towards Preventive Safety</b></u> (Yasuhei Koguchi)
+<b><u>Safety: Situational Awareness is the First Step Towards Preventive Safety</b></u> (Yasuhei Oguchi)
 
 Heavy rain disrupted traffic in many areas. Accidents continued to occur on the Tomei Expressway from the morning, causing the outbound lane to be closed beyond Gotemba. While these were the worst weather conditions for a test drive, they were very suitable for evaluating safety. 
 

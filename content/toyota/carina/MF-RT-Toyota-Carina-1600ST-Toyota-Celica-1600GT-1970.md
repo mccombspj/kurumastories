@@ -14,7 +14,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> March 1971<br>
-<b>Author:</b> Katsuhiko Nishida, Kenji Higuchi, Yasuhei Koguchi, Hiroshi Okazaki, Atsushi Watari, Akira Miyagawa, Kiyoshi Matsumura, Kunitaka Furitani, Masahide Sano, Hiroshi Hoshijima, Tadashi Nishiyama, Katsumi Kageyama, Yasushi Saito, Kenzaburo Ishikawa, Akio Numazawa, Toshihide Hirata, Kiyoki Higuchi, Motor Fan Editorial Department (uncredited)
+<b>Author:</b> Katsuhiko Nishida, Kenji Higuchi, Yasuhei Oguchi, Hiroshi Okazaki, Atsushi Watari, Akira Miyagawa, Kiyoshi Matsumura, Kunitaka Furitani, Masahide Sano, Hiroshi Hoshijima, Tadashi Nishiyama, Katsumi Kageyama, Yasushi Saito, Kenzaburo Ishikawa, Akio Numazawa, Toshihide Hirata, Kiyoki Higuchi, Motor Fan Editorial Department (uncredited)
 
 <b><u>The Aim is To Put People First</b></u>
 
@@ -95,7 +95,7 @@ As for exhaust gas measures, we had to consider not only CO, but also hydrocarbo
 
 <b>Nishida:</b> After a month, you can understand the preferences of users from the previous month's trends, so that's possible. But this means that a system is in place to make 10 million different kinds at any time, if and when it is ordered.
 
-<b>Koguchi:</b> I think the factory can build the 10 million types well with this system, but I think it will be more difficult to sell them. If there are 10 million configurations, it will be impossible for a human mind to organize them all. Also, from the perspective of the buyer, don't you think there will be confusion about what the differences are, that there are too many choices, and you don't know how to decide? 
+<b>Oguchi:</b> I think the factory can build the 10 million types well with this system, but I think it will be more difficult to sell them. If there are 10 million configurations, it will be impossible for a human mind to organize them all. Also, from the perspective of the buyer, don't you think there will be confusion about what the differences are, that there are too many choices, and you don't know how to decide? 
 
 <b>Higuchi:</b> I would want to see some sample combinations and a detailed price list.
 
@@ -115,17 +115,17 @@ As for exhaust gas measures, we had to consider not only CO, but also hydrocarbo
 
 <b>Nishida:</b> Although things like that will happen at first, once things get on track, we will be able to deliver the car of your choice in around ten days. 
 
-<b>Koguchi:</b> Can I choose each individual part?
+<b>Oguchi:</b> Can I choose each individual part?
 
 <b>Nishida:</b> The buyer can choose what we call a "power plant." So once the engine and transmission are chosen, the drivetrain and axle are selected accordingly. 
 
 <b>Miyagawa:</b> To give another example, DOHC is only available in GT spec.
 
-<b>Koguchi:</b> Can you choose based on the desired performance characteristics, rather than individual parts? For example, you might want to prioritize ride comfort, or fuel efficiency, or good power performance...
+<b>Oguchi:</b> Can you choose based on the desired performance characteristics, rather than individual parts? For example, you might want to prioritize ride comfort, or fuel efficiency, or good power performance...
 
 <b>Nishida:</b> Not at the moment. 
 
-<b>Koguchi:</b> It would be nice to be able to do that in the future. It may seem contradictory, but...
+<b>Oguchi:</b> It would be nice to be able to do that in the future. It may seem contradictory, but...
 
 <b>Miyagawa:</b> For now, we have a system in place that allows the selection of parts. We would like to create a system like you describe if we have the time. But if we were to separate the power-related choices into smaller parts, we would have to submit notifications for each combination to the Ministry of Transport, one by one.
 
@@ -161,7 +161,7 @@ As for exhaust gas measures, we had to consider not only CO, but also hydrocarbo
 
 <b>Miyagawa:</b> Usually, we start with a certain size, or a certain engine displacement, and aim for a design within those parameters. In the case of the Celica, the Advanced Design Team was involved, and the design took the lead from the beginning, which was different from the normal process. But it wasn't a case of competition. 
 
-<b>Koguchi:</b> When I first saw a photo of the Celica, it looked a bit like a Kero-yon, but the production car is completely different, which is great. 
+<b>Oguchi:</b> When I first saw a photo of the Celica, it looked a bit like a Kero-yon, but the production car is completely different, which is great. 
 
 <b>Watari:</b> The Celica looks best from the side. I don't really like the rear view of the Carina though...
 
@@ -181,7 +181,7 @@ As for exhaust gas measures, we had to consider not only CO, but also hydrocarbo
 
 <b>Furutani:</b> The 0-400m acceleration time was 17.1 seconds for the Carina ST and 16.1 seconds for the Celica GT. In terms of overtaking acceleration, up to around 100km/h, the Carina's response is better in third and fourth gear. At higher speeds, the Celica pulls ahead.
 
-<b>Koguchi:</b> I think its lower air resistance comes into play. 
+<b>Oguchi:</b> I think its lower air resistance comes into play. 
 
 <b>Nishida:</b> I think so.
 
@@ -193,7 +193,7 @@ As for exhaust gas measures, we had to consider not only CO, but also hydrocarbo
 
 <b>Matsumura:</b> At low engine speeds, their performance is roughly similar, but the Carina's 2T-B engine seems to have slightly better steady-state torque. However, the Carina ST has twin downdraft carburetors, while the Celica GT has twin Solex carburetors, so perhaps the Solex's better response translates to a better feeling in urban areas.
 
-<b>Koguchi:</b> The Celica in particular ran smoothly even when I was driving it for the first time. It almost gave me the illusion that I had become a better driver. 
+<b>Oguchi:</b> The Celica in particular ran smoothly even when I was driving it for the first time. It almost gave me the illusion that I had become a better driver. 
 
 <b>Watari:</b> Even though the suspension and steering are the same, the feeling was quite different between the two cars. 
 
@@ -279,15 +279,15 @@ We performed free-release stability tests up to a maximum of 120km/h, and it gen
 
 <b>Higuchi:</b> For a Toyota car, not only is the Celica's styling different, but its steering feels different too. Did you do anything special to it?
 
-<b>Koguchi:</b> The feeling is quite different between the Celica and the Carina. It must be because of the tires. I wonder if the shocks make a difference, too.
+<b>Oguchi:</b> The feeling is quite different between the Celica and the Carina. It must be because of the tires. I wonder if the shocks make a difference, too.
 
 <b>Nishida:</b> The height of the center of gravity is also different.
 
-<b>Koguchi:</b> In particular, the Celica's steering has a response and rigidity that is not typical of Toyota, and the rear suspension also tracks very well.
+<b>Oguchi:</b> In particular, the Celica's steering has a response and rigidity that is not typical of Toyota, and the rear suspension also tracks very well.
 
 <b>Numazawa:</b> Right from the very beginning of the planning stages, we had decided to give it a stronger sense of that kind of feeling. 
 
-<b>Koguchi:</b> It feels close to neutral, and corners well.
+<b>Oguchi:</b> It feels close to neutral, and corners well.
 
 <b>Magazine:</b> You say it's not typical of Toyota cars, but was the reduced understeer a conscious part of the design?
 
@@ -299,7 +299,7 @@ We performed free-release stability tests up to a maximum of 120km/h, and it gen
 
 <b>Okazaki:</b> Before the road test, I had a chance to drive on the circuit, and when I increased the speed considerably, the understeer became stronger. The front end started to slide out immediately. I think it would be better for the car to gradually reverse into oversteer, rather than understeering all the way. 
 
-<b>Koguchi:</b> If you adjust the tire pressure...
+<b>Oguchi:</b> If you adjust the tire pressure...
 
 <b>Numazawa:</b> From a safety standpoint, I think it's better for the understeer to be slightly stronger.
 
