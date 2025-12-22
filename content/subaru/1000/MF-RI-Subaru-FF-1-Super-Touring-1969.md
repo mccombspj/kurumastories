@@ -64,7 +64,7 @@ draft = false
 
 At a time when front-wheel drive is becoming a worldwide trend, the Subaru FF-1—an evolution of the Subaru 1000, an early adopter of the layout—stands out as a unique presence among the many domestically produced passenger cars. Newly added to this series is the Super Touring model, a variation that pairs the existing Sport engine with a four-door body.
 
-As the advance of Japan’s motorization continues to accelerate, the rising popularity of so-called “sporty cars” represents a development worthy of attention. In 1965, sporty cars accounted for less than 10 percent of all passenger cars; by 1968, that figure had grown to 16 percent. Given the overall increase in production volumes during this period, this naturally represents a substantial rise in absolute numbers as well, leaving little doubt that sporty cars have begun to strongly appeal to the general public.
+As the advance of Japan’s motorization continues to accelerate, the rising popularity of so-called “sporty cars” represents a development worthy of attention. In 1965, sporty cars accounted for less than 10 percent of all passenger cars; by 1968, that figure had grown to 16 percent. Given the overall increase in production volumes during this period, this naturally represents a substantial rise in absolute numbers as well, leaving little doubt that sporty cars have begun to appeal strongly to the general public.
 
 The reasons for this can be found in changing attitudes toward passenger cars, as values and patterns of use have shifted from basic practicality towards greater individuality.
 
@@ -94,7 +94,7 @@ That said, it does seem a bit wasteful to place a console box over what is other
 
 <b><u>Responsive Character</b></u>
 
-In keeping with the luxury-oriented specification, the FF-1's ignition, located beside the steering column, is fitted with a steering lock. Interestingly, the key cannot be removed unless the steering is locked. Normally, keys can be withdrawn at a marked “garage” position, without engaging the steering lock, and while this system may be better from a security standpoint, it also feels slightly inconvenient.
+In keeping with the luxury-oriented specification, the FF-1's ignition switch, located beside the steering column, is fitted with a steering lock. Interestingly, the key cannot be removed unless the steering is locked. Normally, keys can be withdrawn at a marked "garage" position, without engaging the steering lock, and while this system may be better from a security standpoint, it also feels slightly inconvenient.
 
 Engine noise is extremely low. Especially at idle, with the windows closed, one might not even realize the engine is running without glancing at the tachometer. Whether due to the inherent balance of the horizontally opposed four-cylinder engine, or the effectiveness of the sound insulation, impressively little noise or vibration reaches the cabin.
 
@@ -102,7 +102,7 @@ Press the accelerator and the revs rise smoothly. An engine fitted with twin Sol
 
 The accelerator pedal is a large, organ-type design that makes heel-and-toe operation easy, and its placement relative to the brake pedal is also well judged.
 
-Because of the FF layout, the remote, floor-mounted gear lever operates through a linkage, but its action is impressively sharp, with very little free play anywhere in the mechanism and good shift feel. Almost no vibration is transmitted to the lever, and while this is no doubt helped by the engine's inherently low vibration, it also clearly show how carefully the system has been finished.
+Because of the FF layout, the remote, floor-mounted gear lever operates through a linkage, but its action is impressively sharp, with good shift feel and very little free play anywhere in the mechanism. Almost no vibration is transmitted to the lever, and while this is no doubt helped by the engine's inherently low vibration, it also clearly show how carefully the system has been finished.
 
 <b><u>A Highly Usable Third Gear</b></u>
 
@@ -110,7 +110,7 @@ Our route took us north from Shinjuku in Tokyo, crossing Sasame Bridge, followin
 
 Next, we added a demanding hill climb up Mount Akagi, with an elevation difference of more than 800 meters, then put the car's FF characteristics to the test on the rough roads around the Akagi area.
 
-With a route like this, a single test drive can cover everything: congested city traffic, high-speed cruising feel, winding mountain roads, and even the character of unpaved surfaces, leaving little unexamined.
+With a route like this, a single test drive can cover everything: congested city traffic, high-speed cruising, winding mountain roads, and even the character on unpaved surfaces, leaving little unexamined.
 
 As expected, from Tokyo through the Omiya area, we were quickly caught up in heavy congestion.
 
