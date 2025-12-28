@@ -1,19 +1,12 @@
 {{ define "main" }}
   <main class="main pa3" role="main">
     <article class="cf pv5 ph3 ph4-ns">
-
       <header class="tc">
-        <img
-          src="/images/homepage-banner.jpg"
-          alt="Honda 1300 Coupe 9 and Mazda Capella Rotary Coupe at FISCO"
-          style="max-width: 100%; height: auto; margin-bottom: 2rem;"
-        />
+        <h1 class="f1">{{ .Title }}</h1>
       </header>
-
       <div class="nested-copy-line-height lh-copy serif f4 nested-links tc">
         {{ .Content }}
       </div>
-
     </article>
   </main>
 {{ end }}

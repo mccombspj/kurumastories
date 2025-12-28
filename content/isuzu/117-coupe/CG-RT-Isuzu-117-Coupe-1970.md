@@ -155,7 +155,7 @@ The interior finish is comparable to that of British luxury cars, and the safety
 
 
 
-I seems unlikely that those wealthy enough to afford this 1.72 million yen car will complain about fuel economy, but even in this respect, the 117 Coupe does quite well. Using its full performance during highway driving and hill climbing, we got 6.0km/l, and driving at a normal speed along the Tokaido Road, we got 9.5km/l, for a total average of 7.7km/l over a 500km distance. The fuel tank holds 58 liters, and the warning light comes on when the level reaches about 8 liters. During our test, the light also came on while cornering, so we filled up with about 18 liters remaining (the gauge was already at E). Oil consumption was so minimal that it was impossible to measure, even over 500km of high-speed testing.
+It seems unlikely that those wealthy enough to afford this 1.72 million yen car will complain about fuel economy, but even in this respect, the 117 Coupe does quite well. Using its full performance during highway driving and hill climbing, we got 6.0km/l, and driving at a normal speed along the Tokaido Road, we got 9.5km/l, for a total average of 7.7km/l over a 500km distance. The fuel tank holds 58 liters, and the warning light comes on when the level reaches about 8 liters. During our test, the light also came on while cornering, so we filled up with about 18 liters remaining (the gauge was already at E). Oil consumption was so minimal that it was impossible to measure, even over 500km of high-speed testing.
 
 
 
