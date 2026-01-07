@@ -25,7 +25,7 @@ draft = false
 <b>Publication:</b> Car Graphic<br>
 <b>Format:</b> Road Impressions<br>
 <b>Date:</b> January 1971<br>
-<b>Author:</b> "C/G Test Group" (uncredited)
+<b>Author:</b> Shotaro Kobayashi
 
 
 
@@ -106,15 +106,15 @@ The MII's handling is by no means poor, but it cannot be said to be particularly
 
 
 
-The servo-equipped disc/drum brakes are one of the GTO's best features. They are light to the touch, work reliably, and are accompanied by minimal nose dive, making them safe for high-speed driving. The handbrake's position and effectiveness are also just right. The MII's ride is considerably stiffer than the previously tested AII GS, with strong up-and-down bucking especially in the rear seats. The suspension is clearly designed for high speeds, and the roughness of the ride is especially noticeable at low speeds, but becomes less pronounced as speed increases. On the other hand, you don't feel like you're riding on radial tires over anything other than rough roads, and road noise in general is well muted. 
+The servo-equipped disc/drum brakes are one of the GTO's best features. They are light to the touch, provide reliable stopping power, and are accompanied by minimal nose dive, inspiring confidence even during high-speed driving. The handbrake is also well-positioned and very effective. The MII's ride, however, is considerably stiffer than in the previously tested AII GS, with strong vertical bucking that is especially noticeable in the rear seat. The suspension is clearly designed for high speeds: the harshness of the ride is especially noticeable at low speeds, but becomes less pronounced as speed increases. On the other hand, there is little sense that the car is riding on radial tires on anything other than rough roads, and road noise is generally well muted. 
 
 
 
-Returning to the interior, we must again point out that the seat design is excellent. The backrest wraps well around the torso, the cushion supports the thighs well, and the three-point seat belt provides almost complete support for the body even against strong lateral forces. The inside door handle also serves as an armrest, making it ideal for resting your elbows when driving leisurely on the highway. The three-speed heater blower is exceptionally quiet, and cool or warm air can be brought in from the side vents on both ends of the dash even when the car is stopped. However, the light switch on the dash and the heater controls are difficult to reach with the seat belt fastened, and it's a shame that with such a comprehensively equipped interior, there's no tray for coins. Non-smokers will not hesitate to use the ideally positioned ashtray behind the gearshift lever for this purpose. The interior finish is exceptionally good, and would likely even be considered "unnecessarily good" in the American market. 
+Returning to the interior, one point that stood out during hard cornering was the excellence of the seat design. The tall backrest cradles the driver's torso effectively, the cushions provide firm support, and in combination with the three-point seat belt, they hold the body almost perfectly even against strong lateral forces. The interior door pull also serves as an armrest, making it ideal for resting your elbow during leisurely highway drives. The three-speed heater blower is exceptionally quiet, and cool or warm air can be brought in from the vents on both ends of the dash even when the car is stationary. However, the position of the light switch on the dash and the heater controls on the dashboard should be reconsidered, as they are difficult to reach with the seat belt fastened. It is also disappointing that in such a comprehensively equipped interior, there is no tray for coins. Non-smokers will likely not hesitate to use the ideally positioned ashtray, just behind the shift lever, for this purpose. The quality of the body and interior finish is exceptionally good, and would surely even be considered "unnecessarily good" in the American market. 
 
 
 
-We continue to look forward to testing the GTO MR with DOHC, 125ps, and the 5-speed gearbox, which is scheduled for next month.
+We are very much looking forward to testing the GTO MR with DOHC, 125ps, and the 5-speed gearbox, which is scheduled for next month.
 
 
 
