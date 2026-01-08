@@ -65,7 +65,7 @@ draft = false
 
 <b>Magazine:</b> Let's start by talking about the development aims of the Galant GTO.
 
-<b>Kobayashi:</b> We launched the Galant sedan last year, and in May of this year we released the hardtop and estate van, thus widening the range of models, and now we have added the luxurious, high-performance GTO sports model to the series. The prototype of this car, the GTX, was exhibited at the 16th Tokyo Motor Show last year, where it was very well received, and with the cooperation of Chrysler, we have further refined it into the GTO. However, even though it is part of the Galant series, it is a significantly new model with its own style, engines and interior. We are proud that its engines deliver high performance and have been thoroughly designed in terms of pollution prevention measures and so on.
+<b>Kobayashi:</b> We launched the Galant sedan last year, and then in May of this year, we released the hardtop and estate van, expanding the range of models. Now we have added the luxurious, high-performance GTO sports model to the series. The prototype of this car, the GTX, was exhibited at the 16th Tokyo Motor Show last year, where it was very well received, and with the cooperation of Chrysler, we have further refined it into the GTO. However, even though it is part of the Galant series, it is a significantly new model with its own style, engines and interior. We are proud that its engines deliver high performance and have been carefully designed with regard to pollution prevention measures and other considerations.
 
 <b>Magazine:</b> What specifically does Chrysler's cooperation involve?
 
@@ -73,23 +73,23 @@ draft = false
 
 <b>Magazine:</b> Why did the name change from "GTX" to "GTO"?
 
-<b>Kobayashi:</b> Generally, coupes sacrifice roominess, but this one doesn't neglect the roominess of the back seats. The dealers asked us to change the name to reflect this, and so we decided on GTO, which is "Gran Turismo Omologato" in Italian.
+<b>Kobayashi:</b> Generally, coupes sacrifice interior space, but this one doesn't neglect the roominess of the rear seats. The dealers asked us to change the name to reflect this, and so we decided on GTO, which is "Gran Turismo Omologato" in Italian.
 
 <b>Magazine:</b> The styling is a selling point, isn't it?
 
-<b>Uesuna:</b> This car is a sibling of the Galant, and rather than pursuing the usual expensive, fast, narrowly-focused sports car, we aimed to make something more affordable, and which also could be driven by a wide range of users, not just young people. Moreover, since it is light and has a small engine, we worked with the aerodynamics group to incorporate aerodynamic advantages in order to achieve the highest speeds. 
+<b>Uesuna:</b> This car is a sibling of the Galant, and rather than trying to develop the usual expensive, fast, narrowly-focused sports car, we aimed to make something more affordable, and which also could be driven by a wide range of users, not just young people. Moreover, since it is light and has a small engine, we worked with the aerodynamics group to incorporate aerodynamic advantages in order to achieve the highest speeds. 
 
-One of the key styling features, the "cut back" or "ducktail," has been derived from streamlined shapes, and we designed it by mixing this with a shape that gives a sense of speed. At the same time, it has a functional aerodynamic advantage when driving over 100km/h. This time, it was especially easy to work with the advertising section, who clearly understood the designer's requests. As for the tumblehome, we wanted to reduce air resistance without sacrificing livability, so we cooperated with Chrysler in design and production technology to solve the more difficult aspects of the construction.
+One of the key styling features, the "cut back" or "ducktail," has been derived from streamlining concepts, and the design mixes this with a shape that gives a sense of speed. At the same time, it has a functional aerodynamic advantage when driving over 100km/h. This time, it was especially easy to work with the advertising section, who clearly understood the designers' requests. As for the tumblehome, we wanted to reduce air resistance without sacrificing interior space, so we cooperated with Chrysler in design and production technology to solve the more difficult aspects of the construction.
 
 <b>Magazine:</b> How is the "ducktail" in terms of aerodynamics?
 
-<b>Suzuki:</b> Historically, the streamlining trend that began in the 1930s has continued to the present day, but as the performance of cars improved and road conditions changed, the challenges became more complex than just reducing air resistance. For example, problems with crosswinds and lift arose, and prototypes were designed with Kamm tail shapes, or more extreme types of ducktail designs.
+<b>Suzuki:</b> Historically, the streamlining trend that began in the 1930s has continued to the present day, but as cars' performance has improved and road conditions have changed, the challenges became more complex than just reducing air resistance. For example, problems with crosswinds and lift arose, and prototypes were designed with Kamm tail shapes, or more extreme types of ducktail designs.
 
-Mitsubishi has been doing extensive wind tunnel testing for a long time, but especially since 1967 when the company was aiming for a new organizational structure, we started doing very large-scale wind tunnel testing. The biggest problem was that the ducktail design of the GTO, the so-called fastback, had very little air resistance but a lot of lift. This was not a problem for cars that could only go up to about 150km/h, but when cars reached speeds of 200km/h and the body was light, controlling the lift became a big problem. At the time, ducktails were still only used on special cars, and they were still in the experimental stage, but they were confirmed to be quite effective through many wind tunnel tests. When actually applying them, the biggest problem is in relation to the styling, and the size becomes an issue. If you add something large, it will be effective in controlling lift, but it will affect the styling or the field of view. If it is small, it will not be effective, and that is why it has become the shape it is today.
+Mitsubishi has been doing extensive wind tunnel testing for a long time, but especially since 1967 when the company was aiming for a new organizational structure, we started doing very large-scale wind tunnel testing. The biggest problem was that the ducktail design of the GTO, the so-called fastback, had very little air resistance but a lot of lift. This was not a problem for cars that could only go up to about 150km/h, but when cars reached speeds of 200km/h and the body became light, controlling the lift became a big problem. At the time, ducktails were still only used on highly specialized cars, and they were still in the experimental stage, but they were confirmed to be quite effective through repeated wind tunnel tests. When actually applying them, the biggest problem is in relation to the styling, and the size becomes an issue. If you add something large, it will be effective in controlling lift, but it will affect the styling or the field of view. If it is small, it will not be effective, and that is why it has become the shape it is today.
 
 <b>Magazine:</b> At what speed does it become effective?
 
-<b>Suzuki:</b> Theoretically, it should be effective at any speed, but the practical effect is that, even if you drive at 180-190km/h, the amount of lift is about the same as a normal sedan driving at 130-140km/h. In other words, it's about 40% less lift than a sedan. For example, when a sedan is driving at 180km/h and a 15m/s crosswind hits it, a large lifting force of about 160kg is generated, but in this car, it's about 100kg. 
+<b>Suzuki:</b> Theoretically, it should have some effect at any speed, but the practical effect is that, even if you drive at 180-190km/h, the amount of lift is about the same as a normal sedan driving at 130-140km/h. In other words, it's about 40% less lift than a sedan. For example, when a sedan is driving at 180km/h and is hit by a 15m/s crosswind, a large lifting force of about 160kg is generated, but in this car, it's about 100kg. 
 
 <b>Hirao:</b> Does that mean the rear wheel load is reduced by that much?
 
@@ -103,7 +103,7 @@ Mitsubishi has been doing extensive wind tunnel testing for a long time, but esp
 
 <b>Suzuki:</b> I think it's about 20-25%.
 
-<b>Magazine:</b> And that's due to the fact that the windshield is flatter and the rear is now a fastback, right?
+<b>Magazine:</b> And that's due to the fact that the windshield is more reclined and the rear is now a fastback, right?
 
 <b>Suzuki:</b> Another thing is that adding a ducktail reduces lift, but this also creates resistance, so taking all that into account, it's around 20-25%. 
 
@@ -117,13 +117,13 @@ Mitsubishi has been doing extensive wind tunnel testing for a long time, but esp
 
 <b><u>The Ducktail Effect</b></u>
 
-<b>Magazine:</b> When you actually drove the car, how was it in crosswinds?
+<b>Magazine:</b> When you actually drove the car, how did it feel in crosswinds?
 
-<b>Hoshijima:</b> It did feel like it was sticking to the road, and the road holding was good. I don't know if that's because of the ducktail, though. 
+<b>Hoshijima:</b> It did feel like it was sticking to the road, and the road holding was good. I don't know if that was because of the ducktail, though. 
 
 <b>Hirao:</b> I've also heard that there's an option to add a rear spoiler, so will that make it even better?
 
-<b>Suzuki:</b> We've tested spoilers, and we've even added one to our Formula car, and they are an effective way of controlling lift. But spoilers themselves have their own drawbacks. That is, as I said before, they increase air resistance. And if you were to add a spoiler, you'd have to think about how good it would be in terms of the actual feeling.
+<b>Suzuki:</b> We've been conducting tests with spoilers, and have even added one to our Formula car, and they are an effective way of controlling lift. But spoilers themselves have their own drawbacks. That is, as I said before, they increase air resistance. And if you were to add a spoiler, you'd have to think about how good it would be in terms of the actual feeling.
 
 <b>Magazine:</b> If you were to add a spoiler to this car, how would you attach it?
 
@@ -133,29 +133,29 @@ Mitsubishi has been doing extensive wind tunnel testing for a long time, but esp
 
 <b>Hirao:</b> If that option were to become available, it would be a hot topic all over again.
 
-<b>Hoshijima:</b> It's very effective on snowy roads. We installed one on another fastback car, and even at 60km/h on snowy roads, the sense of stability was different.
+<b>Hoshijima:</b> They seem very effective on snowy roads. We installed one on another fastback car, and even at 60km/h on snowy roads, the sense of stability was different.
 
 <b>Suzuki:</b> However, it's difficult because you have to consider the balance between air resistance and suppressing lift.
 
-<b>Hoshijima:</b> When you see it from the rear, the style has an American car image. 
+<b>Hoshijima:</b> When you view this car from the rear, the style has an American-car image. 
 
-<b>Uesuna:</b> Because we used 50-inch radius glass, we were able to make it look like the fuselage of an airplane, and I think this image was also utilized.
+<b>Uesuna:</b> Because we used 50-inch radius glass, we were able to make it look like the fuselage of an airplane, and I think this image was utilized as well.
 
-<b>Magazine:</b> What about the cost of that curved glass?
+<b>Magazine:</b> How is the curved glass in terms of cost?
 
 <b>Kobayashi:</b> It's expensive.
 
 <b>Magazine:</b> What about the problem of the window rattling when opened at high speeds?
 
-<b>Toyoshima:</b> We are conducting experiments such as lowering the glass slightly at high speeds to see how much it bends. In particular, we have made the guide rollers high-quality and firmly supported it. The glass is 6mm thick, and the bottom is hollowed out to reduce weight.
+<b>Toyoshima:</b> We conducted experiments such as lowering the glass slightly at high speeds to see how much it bends. In particular, we have increased the quality of the guide rollers and added firmer supports. The glass is 6mm thick, and the bottom is hollowed out to reduce weight.
 
 <b>Hirao:</b> I wonder if the windows even need to be opened at high speeds. Because the windows on the Shinkansen don't open.
 
 <b>Magazine:</b> Don't they all close their doors at speeds over 120km/h?
 
-<b>Hirao:</b> That's why they decided to design it so the glass doesn't lower. This would allow the inside of the door to become a passageway for the air conditioning, for example, and the door would also contribute to the rigidity of the body. Also, if we had a mechanism where when the latch is halfway down when closing the door, in other words when the door is half-open, it would electrically clamp down on the door, making the door seal much harder. That way, air wouldn't leak out and cause a whistle even at high speeds... 
+<b>Hirao:</b> Yes, and that's why they decided to design it so the glass doesn't lower. This would allow the inside of the door to become a passageway for the air conditioning, for example, and the door would also contribute to the rigidity of the body. Also, if we had a mechanism where when the latch is halfway down when closing the door, in other words when the door is half-open, it would electrically clamp down on the door, making the door seal much harder. That way, air wouldn't leak out and cause a whistle even at high speeds... 
 
-<b>Higuchi:</b> There are cars in Northern Europe that use the lower threshold as a duct.
+<b>Higuchi:</b> There are cars in Northern Europe that also use the lower door panel as an air duct.
 
 <b><u>Light Engine</b></u>
 
@@ -163,11 +163,11 @@ Mitsubishi has been doing extensive wind tunnel testing for a long time, but esp
 
 <b>Nakamura:</b> The basic idea of ​​a long stroke and a spherical combustion chamber is the same. That is, a spherical combustion chamber allows for larger intake and exhaust valves, and has good intake efficiency. A long stroke also gives good low-speed performance, and when combined with an OHC, it also gives good high-speed performance. There is not much difference in piston speed with this bore-stroke ratio. In terms of pollution issues, there is an advantage in that the surface area of ​​the combustion chamber is reduced by combining a long stroke and a spherical combustion chamber, and the surface area of ​​the combustion chamber is reduced as much as possible, resulting in fewer hydrocarbons. The surface area of ​​the combustion chamber is about three-quarters that of a wedge type.
 
-Also, a long stroke allows the engine to be made more compact. There are three types of engines for this GTO: MI, MII, and MR. All of them have had their displacement increased through a bore-up of the sedan engine. The MR is a DOHC, but the cylinder block is as similar as possible to the MI and MII. The bore-up has made the bore-stroke ratio about 1.1. The MR can reach 6800 rpm, and the MII can reach 6700 rpm. We've tried to make sure that the horsepower doesn't drop even in that area.
+Also, a long stroke allows the engine to be made more compact. There are three types of engines for this GTO: MI, MII, and MR. All of them have had their displacement increased through a bore-up of the sedan engine. The MR is a DOHC, but the cylinder block has been kept as similar as possible to the the MI and MII. The bore-up has made the bore-stroke ratio about 1.1. The MR can reach 6800 rpm, and the MII can reach 6700 rpm. We've tried to make sure that the horsepower doesn't drop even in that area.
 
 We've also lowered the compression ratio by 0.5 in each, to 8.5 for the MI, and 9.5 for the MII and MR. The reason for this is that we can use low-octane gasoline just by retarding the ignition advance.
 
-The weight of the engine is almost the same as the sedan's 1500cc, with an increase of about 0.5kg. The weight of the MI engine is 106.6kg, so roughly 1 horsepower is produced per kg, which is why I think it can be said to be light among cast iron block engines. 
+Engine weight is almost the same as the sedan's 1500cc, with an increase of about 0.5kg. The weight of the MI engine is 106.6kg, so roughly 1 horsepower is produced per kg, which is why I think it can be said to be light among cast iron block engines. 
 
 <b>Hirao:</b> How thick is the cylinder wall?
 
@@ -175,13 +175,13 @@ The weight of the engine is almost the same as the sedan's 1500cc, with an incre
 
 <b>Magazine:</b> So is there a possibility to be able to bore it up further?
 
-<b>Nakamura:</b> There's probably a chance.
+<b>Nakamura:</b> There's probably a chance, yes.
 
 <b>Magazine:</b> What's the piston speed?
 
 <b>Nakamura:</b> About 16.5m at 7000rpm.
 
-<b>Hirao:</b> It's pretty loud when you pull it up to 7000rpm.
+<b>Hirao:</b> It gets pretty loud when you pull it up to 7000rpm.
 
 <b>Higuchi:</b> I didn't rev it up to 7000rpm much, but when I was driving on the highway, I definitely wanted an overdrive gear on top of fourth. In terms of noise, fuel consumption, and piston speed.
 
@@ -201,13 +201,13 @@ The weight of the engine is almost the same as the sedan's 1500cc, with an incre
 
 <b>Magazine:</b> You mentioned that the road holding is good.
 
-<b>Moriya:</b> I think the aerodynamics have helped the most in that respect. That, and the radial tires. In terms of the details, we have increased the damping ratio of the shock absorbers by 50-60% along with making the springs stronger. We have also increased the rigidity of the stabilizer. I think that as a result of all of this, we have achieved some pretty good characteristics. Another thing, I think the balance of the weight distribution has something to do with it.
+<b>Moriya:</b> I think the aerodynamics have helped the most in that respect. That, and the radial tires. In terms of the details, we have increased the damping ratio of the shock absorbers by 50-60% along with making the springs stiffer. We have also increased the stiffness of the stabilizer. I think that as a result of all this, we have achieved rather good characteristics. Also, I think the balance of the weight distribution has something to do with it.
 
-<b>Okazaki:</b> It has good high-speed stability. There is not much difference in steering force as the speed increases, so it feels calm. In terms of maneuverability, it feels smoother than the sedan or hardtop. It felt less sharp than the sedan, but more stable.
+<b>Okazaki:</b> It has good high-speed stability. There is not much difference in steering force as the speed increases, so it feels calm. In terms of handling, it feels smoother than the sedan or hardtop. To me, it felt less sharp than the sedan, but more stable.
 
-I did feel that the understeer was quite strong. The specified tire pressures were 1.4kg/cm2 in the front and 1.6kg/cm2 in the rear, and I think that this was done to emphasize ride comfort within the range that general users will drive in, rather than for maneuverability. If you want to get a better feeling of maneuverability, I think that pressures of around 1.8 to 2.0kg/cm2 would be good.
+I did feel that the understeer was quite strong. The specified tire pressures were 1.4kg/cm2 in the front and 1.6kg/cm2 in the rear, and I'm guessing that this was done to emphasize ride comfort within the range that general users will drive in, rather than for handling. If you want to get a better feeling of maneuverability, I think that pressures of around 1.8 to 2.0kg/cm2 would be good.
 
-On dirt roads, it transitions into oversteer relatively quickly, but the cornering speed is much faster than the sedan. Also, I wonder if the rigidity of the rear suspension itself has been increased. The rigidity of the mounting parts seemed high. 
+On dirt roads, it transitions into oversteer relatively quickly, but the cornering speed is much faster than the sedan. Also, I wondered if the rigidity of the rear suspension itself had been increased. The rigidity of the mounting parts seemed high. 
 
 <b>Magazine:</b> What is the rim width for the tires?
 
@@ -217,49 +217,49 @@ On dirt roads, it transitions into oversteer relatively quickly, but the corneri
 
 <b>Moriya:</b> We focused on stability at high speeds, so we increased the rigidity of the suspension. We also increased the rigidity of the body structure itself, increased the rigidity of the leaf spring mounting parts, and slightly revised the rubber bushings. The spring constant has also been increased to 2.28 compared to 1.97 for the sedan. We tried various things to balance maneuverability and stability when selecting tires.
 
-<b>Magazine:</b> What about the data on maneuverability and stability?
+<b>Magazine:</b> How was the test data on maneuverability and stability?
 
 <b>Doi:</b> The practical minimum turning radius is 5.125m on the outside and 2.684m on the inside, which is the smallest value in this class. The turning radius is a little low for a radial tire, and the maximum values ​​on the left and right were 17kg and 15kg.
 
-The data on understeer and oversteer characteristics has not yet been compiled, but when I accelerated in a circle on the skidpad at Yatabe, I felt strong understeer. The μ of that skid pad is low, so the rear wheels slipped from 50 to 60 km/h, but it was easy to control and I didn't feel uneasy.
+The data on understeer and oversteer characteristics has not yet been compiled, but when I accelerated in a circle on the skidpad at Yatabe, I felt strong understeer. The μ of that skid pad is low, so the rear wheels began slipping from about 50 to 60 km/h, but it was easy to control and I didn't feel uneasy.
 
-The roll rate has not yet been compiled, but it is about 3.0 to 3.5 degrees in the photo, and according to in-house data it is 3.37 degrees with five people on board, so I think the roll rate is low.
+The roll rate has not yet been calculated, but it is about 3.0 to 3.5 degrees in the photos, and according to in-house data it is 3.37 degrees with five people on board, so I think the roll rate is low.
 
-We conducted the free-release stability test up to 140km/h, and at 100km/h, the cycle was 0.9 seconds and the damping ratio was 0.18, which were good values, and looked good from the waveform.
+We conducted the free-release stability test up to 140km/h, and at 100km/h, the cycle was 0.9 seconds and the damping ratio was 0.18, which were good values, and the waveform looked good as well.
 
 <b>Magazine:</b> Is the strong understeer by design?
 
-<b>Moriya:</b> When V² is 100m²/S², it is normal to have around 1.37 to 1.40, so we are operating within that range.
+<b>Moriya:</b> When V² is 100m²/S², it is normal to have a result around 1.37 to 1.40, so we are within that normal range.
 
-<b>Okazaki:</b> Even if you try really hard to turn in, the rear doesn't slide and you end up drifting out front-first.
+<b>Okazaki:</b> Even if you try really hard to turn in, the rear doesn't slide and you end up going off front-first.
 
 <b>Moriya:</b> On the concrete surface of the test course Okazaki-san used, the understeer is maintained up to a lateral acceleration of 0.7 to 0.8G.
 
-<b>Magazine:</b> Was the tire pressure set to 1.4kg/cm² and 1.6kg/cm² because of ride comfort?
+<b>Magazine:</b> Was the tire pressure set to 1.4kg/cm² and 1.6kg/cm² in consideration of ride comfort?
 
 <b>Moriya:</b> No, it was for stability.
 
-<b>Hoshijima:</b> I didn't know that was the specified pressure, so I raised the front to about 1.7kg/cm² and left the rear at 1.6kg/cm², and I didn't get the impression that the understeer was too strong. I was able to drive just as I intended.
+<b>Hoshijima:</b> I didn't know that was the specified pressure, so I raised the front to about 1.7kg/cm² and left the rear at 1.6kg/cm², and I didn't get the impression that the understeer was too strong. I was able to drive it just on the line I intended.
 
 <b>Hirao:</b> If you raise the front pressure, the understeer will be weaker. Ideally, the driver should be able to choose the front and rear air pressure for themselves.
 
-<b>Magazine:</b> The tires also seem quite firm. Is that the "high block pattern?"
+<b>Magazine:</b> The tires also seem quite stiff. Is that the "high block pattern?"
 
-<b>Hoshijima:</b> There's quite a bit of road noise. And I was surprised by how many bothersome noises there were. The sound from around the transmission...
+<b>Hoshijima:</b> There's quite a bit of road noise. And I was surprised by how many bothersome noises there were in general. The sound from around the transmission...
 
-<b>Hirao:</b> From that point of view, I think the MI is the best.
+<b>Hirao:</b> From that point of view, I think the MI is best.
 
 <b>Okazaki:</b> Yes, I was also bothered by the transmission noise. 
 
-<b>Moriya:</b> We did it so that there wouldn't be any big peaks in the sound. 
+<b>Moriya:</b> We did it that way so that there wouldn't be any big peaks in the sound level. 
 
 <b>Hoshijima:</b> The exhaust sound is cool, though.
 
-<b>Toyoshima:</b> The exhaust sound was so quiet that we had to re-measure it when the Ministry of Transport inspected it. In early sedans, a louder sound was preferred, so we had to make the exhaust louder, even if we didn't want to. However, recently, quieter sounds have become more desirable, so we have switched to an optional quieter exhaust system.
+<b>Toyoshima:</b> The exhaust sound was so quiet that we had to measure it twice when the Ministry of Transport inspected it. In the early sedans, a louder sound was preferred, so we had to make the exhaust louder, even if we didn't want to. However, recently, quieter sounds have become more desirable, so we have switched to an optional quieter exhaust system.
 
 <b><u>0-400m in 16.7 Seconds</b></u>
 
-<b>Magazine:</b> How about the results for power performance?
+<b>Magazine:</b> How were the results for power performance?
 
 <b>Furutani:</b> Standing-start acceleration times were 4.5 seconds for 0-50m, 6.8 seconds for 0-100m, 10.6 seconds for 0-200m, and 16.7 seconds for 0-400m. 
 
@@ -269,13 +269,13 @@ We conducted the free-release stability test up to 140km/h, and at 100km/h, the 
 
 <b>Magazine:</b> So the good acceleration is partly due to large first and second gear ratios?
 
-<b>Furutani:</b> Considering that, the acceleration doesn't generate a particularly high peak g force. However, it can maintain that g force for a long time.
+<b>Furutani:</b> Yes, but considering that, the acceleration doesn't generate a particularly high peak g force. However, it can maintain that g force for a long time.
 
 <b>Okazaki:</b> When I timed it with a stopwatch, it was very quick to reach 160km/h. Even when the speed passed 100km/h, its response didn't drop off. 
 
 <b>Hirao:</b> Less air resistance means good acceleration.
 
-<b>Magazine:</b> The 0-50m time was under five seconds, but how was the wheelspin?
+<b>Magazine:</b> The 0-50m time was under five seconds, but was there much wheelspin?
 
 <b>Furutani:</b> Yes, there is a little, but not that much. 
 
@@ -293,15 +293,15 @@ We conducted the free-release stability test up to 140km/h, and at 100km/h, the 
 
 <b>Oguchi:</b> In that respect, the feeling is that it's easy to handle, and the acceleration also feels gentle. But it's actually very fast.
 
-<b>Higuchi:</b> I guess it's not recommended for people who don't have self-control (laughs).
+<b>Higuchi:</b> I guess it's not recommended for people who lack self-control (laughs).
 
-<b>Hirao:</b> When you drive on the Tomei Expressway at 100km/h, there is a 100% margin. Because it is rated for 200km/h. But I'm sure there are people who say, "Why make a car that can go up to 200km/h?" To those who say, "You can only drive at 40km/h in Tokyo, so there's no need for such high speeds," I say, "That's true in Tokyo, but you'll be driving both in Tokyo and on the highway with one car, so that's not realistic. If you have a little more money, by all means, buy two cars and use them separately."
+<b>Hirao:</b> When you drive on the Tomei Expressway at 100km/h, there is a 100% margin, in the sense that it is rated for 200km/h. But I'm sure there are people who would say, "Why make a car that can go up to 200km/h?" To those who say, "You can only drive at 40km/h in Tokyo, so there's no need for such high speeds," I say, "That's true in Tokyo, but you'll be driving both in Tokyo and on the highway with one car, so that's not realistic. If you have a little more money, by all means, buy two cars and use them separately."
 
 <b><u>Light Braking</b></u>
 
 <b>Magazine:</b> How were the brakes?
 
-<b>Ishikawa:</b> We tested the brakes' initial effectiveness as well as their resistance to fade. The effectiveness test was done at 50km/h, 100km/h, and 130km/h, with deceleration ranging from 0.2g to 0.6g, and up to 0.8g at 50km/h. The results were that the 0.2g pedal force was about 7kg at 50km/h and 100km/h, and the 0.4g pedal force was about 15kg. The 0.6g pedal force was about 27kg at 50km/h and about 3kg at 100km/h. At 130km/h, the 0.2g was the same, but at 0.4g it was 15kg at the beginning, and increased to about 35kg just before stopping. At 0.6g it was about 35kg at the beginning and about 45kg at the end. The brake type is front disc, rear leading/trailing drum, with PCV on the rear, master back, double circuit, so I think the increased pedal force is due to the servo being idle.
+<b>Ishikawa:</b> We tested the brakes' initial effectiveness as well as their resistance to fade. The effectiveness test was done at 50km/h, 100km/h, and 130km/h, with deceleration ranging from 0.2g to 0.6g, and up to 0.8g at 50km/h. The results were that the 0.2g pedal force was about 7kg at 50km/h and 100km/h, and the 0.4g pedal force was about 15kg. The 0.6g pedal force was about 27kg at 50km/h and about 3kg at 100km/h. At 130km/h, the 0.2g was the same, but at 0.4g it was 15kg at the beginning, and increased to about 35kg just before stopping. At 0.6g it was about 35kg at the beginning and about 45kg at the end. The brake type is front disc, rear leading/trailing drum, with PCV on the rear, master back, double circuit, so I think the increased pedal force is due to the servo reaching its rest point.
 
 The fade test showed a fairly large increase in pedal force, from about 16-20kg on the first stop, to around 30kg on the fifth stop, and around 35kg on the ninth stop, but even when stopping from around 100km/h it is fairly easy to control. Recovery was good. Also, I tried applying full brakes from 80km/h, but the rear wheels did not lock up. 
 
@@ -317,19 +317,19 @@ The fade test showed a fairly large increase in pedal force, from about 16-20kg 
 
 The trunk opening is a little tight due to the ducktail, but the inside is as spacious as before.
 
-In terms of interior dimensions, the measured headroom figures are sufficient, and you can see the efforts the designers made, such as hollowing out the rear seat cushion. I think the curved glass is good in terms of style and aerodynamics, but in terms of dimensions, I think it is actually a disadvantage because it narrows the head clearance.
+In terms of interior dimensions, the measured headroom figures are sufficient, and you can see the efforts the designers made, such as hollowing out the rear seat cushion. I think the curved glass is good in terms of style and aerodynamics, but in terms of dimensions, I think it is actually a disadvantage because it narrows the head clearance at the sides.
 
-<b>Toyoshima:</b> Yes, it's not that the livability has improved because of the curved glass, but that by using the curved glass, it looks cool and is aerodynamic, without compromising livability.
+<b>Toyoshima:</b> Yes, it's not that the interior space has improved because of the curved glass, but that by using the curved glass, it looks cool and is aerodynamically superior without compromising interior space.
 
-<b>Onda:</b> The interior aims for a luxurious mood, so the equipment includes almost everything you can imagine. The rear heat-printed defogger operates on a timer, which I think was designed with electricity usage in mind. The gear shift pattern places reverse in a position that is less common than in other cars. Another novel feature is the warning lamp on the ceiling, or overhead console. 
+<b>Onda:</b> The interior aims for a luxurious mood, so the equipment includes almost everything you can imagine. The rear heat-printed defogger operates on a timer, which I think was designed with battery conservation in mind. The gear shift pattern places reverse in a position that is less common than in other cars. Another novel feature is the warning lamp on the ceiling, or overhead console. 
 
 <b>Magazine:</b> The rear seats are quite low, but how is the leg space?
 
-<b>Onda:</b> There is plenty of space in the front seats, and the back is about what you would expect, so I think it's fine. It's small in terms of the numbers, though.
+<b>Onda:</b> There is plenty of space in the front seats, and the rear space is about what you would expect, so I think it's fine. The dimensions are small in terms of the numbers, though.
 
 <b>Magazine:</b> Does the trunk connect to the rear seat area when you fold them down? 
 
-<b>Toyoshima:</b> No. It was clear from torsion tests and the like that that area is a strength point for the chassis. There's a solid bulkhead there.
+<b>Toyoshima:</b> No. It was clear from torsion tests and the like that this area is a strength point for the chassis. There's a solid bulkhead there.
 
 <b>Magazine:</b> How comfortable were the seats?
 
@@ -337,7 +337,7 @@ In terms of interior dimensions, the measured headroom figures are sufficient, a
 
 <b>Higuchi:</b> It would be nice if there was a choke lever there too (laughs) 
 
-<b>Hirao:</b> The ventilator adjustments were indicated by picture diagrams in the sedan. I thought that was a very good idea, but in this car, they're written in words again. Was there something wrong with it?
+<b>Hirao:</b> The ventilator adjustments were indicated by picture diagrams in the sedan. I thought that was a very good idea, but in this car, they're written in words again. Was there something wrong with the earlier approach?
 
 <b>Toyoshima:</b> No, nothing like that. I would like to have this GTO use the picture diagrams as well.
 
@@ -365,11 +365,11 @@ In terms of interior dimensions, the measured headroom figures are sufficient, a
 
 <b>Magazine:</b> When backing into a garage, how far behind can you see?
 
-<b>Ishizaka:</b> It depends on the driver's eye position, but you can see about 6 meters 
+<b>Ishizaka:</b> It depends on the driver's eye position, but you can see about 6 meters. 
 
 <b>Magazine:</b> We didn't measure suspension vibration this time, but how was the ride?
 
-<b>Okazaki:</b> For a car with such good handling stability, I thought the ride was generally good. The dampers worked well and it felt comfortable.
+<b>Okazaki:</b> For a car with such good handling stability, I thought the ride was generally good. The damping was effective and it felt comfortable.
 
 <b>Toyoshima:</b> The dampers have twice the damping force compared to the sedan.
 
@@ -381,7 +381,7 @@ In terms of interior dimensions, the measured headroom figures are sufficient, a
 
 <b>Hoshijima:</b> If it's made into a left-hand drive car, will you have to reverse the angle of the console? (laughs)
 
-<b>Uesuna:</b> That was an issue I worried about when my superiors brought it up, but I fudged it by saying, "We'll use the one from the hardtop" (laughs)
+<b>Uesuna:</b> That was an issue I worried about when my superiors brought it up, but I improvised and said, "We'll use the one from the hardtop" (laughs)
 
 <b>Higuchi:</b> Why not just make it with the blueprint turned upside down? (laughs)
 

@@ -103,7 +103,7 @@ Part of the reason the SGX was slower was due to the difference in gearboxes. Th
 
 
 
-Both of these gearboxes are the same as those used in the Skyline GT, and the 4-speed (3.592 / 2.246 / 1.415 / 1.000) has a final drive ratio of 3.90, the same as the Skyline, but the 5-speed (3.321 / 2.077 / 1.308 / 1.000 / 0.864) has been lowered to 4.11, so it is not as high-geared as the Skyline, and when revved up to 6300rpm, where the red zone begins (it is the same in both cars), the GX reaches 53km/h in first gear, 85km/h in second, and 140km/h in third, while the SGX reaches 55km/h in first, 87km/h in second, 143km/h in third. In the lower three gears, the gearing is almost identical, so the difference in acceleration performance can be attributed primarily to the difference in engine power.
+Both of these gearboxes are the same as those used in the Skyline GT, and the 4-speed (3.592 / 2.246 / 1.415 / 1.000) shares the Skyline's final drive ratio of 3.90, but the 5-speed (3.321 / 2.077 / 1.308 / 1.000 / 0.864) has been shortened to 4.11, so it is not as high-geared as the Skyline. When revved up to 6300rpm, where the red zone begins (it is the same in both cars), the GX reaches 53km/h in first gear, 85km/h in second, and 140km/h in third, while the SGX reaches 55km/h in first, 87km/h in second, 143km/h in third. In other words, the two cars' gearing is almost identical in the lower gears, so the difference in their acceleration performance can be attributed primarily to the difference in engine power.
 
 
 
