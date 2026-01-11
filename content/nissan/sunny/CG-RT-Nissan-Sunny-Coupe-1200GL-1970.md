@@ -3,7 +3,7 @@
 
 
 title = "Nissan Sunny Coupe 1200GL (1970)"
-
+weight = 10
 
 
 date = "2025-10-11T04:50:49-07:00"

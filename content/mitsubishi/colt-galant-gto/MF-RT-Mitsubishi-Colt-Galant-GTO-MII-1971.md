@@ -219,7 +219,7 @@ On dirt roads, it transitions into oversteer relatively quickly, but the corneri
 
 <b>Magazine:</b> How was the test data on maneuverability and stability?
 
-<b>Doi:</b> The practical minimum turning radius is 5.125m on the outside and 2.684m on the inside, which is the smallest value in this class. The turning radius is a little low for a radial tire, and the maximum values ​​on the left and right were 17kg and 15kg.
+<b>Doi:</b> The practical minimum turning radius is 5.125m on the outside and 2.684m on the inside, which is the smallest value in this class. The stationary steering effort is on the low side for a car with radial tires, and the maximum values ​​on the left and right were 17kg and 15kg.
 
 The data on understeer and oversteer characteristics has not yet been compiled, but when I accelerated in a circle on the skidpad at Yatabe, I felt strong understeer. The μ of that skid pad is low, so the rear wheels began slipping from about 50 to 60 km/h, but it was easy to control and I didn't feel uneasy.
 
@@ -293,7 +293,7 @@ We conducted the free-release stability test up to 140km/h, and at 100km/h, the 
 
 <b>Oguchi:</b> In that respect, the feeling is that it's easy to handle, and the acceleration also feels gentle. But it's actually very fast.
 
-<b>Higuchi:</b> I guess it's not recommended for people who lack self-control (laughs).
+<b>Higuchi:</b> I guess it's not recommended for people lacking in self-control (laughs).
 
 <b>Hirao:</b> When you drive on the Tomei Expressway at 100km/h, there is a 100% margin, in the sense that it is rated for 200km/h. But I'm sure there are people who would say, "Why make a car that can go up to 200km/h?" To those who say, "You can only drive at 40km/h in Tokyo, so there's no need for such high speeds," I say, "That's true in Tokyo, but you'll be driving both in Tokyo and on the highway with one car, so that's not realistic. If you have a little more money, by all means, buy two cars and use them separately."
 
@@ -301,7 +301,7 @@ We conducted the free-release stability test up to 140km/h, and at 100km/h, the 
 
 <b>Magazine:</b> How were the brakes?
 
-<b>Ishikawa:</b> We tested the brakes' initial effectiveness as well as their resistance to fade. The effectiveness test was done at 50km/h, 100km/h, and 130km/h, with deceleration ranging from 0.2g to 0.6g, and up to 0.8g at 50km/h. The results were that the 0.2g pedal force was about 7kg at 50km/h and 100km/h, and the 0.4g pedal force was about 15kg. The 0.6g pedal force was about 27kg at 50km/h and about 3kg at 100km/h. At 130km/h, the 0.2g was the same, but at 0.4g it was 15kg at the beginning, and increased to about 35kg just before stopping. At 0.6g it was about 35kg at the beginning and about 45kg at the end. The brake type is front disc, rear leading/trailing drum, with PCV on the rear, master back, double circuit, so I think the increased pedal force is due to the servo reaching its rest point.
+<b>Ishikawa:</b> We tested the brakes' initial effectiveness as well as their resistance to fade. The effectiveness test was done at 50km/h, 100km/h, and 130km/h, with deceleration ranging from 0.2g to 0.6g, and up to 0.8g at 50km/h. The results were that the 0.2g pedal force was about 7kg at 50km/h and 100km/h, and the 0.4g pedal force was about 15kg. The 0.6g pedal force was about 27kg at 50km/h and about 30kg at 100km/h. At 130km/h, the 0.2g was the same, but at 0.4g it was 15kg at the beginning, and increased to about 35kg just before stopping. At 0.6g it was about 35kg at the beginning and about 45kg at the end. The brake type is front disc, rear leading/trailing drum, with PCV on the rear, master back, double circuit, so I think the increased pedal force is due to the servo reaching its rest point.
 
 The fade test showed a fairly large increase in pedal force, from about 16-20kg on the first stop, to around 30kg on the fifth stop, and around 35kg on the ninth stop, but even when stopping from around 100km/h it is fairly easy to control. Recovery was good. Also, I tried applying full brakes from 80km/h, but the rear wheels did not lock up. 
 
