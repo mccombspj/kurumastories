@@ -60,7 +60,7 @@ Cars traveling alongside seemed surprised at the acceleration, but since this wa
 
 <b><u>The Advantage of Precise Shifting</b></u>
 
-<b>Sugawara:</b> The shift feel of the 5-speed gearbox is unlike that of the Porsche-synchro type found on Nissan cars. Throws are short, and engagements are crisp. The gear ratios are 3.074 / 1.838 / 1.256 / 1.00 / 0.856. The standard final drive ratio is 4.375, with 4.625 and 4.875 available as options.
+<b>Sugawara:</b> The shift feel of the 5-speed gearbox is unlike that of the Porsche synchro type found on Nissan cars. Throws are short, and engagements are crisp. The gear ratios are 3.074 / 1.838 / 1.256 / 1.00 / 0.856. The standard final drive ratio is 4.375, with 4.625 and 4.875 available as options.
 
 Compared with the gear ratios of the old 1600GT, which shared its transmission with the Toyota 2000GT, the GSS's gearbox is a closer-ratio setup, making it easier to use. 
 
