@@ -7,7 +7,7 @@
 
 
 title = "Isuzu 117 Coupe (1970)"
-
+weight = 10
 
 
 
