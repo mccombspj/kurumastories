@@ -63,7 +63,7 @@ draft = false
 
 <b>Hasegawa:</b> The common concept of a sports car is that it is something that needs a powerful engine, a unique suspension, and a lot of horsepower to force its way to high speeds. However, this is not a racing car with a top speed of 200km/h or more, but rather, it is what is now being called a "100-mile car," designed to run continuously at high speeds of around 160km/h to 170km/h. To meet these aims, it does not need to be highly specialized car with a high horsepower engine, but can be designed rationally by reducing air resistance and weight.
 
-With this in mind, we bored out the Publica's engine to 790cc, increased the compression ratio to 9.0:1, and made other improvements to increase its horsepower to 45ps. By putting it in a lightweight sports-type body, we succeeded in creating a high-speed car with a top speed of 155km/h. This gave us confidence that our original idea was not misguided. 
+With this in mind, we bored out the Publica's engine to 790cc, increased the compression ratio to 9.0:1, and made other improvements to increase its horsepower to 45ps. By putting it in a lightweight sports-type body, we succeeded in creating a high-speed car with a top speed of 155km/h. This gave us confidence that our original idea was not wrong. 
 
 Comparing this car with other sports cars, the data is quite interesting.
 
