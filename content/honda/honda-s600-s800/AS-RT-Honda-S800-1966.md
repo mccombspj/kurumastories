@@ -52,7 +52,7 @@ draft = false
 
 <b><u>A 30-Hour Nonstop Run in the Honda S800</b></u>
 
-It is said that with the change from the S600 to the S800, the Honda Sports has finally matured into a true grand touring car. To put that claim to the test, we subjected the S800 to 1,300km of hard driving, and conducted instrumented tests to measure its performance.
+It has been said that with the change from the S600 to the S800, the Honda Sports has finally matured into a true grand touring car. To put that claim to the test, we subjected the S800 to 1,300km of hard driving, and conducted instrumented tests to measure its performance.
 
 
 <b><u>I Have a Bad Feeling</b></u>
@@ -99,13 +99,13 @@ In addition, I refilled the oil three times, 0.5 liters at a time, for a total o
 
 <b><u>Lighter Weight Per Horsepower</b></u>
 
-Now, I would like to move on to the main road impressions. The April issue of Auto Sport has already featured a detailed description and test drive of the Honda S800, so the vehicle's layout and mechanisms, as well as its differences with the S600, have been thoroughly covered, and there is little to repeat them here. So, to briefly describe the Honda S800, it has kept almost the same body as the S600, but with a higher-capacity 800cc engine under the hood and 6.15-13 low-profile tires on its wheels--that's what it boils down to.
+Now, I would like to move on to the main road impressions. The April issue of Auto Sport has already featured a detailed description and test drive of the Honda S800, so the vehicle's layout and mechanisms, as well as its differences from the S600, have been thoroughly covered, and there is little need to repeat them here. So, to briefly describe the Honda S800, it retains almost the same body as the S600, but with a larger-capacity 800cc engine under the hood and 6.15-13 low-profile tires on its wheels--that's essentially it.
 
 In terms of the exterior, the radiator grille has been redesigned with a black-painted mesh and a cross-shaped chrome molding, a hood bulge has been added near the air cleaner, and the rear grille has been completely redesigned with the adoption of combination lamps. The bumper also has a larger protrusion in the front and larger taillight lenses than the S600, giving it a sturdier appearance. Yellow has been added to the palette of body colors, and our test car was painted this color.
 
-When you think of yellow used on a car, the unpleasant image of a taxi immediately comes to mind, but the actual color is very bright, and has a pleasant character that is different from the shade used on Porsches.
+When you think of yellow used for a car, the unpleasant image of a taxi immediately comes to mind, but the actual color is very bright, and has a pleasant character that is different from the shade used on Porsches.
 
-The stronger-looking cross-shaped front end now features horizontal turn signal lamps, and the tail lamps have been changed from round  units to slightly larger horizontal ones. The clever combination of white cutouts for the backup lamps is a great idea.
+The stronger-looking cross-shaped front end now features horizontal turn signal lamps, and the tail lamps have been changed from round  units to slightly larger horizontal ones. The clever integration of white cutouts for the backup lamps is a great idea.
 
 Apart from the engine, the chassis is almost the same as the S600, and its overall length, width, and height are 3335 x 1400 x 1200mm (1195 mm for the coupe). The overall length is 35 mm longer than the S600 due to the bumper improvements mentioned earlier. The weight is also slightly heavier at 720 kg (735 kg for the coupe). Even so, the weight per horsepower is much lighter than that of the S600.
 
@@ -131,12 +131,12 @@ The recorded lap times of S600s competing at Suzuka Circuit have gotten signific
 
 In other words, it is likely that by simply strengthening the S800's suspension, breaking the 3-minute mark at Suzuka is well within reach.
 
-The increased power and torque raise exit speeds out of corners, and the maximum speeds are higher on the straight from Spoon Curve to the 150R, and from the final corner to the first corner. In addition, the wider tires contribute to greater cornering stability. All of these factors combined would have a significant effect.
+The increased power and torque raise exit speeds out of corners, and the maximum speeds are higher on the straight from Spoon Curve to the 150R, and from the final corner to the first corner. In addition, the wider tires contribute to greater cornering stability. All of these factors combined would have a significant effect on lap times.
 
-Even in the mountains around Rokko, there were two or three moments when I wondered if the S600 would have hung on as well. The increased tire contact area and greater driving force available when cornering make the S800 not only more enjoyable to drive, but also safer.
+Even in the mountains around Rokko, there were two or three moments when I wondered if the S600 would have hung on as well. The increased tire contact area and greater driving force available when cornering make the S800 not only more enjoyable to drive, but safer as well.
 
 At the same time, the engine's greater power reserves and generally lower revolutions not only increase durability, but also reduce noise and vibration, and combined with the improvements in ride comfort, these factors all make it easier to use this car as a business vehicle. 
 
 Sitting in the driver's seat, you can see that the previous polished instrument panel has been replaced with a matte black finish. At first glance, it looks less flashy, which some may consider a downside, but on a long drive, you'll realize that this small improvement goes a long way in reducing driver fatigue.
 
-It's been about three years since the Honda Sports series was released, and it has grown remarkably. That was my honest impression after the test drive. The Honda S800's excellence, which was a sharp contrast to the bad feeling I had before setting off, seemed to be the saving grace of this grand touring trip.
+It's been about three years since the Honda Sports series was released, and it has matured remarkably. That was my honest impression after the test drive. The Honda S800's excellence, which was a sharp contrast to the bad feeling I had before setting off, seemed to be the saving grace of this grand touring trip.
