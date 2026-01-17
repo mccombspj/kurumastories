@@ -49,7 +49,7 @@ However, I have also dedicated my entire life to racing. Hoping to contribute to
 
 
 
-Since I have accepted the position, I will not make any long-winded excuses about lacking ability. People will see it, and I will do my best to earn their forgiveness.
+Since I have accepted the position, I will not make any long-winded excuses for myself. People will read it, and I will do my best to earn their forgiveness.
 
 
 
@@ -57,15 +57,15 @@ Since I have accepted the position, I will not make any long-winded excuses abou
 
 
 
-On the day of the test drive, I was already at Fuji Speedway for some business when Motor Fan arrived with a Honda Coupe 9. I had often seen this car in catalogs and magazines, but it was my first time seeing one in person. It was in the driver's salon at Fuji Speedway that I first encountered it. At that moment, a familiar, nostalgic feeling struck me: "Ah, this is definitely a Honda car!"
+On the day of the test drive, I was already at Fuji Speedway for some business when Motor Fan arrived with the Honda Coupe 9. I had often seen this car in catalogs and magazines, but it was my first time seeing one in person. It was in the driver's salon at Fuji Speedway that I first encountered it. At that moment, a familiar, nostalgic feeling struck me: "Ah, this is definitely a Honda car!"
 
 
 
-The front view is bold, split into two halves with a central apex. It has the expression of a challenger. When you think of Honda as a company, it is immediately associated with challenging convention. That image began with their motorcycles, and has stayed with them to this day. Not only the front view, but also the cantilever roof, the 20.5 degree rear window angle, etc., all say "Honda" at the first glance. 
+The front view is bold, split into two halves with a central apex. It has an unmistakable challenger spirit. When you think of Honda as a company, it is immediately associated with challenging convention. That image began with their motorcycles, and has stayed with them to this day. Not only the front view, but also the cantilever roof, the 20.5 degree rear window angle, etc., all say "Honda" from the first glance. 
 
 
 
-Still, why does it look slightly smaller than its 1300 sedan counterpart? Perhaps the curvature of the overall R angle has the effect of making the car next to it look larger, which was likely unexpected during the design phase.
+Still, why does it look slightly smaller than its 1300 sedan counterpart? Perhaps the curvature of the overall R angle has the effect of making the car next to it look larger, though this was surely not the intention during the design phase.
 
 
 
@@ -73,7 +73,7 @@ I opened the driver's door. Once again, I thought, "Ah, just as I expected," and
 
 
 
-When I was around 20 years old, when I wore the look of a grown-up on my face and was confident that I knew everything about cars, I probably would have jumped at the chance to own this one the moment it was released.
+When I was around 20 years old, when I wore the look of a grown-up on my face and was confident that I knew everything about cars, I probably would have jumped at the chance to own this car the moment it was released.
 
 
 
@@ -93,11 +93,11 @@ When I started racing as a woman, I was driving a Honda S600. Taking part in thi
 
 
 
-There was no point sitting and admiring the interior forever. So I prepared to set off from Fuji Speedway. I turned the key and started the engine. "Hmm... are we sure it's definitely air-cooled?" I checked with the editor just to be sure, and he said it was. Considering that, it's very quiet. I wouldn't go far as saying it's quieter than a normal water-cooled engine, but it's quiet enough that it's hard to believe it's air-cooled. They must have put a lot of effort into it. The editor added that it's an OHC system, and I thought, "Of course it is." It's a mechanism that is unique in the world. 
+There was no point sitting and admiring the interior forever. So I prepared to set off from Fuji Speedway. I turned the key and started the engine. "Hmm... is this definitely air-cooled?" I checked with the editor just to be sure, and he said it was. Considering that, it's very quiet. I wouldn't go far as saying it's quieter than a normal water-cooled engine, but it's quiet enough that it's hard to believe it's air-cooled. They must have put a lot of effort into it. The editor added that it's an OHC system, and I thought, "Of course it is." It's a mechanism that is unique in the world. 
 
 
 
-Leaving Fuji behind, I turned onto a local dirt road. I didn't push my speed too much, and started off at a normal driving pace. Under these conditions, the seat felt great, just as it had when the car was stationary. The cushion fit my lower body perfectly, and it was very supportive, so even as I was moved up and down or swayed side-to-side, I didn't slide around. The padding wasn't particularly soft, but it wasn't particularly hard either. The seatback was quite narrow, but the area under my shoulders was nicely contoured, giving me the feeling that it was cradling my entire back.
+Leaving Fuji behind, I turned onto a local dirt road. I didn't push the speed too much, and started off at a normal driving pace. Under these conditions, the seat felt great, just as it had when the car was stationary. The cushion fit my lower body perfectly, and it was very supportive, so even as I was moved up and down or swayed side-to-side, I didn't slide around. The padding wasn't particularly soft, but it wasn't particularly hard either. The seatback was quite narrow, but the area under my shoulders was nicely contoured, giving me the feeling that it was cradling my entire back.
 
 
 
@@ -113,7 +113,7 @@ Even without driving hard or quickly, you can appreciate the light shifting effo
 
 
 
-The position of the shifter is very good, and it was easy to drive with the seat slid forward to improve visibility. Most cars position the shifter too far back, so that even if I want to pull the seat farther forward, I can't, and end up having to slide it backward for driving. The Coupe 9 is unusual in that I can still operate the shifter even with the seat all the way forward. Also, it's common in this type of car for the seat to be low from a woman's perspective, with the steering wheel in your line of sight, but I was surprised that it was so easy to see out of this car. I wonder if it was designed with women drivers in mind...
+The position of the shifter is very good, and it was easy to drive with the seat slid forward to improve visibility. Most cars position the shifter too far back, so that even if I want to pull the seat farther forward, I can't, and end up having to slide it backward for driving. The Coupe 9 is unusual in that I can still operate the shifter even with the seat all the way forward. Also, it's common in this type of car for the seat to be too low, with the steering wheel in your line of sight, but I could see out of this car surprisingly easily. I wonder if it was designed with women drivers in mind...
 
 
 
@@ -121,7 +121,7 @@ The position of the shifter is very good, and it was easy to drive with the seat
 
 
 
-Apparently, the release of the 1300 Coupe coincided with revisions to the 1300's engine, with a longer overlap time and revised distributor to improve flexibility and fuel economy. While driving it, I could definitely feel the changes. In hard acceleration through first, second, and third gears, the engine speed doesn't rise as quickly as in previous Hondas. The redline starts at 7500rpm, but even using full throttle, it will only just reach that speed. Without even checking the catalog, just judging from the driving feel, I suspected that maximum torque arrived somewhere around 4500-4700rpm. Later, I looked it up, and it is rated at 11.5kgm at 5000rpm, which is admittedly somewhat higher than other cars of the same class. However, compared to the 3.2kgm/7000rpm of Honda's NIII, I felt that the traditional high-speed character had been significantly reduced. (Note: maximum output is still a high 110ps at 7300rpm.)
+Apparently, the release of the 1300 Coupe coincided with revisions to the 1300's engine, with a longer overlap time and revised distributor to improve flexibility and fuel economy. While driving it, I could definitely feel the changes. In hard acceleration through first, second, and third gears, the engine speed doesn't climb as quickly as in previous Hondas. The redline starts at 7500rpm, but even using full throttle, it will only just reach that speed. Without even checking the catalog, just judging from the driving feel, I suspected that maximum torque arrived somewhere around 4500-4700rpm. Later, I looked it up, and it is rated at 11.5kgm at 5000rpm, which is admittedly somewhat higher than other cars of the same class. However, compared to the 3.2kgm/7000rpm of Honda's NIII, I felt that the traditional high-speed character had been significantly reduced. (Note: maximum output is still a high 110ps at 7300rpm.)
 
 
 
@@ -221,11 +221,11 @@ There are probably other ways of looking at it, but I think these points can at 
 
 
 
-And yet, the interior of the Honda 1300 Coupe 9 did not feel particularly spacious, nor was any rationality gained from mechanical simplification apparent from my time driving it.
+And yet, the interior of the Honda 1300 Coupe 9 did not feel particularly spacious, nor could I detect any rationality gained from mechanical simplification during my time driving it.
 
 
 
-More over, alongside these two advantages, FF also has disadvantages. Namely, the car ends up combining two extreme characteristics--understeer and oversteer--in a single package. This is the reason front-wheel drive is often said to be difficult for inexperienced drivers. Normally, efforts are made to secure stability through weight distribution. But even just looking at one element, the suspension, as an example, it will behave differently when driving at a steady speed, accelerating, braking, turning, turning while accelerating, and turning while braking--all of these conditions will lead to different situations. Therefore, it is necessary to make the suspension's characteristics suit all of these conditions, so to speak. This is an extremely difficult task. 
+Moreover, alongside its advantages, FF also has disadvantages. Namely, it combines two extreme handling characteristics--understeer and oversteer--in a single car. This is the reason front-wheel drive is often said to be difficult for inexperienced drivers. Normally, efforts are made to secure stability through weight distribution. But even just looking at one element, the suspension, as an example, this will behave differently when driving at a steady speed, accelerating, braking, turning, turning while accelerating, and turning while braking--all of these conditions will lead to different situations. Therefore, it is necessary to make the suspension's characteristics suit all of these conditions. This is an extremely difficult task. 
 
 
 

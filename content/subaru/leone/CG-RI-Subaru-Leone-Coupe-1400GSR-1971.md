@@ -49,7 +49,7 @@ draft = false
 
 <b>Publication:</b> Car Graphic<br>
 <b>Format:</b> Road Impression<br>
-<b>Date:</b> June 1971<br>
+<b>Date:</b> December 1971<br>
 <b>Author:</b> Shotaro Kobayashi
 
 
