@@ -10,7 +10,7 @@ title = "Toyota Crown Hardtop SL (1969)"
 
 
 
-weight = 1
+weight = 20
 
 
 
