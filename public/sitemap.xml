@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/toyota/crown/mf-rt-toyota-crown-hardtop-sl-1969/</loc>
-    <lastmod>2026-01-18T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/laurel/mf-rtd-nissan-laurel-hardtop-2000gx-1971/</loc>
     <lastmod>2025-11-26T04:50:49-07:00</lastmod>
   </url><url>
@@ -29,20 +26,17 @@
     <loc>http://localhost:1313/nissan/laurel/cg-ri-nissan-laurel-hardtop-2000gx-2000sgx-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/crown/cg-rt-toyota-crown-hardtop-sl-1969/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/toyota/sprinter/cg-gt-toyota-sprinter-sr-vs-mitsubishi-colt-galant-fto-giii-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/crown/mf-rtd-toyota-crown-hardtop-super-saloon-1971/</loc>
-    <lastmod>2025-11-18T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant/cg-rt-mitsubishi-colt-galant-aii-gs-1970/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/lancer/cg-fomd-mitsubishi-lancer-1600gsr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/crown/mf-rt-toyota-crown-hardtop-sl-1969/</loc>
+    <lastmod>2026-01-18T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/subaru/leone/cg-ri-subaru-leone-coupe-1400gsr-1971/</loc>
     <lastmod>2026-01-16T04:50:49-07:00</lastmod>
@@ -164,8 +158,14 @@
     <loc>http://localhost:1313/toyota/celica/cg-ri-toyota-celica-1600gt-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/crown/cg-rt-toyota-crown-hardtop-sl-1969/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/sunny/cg-rt-nissan-sunny-coupe-1400gx-1971/</loc>
     <lastmod>2026-01-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/crown/mf-rtd-toyota-crown-hardtop-super-saloon-1971/</loc>
+    <lastmod>2025-11-18T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/silvia/mf-rt-nissan-silvia-1965/</loc>
     <lastmod>2025-11-16T04:50:49-07:00</lastmod>
