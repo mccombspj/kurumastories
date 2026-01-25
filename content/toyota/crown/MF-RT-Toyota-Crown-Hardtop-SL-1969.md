@@ -135,14 +135,13 @@ As for the unusually shaped headlamps, that design actually dates back to the de
 
 <b>Higuchi:</b> When you slam the door shut on a pillarless hardtop, the whole body seems to wobble.
 
-<b>Hoshijima:</b> On the current Crown passenger cars, are the headlamp-surround components interchangeable?
+<b>Hoshijima:</b> Are the headlamp-surround components interchangeable with the current Crown passenger cars?
 
 <b>Uchiyamada:</b> The headlamps and this grille are interchangeable as a set. That said, if you were to install them, you’d probably need to submit a modification notice. (laughs)
 
 <b>Kondo:</b> Speaking of what you mentioned earlier, the disc wheels strike me as an excellent example of how mechanical engineering and design have been very successfully harmonized. I really admire that as an example of bringing together engineering and design.
 
-<b>Uchiyamada:</b> For those wheels, the idea was: “Make it look exactly as the design intends, and still give it fatigue strength.” That meant we had a lot of trouble keeping the strength without losing the shape.
-The other issue was the color. The design goal was to give it a magnesium-like look, but if we used actual magnesium, it would be unprofitable. (laughs) So we struggled quite a bit to create a magnesium-like color and texture. In reality, it’s just ordinary steel.
+<b>Uchiyamada:</b> For those wheels, the idea was: “Make it look exactly as the design intends, and still give it fatigue strength.” That meant we had a lot of trouble keeping the strength without losing the shape. The other issue was the color. The design goal was to give it a magnesium-like look, but if we used actual magnesium, we wouldn't make any money on the car. (laughs) So we struggled quite a bit to create a magnesium-like color and texture. In reality, it’s just ordinary steel.
 
 <b><u>Minimum Weight Per Horsepower</b></u>
 
@@ -354,7 +353,7 @@ There is only one item that scored three points out of five. That was for the �
 
 In terms of maintenance, comparing this car with the Corona, it looks like Toyota is aiming to standardize the maintenance schedule across models. After the first 1,000km, it calls for a minor inspection. After that, maintenance is required every 5,000km.
 
-<b>Magazine:</b> I believe we’ve now covered everything. Lastly, could you tell us about production plans? Specifically, how many units you’re aiming for?
+<b>Magazine:</b> I believe that covers everything. Lastly, could you tell us about production plans? Specifically, how many units you’re aiming for?
 
 <b>Uchiyamada:</b> By the end of last year, I believe we exceeded 3,000 units. This year’s plan is about 2,000 units per month.
 

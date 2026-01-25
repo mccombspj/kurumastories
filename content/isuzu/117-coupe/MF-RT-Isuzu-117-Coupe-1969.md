@@ -1,0 +1,486 @@
++++
+
+
+
+
+
+
+
+title = "Isuzu 117 Coupe (1969)"
+weight = 20
+
+
+
+
+
+
+date = "2026-01-24T04:50:49-07:00"
+
+
+
+
+
+
+
+draft = false
+
+
+
+
+
+
+
++++
+
+
+
+
+
+
+
+![Isuzu 117 Coupe](/images/MF-RT-Isuzu-117-Coupe-1969.jpg)
+
+
+
+
+
+
+
+<b>Publication:</b> Motor Fan<br>
+<b>Format:</b> Road Test<br>
+<b>Date:</b> February 1969<br>
+<b>Author:</b> Takuji Hamada, Tadashi Ouchi, Mineo Yamamoto, Osamu Hirao, Joji Mizusawa, Reichi Tsukagawa, Hiroshi Hoshijima, Hiroshi Toishi, Kazuo Kumabe, Seiji Hirose, Sadamitsu Koike, Kenji Higuchi, Fumio Tsukazaki, Yasuhei Oguchi, Taizo Tateishi, Atsushi Watari, Ichiro Kaneshige, Yoshio Akutsu, Akio Miyamoto, Katsuji Takanami, Kenzaburo Ishikawa, Akira Watanabe, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
+
+
+
+
+
+
+
+
+
+<b><u>A Top-Level Passenger Car for a New Genre</b></u>
+
+<b>Magazine:</b> To begin, could you give us an overview of the 117 Coupe?
+
+<b>Hamada:</b> I’ll start by explaining the development concept behind the car. The recent trend in passenger cars has been toward greater diversification, reflecting the increasingly varied tastes of users, with manufacturers emphasizing wider model variation. Among these trends, the move toward sportiness has been particularly noticeable. This reflects basic human desires for greater speed and beauty.
+
+With the Isuzu 117 Coupe, we set out to not only meet those expectations, but to take it a step further. We aimed to create a car that is also more comfortable and safer, one that satisfies all of these demands at a high level.
+
+With a 1.6-liter four-cylinder engine producing 120ps and a top speed of 200km/h, the car softly envelops high performance in a beautifully refined body. Inside, it is a completely new kind of four-seater. In that sense, it can fairly be described as an elegant coupe offering the highest level of performance.
+
+Of course, we also pursued high standards in the elements that are naturally required at this level--safety, handling, and stability. After all, a car with so many new features represents a new genre for passenger cars in our country, and we take pride in the fact that its overall quality is at the very highest level.
+
+<b><u>Overview of the 117 Coupe and Its Development</b></u>
+
+<b>Magazine:</b> This car was also exhibited as a reference model at the 13th Tokyo Motor Show in 1966, but could you tell us about the development process from that time until its release now?
+
+<b>Ouchi:</b> This car was originally conceived in 1965 as part of a plan to develop a new category of luxury vehicle, and we completed the design in cooperation with Italy’s Ghia. Ghia was responsible for the body styling, while Isuzu developed the chassis and engine. The first prototype, so to speak, was exhibited at the Geneva Show in the spring of 1966 and received a favorable response. It was a new kind of vehicle: a four-seat sports coupe, and its graceful styling went on to win the Grand Prize at the Concours d’Elegance in Italy, giving it a strong reputation in Europe first.
+
+At the Tokyo Motor Show held that autumn, the second prototype was exhibited as a reference model, and it was again well received. That was when we decided to move forward with development, and after two more years we have now reached the point of its release.
+
+Because it is a car in a completely new category, there was no existing model to compare it with and nothing to use as a reference, so development involved many difficulties. And since it is a high-end vehicle, we did not place emphasis on production volume. As a result, it is a low-volume, high-quality car, which also posed challenges in terms of its structure and production.
+
+We undertook extensive preparation and trained the workers. In addition, rather than adopting the so-called foreign-style custom approach, we chose a production method that achieves higher productivity and more uniform build quality.
+
+On the technical side, the engine is a newly developed 1.6-liter four-cylinder DOHC unit producing 120ps. This is the result of engine development work that had already been underway before this car. It delivers not only high-speed performance but also plenty of torque at low speeds, and as you will notice when you drive it, it is extremely easy to handle even in city traffic.
+
+We had set a target top speed of 200km/h, but for the domestic standard specification we lowered the final gear ratio to 4.10, so its top speed is 190km/h. We specified low-profile high-speed tires, ventilated wheel discs, and power disc brakes to ensure high-speed drivability and stability.
+
+As for quietness, we made abundant use of special vibration-damping materials, and for comfort we paid particular attention to reducing fatigue on long-distance drives. The seats are designed to meet FIA four-seater standards. Notable features are that the rear seat backs recline in three stages, and if you fold them forward flat, the trunk and rear space become one continuous area, providing a large load space.
+
+In terms of safety, the car is equipped with all 24 items in the US MVSS that are likely to be adopted under equivalent Japanese standards, including a collapsible steering column, dual-circuit brakes, and seat belts for four occupants as standard equipment.
+
+Every one of these features represents work that carries the full weight of our company’s reputation. In other words, this is a car built by bringing together the very highest level of our technology.
+
+<b><u>A High Top Speed as a Symbol of Safety</b></u>
+
+<b>Yamamoto:</b> What does the “117” in Isuzu 117 Coupe represent?
+
+<b>Hamada:</b> It is simply the car’s internal project number, and it has no meaning beyond that. In fact, at the 1966 Tokyo Motor Show, the car was not originally scheduled to be exhibited at all, but it was decided at the last moment that it would go on display. Since it had no official name, we showed it as a reference model under its internal prototype number, as the “117 Sport.”
+
+That name turned out to be unexpectedly well received. It sounded good, and it gained a reputation among younger people, so the car ended up becoming known as the 117 Coupe. So, when we decided to release it, the overwhelming opinion was that it would be more effective to keep the name rather than change it. In the end, it was officially decided to use the name "Isuzu 117 Coupe" just as it was.
+
+<b>Hirao:</b> This is a fairly general issue, but in the copy used for passenger-car advertising you often see phrases like "Top speed 200 km/h!" or "0-400m in 16.8 seconds."I’m often asked, particularly by people from what might be called the anti-motorization camp, what does that kind of claim actually mean? They’ll ask, why does a passenger car need that sort of performance?
+
+When that happens, I answer that it has nothing to do with showing off speed. I say that it is a sign of safety.
+
+For example, there is a fundamental difference in safety between driving at 100km/h on the Tomei Expressway in a car capable of 200km/h, and driving at 100km/h in a car that can only reach 130km/h. Even if a car has a top speed of 200km/h, that does not mean it is intended to be driven at 200km/h. Rather, it means that even if it were driven at that speed, the brakes have been strengthened accordingly, reliability is sufficient, there is no concern about fade, and around the steering as well, handling and stability have been given extremely careful attention so that the car does not become unsettled even at 200km/h. In that sense, it is an extremely safe car, and that is how we explain it.
+
+The tires, too, are high-grade tires with a high level of safety, so it is reasonable to think that safety at 100km/h is greatly improved. I would very much like this point to be emphasized in terms of PR.
+
+The same applies to the 0–400m acceleration time. In practical terms, this comes into play when entering a high-speed road. If the figure is 16.8 seconds--a good value, at that--I believe that directly contributes to safety as well. This is another thing I explain to people from the anti-motorization side. I would like manufacturers, too, to give careful thought to how these points are handled in PR. Simply saying that the top speed is high, or that the 0–400m time is fast, carries the risk of being misunderstood.
+
+<b>Hamada:</b> Yes, that is precisely correct. I think this is something that not only we, but the entire automotive industry, should think about very seriously.
+
+<b>Hirao:</b> I would very much like that to be emphasized. I would like to cultivate the awareness of, "even though I only drive at about 100km/h, if I had the money I would want to buy a car that can reach around 200km/h." That is for safety.
+
+<b><u>Origins of the 1600cc Decision</b></u>
+
+<b>Motor Fan:</b> When you commissioned Ghia to do the styling, were you already thinking about putting the car into production?
+
+<b>Hamada:</b> At first, Ghia was planning to support Isuzu’s launch of the Florian, and in that context the idea of this coupe came up. From our side as well, when we listened to Ghia, and considered the future trend toward greater diversification in passenger cars, we thought it was a refreshingly new idea, so we decided we wanted to go ahead with it.
+
+We provided them with the parts and the engine and asked them to design it. What they produced was truly excellent, and at that point we felt that it could really work for production.
+
+However, since it was something entirely new, the first step was to exhibit it at the show, gather various opinions, and then push forward with full-scale commercialization, especially because it would help improve Isuzu’s overall image.
+
+<b>Magazine:</b> At that Tokyo Motor Show, the Florian sedan appeared under the name "117 Sedan," and it and this "117 Coupe" were displayed side by side, weren’t they? What is the relationship between the two cars?
+
+<b>Hamada:</b> As I mentioned earlier, the original prototype number was 117. The Florian, too, was developed with the cooperation of Ghia, and since the coupe body was mounted on the same mechanical platform, we called it the 117 Coupe.
+
+<b>Mizusawa:</b> The original concept was for the 117 Coupe to share components with the Florian to the greatest extent possible, such as in the underframe, chassis, suspension, and engine--or to use them as a base, modifying them to suit the 117 Coupe. Although they look quite different in terms of appearance, they share a great deal mechanically.
+
+<b>Magazine:</b> How did you come to settle on a 1.6-liter engine? When the car was shown, public opinion at the time strongly expected something larger—around a 2-liter engine, for example.
+
+<b>Mizusawa:</b> Yes, when the car was first shown, there were many predictions. People talked about a 2-liter engine, or even a fuel injection system. However, our approach was to tune and upgrade what Isuzu already had, and if we could achieve performance comparable to a 2-liter engine that way, we would end up with a lighter, high-performance unit. With that in mind, we carried out extensive studies.
+
+In fact, fuel injection was considered at one point, but in the end we determined that with a DOHC layout and twin double-choke carburetors, we could achieve our target output of 120ps. Moreover, by using the Bellett engine as the base, we believed we could create an engine with a high level of reliability, and development proceeded along those lines. That is how we arrived at the powerplant you have tested this time.
+
+<b><u>An Engine In the Same Lineage as the Bellett GT</b></u>
+
+<b>Hirao:</b> Does this engine incorporate scope for future tuning as well? For example, in the rigidity of the crankshaft or the valve springs?
+
+<b>Tsukagawa:</b> The true aim of this engine was to share a common production line with the current 1.6-liter Florian engine. In other words, the Florian uses an OHV layout with a single carburetor, while this engine represents a development of that design into a DOHC layout with twin carburetors.
+
+As for future tuning, the engine has already been tuned to a considerable degree to reach 120ps, but we have still allowed for a certain amount of additional potential. It belongs to essentially the same engine family as the Bellett GT engine, the G161, but components such as the cylinder block and cam mechanism have been strengthened.
+
+<b>Hirao:</b> What is the engine’s maximum rotational speed?
+
+<b>Tsukagawa:</b> 6400rpm. The allowable rotational speed for the valve train is approximately 7500rpm.
+
+<b>Hoshijima:</b> You mentioned that the cylinder block has been strengthened. Does it remain largely common with that of the Bellett GT?
+
+<b>Tsukagawa:</b> The block is almost the same. In other words, it was reinforced in order to accommodate the DOHC layout and the higher engine speeds.
+
+<b>Magazine:</b> At this point, could you give us a brief overview of the engine?
+
+<b>Tsukagawa:</b> This engine’s internal designation is G161W, and it belongs to the same series as the G161 engine, which has already earned a strong reputation in the Bellett GT. It features a DOHC layout and a special semi-hemispherical combustion chamber. The cylinder block and crank mechanism are basically shared with the G161, with sufficient reinforcement applied where necessary.
+
+There were three main objectives in developing this engine.
+
+The first was how to reconcile high performance with strong torque at low engine speeds. Achieving what the January issue of Motor Fan described as “Isuzu’s characteristic low-speed torque” involved measures such as smoothly contoured intake and exhaust ports that run diagonally from the upper right to the lower left, the adoption of twin two-barrel Solex carburetors, and the special semi-hemispherical combustion chamber. In addition, considerable effort went into valve lift and carburetor settings.
+
+The second objective was quietness. For this, we carried out research on the intake and exhaust systems, the cam and tappet areas, the timing train, the combustion chamber, and the cooling fan.
+
+The third was reliability and durability. Building on our experience with the G161, careful attention was paid to the engine’s basic mechanisms, and how to adopt the DOHC layout and two-stage timing train. In addition, the oil pan has a generous capacity of five liters.
+
+Thorough durability testing was conducted at the Yatabe test course, and we are confident in this respect as well. In terms of specifications, the engine is an oversquare design with an 82mm bore and 75mm stroke. Displacement is 1584cc, the compression ratio is 10.3, maximum output is 120ps at 6400rpm, and maximum torque is 14.5kgm at 5000rpm. As you can see from the torque curve, torque levels below 2000rpm are higher than those of most domestic or imported cars.
+
+The engine's service weight is 160kg, which makes it relatively light for an engine of this type.
+
+<b><u>Styling That Makes the Most of Authentic Italian Elegance</b></u>
+
+<b>Magazine:</b> What are everyone's impressions of this car’s styling?
+
+<b>Yamamoto:</b> The first thing that struck me was how steeply raked the windshield is. I think it’s the sharpest angle you’ll find on any domestic passenger car. From there, the roofline flows smoothly into a fastback-style rear end. The visual line of the design is beautiful, and it must also be good in terms of aerodynamic drag.
+
+<b>Toishi:</b> We built wind-tunnel models and tested them in the tunnel. Drag in the longitudinal direction is about 80% of that of the 117 Sedan.
+
+In addition, the lift coefficient has been reduced considerably. With ordinary cars, at high speeds an upward lifting force tends to act on the body, but this car experiences much less of that. Yawing is also reduced. All of this has a very positive effect on handling.
+
+<b>Kumabe:</b> It’s quite moving to see that a car like this has finally appeared in Japan. Stylistically, it seems to fully incorporate the latest European trends. In any case, it’s a beautiful car. That said, how practical is the fastback-style rear in everyday use?
+
+<b>Mizusawa:</b> In Europe, semi-fastbacks have become more common recently, although there are still quite a few notchback designs as well. This car is a four-seater, and in a four-seater coupe, achieving sufficient headroom is extremely difficult. That is why we brought it together as a fastback. I think that is one of its defining characteristics.
+
+<b>Magazine:</b> From a design standpoint, Hoshijima-san, what do you think?
+
+<b>Hoshijima:</b> Isuzu’s Bellett was a successful example of emphasizing oval lines, and you can sense something of that image in this car as well. If Ghia’s staff had that in mind when they designed it, then that’s truly impressive. The design itself really feels authentic, very genuine.
+
+It’s not only beautiful; the proportions are well balanced, and you could say it’s a very cohesive piece of styling. To create a body this beautiful, I imagine there must have been many challenges. Is this a pressed-steel body?
+
+<b>Hamada:</b> Yes, it is.
+
+<b>Hoshijima:</b> That ties in with what you mentioned earlier about achieving uniform quality.
+
+<b>Hamada:</b> Exactly. Because of that, the price has become relatively high, at 1.72 million yen, but our aim is to create a car whose owner can take pride in it, both in terms of styling and performance.
+
+<b><u>The Challenge of Slimming All Four Pillars</b></u>
+
+<b>Magazine:</b> In making it a pressed body, were there any areas that were particularly difficult or challenging?
+
+<b>Hirose:</b> From the beginning, we fully intended to make it a pressed-steel body. So if you look at the body, there aren’t any areas that are especially difficult from a pressing standpoint. However, from a structural perspective, we did struggle in various ways in order to retain the beautiful styling.
+
+The most difficult challenge was making all four pillars appear slim. The structure and mechanism of the flow from the A-pillar through the B- and C-pillars--what we commonly refer to as the naginata—was especially challenging. We had to satisfy the styling, ensure sufficient strength, and at the same time create a very quiet car, which made it a demanding task.
+
+<b>Hirao:</b> I think the styling is extremely good, but somehow it felt even better when the car was first shown at the Motor Show than it does now. Has the styling changed since then?
+
+<b>Koike:</b> The overall vehicle height has been increased by about 30mm.
+
+<b>Hirao:</b> I think that has quite a noticeable effect. The same could be said of the Florian, but I can’t help wishing the body were just a little lower. It’s probably an issue of minimum ground clearance, but it does feel like a missed opportunity.
+
+<b>Mizusawa:</b> Finding the right balance among vehicle height, handling and stability, and ride comfort is a difficult problem, and that’s something we struggled with on this car. We wanted to improve ride comfort, and to do that, we needed to allow a certain amount of wheel travel. At the same time, we also had to take handling into account.
+
+Wheel travel is actually on the generous side for a car in this class. That’s how we secured ride comfort, and then we worked to regain handling performance through the springs and various other components.
+
+<b>Hirao:</b> The tires are also slightly larger--6.45H-14-4P front and rear. I assume they were upsized because the car is capable of 200km/h, but it feels as though the styling had to give a little as a result.
+
+In other words, if the height was going to be what it is now, I would have liked to see the body styling adjusted slightly to restore the overall balance.
+
+<b>Hirose:</b> It’s an extremely delicate design, so even a small change ends up affecting everything. We struggled quite a bit even to limit the change to 30mm, but in the end we managed to keep it to about that extent. Still, I think your point is a valid one.
+
+<b>Mizusawa:</b> The overall height is 1320mm, so it’s true that it’s taller than originally planned, but I believe it’s still on the low side for a car in this class.
+
+<b>Magazine:</b> Do you think a passenger car that seats four will be accepted in Japan?
+
+<b>Higuchi:</b> I don’t think that will be a problem at all. The kind of people who are drawn to a car like this almost never carry five people. Most of the time it’s one person, or two at most. It seems the era of advertising a car by saying “how many people it can carry” has already passed. I think it’s sufficient if, when necessary, the rear seats can accommodate up to two passengers.
+
+<b><u>Top-Level Power Performance</b></u>
+
+<b>Magazine:</b> Let’s move on to examining the test data. First, we’d like to hear about the power performance test data from Professor Hirao’s laboratory at the Institute of Industrial Science, University of Tokyo.
+
+<b>Shibata:</b> This test was conducted at Isuzu’s Fujisawa plant test course. Conditions on the day were good. As for the test conditions, the empty vehicle weight was 1050kg. With three occupants plus measuring equipment onboard, the payload came to 203.5kg, for a total test weight of 1253.5kg. The test vehicle’s odometer reading was 5,882km.
+
+First, regarding standing-start acceleration: in terms of time to distance, the car covered 0–50m in 4.5 seconds, 0-100m in 6.9 seconds, 0-200m in 10.6 seconds, and 0–400m in 16.7 seconds. Looking at time to speed, it reached 60km/h from rest in 3.1 seconds, 80km/h in 5.7 seconds, and 100km/h in 9.1 seconds.
+
+Next, for overtaking acceleration, since the car has a 4-speed transmission, we measured two scenarios: rolling acceleration from 30km/h in third gear, and from 40km/h in top gear. From 30km/h in third gear, it reached 60km/h in 5.9 seconds, 80km/h in 9.8 seconds, and 100km/h in 14.0 seconds. From 40km/h in top gear, it reached 60km/h in 5.6 seconds, 80km/h in 11.3 seconds, 100km/h in 17.6 seconds, and 120km/h in 26.0 seconds.
+
+Looking at these figures, the 4.5 seconds from 0–50m stands out as a particularly good value, and, as Professor Hirao mentioned earlier, it is also favorable from the standpoint of safety.
+
+<b>Magazine:</b> The catalog lists the top speed as either 190km/h or 200km/h. In reality, how fast will the car actually go?
+
+<b>Tsukazaki:</b> There are two final gear ratios: 3.73 and 4.10. With the former, the top speed is 200km/h; with the latter, it's 190km/h. For the domestic standard specification, based on data from durability and high-speed testing conducted at the Yatabe test course, the actual speed--which depends somewhat on the tires--comes out to about 192 or 193km/h. This figure represents the average lap speed over one full circuit of the course. These tests were conducted with the 4.10 final ratio. If the final ratio were changed to 3.73, as on export models, we estimate that 200km/h could be achieved with a comfortable margin.
+
+<b>Magazine:</b> When you actually drove the car, how did it feel in terms of acceleration and overall driving impression?
+
+<b>Hoshijima:</b> This is based on my experience at the Fujisawa test course, but it certainly felt very fast. I had the preconceived notion that it was a relatively heavy car, so I expected that initial acceleration wouldn’t be very strong, but right from the start it pulled away well.
+
+Another thing that stood out was how firm the suspension felt despite having relatively soft springs. The springs are soft, but the shock absorbers are well controlled. That kind of setup hasn’t been very common in Japanese sports cars, and it wasn’t something I’d experienced before, but I found it very appealing. After that, I also had the opportunity to drive the car in city conditions, and even on rough roads the ride comfort was good.
+
+<b><u>A High-Performance Car That Also Satisfies Older Drivers</b></u>
+
+<b>Higuchi:</b> As for the feeling of acceleration, until now high-performance cars tended to lurch sharply the moment you engaged the clutch, and that is what people have considered “sporty," but in this car you don’t get that feeling. You don’t experience a jolt that throws you back in the seat. As a result, you might think the acceleration isn’t very impressive, but when you look at the data, it’s actually extremely good. At that moment, I felt that this is what a truly high-performance car should be like.
+
+The days of a small car with a large engine, where you have to rev it hard and engage the clutch with that jolt, those days are over. I would say that modern high-speed cars should all be like this one. However, unless this point is explained very skillfully to the user, there is a risk that people will misunderstand and think the car’s acceleration is poor.
+
+<b>Toishi:</b> Achieving good ride comfort while also delivering strong handling performance is what we struggled with most. But I believe we have succeeded, at least to a large degree, in that respect.
+
+<b>Magazine:</b> On that point, we have received test-drive notes from Professor Masashi Kondo of Tokyo University of Agriculture and Technology, so allow us to read them aloud:
+
+“At first, I thought this car was a sports-car type vehicle primarily aimed at people in their 20s and 30s, and as someone older myself I was inclined to avoid it. However, when I actually drove it, I was surprised. In reality, it was completely different from what I expected. High-speed driving on the Tomei Expressway and routine driving on ordinary streets were extremely comfortable. In other words, it is a high-performance saloon with sports-car characteristics that can be easily controlled and fully satisfy even older drivers.”
+
+That is the impression he shared with us.
+
+<b>Kumabe:</b> The ride comfort was very good, wasn’t it? It was also nice that the cabin was quiet.
+
+<b><u>Fuel Economy: 9.4km/l in Normal Driving</b></u>
+
+<b>Magazine:</b> Next, please present the results of the fuel-economy tests conducted by Professor Oguchi’s laboratory at Shibaura Institute of Technology.
+
+<b>Oguchi:</b> Since the 117 Coupe is a luxury car, some people might think fuel economy is irrelevant. However, we conducted the same procedures as in other recent Motor Fan tests, measuring two kinds of fuel economy: steady-speed fuel economy and model-operation fuel economy.
+
+The test conditions were the same as before: three people plus instruments. First, the steady-speed fuel economy results are as follows: 16.5km/l at 30km/h, 16.1km/l at 40km/h, 15.5km/l at 50 km/h, 14.8km/l at 60km/h, 14.0km/l at 70 km/h, 13.0km/l at 80km/h, 12.0km/l at 90km/h, and 10.8km/l at 100 km/h. These values have not yet been corrected for speedometer error, so they may vary slightly.
+
+Next, I will explain how we measure model-operation fuel economy, which simulates city driving. This is explained in detail in a separate section of this issue, so I will give only a brief summary here.
+
+We measured this value under two target speeds: 40km/h and 60km/h. Starting conditions are important because they affect fuel economy, so we set them as follows: at the 40km/h setting, we move off from a standstill in first gear at 0.3g acceleration, then held steady at 0.2g, shifting to second gear while maintaining 0.2g acceleration until reaching 30km/h, then shifting to third gear and accelerating at 0.1g to 40km/h, at which point we shift into fourth gear for steady cruising. The deceleration pattern is also standardized. The maximum deceleration is 0.3g, with an average of 0.15g. 
+
+For the 60km/h target speed, the pattern is: first gear to 20km/h, second gear to 40km/h, third gear to 60km/h, and then into top gear for steady cruising. In both cases, we use a 400-meter section of track, and the same pattern of acceleration and deceleration is repeated, followed by a stop at a traffic signal. There are two stops, one lasting 30 seconds and the other 15 seconds. Please refer to the diagram in this issue for the exact pattern.
+
+Under these conditions, when the target speed is 40km/h, the 117 Coupe achieves a fuel economy of 9.4km/l at an average speed of 22.4km/h. When the target speed is 60km/h, the average speed becomes 25.2km/h, and the fuel economy is 7.8km/l.
+
+<b><u>Fuel Economy Has Been Thoroughly Considered</b></u>
+
+<b>Magazine:</b> How good are these figures, generally speaking?
+
+<b>Oguchi:</b> We have conducted similar tests with roughly 20 cars to date. The steady-speed fuel economy figures for this car are quite good.
+
+What particularly impressed me is that steady-speed fuel economy normally drops sharply at higher speeds, but in this car it does not worsen as much as expected. The graph is fairly flat.
+
+As for the city-driving fuel economy measured by the model-operation test, this is also reasonable, and the car does not consume an excessive amount of fuel.
+
+<b>Tsukazaki:</b> How does it compare with an ordinary passenger car?
+
+<b>Oguchi:</b> Compared with normal passenger cars, it is slightly lower, but not by a large margin.
+
+<b>Tsukagawa:</b> The engine development began quite early, but even after the decision was made to bring this car to market, we spent a long time pursuing two goals: low-speed torque and high performance. We worked hard on the full-throttle characteristics and on matching the carburetors.
+
+With a car like this, the transition between carburetors inevitably becomes an issue. In such cases, you can cover up the problem by running the mixture a bit rich, but we avoided that approach as much as possible. Instead, we focused on improving the inherent qualities of the fuel system and displacement while setting the mixture as lean as possible. I think that is one of the reasons the fuel economy is as good as it is.
+
+<b>Oguchi:</b> If you compare this kind of car with an ordinary sedan, you would expect a noticeable difference in fuel economy in city driving because it uses a high-revving, high-output engine. But when you compare the numbers, the difference is only a matter of a few percent. In other words, it gives the impression of an engine that was designed with fuel economy in mind, and in that regard, it must have required significant effort.
+
+<b><u>Struggling to Reduce Noise</b></u>
+
+<b>Magazine:</b> Now, please present the ride and noise test results conducted by Professor Watari’s laboratory at the University of Tokyo’s Institute of Industrial Science.
+
+<b>Tateishi:</b> I’ll begin with vertical motion. We measured the sprung and unsprung frequencies by running the car over a bump plate. The sprung frequencies were 1.35cps for the front wheels and 1.5cps for the rear wheels, while the unsprung frequency was 15.0cps for both front and rear.
+
+Next, noise. As usual, we measured both interior and exterior noise. Since this test was conducted at Isuzu’s Fujisawa test course under good conditions, I don’t think it is appropriate to compare these figures directly with other cars measured at the Higashimurayama Mechanical Testing Laboratory course.
+
+Interior noise was measured from 40km/h to 140km/h. The results were 65 hones at 40km/h, 68 hones at 60km/h, 70 hones at 80km/h, 75 hones at 100km/h, 79 hones at 120km/h, and 79 hones at 140km/h. Looking at the characteristic curve, the values are fairly flat from about 110km/h to 140km/h.
+
+Exterior noise was measured using the method specified by JIS. With the car in second gear, we measured two conditions: steady cruising at 55km/h, and full-throttle acceleration from 50km/h. The steady 50km/h run produced 76 hones, and the full-throttle acceleration run produced 82 hones.
+
+<b>Watari:</b> From the ride measurements, this car feels like an ordinary passenger car, but from the noise measurements, it feels like a very fast car. It sounds contradictory… (laughs)
+
+<b>Hirao:</b> That’s exactly what was being aimed for. (laughs)
+
+<b>Watari:</b> I think it’s about right for a car of this class. How do the noise figures compare with Isuzu’s internal data?
+
+<b>Kaneshige:</b> They are generally very similar. Earlier, Tateishi-san mentioned that the curve is flat from about 110km/h to 140km/h, but in fact it remains fairly flat even a bit higher. Even up to about 180km/h, there isn’t much change. In the range below 100km/h, the figures are essentially the same as our internal data.
+
+Actually, in Motor Fan’s test of the Florian last year, the professors praised the sound level and quality. Compared with the Florian’s engine, this car’s engine has higher output and higher revs, and in the suspension setup, because the priority was naturally high performance and handling, we had to treat noise control as a matter of adding soundproofing and vibration-damping materials inside the cabin to cover it to a considerable degree, and we struggled a lot with that.
+
+Naturally, that added weight, and because they are mainly effective in cutting high-frequency noise, the benefit becomes especially noticeable at high speed. Below 100km/h, the noise level is higher than the Florian’s, but compared with other cars, we don’t think it’s unusually high.
+
+<b>Watari:</b> The Florian is an extremely quiet car, and its noise level is a bit lower, but because there were no particular peaks relative to vehicle speed, this was still very good.
+
+<b><u>Aiming for Long-Distance Touring at 120 km/h</b></u>
+
+<b>Higuchi:</b> The 117 Coupe did feel a bit loud around 60-80km/h, but as you go up to 100-120km/h, it becomes relatively quieter, doesn’t it?
+
+Once the Tomei Expressway is fully open, it will become common to drive at 100–120km/h for hours at a time, and in that situation, the low noise level of this car should reduce fatigue. However, at present, Japanese roads still require driving mostly below 100km/h, so in that sense the car is at a disadvantage.
+
+<b>Mizusawa:</b> Long-distance touring at 120km/h is exactly what we are aiming for with this car.
+
+<b>Watari:</b> To be frank about my impression of this car: the styling is good, the way it feels to drive is good, and as I just mentioned, the ride comfort is good too. But as a commercial product, I felt it was unclear what the "focus" or core identity of the car was. Then again, perhaps it isn’t appropriate to talk too much about where noise fits in with a car like this. Given that the vehicle weight is about one ton, I feel that a substantial portion of that weight is being used for noise control.
+
+<b>Yamamoto:</b> While driving it is extremely good, but when stopped, the sound at idle is quite loud, and the vibration seems to be transmitted into the cabin quite noticeably. Is the idle speed around 700 rpm?
+
+<b>Kaneshige:</b> It’s 800 rpm.
+
+<b>Hirao:</b> That’s true. The idle feel isn’t very good. I wonder if it would help to use a larger flywheel…
+
+<b>Tsukagawa:</b> Increasing the flywheel’s inertial mass is a very difficult design issue because it introduces various problems. The current flywheel is the same one used on the twin-SU G161 in the Bellett.
+
+<b>Hoshijima:</b> Is the transmission the same as the Bellett’s?
+
+<b>Mizusawa:</b> Apart from a different first-gear ratio, it’s the same.
+
+<b>Hoshijima:</b> The synchronizers and so on are also the same?
+
+<b>Mizusawa:</b> Yes, the same.
+
+<b>Hoshijima:</b> Are there any plans to equip it with a 5-speed transmission or torque converter automatic, like foreign GT cars?
+
+<b>Mizusawa:</b> We are currently considering it. However, at this time we are not planning to implement either yet.
+
+<b><u>Moderate Understeer with Two Passengers</b></u>
+
+<b>Magazine:</b> Now, please present the handling and stability test results conducted by Professor Kondo’s laboratory at Tokyo University of Agriculture and Technology.
+
+<b>Akutsu:</b> First, let's cover the steady-state circular turning test for understeer and oversteer: We conducted the test up to 0.7g, and throughout the run the car showed a fairly strong degree of understeer. The steering effort was 3.5kg at a lateral acceleration of 0.5g, and the roll rate was 4.8° in the test with three people plus about 70kg of instruments.
+
+Next, the stationary steering effort test: we turned the steering wheel through 360°, and the average effort for both left and right was 14kg. For low-speed steering effort, we conducted a figure-eight test at 0.25g lateral acceleration. The steering effort was 5.3kg when entering the curve and 2.2kg when exiting. For high-speed steering effort, we measured it using a slalom test; at 0.25g lateral acceleration, the effort was about 1.9kg for both left and right.
+
+Finally, for hands-off directional stability, we were able to collect data up to 150km/h and found no concerns. The convergence was also good, at about 0.9 seconds.
+
+<b>Magazine:</b> To those who actually drove the car, how did the steering feel?
+
+<b>Miyamoto:</b> I didn’t find it particularly light. It felt somewhat heavy, but as a car capable of nearly 200km/h, I thought that level of weight was appropriate. For a high-speed car like that, it has no particular quirks, and I think you could drive it confidently even through narrow streets in town.
+
+<b>Hoshijima:</b> From my impression, the roll rate is surprisingly small, but the degree of understeer seems quite strong. Would it be possible to allow a bit more roll and thereby reduce the understeer a little?
+
+<b>Takanami:</b> Regarding understeer, this is how we see it: when the lateral acceleration becomes very high, around 0.5g, the load transfer to the front is large, so the understeer becomes fairly strong. But in the range before reaching that level, it is not so strong…
+
+<b>Tsukazaki:</b> This test was done with a load equivalent to four occupants, and with four people on board the load transfer inevitably becomes larger, so the roll becomes greater and the tendency toward understeer becomes more pronounced. Therefore, we would like drivers not to push the car too hard when carrying four people…
+
+If you are driving with one or two people, it is truly well balanced, and you get a moderate amount of understeer. That is when the car’s true capabilities can be demonstrated, so at that time you should feel free to really open it up… that is how we see it.
+
+<b>Hoshijima:</b> Even if the understeer is strong, it is not to the point of being out of control, so of course there is no problem. Just to be clear…
+
+<b>Magazine:</b> Next, we will present the data on vehicle weight, alignment, and brakes from the Shipbuilding Research Institute, delivered by technical officer Ishikawa...
+
+<b><u>Remarkably Even Brake Balance</b></u>
+
+<b>Ishikawa:</b> Let's begin with vehicle weight. Measured with spare tire and tools, and with a full tank of fuel (58 liters), the weight is 1100kg. The front-to-rear weight distribution is 55:45. This ratio does not change even when one or two people sit in the front seats. When the car is fully loaded with four occupants, the distribution shifts slightly toward the rear, becoming 51:49, but even then the front remains slightly heavier than the rear. The weight per occupied area is 15.6 kg/m², which is an average value for a car in this class.
+
+Next, wheel alignment. This was measured with a side-slip meter. With only the driver on board, the front wheels have a very slight negative camber, and toe-in is exactly zero. The rear wheels also show a slight camber and zero toe-in. Even with four occupants, these figures hardly change, although the front camber becomes slightly less.
+
+Now, the brakes. The system is the best type currently available, disc brakes on the front wheels and leading-trailing drum brakes on the rear, and the drums are made of Alfin material for excellent heat dissipation. Additionally, the system includes a power servo and a dual-circuit design, and if one circuit fails, a warning light comes on the dashboard. This is a very good safety feature.
+
+As for the data, beginning with pedal stroke, the initial stroke before braking begins is 21mm. The stroke required to generate 0.6g deceleration is 53mm. The pedal effort needed for 0.6g is 19 kg, and even then the stroke is not very long and the effort is relatively low. The spring constant in this region is about 0.87kg/mm, so the brakes feel relatively soft.
+
+Those are the results from bench tests. When tested on the road, the pedal force required to achieve 0.6g from an initial speed of 50km/h becomes even lighter, around 14.0kg. This is thought to be due to the vacuum assist in the servo. In terms of front-to-rear brake force distribution, at around a 19kg pedal force, the ratio is 60:40. For a high-speed car, the proportion at the front seems somewhat small. The left/right balance of the brakes is extremely well matched.
+
+The parking brake is operated by a walking-stick type handle, and the force required for 0.2g deceleration is 23kg. This too is very easy to operate, and the left/right balance is again well matched.
+
+<b>Magazine:</b> This car does not seem to have a pressure-control valve (PCV) to prevent rear-wheel lockup. Do you have any special reasoning behind that?
+
+<b>Watanabe:</b> The issue of brakes is complicated, and it varies from car to car. For some vehicles, a PCV is absolutely necessary, while for others it offers little benefit. In this car, the front wheels are fitted with disc brakes, and in most cases, the front discs alone aren’t strong enough to dominate the braking force, so under full braking the rear tends to lock, hence the use of a PCV. But this car’s discs are strong enough to handle about 63-70% of braking load, so rear lockup is not a concern.
+
+Also, because the car uses a tandem master cylinder, it must still provide sufficient braking force even if one of the circuits fails. However, in cars fitted with a PCV, there is a possibility that, in the event that only the rear brake circuit is operating, the required braking force cannot be obtained. For that reason, we did not install a PCV in this car.
+
+<b><u>Visibility: Very Good, No Problems</b></u>
+
+<b>Magazine:</b> Next, we would like the visibility measurement data from Professor Hirata’s laboratory at Tokyo University of Agriculture and Technology.
+
+<b>Hirata:</b> For the visibility measurements, we placed a dummy in the driver’s seat, positioned an ultra-wide fisheye lens at the driver’s eyepoint, and then positioned the seat to take photographs in the fore-aft direction and from other angles.
+
+We used three seat positions: fully rearward, fully forward, and the center position. The details can be seen in the accompanying diagrams and photographs. When the seat is set in the center position, the height from the ground to the eyepoint is 114.4cm, and the horizontal distance from the eyepoint (lens cap) to the front windshield is 50cm.
+
+With this setup, the visible range through the front window is 71° horizontally and 27° vertically; the rear window visible range is 56° horizontally and 10° vertically; and the wiper sweep covers 52.5° horizontally. The blind spot, within the horizontal plane that includes the eyepoint, is 71° in total, with 48° in the forward direction.
+
+Expressed in another way, as solid angles, the forward field of view is 1.387 steradians, of which the front window accounts for 0.606 steradians, and the wiper sweep covers 0.382 steradians. The wiper sweep thus covers about 0.631 of the front-window visible area, meaning it wipes roughly 63% of the visible front window. The field of view seen in the rearview mirror is 0.125 steradians, which is a very large value.
+
+<b>Yamamoto:</b> Let me add a bit more explanation. The car’s most distinctive feature is that the seats sit relatively far back from the windshield. Because of that, the measurements don’t show it strongly, but in reality the glass area is quite large, and the perceived field of view feels even more expansive. Also, the rearview mirror is very large. In one sense, that does somewhat interfere with forward visibility. But overall, I think there’s no real problem with visibility. It’s quite good.
+
+<b>Higuchi:</b> It doesn’t show up in the data, but in many cars the rearward view becomes much worse once you add headrests to the rear seats. This car is surprisingly good in that respect. Why is that?
+
+<b>Tsukazaki:</b> The starting point was to create a coupe-style car while still ensuring ride comfort and passenger space. Compared with ordinary coupes or sedans, the rear-seat backrest is set at a much steeper angle, so the rear passengers’ heads sit considerably lower. Also, to preserve the rearward view, we kept the body’s waistline quite low, which makes the overall glass area very large.
+
+<b><u>Rear-Seat Backrest Adjustable In Three Positions</b></u>
+
+<b>Magazine:</b> Now then, please present the dimensional measurements carried out by Higuchi’s laboratory.
+
+<b>Onda:</b> Diagrams are provided separately, but I’ll point out what stood out to me.
+
+The most notable feature of the car’s exterior dimensions is that the doors are very large. It’s a two-door coupe, so naturally, when the door is opened, the opening becomes quite wide. However, once you actually open it, there is no intermediate stop; it swings fully open in one motion. With doors of this size, I think it would be better if there were a step in the opening, so it would pause partway and you could use that while getting in and out. 
+
+Another thing that concerns me is the trunk. With fastback cars, the trunk dimensions are always a challenge, but the way this one opens has been cleverly designed: it is very large and very easy to use. Still, I’d like to see a bit more thought put into the spare tire placement. As it is, you can’t take full advantage of the space.
+
+Also, the roof forms a beautiful curve and looks truly elegant, but there’s no so-called rain gutter above the door. That’s a bit worrisome. Externally, the styling is very clean overall with no protrusions--perhaps that’s why they avoided rain gutters. But even so, the door handle seems a bit too prominent. I believe the show car had a more streamlined handle, and the current one feels rather out of place on this car.
+
+Inside, the rear seat layout and shape seem to have various issues. To sit without bumping your head, you have to move your body forward quite a bit. It’s difficult to get used to that. And on a long-distance tour, that posture would be very uncomfortable.
+
+I realize I’ve been pointing out mostly the problem areas…
+
+<b>Mizusawa:</b> As for making the door open in two stages, you’re absolutely right, and we are currently considering changing it to a two-step opening. And the door handle--the original was a somewhat more unusual type, but after various developments it ended up taking the shape you see now.
+
+<b>Higuchi:</b> What about adding a sliding mechanism to the rear seat?
+
+<b>Hirao:</b> If you raise the front edge of the rear seat a little more, wouldn’t that help? Then people would naturally sit in a more comfortable position…
+
+<b>Tsukazaki:</b> The rear seatback can be adjusted in three steps, so it can be matched to the occupant’s seating position that way.
+
+<b><u>Front Seats With Truly Satisfying Stability and Support</b></u>
+
+<b>Higuchi:</b> Is there any way to do something about the spare tire?
+
+<b>Mizusawa:</b> That’s the most troublesome problem. And since the tire is larger than normal, it feels even more intrusive.
+
+<b>Watanabe:</b> But if you fold down the seatback, you can even fit skis inside, so depending on how you use it, the space should be sufficient as it is.
+
+<b>Higuchi:</b> Also, for this price class, have you considered offering power windows, seats, and so on as options? These would be functional improvements.
+
+<b>Mizusawa:</b> At present, we are not considering it. However, we would like to take it up as a future research subject.
+
+<b>Magazine:</b> We’ve heard the comments about the rear seats. How about the front seats?
+
+<b>Hoshijima:</b> I was quite impressed with them. More than the shape, the way the springs feel when you sit down is very good. There is a sense of stability and support that domestic cars haven’t offered before. However, the door lock position and ashtray placement are poor. The door lock is too far away and hard to reach, and the ashtray is too close to the shift lever, making it awkward to use.
+
+<b>Tateishi:</b> The front seats use a coil-spring structure and are quite luxurious. They are designed with strong lumbar support so that even long continuous drives won’t cause fatigue.
+
+<b>Hirao:</b> If I may be a bit demanding, it would be nice if a center armrest could be deployed at the front. European cars have some extremely well-designed ones. When not in use, they flip up and fit neatly and attractively between the separate seats. If a car feels wonderful the moment you step inside--and with performance to match--then a price of 1.72 million yen wouldn’t feel expensive at all.
+
+<b>Higuchi:</b> Yes, I agree. There are two different approaches: one is the American way, piling on ornate accessories to create a deluxe impression; the other is the approach taken by this car and by European luxury cars, stripping away everything unnecessary, emphasizing simplicity from a functional standpoint, yet still managing to look expensive and high-class. This car clearly follows the latter path. If high-quality materials are used to full effect and the car is assembled with care, I think the desired result can be achieved.
+
+<b><u>An Easy, Five-Hour Nonstop Drive</b></u>
+
+<b>Magazine:</b> Professor Higuchi, how would you evaluate the car from a safety standpoint?
+
+<b>Higuchi:</b> Our lab’s safety checklist consists of 30 items, each scored on a five-point scale from 1 to 5, with 3 considered average. With 30 items, the maximum score is 150 points. This car scored a total of 132 points, which converts to 88 points on a 100-point scale, an excellent result. The checklist itself is actually due for revision, but even so, it’s fair to say that this car is extremely safe.
+
+In this evaluation, almost everything fell into the "excellent" category with scores of 5 or 4, so there’s really very little to criticize. (laughs) If I had to force an objection, it would be that the bumper is made relatively narrow in order to preserve the car’s elegant styling. The bumper height also differs from that of other cars, so adding overriders, or even using larger bumpers like those fitted to US-market Volkswagens, might make it even better.
+
+Of course, that would spoil the styling… (laughs). One more item that scored only 3 points is that there are no grab handles anywhere except at the driver’s seat. There should be grab handles that both the front passenger and those in the rear seats can hold onto. When not in use, they can also serve as coat hooks, so they’re quite practical.
+
+<b>Magazine:</b> The fuel tank capacity is 58 liters, which is among the largest for a domestic car.
+
+<b>Hirao:</b> With that capacity, you could drive non-stop for about five hours. For a grand touring car, that’s really the minimum you’d want.
+
+<b>Editor:</b> Thank you all very much.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-RT-Isuzu-117-Coupe-1969-Gallery" >}}
