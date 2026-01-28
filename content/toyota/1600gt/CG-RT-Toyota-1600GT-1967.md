@@ -130,7 +130,7 @@ The 1600GT's suspension is basically the same as the 1600S Hardtop's, except tha
 
 
 
-The handling is surprisingly good, especially when you remember that it is basically the same suspension as the Corona. The steering, with 3.75 turns from lock to lock, is the same as the Corona, so it keeps the driver's hands a little busy in tight corners, and there is about 5cm of free play at the steering wheel rim when going straight, but once you get used to having to turn the steering wheel that little bit extra when entering corners, it responds surprisingly well. It can even be called precise, and the steering is exceptionally light except when parking. 
+The handling is surprisingly good, especially when you remember that it is basically the same suspension as the Corona. The steering, with 3.75 turns from lock to lock, is the same as the Corona, so it keeps the driver's hands a little busy in tight corners, and there is about 5cm of free play at the steering wheel rim when going straight, but once you get used to having to turn the steering wheel a little more than is desirable when entering corners, it responds surprisingly well. It can even be called precise, and the steering is exceptionally light except when parking. 
 
 
 
