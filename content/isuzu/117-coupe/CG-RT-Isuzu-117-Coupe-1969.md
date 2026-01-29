@@ -6,8 +6,8 @@
 
 
 
-title = "Isuzu 117 Coupe (1970)"
-weight = 30
+title = "Isuzu 117 Coupe (1969)"
+weight = 10
 
 
 
@@ -48,7 +48,7 @@ draft = false
 
 <b>Publication:</b> Car Graphic<br>
 <b>Format:</b> Road Impressions<br>
-<b>Date:</b> January 1970<br>
+<b>Date:</b> January 1969<br>
 <b>Author:</b> "C/G Test Group" (uncredited)
 
 
@@ -71,7 +71,7 @@ draft = false
 
 
 
-Two years ago, at the Tokyo Motor Show, the Isuzu-Ghia-designed 117 Coupe's beautiful shape was first revealed. After that, however, there was no sign whatsoever of the car entering production, raising concerns that it would follow the fate of many show models--admired for a brief moment, only to disappear. Seen now, though, it is clear that during those two years an intense development process was quietly and tirelessly proceeding behind the scenes.
+Two years ago, at the Tokyo Motor Show, the Isuzu-Ghia-designed 117 Coupe's beautiful shape was first revealed. After that, however, no indications were given that the car would enter production, raising concerns that it would share the fate of many show models--admired for a brief moment, only to disappear. Seen now, though, it is clear that during those two years an intense development process was quietly and tirelessly proceeding behind the scenes.
 
 Having now conducted a thorough test of the newly released Isuzu 117 Coupe over a distance of approximately 500km, we realize that the two years we were made to wait were by no means wasted. With some manufacturers, cars that are still effectively in an “extended prototype” stage of development are sometimes released reluctantly, under pressure from the sales department. There are even automotive designers who openly state that they would be afraid to buy such a car immediately after its launch. By contrast, the attitude of those involved in the design and manufacture of the Isuzu 117 Coupe can be described as almost un-modern in its conscientiousness. Until their professional conscience as engineers was satisfied, no matter how forceful the demands may have been, they refused to put a "half-baked" prototype into production.
 

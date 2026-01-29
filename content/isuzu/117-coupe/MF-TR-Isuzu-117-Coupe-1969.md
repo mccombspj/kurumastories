@@ -7,7 +7,7 @@
 
 
 title = "Isuzu 117 Coupe (1969)"
-weight = 10
+weight = 20
 
 
 
@@ -61,7 +61,7 @@ draft = false
 
 <b><u>Isuzu 117 Coupe: High-Speed Tourer</b></u>
 
-At last, Isuzu has released the Isuzu 117 Coupe, the company’s interpretation of the ultimate luxury tourer concept. Its flowing lines, styled by the renowned Italian carrozzeria Ghia, have been eagerly awaited for mass production ever since the car’s appearance at the 13th Tokyo Motor Show. Seizing the opportunity, Motor Fan set out to evaluate the true capabilities of the 117 Coupe, undertaking a demanding 570km touring test over every kind of terrain, including expressways, mountain roads, and rough surfaces.
+At last, Isuzu has released the Isuzu 117 Coupe, the company’s interpretation of the ultimate luxury tourer. Its flowing lines, styled by the renowned Italian carrozzeria Ghia, have been eagerly awaited for mass production ever since the car’s appearance at the 13th Tokyo Motor Show. Seizing the opportunity, Motor Fan set out to evaluate the true capabilities of the 117 Coupe, undertaking a demanding 570km touring test over every kind of terrain, including expressways, mountain roads, and rough surfaces.
 
 <b><u>Through a Rainy Night</b></u>
 
