@@ -31,7 +31,7 @@ draft = false
 
 
 
-<b><u>Comparison Test: Toyota Celica 1600GTV vs. Nissan Bluebird U 1600SSS-E</b></u>
+<b><u>Comparison Test: Toyota Celica 1600GTV vs Nissan Bluebird U 1600SSS-E</b></u>
 
 
 
