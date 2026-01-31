@@ -35,6 +35,9 @@
     <loc>http://localhost:1313/mitsubishi/lancer/cg-fomd-mitsubishi-lancer-1600gsr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/cedric/cg-gt-nissan-cedric-hardtop-gx-vs-toyota-crown-hardtop-super-saloon-1971/</loc>
+    <lastmod>2026-01-30T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/toyota/crown/mf-rt-toyota-crown-hardtop-sl-1969/</loc>
     <lastmod>2026-01-18T04:50:49-07:00</lastmod>
   </url><url>
@@ -161,9 +164,6 @@
     <loc>http://localhost:1313/toyota/celica/cg-ri-toyota-celica-1600gt-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/crown/cg-gt-toyota-crown-hardtop-super-saloon-vs-nissan-cedric-hardtop-gx-1971/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/toyota/crown/cg-rt-toyota-crown-hardtop-sl-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -214,6 +214,9 @@
   </url><url>
     <loc>http://localhost:1313/toyota/carina/cg-rt-toyota-carina-1600gt-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/crown/cg-gt-toyota-crown-hardtop-super-saloon-vs-nissan-cedric-hardtop-gx-1971/</loc>
+    <lastmod>2026-01-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/117-coupe/cg-rt-isuzu-117-coupe-ec-1970/</loc>
     <lastmod>2026-01-29T04:50:49-07:00</lastmod>
@@ -302,26 +305,29 @@
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/cedric/</loc>
+    <lastmod>2026-01-30T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/</loc>
+    <lastmod>2026-01-30T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/crown/</loc>
+    <lastmod>2026-01-30T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/</loc>
+    <lastmod>2026-01-30T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-30T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/isuzu/117-coupe/</loc>
     <lastmod>2026-01-29T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/</loc>
     <lastmod>2026-01-29T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-29T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/bluebird/</loc>
     <lastmod>2026-01-28T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/</loc>
-    <lastmod>2026-01-28T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/crown/</loc>
-    <lastmod>2026-01-18T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/</loc>
-    <lastmod>2026-01-18T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/subaru/leone/</loc>
     <lastmod>2026-01-16T04:50:49-07:00</lastmod>
