@@ -104,6 +104,9 @@
     <loc>http://localhost:1313/toyota/carina/cg-ri-toyota-carina-1600st-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/isuzu/bellett/mf-tdr-isuzu-bellett-1600gtr-1969/</loc>
+    <lastmod>2026-01-30T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/bluebird/mf-tr-nissan-bluebird-1600-coupe-sss-coupe-1969/</loc>
     <lastmod>2026-01-28T04:50:49-07:00</lastmod>
   </url><url>
@@ -305,6 +308,12 @@
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/isuzu/bellett/</loc>
+    <lastmod>2026-01-30T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/isuzu/</loc>
+    <lastmod>2026-01-30T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/cedric/</loc>
     <lastmod>2026-01-30T04:50:49-07:00</lastmod>
   </url><url>
@@ -321,9 +330,6 @@
     <lastmod>2026-01-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/117-coupe/</loc>
-    <lastmod>2026-01-29T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/isuzu/</loc>
     <lastmod>2026-01-29T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/bluebird/</loc>
@@ -421,9 +427,6 @@
   </url><url>
     <loc>http://localhost:1313/toyota/celica/</loc>
     <lastmod>2025-11-02T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/isuzu/bellett/</loc>
-    <lastmod>2025-10-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-fto/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>

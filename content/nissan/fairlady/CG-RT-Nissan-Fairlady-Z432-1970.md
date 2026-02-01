@@ -61,7 +61,7 @@ The interior of this two-seater GT coupe is luxurious, reminiscent of the Jaguar
 
 
 
-All the instruments are recessed deep into the crash padding, but their clean design, with white lettering on a black background, makes them easy to read day or night. In sports cars, the dashboard is generally far away, and drivers often drive with their seat belts fastened, which makes frequently used switches difficult to reach unless careful consideration is given to their placement. In this respect, the Fairlady also passes the test. The lever protruding to the left of the steering column has rotary switches for the lights and wipers, and the tip of the lever incorporates a button for the washer. The headlights and hand throttle are located on the console behind the gear lever, where the driver can operate them from a natural driving position.
+All the instruments are recessed deep into the crash padding, but their clean design, with white lettering on a black background, makes them easy to read day or night. In sports cars, the dashboard is generally far away, and drivers often drive with their seat belts fastened, which makes frequently used switches difficult to reach unless careful consideration is given to their placement. In this respect, the Fairlady also passes the test. The lever protruding to the left of the steering column has rotary switches for the lights and wipers, and the tip of the lever incorporates a button for the washer. The hand throttles are located on the console behind the gear lever, where the driver can operate them from a natural driving position.
 
 
 
