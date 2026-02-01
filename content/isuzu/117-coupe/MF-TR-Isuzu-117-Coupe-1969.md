@@ -209,13 +209,13 @@ The engine’s feel is soft and relaxed. You can cruise comfortably on half thro
 
 <b><u>Climbing the Fuji Subaru Line</b></u>
 
-From Route 139 we headed into Fujiyoshida, and from there made a single, uninterrupted climb up the Fuji Subaru Line to the fifth station of Mount Fuji. Stretching a little over 29 kilometers in length, this fully paved, two-lane highland highway is a first-class scenic road, outstanding both in scale and in the views it offers.
+From Route 139 we headed into Fujiyoshida, and from there made a single, uninterrupted climb up the Fuji Subaru Line to the fifth station of Mount Fuji. Stretching a little over 29km in length, this fully paved, two-lane highland highway is a first-class scenic road, outstanding both in scale and in the views it offers.
 
 As we climbed, the surrounding scenery changed from red pine forests to birch woods, then to open scrubland thick with low shrubs. Higher still, the mountainside turns harsh and barren, strewn with loose volcanic rock.
 
 The fifth station sits at an elevation of 2,340m, and here there was still snow on the ground. Up to this point, we were able to enjoy the 117 Coupe's thoroughbred performance to the fullest. Even pulling second gear up to 90km/h and third to 120km/h, there was still ample power in reserve. Slower cars climbing steadily ahead were reeled in almost effortlessly.
 
-A wonderfully satisfying surge of acceleration constantly urges you on. Body roll in corners is minimal. Although the rear suspension is an orthodox rigid axle located by asymmetric semi-elliptic leaf springs, its road holding is beyond reproach, thanks to the car’s low center of gravity, well-matched tires, and judiciously-chosen spring rates.
+A wonderfully satisfying surge of acceleration constantly urges you on. Body roll in corners is minimal. Although the rear suspension is an orthodox rigid axle located by asymmetric semi-elliptic leaf springs, its road holding is beyond reproach, thanks to the car’s low center of gravity, well-matched tires, and judiciously chosen spring rates.
 
 To prevent wind-up during launch, a torque rod is fitted between the side members and the rear axle housing. Energy is absorbed through the deflection of rubber bushings mounted at both ends of the rod. As a result, it also serves naturally to increase the lateral rigidity of the leaf springs.
 
@@ -263,7 +263,7 @@ One more thing surprised us: even at around 100km/h, opening the window slightly
 
 <b><u>Surprisingly Good Fuel Economy</b></u>
 
-Returning to Fujinomiya, we continued via Route 1 and over the Hakone Pass back to Tokyo. Over the full distance of 573km—368km of which was measured from Lake Yamanaka to Tokyo—the fuel consumption came out to 9.05km/l. The manufacturer cites an average touring fuel economy of 10km/l, and considering how hard we drove on this trip, a typical driver should have no trouble maintaining this figure. For a GT car, it can be considered quite economical.
+Returning to Fujinomiya, we continued via Route 1 and over the Hakone Pass back to Tokyo. Over the full distance of 573km--368km of which was measured from Lake Yamanaka to Tokyo--the fuel consumption came out to 9.05km/l. The manufacturer cites an average touring fuel economy of 10km/l, and considering how hard we drove on this trip, a typical driver should have no trouble maintaining this figure. For a GT car, it can be considered quite economical.
 
 <b>Todoroki:</b> Entering the Tomei, I floored the accelerator to get up to speed. I felt nothing like a sudden jolt of acceleration, but when I looked at the speedometer, I was surprised at how fast we were actually going--that’s the real impression this car gives.
 

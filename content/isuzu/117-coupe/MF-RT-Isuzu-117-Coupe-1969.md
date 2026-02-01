@@ -101,7 +101,7 @@ Every one of these features represents work that carries the full weight of our 
 
 That name turned out to be unexpectedly well received. It sounded good, and it gained a reputation among younger people, so the car ended up becoming known as the 117 Coupe. So, when we decided to release it, the overwhelming opinion was that it would be more effective to keep the name rather than change it. In the end, it was officially decided to use the name "Isuzu 117 Coupe" just as it was.
 
-<b>Hirao:</b> This is a fairly general issue, but in the copy used for passenger-car advertising you often see phrases like "Top speed 200 km/h!" or "0-400m in 16.8 seconds."I’m often asked, particularly by people from what might be called the anti-motorization camp, what does that kind of claim actually mean? They’ll ask, why does a passenger car need that sort of performance?
+<b>Hirao:</b> This is a fairly general issue, but in the copy used for passenger-car advertising you often see phrases like "Top speed 200km/h!" or "0-400m in 16.8 seconds." I’m often asked, particularly by people from what might be called the anti-motorization camp, what does that kind of claim actually mean? They’ll ask, why does a passenger car need that sort of performance?
 
 When that happens, I answer that it has nothing to do with showing off speed. I say that it is a sign of safety.
 
@@ -269,7 +269,7 @@ That is the impression he shared with us.
 
 <b>Oguchi:</b> Since the 117 Coupe is a luxury car, some people might think fuel economy is irrelevant. However, we conducted the same procedures as in other recent Motor Fan tests, measuring two kinds of fuel economy: steady-speed fuel economy and model-operation fuel economy.
 
-The test conditions were the same as before: three people plus instruments. First, the steady-speed fuel economy results are as follows: 16.5km/l at 30km/h, 16.1km/l at 40km/h, 15.5km/l at 50 km/h, 14.8km/l at 60km/h, 14.0km/l at 70 km/h, 13.0km/l at 80km/h, 12.0km/l at 90km/h, and 10.8km/l at 100 km/h. These values have not yet been corrected for speedometer error, so they may vary slightly.
+The test conditions were the same as before: three people plus instruments. First, the steady-speed fuel economy results are as follows: 16.5km/l at 30km/h, 16.1km/l at 40km/h, 15.5km/l at 50km/h, 14.8km/l at 60km/h, 14.0km/l at 70km/h, 13.0km/l at 80km/h, 12.0km/l at 90km/h, and 10.8km/l at 100km/h. These values have not yet been corrected for speedometer error, so they may vary slightly.
 
 Next, I will explain how we measure model-operation fuel economy, which simulates city driving. This is explained in detail in a separate section of this issue, so I will give only a brief summary here.
 
@@ -325,7 +325,7 @@ Naturally, that added weight, and because they are mainly effective in cutting h
 
 <b>Watari:</b> The Florian is an extremely quiet car, and its noise level is a bit lower, but because there were no particular peaks relative to vehicle speed, this was still very good.
 
-<b><u>Aiming for Long-Distance Touring at 120 km/h</b></u>
+<b><u>Aiming for Long-Distance Touring at 120km/h</b></u>
 
 <b>Higuchi:</b> The 117 Coupe did feel a bit loud around 60-80km/h, but as you go up to 100-120km/h, it becomes relatively quieter, doesn’t it?
 
@@ -383,13 +383,13 @@ If you are driving with one or two people, it is truly well balanced, and you ge
 
 <b><u>Remarkably Even Brake Balance</b></u>
 
-<b>Ishikawa:</b> Let's begin with vehicle weight. Measured with spare tire and tools, and with a full tank of fuel (58 liters), the weight is 1100kg. The front-to-rear weight distribution is 55:45. This ratio does not change even when one or two people sit in the front seats. When the car is fully loaded with four occupants, the distribution shifts slightly toward the rear, becoming 51:49, but even then the front remains slightly heavier than the rear. The weight per occupied area is 15.6 kg/m², which is an average value for a car in this class.
+<b>Ishikawa:</b> Let's begin with vehicle weight. Measured with spare tire and tools, and with a full tank of fuel (58 liters), the weight is 1100kg. The front-to-rear weight distribution is 55:45. This ratio does not change even when one or two people sit in the front seats. When the car is fully loaded with four occupants, the distribution shifts slightly toward the rear, becoming 51:49, but even then the front remains slightly heavier than the rear. The weight per occupied area is 15.6kg/m², which is an average value for a car in this class.
 
 Next, wheel alignment. This was measured with a side-slip meter. With only the driver on board, the front wheels have a very slight negative camber, and toe-in is exactly zero. The rear wheels also show a slight camber and zero toe-in. Even with four occupants, these figures hardly change, although the front camber becomes slightly less.
 
 Now, the brakes. The system is the best type currently available, disc brakes on the front wheels and leading-trailing drum brakes on the rear, and the drums are made of Alfin material for excellent heat dissipation. Additionally, the system includes a power servo and a dual-circuit design, and if one circuit fails, a warning light comes on the dashboard. This is a very good safety feature.
 
-As for the data, beginning with pedal stroke, the initial stroke before braking begins is 21mm. The stroke required to generate 0.6g deceleration is 53mm. The pedal effort needed for 0.6g is 19 kg, and even then the stroke is not very long and the effort is relatively low. The spring constant in this region is about 0.87kg/mm, so the brakes feel relatively soft.
+As for the data, beginning with pedal stroke, the initial stroke before braking begins is 21mm. The stroke required to generate 0.6g deceleration is 53mm. The pedal effort needed for 0.6g is 19kg, and even then the stroke is not very long and the effort is relatively low. The spring constant in this region is about 0.87kg/mm, so the brakes feel relatively soft.
 
 Those are the results from bench tests. When tested on the road, the pedal force required to achieve 0.6g from an initial speed of 50km/h becomes even lighter, around 14.0kg. This is thought to be due to the vacuum assist in the servo. In terms of front-to-rear brake force distribution, at around a 19kg pedal force, the ratio is 60:40. For a high-speed car, the proportion at the front seems somewhat small. The left/right balance of the brakes is extremely well matched.
 

@@ -69,7 +69,7 @@ Still, why does it look slightly smaller than its 1300 sedan counterpart? Perhap
 
 
 
-I opened the driver's door. Once again, I thought, "Ah, just as I expected," and settled into the seat. The steering wheel felt great in my hands. The size was just right. I focused my eyes on the dashboard. "So this is what they call a 'flight cockpit..." I looked ahead, straightened my arms, and assumed a driving position. The gauges were very easy to read. It was the kind of thoughtful design that you would expect from Honda, a leader in the racing world.
+I opened the driver's door. Once again, I thought, "Ah, just as I expected," and settled into the seat. The steering wheel felt great in my hands. The size was just right. I focused my eyes on the dashboard. "So this is what they call a 'flight cockpit'..." I looked ahead, straightened my arms, and assumed a driving position. The gauges were very easy to read. It was the kind of thoughtful design that you would expect from Honda, a leader in the racing world.
 
 
 
@@ -93,7 +93,7 @@ When I started racing as a woman, I was driving a Honda S600. Taking part in thi
 
 
 
-There was no point sitting and admiring the interior forever. So I prepared to set off from Fuji Speedway. I turned the key and started the engine. "Hmm... is this definitely air-cooled?" I checked with the editor just to be sure, and he said it was. Considering that, it's very quiet. I wouldn't go far as saying it's quieter than a normal water-cooled engine, but it's quiet enough that it's hard to believe it's air-cooled. They must have put a lot of effort into it. The editor added that it's an OHC system, and I thought, "Of course it is." It's a mechanism that is unique in the world. 
+There was no point sitting and admiring the interior forever. So I prepared to set off from Fuji Speedway. I turned the key and started the engine. "Hmm... is this definitely air-cooled?" I checked with the editor just to be sure, and he said it was. Considering that, it's very quiet. I wouldn't go as far as saying it's quieter than a normal water-cooled engine, but it's quiet enough that it's hard to believe it's air-cooled. They must have put a lot of effort into it. The editor added that it's an OHC system, and I thought, "Of course it is." It's a mechanism that is unique in the world. 
 
 
 
@@ -121,7 +121,7 @@ The position of the shifter is very good, and it was easy to drive with the seat
 
 
 
-Apparently, the release of the 1300 Coupe coincided with revisions to the 1300's engine, with a longer overlap time and revised distributor to improve flexibility and fuel economy. While driving it, I could definitely feel the changes. In hard acceleration through first, second, and third gears, the engine speed doesn't climb as quickly as in previous Hondas. The redline starts at 7500rpm, but even using full throttle, it will only just reach that speed. Without even checking the catalog, just judging from the driving feel, I suspected that maximum torque arrived somewhere around 4500-4700rpm. Later, I looked it up, and it is rated at 11.5kgm at 5000rpm, which is admittedly somewhat higher than other cars of the same class. However, compared to the 3.2kgm/7000rpm of Honda's NIII, I felt that the traditional high-speed character had been significantly reduced. (Note: maximum output is still a high 110ps at 7300rpm.)
+Apparently, the release of the 1300 Coupe coincided with revisions to the 1300's engine, with a reduced overlap time and revised distributor to improve flexibility and fuel economy. While driving it, I could definitely feel the changes. In hard acceleration through first, second, and third gears, the engine speed doesn't climb as quickly as in previous Hondas. The redline starts at 7500rpm, but even using full throttle, it will only just reach that speed. Without even checking the catalog, just judging from the driving feel, I suspected that maximum torque arrived somewhere around 4500-4700rpm. Later, I looked it up, and it is rated at 11.5kgm at 5000rpm, which is admittedly somewhat higher than other cars of the same class. However, compared to the 3.2kgm/7000rpm of Honda's NIII, I felt that the traditional high-speed character had been significantly reduced. (Note: maximum output is still a high 110ps at 7300rpm.)
 
 
 
@@ -233,7 +233,7 @@ I said earlier that even small things can take a considerable amount of time and
 
 
 
-Although it's not directly related to the issue of rationality, this is something that can perhaps be same more broadly about this coupe. That is, it has been equipped with the latest and most fashionable mechanisms, but somehow they didn't all fit together perfectly. Whether you look at the FF mechanism, the air-cooling, the coupe style, or the OHC mechanism, there is nothing that would not stimulate the enthusiasm of young people.
+Although it's not directly related to the issue of rationality, this is something that can perhaps be said more broadly about this coupe. That is, it has been equipped with the latest and most fashionable mechanisms, but somehow they didn't all fit together perfectly. Whether you look at the FF mechanism, the air-cooling, the coupe style, or the OHC mechanism, there is nothing that would not stimulate the enthusiasm of young people.
 
 
 

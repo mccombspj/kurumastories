@@ -89,7 +89,7 @@ However, I did not find the suspension to be problematic, contrary to what my Be
 
 At this point, I began to wonder about the subject of competition. How might the Honda fare as a rally car? I have entered rallies myself with the Renault 8 Gordini. It was an older model, with 1150cc and an output of 105ps, but the new 1300cc model is equipped with a tuned OHV engine delivering 120ps (DIN) and is over 100kg lighter than the Honda 1300.
 
-In its class, the Gordini only just manages to be competitive, so for the Honda 1300 to be competitive as well, it would need to be tuned up to around 130hp. Naturally, the two-door version, being lighter, would make a better base for such tuning.
+In its class, the Gordini only just manages to be competitive, so for the Honda 1300 to be competitive as well, it would need to be tuned up to around 130ps. Naturally, the two-door version, being lighter, would make a better base for such tuning.
 
 In any case, any talk of rally participation seems, at least for now, a matter of the future. I know several young people in Finland who are watching closely, eager to see how the Honda 1300 might be tuned.
 
@@ -103,7 +103,7 @@ Objectively speaking, the handling is somewhat below average, though not alarmin
 
 <b><u>The Honda 1300: Expected to Be Well Received</b></u>
 
-Let us hope that Honda produces a updated version of this car in a special sports specification. A gleaming red two-door model, reduced by 100kg and perhaps fitted with a 1600cc engine, would be easily "homologated" in the class of sporty coupes available in Europe. One can likewise imagine seeing a Japanese car running in the lead in Europe’s major rallies. For a racing journalist, and especially for me, there would be no greater delight than to see a pair of Finnish drivers flashing the victory sign from the winning Honda. Whether it arrives as a sports model or not, there is no doubt that the Honda 1300 will be warmly welcomed in Europe and Finland.
+Let us hope that Honda produces an updated version of this car in a special sports specification. A gleaming red two-door model, reduced by 100kg and perhaps fitted with a 1600cc engine, would be easily "homologated" in the class of sporty coupes available in Europe. One can likewise imagine seeing a Japanese car running in the lead in Europe’s major rallies. For a racing journalist, and especially for me, there would be no greater delight than to see a pair of Finnish drivers flashing the victory sign from the winning Honda. Whether it arrives as a sports model or not, there is no doubt that the Honda 1300 will be warmly welcomed in Europe and Finland.
 
 
 <b><u>Postscript: Story Photos</b></u>

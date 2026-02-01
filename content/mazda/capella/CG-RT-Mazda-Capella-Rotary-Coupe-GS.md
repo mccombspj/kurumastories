@@ -51,7 +51,7 @@ The C/G Capella is a Coupe GS, the highest-performance model (and also the most 
 
 
 
-Without a doubt, the most interesting thing about this car is its rotary engine, so let's start by outlining its design. The 12A type rotary engine is slightly larger than the 10A type used in the Familia Rotary and Cosmo, with a single chamber volume of 573cc (compared to the 10A's 491cc). This was achieved by increasing the width of the rotor housing by 10mm, so that the trochoid radius is the same, and so it can be manufactured using the same machine tooling as the Familia (or Cosmo). The Capella's 12A rotary generates an output of 120ps/6500rpm and a maximum torque of 16.0kgm3500rpm, while the 10A generates 100ps/7000rpm and 13.5kgm/3500rpm in the Familia, or 128ps/7000rpm and 14.2kgm/5500rpm in the Cosmo.  
+Without a doubt, the most interesting thing about this car is its rotary engine, so let's start by outlining its design. The 12A type rotary engine is slightly larger than the 10A type used in the Familia Rotary and Cosmo, with a single chamber volume of 573cc (compared to the 10A's 491cc). This was achieved by increasing the width of the rotor housing by 10mm, so that the trochoid radius is the same, and so it can be manufactured using the same machine tooling as the Familia (or Cosmo). The Capella's 12A rotary generates an output of 120ps/6500rpm and a maximum torque of 16.0kgm/3500rpm, while the 10A generates 100ps/7000rpm and 13.5kgm/3500rpm in the Familia, or 128ps/7000rpm and 14.2kgm/5500rpm in the Cosmo.  
 
 
 
@@ -59,7 +59,7 @@ There were only three days between delivery of the car and the scheduled test at
 
 
 
-First, let's look at the numbers. The C/G top speed test is a tough one, with the car running continuously flat-out on the Yatabe course, measuring the average speed on the 1km straight section and the 5.5km circuit (the top speeds announced by manufacturers are either instantaneous figures achieved for only a few moments, or figures calculated on paper). The Capella recorded a consistent average speed of 187.5km/h over the 1km straight section, and 186.6km/h over the 5.5km circuit. It is literally the fastest domestic practical car that C/G has ever tested, and even if we include GT cars, the only domestic car faster than the Capella is the old Fairlady 2000, which sacrificed everything else for performance. 
+First, let's look at the numbers. The C/G top speed test is a tough one, with the car running continuously flat-out on the Yatabe course, measuring the average speed on the 1km straight section and the 5.5km circuit (the top speeds announced by manufacturers are either instantaneous figures achieved for only a few moments, or figures calculated on paper). The Capella recorded a consistent average speed of 187.5km/h over the 1km straight section, and 186.6km/h over the 5.5km circuit. It is the fastest domestic practical car that C/G has ever tested, and even if we include GT cars, the only domestic car faster than the Capella is the old Fairlady 2000, which sacrificed everything else for performance. 
 
 
 

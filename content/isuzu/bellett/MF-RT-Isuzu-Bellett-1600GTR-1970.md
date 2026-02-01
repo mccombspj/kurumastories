@@ -33,7 +33,7 @@ draft = false
 
 <b>Magazine: </b>To get things started, I would like to ask Mr. Shimizu about the aims of developing the Bellett 1600GTR.
 
-<b>Shimizu:</b> This car was released in the fall, and at that time, some people were of the opinion that a car like this would not sell well. However, we received unexpected support from young people after we released it, so we feel glad that we did. Since the aim was to develop a high-performance car, we had to be thoughtful both technically and in terms of manufacturing, and we studied a great deal about safety as well. Thank you for giving us this opportunity today. I would like to take this opportunity to learn a lot from you.
+<b>Shimizu:</b> This car was released in the fall, and at that time, some people were of the opinion that a car like this would not sell well. However, we received unexpected support from young people after we released it, so we feel glad that we did. Since our aim was to develop a high-performance car, we had to be thoughtful both technically and in terms of manufacturing, and we studied a great deal about safety as well. Thank you for giving us this opportunity today. I would like to take this opportunity to learn a lot from you.
 
 As for the aim of the design, we have been making Belletts for six years now. We made the GT first, which stood out from the beginning with its floor shift and other sporty design features, and then moved on to the 1300 and 1600. However, the performance of GTs made by other companies kept gradually improving, so if we remained at the same level, we would have fallen behind in terms of performance. By coincidence, the 1600cc DOHC engine was ready for mass production after the introduction of the 117 Coupe, and the price was also coming down. We made this car by adding this engine and filling in the gaps.
 
@@ -55,9 +55,9 @@ In terms of design, the exterior has an air scoop on the hood at the front, and 
 
 Other small improvements include a day/night switching rearview mirror, a wooden shift knob for the gear lever, a clock with a second hand, a defogger with a heat wire printed on the rear window, and high-speed wipers. Needless to say, we also included a collapsible steering and flexible fender mirrors.
 
-In terms of the chassis, the drive system has been strengthened to match the increased torque of the engine. This includes a strengthened clutch, and the transmission has a higher gear ratio for first gear, and a stronger universal rear axle shaft. A limited-slip differential and radial tires are also used. In the braking system, emphasis has been placed on stabilizing the front and rear brake distribution by combining a tandem master cylinder with a hydromaster and using a pressure control valve for the rear wheels.
+In terms of the chassis, the drive system has been strengthened to match the increased torque of the engine. This includes a strengthened clutch, and the transmission has a higher gear ratio for first gear, and a stronger universal rear axle shaft. A limited-slip differential and radial tires are also used. In the braking system, emphasis has been placed on stabilizing the front and rear brake distribution by combining a tandem master cylinder with a Hydromaster servo and using a pressure control valve for the rear wheels.
 
-<b><u>0 to 400m: 16.4 Seconds</b></u>
+<b><u>0-400m: 16.4 Seconds</b></u>
 
 <b>Magazine:</b> The GTR's style is based on the Bellett GT, but the matte finish on the hood and sporty stripes on the sides give it an even more powerful and rugged look.
 
@@ -109,11 +109,11 @@ In terms of the chassis, the drive system has been strengthened to match the inc
 
 The interior noise level is 67 hones at 40km/h, 72 hones at 80km/h, 76 hones at 100km/h, and 81 hones at 160km/h. Outside the car, the noise level is 70.5 hones when driving steadily, and 79 hones when accelerating. The exterior noise is very quiet for a GT, and considering high-speed noise and other factors, I think these are good results.
 
-<b>Watari:</b> I'm not sure the GTR is the kind of car that focuses on ride quality in the normal sense, other than maintaining flat cornering, or on interior noise. However, when I drove it, there was a lot of engine vibration and noise at idle . Once I started driving, I didn't notice the noise, but if I was going to drive long distances on the highway, I think that would be an issue.
+<b>Watari:</b> I'm not sure the GTR is the kind of car that focuses on ride quality in the normal sense, other than maintaining flat cornering, or on interior noise. However, when I drove it, there was a lot of engine vibration and noise at idle. Once I started driving, I didn't notice the noise, but if I was going to drive long distances on the highway, I think that would be an issue.
 
 From the point of view of "husband's specifications," I think this car has just the right vibration and noise levels, peaking at low speeds, high speeds, and medium speeds, but there is one problem. I don't like the vibrations at idle, and I think that's because the engine mountings are too stiff. Is there any reason for this? I wonder if, if they're not stiff enough, there will be problems with linear motion of the engine. 
 
-<b>Kaneju:</b> It's not that much of a problem. With this kind of car, the space around the engine gets tighter and tighter, so it's designed to prevent the engine interfering with or contacting other parts under the hood while driving. If it hits something, you get a shock, and it's stressful on the components as well, but the vibration at idle isn't relaxing either. I don't know if I can say that it's just the nature of the car, but it is a GTR, after all, so it's a little worse at idle than a normal sedan, and I think it's inevitable that you'll notice that for the time being. 
+<b>Kaneju:</b> It's not that much of a problem. With this kind of car, the space around the engine gets tighter and tighter, so it's designed to prevent the engine from interfering with or contacting other parts under the hood while driving. If it hits something, you get a shock, and it's stressful on the components as well, but the vibration at idle isn't relaxing either. I don't know if I can say that it's just the nature of the car, but it is a GTR, after all, so it's a little worse at idle than a normal sedan, and I think it's inevitable that you'll notice that for the time being. 
 
 <b>Hirao:</b> Well, it can't be helped how the valve timing was chosen. It revs up to 7000rpm.
 
@@ -127,7 +127,7 @@ From the point of view of "husband's specifications," I think this car has just 
 
 <b>Hirao:</b> In terms of noise and vibration, it would be much easier to live with this engine with an overdrive gear. As it is, it turns about 4000 rpm at 120km/h. If you could drive normally at those speeds at just under 3000rpm, it would make a big difference. In that sense, having an overdrive is a big advantage.
 
-<b>Hoshijima:</b> I first saw the Bellett GTR in 1968. It was called "GTX" then, and it was entered in an endurance race at Suzuka. Since then, it has mainly participated in endurance races, but I was very interested in it because I always thought it would be interesting to put a 117 engine in a Bellett. However, at first it had a difficult time finishing races, and every time something went wrong and it had to retire. In 1969, the distances it could complete gradually increased, and in August it won the overall championship. Soon after, it was released in its production form under the name GTR. I was very interested in the fact that the endurance race itself had been used as a testing ground for development, and I think it was very good way to promote it to the market.
+<b>Hoshijima:</b> I first saw the Bellett GTR in 1968. It was called "GTX" then, and it was entered in an endurance race at Suzuka. Since then, it has mainly participated in endurance races, but I was very interested in it because I always thought it would be interesting to put a 117 engine in a Bellett. However, at first it had a difficult time finishing races, and every time something went wrong and it had to retire. In 1969, the distances it could complete gradually increased, and in August it won the overall championship. Soon after, it was released in its production form under the name GTR. I was very interested in the fact that the endurance race itself had been used as a testing ground for development, and I think it was a very good way to promote it to the market.
 
 When I drove the car after it was released, the first thing I noticed was how quiet it was. However, below 40km/h it felt similar to what you describe when idling, and the noise and vibration there is no different from when the engine is first started, so this is unavoidable. However, the sound around 3000rpm is very quiet. And while it is true that it can be a little noisy when driving at around 120km/h, it is quiet above or below that speed. In particular, the quietness at 130km/h and 140km/h is almost unparalleled. It was definitely around 70 hones at that point.
 
@@ -213,7 +213,7 @@ On the way back, Furutani was driving, and it seemed that the hardest part was w
 
 <b>Hirao:</b> That's right. It poses a big problem for the driver. 
 
-<b>Higuchi:</b> There is a correlation between the seat height and the angle of the footrest, and I think it the footrest needs to be more upright. This close, flat footrest would only work if the seat was much higher. The most fundamental thing is whether it matches the overall height of the seat. 
+<b>Higuchi:</b> There is a correlation between the seat height and the angle of the footrest, and I think the footrest needs to be more upright. This close, flat footrest would only work if the seat was much higher. The most fundamental thing is whether it matches the overall height of the seat. 
 
 <b>Hirao:</b> I think the lower edge of the footrest should be moved 20mm forward. I think that would solve the pedal problem.
 

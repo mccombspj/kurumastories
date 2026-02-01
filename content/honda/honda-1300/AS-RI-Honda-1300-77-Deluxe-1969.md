@@ -104,7 +104,7 @@ The suspension is MacPherson type in the front and a novel cross beam type in th
 
 
 
-Also, because it is a front-wheel drive car, understeer is inevitable, but how about the weight of the steering? To put it politely, it's like a racing car, but to put it less kindly, it's like a truck. The steering mechanism is a rack and pinion type, with a gear ratio of 17.6:1. However, while it doesn't waver in a straight line, it requires considerable strength in corners. The effort doesn't get softer even at low speeds. This calibration is questionable for a car that is aimed not only at enthusiasts, but also at general private-owner demand.
+Also, because it is a front-wheel drive car, understeer is inevitable, but how about the weight of the steering? To put it politely, it's like that of a racing car, but to put it less kindly, it's like that of a truck. The steering mechanism is a rack and pinion type, with a gear ratio of 17.6:1. However, while it resists wavering in a straight line, it requires considerable strength in corners. The effort doesn't get softer even at gentle speeds. This calibration is questionable for a car that is aimed not only at enthusiasts, but also at general private-owner demand.
 
 
 

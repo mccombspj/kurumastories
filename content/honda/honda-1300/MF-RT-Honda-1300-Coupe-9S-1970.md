@@ -323,7 +323,7 @@ In terms of ride comfort and up-and-down vibration, the sprung frequency of 1.5H
 
 
 
-The car we took measurements on was the 9S, which has slightly stronger rear dampers. The sound is exactly the same as the 7, but the automatic model's noise level peaks at 90km/h, while the 9S peaks at a slightly higher speed. This is partly due to the gear ratios, and partly because the automatic model has a different muffler, ad the exhaust shape is slightly different than that of the manual transmission model.
+The car we took measurements on was the 9S, which has slightly stronger rear dampers. The sound is exactly the same as the 7, but the automatic model's noise level peaks at 90km/h, while the 9S peaks at a slightly higher speed. This is partly due to the gear ratios, and partly because the automatic model has a different muffler, and the exhaust shape is slightly different than that of the manual transmission model.
 
 
 
@@ -347,7 +347,7 @@ The car we took measurements on was the 9S, which has slightly stronger rear dam
 
 
 
-<b>Magazine:</b> Next, we'd like to task for the results of the fuel economy tests.
+<b>Magazine:</b> Next, we'd like to ask for the results of the fuel economy tests.
 
 
 
@@ -355,7 +355,7 @@ The car we took measurements on was the 9S, which has slightly stronger rear dam
 
 
 
-The model operating fuel consumption is 11.5km/l at an average speed of 22.8km/h in a simulated 40km/h speed zone, and 9.6km/l at an average speed of 25.4km/h in when the speed zone is 60km/h. 
+The model operating fuel consumption is 11.5km/l at an average speed of 22.8km/h in a simulated 40km/h speed zone, and 9.6km/l at an average speed of 25.4km/h when the speed zone is 60km/h. 
 
 
 
@@ -379,7 +379,7 @@ On minor expressways, it's about 20-30% better. The fuel economy I recorded late
 
 
 
-<b>Mabuchi:</b> As part of the CO² countermeasures implemented at the end of last year, we made small changes to the carburetor and the hot-air intake control system, so I think it's better than when we measured the sedan last year.
+<b>Mabuchi:</b> As part of the CO countermeasures implemented at the end of last year, we made small changes to the carburetor and the hot-air intake control system, so I think it's better than when we measured the sedan last year.
 
 
 
@@ -479,11 +479,11 @@ The engine is large, so it has a big effect. I think if the engine was smaller, 
 
 
 
-<b>Mori:</b> Yes, there is some of that.
+<b>Mori:</b> Yes, there is some truth to that.
 
 
 
-<b>Higuchi:</b> It's perfectly safe for people who have a proactive attitude about driving safely, but dangerous for people with a passive attitude towards safe driving. 
+<b>Higuchi:</b> It's perfectly safe for people who think proactively about driving safely, but dangerous for people with a passive attitude towards safe driving. 
 
 
 
@@ -523,7 +523,7 @@ When it comes to FF, perhaps because people are not as used to it as they are to
 
 
 
-<b>Ishikawa:</b> The weight is 921kg with spare tire and tools, with a weight distribution of 62% at the front and 38% at the rear. The measured weight at the left front wheel is about 15kg heavier than the front right, while the rear is the same on both sides. With five people on board, the weight distribution if 55:45. The wheel alignment is such that there is a medium amount of toe-in when one person is on board; with give people on board, the toe-in decreases.
+<b>Ishikawa:</b> The weight is 921kg with spare tire and tools, with a weight distribution of 62% at the front and 38% at the rear. The measured weight at the left front wheel is about 15kg heavier than the front right, while the rear is the same on both sides. With five people on board, the weight distribution if 55:45. The wheel alignment is such that there is a medium amount of toe-in when one person is on board; with five people on board, the toe-in decreases.
 
 
 
@@ -535,7 +535,7 @@ The front brakes are working hard, and the front-to-rear brake distribution is e
 
 
 
-The pedal force at 0.6g deceleration is approximately 25g in bench tests, but the road test results show that it is a very light 14kg. 
+The pedal force at 0.6g deceleration is approximately 25kg in bench tests, but the road test results show that it is a very light 14kg. 
 
 
 

@@ -80,7 +80,7 @@ Opening the bonnet reveals two cam covers with a crackle-black finish. This DOHC
 
 The connecting rods, pistons, and flywheel have also been made lighter, and the high-speed, durable five-bearing construction gives it a maximum power of 120ps/6400rpm. The maximum torque of 14.5kgm is achieved at a high speed of 5000rpm, but the setting is such that torque of over 13kgm is maintained over a wide speed range from 2200rpm to 6600rpm. This is a result of careful consideration given to the selection of the cam profile (valve opening and closing angle), carburetor jets, and exhaust manifold length to achieve the sharp torque curve of a racing engine.
 
-The production process of this G161W engine is different from that of mass-produced general purpose engines. However, the engine block is the same as the G161 engine of the Bellett 1600GT. Initially, the head was changed to a double cam unit and finely tuned for racing. This was the DOHC that the Isuzu team used in the formula race at the 1968 Japanese Grand Prix, and after further testing, this racing engine was further detuned to become the GTR's power unit.
+The production process of this G161W engine is different from that of mass-produced general-purpose engines. However, the engine block is the same as the G161 engine of the Bellett 1600GT. Initially, the head was changed to a double cam unit and finely tuned for racing. This was the DOHC that the Isuzu team used in the formula race at the 1968 Japanese Grand Prix, and after further testing, this racing engine was further detuned to become the GTR's power unit.
 
 <b><u>Sporty Interior and Exterior</b></u>
 
@@ -88,7 +88,7 @@ Tsutsumi: "Regarding the driving position, the bucket seats with headrests are p
 
 Yoneyama: "This is true of all Belletts, but the steering column is mounted up too high. When you're driving long distances, you naturally get tired and your hands lose grip and drop."
 
-On the front right of the dashboard there is a speedometer marked up to 220km/h, and on the left is a tachometer marked to 8000rpm. The yellow zone is from 6500 to 7000rpm, and anything above 7000rpm is the red zone. To the left of that are small gauges for oil pressure, oil temperature, and current lined up in a row. All of the gauges are simple, with white markings and needles on a black background.
+On the front right of the dashboard there is a speedometer marked up to 220km/h, and on the left is a tachometer marked to 8000rpm. The yellow zone is from 6500-7000rpm, and anything above 7000rpm is the red zone. To the left of that are small gauges for oil pressure, oil temperature, and current lined up in a row. All of the gauges are simple, with white markings and needles on a black background.
 
 Tsutsumi: "The layout and size of the gauges are excellent. The markings on the speedometer seem too detailed. The smaller gauges for oil pressure and oil temperature have wider scales and are easier to read. The pedals are a little heavy."
 
@@ -110,7 +110,7 @@ Since the GTR can be raced with just a few modifications, it would have been bet
 
 <b><u>It's Up to You to Unleash the Potential</b></u>
 
-We left the expressway at Kawaguchiko Interchange and headed towards the Fuji Subaru Line. This side of Mt. Fuji already had a strong autumnal feeling, and the wind brushing my face was quite cold. As soon as we entered the Fuji Subaru Line, it started to rain. The baton was passed from Yoneyama back to Tsutsumi. and he raced down the rainy Subaru Line at speeds of 70 to 80km/h in second and third gear.
+We left the expressway at Kawaguchiko Interchange and headed towards the Fuji Subaru Line. This side of Mt. Fuji already had a strong autumnal feeling, and the wind brushing my face was quite cold. As soon as we entered the Fuji Subaru Line, it started to rain. The baton was passed from Yoneyama back to Tsutsumi, and he raced down the rainy Subaru Line at speeds of 70-80km/h in second and third gear.
 
 The GTR's 4-speed transmission is operated with a short shift lever. It is a close-ratio type with second, third, and fourth gears close together. The final gear ratio is 3.73. At 5000rpm, where the maximum torque is achieved, the speeds in each gear are 42km/h in first, 74km/h in second, 105km/h in third, and 145km/h in fourth.
 
@@ -143,6 +143,6 @@ The limited-slip differential is also very effective in racing, as it ensures dr
 As a "wolf," the GTR needs powerful brakes to match its engine performance. The manufacturer's claim that "a light touch provides sharp braking" proved to be a fitting description. It seems that what impressed the Tsutsumi/Yoneyama due the most about the GTR was the brakes' great feel.
 
 Tsutsumi/Yoneyama: "The brakes are outstanding. They're very effective and light. You can race with these brakes just as they are." 
-The brakes that have earned this praise are discs with hydromasters at the front, Alfin drums with a pressure control valve at the rear, and a dual master cylinder, all supported by a comprehensive range of safety mechanisms.
+The brakes that have earned this praise are discs with Hydromaster servo at the front, Alfin drums with a pressure control valve at the rear, and a dual master cylinder, all supported by a comprehensive range of safety mechanisms.
 
-The Bellett 1600GTR, which was born from racing, has been reborn as a car that offers a high level of maneuverability and livability for general grand touring. However, it is easy to transform it back into a "king of the circuit." The Bellett GTR has an impeccable history and pedigree, so when it is tuned up to the right level and its true "wolf" potential is unleashed, it will undoubtedly be a fearsome presence on the track. You may the one to wake up the sleeping wolf.
+The Bellett 1600GTR, which was born from racing, has been reborn as a car that offers a high level of maneuverability and livability for general grand touring. However, it is easy to transform it back into a "king of the circuit." The Bellett GTR has an impeccable history and pedigree, so when it is tuned up to the right level and its true "wolf" potential is unleashed, it will undoubtedly be a fearsome presence on the track. You may be the one to wake up the sleeping wolf.

@@ -95,11 +95,11 @@ The rack-and-pinion steering feels a little heavy at low speeds, but the respons
 
 
 
-This feeling is especially noticeable when speeding down a winding road. There is almost no body roll even in fast cornering, and the radial tires have good grip. This allows you to maintain a deceptively rapid pace, as I once experienced while driving on a winding section of the Metropolitan Expressway. The traffic around me seemed to have suddenly slowed down, and it was not until I glanced at the speedometer that I realized I was going at a quite a high speed. The stiff suspension demonstrated outstanding handling for a swing axle layout, and although the slight initial understeer turned into final oversteer at the limit, the tail slide was easily controlled with delicate application of the throttle.
+This feeling is especially noticeable when speeding down a winding road. There is almost no body roll even in fast cornering, and the radial tires have good grip. This allows you to maintain a deceptively rapid pace, as I once experienced while driving on a winding section of the Metropolitan Expressway. The traffic around me seemed to have suddenly slowed down, and it was not until I glanced at the speedometer that I realized I was going at quite a high speed. The stiff suspension demonstrated outstanding handling for a swing axle layout, and although the slight initial understeer turned into final oversteer at the limit, the tail slide was easily controlled with delicate application of the throttle.
 
 
 
-Although the handling is excellent, it is inevitable that ride comfort is sacrificed to some extent. The stiff springs and stiff tires pick up the unevenness of the road surface clearly, and the steering is rough in its kickback, though the leather-wrapped wheelrim absorbs it to some extent to isolate it from your hands.
+Although the handling is excellent, it is inevitable that ride comfort is sacrificed to some extent. The stiff springs and stiff tires pick up the unevenness of the road surface clearly, and the steering is rough in its kickback, though the leather-wrapped wheel rim absorbs it to some extent to isolate it from your hands.
 
 
 
@@ -107,7 +107,7 @@ The springs also feel stiff on unpaved country roads, where there is some bounci
 
 
 
-The brakes are a front disc/rear Alfin drum combination, with highly fade-resistant pads. These type M33S pads (M59 on the GT) require more pedal effort, and a vacuum servo has been added to compensate. A pressure control valve has also been added to prevent the rear wheels from locking too early under sudden braking, improving their dependability at high speeds. In city driving, the pedal effort is still heavy, but the stability at high speeds and the smooth, progressive braking feel are excellent. The front-to-rear balance is also good, and there is no servo lag. The floor-mounted handbrake is also easy to use.
+The brakes are a front disc/rear Alfin drum combination, with highly fade-resistant pads. These Type M33S pads (M59 on the GT) require more pedal effort, and a vacuum servo has been added to compensate. A pressure control valve has also been added to prevent the rear wheels from locking too early under sudden braking, improving their dependability at high speeds. In city driving, the pedal effort is still heavy, but the stability at high speeds and the smooth, progressive braking feel are excellent. The front-to-rear balance is also good, and there is no servo lag. The floor-mounted handbrake is also easy to use.
 
 
 

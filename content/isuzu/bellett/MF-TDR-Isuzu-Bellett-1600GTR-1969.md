@@ -52,7 +52,7 @@ draft = false
 <b>Author:</b> Jun Todoroki
 
 
-<b><u>A Long-Awaited Prformance Car</b></u>
+<b><u>A Long-Awaited Performance Car</b></u>
 
 The Bellett GT, alongside the former Prince Skyline 2000GT, once enjoyed almost unrivaled status as an idol for car-obsessed youth. First introduced in the autumn of 1964 as a sporting variant of the Bellett, which had debuted the previous year, its smart body shell has possessed a unique ability to captivate enthusiasts with a taste for sports cars at their most impressionable age. Even now, five years after its introduction, its crisp, purposeful lines show little sign of aging.
 
