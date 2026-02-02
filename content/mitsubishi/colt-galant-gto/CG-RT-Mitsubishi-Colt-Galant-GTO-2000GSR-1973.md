@@ -61,7 +61,7 @@ draft = false
 
 
 
-<b>Summary:</b> Engine enlarged to 2 liters and 125ps, good low- and mid-range torque, easy to use around town, acceleration performance surpasses that of DOHC 1.6-liter MR except at highway speeds. Excellent 5-speed gearbox. Fifth gear can be used often, good fuel economy on the highway, average maneuverability despite 5J rims and 185/70R-13 radials, brake force greatly reduced, good seats.
+<b>Summary:</b> Engine enlarged to 2 liters and 125ps, good low- and mid-range torque, easy to use around town, acceleration performance surpasses that of DOHC 1.6-liter MR except at highway speeds. Excellent 5-speed gearbox. Fifth gear can be used often, good fuel economy on the highway, average maneuverability despite 5J rims and 185/70R-13 radials, brake pedal effort greatly reduced, good seats.
 
 
 

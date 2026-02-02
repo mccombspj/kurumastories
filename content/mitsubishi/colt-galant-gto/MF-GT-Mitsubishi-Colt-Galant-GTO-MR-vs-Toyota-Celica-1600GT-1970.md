@@ -14,10 +14,10 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Group Test<br>
 <b>Date:</b> November 1970<br>
-<b>Author:</b> Yutaka Kazato, Hiroshi Okazaki, Toshimasa Sugawara, Motor Fan Editorial Staff (uncredited)
+<b>Author:</b> Yutaka Kazato, Hiroshi Okazaki, Yoshimasa Sugawara, Motor Fan Editorial Staff (uncredited)
 
 
-At Fuji Speedway, racing driver Hiroshi Kazato, car commentator Hiroshi Okazaki, and Toshimasa Sugawara, president of Racing Management Co. Ltd.--now also known as the "Motor Fan Fresh Trio"--gathered to drive the latest 1.6-liter DOHC specialty cars. The two cars on offer were the Mitsubishi Galant GTO and the Toyota Celica 1600GT.
+At Fuji Speedway, racing driver Hiroshi Kazato, car commentator Hiroshi Okazaki, and Yoshimasa Sugawara, president of Racing Management Co. Ltd.--now also known as the "Motor Fan Fresh Trio"--gathered to drive the latest 1.6-liter DOHC specialty cars. The two cars on offer were the Mitsubishi Galant GTO and the Toyota Celica 1600GT.
 
 Three drivers, two cars. All wearing white suits and red stripes. As it happened, the GTO MR and Celica 1600GT unexpectedly appeared before the Fresh Trio outfitted in the same colors, and the discussion of specialty cars immediately began.
 
@@ -47,7 +47,7 @@ Three drivers, two cars. All wearing white suits and red stripes. As it happened
 
 <b><u>On the Highway</b></u>
 
-The GTO and Celica set off from Tokyo at dusk, heading for Hakone, drawing many looks from passersby and other cars. The Fresh Trio took turns at the wheel, and sped down the Tomei Expressway, the two low white specialty cars weaving through the traffic on the highway like water striders. We arrived at our lodging in Hakone much earlier than planned.
+The GTO and Celica set off from Tokyo at dusk, heading for Hakone, drawing many looks from passersby and other cars. The Fresh Trio took turns at the wheel, speeding down the Tomei Expressway, the two low white specialty cars weaving through the traffic on the highway like water striders. We arrived at our lodging in Hakone much earlier than planned.
 
 <b>Sugawara:</b> I think the Celica is ahead of the Galant in terms of styling. But I think they both managed to come up with a unique style within similar dimensions.
 
@@ -61,7 +61,7 @@ The GTO and Celica set off from Tokyo at dusk, heading for Hakone, drawing many 
 
 <b>Okazaki:</b> To achieve high performance with small engines, I think that the pursuit of aerodynamics will escalate even more in the future for Japanese cars. The reason why American cars have such large engines, but their acceleration at high speeds and top speeds are not as good as you would expect, is because of their large bodies, which are at a disadvantage aerodynamically.
 
-<b>Sugawara:</b> Comparing the styling of these two cars, the Galant has a much more youthful feel. It suits people in their twenties. The Celica has a wider age range. It seems like it can appeal to people from twenties to late thirties.
+<b>Sugawara:</b> Comparing the styling of these two cars, the Galant has a much more youthful feel. It suits people in their twenties. The Celica has a wider age range. It seems like it can appeal to people from their twenties to their late thirties.
 
 <b>Kazato:</b> The Galant has a "hot" image, and even looking at the interior, there is a strong impression that the Galant is a car for young people. 
 
@@ -113,9 +113,9 @@ Next was the 0-400m acceleration test. However, perhaps because of the poor cond
 
 Next was a 4.3km race around the course in a counterclockwise direction. The three drivers put on their racing suits and helmets and immediately took to the course. This time, the times were better than expected.
 
-<b>Kazato:</b> With a car of this performance level, it can be quite fun driving on the track even in its stock condition.
+<b>Kazato:</b> With a car of this performance level, it can be quite fun driving on the track even in stock condition.
 
-<b>Sugawara:</b> Yes, it was fun. But the differential of the Celica starting making strange noises right away, and the oil temperature of the Galant rose so quickly that we couldn't continue driving, which was unfortunate. I wish we could have stayed on the track a little longer.
+<b>Sugawara:</b> Yes, it was fun. But the differential of the Celica started making strange noises right away, and the oil temperature of the Galant rose so quickly that we couldn't continue driving, which was unfortunate. I wish we could have stayed on the track a little longer.
 
 <b>Kazato:</b> The engine of the Galant wasn't quite run in properly yet. After driving at full throttle for about two laps, the needle on the oil temperature gauge suddenly exceeded the limit.
 
@@ -125,7 +125,7 @@ Next was a 4.3km race around the course in a counterclockwise direction. The thr
 
 <b>Okazaki:</b> The Galant also has better cornering performance. It has a slight understeer and the drift angle can be controlled freely. The speed in the 100R corner was also faster. In terms of handling, the Galant is much better.
 
-<b>Kazato:</b> When driving at around town speeds, the Celica has little understeer and the steering is light and comfortable, but as you increase the speed, the understeer gets stronger. Grip at the rear is strong, so you can't get power oversteer, which makes it was very difficult to drive.
+<b>Kazato:</b> When driving at around town speeds, the Celica has little understeer and the steering is light and comfortable, but as you increase the speed, the understeer gets stronger. Grip at the rear is strong, so you can't get power oversteer, which makes it very difficult to drive.
 
 <b>Sugawara:</b> However, I felt that the Galant's tendency to power oversteer in corners was a little too strong.
 
@@ -155,7 +155,7 @@ The final test was on a rough road. The cars kicked up a lot of dirt, with feroc
 
 <b>Okazaki:</b> In other words, the Galant is more suited to professionals, and the Celica is more suited to amateurs.
 
-<b>Kazato:</b> Anyway, whether on pavement or dirt, the Galant is much more sporty. The Galant is definitely the one for young people. On the other hand, if you want to enjoy touring, the Calica is more relaxed.
+<b>Kazato:</b> Anyway, whether on pavement or dirt, the Galant is much more sporty. The Galant is definitely the one for young people. On the other hand, if you want to enjoy touring, the Celica is more relaxed.
 
 <b>Okazaki:</b> I guess that's the conclusion. Anyway, the Celica is 850,000 yen and the Galant is 1,125,000 yen, so there's a difference of 250,000 yen, and that difference is a bit steep. 
 

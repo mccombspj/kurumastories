@@ -25,7 +25,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> August 1967<br>
-<b>Author:</b> Kenichi Yamamoto, Mamoru Watanabe, Osamu Hirao, Masahi Kondo, Kazuo Kumabe, Atsushi Watari, Kenji Higuchi, Kazuo Takada, Akio Miyamoto, Yasuhisa Minagawa, Saburo Araki, Yasuhei Oguchi, Mineo Yamamoto, Toshihide Hirata, Masataka Matsui, Minoru Onda, Motor Fan Editorial Staff (uncredited)
+<b>Author:</b> Kenichi Yamamoto, Mamoru Watanabe, Osamu Hirao, Masashi Kondo, Kazuo Kumabe, Atsushi Watari, Kenji Higuchi, Kazuo Takada, Akio Miyamoto, Yasuhisa Minagawa, Saburo Araki, Yasuhei Oguchi, Mineo Yamamoto, Toshihide Hirata, Masataka Matsui, Minoru Onda, Motor Fan Editorial Staff (uncredited)
 
 
 

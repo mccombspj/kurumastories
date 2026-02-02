@@ -35,7 +35,7 @@ draft = false
 
 
 
-The Galant GTO series consists of three models: MI, MII, and MR. All three models share the same body, which is cleverly styled like a Ford Mustang shrunk to 1.6-liter size, but each has a different engine. All have a capacity of 1597cc (with a bore increased by 2.4mm over the Galant AI's 1499cc, but a still-longer stroke at 76.9 x 86mm). However, the MI and MII are SOHC, while the hottest MR has a completely newly designed DOHC head. Output is 100ps/6300rpm for the single-carburetor MI (lower than the Galant AII's 105ps/67--rpm), 110ps/6700rpm for the twin-SU MII, and 125ps/6800rpm for the DOHC twin-Solex MR. The MI and MII have the same 4-speed gearbox as the AII, but the MR model comes standard with a 5-speed and a torque rod for the rear suspension. Prices are significantly higher than the Galant Hardtop GS, at 786,000, 843,000, and 1,125,000 yen, respectively. 
+The Galant GTO series consists of three models: MI, MII, and MR. All three models share the same body, which is cleverly styled like a Ford Mustang shrunk to 1.6-liter size, but each has a different engine. All have a capacity of 1597cc (with a bore increased by 2.4mm over the Galant AI's 1499cc, but a still-longer stroke at 76.9 x 86mm). However, the MI and MII are SOHC, while the hottest MR has a completely newly designed DOHC head. Output is 100ps/6300rpm for the single-carburetor MI (lower than the Galant AII's 105ps/6700rpm), 110ps/6700rpm for the twin-SU MII, and 125ps/6800rpm for the DOHC twin-Solex MR. The MI and MII have the same 4-speed gearbox as the AII, but the MR model comes standard with a 5-speed and a torque rod for the rear suspension. Prices are significantly higher than the Galant Hardtop GS, at 786,000, 843,000, and 1,125,000 yen, respectively. 
 
 
 
@@ -75,7 +75,7 @@ The first thing we noticed when we got the MII out on the road was that, contrar
 
 
 
-Setting aside its noise and general roughness, the GTO's power performance is at the level one expects from a 1.6-liter sports coupe. Since we didn't conduct instrumented testing this time, we can't directly compare it to the AII GS sedan we previously tested at Yatabe, but intuitively at least, the GTO has the advantage. Output is up by 5ps (4.8%), while torque is up by 6%. At the same time, the weight of the car has increased by 50kg, so the power-to-weight ratio has slightly worsened (from 8.14kg/ps to 8.45kg/ps), but the air resistance has been significantly reduced. The gearbox and final drive are the same as that of the AII GS, but the 155SR-13 radial tires have a slightly smaller effective radius than the GS's 6.15-13 bias-plies. As a result, the overall gearing slightly lower, which should favor acceleration. 
+Setting aside its noise and general roughness, the GTO's power performance is at the level one expects from a 1.6-liter sports coupe. Since we didn't conduct instrumented testing this time, we can't directly compare it to the AII GS sedan we previously tested at Yatabe, but intuitively at least, the GTO has the advantage. Output is up by 5ps (4.8%), while torque is up by 6%. At the same time, the weight of the car has increased by 50kg, so the power-to-weight ratio has slightly worsened (from 8.14kg/ps to 8.45kg/ps), but the air resistance has been significantly reduced. The gearbox and final drive are the same as that of the AII GS, but the 155SR-13 radial tires have a slightly smaller effective radius than the GS's 6.15-13 bias-plies. As a result, the overall gearing is slightly lower, which should favor acceleration. 
 
 
 
@@ -94,7 +94,7 @@ The GTO is unusual in having an oil temperature gauge, so we made a point of obs
 
 
 
-The Galant series has a well-established reputation for good fuel economy, and this test of the GTO was no exception. On the day of the test, we drove at our usual fairly brisk pace along the Tomei, Hakone, Fuji and Chuo Expressways along with another test car, the Skyline 2000GT-R, achieving an average of 8.35km/l over the 324km measured section (the GT-R returned 6.5km/l). Our CO² test was not strictly accurate as the engine's idle fluctuated between 600 and 800rpm, but the readings from the test equipment fluttered around 4%, which would place it just within the acceptable limit.
+The Galant series has a well-established reputation for good fuel economy, and this test of the GTO was no exception. On the day of the test, we drove at our usual fairly brisk pace along the Tomei, Hakone, Fuji and Chuo Expressways along with another test car, the Skyline 2000GT-R, achieving an average of 8.35km/l over the 324km measured section (the GT-R returned 6.5km/l). Our CO test was not strictly accurate as the engine's idle fluctuated between 600 and 800rpm, but the readings from the test equipment fluttered around 4%, which would place it just within the acceptable limit.
 
 
 

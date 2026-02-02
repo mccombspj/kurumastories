@@ -163,7 +163,7 @@ Mitsubishi has been doing extensive wind tunnel testing for a long time, but esp
 
 <b>Nakamura:</b> The basic idea of ​​a long stroke and a spherical combustion chamber is the same. That is, a spherical combustion chamber allows for larger intake and exhaust valves, and has good intake efficiency. A long stroke also gives good low-speed performance, and when combined with an OHC, it also gives good high-speed performance. There is not much difference in piston speed with this bore-stroke ratio. In terms of pollution issues, there is an advantage in that the surface area of ​​the combustion chamber is reduced by combining a long stroke and a spherical combustion chamber, and the surface area of ​​the combustion chamber is reduced as much as possible, resulting in fewer hydrocarbons. The surface area of ​​the combustion chamber is about three-quarters that of a wedge type.
 
-Also, a long stroke allows the engine to be made more compact. There are three types of engines for this GTO: MI, MII, and MR. All of them have had their displacement increased through a bore-up of the sedan engine. The MR is a DOHC, but the cylinder block has been kept as similar as possible to the the MI and MII. The bore-up has made the bore-stroke ratio about 1.1. The MR can reach 6800 rpm, and the MII can reach 6700 rpm. We've tried to make sure that the horsepower doesn't drop even in that area.
+Also, a long stroke allows the engine to be made more compact. There are three types of engines for this GTO: MI, MII, and MR. All of them have had their displacement increased through a bore-up of the sedan engine. The MR is a DOHC, but the cylinder block has been kept as similar as possible to the MI and MII. The bore-up has made the bore-stroke ratio about 1.1. The MR can reach 6800 rpm, and the MII can reach 6700 rpm. We've tried to make sure that the horsepower doesn't drop even in that area.
 
 We've also lowered the compression ratio by 0.5 in each, to 8.5 for the MI, and 9.5 for the MII and MR. The reason for this is that we can use low-octane gasoline just by retarding the ignition advance.
 
@@ -179,7 +179,7 @@ Engine weight is almost the same as the sedan's 1500cc, with an increase of abou
 
 <b>Magazine:</b> What's the piston speed?
 
-<b>Nakamura:</b> About 16.5m at 7000rpm.
+<b>Nakamura:</b> About 16.5m/s at 7000rpm.
 
 <b>Hirao:</b> It gets pretty loud when you pull it up to 7000rpm.
 
@@ -221,7 +221,7 @@ On dirt roads, it transitions into oversteer relatively quickly, but the corneri
 
 <b>Doi:</b> The practical minimum turning radius is 5.125m on the outside and 2.684m on the inside, which is the smallest value in this class. The stationary steering effort is on the low side for a car with radial tires, and the maximum values ​​on the left and right were 17kg and 15kg.
 
-The data on understeer and oversteer characteristics has not yet been compiled, but when I accelerated in a circle on the skidpad at Yatabe, I felt strong understeer. The μ of that skid pad is low, so the rear wheels began slipping from about 50 to 60 km/h, but it was easy to control and I didn't feel uneasy.
+The data on understeer and oversteer characteristics has not yet been compiled, but when I accelerated in a circle on the skidpad at Yatabe, I felt strong understeer. The μ of that skid pad is low, so the rear wheels began slipping from about 50-60 km/h, but it was easy to control and I didn't feel uneasy.
 
 The roll rate has not yet been calculated, but it is about 3.0 to 3.5 degrees in the photos, and according to in-house data it is 3.37 degrees with five people on board, so I think the roll rate is low.
 
@@ -229,7 +229,7 @@ We conducted the free-release stability test up to 140km/h, and at 100km/h, the 
 
 <b>Magazine:</b> Is the strong understeer by design?
 
-<b>Moriya:</b> When V² is 100m²/S², it is normal to have a result around 1.37 to 1.40, so we are within that normal range.
+<b>Moriya:</b> When V² is 100m²/s², it is normal to have a result around 1.37 to 1.40, so we are within that normal range.
 
 <b>Okazaki:</b> Even if you try really hard to turn in, the rear doesn't slide and you end up going off front-first.
 
@@ -301,7 +301,7 @@ We conducted the free-release stability test up to 140km/h, and at 100km/h, the 
 
 <b>Magazine:</b> How were the brakes?
 
-<b>Ishikawa:</b> We tested the brakes' initial effectiveness as well as their resistance to fade. The effectiveness test was done at 50km/h, 100km/h, and 130km/h, with deceleration ranging from 0.2g to 0.6g, and up to 0.8g at 50km/h. The results were that the 0.2g pedal force was about 7kg at 50km/h and 100km/h, and the 0.4g pedal force was about 15kg. The 0.6g pedal force was about 27kg at 50km/h and about 30kg at 100km/h. At 130km/h, the 0.2g was the same, but at 0.4g it was 15kg at the beginning, and increased to about 35kg just before stopping. At 0.6g it was about 35kg at the beginning and about 45kg at the end. The brake type is front disc, rear leading/trailing drum, with PCV on the rear, master back, double circuit, so I think the increased pedal force is due to the servo reaching its rest point.
+<b>Ishikawa:</b> We tested the brakes' initial effectiveness as well as their resistance to fade. The effectiveness test was done at 50km/h, 100km/h, and 130km/h, with deceleration ranging from 0.2g to 0.6g, and up to 0.8g at 50km/h. The results were that the 0.2g pedal force was about 7kg at 50km/h and 100km/h, and the 0.4g pedal force was about 15kg. The 0.6g pedal force was about 27kg at 50km/h and about 30kg at 100km/h. At 130km/h, the 0.2g was the same, but at 0.4g it was 15kg at the beginning, and increased to about 35kg just before stopping. At 0.6g it was about 35kg at the beginning and about 45kg at the end. The brake type is front disc, rear leading/trailing drum, with PCV on the rear, master-back servo, double circuit, so I think the increased pedal force is due to the servo reaching its rest point.
 
 The fade test showed a fairly large increase in pedal force, from about 16-20kg on the first stop, to around 30kg on the fifth stop, and around 35kg on the ninth stop, but even when stopping from around 100km/h it is fairly easy to control. Recovery was good. Also, I tried applying full brakes from 80km/h, but the rear wheels did not lock up. 
 
