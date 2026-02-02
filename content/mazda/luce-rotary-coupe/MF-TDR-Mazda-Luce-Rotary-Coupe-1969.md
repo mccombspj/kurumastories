@@ -72,7 +72,7 @@ draft = false
 
 From the Cosmo Sport to the Familia Rotary series, Toyo Kogyo's mission of "rotaryization" is steadily showing signs of success.
 
-The Luce Rotary Coupe is an attempt to further upgrade their rotary technology and apply it to luxury passenger cars. This car, which debuted at the Tokyo Motor Show two years ago under the name RX87, has lines similar to the Luce in appearance, but in terms of overall quality, it should be seen as a car that concentrates all of Toyo Kogyo's technology into one vehicle and serves as the fuse for the upcoming rotary offensive. 
+The Luce Rotary Coupe is an attempt to further upgrade their rotary technology and apply it to luxury passenger cars. This car, which debuted at the Tokyo Motor Show two years ago under the name RX87, has lines similar to the Luce in appearance, but in terms of overall quality, it should be seen as a car that concentrates all of Toyo Kogyo's technology into one vehicle and serves as the spark for the upcoming rotary offensive. 
 
 <b><u>Styling Makes a Strong First Impression</b></u>
 
@@ -170,7 +170,7 @@ When I was accelerating, I let the engine rev too far and the tachometer went in
 
 When I tried using engine braking on the descent at Hakone, I felt that the engine braking was not very effective, a typical characteristic of rotary engines. On a reciprocating engine car, the engine braking would have been immediately effective just by downshifting from top gear to third, but on this car it felt like this had almost no effect, and only finally worked when I shifted down to second. In this sense, the feeling is similar to that of a two-stroke engine. 
 
-As a result, you have no choice but to rely on the wheel brakes. Fortunately, the brakes, with discs at the front, leading/trailing drums at the rear, a master back vacuum booster, and a tandem master cylinder, work very well with only light pedal pressure. The feel is exquisite, and it was one of my favorite features of this car.
+As a result, you have no choice but to rely on the wheel brakes. Fortunately, the brakes, with discs at the front, leading/trailing drums at the rear, a masterback vacuum booster, and a tandem master cylinder, work very well with only light pedal pressure. The feel is exquisite, and it was one of my favorite features of this car.
 
 Simply achieving "light pedal pressure" is not difficult at all. However, to achieve a good braking effect while making delicate control easy with even lighter pedal pressure requires advanced technology. Also, because this car is FF, the static front wheel load is heavy and the rear wheel load is light, so when braking, the rear wheel load becomes especially light, which can easily cause the rear wheels to lock and result in dangerous tail sliding. To prevent this, a proportioning valve is provided to automatically prevent the rear wheels from locking.
 

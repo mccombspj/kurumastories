@@ -59,7 +59,7 @@ First, when you step on the accelerator, the rpm climbs to its limit in an insta
 
 Second, compared to ordinary piston engine vehicles, acceleration in reaction to the throttle is extremely sensitive regardless of which gear you are in.
 
-Driving the Cosmo, it's hard to believe that this is a 1000cc car. It officially has 110 horsepower, and it certainly has at least that much. It goes without saying that it performs much better than the many 45-50 horsepower pushrod 1000cc cars out there.
+Driving the Cosmo, it's hard to believe that this is a 1000cc car. Its official output is 110ps, and it certainly has at least that much. It goes without saying that it performs much better than the many 45-50 horsepower pushrod 1000cc cars out there.
 
 The factory test track has a straight section just under 1000m long, but I was able to easily reach 150km/h without having to fully utilize the engine or over-rev it. With four forward gears, I rarely felt a lack of horsepower. However, I did notice a slight drop in engine power in second gear during high-speed turns, but this was likely simply due to fuel starvation in the engine. This could easily be remedied by raising the float level on the carburetor somewhat.
 

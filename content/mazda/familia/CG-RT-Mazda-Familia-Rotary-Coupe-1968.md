@@ -29,7 +29,7 @@ draft = false
 
 
 
-<b>Summary:</b>Car Graphic purchased the Mazda Familia Rotary Coupe as soon as it was released, and immediately began our customary long-term practical testing. Our magazine has already purchased the Toyota Corolla, Bluebird 1300, Lotus Europa, and Nissan Laurel one after the other, and is conducting controlled tests from a strictly objective standpoint while also putting them to use in daily life. The Familia Rotary Coupe is our fifth attempt to evaluate a new model through this method of long-term practical testing.
+<b>Summary:</b> Car Graphic purchased the Mazda Familia Rotary Coupe as soon as it was released, and immediately began our customary long-term practical testing. Our magazine has already purchased the Toyota Corolla, Bluebird 1300, Lotus Europa, and Nissan Laurel one after the other, and is conducting controlled tests from a strictly objective standpoint while also putting them to use in daily life. The Familia Rotary Coupe is our fifth attempt to evaluate a new model through this method of long-term practical testing.
 
 
 
@@ -41,7 +41,7 @@ draft = false
 
 
 
-Our conclusion after testing the Familia Rotary Coupe for about 2,000km is that, as far as power performance is concerned, it can be summed up in one word: "exceptional." On the 5.5km test course at Yatabe, our test car recorded a maximum speed of 184.0km/h (measured by fifth wheel speedometer), an average speed of 179.7km/h over the 400m section (measured by photocell), a 0-400m time of 17.2 seconds, and a time to 160km/h of 33.4 seconds, which is almost as fast as the standard Lotus Elan. Moreover, while the Lotus is a pure two-seater sports car, the Rotary Coupe is a completely practical five-seat (at least legally) coupe, and above all, it is a low-priced car at 700,000 yen. 
+Our conclusion after testing the Familia Rotary Coupe for about 2,000km is that, as far as power performance is concerned, it can be summed up in one word: "exceptional." On the 5.5km test course at Yatabe, our test car recorded a maximum speed of 184.0km/h (measured by fifth-wheel speedometer), an average speed of 179.7km/h over the 400m section (measured by photocell), a 0-400m time of 17.2 seconds, and a time to 160km/h of 33.4 seconds, which is almost as fast as the standard Lotus Elan. Moreover, while the Lotus is a pure two-seater sports car, the Rotary Coupe is a completely practical five-seat (at least legally) coupe, and above all, it is a low-priced car at 700,000 yen. 
 
 
 
@@ -121,7 +121,7 @@ The official seating capacity is five people, but the Rotary Coupe is effectivel
 
 
 
-The Familia has an unusually good ventilation system for a low-priced car, and the Coupe version uses the same system, but without the triangular window. There are vents on both sides of the dash and in the footwell. These is extremely effective, and on the highway, even in hot weather, you can keep the windows closed and still get a decent amount of fresh air. However, after driving on the highway for a while, the floor gradually becomes hot, eventually making the interior temperature unpleasant. This is apparently because the exhaust pipe runs close to the floor, and it's a shame, since the ventilation itself is good.
+The Familia has an unusually good ventilation system for a low-priced car, and the Coupe version uses the same system, but without the triangular window. There are vents on both sides of the dash and in the footwell. These are extremely effective, and on the highway, even in hot weather, you can keep the windows closed and still get a decent amount of fresh air. However, after driving on the highway for a while, the floor gradually becomes hot, eventually making the interior temperature unpleasant. This is apparently because the exhaust pipe runs close to the floor; it's a shame, since the ventilation itself is good.
 
 
 

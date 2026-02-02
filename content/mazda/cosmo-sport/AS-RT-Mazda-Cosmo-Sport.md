@@ -37,11 +37,11 @@ Robert Dunham, an American driver living in Japan, test-drove the revolutionary 
 
 
 
-I've been in the car business for twenty years, and in racing for ten years, and as a result, I've found that very few cars truly excite me.
+I've been in the car business for twenty years, and in racing for ten years, and as a result, I've found that very few cars now truly excite me.
 
-No matter how nimble and fast a Formula car is, it doesn't excite me, and an Indy car only gives me a sense of beastly power and intimidation. 
+No matter how nimble and fast a Formula car is, it doesn't excite me; nor does an Indy car, which only gives me a sense of beastly power and intimidation. 
 
-The Group 7 two-seater racers are just machines built to do a job, except for the Chaparral, which fascinates me with its unique engineering and futuristic design. The Nissan R380 and Daihatsu P-5 don't particularly interest me. I have a lot of respect for the Porsche 906 (Carerra 6), but there's probably nothing among this year's prototypes that can beat Pete Brock's Samurai.
+The Group 7 two-seater racers are just machines built to do a job, except for the Chaparral, which fascinates me with its unique engineering and futuristic design. The Nissan R380 and Daihatsu P-5 don't particularly interest me. I have a lot of respect for the Porsche 906 (Carrera 6), but there's probably nothing among this year's prototypes that can beat Pete Brock's Samurai.
 
 When I turn my attention to production sports cars, neither the Jaguar E-Type, TR4, Fairlady, nor the Toyota 2000GT excite me. These are commercial sports cars aimed at the general public, and are not truly cars for enthusiasts. The Volvo P1800 is interesting in terms of design, but unfortunately, I am not satisfied with the power. I somehow like the Mustang fastback. But if I had $6,000 (2,160,000 yen) to spend, I would buy a Porsche 912. Why? Because it offers the joy of controlling a unique, sophisticated machine.
 
@@ -57,7 +57,7 @@ Our drive began on July 13th. The Cosmo that Toyo Kogyo's Tokyo branch had prepa
 
 The first thing that impressed me about the Cosmo was its outstanding acceleration and the smoothness of changing up and down through the gears. Apart from a Porsche, this was the easiest and smoothest shifting gearbox I have ever experienced in any car. The short shift throws made quick gearchanges easy. The clutch is very firm, but not stiff or tiresome. Driving in Tokyo requires constant stops, starts, and gearchanges, but in the Cosmo, I was able to push through the morning rush hour with ease.
 
-I met Noriko Uchida just 20 minuts before our departure, and was delighted to learn that she also knows a thing or two about cars. She would be the perfect navigator for the test.
+I met Noriko Uchida just 20 minutes before our departure, and was delighted to learn that she also knows a thing or two about cars. She would be the perfect navigator for the test.
 
 At the entrance to the Third Keihin Expressway, we stopped to check the tire pressure, gasoline, and oil, and during that time I also checked the instruments and other things to familiarize myself with the shift points, handling, braking, and so on. Although my legs are much longer than most people's, I quickly found that by adjusting the seat and steering wheel, I could find a comfortable driving position.
 
@@ -67,7 +67,7 @@ What surprised me at the first gas stop was that the Cosmo performed perfectly w
 
 <b><u>Eyes Flock to the New Engine</b></u>
 
-When we first filled up with gas in Ebisu, a huge crowd immediately gathered around the Cosmo, including the gas station staff and customers. I think there were two reasons for this: the attractive looks of both the new Mazda Cosmo, and Uchida-san. I can't say which was prettier. But seriously, every time our car stopped, people surrounded it, their eyes shining with curiosity, and they would usually ask us to open the hood and show them the Cosmo's engine.
+When we first filled up with gas in Ebisu, a huge crowd immediately gathered around the Cosmo, including the gas station staff and customers. I think there were two reasons for this: the attractive looks of both the new Mazda Cosmo, and Uchida-san. I can't say which was prettier. But truly, every time our car stopped, people surrounded it, their eyes shining with curiosity, and they would usually ask us to open the hood and show them the Cosmo's engine.
 
 I don't know if it was due to Toyo Kogyo's effective advertising or the merits of the car itself. But what can be clearly said is that everyone knew that this was a rotary engine car. A completely new engine! It was different from any engine that had come before! It produced power that was incomparable to other engines in the same class! And it was made in Japan! Who wouldn't be interested in that?
 
@@ -79,7 +79,7 @@ It is a well-known fact that the Cosmo's rotary engine was produced with technic
 
 <b><u>Acceleration in the Rain</b></u>
 
-The Cosmo's styling is modern and attractive, and makes the car look more lightweight than it is. The actual weight of 950kg is a little too heavy, to be honest. As for the color, I think that the blueish icy blue-white of the prototype I drove matches this car better than cream-white. In the near future, monthly production will reach 100 units. Why is such mass production necessary? Because mass production will help reduce costs. To sell to the general public, the price will need to be close to 1 million yen.
+The Cosmo's styling is modern and attractive, and makes the car look more lightweight than it is. The actual weight of 950kg is a little too heavy, to be honest. As for the color, I think that the icy blue-white of the prototype I drove matches this car better than cream-white. In the near future, monthly production will reach 100 units. Why is such mass production necessary? Because mass production will help reduce costs. To sell to the general public, the price will need to be close to 1 million yen.
 
 I was surprised to learn that the Fairlady is sold in smaller numbers domestically than it is exported. The Toyota 2000GT probably won't sell very well in Japan either. Honda's S series is popular with young people, but its size is too small to be called a sports car.
 
@@ -94,10 +94,10 @@ In fact the Cosmo's acceleration performance in each gear was excellent. The max
 
 <b><u>Excellent High-Speed Cornering</b></u>
 
-The mechanism of the rotary engine is very simple. Therefore, its reliability should be better than a normal piston engine, and it should be cheaper to maintain and adjust. One significant thing is that there is almost no engine noise, and the feeling ir gives while driving is comfortable, sporty, and powerful. There is no tappet noise or valve noise, so I didn't have to shout to have a conversation with Ms. Uchida in the passenger seat.
+The mechanism of the rotary engine is very simple. Therefore, its reliability should be better than a normal piston engine, and it should be cheaper to maintain and adjust. One significant thing is that there is almost no engine noise, and the feeling it gives while driving is comfortable, sporty, and powerful. There is no tappet noise or valve noise, so I didn't have to shout to converse with Ms. Uchida in the passenger seat.
 
 By the time we reached the exit off the Third Keihin Expressway, we decided that our next destination would be Chigasaki. Here are our impressions (mine and Ms. Uchida's) from the drive between Yokohama and Chigasaki.
-FIrst, the driving position is suitable for people of all sizes, so no matter how long you drive, you never feel tired. This a big difference compared to the Jaguar, TR4, and Stingray.
+First, the driving position is suitable for people of all sizes, so no matter how long you drive, you never feel tired. This a big difference compared to the Jaguar, TR4, and Stingray.
 
 Second, the position of the shift lever is also very good. As mentioned above, gearchanges were extremely smooth, but there was occasionally a gear crunching noise when trying to quickly downshift from top to third gear.
 
