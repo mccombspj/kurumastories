@@ -33,11 +33,11 @@ The hot model of the Skyline 2000GT, the GT-R, has been released onto the market
 
 <b><u>Exciting Sounds</b></u>
 
-The Skyline 2000G-R, a hot GT car eagerly awaited by sports car enthusiasts, was finally released on February 21st.
+The Skyline 2000GT-R, a hot GT car eagerly awaited by sports car enthusiasts, was finally released on February 21st.
 
 The engine of the GT-R is based on the inline six-cylinder, DOHC, 4-valve per cylinder engine of the racing prototype Nissan R380 that debuted in 1965, during the days of the old Prince Motor Company, and went on to achieve numerous victories in domestic races, while making great strides in both performance and body design.
 
-The toughness of the first-generation Skyline GT awkened the dormant motorsports spirit of Japan.  And what kind of impact will the reborn New Skyline GT-R have on the current motorsports world? We asked Seiichi Suzuki (SCCN), who had just returned from competing in the Daytona Cytolas 250 Mile Race, to test the car to its limits and comment on its performance.
+The toughness of the first-generation Skyline GT awakened the dormant motorsports spirit of Japan.  And what kind of impact will the reborn New Skyline GT-R have on the current motorsports world? We asked Seiichi Suzuki (SCCN), who had just returned from competing in the Daytona Citrus 250 Mile Race, to test the car to its limits and comment on its performance.
 
 We planned a 570km long tour from Tokyo to Suzuka, heading west on the Tomei Expressway and National Route 1, and, of course, some tough circuit driving at Suzuka Circuit.
 
@@ -51,7 +51,7 @@ The center console has an ammeter and a fuel gauge lined up in front, a cigarett
 
 Suzuki turned the key. The engine started up immediately with a roar. The engine, which is equipped with three twin-choke Solex carburetors, idled at about 1000 rpm. Along with the dry sound of air being sucked into the intake, the heavy combustion sounds of the six-cylinder engine resonated off the surrounding walls.
 
-We put on the three-point seat belts as the GT-R climbed out of the interchange onto the Tomei Expressway in first gear, then second, without any hesitation. As soon as we entered the main line, Suzuki stepped hard the accelerator. The needle on the tachometer jumped up along with the exhaust note.
+We put on the three-point seat belts as the GT-R climbed out of the interchange onto the Tomei Expressway in first gear, then second, without any hesitation. As soon as we entered the main line, Suzuki stepped hard on the accelerator. The needle on the tachometer jumped up along with the exhaust note.
 
 Amazing acceleration. Into third gear, then to fourth. Even before it reached 4000rpm, the speed was already exceeding 100km/h. And it was incredibly stable. It was clear that it would be impossible for this docile-looking GT-R to reveal its true wolf-like nature on public roads.
 
@@ -93,7 +93,7 @@ And the accelerator?
 
 How about the brakes?
 
-They require a lot of pedal force. If you get into this car thinking it's a normal sports car, you might be surprised. But all racing cars are like this. For use off the circuit, you can just install the optional master back (power booster)." For example, unlike the GT-R, the Bluebird SSS comes standard with a master back. But when you're racing, you remove it. This makes heel-and-toeing easier and also reduces weight.
+"They require a lot of pedal force. If you get into this car thinking it's a normal sports car, you might be surprised. But all racing cars are like this. For use off the circuit, you can just install the optional master back (power booster). For example, unlike the GT-R, the Bluebird SSS comes standard with a master back. But when you're racing, you remove it. This makes heel-and-toeing easier and also reduces weight."
 
 From this point of view, it is clear that the GT-R is a car that can be driven on the street, but is primarily intended for racing.
 
@@ -115,11 +115,11 @@ Here, Seiichi Suzuki pushed the GT-R at a pretty fast pace.
 
 We found that, in hard cornering with the GT-R, if you just rely on the brakes and steering, you'll end up with understeer. But by using heel-and-toe for each corner and keeping the power down at the drive wheels, the understeer turns into neutral steering, allowing you to smoothly turn the corner and exit at high speed.
 
-What was particularly noteworthy here was the versatility of the spring rate settings. Even though we were cornering quite hard, there was almost no unpleasant body roll, yet I didn't notice any bumps in the road at all. Seiichi Suzuki says, "This is probably due to the seat spring material as well as the low-profile tires, which are quite effective."
-­­­­­­­­­­­­­­­­­­
-There was heavy traffic congestion for about 10km from Numazu to Fuji Interchange on the Tomei Expressway. We drove slowly throughout that stretch, but there was no sign of the plugs fouling or engine slowdown, and the spark ignition was fine even when we got on the Tomei Expressway and gave the engine full throttle.
+What was particularly noteworthy here was the versatility of the spring rate settings. Even though we were cornering quite hard, there was almost no unpleasant body roll, yet I didn't notice any bumps in the road at all. Seiichi Suzuki says, "This is probably due to the seat spring material as well as the low-profile tires, which are quite effective." 
 
-However, as mentioned above, the front disc brakes do not have a vcuum booster, so braking in crowded areas requires a lot of force.
+­­­­­­­­­­­­­­­There was heavy traffic congestion for about 10km from Numazu to Fuji Interchange on the Tomei Expressway. We drove slowly throughout that stretch, but there was no sign of the plugs fouling or engine slowdown, and the spark ignition was fine even when we got on the Tomei Expressway and gave the engine full throttle.
+
+However, as mentioned above, the front disc brakes do not have a vacuum booster, so braking in crowded areas requires a lot of force.
 
 "It's easier to have a master back when driving around town, but it's also helpful to reduce the weight when taking part in races if you can reduce the 'certified weight' as much as possible when getting the vehicle homologated. Therefore, I agree with the idea of ​​making the booster an option," said Suzuki.
 

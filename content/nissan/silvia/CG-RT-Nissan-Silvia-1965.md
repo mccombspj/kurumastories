@@ -134,15 +134,15 @@ Nissan Motors exhibited a beautiful semi-custom sports coupe based on the Fairla
 
 
 
-The Silvia is basically derived from the Datsun Fairlady, and the chassis is the same except for minor improvements to accommodate the coupe body. The frame (the one from the old Bluebird 310, reinforced with an X-member) is also unchanged except for the tail being shortened due to fit the short rear overhang. The suspension is also unchanged with independent coil springs and unequal length wishbones at the front, and a rigid axle with leaf springs in the rear, but the front brakes are now Dunlop Mk II type discs (diameter 284mm), and as a result the track has been widened by 57mm to 1270mm only in the front. The wheels have also been enlarged from 13" to 14". The tires are 5.60-14.
+The Silvia is basically derived from the Datsun Fairlady, and the chassis is the same except for minor improvements to accommodate the coupe body. The frame (originally from the old Bluebird 310, reinforced with an X-member) is also unchanged except for the tail being shortened to fit the short rear overhang. The suspension is also unchanged with independent coil springs and unequal length wishbones at the front, and a rigid axle with leaf springs in the rear, but the front brakes are now Dunlop Mk II type discs (diameter 284mm), and as a result the track has been widened by 57mm to 1270mm only in the front. The wheels have also been enlarged from 13" to 14". The tires are 5.60-14.
 
 
 
-The engine is basically the same OHV inline Four-cylinder as the Fairlady, but the bore has been enlarged and the stroke shortened from 80mm x 74mm to 87mm x 67mm, and the cylinder volume has been increased from 1488cc to 1595cc. At the same time, the shape of the intake manifold has been refined to reduce intake resistance, and the type of metal used for the large end of the connecting rods is now F770. The resulting compression ratio is now 9.0, and while still using two Hitachi SU-type carburetors, power output has increased from 80ps/5600rpm to 90ps/6000rpm, and the torque has increased from 12.0kgm/4000rpm to 13.5kgm/4000rpm.  
+The engine is basically the same OHV inline four-cylinder as the Fairlady, but the bore has been enlarged and the stroke shortened from 80mm x 74mm to 87mm x 67mm, and the cylinder volume has been increased from 1488cc to 1595cc. At the same time, the shape of the intake manifold has been refined to reduce intake resistance, and the type of metal used for the large end of the connecting rods is now F770. The resulting compression ratio is now 9.0, and while still using two Hitachi SU-type carburetors, power output has increased from 80ps/5600rpm to 90ps/6000rpm, and the torque has increased from 12.0kgm/4000rpm to 13.5kgm/4000rpm.  
 
 
 
-What is most noteworthy about the Silvia is the power train behind the engine. The single-plate dry clutch with an outer diameter of 200mm has a diaphragm spring instead of a coil. Furthermore, the 4-speed transmission has full synchromesh of a servo type patented by Porsche in West Germany. The gear ratios, with the Fairlady's in parentheses for reference, are 3.382 (3.515), 2.013 (2.140), 1.312 (1.328), and 1.000 (same), which are closer than the Fairlady. The final drive ratio has been reduced from 3.89 to 4.11 because the wheels are 1" larger, but 3.89 gears are still available as an option.
+What is most noteworthy about the Silvia is the power train behind the engine. The single-plate dry clutch with an outer diameter of 200mm has a diaphragm spring instead of a coil. Furthermore, the 4-speed transmission has full synchromesh of a servo type patented by Porsche in West Germany. The gear ratios, with the Fairlady's in parentheses for reference, are 3.382 (3.515), 2.013 (2.140), 1.312 (1.328), and 1.000 (same), which are closer than the Fairlady. The final drive ratio has been reduced from 3.89 to 4.11 because the wheels are one inch larger, but 3.89 gears are still available as an option.
 
 
 
@@ -154,7 +154,7 @@ The carefully prepared test car, fitted with Bridgestone racing tires, recorded 
 
 
 
-<b><u>Road impressions</b></u>
+<b><u>Road Impressions</b></u>
 
 
 
@@ -162,23 +162,23 @@ Now that I'm writing up the Silvia test report, I feel like I've understood the 
 
 
 
-Now, let me get into the main part of my test report, evaluating the Silvia as a "100 mph" car.
+Now, let me get into the main part of my test report, evaluating the Silvia as a "100mph" car.
 
 
 
-<b><u>Easy-to-use servo type synchromesh</b></u>
+<b><u>Easy-to-Use Servo Type Synchromesh</b></u>
 
 
 
-The Silvia's most significant mechanical feature is its servo synchro gearbox. This is an excellent synchro mechanism that was patented by Porsche in West Germany and was installed in Nissan cars through a technical collaboration. Shifting up and down between the four forward gears can be done freely and quickly, and the shift action of the floor-mounted lever is so precise that I never once heard the gears clash. The short shift lever has a knob with a rather large grip on top. With no special technique, you can select gears at will at any speed from 0 to 100mph. I found myself using the lower gears, in particular, at least twice as often as usual. This is due to the ease of downshifting, and I found shifting from second gear to low gear and using engine braking to be a very effective way to reduce speed. If I had to say something negative to say, it would be that the location of the shift lever should be moved forward 20 or 30mm. I am 170cm tall, and had slid the driver's seat to the rearmost position and tilted the backrest back one or two steps, but still felt that the shift lever should be a little further forward. As it is, I found my hand searching for the steering wheel between shifts. That said, the steering wheel and shifter can be held at arm's length, and the legs can be almost fully extended to operate the pedals, allowing you to drive in a comfortable position. This is less tiring and is ideal for long-distance driving. The interior surfaces and seats are all finished in white vinyl leather, except for the black vinyl leather that covers the instrument panel. On the test car, it looked dirty. Certainly, if the owner doesn't clean it at least once a month, the scuffs will become noticeable. I also would have preferred a headrest attached to the top of the seat's backrest.
+The Silvia's most significant mechanical feature is its servo synchro gearbox. This is an excellent synchro mechanism that was patented by Porsche in West Germany and was installed in Nissan cars through a technical collaboration. Shifting up and down between the four forward gears can be done freely and quickly, and the shift action of the floor-mounted lever is so precise that I never once heard the gears clash. The short shift lever has a knob with a rather large grip on top. With no special technique, you can select gears at will at any speed from 0 to 100mph. I found myself using the lower gears, in particular, at least twice as often as usual. This is due to the ease of downshifting, and I found shifting from second gear to low gear and using engine braking to be a very effective way to reduce speed. If I had to find something negative to say, it would be that the location of the shift lever should be moved forward 20 or 30mm. I am 170cm tall, and had slid the driver's seat to the rearmost position and tilted the backrest back one or two steps, but still felt that the shift lever should be a little further forward. As it is, I found my hand searching for the steering wheel between shifts. That said, the steering wheel and shifter can be held at arm's length, and the legs can be almost fully extended to operate the pedals, allowing you to drive in a comfortable position. This is less tiring and is ideal for long-distance driving. The interior surfaces and seats are all finished in white vinyl leather, except for the black vinyl leather that covers the instrument panel. On the test car, it looked dirty. Certainly, if the owner doesn't clean it at least once a month, the scuffs will become noticeable. I also would have preferred a headrest attached to the top of the seat's backrest.
 
 
 
-<b><u>Impressions of the maximum speed, "178km/h"</b></u>
+<b><u>Impressions of the Maximum Speed, "178km/h"</b></u>
 
 
 
-When I tried driving at full throttle at the Yatabe High-Speed Proving Ground, the Silvia's speedometer only went up to 180km/h, but as confirmed by Mr. C (from Nissan), who was in the passenger seat, and as I could clearly see, the needle was pointing to 178km/h. Incidentally, when I drove at full throttle around this 5.5km course, with the lap timed using two stopwatches, it completed the course in 1 minute 54 seconds flat. Converting this to 48.2m per second gives a result of 173.7km/h. In other words, the car drove around this course with its steep vertical banking at a average speed of 174km/h. So, it is natural that the maximum speed on the straights should reach 180km/h. Of course, at this speed, the tachometer was in the red zone, probably around 6700rpm.
+When I tried driving at full throttle at the Yatabe High-Speed Proving Ground, the Silvia's speedometer only went up to 180km/h, but as confirmed by Mr. C (from Nissan), who was in the passenger seat, and as I could clearly see, the needle was pointing to 178km/h. Incidentally, when I drove at full throttle around this 5.5km course, with the lap timed using two stopwatches, it completed the course in 1 minute 54 seconds flat. Converting this to 48.2m per second gives a result of 173.7km/h. In other words, the car drove around this course with its steep vertical banking at an average speed of 174km/h. So, it is natural that the maximum speed on the straights should reach 180km/h. Of course, at this speed, the tachometer was in the red zone, probably around 6700rpm.
 
 
 
@@ -210,7 +210,7 @@ In any case, it is fair to say that I have never driven a Japanese-made car that
 
 
 
-<b><u>0-100km/h in exactly 10 seconds, 0-400m in 17.3 seconds!</b></u>
+<b><u>0-100km/h in Exactly 10 Seconds, 0-400m in 17.3 Seconds!</b></u>
 
 
 
@@ -226,7 +226,7 @@ After my last 0-400m run, I slowed down with engine braking and returned to the 
 
 
 
-<b><u>Good at rough road driving</b></u>
+<b><u>Good at Rough Road Driving</b></u>
 
 
 
@@ -240,11 +240,11 @@ Some people say that the suspension of the Silvia should be made a little stiffe
 
 
 
-<b><u>My own Silvia "order"</b></u>
+<b><u>My Own Silvia "Order"</b></u>
 
 
 
-Finally, indulge me by allowing me share my personal opinion. I would like to imagine a Silvia exactly as I would like it to be.
+Finally, indulge me by allowing me to share my personal opinion. I would like to imagine a Silvia exactly as I would like it to be.
 
 
 
@@ -274,13 +274,13 @@ There is a strange noise coming from the inside door handles, just like in the B
 
 
 
-The horn is fine even on the highway, but it is too noisy in quiet towns because it does not have a separate "town and country" feature. I would like to have an auto-tuning radio. I think it is time for such car radios to be standard equipment. Finally, if Nissan were to add a Borg-Warner automatic, power windows, power steering, and power brakes, the Silvia would be a true high-speed touring car with a unique body style and performance that would not be embarrassing even it it was released on the world market. Although I have made a long list of selfish requests, I hope that the Silvia currently on the market will become an even more "complete" car over time. 
+The horn is fine even on the highway, but it is too noisy in quiet towns because it does not have a separate "town and country" feature. I would like to have an auto-tuning radio. I think it is time for such car radios to be standard equipment. Finally, if Nissan were to add a Borg-Warner automatic, power windows, power steering, and power brakes, the Silvia would be a true high-speed touring car with a unique body style and performance that would not be embarrassing even if it was released on the world market. Although I have made a long list of selfish requests, I hope that the Silvia currently on the market will become an even more "complete" car over time. 
 
 In any case, the emergence of this type of car, with its strong custom-built feel, is a symbol of the level of technology achieved by today's domestically produced cars, and there is significant value in its existence.
 
 
 
-<b><u>Postscript: Photo captions</b></u>
+<b><u>Postscript: Photo Captions</b></u>
 
 
 
@@ -309,5 +309,5 @@ In cornering with BS racing tires, the roll angle cannot be called minimal, but 
 
 With racing tires and the wheel covers removed, the Silvia's body glittered in the light as it hurtled down the straight sections. At Yatabe, the car reached an average speed of 174km/h, but as it came down off the banking,  it appeared to have momentarily reached 180km/h. The best recorded 0-400m time was 16.9 seconds, one second better than the manufacturer's published time of 17.9 seconds. 
 
-What is amazing about the Silvia is that it is more resistant to unpaved roads than the Fairlady. This is largely due to the relatively soft springs, but in any case, it can be said that this car's resistance to rough roads is among the best of any sports car in the world. 
+What is amazing about the Silvia is how much more resistant to unpaved roads it is than the Fairlady. This is largely due to the relatively soft springs, but in any case, it can be said that this car's resistance to rough roads is among the best of any sports car in the world. 
 

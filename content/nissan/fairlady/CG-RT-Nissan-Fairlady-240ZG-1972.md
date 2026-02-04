@@ -42,7 +42,7 @@ The 240Z series has three models, each with variations in the interior and exter
 
 
 
-The car we tested was this long-nose 240ZG. Let's start with the power performance. In terms of top speed, the 240ZG was a bit disappointing. The average speed on the 1km straight at Yatabe was far below the catalog data (as is the case with the majority of domestically produced cars) at 192.5km/h, while the average speed on the 5.5km circuit was only 189.6km/h. The Yatabe oval course is not completely flat, with a slight downhill in one section of approximately 200m, and here we briefly reached 198km/h, the highest observed maximum (the car's unusually accurate speedometer showed exactly 200km/h, and the tachometer showed about 5800rpm). Still, the 240ZG did mark the fastest top speed of any Japanese-made car we have tested; the previous fastest record was the old Fairlady 2000 (SOHC four-cylinder) at 190.0kmh, followed by the Capella Rotary Coupe GS at 187.5km/h.
+The car we tested was this long-nose 240ZG. Let's start with the power performance. In terms of top speed, the 240ZG was a bit disappointing. The average speed on the 1km straight at Yatabe was far below the catalog data (as is the case with the majority of domestically produced cars) at 192.5km/h, while the average speed on the 5.5km circuit was only 189.6km/h. The Yatabe oval course is not completely flat, with a slight downhill in one section of approximately 200m, and here we briefly reached 198km/h, the highest observed maximum (the car's unusually accurate speedometer showed exactly 200km/h, and the tachometer showed about 5800rpm). Still, the 240ZG did mark the fastest top speed of any Japanese-made car we have tested; the previous fastest record was the old Fairlady 2000 (SOHC four-cylinder) at 190.0km/h, followed by the Capella Rotary Coupe GS at 187.5km/h.
 
 
 
@@ -58,7 +58,7 @@ On paper, the torque peak is surprisingly high at 4800rpm. In reality, however, 
 
 
 
-Ultimate acceleration is indeed fast. The recorded 0-400m time was 15.5 seconds, beating the catalog time (15.8 seconds), and marking the best time among the cars C/G has tested to date (the previous record was 15.8 seconds, set by the old Fairlady 2000). We have never officially timed the 2-liter Fairlady Z, so it cannot be directly compared, but the 240ZG's time was 0.9 seconds faster than that of the DOHC Z432 (which was unfortunately was not performing well at the top end in our test). For 0-160km/h, the times were 24.1 seconds for the 240ZG, 26.8 seconds for the Z432, and 23.4 seconds for the old Fairlady, an interesting result showing that the small, light, rough-and-ready Fairlady 2000 still holds the record.
+Ultimate acceleration is indeed fast. The recorded 0-400m time was 15.5 seconds, beating the catalog time (15.8 seconds), and marking the best time among the cars C/G has tested to date (the previous record was 15.8 seconds, set by the old Fairlady 2000). We have never officially timed the 2-liter Fairlady Z, so it cannot be directly compared, but the 240ZG's time was 0.9 seconds faster than that of the DOHC Z432 (which was unfortunately not performing well at the top end in our test). For 0-160km/h, the times were 24.1 seconds for the 240ZG, 26.8 seconds for the Z432, and 23.4 seconds for the old Fairlady, an interesting result showing that the small, light, rough-and-ready Fairlady 2000 still holds the record.
 
 
 
@@ -70,7 +70,7 @@ We found that fuel economy in high-speed cruising is surprisingly good if you us
 
 
 
-The 222mm front disc/228mm diameter rear drum brakes have a moderately powerful servo and a good feeling of effectiveness at all speeds. There is remarkably little nose dive during sudden braking; on the other hand, the rear end squats during acceleration. In the 0-100-0 fade test, the initial pedal force of 16kg increased slightly to 19kg on the eighth stop and 23kg on the tenth, maintaining good stability throughout, so the brakes can be described as adequately fade-resistant. The handbrake, conveniently located behind the gear lever, is easy to operate and extremely powerful.
+The 222mm diameter front disc/228mm rear drum brakes have a moderately powerful servo and a good feeling of effectiveness at all speeds. There is remarkably little nose dive during sudden braking; on the other hand, the rear end squats during acceleration. In the 0-100-0 fade test, the initial pedal force of 16kg increased slightly to 19kg on the eighth stop and 23kg on the tenth, maintaining good stability throughout, so the brakes can be described as adequately fade-resistant. The handbrake, conveniently located behind the gear lever, is easy to operate and extremely powerful.
 
 
 
@@ -94,7 +94,7 @@ The various controls are very well placed and easy to use. The pedals are partic
 
 
 
-The tailgate opens wide and easily on hydraulic struts, similar to that of the E-Type, allowing easy loading and unloading of the huge luggage compartment behind the seats. The cargo area can hold an incredible amount of luggage for a long-distance trip for two people; we were able to fit our fifth wheel speedometer for testing inside, so you could probably fit a folding bicycle in with ease too.
+The tailgate opens wide and easily on hydraulic struts, similar to that of the E-Type, allowing easy loading and unloading of the huge luggage compartment behind the seats. The cargo area can hold an incredible amount of luggage for a long-distance trip for two people; we were able to fit our fifth-wheel speedometer for testing inside, so you could probably fit a folding bicycle in with ease too.
 
 
 

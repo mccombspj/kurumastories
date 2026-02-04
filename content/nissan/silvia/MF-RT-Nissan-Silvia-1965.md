@@ -126,9 +126,9 @@ draft = false
 
 <b>Magazine:</b> The Silvia, which has been much talked about since last year's Tokyo Motor Show, has finally been released. It seems to have changed quite a bit from the prototype exhibited at the show, so let's start by asking Nissan to explain the development goals of this model.
 
-<b>Harada:</b> From the beginning, our desire was to make a beautiful car. This was the starting point for the Silvia, and when it came to deciding what to base it on, we settled on something was not too big, not too flimsy, and was adaptable to the concept, based on the cars we had on hand.
+<b>Harada:</b> From the beginning, our desire was to make a beautiful car. This was the starting point for the Silvia, and when it came to deciding what to base it on, we settled on something that was neither too big nor too lightweight, and was adaptable to the concept, based on the cars we had on hand.
 
-In the end, we decided to base it on the Fairlady, keep the seating capacity modest with seating for two, and to go for a coupe type that would make it easier to create a beautiful layout.
+In the end, we decided to base it on the Fairlady, keep the seating capacity modest with accommodations for two, and to go for a coupe type that would make it easier to create a beautiful layout.
 
 This was the stage we had gotten up to when we exhibited it at the show last year, but when it came to actually putting it on the market, we didn't want it to be just a beautiful shape with nothing inside. So, to give it performance that matched its appearance, we developed a high-performance 1600cc engine, which resulted in the car we are selling now.
 
@@ -138,23 +138,23 @@ For the engine, we used as much of the equipment as possible that we use for the
 
 Compared to the Fairlady engine, the bore is 7.2mm larger and the stroke is 7.2mm smaller, resulting in an engine volume 100cc larger. This bore-stroke ratio is about 0.76, which can be said to be a fairly short stroke. Looking around the world, only certain example of Ford engines have strokes shorter than this.
 
-The engine's characteristics were not specifically designed for racing, so we tried to make it very easy to use. Maximum output is 90hp at 6000rpm, and maximum torque is 13.5kg/m at 4000rpm. It's a higher-speed type than a normal passenger car's engine, but it's not difficult to use like a racing car.
+The engine's characteristics were not specifically designed for racing, so we tried to make it very easy to use. Maximum output is 90hp at 6000rpm, and maximum torque is 13.5kgm at 4000rpm. It's a higher-speed type than a normal passenger car's engine, but it's not difficult to use like a racing car.
 
 The clutch has a stronger spring type to accommodate overrun up to about 8000rpm, such as when driving downhill or downshifting to third gear.
 
 <b><u>Porsche-Type Synchronization</b></u>
 
-<b>Magazine:</b> Nissan is promoting the fact that the syncromesh was designed in a technical partnership with Porsche.
+<b>Magazine:</b> Nissan is promoting the fact that the synchromesh was designed in a technical partnership with Porsche.
 
 <b>Harada:</b> That's right. This car is the first Nissan car to use a Porsche-type synchro. You could say that this synchromesh is the most distinctive technical feature of this car. We basically took a lot of inspiration from their designs, but the actual unit was developed by Nissan in collaboration with Porsche. 
 
-In the end, we decided that four speeds would be sufficient for normal use, so we went with a four-speed forward fully synchronized transmission. We listened to Porsche's opinion, and they advised that even with a four-speed, if the driveshaft was too long, it would not be very good due to excessive bending, so we put all the forward four-speed parts inside the gearbox, and put the reverse gear behind it to make the shaft shorter.
+In the end, we decided that four speeds would be sufficient for normal use, so we went with a 4-speed forward fully synchronized transmission. We listened to Porsche's opinion, and they advised that even with a 4-speed, if the driveshaft was too long, it would not be very good due to excessive bending, so we put all the forward 4-speed parts inside the gearbox, and put the reverse gear behind it to make the shaft shorter.
 
 <b>Hirao:</b> What exactly is a Porsche-type synchro?
 
 <b>Harada:</b> This is not a mechanism that is widespread all over the world, but Porsche itself uses it, and Alfa Romeo has been using it for quite some time now. To give you an anecdote, when we visited Alfa Romeo and asked if there was a syncromesh that would work reliably at any speed, they looked at the data and decided that we should use the Porsche type.
 
-To briefly explain, the internal structure is that of a normal synchronizer, plus a device just like a brake's leading shoe which acts as a servo, so you can downshift reliably from any rpm, even high engine speeds. The synchronizer itself is powerful, but because it has a servo action that reliably downshifs in line with the rpm, this type is called a servo synchronizer system.
+To briefly explain, the internal structure is that of a normal synchronizer, plus a device just like a brake's leading shoe which acts as a servo, so you can downshift reliably from any rpm, even high engine speeds. The synchronizer itself is powerful, but because it has a servo action that reliably downshifts in line with the rpm, this type is called a servo synchronizer system.
 
 It took Porsche a long time to develop this. The design is very different now than when we first saw it when we partnered with them.
 
@@ -188,7 +188,7 @@ Regarding the issue of sound, there was some discussion about whether it should 
 
 <b>Harada:</b> We experimented with three different types of engines, including extending the stroke, widening the bore, and a combination of the two. We had expected that the short-stroke type would be weak at low speeds, but assuming a twin-carb specification, the all-round performance would be good even with a short stroke, so that was the one we went with.
 
-The dimensions are an odd 87.2mm bore and 66.8m stroke, but this is because it is a Fairlady engine, and we were forced to compromise by the fact that there is a water jacket in between the cylinders, and we could not expand the bore any further.
+The dimensions are an odd 87.2mm bore and 66.8mm stroke, but this is because it is a Fairlady engine, and we were forced to compromise by the fact that there is a water jacket in between the cylinders, and we could not expand the bore any further.
 
 <b>Hirao:</b> So if the design had allowed it, it would have been better to make the bore-stroke ratio a little smaller? 
 
@@ -416,7 +416,7 @@ The driving position is typical of a sports car, with the front end of the seat 
 
 The reach to the switches and levers is also better than in any previous domestic car. The only controls that feel a little far away are the seat slide lock, trip meter reset, cowl ventilator, ignition key, bonnet lock, etc., which are rarely used while driving. The rest are all located in convenient places and leave nothing to be desired.
 
-The interior and exterior are luxurious, and must be considered among the best of any domestic car. The gauges are impressive, and the way they are arranged across the curved instrument panel is very nice. The car is also equipped with a roll-up safety belt and adjustable straps, and the soft interior lining assures that safety measures are sufficient.
+The interior and exterior finish are luxurious, and must be considered among the best of any domestic car. The gauges are impressive, and the way they are arranged across the curved instrument panel is very nice. The car is also equipped with a roll-up safety belt with adjustable straps, and the soft interior lining assures that safety measures are sufficient.
 
 <b>Magazine:</b> Thank you all very much for your support.
 

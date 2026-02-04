@@ -210,13 +210,13 @@ We hit the Tomei Expressway. On the Izu Skyline, I had only used third and fourt
 
 It was late at night, and like on the outbound trip, traffic was light--the perfect opportunity. I made full use of the engine’s maximum torque, 18.0kgm at 5600rpm, shifting swiftly. According to Motor Fan’s road test data, the 0–400m time was 15.578 seconds, and the acceleration was smooth as expected.
 
-The seats hugged me firmly, transmitting the sensation of speed directly through my back. For Japan, where true sports cars had scarcely existed until now, this could honestly be called the first sports car in the real sense. Of course, it’s still different from Porsche or Ferraris in some ways.
+The seats hugged me firmly, transmitting the sensation of speed directly through my back. For Japan, where true sports cars had scarcely existed until now, this could honestly be called the first sports car in the real sense. Of course, it’s still different from Porsches or Ferraris in some ways.
 
 But make no mistake: this car has clearly surpassed the domain of "sporty cars." The Toyota 2000GT and Isuzu 117 Coupe remain, regrettably, in the realm of sporty cars. Meanwhile, the Fairlady Z432 fully outpaces the Ford Mustang GT or even the Chevrolet Corvette Stingray.
 
 Before I knew it, we had exited the Tomei. Despite having streaked across the expressway at high speed, this Fairlady Z432, of course, was no match for crawling city traffic. Third gear at 3000rpm. Speed, 60km/h. At 3000rpm, you can't even engage fourth. Engine knock is inevitable.
 
-It does make one wonder. Why couldn’t the engine have been made a little more flexible? The carburetor tuning wasn’t perfect either. When starting the engine, one of the spark plugs occasionally misfires. I understand Nissan’s intention with the Z432: to cultivate a completely new customer base, different from the traditional Fairlady owner. But given Japan’s less-than-ideal road conditions, a bit more thought for city driving wouldn’t have gone amiss. Where are you supposed to put a sake cooler? And why not fit disc brakes on all four wheels…?
+It does make one wonder. Why couldn’t the engine have been made a little more flexible? The carburetor tuning wasn’t perfect either. When starting the engine, one of the spark plugs occasionally misfires. I understand Nissan’s intention with the Z432: to cultivate a completely new customer base, different from the traditional Fairlady owner. But given Japan’s less-than-ideal road conditions, a bit more consideration of city driving wouldn’t have gone amiss. Where are you supposed to put a sake cooler? And why not fit disc brakes on all four wheels…?
 
 Yet, the Fairlady Z432 is a pioneering car that has taken the first step into boundless potential. Despite the various criticisms, I have no choice but to say--with reluctant admiration--that "even as an enemy, it deserves praise." That is my conclusion after over 350km of testing. Even my wife, the morning after we returned to Tokyo, remarked to me: "I suppose you’d have to study cornering a little more before it would be safe to buy me one."
 

@@ -81,7 +81,7 @@ draft = false
 
 
 
-The new Skyline 2000GT model, announced just before the last Tokyo Motor Show, is a practical, heavyweight sports sedan with a 2.0-liter six-cylinder engine, equivalent to the previous (S54) Skyline 2000GT-A. The engine and body are completely different from the previous model, and the new car is based on the new Skyline 1500. The body has a bonnet that has been extended by 195mm to accommodate the six-cylinder engine, and the wheelbase is consequently 150mm longer, but in other respects it is basically the same as the Skyline 1500. However, the suspension is completely different. A major feature of this car is the adoption of a semi-trailing arm rear independent suspension, which is the same as that in the Bluebird and Laurel. 
+The new Skyline 2000GT model, announced just before the last Tokyo Motor Show, is a practical, heavyweight sports sedan with a 2.0-liter six-cylinder engine, equivalent to the previous (S54) Skyline 2000GT-A. The engine and body are completely different from the previous model; the new car is based on the new Skyline 1500. The body has a bonnet that has been extended by 195mm to accommodate the six-cylinder engine, and the wheelbase is consequently 150mm longer, but in other respects it is basically the same as the Skyline 1500. However, the suspension is completely different. A major feature of this car is the adoption of a semi-trailing arm rear independent suspension, which is the same as that in the Bluebird and Laurel. 
 
 
 
@@ -93,7 +93,7 @@ If a driver familiar with the old 2000GT-A were to drive the new 2000GT, he woul
 
 
 
-The most noticeable improvement was the acceleration performance, with the new car covering 0-400m in 17.6 seconds (compared to 18.5 seconds for the old GT-A). This improved acceleration performance is achieved more by the change in gear ratios than by the new engine. Comparing the gear ratios of old and new models, the results are as follows: 2000GT, 3.549 / 2.197 / 1.420 / 1.000; 2000GT-A, 2.963 / 1.632 /1.000 / 0.762. In fact, the gearbox is the most greatly improved part of the new 2000GT. The old model's gearbox was effectively a 3-speed plus overdrive, and fourth gear could only be used when the car was traveling 60km/h or more on the highway. The irregular shift pattern of having to make a U-turn to shift from third to fourth gear was also unpopular, and the overdrive fourth gear had a louder gear whine than the direct third gear. The new gearbox, on the other hand, has much closer gear ratios, the Borg-Warner type synchro is more powerful, and the shift feel is excellent, making it a big improvement in all respects.
+The most noticeable improvement was the acceleration performance, with the new car covering 0-400m in 17.6 seconds (compared to 18.5 seconds for the old GT-A). This improved acceleration performance is achieved more by the change in gear ratios than by the new engine. Comparing the gear ratios of old and new models, the results are as follows: 2000GT, 3.549 / 2.197 / 1.420 / 1.000; 2000GT-A, 2.963 / 1.632 / 1.000 / 0.762. In fact, the gearbox is the most greatly improved part of the new 2000GT. The old model's gearbox was effectively a 3-speed plus overdrive, and fourth gear could only be used when the car was traveling 60km/h or more on the highway. The irregular shift pattern of having to make a U-turn to shift from third to fourth gear was also unpopular, and the overdrive fourth gear had a louder gear whine than the direct third gear. The new gearbox, on the other hand, has much closer gear ratios, the Borg-Warner type synchro is more powerful, and the shift feel is excellent, making it a big improvement in all respects.
 
 
 
@@ -129,7 +129,7 @@ In our fade test, in which 0.5g braking was applied ten times in succession at 1
 
 
 
-The 2000GT, with its all-independent suspension, offers significantly better handling and ride comfort than the previous 2000GT-A. When you first get behind the wheel and take the first corner, you'll notice how light and smooth the steering is. This is in stark contrast to the old GT-A, which required a lot of steering effort, exhibited strong understeer, and required considerable strength when cornering regardless of speed. The new 2000GT's steering is amazingly light by comparison, even when parking. The steering gear ratio has been slightly increased, from 18.5:1 to 19.8:1, and it takes 3.5 turns from lock-to-lock, so it can get bit busy in tight corners. The steering system is highly rigid with almost no free play, and the higher the speeds, the sharper the response. 
+The 2000GT, with its all-independent suspension, offers significantly better handling and ride comfort than the previous 2000GT-A. When you first get behind the wheel and take the first corner, you'll notice how light and smooth the steering is. This is in stark contrast to the old GT-A, which required a lot of steering effort, exhibited strong understeer, and required considerable strength when cornering regardless of speed. The new 2000GT's steering is amazingly light by comparison, even when parking. The steering gear ratio has been slightly increased, from 18.5:1 to 19.8:1, and it takes 3.5 turns from lock-to-lock, so it can get a bit busy in tight corners. The steering system is highly rigid with almost no free play, and the higher the speeds, the sharper the response. 
 
 
 
@@ -137,7 +137,7 @@ On the first day of the test, we drove with the standard Dunlop Grand Speed GS1 
 
 
 
-From the second day of testing, optional 165SR-14 radials (Yokohama GT Special) were installed. The high-speed testing at Yatabe was also run with radials, and the steering response was almost the same as that of the Dunlop GS1s with the higher 2.5 and 2.2kg/cm² pressures. The straight-line stability was excellent, and we were able to take our hands off the steering wheel at 160km/h without any worries. We also tried making slalom turns using full throttle while maintaining a speed of 120-140km/h, and were very impressed by how lightly such a heavy car (with a test weight over 1200kg) could respond to the steering. 
+From the second day of testing, optional 165SR-14 radials (Yokohama GT Special) were installed. The high-speed testing at Yatabe was also run with radials, and the steering response was almost the same as that of the Dunlop GS1s with the higher 2.5 and 2.2kg/cm² pressures. The straight-line stability was excellent, and we were able to take our hands off the steering wheel at 160km/h without any worries. We also tried making slalom turns using full throttle while maintaining a speed of 120-140km/h, and were very impressed by how lightly such a heavy car (with a test weight of over 1200kg) could respond to the steering. 
 
 
 
@@ -145,7 +145,7 @@ The ride is much softer than the 2000GT-A's, but is still firm by general standa
 
 
 
-The interior is far more luxurious than that of the old 2000GT-A. In terms of dimensions, the width of the car is 100m wider, and the comfort in the back seats has been improved dramatically, allowing five people to comfortably enjoy long trips. The driving position is very good, similar to the 2000GT-A. The size and shape of the reclining seats, with height-adjustable headrests, is also good, and the backrests reach shoulder height, providing good lateral support for the body. The cushions have just the right amount of "give" and firmness, but if we were to be picky, we would say that they could be a little longer for more thigh support. A higher  leading edge would also be better. 
+The interior is far more luxurious than that of the old 2000GT-A. In terms of dimensions, the width of the car is 100mm wider, and the comfort in the back seats has been improved dramatically, allowing five people to comfortably enjoy long trips. The driving position is very good, similar to the 2000GT-A. The size and shape of the reclining seats, with height-adjustable headrests, is also good, and the backrests reach shoulder height, providing good lateral support for the body. The cushions have just the right amount of "give" and firmness, but if we were to be picky, we would say that they could be a little longer for more thigh support. A higher  leading edge would also be better. 
 
 
 
@@ -161,7 +161,7 @@ A boxy center console connects the base of the dash to the transmission tunnel, 
 
 
 
-The car is equipped with a heater and ventilator, allowing you to achieve the ideal condition of keeping your feel warm while blowing cool air on your face. It is also possible to install an air conditioner, which is now common for practical cars in this class. There are various places to store luggage inside the car. At the rear of the center console, there is a fairly deep box that also serves as an armrest, and a handheld camera easily fits inside. The width and depth of the glovebox are both generous. Below that, there is a shelf where you can place a handbag, but items easily slide off it when accelerating.
+The car is equipped with a heater and ventilator, allowing you to achieve the ideal condition of keeping your feet warm while blowing cool air on your face. It is also possible to install an air conditioner, which is now common for practical cars in this class. There are various places to store luggage inside the car. At the rear of the center console, there is a fairly deep box that also serves as an armrest, and a handheld camera easily fits inside. The width and depth of the glovebox are both generous. Below that, there is a shelf where you can place a handbag, but items easily slide off it when accelerating.
 
 
 

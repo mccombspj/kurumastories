@@ -227,7 +227,7 @@ The operating force of each control is light. The gear lever is about 2kg. The c
 
 <b>Watari:</b> Isn't the gear lever a little too long to hold at the top? However, I suppose if it were shorter, it would become heavy.
 
-<b>Tanabe:</b> However, the Porsche synchro becomes softer the more you use it.
+<b>Tanabe:</b> I would say the Porsche synchro becomes easier the more you use it.
 
 <b>Magazine:</b> Did you ever think about putting the SR Fairlady's four-cylinder engine in the Z series? 
 

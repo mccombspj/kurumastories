@@ -83,11 +83,11 @@ Our test models were the sportiest versions of the four-cylinder and six-cylinde
 
 
 
-The 2000GX’s G20 twin-carb engine is an improved version of the SOHC four-cylinder 1.5-liter engine originally developed by Prince for the Skyline. With a displacement of 1990cc (89x80mm), it has a compression ratio of 8.3 (9.7 for high-octane models) and two Hitachi SU carburetors, producing an output of 120ps/5800rpm and17.0kgm/3600rpm (125ps and 17.5kgm in the high-octane gasoline version). The test car was a regular-octane 120ps model with the standard 4-speed fully-synchronized floor-shift gearbox (a 5-speed gearbox is optional for an extra 20,000 yen, and an automatic is a 55,000 yen option). The price (for delivery in Tokyo) was 895,000 yen, and the car's color scheme was white with a dark camel-colored interior.
+The 2000GX’s G20 twin-carb engine is an improved version of the SOHC four-cylinder 1.5-liter engine originally developed by Prince for the Skyline. With a displacement of 1990cc (89x80mm), it has a compression ratio of 8.3 (9.7 for high-octane models) and two Hitachi SU carburetors, producing an output of 120ps/5800rpm and 17.0kgm/3600rpm (125ps and 17.5kgm in the high-octane gasoline version). The test car was a regular-octane 120ps model with the standard 4-speed fully-synchronized floor-shift gearbox (a 5-speed gearbox is optional for an extra 20,000 yen, and an automatic is a 55,000 yen option). The price (for delivery in Tokyo) was 895,000 yen, and the car's color scheme was white with a dark camel-colored interior.
 
 
 
-As for the 2000SGX, its L20 twin-carb six-cylinder SOHC engine is in the same state of tune as in the Skyline 2000GT-X, with a displacement of 1998cc (78x70mm), a compression ratio of 8.6, and two Hitachi SU carburetors, producing 125ps/6000rpm and 17.0kgm/4400rpm (the high-octane gasoline version has a compression ratio of 9.5,130ps, and 17.5kgm). The test car was a regular-octane 125ps model with the optional 5-speed fully-synchronized floor-shift gearbox, and was also equipped with an air conditioner (an option that costs an additional 140,000 yen). The standard price of the 4-speed model is 1,030,000 yen, so the test car cost a whopping 1,190,000 yen (!). The color scheme was metallic green, both inside and out.
+As for the 2000SGX, its L20 twin-carb six-cylinder SOHC engine is in the same state of tune as in the Skyline 2000GT-X, with a displacement of 1998cc (78x70mm), a compression ratio of 8.6, and two Hitachi SU carburetors, producing 125ps/6000rpm and 17.0kgm/4400rpm (the high-octane gasoline version has a compression ratio of 9.5, 130ps, and 17.5kgm). The test car was a regular-octane 125ps model with the optional 5-speed fully-synchronized floor-shift gearbox, and was also equipped with an air conditioner (an option that costs an additional 140,000 yen). The standard price of the 4-speed model is 1,030,000 yen, so the test car cost a whopping 1,190,000 yen (!). The color scheme was metallic green, both inside and out.
 
 
 
@@ -99,7 +99,7 @@ Comparing the power-to-weight ratios of the two vehicles, the GX's is only sligh
 
 
 
-Part of the reason the SGX was slower was due to the difference in gearboxes. The GX’s 4-speed is light and precise, and the shift lever is shorter than in the previous Laurel, so the stroke is much shorter and shifts are quicker. On the other hand, while the SGX’s 5-speed has powerful synchronization (as does the 4-speed), its action is heavy and the gear engagements feel uncertain, so shifts must be made carefully, losing fractions of a second in the process. 
+Part of the reason the SGX was slower was due to the difference in gearboxes. The GX’s 4-speed is light and precise, and the shift lever is shorter than in the previous Laurel, so the stroke is much shorter and shifts are quicker. On the other hand, while the SGX’s 5-speed has powerful synchronizers (as does the 4-speed), its action is heavy and the gear engagements feel uncertain, so shifts must be made carefully, losing fractions of a second in the process. 
 
 
 

@@ -60,7 +60,7 @@ draft = false
 
 <b><u>Nissan Laurel Hardtop 2000GX Model Overview</b></u>
 
-The Laurel sedan was released with styling based on straight lines and flat surfaces, reminiscent of the Bluebird, but it has since been upgraded with a hardtop body style that could be said to have pioneered a genre as Japan's first specialty car.
+The Laurel sedan was released with styling based on straight lines and flat surfaces, reminiscent of the Bluebird, but it has since been upgraded with a hardtop body style that could be said to have pioneered the specialty-car genre in Japan.
 
 The rear window is steeply raked, descending horizontally from top to bottom and cut at an acute angle where it meets the roof. Combined with the slightly higher waistline at the rear, the overall shape is reminiscent of a triangle sloping downwards at the front, giving the hardtop a sharp image of speed. 
 
@@ -70,7 +70,7 @@ The instrument panel is gently angled around the driver, focusing the gauges and
 
 The seats are thick, soft, and comfortable, but the driver's seat is mounted somewhat high, and some people find its position relative to the pedals unsatisfactory (this height is fine for the front passenger and the rear seats). The suspended accelerator pedal is wide, long, and easy to press, just like an organ-type pedal. 
 
-In addition, while two-door cars often make it difficult to get in an out of the back seat, the Laurel's doors have been made as large as possible, and there is no center pillar, making ingress and egress very easy.
+In addition, while two-door cars often make it difficult to get in and out of the back seat, the Laurel's doors have been made as large as possible, and there is no center pillar, making ingress and egress very easy.
 
 The engine is a SOHC cross-flow engine originally based on the 1500cc unit in the Skyline, which was first scaled up to 1800cc, and then bored out further to 2000cc. The twin SU-type carburetors, hemispherical combustion chamber with V-shaped valve arrangement, narrow-angle camshaft, and large flywheel mass all contribute to flat torque characteristics and a maximum torque of 17.5kgm/3600rpm, while at the same time achieving a maximum output of 125ps/5800rpm.  The weight of the engine is light at 146kg, almost the same as that of a 1500cc class engine, due to the aluminum head, thin-walled cast block, and the fact that the base engine was in fact 1500cc.
 
@@ -132,13 +132,13 @@ The steering characteristics are dominated by quite strong understeer, and the s
 
 Directional stability is good, and the car settles very well when its line is disturbed while driving at high speeds.
 
-The brakes are servo-assisted front discs and rear drums, and a proportioning valve helps prevent premature locking of the rear wheels. The servo works well and provides strong braking force, but the pedal force required becomes quite high during sudden braking from high speed. This seems to be due to pronounced fade. we also got the impression that fade occurred rather early when descending a mountain road at high speeds.
+The brakes are servo-assisted front discs and rear drums, and a proportioning valve helps prevent premature locking of the rear wheels. The servo works well and provides strong braking force, but the pedal effort required becomes quite high during sudden braking from high speed. This seems to be due to pronounced fade. We also got the impression that fade occurred rather early when descending a mountain road at high speeds.
 
 The gearbox has a Porsche-type servo synchronizer, but the feel of this mechanism seems to be something that people either love or hate. Those who love it compare the feeling to "cutting hot butter with a knife," while those who don't say it "doesn't have a crisp, definite edge" to its engagements. Either way, the synchronization effect itself is so powerful that it is beyond criticism. More generally, we feel that the shift stroke could be a little shorter.
 
 Speaking of control feel, the brake and clutch pedal stroke are also large, and together with the aforementioned shift stroke, this results in more movement of the driver's arms and legs than is really necessary.
 
-In terms of mechanical layout, the Laurel Hardtop is a car that uses a mix of components from the Bluebird and Skyline, but in terms of its feel and character, the commonality with the Bluebird is stronger.
+In terms of mechanical layout, the Laurel Hardtop is a car that uses a mix of components from the Bluebird and Skyline, but in terms of its feel and character, it has more in common with the Bluebird.
 
 <b><u>Postscript: Story Photos</b></u>
 
