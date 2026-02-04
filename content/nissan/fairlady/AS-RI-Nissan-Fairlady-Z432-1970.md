@@ -31,7 +31,7 @@ draft = false
 
 The Fairlady, the "giant of GT car racing," has undergone a full model change for the first time in seven years. How will the new high-performance Fairlady Z432 respond in city driving and at the Suzuka Circuit? The driver is Takatoshi Teranishi.
 
-<b><u>Dynamic Man and Machine</b></u>
+<b><u>Dynamic Driver and Machine</b></u>
 
 "Wow, what an easy car to drive!" That was Takatoshi Teranishi's first impression from behind the wheel of the Fairlady Z432. Teranishi was driving the car for the first time on November 21st, in front of the Nissan Gallery in Osaka where he works.
 
@@ -45,7 +45,7 @@ Furthermore, he has a natural instinct for racing and a strong determination to 
 
 As readers are well aware, he currently works as a sports consultant at the Nissan Gallery in Osaka, where he gives advice to customers about participating in motorsports, and also competes in races with a Skyline GT-R and a Fairlady 2000.
 
-Then we have the Fairlady Z432 itself. The old Fairlady has been the backbone of domestic sports car racing since the current Nissan Sports Club Chairman Hara Masaru won the Japanese Grand Prix in 1963. In the Z432, the Fairlady is equipped with the GT-R's inline-Six, DOHC, four-valve-per-cylinder, 160ps power plant.  Moreover, compared to the old model's front double wishbone, leaf spring rear suspension, the new model has been transformed by a four-wheel independent suspension, with struts and coil springs for all four wheels.
+Then we have the Fairlady Z432 itself. The old Fairlady has been the backbone of domestic sports car racing since the current Nissan Sports Club Chairman Hara Masaru won the Japanese Grand Prix in 1963. In the Z432, the Fairlady is equipped with the GT-R's inline six, DOHC, four-valve-per-cylinder, 160ps power plant.  Moreover, compared to the old model's front double wishbone, leaf spring rear suspension, the new model has been transformed by a four-wheel independent suspension, with struts and coil springs for all four wheels.
 
 The monocoque body that encases these features has a style that combines boldness and elegance, and the fastback tail has been cleanly cut off to reduce air resistance.
 
@@ -59,11 +59,11 @@ Beyond that, two large gauges stand out in the depths of the thick crash pad. Th
 
 There are three small gauges lined up on top of the center console. The two on the right are split into upper and lower sections, housing four gauges: temperature, oil pressure, ammeter, and fuel, while the leftmost one is a clock with a stopwatch. Below that are map lights, heater controls, and a car stereo, and to the rear of the wooden shift lever are the choke and hand throttle levers, with the switches for the rear window defogger, parking lights, and so on just behind. All of these are labeled, so it's unlikely that you'll use the wrong control.
 
-We got onto the Hanshin Expressway from Osaka. Since it was rush hour, we continued to drive slowly all the way to to the Toyonaka interchange on the Meishin Expressway. Probably because of the good carburetor settings, the torque is strong at low- and mid-range engine speeds, so the Z432 is easy to drive even in this kind of traffic. I think the flywheel is larger than the GT-R's, which is nice under these conditions. The exhaust note is quieter, too.
+We got onto the Hanshin Expressway from Osaka. Since it was rush hour, we continued to drive slowly all the way to the Toyonaka interchange on the Meishin Expressway. Probably because of the good carburetor settings, the torque is strong at low- and mid-range engine speeds, so the Z432 is easy to drive even in this kind of traffic. The flywheel seems to be larger than the GT-R's, which is nice under these conditions. The exhaust note is quieter, too.
 
-On the Meishin Expressway, I steered the Z432 left and right through the shallow curves, and before I knew it, we had arrived at the Ekimae Interchange. The brakes are discs at the front and leading/trailing drums at the rear, and they are servo-assisted, so they were reliable and stopped the car firmly with normal pressure.
+On the Meishin Expressway, the Z432 carved effortlessly left and right through the shallow curves, and before I knew it, we had arrived at the Ekimae Interchange. The brakes are discs at the front and leading/trailing drums at the rear, and they are servo-assisted, so they were reliable and stopped the car firmly with normal pressure.
 
-The turn-signal lever on the right side of the steering column doubles as the headlight dimmer switch, and at its tip is a push button for the hazard lights. The lever on the left side of the column headlight and wiper switches, and on its tip is a push button for the windshield washer. This is extremely convenient. In this type of car, where the driving positition tends to be low with the driver's arms outstretched, it is often difficult to reach these kinds of secondary controls, but in this car, their layout has been well considered.
+The turn-signal lever on the right side of the steering column doubles as the headlight dimmer switch, and at its tip is a push button for the hazard lights. The lever on the left side of the column headlight and wiper switches, and on its tip is a push button for the windshield washer. This is extremely convenient. In this type of car, where the driving position tends to be low with the driver's arms outstretched, it is often difficult to reach these kinds of secondary controls, but in this car, their layout has been well considered.
 
 We got off at the Higashi Interchange and onto Route 1 heading for Suzuka. Along the way, the ride ofen picked up the evenly-spaced joints in the pavement. However, Teranishi commented, "compared to the previous Fairlady, it's no problem. It's only a little stiffer than the Bluebird. It's good that it's more comfortable, but with the rear coil springs, I wonder how it will perform on the circuit..." The ride comfort makes him look worried.
 

@@ -47,7 +47,7 @@ We used strut-type suspensions for both the front and rear. We chose the strut t
 
 As for the steering, the rack-and-pinion gears are the same as those of the Laurel, but the total gear ratio is made sharper than the Laurel, with a lock-to-lock ratio of 2.59 to improve response.
 
-As for ride comfort, the spring constants are different between the Z432 and the Z equipped with the Cedric-type 6-cylinder engine, with the Z having the same spring constants as the Bluebird, while the Z432 is stiffer, improving driving and handling. So, I think the biggest issue in planning was that we had two fundamental aims, and we wanted to offer a choice of engines, suspensions, etc. and attract a wide range of users.
+As for ride comfort, the spring constants are different between the Z432 and the Z equipped with the Cedric-type 6-cylinder engine, with the Z having the same spring constants as the Bluebird, while the Z432 is stiffer, improving driving and handling. So, I think the biggest issue in planning was that we had two fundamental aims, and we wanted to offer a choice of engines and suspensions and attract a wide range of users.
 
 We currently have a production capacity of 2,000 units per month, of which we plan to export about 1,500 units and sell about 500 units domestically. 
 
@@ -59,7 +59,7 @@ We currently have a production capacity of 2,000 units per month, of which we pl
 
 <b>Hirao:</b> How would you describe this styling?
 
-<b>Yotsumoto:</b> When we first first thought about the style, we were quite torn between making an aerodynamic-looking car, a hot car, or a specialty car like the Mustang. We tried a Mustang-type car, but in the end we decided to go with a true sports car image. 
+<b>Yotsumoto:</b> When we first thought about the style, we were quite torn between making an aerodynamic-looking car, a hot car, or a specialty car like the Mustang. We tried a Mustang-type car, but in the end we decided to go with a true sports car image. 
 
 Since it is a sports car, the aerodynamic look was the main goal, so we made a small model and had an aerodynamics expert look at it. The length of the car does not necessarily match the aerodynamic aspects, but we made it that way to give it an aerodynamic image. We had a lot of trouble with the relationship between the bumper height and the angle of the nose, and the legal regulations for the height of the headlights, so the big theme was how to incorporate the safety dimensions of the car in a way that still looks cool. 
 
