@@ -299,11 +299,11 @@ Next, the automatic Coupe 7 accelerates from 0-200m in 12.5 seconds and 0-400m 1
 
 
 
-<b>Tateishi:</b> In terms of vibration frequency, the sprung vibration frequency is 1.5Hz for both front and rear, and 13.0Hz for unsprung vibration front and rear. The noise level is 67 hones at 40km/h, 68 hones at 60km/h, 72 hones at 80km/h, 77 hones at 100km/h, 76 hones at 110km/h, and 79 hones at 120km/h.
+<b>Tateishi:</b> In terms of vibration frequency, the sprung vibration frequency is 1.5Hz for both front and rear, and 13.0Hz for unsprung vibration front and rear. The noise level is 67 phons at 40km/h, 68 phons at 60km/h, 72 phons at 80km/h, 77 phons at 100km/h, 76 phons at 110km/h, and 79 phons at 120km/h.
 
 
 
-The 7 automatic is 62 hones at 40km/h, 66 hones at 60km/h, 72 hones at 80km/h, 77 hones at 100km/h, 76 hones at 110km/h, and 76 hones at 120km/h. 
+The 7 automatic is 62 phons at 40km/h, 66 phons at 60km/h, 72 phons at 80km/h, 77 phons at 100km/h, 76 phons at 110km/h, and 76 phons at 120km/h. 
 
 
 

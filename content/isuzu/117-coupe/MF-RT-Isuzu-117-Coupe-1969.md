@@ -307,9 +307,9 @@ With a car like this, the transition between carburetors inevitably becomes an i
 
 Next, noise. As usual, we measured both interior and exterior noise. Since this test was conducted at Isuzu’s Fujisawa test course under good conditions, I don’t think it is appropriate to compare these figures directly with other cars measured at the Higashimurayama Mechanical Testing Laboratory course.
 
-Interior noise was measured from 40km/h to 140km/h. The results were 65 hones at 40km/h, 68 hones at 60km/h, 70 hones at 80km/h, 75 hones at 100km/h, 79 hones at 120km/h, and 79 hones at 140km/h. Looking at the characteristic curve, the values are fairly flat from about 110km/h to 140km/h.
+Interior noise was measured from 40km/h to 140km/h. The results were 65 phons at 40km/h, 68 phons at 60km/h, 70 phons at 80km/h, 75 phons at 100km/h, 79 phons at 120km/h, and 79 phons at 140km/h. Looking at the characteristic curve, the values are fairly flat from about 110km/h to 140km/h.
 
-Exterior noise was measured using the method specified by JIS. With the car in second gear, we measured two conditions: steady cruising at 55km/h, and full-throttle acceleration from 50km/h. The steady 50km/h run produced 76 hones, and the full-throttle acceleration run produced 82 hones.
+Exterior noise was measured using the method specified by JIS. With the car in second gear, we measured two conditions: steady cruising at 55km/h, and full-throttle acceleration from 50km/h. The steady 50km/h run produced 76 phons, and the full-throttle acceleration run produced 82 phons.
 
 <b>Watari:</b> From the ride measurements, this car feels like an ordinary passenger car, but from the noise measurements, it feels like a very fast car. It sounds contradictory… (laughs)
 

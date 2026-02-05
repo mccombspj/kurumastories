@@ -175,7 +175,7 @@ Following on from last month's test of the Capella Rotary Sedan, we tested the C
 
 <b><u>2. Ride (and Interior Noise)</b></u>
 
-The noise level was low across all measured vehicle speeds. This is probably due to the strong noise-reduction effect of the rotary engine, but it is 1-3 hones higher than the Rotary Sedan from last month. This is because the noise created by the rain itself is significant, and the impact of the heavy rain is clearly picked up by the test equipment.
+The noise level was low across all measured vehicle speeds. This is probably due to the strong noise-reduction effect of the rotary engine, but it is 1-3 phons higher than the Rotary Sedan from last month. This is because the noise created by the rain itself is significant, and the impact of the heavy rain is clearly picked up by the test equipment.
 
 <b><u>3. Overtaking Acceleration</b></u>
 

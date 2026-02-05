@@ -183,7 +183,7 @@ In that case, a transmission with fewer gears would be more than sufficient; one
 
 <b>Magazine:</b> Now, Professor Watari will tell us about the results of the noise tests.
 
-<b>Watari:</b> First, I will read out the data. The noise inside the car, was measured on the A scale, was 62 hones at 40km/h, 68 hones at 60km/h, 73 hones at 80km/h, 74 hones at 100km/h, 77 hones at 120km/h, and 78 hones at 130km/h. The conditions of the test course were different from those in Murayama, so we cannot directly compare the data with other Motor Fan tests, but in general, it is not particularly quiet by passenger car standards, but is fairly quiet for a sports car. When I actually drove it, I got the impression that it was a relatively quiet car. However, when I let the speed drop down to about 25km/h in top gear, I heard a loud rustling sound.
+<b>Watari:</b> First, I will read out the data. The noise inside the car, was measured on the A scale, was 62 phons at 40km/h, 68 phons at 60km/h, 73 phons at 80km/h, 74 phons at 100km/h, 77 phons at 120km/h, and 78 phons at 130km/h. The conditions of the test course were different from those in Murayama, so we cannot directly compare the data with other Motor Fan tests, but in general, it is not particularly quiet by passenger car standards, but is fairly quiet for a sports car. When I actually drove it, I got the impression that it was a relatively quiet car. However, when I let the speed drop down to about 25km/h in top gear, I heard a loud rustling sound.
 
 <b>Watanabe:</b> Still, I think it is on the low side in terms of driveline wind-up and vibration... As for the sound level, if we install this engine in a sedan next time, we plan to muffle the exhaust even more.
 

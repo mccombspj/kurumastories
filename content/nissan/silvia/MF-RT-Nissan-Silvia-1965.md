@@ -312,11 +312,11 @@ The body sides have a relatively flat feel, and another reason for this is that,
 
 However, when I actually rode in the car, although it was quite good in many respects, I felt that the elastic vibration through the chassis was a little large. On the test day, there was a strong wind of about 20m/s blowing at a 45-degree angle to the straight course, and when we were driving at high speed, the upper edge of the door felt a little lacking in rigidity.
 
-<b>Tateishi:</b> As for the noise data, due to the strong winds, the background noise was 65 hones on the A scale, so we corrected for ambient noise in the measurement range of 40 to 60 km/h. At 40 km/h, it was 65 hones, and at 60 km/h, it was 72 hones. We also measured interior noise at 160 km/h, and the figure was 91 hones. 
+<b>Tateishi:</b> As for the noise data, due to the strong winds, the background noise was 65 phons on the A scale, so we corrected for ambient noise in the measurement range of 40 to 60 km/h. At 40 km/h, it was 65 phons, and at 60 km/h, it was 72 phons. We also measured interior noise at 160 km/h, and the figure was 91 phons. 
 
 <b>Watari:</b> This was the first time that we measured noise inside the car in strong winds at 160 km/h, and if you convert the wind speed, it corresponds to running at close to 190 km/h. When comparing these measurements with other GT cars, the noise level is on the low side. 
 
-<b>Nakamura:</b> Comprared to our in-house data, the sound seems to be higher at high speeds. For reference, at 160 km/h, we measured the sound level at 86 hones, which is about 5 to 6 hones lower.
+<b>Nakamura:</b> Comprared to our in-house data, the sound seems to be higher at high speeds. For reference, at 160 km/h, we measured the sound level at 86 phons, which is about 5 to 6 phons lower.
 
 <b>Hirao:</b> It must be because of the wind. The background noise is corrected for, but at high speeds, the wind speed against the vehicle increases, so the noise generated apart from the background noise also increases. It probably rises at roughly the square of the wind speed against the vehicle.
 

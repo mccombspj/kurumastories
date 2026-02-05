@@ -39,11 +39,11 @@ However, the GT model retained its “traditional” design features of a six-cy
 
 Tracing the development story of the 2000GT is quite complicated, and since most readers are already aware of it, we will refrain from going into the details.
 
-What did attract attention at the time of the model change, however, was the new car's specification of 105 horsepower, a single carburetor, and a 4-speed transmission. The reasoning behind this was later explained by the appearance of the GT-R with the R380 engine, but at the time of the 2000GT’s announcement, it left many people scratching their heads.
+What did attract attention at the time of the model change, however, was the new car's specification of 105ps, a single carburetor, and a 4-speed transmission. The reasoning behind this was later explained by the appearance of the GT-R with the R380 engine, but at the time of the 2000GT’s announcement, it left many people scratching their heads.
 
 The commonly asked question was, “It’s still wearing sheep’s clothing, but where is the wolf inside?”
 
-Last fall, with the introduction of the Skyline 1800, the Skyline 2000GT received a 15 horsepower increase, bringing output to 120ps. What would the reception be like this time?
+Last fall, with the introduction of the Skyline 1800, the Skyline 2000GT received a 15ps increase, bringing output to 120ps. What would the reception be like this time?
 
 <b><u>A Subtle 15ps Power Increase</b></u>
 
@@ -63,7 +63,7 @@ Prior to this, there were various opinions about the reason behind the power inc
 
 “The subsequent models of each car on the market have become more powerful. While there was still enough margin for high-speed driving, 105ps was not enough to maintain the 2000GT’s outsized ‘displacement’ on the market,” was one view.
 
-Another view pointed to “internal circumstances."  With the addition of the Skyline 1800 to the series, with is output of 100ps, it would be awkward to have the GT, with its 2000cc displacement, only 5ps ahead. So they strengthened it to further separate the two.
+Another view pointed to “internal circumstances."  With the addition of the Skyline 1800 to the series, with its output of 100ps, it would be awkward to have the GT, with its 2000cc displacement, only 5ps ahead. So they strengthened it to further separate the two.
 
 “It was shocked back to life,” someone joked, drawing laughter. Still, it is fair to say that the motivation for the 15ps increase was to satisfy the sporty mood and make the car more relaxed in high-speed driving.
 
@@ -130,11 +130,11 @@ By comparison, the Fairlady’s seat cushion has a 1.5cm height adjustment, allo
 
 On the other hand, the rear seats are near-perfect. Legroom is generous and the seats themselves are comfortable. However, some commented: "The backrest angle is a bit too reclined. I suppose it depends on personal preference…"
 
-As for interior noise, at 60km/h we measured 67 hones, at 80km/h around 72 hones, and at 100km/h only 75 hones. This last figure was particularly noteworthy. It is natural that noise increases as the speed increases, but in this case, the curve becomes gentler as speed increases. Especially considering that there will likely be more opportunities for continuous high-speed driving in the future, 75 hones at 100km/h is a significant and commendable result.
+As for interior noise, at 60km/h we measured 67 phons, at 80km/h around 72 phons, and at 100km/h only 75 phons. This last figure was particularly noteworthy. It is natural that noise increases as the speed increases, but in this case, the curve becomes gentler as speed increases. Especially considering that there will likely be more opportunities for continuous high-speed driving in the future, 75 phons at 100km/h is a significant and commendable result.
 
 However, wind noise is relatively loud. After trying various things, it appears that the cause is the antenna mounted on the right windshield pillar. The antenna sits about 1cm above the surface of the pillar, being fixed at the upper and lower ends. As air passes through the small gap, it seems to create friction noise and turbulence, resulting in a fairly pronounced wind noise.
 
-Regarding ride comfort, the Skyline series uses a typical strut-type suspension for the front wheels, while at the rear, it employs the same semi-trailing arm independent suspension as the Bluebird and Laurel. The tires are 6.45-14-4PR bias-plies.
+Regarding ride comfort, the Skyline series uses a typical strut-type suspension for the front wheels, while at the rear, it employs the same semi-trailing arm independent suspension as the Bluebird and Laurel. The tires are 6.45-14-4PR bias-ply.
 
 The resulting ride leaves little to criticize. Comments such as, “You don't feel the sense of speed,” and “It feels stable, so you can drive for long distances” were in the majority.
 

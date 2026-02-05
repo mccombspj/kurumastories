@@ -143,9 +143,9 @@ Compared with the Corona Mark II 1900SL, the 0-400m time is the same at 17.6 sec
 
 <b>Tateishi:</b> The sprung vibration frequency is 1.35cps at the front, and 1.55cps at the rear, and the unsprung vibration frequency is 14.0cps for both the front and rear.
 
-As for noise levels, the road surface conditions of the test course were extremely good, so the values are quite favorable: 59 hones at 40km/h, 62 hones at 50km/h, 64 hones at 60km/h, 67 hones at 70km/h, 69 hones at 80km/h, 70 hones at 90km/h, 73 hones at 100km/h, 74 hones at 110km/h, and 75 hones at 120km/h.
+As for noise levels, the road surface conditions of the test course were extremely good, so the values are quite favorable: 59 phons at 40km/h, 62 phons at 50km/h, 64 phons at 60km/h, 67 phons at 70km/h, 69 phons at 80km/h, 70 phons at 90km/h, 73 phons at 100km/h, 74 phons at 110km/h, and 75 phons at 120km/h.
 
-For exterior noise, we performed our usual two tests: steady driving at 50km/h in second gear, and accelerating from 50km/h in second gear, with the results being 70.5 hones for the steady-speed pass, and 80.5 hones for the acceleration pass.
+For exterior noise, we performed our usual two tests: steady driving at 50km/h in second gear, and accelerating from 50km/h in second gear, with the results being 70.5 phons for the steady-speed pass, and 80.5 phons for the acceleration pass.
 
 As for ride vibration, I think the suspension frequency is slightly lower than the Skyline 2000GT we tested previously. The ride also felt very comfortable. However, around 90km/h, there is a slight increase in vibration, which seems to be due to a resonance in the rear suspension.
 
@@ -207,7 +207,7 @@ For an 1800cc engine, these results were considerably better than I had original
 
 <b>Doi:</b> First of all, the practical minimum turning radius was 5.50m when measured at the outer radius, and 3.05m at the inner radius.
 
-Next, in the understeer/oversteer test on our 15m test circle, at V100 the R/R value is 1.55, with a vehicle speed of 39.km/h at that time.
+Next, in the understeer/oversteer test on our 15m test circle, at V100 the R/R value is 1.55, with a vehicle speed of 39km/h at that time.
 
 During that test, the maximum force required to maintain the steering angle was 3.5kg, and at 0.5g lateral acceleration, it was 2.8kg. The Corona Mark II's maximum was 3.3kg, so it's a little heavier in this car.
 
@@ -339,7 +339,7 @@ The accelerator is very light. To maintain a constant 50km/h, the pedal force is
 
 <b>Magazine:</b> Next, let’s go over the visibility data.
 
-<b>Watanabe:</b> The forward visible range is 31° to the right, 61° to the left, for a total of 93°. Vertically, the range is 10° up, 15° down, for a total of 25°. The rear visible range is 12° right, 38° left, for a total ot 50°. Vertically rearward, it is 5° up, 8° down, total 13°.
+<b>Watanabe:</b> The forward visible range is 31° to the right, 61° to the left, for a total of 93°. Vertically, the range is 10° up, 15° down, for a total of 25°. The rear visible range is 12° right, 38° left, for a total of 50°. Vertically rearward, it is 5° up, 8° down, total 13°.
 
 Next, the wiper sweep range is 29° on the right, 48° on the left, for a total of 77°. Including the driver’s viewpoint, the dead angles in the horizontal plane are 8° in the left front blind spot, 15° in the right front blind spot. The total forward blind spot is 23°, and 69° overall.
 

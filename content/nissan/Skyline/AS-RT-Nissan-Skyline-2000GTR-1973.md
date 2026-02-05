@@ -27,10 +27,9 @@ As the starter key was turned, the sound of the electromagnetic fuel pump workin
 
 "The sound is great. I think anyone who loves cars will be thrilled by the sound of the S20. No matter how many times I listen to it, I'm always in awe," Hasemi murmured.
 
-He's exactly right. When you're driving in the city or on the highway, the sound of this car passing by makes you feel the power and strength and makes you want to give way. The exhaust note of the S20... even if it's at a loud volume, it's not an unpleasant noise for enthusiasts, but a beautiful "sound."
+He's exactly right. When you're driving in the city or on the highway, the sound of this car passing by clearly conveys the power and strength and makes you want to give way. The exhaust note of the S20... even if it's at a loud volume, it's not an unpleasant noise for enthusiasts, but a beautiful "sound."
 
-Kitano completed laps in the 2 minute 19 second range. In the tight corners, he let the tail hang out a little just before entering and took advantage of the limited slip differential to exit cleanly.
-After seven or eight laps we came back to the pits.
+Kitano completed laps in the 2 minute 19 second range. In the tight corners, he let the tail hang out a little just before entering and took advantage of the limited slip differential to exit cleanly. After seven or eight laps we came back to the pits.
 
 "It feels like it's become more mature in many ways than the previous GT-R. In other words, I feel like the old GT-R is better in terms of rawness, but in return it's more well-rounded and easier to handle. It has a more refined feeling.
 
@@ -125,7 +124,7 @@ Third gear is sufficient for driving at 40 to 50km/h in urban areas, and the ove
 
 However, there isn't much torque until the rotation exceeds 3000rpm, so although you can drive smoothly at low speeds, when it comes to acceleration, you'll want to stay above 3500rpm.
 
-Also, the combination of low low-speed torque, a high first gear ratio, and a limited-slip differential requires a launch technique that is different from that of an ordinary car. With a normal sedan-like combination of accelerator and clutch work, the start will be very jerky, the revs will drop, and you will fall behind significantly. To get a clean start in the GT-R, use half-clutch at the moment of engagement, increase the rotation speed a little, and then gradually engage the clutch the rest of the way.
+Also, the combination of modest low-speed torque, a high first gear ratio, and a limited-slip differential requires a launch technique that is different from that of an ordinary car. With a normal sedan-like combination of accelerator and clutch work, the start will be very jerky, the revs will drop, and you will fall behind significantly. To get a clean start in the GT-R, use half-clutch at the moment of engagement, increase the rotation speed a little, and then gradually engage the clutch the rest of the way.
 
 In other words, the technique is "little by little..."
 

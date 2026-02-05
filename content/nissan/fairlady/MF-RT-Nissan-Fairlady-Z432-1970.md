@@ -125,9 +125,9 @@ Practical fuel economy was measured at 7.1km/l at an average speed of 22.1km/h a
 
 <b>Tateishi:</b> First, in terms of suspension vibration frequency, the vibration frequency is 1.5cps for the sprung mass and 13cps for the unsprung mass. 
 
-Noise level inside the car were 65 hones at 40km/h, 67 hones at 60km/h, 72 hones at 80km/h, 75 hones at 100km/h, 79 hones at 120km/h, 84 hones at 140km/h, and 84 hones at 150km/h. 
+Noise level inside the car were 65 phons at 40km/h, 67 phons at 60km/h, 72 phons at 80km/h, 75 phons at 100km/h, 79 phons at 120km/h, 84 phons at 140km/h, and 84 phons at 150km/h. 
 
-External noise while driving in second gear was 74 hones at a steady speed of 50km/h, 81 hones when accelerating through 50km/h, and 46 hones for background noise.
+External noise while driving in second gear was 74 phons at a steady speed of 50km/h, 81 phons when accelerating through 50km/h, and 46 phons for background noise.
 
 <b>Watari:</b> It depends on what the aim of this car is, but for enjoying long-distance driving, the sound level is a little high. However, if you're driving on a circuit, the noise won't be a problem. Also, there are some peaks in the sound level, but if you eliminate these, I don't think you'll notice the noise level as much even if it's high overall.
 

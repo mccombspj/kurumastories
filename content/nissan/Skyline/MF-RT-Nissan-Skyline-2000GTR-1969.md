@@ -76,7 +76,7 @@ Bore and stroke are 82mm x 62.8mm, the same as the R380, but the compression rat
 
 <b>Higuchi:</b> On the contrary, even if you drop it to third gear, the response is slow and the elderly can't keep pace with traffic. I've also heard people say that since the acceleration is poor in top gear, you can accelerate gradually and just relax, and not get tired.
 
-<b><u>Numerous new mechanisms adopted</b></u>
+<b><u>Numerous New Mechanisms Adopted</b></u>
 
 <b>Magazine:</b> Regarding the structure of the engine, we understand that a side bolt system has been adopted. Could you please explain this a little?
 
@@ -131,7 +131,7 @@ The springs are much stiffer, the exhaust is a full-fledged dual type in prepara
 
 <b>Magazine:</b> How about the safety when driving at high speeds?
 
-<b>Sakurai:</b> Compared to the 2000GT that has already been released, we haven't done anything to improve safety, especially inside the car, but we have adopted H-rated tires (high-speed tires that can be driven continuously at 205 km/h) to prevent the most frightening punctures at high speeds. Of course, the car satisfies the safety standards that have been in effect since April 1st, but we were not particularly conscious of increasing safety at high speeds. However, there are many options to ensure safety for competition use.
+<b>Sakurai:</b> Compared to the 2000GT that has already been released, we haven't done anything to improve safety, especially inside the car, but we have adopted H-rated tires (high-speed tires that can be driven continuously at 205km/h) to prevent the most frightening punctures at high speeds. Of course, the car satisfies the safety standards that have been in effect since April 1st, but we were not particularly conscious of increasing safety at high speeds. However, there are many options to ensure safety for competition use.
 
 <b><u>Acceleration From 0-400m in 15.6 Seconds!</b></u>
 
@@ -139,7 +139,7 @@ The springs are much stiffer, the exhaust is a full-fledged dual type in prepara
 
 <b>Furuya:</b> This test was conducted on the course at Nissan Motors' Murayama Plant. The vehicle weight at the time of measurement was 1316 kg, including three people and testing instruments. In terms of time to distance from a standing start, the results were 0-50m in 4.0 seconds, 0-100m in 6.3 seconds, 0-200m in 9.8 seconds, and 0-400m in 15.6 seconds.
 
-In terms of time to speed, it took 2.9 seconds to reach 40km/h, 4.4 seconds to reach 60km/h, 6.0 seconds to reach80 km/h, 8.3 seconds to reach 100km/h, and 10.9 seconds to reach 120km/h, all of which means it is a car with excellent acceleration. In particular, the 0-50m time of 4.0 seconds is a value that has never been seen before in a Japanese car.
+In terms of time to speed, it took 2.9 seconds to reach 40km/h, 4.4 seconds to reach 60km/h, 6.0 seconds to reach 80km/h, 8.3 seconds to reach 100km/h, and 10.9 seconds to reach 120km/h, all of which means it is a car with excellent acceleration. In particular, the 0-50m time of 4.0 seconds is a value that has never been seen before in a Japanese car.
 
 <b>Hirao:</b> Has a foreign car ever done so?
 
@@ -183,7 +183,7 @@ In terms of time to speed, it took 2.9 seconds to reach 40km/h, 4.4 seconds to r
 
 <b>Tanaka:</b> We thought more about the hold once seated than about sitting down, so while we did make the sides lower than the original plan, taking into account the ease of getting in and out, I actually wish they were higher.
 
-<b>Hoshishima:</b> I think it would be good to have support on the sides of the driver's knees as well.
+<b>Hoshijima:</b> I think it would be good to have support on the sides of the driver's knees as well.
 
 <b>Hirao:</b> That's right, I would want them to support both my back and knees.
 
@@ -195,9 +195,9 @@ In terms of time to speed, it took 2.9 seconds to reach 40km/h, 4.4 seconds to r
 
 <b>Magazine:</b> Next, we would like to ask for the data on suspension frequency and noise measured by the Watari Laboratory. 
 
-<b>Tateishi:</b> First, regarding vibration, the sprung vibration frequency was 1.5 cps for both the front and rear wheels, while the unsprung vibration frequency was 15.0cps at the front wheels, and 16.0 cps at the rear wheels. In terms of interior noise, it was measured at 67 hones from 40km/h to 50km/h, 68 hones at 60km/h, 70 hones at 70km/h, 73 hones from 80km/h to 100km/h, 74 hones at 110km/h, and 75 hones at 120km/h. External noise was measured in second gear, with a reading of 74 hones when driving at a steady speed and 86 hones when accelerating. All of these figures were obtained while driving on Nissan's test course.
+<b>Tateishi:</b> First, regarding vibration, the sprung vibration frequency was 1.5 cps for both the front and rear wheels, while the unsprung vibration frequency was 15.0cps at the front wheels, and 16.0 cps at the rear wheels. In terms of interior noise, it was measured at 67 phons from 40km/h to 50km/h, 68 phons at 60km/h, 70 phons at 70km/h, 73 phons from 80km/h to 100km/h, 74 phons at 110km/h, and 75 phons at 120km/h. External noise was measured in second gear, with a reading of 74 phons when driving at a steady speed and 86 phons when accelerating. All of these figures were obtained while driving on Nissan's test course.
 
-<b>Watari:</b> The characteristics of the noise inside the car are a little different from those of a normal car, in that its relationship to speed is pretty flat. So, even though it starts off loud at low speeds, it seems to become quieter and quieter as the speed increases. It's not, actually, it's just that the noise level doesn't change much. There are some peaks, though, and at 40km/h in top gear, it may be too loud for a leisurely drive around town.
+<b>Watari:</b> The characteristics of the noise inside the car are a little different from those of a normal car, in that its relationship to speed is pretty flat. So, even though it starts off loud at low speeds, it seems to become quieter and quieter as the speed increases. It's not, actually; it's just that the noise level doesn't change much. There are some peaks, though, and at 40km/h in top gear, it may be too loud for a leisurely drive around town.
 
 <b>Magazine:</b> I don't think there is much to complain about in terms of the sound or ride comfort with a car like this, but what was the impression during the test drive? 
 
@@ -221,7 +221,7 @@ In terms of time to speed, it took 2.9 seconds to reach 40km/h, 4.4 seconds to r
 
 <b>Magazine:</b> How was the fuel economy?
 
-<b>Oguchi:</b> Before our first test, we thought that because it's a GT-R, it would consume a lot of fuel, but when we measured it, we was surprised to find that its fuel efficiency curve didn't drop sharply at higher speeds, and the overally figures weren't that bad either. 
+<b>Oguchi:</b> Before our first test, we thought that because it's a GT-R, it would consume a lot of fuel, but when we measured it, we were surprised to find that its fuel efficiency curve didn't drop sharply at higher speeds, and the overall figures weren't that bad either. 
 
 In terms of constant-speed fuel economy, in direct fourth gear, the figures were 14.0km/l at 40km/h, 13.8km/l at 60km/h, 12.5km/l at 80km/h, 12.3km/l at 100km/h, 9.0km/l at 120km/h, and 6.9km/l at 140km/h. In overdrive fifth gear, the fuel consumption was 15.4km/l at 60km/h, 14.0km/l at 80km/h, 12.3km/l at 100km/h, 10.3km/l at 120km/h, 8.2km/l at 140km/h, and 5.7km/l at 160km/h. In other words, 60km/h in fifth gear is the most fuel-efficient way to drive.
 
@@ -253,7 +253,7 @@ The front brakes are discs, and the rear brakes are leading-trailing drums. The 
 
 The servo's rest point is about 25kg of pedal pressure, and the pedal pressure at 0.6g deceleration was 20kg in a bench test. The brake pressure is distributed about 65:35, but it seems that the design is such that the rear brakes' share drops further if the deceleration is increased beyond 0.6g.
 
-The parking brake is a mechanical floor lever type that works on the rear wheels, and it is light, requiring a force of about 20% to obtain a braking force of 20% of the total weight, and a force of 25kg is sufficient to hold the car on a one-in-five grade.
+The parking brake is a mechanical floor lever type that works on the rear wheels, and it is light, requiring a force of about 20kg to obtain a braking force of 0.2g, and a force of 25kg is sufficient to hold the car on a one-in-five grade.
 
 The gear lever throws are about 3kg for each gear, and the window cranks are light at about 1-3kg. However, the clutch weighs 8kg to engage and 10 to 12kg to disengage, and when disengaging it, you usually step on the toe board, in which case it is 30kg, which is somewhat heavy, as you said.
 
@@ -263,9 +263,9 @@ The gear lever throws are about 3kg for each gear, and the window cranks are lig
 
 <b>Ishikawa:</b> I thought that it would be very difficult to control the acceleration and deceleration of a car like this, but even though the acceleration and deceleration were sudden, it was not difficult to handle. What surprised me when I drove on the Tomei Expressway was how easy it was to pass all the other cars. I used the brakes a lot, but the stability when I stepped on them was good and I could drive without worry. 
 
-<b>Tanaka:</b> I also asked some older people in the company to try it out, and they seemed to be able to drive it safely up to about 160 km/h. 
+<b>Tanaka:</b> I also asked some older people in the company to try it out, and they seemed to be able to drive it safely up to about 160km/h. 
 
-<b>Hirao:</b> In Europe, cruising at about 160 km/h is not that unusual.
+<b>Hirao:</b> In Europe, cruising at about 160km/h is not that unusual.
 
 <b>Hoshijima:</b> When I was driving on the Tomei Expressway, I accidentally took my eyes off the gauges and my speed increased a lot. Also, I noticed this when I kept the car overnight, but what bothered me more than the engine noise was the clicking of the electromagnetic fuel pump.
 
@@ -273,7 +273,7 @@ The gear lever throws are about 3kg for each gear, and the window cranks are lig
 
 <b>Magazine:</b> Next, please tell us about the data on handling and stability from Kondo Laboratory.
 
-<b>Akutsu:</b> In the understeer and oversteer tests, when accelerating on a 15m radius circle, there was weak understeer from 0 up to about 40km/h, which was a lateral acceleration of 0.75g. It started to reverse into oversteer around 0.8g, and we kept pushing in oversteer until we reached an indicated maximum of 0.96g. The steering force ranged from 0.5kg to a maximum of 5.8kg, and the roll rate was about 3.5°. The steering was quite heavy when the car was stationary, and the instrument we use to measure steering force went over scale at around 270° of steering angle, which means it was over 15kg. The steering force in the slalom test was about 2.5kg to the left and right at a lateral acceleration of 0.25G, and in the hands-free directional stability test, we tried driving at up to 180km/h for the first time since we started conducting this test began, and even when we twitched and released the steering wheel at this speed, the car converged without any worries.
+<b>Akutsu:</b> In the understeer and oversteer tests, when accelerating on a 15m radius circle, there was weak understeer from 0 up to about 40km/h, which was a lateral acceleration of 0.75g. It started to reverse into oversteer around 0.8g, and we kept pushing in oversteer until we reached an indicated maximum of 0.96g. The steering force ranged from 0.5kg to a maximum of 5.8kg, and the roll rate was about 3.5°. The steering was quite heavy when the car was stationary, and the instrument we use to measure steering force went over scale at around 270° of steering angle, which means it was over 15kg. The steering force in the slalom test was about 2.5kg to the left and right at a lateral acceleration of 0.25g, and in the hands-free directional stability test, we tried driving at up to 180km/h for the first time since we began conducting this test, and even when we twitched and released the steering wheel at this speed, the car converged without any worries.
 
 <b>Magazine:</b> On the topic of handling, since this car is a sedan, how many passengers is the ideal weight distribution set for?
 
