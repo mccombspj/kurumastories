@@ -65,7 +65,7 @@ However, that didn't mean we'd be happy to enter a race and lose, so we were gre
 
 <b>Magazine:</b> So when did development actually begin? 
 
-<b>Kono:</b> Right after the 2nd Japan GP, ​​so around June 1964.
+<b>Kono:</b> Right after the 2nd Japan GP, so around June 1964.
 
 <b>Magazine:</b> How did development proceed specifically? 
 
@@ -73,7 +73,7 @@ However, that didn't mean we'd be happy to enter a race and lose, so we were gre
 
 There were many discussions about the size and arrangement of the engine, but we aimed to make the best engine we could using the orthodox FR method, and using as many parts as possible from the Crown that we currently make, aiming to feed the results back to the Crown, so we deliberately did not design a new engine. So, although there were some shortcomings, I think we were able to achieve a certain level of performance. The development method was also somewhat different from Toyota's previous mass-produced models. I was the chief, and a team of four people was organized under me, and everything was carried out under this team's authority.
 
-We then sent the completed plan to Yamaha Motors, which happened to have a relationship with Toyota, to make a prototype and also manufacture the car. The relationship between Toyota and Yamaha is exactly the same as, for example, having Kanto Auto Works, located in the Kanto region, manufacture the car's body.
+We then sent the completed plan to Yamaha Motor Co., which happened to have a relationship with Toyota, to make a prototype and also manufacture the car. The relationship between Toyota and Yamaha is exactly the same as, for example, having Kanto Auto Works, located in the Kanto region, manufacture the car's body.
 
 <b><u>A Style That Combines Function and Beauty</b></u>
 
@@ -83,11 +83,11 @@ We then sent the completed plan to Yamaha Motors, which happened to have a relat
 
 <b>Magazine:</b> You said that you modified the engine from the Crown, but what did you do specifically? 
 
-<b>Kono:</b> It was based on the single OHC Crown M-type engine, but it was changed to a double OHC. The head was completely changed, but the cylinder block remained the same. The shape of the combustion chamber was also changed, and the valve diameter was significantly larger, at 42 mm for intake and 37 mm for exhaust. In addition, the connecting rod and crankshaft are the same, but the front cover has been changed, and the exterior shape is quite different. 
+<b>Kono:</b> It was based on the single OHC Crown M-type engine, but it was changed to a double OHC. The head was completely changed, but the cylinder block remained the same. The shape of the combustion chamber was also changed, and the valve diameter was significantly larger, at 42mm for intake and 37mm for exhaust. In addition, the connecting rod and crankshaft are the same, but the front cover has been changed, and the exterior shape is quite different. 
 
 <b>Hirao:</b> It is said that the body style is very similar to the Jaguar E-type. Was this something you were aware of during the design process?
 
-<b>Kono:</b> I didn't think about that at all. When designing a car, there are two ways to do it: either start from the style or from the suspension and structure. This car was the latter. First, we finalized the chassis structure, finalized the front and rear suspension, put the engine in, and then we left space for the people inside and put a body on it. In this process, we didn't think about any extra space, we just made it as close-coupled as possible. I defined all the limits, like this was the limit line, this was the border line, and then I handed it over to the designer. The result was this style, and we didn't think about the style of other cars.
+<b>Kono:</b> I didn't think about that at all. When designing a car, there are two ways to do it: either start from the style or from the suspension and structure. This car was the latter. First, we finalized the chassis structure, finalized the front and rear suspension, put the engine in, and then we left space for the people inside and put a body on it. In this process, we didn't think about any extra space, we just made it as close-coupled as possible. I defined all the limits, like this was the limit line, this was the borderline, and then I handed it over to the designer. The result was this style, and we didn't think about the style of other cars.
 
 <b>Hirao:</b> In the end, what you were conscious of was the mechanism, and the size and posture of the people.
 
@@ -101,7 +101,7 @@ We then sent the completed plan to Yamaha Motors, which happened to have a relat
 
 <b><u>Based On Data From Actual Vehicle Tests</b></u>
 
-<b>Kono:</b> To improve the performance of a car, apart from the weight factor, it is necessary to reduce the frontal area. So we proceeded with the production with the simplest shape possible. However, since we didn't have access to a suitable wind tunnel, we actually drove the car to check the effect. We tried adding a tail spoiler, but it didn't have much effect, and the top speed actually dropped. After that, we took photos of the posture when it was driven at over 200 km/h, and measured the inclination and various other elements. We attached wool to the surface of the car's body, drove it, and took photos of the wool's swaying from various angles from the accompanying car to collect data. 
+<b>Kono:</b> To improve the performance of a car, apart from the weight factor, it is necessary to reduce the frontal area. So we proceeded with the production with the simplest shape possible. However, since we didn't have access to a suitable wind tunnel, we actually drove the car to check the effect. We tried adding a tail spoiler, but it didn't have much effect, and the top speed actually dropped. After that, we took photos of the posture when it was driven at over 200km/h, and measured the inclination and various other elements. We attached wool to the surface of the car's body, drove it, and took photos of the wool's swaying from various angles from the accompanying car to collect data. 
 
 <b>Higuchi:</b> It might actually be better to test it with an actual car rather than a model in a wind tunnel. Unlike an airplane, the air flow around the radiator of a car is quite different between a model and the real thing... 
 
@@ -173,7 +173,7 @@ However, if possible, I think it would be good to sell a 2+2 type in addition to
 
 <b>Kono:</b> The spring constants and other things are about 10% to 15% stronger for circuit use. 
 
-<b>Higuchi:</b> When I actually drove it, it didn't feel that unusual. I wasn't able to drive it very fast, but as long as I drove it at a speed of around 60 km/h, it was not much different from a normal sedan, and I got the impression that it was a good car to simply drive. I do wish the steering effort was a little lighter, if possible. 
+<b>Higuchi:</b> When I actually drove it, it didn't feel that unusual. I wasn't able to drive it very fast, but as long as I drove it at a speed of around 60km/h, it was not much different from a normal sedan, and I got the impression that it was a good car to simply drive. I do wish the steering effort was a little lighter, if possible. 
 
 <b>Kono:</b> The weight of the steering is due to the strength of the pinion gear of the rack-pinion. Of course, it would be nice to have a variable ratio, but if you put the gears for the "husband spec" ratio in the same position, the strength of the pinion will be questionable.
 
@@ -183,13 +183,13 @@ However, if possible, I think it would be good to sell a 2+2 type in addition to
 
 <b>Hirao:</b> It seemed like the carburetor setting on the car we drove wasn't very good. If you let the revs fall a little too far, it jerks. How fast is it going at 1000rpm in low gear? 
 
-<b>Kono:</b> About 10 km/h. It should be able to run normally at that speed.
+<b>Kono:</b> About 10km/h. It should be able to run normally at that speed.
 
 <b>Hirao:</b> Actually, I also felt some jerkiness when I let the revs drop too much in second gear, but I immediately realized it was the carburetor.
 
-<b>Kono:</b> It's very difficult to cover that rotation range. That's why we would like you to keep the engine above 1200-1300 rpm. 　
+<b>Kono:</b> It's very difficult to cover that rotation range. That's why we would like you to keep the engine above 1200-1300rpm. 　
 
-<b>Toyota:</b> We had to cover the high-speed range as well, and we had a lot of trouble with that. 
+<b>Toyota (Riichi):</b> We had to cover the high-speed range as well, and we had a lot of trouble with that. 
 
 <b>Hirao:</b> How many revolutions can you pull that engine up to? 　
 
@@ -197,25 +197,25 @@ However, if possible, I think it would be good to sell a 2+2 type in addition to
 
 <b>Hirao:</b> So that means you can get up to about 70km/h in low gear. 　
 
-<b>Higuchi:</b> On the university campus, low ger was the only gear I could use... (laughs). 
+<b>Higuchi:</b> On the university campus, low gear was the only gear I could use... (laughs). 
 
 <b>Hirao:</b> I drove around town, and I could use low and second. Once I got on the highway, I tried a lot of different gear and speed combinations, but 40km/h in top gear was fine. 　
 
 <b>Magazine:</b> Toyota has adopted a lot of new things in this design, like the backbone frame and the suspension. How difficult was it during the development stage? 
 
-<b>Kono:</b> It was all new, so we were a bit scared, but it turned out pretty well. There were some changes along the way, but all four wheels are independent suspension, the support system is double wishbone both front and rear, and the springs are high-mounted. The shock absorbers are hydraulic telescopic, and the front and rear stabilizers use torsion bars, and the suspension uses rubber bushings to minimize vibration and noise. The center of gravity of the entire car is also very low at 440mm, improving cornering characteristics.
+<b>Kono:</b> It was all new, so we were a bit anxious, but it turned out pretty well. There were some changes along the way, but all four wheels are independently suspended, the suspension system is double wishbone both front and rear, and the springs are high-mounted. The shock absorbers are hydraulic telescopic units, and the front and rear stabilizers use torsion bars, and the suspension uses rubber bushings to minimize vibration and noise. The center of gravity of the entire car is also very low at 440mm, improving cornering characteristics.
 
 <b><u>The Maximum Speed is 235km/h</b></u>
 
 <b>Magazine:</b>Now, let's please announce the results of the dynamic performance tests conducted by the Hirao Laboratory.
 
-<b>Oguchi:</b> It was raining on the day of the test, and the road conditions were poor, so I must ask you to excuse the poor figures. The test vehicle's odometer read 7,990km, which means it is a heavily used vehicle. The test conditions were two passengers plus the test equipment, so the vehicle was loaded with a total of 139.5 kg.
+<b>Oguchi:</b> It was raining on the day of the test, and the road conditions were poor, so I must ask you to excuse the poor figures. The test vehicle's odometer read 7,990km, which means it is a heavily used vehicle. The test conditions were two passengers plus the test equipment, so the vehicle was loaded with a total of 139.5kg.
 
-First, in terms of standing-start acceleration, the time-to-distance results were 0-50m in 4.5 seconds, 0-100m in 6.9 seconds, 0-200m in 10.4 seconds, and 0-400 m in 16.1 seconds. In terms of time to speed, it took 5.2 seconds to reach 60km/h, 7.4 seconds to reach 80km/h, 9.6 seconds to reach 100km/h, 12.5 seconds to reach 120km/h, and 14.4 seconds to reach 130km/h, so by the end of the standing 400m, you will be traveling at a speed of 130km/h.
+First, in terms of standing-start acceleration, the time-to-distance results were 0-50m in 4.5 seconds, 0-100m in 6.9 seconds, 0-200m in 10.4 seconds, and 0-400m in 16.1 seconds. In terms of time to speed, it took 5.2 seconds to reach 60km/h, 7.4 seconds to reach 80km/h, 9.6 seconds to reach 100km/h, 12.5 seconds to reach 120km/h, and 14.4 seconds to reach 130km/h, so by the end of the standing 400m, you will be traveling at a speed of 130km/h.
 
 Next, overtaking acceleration. This car has an overdrive on top of fourth gear. In overtaking acceleration from 30km/h in third gear, it takes 8.6 seconds to reach 60km/h, 16.5 seconds to reach 100km/h, and 22.7 seconds to reach 130km/h. In overtaking acceleration from 40km/h in top gear (fourth gear), it takes 17.2 seconds to reach 100km/h and 22.2 seconds to reach 120km/h. 
 
-Finally, we also measured overtaking times in overdrive, and from 50km/h in overdrive, it took 20.0 seconds to reach 100km/h. As with the tests from 30km/h in 3rd gear and 40km/h in top gear, this didn't really fit the characteristics of the car, but the results the same pattern as before. Also, something I noticed during the test was that the air resistance is very small. So, when we do a coasting test, for example, when coasting from 70km/h or 80km/h, it rolls so much that it goes into the corners of the Murayama course. It's a little difficult to test this car on the relatively small test course at the Mechanical Testing Center.
+Finally, we also measured overtaking times in overdrive, and from 50km/h in overdrive, it took 20.0 seconds to reach 100km/h. As with the tests from 30km/h in 3rd gear and 40km/h in top gear, this didn't really fit the characteristics of the car, but the results followed the same pattern as before. Also, something I noticed during the test was that the air resistance is very small. So, when we do a coasting test, for example, when coasting from 70km/h or 80km/h, it rolls so much that it goes into the corners of the Murayama course. It's a little difficult to test this car on the relatively small test course at the Mechanical Testing Center.
 
 <b>Kono:</b> That's right. I wanted to take it to Yatabe.
 
@@ -237,11 +237,11 @@ Finally, we also measured overtaking times in overdrive, and from 50km/h in over
 
 <b>Magazine:</b> Next, we would like to hear the results of the noise and vibration tests carried out at the Watari Laboratory.
 
-<b>Tateishi:</b> First, the frequency was measured only in the front seats, since it is a two-seater. Going over the test bumps, the sprung frequency was 1.5 cps for the front wheels and 1.5 cps for the rear wheels, while the unsprung frequency was about 13 to 13.5 cps for the front wheels and 15 cps for the rear wheels. Therefore, the sprung frequency is the same for both the front and rear wheels, and the unsprung frequency is that the front wheels are softer and the rear wheels are a little harder.
+<b>Tateishi:</b> First, the frequency was measured only in the front seats, since it is a two-seater. Going over the test bumps, the sprung frequency was 1.5cps for the front wheels and 1.5cps for the rear wheels, while the unsprung frequency was about 13 to 13.5cps for the front wheels and 15cps for the rear wheels. Therefore, the sprung frequency is the same for both the front and rear wheels, and the unsprung frequency is that the front wheels are softer and the rear wheels are a little harder.
 
-Next, noise. We measured the interior noise from 40km/h to 120km/h in 4th gear, and the results were 65 honks at 40km/h, 69 at 60km/h, 72 at 80km/h, 75 at 100km/h, 76 at 110km/h, and 77 honks at 120km/h. As for the external noise, we had been measuring the sound by accelerating at full speed from 50% and 75% of the maximum horsepower revolutions, but since the JIS for measuring external noise was adopted at the end of March this year, we decided to follow it from this time.
+Next, noise. We measured the interior noise from 40km/h to 120km/h in 4th gear, and the results were 65 phons at 40km/h, 69 at 60km/h, 72 at 80km/h, 75 at 100km/h, 76 at 110km/h, and 77 phons at 120km/h. As for the external noise, we had been measuring the sound by accelerating at full speed from 50% and 75% of the maximum horsepower revolutions, but since the JIS for measuring external noise was adopted at the end of March this year, we decided to follow it from this time.
 
-Therefore, in terms of the measurement conditions, we measured the sound with the floor change, the gear shift position in third gear, the road surface condition in rain, the gauge speed at 50 km/h, and the revolution speed at 2200 rpm. The measured value was 77.5 horns. The sprung vibration frequency of 1.5 cps mentioned earlier is a very passenger car-like value. 
+Therefore, in terms of the measurement conditions, we measured the sound with the floor change, the gear shift position in third gear, the road surface condition in rain, the gauge speed at 50km/h, and the revolution speed at 2200rpm. The measured value was 77.5 phons. The sprung vibration frequency of 1.5cps mentioned earlier is a very passenger car-like value. 
 
 Also, regarding noise, there is a zone based on the data of each car in the motor fan test, and it is below that zone, which is also on the low side. In other words, in this respect, it can be said that it is a quiet car like a passenger car. Since this is the first time we have used the method for external noise, we do not have any comparative data, but in the past, sports cars have been measured at 50% of third gear, and compared to those, we can say that this is quite quiet. In other words, in terms of vibration and noise, I would say it is a car that is as comfortable to ride as a passenger car.
 
@@ -249,9 +249,9 @@ Also, regarding noise, there is a zone based on the data of each car in the moto
 
 <b>Magazine:</b> Next, let's present the results of the measurements taken at Funaken. 
 
-<b>Ishikawa:</b> First, we measured the vehicle weight, and it weighed 1,134 kg with a spare tire, tools, and a full tank of gas. The weight distribution is 575 kg in the front and 559 kg in the rear, for a percentage of 51:49. What is particularly noticeable is that the left front wheel is about 30 kg lighter than the right (front left: 272 kg, front right: 303 kg). We also measured it with one person and two people on board, and with two people on board, the total weight is 1,257 kg. The distribution is 614 kg in the front and 643 kg in the rear, for a percentage of 49:51. 
+<b>Ishikawa:</b> First, we measured the vehicle weight, and it weighed 1,134kg with a spare tire, tools, and a full tank of gas. The weight distribution is 575kg in the front and 559kg in the rear, for a percentage of 51:49. What is particularly noticeable is that the left front wheel is about 30kg lighter than the right (front left: 272kg, front right: 303kg). We also measured it with one person and two people on board, and with two people on board, the total weight is 1,257kg. The distribution is 614kg in the front and 643kg in the rear, for a percentage of 49:51. 
 
-The official weight of this vehicle is 1,120 kg when empty, but if you divide this by the overall length x width, or the so-called occupied area, the weight per square meter is 168 kg, which is quite heavy.
+The official weight of this vehicle is 1,120kg when empty, but if you divide this by the overall length x width, or the so-called occupied area, the weight per square meter is 168kg, which is quite heavy.
 
 <b>Hirao:</b> How much is the Benz 300SL?
 
@@ -261,11 +261,11 @@ The official weight of this vehicle is 1,120 kg when empty, but if you divide th
 
 <b>Ishikawa:</b> If we look at the horsepower per ton of vehicle weight, it's 134ps/ton. This is a very large number, and even though it's heavy, the horsepower is large, so acceleration and other things are good. Next, as for the wheel alignment, the front is slightly toe-out, but this is also very slight. Conversely, the rear is slightly toe-in. With one or two people on board, this figure has hardly changed at all. 
 
-As for the brakes, this is the first domestically produced car to have disc brakes on both the front and rear wheels, and to prevent the pedal force from becoming too large, a vacuum servo device is used. Therefore, the 0.6g pedal force is 25kg, which is a relatively low figure. A normal sedan weighs about 20kg, so it's only a little heavier than that. If there was no servo, it would be 40kg, but considering that, it's a very easy-to-use brake. The servo break point is at about 20kg of pressure. I didn't do this when accelerating much, but if I did it more, the vacuum would be higher and the servo would work at 25kg, or about 0.6g of pressure. The front/rear brake force distribution is 65:35 at about 20kg of pressure. The weight is almost the same front and rear, and it can be said that this brake balance makes it very difficult to lock the rear wheels. The stroke of the brake pedal is 50mm at 0.6g and 25kg of pressure, but the stroke is on the long side, and because it uses a servo, it feels soft overall. It takes 5.7kg to press 1cm. In a normal car, it weighs nearly 10kg, so it's about half as soft.
+As for the brakes, this is the first domestically produced car to have disc brakes on both the front and rear wheels, and to prevent the pedal force from becoming too large, a vacuum servo device is used. Therefore, the 0.6g pedal force is 25kg, which is a relatively low figure. A normal sedan weighs about 20kg, so it's only a little heavier than that. If there was no servo, it would be 40kg, but considering that, it's a very easy-to-use brake. The servo rest point is at about 20kg of pressure. I didn't do this when accelerating much, but if I did it more, the vacuum would be higher and the servo would work at 25kg, or about 0.6g of pressure. The front/rear brake force distribution is 65:35 at about 20kg of pressure. The weight is almost the same front and rear, and it can be said that this brake balance makes it very difficult to lock the rear wheels. The stroke of the brake pedal is 50mm at 0.6g and 25kg of pressure, but the stroke is on the long side, and because it uses a servo, it feels soft overall. It takes 5.7kg to press 1cm. In a normal car, it weighs nearly 10kg, so it's about half as soft.
 
-Parking brakes are usually very difficult to apply when using discs on the rear, but in this car it works very well. To obtain a braking force of 20% of the car's weight, the operating force is 19 kg when in reverse. This is the same as when using normal drum brakes. The parking brake is called a stick type, which is pulled from the front, but it is also very easy to use. The stroke at this 19 kg is 78 mm.
+Parking brakes are usually very difficult to apply when using discs on the rear, but in this car it works very well. To obtain a braking force of 20% of the car's weight, the operating force is 19kg when in reverse. This is the same as when using normal drum brakes. The parking brake is called a stick type, which is pulled from the front, but it is also very easy to use. The stroke at this 19kg is 78mm.
 
-As for the operating force of each part, the gear shift lever is normal for a sports car, about 3 kg to 5 kg. A normal sedan is 2 kg to 3 kg, so it is a little heavy, but it was a nice shift lever. The problem is that the clutch is quite heavy. It takes 14 kg to disengage and 12 kg to engage. Most normal sedans disengage with 10 kg to 11 kg and engage with less than 10 kg, so this is quite heavy.
+As for the operating force of each part, the gear shift lever is normal for a sports car, about 3kg to 5kg. A normal sedan is 2kg to 3kg, so it is a little heavy, but it was a nice shift lever. The problem is that the clutch is quite heavy. It takes 14kg to disengage and 12kg to engage. Most normal sedans disengage with 10kg to 11kg and engage with less than 10kg, so this is quite heavy.
 
 The accelerator is less than 5kg, 1.5kg when driving at a constant speed with two passengers, 4.5kg when accelerating rapidly, and 8kg when fully depressed. However, for normal acceleration, the effort is about 5kg, which is a normal value.
 
@@ -283,29 +283,29 @@ The accelerator is less than 5kg, 1.5kg when driving at a constant speed with tw
 
 <b>Magazine:</b> Next, please show us the results of the maneuverability and stability tests carried out by the Kondo Laboratory at Tokyo Institute of Technology.
 
-<b>Akutsu:</b> The tests were carried out under conditions of two people plus instruments (42 kg). Spare tires and tools were removed. First, the practical minimum turning radius, which was done at the Kondo Laboratory, was 5.78 m, which was taken from the trajectory of the outer circumference of the body.
+<b>Akutsu:</b> The tests were carried out under conditions of two people plus instruments (42kg). Spare tires and tools were removed. First, the practical minimum turning radius, which was done at the Kondo Laboratory, was 5.78m, which was taken from the trajectory of the outer circumference of the body.
 
-Next, the understeer and oversteer tests using steady circular turns showed tat the car understeered up to a lateral acceleration of 0.65 g, and suddenly changed to oversteer after that. The maximum steering force at that time was 4kg. The roll rate was about 3.3°, which I think is an appropriate value for a sports car.
+Next, the understeer and oversteer tests using steady circular turns showed that the car understeered up to a lateral acceleration of 0.65g, and suddenly changed to oversteer after that. The maximum steering force at that time was 4kg. The roll rate was about 3.3°, which I think is an appropriate value for a sports car.
 
 As a test of steering force at low speeds, a figure-of-eight test was carried out, with a centripetal acceleration of 0.25g, and the steering effort was 8kg when entering the corner and 3kg at the exit. As for the steering force at high speed, we drove the car through a slalom, at a maximum lateral acceleration of 0.25g, and the steering force to the right was 2.6kg, and the left was 2.8kg, which are good values. The steering force when stationary was 180° right and scaled out (16kg or more), and the left was scaled out at about 90°, which seems a little heavy. The hands-off directional stability test was performed up to 120km/h, and it settled well when we turned and released the wheel. 
 
 The Kondo Laboratory also used a self-recording accelerometer to perform a 0-400m starting acceleration, and the value was 15.9 seconds, the same as the catalog. In this graph, the vibration immediately after the clutch was engaged was clearly visible.
 
-<b>Magazine:</b> Do you see such a tendency in the in-house understeer and oversteer tests as well?
+<b>Magazine:</b> Did you see such tendencies in the in-house understeer and oversteer tests as well?
 
-<b>Kono:</b> I haven't have much experience with such things...
+<b>Kono:</b> I haven't had much experience with such things...
 
-<b>Hirao:</b> Doesn't this car have a differential lock?
+<b>Hirao:</b> This car has a differential lock, doesn't it?
 
 <b>Kono:</b> It uses a limited slip differential, yes.
 
-<b>Hirao:</b> I think that would have had an effect if the cornering had been made too hard. The limited slip would have kicked in when the inside wheel twisted and locked.
+<b>Hirao:</b> I think that would have had an effect when the cornering became too hard. The limited slip would have kicked in when the inside wheel spun and locked.
 
 <b>Kono:</b> That could have been the case.
 
 <b>Magazine:</b> Next, please show us the results of the visual field measurement conducted at Tokyo University of Agriculture and Technology.
 
-<b>Hirata:</b> As usual, we put a dummy in the driver's seat, placed a camera with a fisheye lens at eye level, and took various photographs to measure. The height from the ground to the viewpoint was 98.5 cm when the seat was all the way forward, and 99.8 cm when it was all the way back. The horizontal distance from the lens cap to the windshield was 6.5 cm to 42 cm, and the seat movement distance, or rather the viewpoint movement, was 5.5 cm. The visible range of the windshield, expressed as an angle on a horizontal plane including the viewpoint, is 126° to 114°, and the vertical direction is about 22° to 18°, and the angle at which the road can be seen when looking downward from the viewpoint is 7°.
+<b>Hirata:</b> As usual, we put a dummy in the driver's seat, placed a camera with a fisheye lens at eye level, and took various photographs to measure. The height from the ground to the viewpoint was 98.5cm when the seat was all the way forward, and 99.8cm when it was all the way back. The horizontal distance from the lens cap to the windshield was 6.5cm to 42cm, and the seat movement distance, or rather the viewpoint movement, was 5.5cm. The visible range of the windshield, expressed as an angle on a horizontal plane including the viewpoint, is 126° to 114°, and the vertical direction is about 22° to 18°, and the angle at which the road can be seen when looking downward from the viewpoint is 7°.
 
 The rear visibility range is 41.5° to 48°, and 4° to 3° up and down, so the vertical visibility is very narrow, but the left and right visibility is wide. Next, the wiper's wiping range is 90.5° to 86.5° in the horizontal plane, and the type is slightly different from normal wipers, so the fender mirrors can be seen well even when the wipers are moving. 
 
@@ -321,8 +321,8 @@ The first thing I noticed when looking at the exterior of the body was the probl
 
 Then, when I crawled under the body to measure the ground clearance, I felt that both the floor and the underside of the body were very flat and beautifully made. We were all impressed by this. Also, the triangular window has been removed, and the ventilation inside the car is sufficient with just a powerful ventilator. Anyway, the removal of the "annoying triangular window" has made the car look very clean and tidy.
 
-I also wondered whether the large luggage door at the rear needed to be so large. If you put large luggage in the rear, you'll need a band or something to hold it down. If it's small luggage, it would be better to make the rear door smaller and improve the style. The steering wheel adjustment is 60mm in the catalog, but perhaps we were not handling it properly, as it only moved about 40mm. The seat is very low, which saves a lot of headroom, but it is very comfortable to sit in, and it feels like a sports car seat, and there is surprisingly plenty of space. However, I felt that the passenger in the passenger seat should have foot rests on both sides. After all, it is a 200km/h class car, so I think you need to brace yourself with both feet.
-　
+I also wondered whether the large luggage door at the rear needed to be so large. If you put large luggage in the rear, you'll need a band or something to hold it down. If it's small luggage, it would be better to make the rear door smaller and improve the style. The steering wheel adjustment is 60mm in the catalog, but perhaps we were not handling it properly, as it only moved about 40mm. The seat is very low, which saves a lot of headroom, but it is very comfortable to sit in, and it feels like a sports car seat, and there is surprisingly plenty of space. However, I felt that the passenger in the passenger seat should have footrests on both sides. After all, it is a 200km/h class car, so I think you need to brace yourself with both feet.
+
 As for the switches, the turn signal switches are in a different position than in a normal sedan, and it's quite inconvenient to have to turn them back on every time. It probably isn't a big problem for long-distance touring or racing, but... 
 
 The headlights also have separate retraction switches and main light switches that don't seem to be linked, so I wish this was made into a single main switch. The reach of each switch is good, and I thought it was really nice that all the meters are facing the driver.
@@ -333,7 +333,7 @@ The headlights also have separate retraction switches and main light switches th
 
 <b>Magazine:</b> Next, let's talk about the safety checks at the Higuchi Laboratory.
 
-<b>Higuchi:</b> In terms of safety, we created a checklist of 30 items based on American safety standards for the five categories of body, cabin, operation, and seat driver protection, and gave each car a score of 5 points, with a maximum of 5 and a minimum of 1. Five points is the best, and is an example for other cars, and one point is a bad point that needs to be improved immediately. Three points is normal. This checklist is the same for sedans, GTs, and sports cars, so it's a bit awkward, but this time, based on this list, we've converted it to 72 points. Most cars in this class get 65 to 70 points, so I think we can say that this is a little better than the standard.
+<b>Higuchi:</b> In terms of safety, we created a checklist of 30 items based on American safety standards for the five categories of body, cabin, operation, seat, and driver protection, and gave each car a score of 5 points, with a maximum of 5 and a minimum of 1. Five points is the best, and is an example for other cars, and one point is a bad point that needs to be improved immediately. Three points is normal. This checklist is the same for sedans, GTs, and sports cars, so it's a bit awkward, but this time, based on this list, we've converted it to 72 points. Most cars in this class get 65 to 70 points, so I think we can say that this is a little better than the standard.
 
 Looking more closely, the five points are for steering, which absorbs shock to a certain extent in the event of a collision and is likely to contribute to driver safety. Another point is that the car is fully equipped with full harness-type seat belts, the rear window is also equipped with an electric defroster as standard, the dashboard is completely black and not dazzling, and the wipers do not shine. On the other hand, one thing that I would like to see changed immediately is the front bumper. The front is a small one that is split into left and right. The rear is a simple one that is only for the over-rider, and it seems insufficient in its role as a bumper. This is related to the "safety" of the body rather than the safety of the driver...
 

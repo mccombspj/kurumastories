@@ -53,7 +53,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> January 1969<br>
-<b>Author:</b> Kameo Uchiyamada, Osamu Hirao, Eiichi Kumabe, Masahi Kondo, Kenji Higuchi, Hiroshi Hoshijima, Kunitaka Furutani, Jun Narie, Yasuhei Oguchi, Taizo Tateishi, Kazuo Kumabe, Akio Miyamoto, Mineo Yamamoto, Atsushi Watari, Kenzaburo Ishikawa, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
+<b>Author:</b> Kameo Uchiyamada, Osamu Hirao, Eiichi Kumabe, Masashi Kondo, Kenji Higuchi, Hiroshi Hoshijima, Kunitaka Furutani, Jun Narie, Yasuhei Oguchi, Taizo Tateishi, Kazuo Kumabe, Akio Miyamoto, Mineo Yamamoto, Atsushi Watari, Kenzaburo Ishikawa, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
 
 
 

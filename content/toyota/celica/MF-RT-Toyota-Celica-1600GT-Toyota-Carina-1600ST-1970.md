@@ -16,7 +16,7 @@ draft = false
 <b>Date:</b> March 1971<br>
 <b>Author:</b> Katsuhiko Nishida, Kenji Higuchi, Yasuhei Oguchi, Hiroshi Okazaki, Atsushi Watari, Akira Miyagawa, Kiyoshi Matsumura, Kunitaka Furitani, Masahide Sano, Hiroshi Hoshijima, Tadashi Nishiyama, Katsumi Kageyama, Yasushi Saito, Kenzaburo Ishikawa, Akio Numazawa, Toshihide Hirata, Kiyoki Higuchi, Motor Fan Editorial Department (uncredited)
 
-<b><u>The Aim is To Put People First</b></u>
+<b><u>The Aim Is to Put People First</b></u>
 
 <b>Magazine:</b> First, please tell us about the development goals and outline of the Carina and Celica.
 
@@ -101,7 +101,7 @@ As for exhaust gas measures, we had to consider not only CO, but also hydrocarbo
 
 <b>Nishida:</b> That was published in a booklet. 
 
-<b>Higuchi:</b> So it's possible to have, let's say, a standard body with twin carbs, a three-speed transmission, and disc brakes?
+<b>Higuchi:</b> So it's possible to have, let's say, a standard body with twin carbs, a 3-speed transmission, and disc brakes?
 
 <b>Okazaki:</b> So you can't combine the functional parts as freely as that. When I tried it with the "Carputer" system, the combination I personally wanted, with a standard body, DOHC engine, rear defogger, and high-speed tires, didn't work. In the end, it ended up being an expensive car. (Laughs) It came with a clock and other unwanted items, and if you don't want a radio, but you do want a heater, you end up having to buy the version with the deluxe interior.
 
@@ -227,7 +227,7 @@ I thought the Carina was the quieter of the two cars overall, but there was a li
 
 <b>Magazine:</b> What were the measured results in the noise and vibration tests? 
 
-<b>Nishiyama:</b> We took measurements on a Carina Super Deluxe. We didn't test the Celica. The interior noise was 63 hones at 40km/h, 68 hones at 60km/h, 72 hones at 80km/h, 75 hones at 100km/h, and 80 hones at 120km/h. All of these measurements were taken in fourth gear. The exterior noise was 72 hones when driving at a steady speed, and 79 hones when accelerating. 
+<b>Nishiyama:</b> We took measurements on a Carina Super Deluxe. We didn't test the Celica. The interior noise was 63 phons at 40km/h, 68 phons at 60km/h, 72 phons at 80km/h, 75 phons at 100km/h, and 80 phons at 120km/h. All of these measurements were taken in fourth gear. The exterior noise was 72 phons when driving at a steady speed, and 79 phons when accelerating. 
 
 The measured vibration frequencies were 1.35 to 1.40Hz for the sprung vibration, and 11.5Hz for unsprung vibration.
 
@@ -361,7 +361,7 @@ In terms of safety, the Carina ST received 90 points out of 100. The Celica's in
 
 <b>Magazine:</b> Finally, please tell us about your production plans.
 
-<b>Higuchi (Kiyoki, Toyota Motor Sales):</b> In December 1970, we expect to sales of the Carina to be about 7,500 units, and sales of the Celica to be about 3,000 units. In fiscal year 1971, we plan to produce 15,000 Carinas and 10,000 Celicas.
+<b>Higuchi (Kiyoki, Toyota Motor Sales):</b> In December 1970, we expect sales of the Carina to be about 7,500 units, and sales of the Celica to be about 3,000 units. In fiscal year 1971, we plan to produce 15,000 Carinas and 10,000 Celicas.
 
 <b>Magazine:</b> What about exports?
 

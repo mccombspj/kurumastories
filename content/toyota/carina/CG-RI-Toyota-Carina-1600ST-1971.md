@@ -69,11 +69,11 @@ draft = false
 
 
 
-The Toyota Carina (advertised featuring the character, "Karina"), first unveiled to the public at the Tokyo Motor Show in the fall of 1970 and released on December 1st, is a five-seat semi-fastback sedan with exterior dimensions closer to that of the Corona 1500/1700 than the Corolla. It is powered by three engines: the same 1407cc 86p OHV with crossflow head that powers the Corolla 1400, a 1588cc, 100ps unit with enlarged bore, and a 105ps twin-carburetor version. A wide variety of transmissions is available, including a 3-speed column shift, 4-speed floor shift, and even a 5-speed option on the 1600cc model, a major attraction of the Carina. The suspension is different from any previous model. While the front suspension uses conventional MacPherson struts, the rear suspension is essentially the same as the Crown, a rigid axle suspended with a four-link and Panhard rod system and supported by coil springs. The body is available in two-door and four-door versions, with prices ranging from 509,000 yen for the 1400 Standard with 3-speed column shift, to 720,000 yen for the 1600ST four-door with twin carburetors and 5-speed.
+The Toyota Carina, first unveiled to the public at the Tokyo Motor Show in the fall of 1970 and released on December 1st, is a five-seat semi-fastback sedan with exterior dimensions closer to those of the Corona 1500/1700 than the Corolla. It is powered by three engines: the same 1407cc 86ps OHV with crossflow head that powers the Corolla 1400, a 1588cc, 100ps unit with enlarged bore, and a 105ps twin-carburetor version. A wide variety of transmissions is available, including a 3-speed column shift, 4-speed floor shift, and even a 5-speed option on the 1600cc model, a major attraction of the Carina. The suspension is different from any previous model. While the front suspension uses conventional MacPherson struts, the rear suspension is essentially the same as the Crown, a rigid axle suspended with a four-link and Panhard rod system and supported by coil springs. The body is available in two-door and four-door versions, with prices ranging from 509,000 yen for the 1400 Standard with 3-speed column shift, to 720,000 yen for the 1600ST four-door with twin carburetors and 5-speed.
 
 
 
-We conducted a short 300km road test drive, including some basic instrumented tests at the Murayama Test Course, in the most powerful Carina model, the 1600ST (Sports Touring) two-door with a 5-speed gearbox (TA12-MS, priced at 700,000 yen). A quick glance at the specs revealed nothing particularly noteworthy, except for the 5-speed gearbox. Seeing the car in person, we were, as always, impressed by the incredibly well-finished and equipped interior for the price point, typical of Toyotas. However, we were pleasantly surprised immediately upon starting the car: the Carina possesses many qualities we've never found in any other Toyota before. In short, the Carina speaks to its driver in the same idiom as the finest European sports sedans.
+We conducted a short 300km test drive, including some basic instrumented tests at the Murayama Test Course, in the most powerful Carina model, the 1600ST (Sports Touring) two-door with a 5-speed gearbox (TA12-MS, priced at 700,000 yen). A quick glance at the specs revealed nothing particularly noteworthy, except for the 5-speed gearbox. Seeing the car in person, we were, as always, impressed by the incredibly well-finished and equipped interior for the price point, typical of Toyotas. However, we were pleasantly surprised immediately upon starting the car: the Carina possesses many qualities we've never found in any other Toyota before. In short, the Carina speaks to its driver in the same idiom as the finest European sports sedans.
 
 
 
@@ -81,7 +81,7 @@ First, the driving position is near ideal, thanks to the breathable vinyl high-b
 
 
 
-As soon as I turned the first street corner, I immediately noticed that the steering was unusually accurate for a Toyota. It's not particularly sharp, but the overall steering system is very rigid. A common problem with all Toyotas (and most Japanese-made cars in general) is the sluggish, almost rubbery response when first starting to turn the wheel from the straight-ahead position. This trait alone would put me off buying a car, but the Carina has none of this. The test car was fitted with 165SR-13 Bridgestone Radial 10 tires (optional), which, as I'll explain later, greatly contributed to the car's handling. 
+As soon as I turned the first street corner, I immediately noticed that the steering was unusually accurate for a Toyota. It's not particularly sharp, but the overall steering system is very rigid. A common problem with all Toyotas (and most Japanese-made cars in general) is the sluggish, almost rubbery-feeling response when first starting to turn the wheel from the straight-ahead position. This trait alone would put me off buying a car, but it does not show up in the Carina. The test car was fitted with 165SR-13 Bridgestone Radial 10 tires (optional), which, as I'll explain later, greatly contributed to the car's handling. 
 
 
 
@@ -93,7 +93,7 @@ The main attraction of the Carina is its excellent 5-speed gearbox. The gear rat
 
 
 
-Acceleration is extremely quick; at Murayama, we measured a 0-400m time of 17.9 seconds, finishing the run in third gear. This was achieved on my third attempt, and I was still not fully accustomed to the car. Unfortunately, shortly after this, the clutch would not disengage at all, forcing us to temporarily halt the tests. Investigation revealed that all the oil had leaked from the clutch slave cylinder. We towed the car to a nearby dealer with the C/G Capella and had it checked, and it was discovered that the air bleed valve had come loose. We topped it off with oil and bled the air, and were able to continue with the testing.
+Acceleration is extremely quick; at Murayama, we measured a 0-400m time of 17.9 seconds, finishing the run in third gear. This was achieved on my third attempt, and I was still not fully accustomed to the car. Unfortunately, shortly after this, the clutch would not disengage at all, forcing us to temporarily halt the tests. Investigation revealed that all the fluid had leaked from the clutch slave cylinder. We towed the car to a nearby dealer with the C/G Capella and had it checked, and it was discovered that the air bleed valve had come loose. We topped it off with fluid and bled the air, and were able to continue with the testing.
 
 
 
@@ -129,7 +129,7 @@ The servo-equipped disc/drum brakes provided consistent performance at all speed
 
 
 
-Driving through mountain passes at night, I noticed that the headlights were particularly dim. Also, the control knobs, especially for the wipers, were too far away from a natural driving position. Incidentally, as I pointed out last month with the Publica SL, most recent Toyota vehicles have placed the four-way flasher switch in a location where it is easily confused with the headlight switch. Recently, there’s been a nationwide trend of people flashing their four-way flashers as soon as they enter a tunnel, and I worry that Toyota's control placement will further exacerbate this dangerous trend. Since these warning lights should only be used when the vehicle is stopped, it’s best to position it out of easy reach while driving.
+Driving through mountain passes at night, I noticed that the headlights were particularly dim. Also, the control knobs, especially for the wipers, were too far away from a natural driving position. Incidentally, as I pointed out last month with the Publica SL, most recent Toyota vehicles have placed the four-way flasher switch in a location where it is easily confused with the headlight switch. Recently, there’s been a nationwide scourge of people flashing their four-way flashers as soon as they enter a tunnel, and I worry that Toyota's control placement will further exacerbate this dangerous trend. Since these warning lights should only be used when the vehicle is stopped, it’s best to position it out of easy reach while driving.
 
 
 

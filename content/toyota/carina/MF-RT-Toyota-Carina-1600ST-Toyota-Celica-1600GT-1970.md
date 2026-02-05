@@ -16,7 +16,7 @@ draft = false
 <b>Date:</b> March 1971<br>
 <b>Author:</b> Katsuhiko Nishida, Kenji Higuchi, Yasuhei Oguchi, Hiroshi Okazaki, Atsushi Watari, Akira Miyagawa, Kiyoshi Matsumura, Kunitaka Furitani, Masahide Sano, Hiroshi Hoshijima, Tadashi Nishiyama, Katsumi Kageyama, Yasushi Saito, Kenzaburo Ishikawa, Akio Numazawa, Toshihide Hirata, Kiyoki Higuchi, Motor Fan Editorial Department (uncredited)
 
-<b><u>The Aim is To Put People First</b></u>
+<b><u>The Aim Is to Put People First</b></u>
 
 <b>Magazine:</b> First, please tell us about the development goals and outline of the Carina and Celica.
 
@@ -101,7 +101,7 @@ As for exhaust gas measures, we had to consider not only CO, but also hydrocarbo
 
 <b>Nishida:</b> That was published in a booklet. 
 
-<b>Higuchi:</b> So it's possible to have, let's say, a standard body with twin carbs, a three-speed transmission, and disc brakes?
+<b>Higuchi:</b> So it's possible to have, let's say, a standard body with twin carbs, a 3-speed transmission, and disc brakes?
 
 <b>Okazaki:</b> So you can't combine the functional parts as freely as that. When I tried it with the "Carputer" system, the combination I personally wanted, with a standard body, DOHC engine, rear defogger, and high-speed tires, didn't work. In the end, it ended up being an expensive car. (Laughs) It came with a clock and other unwanted items, and if you don't want a radio, but you do want a heater, you end up having to buy the version with the deluxe interior.
 
@@ -227,7 +227,7 @@ I thought the Carina was the quieter of the two cars overall, but there was a li
 
 <b>Magazine:</b> What were the measured results in the noise and vibration tests? 
 
-<b>Nishiyama:</b> We took measurements on a Carina Super Deluxe. We didn't test the Celica. The interior noise was 63 hones at 40km/h, 68 hones at 60km/h, 72 hones at 80km/h, 75 hones at 100km/h, and 80 hones at 120km/h. All of these measurements were taken in fourth gear. The exterior noise was 72 hones when driving at a steady speed, and 79 hones when accelerating. 
+<b>Nishiyama:</b> We took measurements on a Carina Super Deluxe. We didn't test the Celica. The interior noise was 63 phons at 40km/h, 68 phons at 60km/h, 72 phons at 80km/h, 75 phons at 100km/h, and 80 phons at 120km/h. All of these measurements were taken in fourth gear. The exterior noise was 72 phons when driving at a steady speed, and 79 phons when accelerating. 
 
 The measured vibration frequencies were 1.35 to 1.40Hz for the sprung vibration, and 11.5Hz for unsprung vibration.
 
@@ -327,7 +327,7 @@ The road surface was wet during testing, and I wondered how effective the propor
 
 <b>Hirata:</b> The forward visibility range of the Celica GT is 1.39 steradians, and the wipers clear about 63% of the windshield. The rear visibility range is 1.2 steradians. The rearview mirror has a total of 0.107 steradians, which is very good. The Carina has a forward visibility range of 1.5 steradians, and the wipers clear about 74% of the front window. The rear visibility range is 1.3 steradians.
 
-Comparing these results to the data we have collected for other cars, where the total visibility has ranged from 2.2 to 3.2 steradians, the Celica/Carina's 2.5 to 2.6 steradians is a normal value.
+Comparing these results to the data we have collected for other cars, where the total visibility has ranged from 2.2 to 3.2 steradians, the Celica/Carinas' 2.5 to 2.6 steradians is a normal value.
 
 <b>Magazine:</b> How do the Celica and Carina compare to each other? From their appearance, you would expect the data to be quite different.
 
@@ -347,7 +347,7 @@ Comparing these results to the data we have collected for other cars, where the 
 
 The instrument panel is similar to the Corona, but the seating area seems more similar to the Corolla. The shift lever throws are 65-70mm going into each gear and 40-50mm across the crossbar, so there is not much difference. I think the horizontal movements across the crossbar could be a little narrower. The problem is when you put it into reverse, you have to lift the gearlever upwards. It's fine once you get used to it, but is difficult at first.
 
-The Celica is 1600mm wide, which is wider than the Corona. In these specialty cars, there are usually only one or two people on board, so I don't think the overall length is very important, and in that sense, it has the dimensions of a specialty car. The interior is naturally centered around the front seats, so it's cramped for the full five-person capacity for long periods of time. The front seats slide 160mm, and the distance from the center seat position to the pedals is 925mm. The standard for domestic cars is about 850mm, so anyone should be able find a driving position they like. The Celica has a high waistline with raised "hips," so it's a little hard to see diagonally behind you when parking, but I think it's a matter of getting used to it.
+The Celica is 1600mm wide, which is wider than the Corona. In these specialty cars, there are usually only one or two people on board, so I don't think the overall length is very important, and in that sense, it has the dimensions of a specialty car. The interior is naturally centered around the front seats, so it's cramped for the full five-person capacity for long periods of time. The front seats slide 160mm, and the distance from the center seat position to the pedals is 925mm. The standard for domestic cars is about 850mm, so anyone should be able to find a driving position they like. The Celica has a high waistline with raised "hips," so it's a little hard to see diagonally behind you when parking, but I think it's a matter of getting used to it.
 
 The trunks of both models have a spare tire stacked vertically on the right side. The gas tank is at the bottom of the trunk, and the trunk room is spacious enough.
 
@@ -361,7 +361,7 @@ In terms of safety, the Carina ST received 90 points out of 100. The Celica's in
 
 <b>Magazine:</b> Finally, please tell us about your production plans.
 
-<b>Higuchi (Kiyoki, Toyota Motor Sales):</b> In December 1970, we expect to sales of the Carina to be about 7,500 units, and sales of the Celica to be about 3,000 units. In fiscal year 1971, we plan to produce 15,000 Carinas and 10,000 Celicas.
+<b>Higuchi (Kiyoki, Toyota Motor Sales):</b> In December 1970, we expect sales of the Carina to be about 7,500 units, and sales of the Celica to be about 3,000 units. In fiscal year 1971, we plan to produce 15,000 Carinas and 10,000 Celicas.
 
 <b>Magazine:</b> What about exports?
 

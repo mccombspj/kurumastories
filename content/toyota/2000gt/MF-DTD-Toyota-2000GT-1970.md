@@ -59,11 +59,11 @@ draft = false
 
 <b><u>1,200km of Hard Driving: A Luxury Car With An Unclear Design Philosophy</b></u>
 
-Please allow me a moment to to talk about something personal: about human charm. I apologize for starting off by talking about something that seems unrelated to cars, but when I talk about the Toyota 2000GT (with Toyoglide), I find I can't avoid it.
+Please allow me a moment to talk about something personal: about human charm. I apologize for starting off by talking about something that seems unrelated to cars, but when I talk about the Toyota 2000GT (with Toyoglide), I find I can't avoid it.
 
 Human charm is such a vague and elusive concept that it's almost impossible to pin down, but I would like to offer my own opinion on it, although it is only one narrow aspect of it.
 
-"Balance." I believe this is the basic condition that gives a person charm. In other words, people living in this society each have their own individuality: differences in age, differences in social status, differences between men and women, different occupations, and so on. And so the way I see it, from babies, to young people, to the elderly, in the rich and the poor, each in their own way have a certain charm. 
+"Balance." I believe this is the basic condition that gives a person charm. In other words, people living in this society each have their own individuality: differences in age, differences in social status, differences between men and women, different occupations, and so on. And so the way I see it, from babies, to young people, to the elderly, among the rich and the poor, each in their own way have a certain charm. 
 
 By contrast, what lacks charm is the kind of person who doesn't know where they themselves stand.
 
@@ -109,17 +109,17 @@ And yet... it just didn't click. The more I drove it, and kept driving it, and t
 
 Well, first of all, I have to say that the suspension is absolutely useless. As the miles rolled up, 300km, 500km, 1,000km, I began to feel fatigue, and the urge to stop and get out of the car kept rising. Yes, this car had about 6,000km on it, and it had just been driven quite hard (it wasn't a brand-new car; Toyota Motor Sales loaned it to us, and since there had been no time to service it before our drive, we used it as-is). Still, even allowing for these unfavorable conditions, it felt as if the shock absorbers were broken: far too stiff, and mismatched with the engine. To put it bluntly, it felt as if a high-level racing engine had been put into a chassis fit for a truck.
 
-The steering was also terrible, in similar proportion to the poor suspension. I've put up with plenty of stiff-steering race cars, and I wouldn't have objected if the steering was only a little stiff. But this steering--on the highway it shimmies, and on winding road it stiffens up intolerably. My supposedly strong upper arms began to ache, as though knots were forming in them. 
+The steering was also terrible, in similar proportion to the poor suspension. I've put up with plenty of stiff-steering race cars, and I wouldn't have objected if the steering was only a little stiff. But this steering--on the highway it shimmies, and on winding roads it stiffens up intolerably. My supposedly strong upper arms began to ache, as though knots were forming in them. 
 
 At times I felt like saying, “Enough,” and retiring on my own. The poor compliance, the hard steering, and on top of that, the strong understeer. Understeer seems to be a general tendency in Toyota cars, but even if this one was out of adjustment, the 2000GT’s understeer was so bad it made me want to use the silly expression, “the front end drifts.” In hard cornering, the car hopped and skipped outward and wouldn't stay planted. For a driver, nothing demands more attention than a front end that keeps moving off your intended line.
 
 <b><u>Unpleasant "Easy Drive" Idea</b></u>
 
-To add one more of my own opinions--though I may be pushing it now--I also dislike the idea of ​"easy driving" embodied by the Toyoglide 2000GT. This is not just any car; it is supposed to be Toyota's symbolic sports car. Is it really okay to inject a lazy, easy-going character into it?
+To add one more of my own opinions--though I may be pushing it now--I also dislike the idea of "easy driving" embodied by the Toyoglide 2000GT. This is not just any car; it is supposed to be Toyota's symbolic sports car. Is it really okay to inject a lazy, easy-going character into it?
 
 As racers, we are doing our best, in our small way, to nurture sound and robust motor sports. We train and train, hone our skills, and try to raise motorsports to the level of meaningful, genuine competition. And I believe that Toyota, the largest manufacturer in Japan, is also serious about actively participating in motorsports.
 
-Making the car an "easy drive," rather than relentlessly pursuing the highest standard of vehicle dynamics, throws cold water on that. There's no other way to describe it. As a mass-market manufacturer, they surely have their reasons, and they must already by aware of the thoughts of naive people like me, out on the fringes. But precisely because of that, I am compelled to speak up and argue back...
+Making the car an "easy drive," rather than relentlessly pursuing the highest standard of vehicle dynamics, throws cold water on that. There's no other way to describe it. As a mass-market manufacturer, they surely have their reasons, and they must already be aware of the thoughts of naive people like me, out on the fringes. But precisely because of that, I am compelled to speak up and argue back...
 
 Well, let's stop there. A schoolboy taking a swing at a grand yokozuna is pointless. Let's calmly return to the topic of why I didn't like the car.
 
@@ -143,7 +143,7 @@ There are many cars in the world with long noses. None of them offer great visib
 
 <b><u>The Key Point is Balance</b></u>
 
-However, if we turn our attention to the Toyota 2000GT itself, its innovative mechanisms do justice to its status as Japan's representative sports car. For example, to reduce the vibration, noise, and exhaust sound that accompany engine revolutions, the two overhead camshafts are driven by a double roller chain. Fuel is delivered by an electromagnetic fuel pump, the electric cooling fan operates only when the water temperature rises, and an aluminum oil cooler it standard equipment to prevent the oil temperature from climbing at high engine speeds.
+However, if we turn our attention to the Toyota 2000GT itself, its innovative mechanisms do justice to its status as Japan's representative sports car. For example, to reduce the vibration, noise, and exhaust sound that accompany engine revolutions, the two overhead camshafts are driven by a double roller chain. Fuel is delivered by an electromagnetic fuel pump, the electric cooling fan operates only when the water temperature rises, and an aluminum oil cooler is standard equipment to prevent the oil temperature from climbing at high engine speeds.
 
 These advanced mechanisms are backed up by the car's success in racing, offering proof of their reliability, and by world and international records (such as the famed 78-hour continuous run, covering 16,000 km at an average speed of 206.18 km/h).
 
