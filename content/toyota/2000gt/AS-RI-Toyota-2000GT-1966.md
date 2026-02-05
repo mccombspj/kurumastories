@@ -31,19 +31,19 @@ draft = false
 
 <b><u>Robert Dunham's Test Run: Toyota 2000GT</b></u>
 
-The Toyota 2000GT will be making an appearance at the Japanese Grand Prix in May. Fitting these ambitions, it left an impression on me as Japan's first full-scale sports car.
+The Toyota 2000GT will be making an appearance at the Japanese Grand Prix in May. In line with this ambition, it left an impression on me as Japan's first full-scale sports car.
 
 A few weeks after the 1965 Tokyo Auto Show, I had the opportunity to interview Toyota Motor Corporation Chairman Taizo Ishida. During the interview, I received an informal invitation to visit the Toyota factory. The purpose, of course, was to test drive the Toyota 2000GT that was on display at the show. Two weeks later, I traveled to Toyota City with a reporter from the Asahi Evening News.
 
 The first day was a factory tour, and on the second day we were allowed onto the test course.
 
-The test course next to the factory is very nice, with two long straights at high speed, each with a banked curve at the end, and even hairpin and spoon curves on the inside, very similar to those at the Suzuka Circuit.
+The test course next to the factory is very nice, with two long high-speed straights, each with a banked curve at the end, and even hairpin and spoon curves on the inside, very similar to those at the Suzuka Circuit.
 
 <b><u>Exquisite European Style</b></u>
 
 After taking a few test rides around the course driven by a Toyota mechanic, I warmed up by taking a drive around the course in a Toyota Sports 800. The anticipated moment came right after that, when a pure white Toyota 2000GT was pulled out of the garage.
 
-Jaguar XKE, Ferrari GTO, Aston Martin, Corvette Mako Shark... European-style goodness abounds in the sleek lines of the 2000GT. This is not an imitation, but a hybrid work that makes use of the best characteristics of good design. However, upon closer inspection, some parts of the interior and chassis were found to be somewhat rough in their finish. However, since this was one of the prototype cars, most of the build process must have been different from that of mass-produced cars. Once the car is mass-produced, this problem will naturally be solved.
+Jaguar XKE, Ferrari GTO, Aston Martin, Corvette Mako Shark... European-style sophistication abounds in the sleek lines of the 2000GT. This is not an imitation, but a hybrid work that makes use of the best characteristics of good design. However, upon closer inspection, some parts of the interior and chassis were found to be somewhat rough in their finish. However, since this was one of the prototype cars, most of the build process must have been different from that of mass-produced cars. Once the car is mass-produced, this problem will naturally be solved.
 
 The first thing that reassured me when I got into the 2000GT was that my legs, which are much longer than most Japanese people's, fit comfortably in the driver's seat. The seat, pedals, shift lever, etc. are all positioned in an extremely user-friendly and efficient way. The steering column can be adjusted for length, which is probably a first for a Japanese sports car, and is particularly useful for a high-horsepower sports car. This can be counted as one of the distinctive features of the Toyota 2000GT.
 
@@ -59,7 +59,7 @@ However, like the Jaguar XKE, Porsche 911, Stingray, Cobra, etc., it is importan
 
 <b><u>You Won't Feel Tired Even at High Speeds</b></u>
 
-The gears used in the test car were the standard gears that will be fitted to production cars for road driving, and although they were well-chosen for sporty driving, it is certain that the gear ratios would have to be altered for racing.
+The gears used in the test car were the standard ratios that will be fitted to production cars for road driving, and although they were well-chosen for sporty driving, it is certain that different ratios would have to be fitted for racing.
 
 The transmission is a 5-speed with overdrive, which is effective in keeping the engine running smoothly at high speeds of over 140km/h.
 

@@ -68,7 +68,7 @@ A powerful front-wheel drive car with a taste of international rally cars... tha
 
 
 
-It was still hot summer. I remember Erik Carlsson, an international rally driver who had come to Japan, driving a Subaru 1000 and saying the following:
+It was still the height of summer when Erik Carlsson, an international rally driver who had come to Japan, drove a Subaru 1000 and made the following remarks:
 
 
 
@@ -96,11 +96,11 @@ After a brief inspection in the underground parking lot of the Subaru Building i
 
 
 
-I filled up the tank with fuel and set the trip recorder to zero. The idle speed was stable at about 900 rpm. I found out later that after a hard run, the idle becomes a little rough, and at one point, the needle was swinging unsteadily between 600 and 700 rpm. This is unavoidable to some extent in cars with a SU-type variable venturi carburetor, so it was nothing to worry about.
+I filled up the tank with fuel and set the trip recorder to zero. The idle speed was stable at about 900rpm. I found out later that after a hard run, the idle becomes a little rough, and at one point, the needle was swinging unsteadily between 600-700rpm. This is unavoidable to some extent in cars with SU-type variable venturi carburetors, so I was not overly concerned.
 
 
 
-I should mention that I drive a standard Subaru 1000 as my daily transportation. The first thing I noticed when I sat in the Sport Sedan's driver seat is that the seat has been improved. It is firm around the edges and soft in the middle, and when you sit down, your body sinks into it slightly, providing the same effect as a bucket seat. Seats are always a problem in grand touring cars, because stable support for sporty driving and a soft reclined position are conflicting design goals. In this respect, the seats in the Subaru 1000 Sport can be given a passing grade.
+I should mention that I drive a standard Subaru 1000 as my daily transportation. The first thing I noticed when I sat in the Sports Sedan's driver seat is that the seat has been improved. It is firm around the edges and soft in the middle, and when you sit down, your body sinks into it slightly, providing the same effect as a bucket seat. Seats are always a problem in grand touring cars, because stable support for sporty driving and a soft reclined position are conflicting design goals. In this respect, the seats in the Subaru 1000 Sports Sedan can be given a passing grade.
 
 
 
@@ -108,7 +108,7 @@ The dashboard has the same feel as the sedan, but the gauges are different. From
 
 
 
-However, one problem is the "non-reflective" glass of the gauges. Even though it is called non-reflective, this is only because the surface is frosted glass and the light is still reflected dimly. Therefore, there are always bright spots that block your view while driving. This is especially bad when driving with the setting sun behind you. I hope they can do something about this. I think it would be an easy solution if they made the glass more steeply inclined.
+However, one problem is the "non-reflective" glass of the gauges. Even though it is called non-reflective, this is only because the surface of the glass is frosted; it still reflects light dimly. Therefore, there are always bright spots that block your view of the gauges while driving. This is especially bad when driving with the sun setting behind you. I hope they can do something about this. I think it would be an easy solution if they made the glass more steeply inclined.
 
 
 
@@ -132,7 +132,7 @@ The torque curve is not exactly flat. Looking at the manufacturer's chart, it sh
 
 
 
-The redline starts at 7000rpm, but if you keep the accelerator pedal pressed, valve surge doesn't occur until you approach 8000 rpm. When you try to exceed 8000rpm, you finally feel a sudden drop in power. 
+The redline starts at 7000rpm, but if you keep the accelerator pedal pressed, valve surge doesn't occur until you approach 8000rpm. When you try to exceed 8000rpm, you finally feel a sudden drop in power. 
 
 
 
@@ -140,7 +140,7 @@ When it comes to handling behavior, when driving at low speeds in the city, the 
 
 
 
-I can't explain why, but whenever I get to the steep curves and slopes of mountain roads, that is when I really feel the advantages of front-wheel drive come into play. This is true of both the tested Sports Sedan and my own 1000 sedan.The steering response is excellent, especially when I'm driving at high speed on a winding gravel road. The Bridgestone radial tires on the test car were inflated to slightly high pressures, 1.9kg/cm² in the front and 1.2kg/cm² in the rear, for highway use, so they bounced around on the gravel road. But the excellent road holding was retained, and the car faithfully maintained the intended line.
+I can't explain why, but whenever I get to the steep curves and slopes of mountain roads, that is when I really feel the advantages of front-wheel drive come into play. This is true of both the tested Sports Sedan and my own 1000 sedan. The steering response is excellent, especially when I'm driving at high speed on a winding gravel road. The Bridgestone radial tires on the test car were inflated to slightly high pressures, 1.9kg/cm² in the front and 1.2kg/cm² in the rear, for highway use, so they bounced around on the gravel road. But the excellent road holding was retained, and the car faithfully maintained the intended line.
 
 
 
@@ -164,7 +164,7 @@ It is a common belief that "front-wheel drive cars are weak on uphill slopes." H
 
 
 
-Besides the damping, the second problem in terms of driving feel is the gear change. A person who enjoys sports driving generally enjoys shifting gears; however, I have some objections to the Subaru 1000 Sport's gear change. Every time you make a quick shift, there is a loud thumping sound no matter what position you are in. I thought maybe the synchro was weak, but that's not the case. According to the manufacturer's explanation, in order to eliminate the vibration of the lever while driving, the lever is fixed to the body and a thick rubber bushing is inserted in the transmission linkage. The sound is caused by the rubber and the pin attached to the linkage moving. So, the feel of the gear change can be called, at best, "Porsche-type," and at worst, floppy. It is certainly not pleasant to have the shift lever tingling with fine vibrations while driving, but it is hard to call it sporty if it doesn't "click" into place. I suppose this may be a matter of personal preference, but I would like them to at least do something about the thumping sound.
+Besides the damping, the second problem in terms of driving feel is the gear change. A person who enjoys sports driving generally enjoys shifting gears; however, I have some objections to the Subaru 1000 Sports Sedan's gear change. Every time you make a quick shift, there is a loud thumping sound no matter what position you are in. I thought maybe the synchro was weak, but that's not the case. According to the manufacturer's explanation, in order to eliminate the vibration of the lever while driving, the lever is fixed to the body and a thick rubber bushing is inserted in the transmission linkage. The sound is caused by the rubber and the pin attached to the linkage moving. So, the feel of the gear change can be called, at best, "Porsche-type," and at worst, floppy. It is certainly not pleasant to have the shift lever tingling with fine vibrations while driving, but it is hard to call it sporty if it doesn't "click" into place. I suppose this may be a matter of personal preference, but I would like them to at least do something about the thumping sound.
 
 
 
@@ -172,7 +172,7 @@ For those who prefer a more "clicky" feel, there is a short shift kit developed 
 
 
 
-The gear noise that can be a nuisance in the standard Subaru 1000 is well blocked by the Sport's console box that houses the floor shift mechanism, making it almost inaudible. Or, even if you can hear it, it may be drowned out by the Sports Sedan's loud exhaust noise...
+The gear noise that can be a nuisance in the standard Subaru 1000 is well blocked by the Sport Sedan's console box that houses the floor shift mechanism, making it almost inaudible. Or, even if you can hear it, it may be drowned out by the Sports Sedan's loud exhaust noise...
 
 
 
