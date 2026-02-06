@@ -49,7 +49,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> June 1965<br>
-<b>Authors (Roundtable):</b> Tatsuo Hasegawa, Shozo Sato, Kazuo Kumabe, Osamu Hirao, Mineo Yamamoto, Masatoshi Yoshida, Yasuhei Oguchi, Atsushi Watari, Kenji Higuchi, Taizo Tateishi, Masahi Kondo, Kenzaburo Ishikawa, Tenji Kobayashi, Motor Fan Editorial Staff (uncredited)
+<b>Authors (Roundtable):</b> Tatsuo Hasegawa, Shozo Sato, Kazuo Kumabe, Osamu Hirao, Mineo Yamamoto, Masatoshi Yoshida, Yasuhei Oguchi, Atsushi Watari, Kenji Higuchi, Taizo Tateishi, Masashi Kondo, Kenzaburo Ishikawa, Tenji Kobayashi, Motor Fan Editorial Staff (uncredited)
 
 
 
@@ -61,7 +61,7 @@ draft = false
 
 <b>Magazine:</b> With the release of the Toyota Sports 800, Toyota has finally entered the sports car segment. Could you please explain the aims and thinking that went into designing this car?
 
-<b>Hasegawa:</b> The common concept of a sports car is that it is something that needs a powerful engine, a unique suspension, and a lot of horsepower to force its way to high speeds. However, this is not a racing car with a top speed of 200km/h or more, but rather, it is what is now being called a "100-mile car," designed to run continuously at high speeds of around 160km/h to 170km/h. To meet these aims, it does not need to be highly specialized car with a high horsepower engine, but can be designed rationally by reducing air resistance and weight.
+<b>Hasegawa:</b> The common concept of a sports car is that it is something that needs a powerful engine, a unique suspension, and a lot of horsepower to force its way to high speeds. However, this is not a racing car with a top speed of 200km/h or more, but rather, it is what is now being called a "100-mile car," designed to run continuously at high speeds of around 160km/h to 170km/h. To meet these aims, it does not need to be a highly specialized car with a high horsepower engine, but can be designed rationally by reducing air resistance and weight.
 
 With this in mind, we bored out the Publica's engine to 790cc, increased the compression ratio to 9.0:1, and made other improvements to increase its horsepower to 45ps. By putting it in a lightweight sports-type body, we succeeded in creating a high-speed car with a top speed of 155km/h. This gave us confidence that our original idea was not wrong. 
 
@@ -71,7 +71,7 @@ If you compare the maximum horsepower versus maximum speed of 22 domestic and fo
 
 Also, if you compare engine volume versus maximum speed against cars in the same cc class, the Toyota Sports 800, while not as good as the Fiat Abarth 1000 and Elite, again surpasses the standard. 
 
-Finally, if you compare horsepower per liter as a function of engine speed, this engine makes its maximum output at 5400 rpm, and the horsepower per liter is 57ps/l. This is not inferior to engines that produce peak power at a similar speed.
+Finally, if you compare horsepower per liter as a function of engine speed, this engine makes its maximum output at 5400rpm, and the horsepower per liter is 57ps/l. This is not inferior to engines that produce peak power at a similar speed.
 
 From these comparative studies, we believe that by simply creating a lightweight body with low air resistance and improving the engine, we were able to create a fairly high-performance sports car. Also, since we were able to use basic Publica components for everything apart from the body, there were many advantages in terms of economics, allowing us to offer a mass-market price (595,000 yen) that not only enthusiasts, but many people can easily afford.
 
@@ -87,7 +87,7 @@ So, with this car, we decided on a removable roof.  When the roof is attached, a
 
 <b>Sato:</b> Two years ago, we built a prototype car, the Publica Sports, which can be said to be the predecessor of this car. It used a canopy-type roof where the entire upper part of the body slides back and forth. Toyota's request to Kanto Jidosha Co., Ltd. was to make a commercially available sports car that was not too different from the Publica Sports.
 
-Regarding the problem of air resistance, we conducted wind tunnel tests using both the prototype and the commercially availble car, and the results for the new car were somewhat better. We also applied tape strips to the body and observed how the wind flowed over the car while driving. Because of the canopy-style roof, the prototype had guide rails along the sides of its body. These disturbed the air flow, and since the production car has adopted normal doors, it has actually improved in this area.
+Regarding the problem of air resistance, we conducted wind tunnel tests using both the prototype and the commercially available car, and the results for the new car were somewhat better. We also applied tape strips to the body and observed how the wind flowed over the car while driving. Because of the canopy-style roof, the prototype had guide rails along the sides of its body. These disturbed the air flow, and since the production car has adopted normal doors, it has actually improved in this area.
 
 Also, Chief Engineer Hasegawa requested that we make the body surfaces as smooth as possible. A streamlined shape, in other words. He asked us to avoid any unevenness, so we struggled with the placement of the headlamps and taillamps, in particular. We couldn't simply mount them on a vertical surface as usual, so we spent a lot of time before arriving at the current design.
 
@@ -171,7 +171,7 @@ Also, light alloys are used for the bonnet and trunk lid. In any case, simply ma
 
 <b>Magazine:</b> Now, here are the results of the power performance tests....
 
-<b>Oguchi:</b> Looking at the standing-start acceleration in terms of time to distance, the results were 11.9 seconds for 0-200m and 18.8 seconds for 0-400m. These are excellent figures ​​that you wouldn't expect from an 800cc class car. Since the overall reduction ratio in third and top gear is small, we measured overtaking times by accelerating from around 20-30km/h in third gear, and 30-40km/h in top gear. From 30km/h in third gear it took 19.6 seconds to reach 100km/h, and from 40km/h in top gear it took 31.9 seconds.
+<b>Oguchi:</b> Looking at the standing-start acceleration in terms of time to distance, the results were 11.9 seconds for 0-200m and 18.8 seconds for 0-400m. These are excellent figures that you wouldn't expect from an 800cc class car. Since the overall reduction ratio in third and top gear is small, we measured overtaking times by accelerating from around 20-30km/h in third gear, and 30-40km/h in top gear. From 30km/h in third gear it took 19.6 seconds to reach 100km/h, and from 40km/h in top gear it took 31.9 seconds.
 
 As for the time spent in each gear during through-the-gears acceleration, low gear is used for 3.6 seconds and second gear for 4.2 seconds. We didn't shift into top gear in the acceleration run, we just carried through to the end in third. 
 
@@ -215,7 +215,7 @@ Up to now, we've conducted our Motor Fan tests with three people on board, but t
 
 <b>Watari:</b> I think the values are normal ​​for a commercially available sports car. The bouncing frequency was 1.6 times per second, or 96 times per minute, at the front, and at the rear it was 1.8 times per second, or 105 times per minute. Driving in the city, it doesn't feel too bad. I think the low center of gravity helps. As for the sound level, the mounting parts of the test car's roof weren't fitting properly, so we'll use Toyota's in-house data as a reference. 
 
-<b>Tateishi:</b> The sound level rises gradually to 84 hones at 90km/h, so there's nothing particularly special to say about it. However, in terms of numerical values, it's a sports car, so the general noise level is 5 to 10 hones higher than a passenger car.
+<b>Tateishi:</b> The sound level rises gradually to 84 phons at 90km/h, so there's nothing particularly special to say about it. However, in terms of numerical values, it's a sports car, so the general noise level is 5 to 10 phons higher than a passenger car.
 
 <b>Watari:</b> The higher noise level is also partly due to the fact that one extra gear is turning between the transmission and the drive axle.
 
