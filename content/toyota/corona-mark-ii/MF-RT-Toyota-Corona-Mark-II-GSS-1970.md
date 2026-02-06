@@ -24,7 +24,7 @@ draft = false
 
 We may have been a bit presumptuous with the name, but it stands for Grand Super Sports. The 1900SL Hardtop emphasizes luxury, but this car emphasizes sportiness over luxury. So, it's a little different from the concept of a GT; it's not a hot car meant to be driven only on the highway, but can also be driven at 40-50km/h around town. It's made to be suitable for women to drive. However, it also has all the qualities needed to achieve great results in races and rallies, and we've also ensured that it can be made into a very hot car by adding options. 
 
-In terms of general features, the engine is a newly developed unit. The transmission is an improved version of the Toyota 1600GT's. The differential is a limited-slip, one size larger at seven inches. The suspension is basically the same as the rest of the Mark II series, but the springs are stronger. The brakes have larger-diameter front discs to accommodate high speeds, and the tires are also larger at 14 inches. The top speed is 200km/h, the highest in the Mark II series. This is the character and outline of the car.
+In terms of general features, the engine is a newly developed design. The transmission is an improved version of the Toyota 1600GT's. The differential is a limited-slip, one size larger at seven inches. The suspension is basically the same as the rest of the Mark II series, but the springs are stronger. The brakes have larger-diameter front discs to accommodate high speeds, and the tires are also larger at 14 inches. The top speed is 200km/h, the highest in the Mark II series. This is the character and outline of the car.
 
 <b>Watari:</b> It's great that anyone can drive it and that you can push it hard when you want to have some sporty fun, but on the other hand, I think it would be better to offer a torque converter automatic. Also, although it might be a bit extravagant, I feel like I'd like power steering.
 
@@ -67,7 +67,7 @@ The maximum rotational speed is 6800rpm, and the powerband is generally above 25
 
 <b>Yamamoto:</b> When you hear "5-speed," it sounds like you have to use it in a sporty way.
 
-<b>Sakakibara:</b> In normal driving, you can use it just like a 4-speed car. Then, on the highway, you can put it in the over-top gear. You can use all five gears, but you don't have to. I would like people to use it according to their actual needs. 
+<b>Sakakibara:</b> In normal driving, you can use it just like a 4-speed car. Then, on the highway, you can put it in the overdrive gear. You can use all five gears, but you don't have to. I would like people to use it according to their actual needs. 
 
 <b>Watari:</b> We need to teach this kind of thing at driving school as well.
 
@@ -105,7 +105,7 @@ However, and this is not about power performance, but when accelerating suddenly
 
 <b>Watari:</b> In other words, it's better not to boast that it can reach 200km/h. What I want the manufacturer to say instead is, for example, that you can run at 120km/h even on a steep gradient. To make that possible, you need extra horsepower, so on flat ground you can reach 200km/h. So, it should be said that, on the highway, it can maintain a constant speed whether on an uphill slope or on flat ground. I think that's what's important in the real world, being able to run at a constant 100km/h no matter what the gradient or headwind. Numbers like 0-50m or 0-400m are a good substitute for that.
 
-I alto think it's important to express how fun it is to overtake the car in front of you when you're driving at 100km/h.
+I also think it's important to express how fun it can be to overtake the car in front of you when you're driving at 100km/h.
 
 <b>Magazine:</b> Can it drive continuously at 200km/h?
 
@@ -121,11 +121,11 @@ I alto think it's important to express how fun it is to overtake the car in fron
 
 <b>Tateishi:</b> No, it was in fourth gear.
 
-<b>Sakakibara:</b> According to internal data, when using overdrive, the sound level drops by three to four hones. It reduces engine speed by approximately 15%. 
+<b>Sakakibara:</b> According to internal data, when using overdrive, the sound level drops by three to four phons. It reduces engine speed by approximately 15%. 
 
 <b>Magazine:</b> How did you rate the handling and stability?
 
-<b>Doi:</b> In the understeer/oversteer measurements, the R/Ro radius of curvature when V² = 100m²/S² is 1.4, and oversteer begins at this point. The speed at that time was 36km/h, and the maximum steering force was 3kg, with the largest occuring when switching to oversteer. The roll rate was 4.6° with three people on board. Steering force when turning the wheel while stationary was 10kg at 90°, 15kg at 180°, and 15kg thereafter. For right turns, it was 8kg at 90°, 12kg at 180°, and over 15kg at 270° or more. The steering when stationary felt a little heavy. The steering force a low speeds was 7.5kg when entering a curve with a centripital acceleration of 0.25g, and 1.7kg when exiting. In slalom driving, with a maximum lateral acceleration of 0.25g, the steering force was 3.5kg on the right and 2.5kg on the left. When accelerating from 0-400m, the acceleration was 0.6g in both second and third gears. In the hands-off stability test, the input was a lateral acceleration of 0.3g, and the damping was approximately 0.205 on average with a cycle of 0.89 seconds.
+<b>Doi:</b> In the understeer/oversteer measurements, the R/Ro radius of curvature when V² = 100m²/S² is 1.4, and oversteer begins at this point. The speed at that time was 36km/h, and the maximum steering force was 3kg, with the largest occuring when switching to oversteer. The roll rate was 4.6° with three people on board. Steering force when turning the wheel while stationary was 10kg at 90°, 15kg at 180°, and 15kg thereafter. For right turns, it was 8kg at 90°, 12kg at 180°, and over 15kg at 270° or more. The steering when stationary felt a little heavy. The steering force at low speeds was 7.5kg when entering a curve with a centripital acceleration of 0.25g, and 1.7kg when exiting. In slalom driving, with a maximum lateral acceleration of 0.25g, the steering force was 3.5kg on the right and 2.5kg on the left. When accelerating from 0-400m, the acceleration was 0.6g in both second and third gears. In the hands-off stability test, the input was a lateral acceleration of 0.3g, and the damping was approximately 0.205 on average with a cycle of 0.89 seconds.
 
 <b>Magazine:</b> The degree of understeer is...
 
@@ -213,7 +213,7 @@ The pedal layout seems to be the type preferred by street racers, with the accel
 
 The car is powerful and has twin carbs, so I expected the fuel economy to be quite poor, but surprisingly, that wasn't the case. When I plotted the results against the vehicle weight per liter, I found that the values were comparable to those of a normal sedan.
 
-<b>Sakakibara:</b> The measurements were also taken in fourth gear. When driving on the Tomei Expressway, the figures were a little better than these figures when using over-top fifth gear.
+<b>Sakakibara:</b> The measurements were also taken in fourth gear. When driving on the Tomei Expressway, the figures were a little better than these figures when using overdrive fifth gear.
 
 <b>Watari:</b> What figures did you get?
 

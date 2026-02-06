@@ -151,7 +151,7 @@ As for the unusually shaped headlamps, that design actually dates back to the de
 
 Standing-start acceleration performance is 0-50m in 4.9 seconds, 0-100m in 7.6 seconds, 0-200m in 11.8 seconds, and 0–400m in 18.7 seconds.
 
-In terms of time to speed, the car reached 40 km/h in 3.7 seconds, 60km/h in 6.5 seconds, 80km/h in 10.6 seconds, 100km/h in 15.9 seconds, and 110km/h in 19 seconds.
+In terms of time to speed, the car reached 40km/h in 3.7 seconds, 60km/h in 6.5 seconds, 80km/h in 10.6 seconds, 100km/h in 15.9 seconds, and 110km/h in 19 seconds.
 
 Overtaking acceleration was as follows: starting in third gear from 30km/h, the car reached 40km/h in 3.5 seconds, 60km/h in 7.8 seconds, 80km/h in 12.4 seconds, 100km/h in 17.8 seconds, and 110km/h in 21.2 seconds. In top gear, starting from 40km/h, it reached 50km/h in 5.3 seconds, 70km/h in 12.4 seconds, 90km/h in 19.5 seconds, and 110km/h in 27.1 seconds.
 
@@ -175,7 +175,7 @@ Not everything needs to be sporty; using the standard Crown steering wheel and o
 
 <b>Oguchi:</b> Since the Corona Mark II test, we’ve been taking a new type of fuel economy measurement. We're conducting two kinds of tests: the standard steady-speed fuel economy test that’s generally used, and a model test that reflects real-world driving in urban areas.
 
-Starting with the steady-speed figures, we measured 14.5km/l at 40km/h; 13.2km/l at 60km/h; 11.5km/l at 80km/h; and 9.5km/l at 100km/h. Next is the model-run economy: we simulate city driving conditions by repeatedly driving over a 400m section, accelerating up to a steady 40km/h or 60km/h cruise and then braking. When the top speed is set at 40km/h, the average speed comes out to 22.0km/h due to the braking to simulate traffic signals, and fuel economy is 8.6km/l. If we set the top speed to 60 km/h, the average speed is 25km/h, and fuel economy becomes 6.8km/l. For the steady-speed test, we also plot the results on a comparative fuel-economy curve to see what the economy results indicate about the car's character.
+Starting with the steady-speed figures, we measured 14.5km/l at 40km/h; 13.2km/l at 60km/h; 11.5km/l at 80km/h; and 9.5km/l at 100km/h. Next is the model-run economy: we simulate city driving conditions by repeatedly driving over a 400m section, accelerating up to a steady 40km/h or 60km/h cruise and then braking. When the top speed is set at 40km/h, the average speed comes out to 22.0km/h due to the braking to simulate traffic signals, and fuel economy is 8.6km/l. If we set the top speed to 60km/h, the average speed is 25km/h, and fuel economy becomes 6.8km/l. For the steady-speed test, we also plot the results on a comparative fuel-economy curve to see what the economy results indicate about the car's character.
 
 If you plot the steady-speed figures at 60km/h on that curve, which represents the average, anything above the curve can be considered passenger-sedan-like. GTs and sports cars fall below the curve. Given this car's standing-start acceleration of 0–400m in 18.7 seconds, you might expect the Crown to fall below the curve, but it doesn’t. It comes out above, showing fuel economy similar to a sedan. That fits the earlier point: it isn’t intended as a sports car or a dedicated grand tourer. It’s meant for formal use, and that intention shows in the numbers.
 
@@ -191,9 +191,9 @@ It seems that the combination of enlarging the carburetors slightly and making c
 
 <b>Tateishi:</b> Here are the results. The sprung-mass natural frequency is 1.3cps at both front and rear, and the unsprung-mass natural frequency is 10.0cps at both front and rear. Those are very appropriate values for this class.
 
-Interior noise was recorded at 60 hones at 40km/h, 64 hones at 50km/h, 66 hones at 60km/h, 67 hones at 70km/h, 69 hones at 80km/h, 70 hones at 90km/h, 72 hones at 100km/h, 72 hones at 110km/h, and 74 hones at 120km/h (all measured on the A scale). Exterior noise, measured at a steady 50km/h in second gear, is 76 hones. Under acceleration from the same speed, it rises to 82 hones.
+Interior noise was recorded at 60 phons at 40km/h, 64 phons at 50km/h, 66 phons at 60km/h, 67 phons at 70km/h, 69 phons at 80km/h, 70 phons at 90km/h, 72 phons at 100km/h, 72 phons at 110km/h, and 74 phons at 120km/h (all measured on the A scale). Exterior noise, measured at a steady 50km/h in second gear, is 76 phons. Under acceleration from the same speed, it rises to 82 phons.
 
-I think the interior noise is very good, sitting close to the lowest line on the Motor Fan evaluation zone. As for the exterior noise, I’d personally like to see the acceleration noise reduced to about 80 hones, or even a little below. I'd say that the cabin is quiet, but the exterior noise is somewhat high. Overall, I’d say the noise countermeasures have been very well executed. Those are the figures we recorded. I would only add that, in cornering, I do feel the amount of roll is a bit larger than I’d like.
+I think the interior noise is very good, sitting close to the lowest line on the Motor Fan evaluation zone. As for the exterior noise, I’d personally like to see the acceleration noise reduced to about 80 phons, or even a little below. I'd say that the cabin is quiet, but the exterior noise is somewhat high. Overall, I’d say the noise countermeasures have been very well executed. Those are the figures we recorded. I would only add that, in cornering, I do feel the amount of roll is a bit larger than I’d like.
 
 <b>Magazine:</b> Dr. Kumabe, what was your impression after driving this car?
 
@@ -285,7 +285,7 @@ But the world is gradually getting used to brakes that bite quickly, so eventual
 
 <b>Ishikawa:</b> As usual, I’ll start with the vehicle weight. With the spare tire and tools, it comes to 1320kg. The nominal vehicle weight is 1295kg, so that’s about 25kg heavier.
 
-As for the weight distribution, we measured 356kg at the left front wheel and 366ks at the front right. The rear left is 297kg and the rear right is 301kg, so the left-right difference isn’t particularly severe. The front is slightly heavier on the right side, but only by about 10kg. Compared to similar cars from other companies, that’s essentially negligible. In percentage terms, the distribution is 54.6% front, 45.4% rear.
+As for the weight distribution, we measured 356kg at the left front wheel and 366kg at the front right. The rear left is 297kg and the rear right is 301kg, so the left-right difference isn’t particularly severe. The front is slightly heavier on the right side, but only by about 10kg. Compared to similar cars from other companies, that’s essentially negligible. In percentage terms, the distribution is 54.6% front, 45.4% rear.
 
 With one or two people in the front seat, the front-to-rear distribution doesn’t change. With the full five-person load, the rear becomes a little heavier, roughly 51% to 49%, so you can consider it essentially a 50:50 split.
 
@@ -299,7 +299,7 @@ The servo's resting point is more or less in that 30kg pedal force range. The fi
 
 The parking brake balance is fairly good in both forward and reverse. The operating force to produce 0.2g deceleration is about 12kg in the forward direction and 16kg in reverse.
 
-We also measured operating force for the other driving controls. The shift lever is a 4-speed floor shift. It takes about 2–2.5kg to engage each gear, and about 2.5–3.5kg to disengage. Reverse requires a lateral movement of about 0.5 kg. Once in that gate, the effort to engage reverse is somewhat high, at about 6.5kg, and disengaging it takes about 2kg.
+We also measured operating force for the other driving controls. The shift lever is a 4-speed floor shift. It takes about 2–2.5kg to engage each gear, and about 2.5–3.5kg to disengage. Reverse requires a lateral movement of about 0.5kg. Once in that gate, the effort to engage reverse is somewhat high, at about 6.5kg, and disengaging it takes about 2kg.
 
 The clutch pedal takes around 10kg to disengage and 7kg to engage. Pushing the accelerator pedal to the floor takes about 3kg of force, but in normal acceleration you use about 2–3kg. These are the values we measured.
 
@@ -325,7 +325,7 @@ And now, since Hirata-kun is highlighting it, I've noticed that Toyota's cars ha
 
 <b>Magazine:</b> Next, could we hear from the Higuchi laboratory about the dimensions and interior arrangement?
 
-<b>Onda:</b> The Higuchi lab took the measurements as usual, but since the initial explanation already included very detailed numerical values, I’ll just mention one or two additional things. First, and I'd actually like to be corrected on this, but it seems that the only highest-grade SL model has overriders on the front bumper, and not the others. This was clearly a styling decision. The streamlined fender mirrors give a sporty impression and a very premium feel, which matches the car’s intended image.
+<b>Onda:</b> The Higuchi lab took the measurements as usual, but since the initial explanation already included very detailed numerical values, I’ll just mention one or two additional things. First, and I'd actually like to be corrected on this, but it seems that only the highest-grade SL model has overriders on the front bumper, and not the others. This was clearly a styling decision. The streamlined fender mirrors give a sporty impression and a very premium feel, which matches the car’s intended image.
 
 The rear reflectors looked as if they might be lit from the inside like tail lamps, but they weren’t, so that was a little disappointing. The front ones are illuminated, but the rear doesn't go that far--was that because it wasn’t necessary, or was it a deliberate omission? I’d like to hear the reasoning.
 

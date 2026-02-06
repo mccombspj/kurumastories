@@ -22,17 +22,17 @@ The newly released Mark II 1900 GSS is the fastest car in the Mark II series, an
 
 <b><u>Profile of the Author, Yoshimasa Sugawara</b></u>
 
-Yoshimasa Sugarawara was the winner of the Touring Sedan Race, Class II, at the 1969 Japanese Grand Prix on October 10. He is currently active in racing at Fuji and Suzuka using a Morris Mini Cooper S. A keen entrepreneur, he runs a commercial company that uses racing cars for promotion. 
+Yoshimasa Sugawara was the winner of the Touring Sedan Race, Class II, at the 1969 Japanese Grand Prix on October 10. He is currently active in racing at Fuji and Suzuka using a Morris Mini Cooper S. A keen entrepreneur, he runs a commercial company that uses racing cars for promotion. 
 
 Born in 1941 (28 years old) in Otaru, Hokkaido, his hobby away from work is skiing—but he says automobile racing is his greatest passion.
 
 <b><u>The Corona Mark II GSS—Long Awaited by Sports Enthusiasts</b></u>
 
-<b>Magazine:</b> The Corona Mark II GSS, intended not only for racing and rallying but also for enjoying spirited high-speed touring, went on sale September 30. To test its true capabilities, we asked Sugawara to undertake 250km of hard driving, from Tokyo to Manazuru via the Third Keihin Expressway, on to Yugawara, then Hakone, and finally back via the Tomei Expressway to Tokyo.
+The Corona Mark II GSS, intended not only for racing and rallying but also for enjoying spirited high-speed touring, went on sale September 30. To test its true capabilities, we asked Sugawara to undertake 250km of hard driving, from Tokyo to Manazuru via the Third Keihin Expressway, on to Yugawara, then Hakone, and finally back via the Tomei Expressway to Tokyo.
 
 <b><u>Interior Comparable to a 2000GT</b></u>
 
-<b>Sugawara:</b> My first acquaintance with this bold-looking car was in front of the Toyota Motor Sales office building in Kudan, Tokyo. The body is essentially the same as that of the Mark II hardtop, but two thin stripes running from front to rear enhance its sporty appearance. The sporty arrow-shaped trim on the sides, symbolizing the powerful 140ps engine, are a fresh design touch. The GSS-specific wheels, with small hubcaps that mimic capless wheels, also evoke the impression of a sharp, sleek “wolf in sheep's clothing.”
+<b>Sugawara:</b> My first acquaintance with this bold-looking car was in front of the Toyota Motor Sales office building in Kudan, Tokyo. The body is essentially the same as that of the Mark II hardtop, but two thin stripes running from front to rear enhance its sporty appearance. The sporty arrow-shaped trim on the sides, symbolizing the powerful 140ps engine, is a fresh design touch. The GSS-specific wheels, with small hubcaps that mimic capless wheels, also evoke the impression of a sharp, sleek “wolf in sheep's clothing.”
 
 The engine, called the 10R type, has the same 1858cc displacement as the existing Mark II 1900SL, with short-stroke cylinder dimensions of 86mm × 80mm. However, the cam mechanism adopts a DOHC system descended from the same lineage as that of the Toyota 2000GT and Toyota 1600GT.
 
@@ -66,9 +66,9 @@ Compared with the gear ratios of the old 1600GT, which shared its transmission w
 
 One feature I especially liked is the safety mechanism that makes it impossible to shift into reverse during normal operation. Reverse is located below fifth gear, but you must push the lever downward before shifting into the gate; therefore, you cannot accidentally damage the reverse gear by mis-shifting. In racing, drivers unfamiliar with 5-speed transmissions sometimes try to downshift from fifth to fourth and end up catching reverse, but this arrangement prevents that.
 
-Although the car’s 1,050kg weight is by no means light, what I felt from behind the wheel was that it actually drives like a lightweight machine.
+Although the car’s 1,050kg weight is by no means light, what I felt from behind the wheel was that it actually drives like a much lighter machine.
 
-From my recollection of previous drives in the 1600GT, the GSS feels far more agile, almost effortless by comparison.
+From my recollection of driving the previous 1600GT, the GSS feels far more agile, almost effortless by comparison.
 
 <b>Magazine:</b> We drove from the Manazuru Peninsula onto the Yugawara Toll Road, where we had Sugawara put the car’s cornering to the test on steep uphill sections. As you'd expect from an active racing driver, his technique is precise, and it was amazing how he could immediately grasp the steering characteristics and draw out the machine’s full potential.
 
@@ -104,13 +104,13 @@ Considering the performance and equipment it offers, the price of 1,050,000 yen 
 
 Not only for motorsport-style driving, but also for highway touring, the car can be fitted with a wealth of available options—vinyl leather roof, rear-window defogger, power windows, air conditioning, and more—creating a luxurious, high-speed touring machine that no foreign car in this price class can hope to compete with. I feel that, fully equipped, it would become a top-level car, unique even by international standards.
 
-<b>Magazine:</b> Sugawara-san was so impressed with the car that you could say he was utterly smitten with it. So, we decided to have a little fun with him and asked him to find some faults.
+<b>Magazine:</b> At this point, Sugawara-san was so impressed with the car that you could say he was utterly smitten with it. So, we decided to have a little fun with him and asked him to find some faults.
 
 <b>Sugawara:</b> In terms of mechanical aspects, cabin atmosphere, ease of driving, power, everything that defines a GT car, this machine is first-class, so finding flaws is actually quite difficult. One thing that bothered me was an unusual noise coming from the brake-pedal area. Upon inspection, the return spring was rubbing against something. The squeak each time the pedal was pressed was quite annoying. Another point was that the gear whine from the transmission was relatively loud. Because the isolation from outside noise is so good, the gear noise seems louder by comparison.
 
 <b><u>A Car That Chooses Its Driver</b></u>
 
-<b>Sugawara:</b> Although one could call this a race-bred engine (even if the 1900cc version is relatively new, its mechanism clearly inherits the bloodline of the 1600GT), the powerband is wide, and it feels like it will easy to handle even for beginners. This seems to be a characteristic shared with the Toyota 2000GT and 1600GT as well. But in a way, that very quality can also create a certain danger.
+<b>Sugawara:</b> Although one could call this a race-bred engine (even if the 1900cc version is relatively new, its mechanism clearly inherits the bloodline of the 1600GT), the powerband is wide, and it feels like it will be easy to handle even for beginners. This seems to be a characteristic shared with the Toyota 2000GT and 1600GT as well. But in a way, that very quality can also create a certain danger.
 
 Because it can so easily produce extremely high speeds, 200km/h and beyond, the question becomes: how well can the driver truly manage such high performance?
 

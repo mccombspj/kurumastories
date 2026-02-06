@@ -118,11 +118,11 @@ In other words, the Crown's pedal placement is still a "heavy pedal arrangement,
 
 Now that normal braking is accomplished with just a tap of your toes on the pedal, it would be better to reduce the difference in height between the pedals so that you can control them while keeping your heels on the floor.
 
-The SOHC inline Six-cylinder engine is the same unit as in the previous Crown, with only minor changes. The carburetor is a twin two-barrel type, producing a maximum output of 115ps/5800rpm and a maximum torque of 16.0kgm/3600rpm.
+The SOHC inline six-cylinder engine is the same unit as in the previous Crown, with only minor changes. The carburetor is a twin two-barrel type, producing a maximum output of 115ps/5800rpm and a maximum torque of 16.0kgm/3600rpm.
 
 To get straight to the conclusion about the engine's power performance: although it can't be helped since this is only a 2-liter engine, there's still a lack of absolute power. It's fine when paired with the manual 4-speed gearbox, but when paired with an automatic, the lack of power becomes obvious.
 
-Naturally, a large percentage of owners in this class will order an automatic transmission and air conditioning, and in that case, you'll wish for at least 2.5 liters, and preferably 3! (In fact, after our test went to print, a model with a 2.6-liter engine was added to the lineup).
+Naturally, a large percentage of owners in this class will order an automatic transmission and air conditioning, and in that case, you'll wish for at least 2.5 liters, and preferably 3 (In fact, after our test went to print, a model with a 2.6-liter engine was added to the lineup).
 
 This 2-liter engine is very flexible and feels unstressed even in crowded city streets. In that sense, it's fine for practical use, but in a car like this...
 
