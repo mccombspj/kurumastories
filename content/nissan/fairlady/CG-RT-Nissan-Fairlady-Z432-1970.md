@@ -49,7 +49,7 @@ For this test, we put the most powerful of the three, the Fairlady Z432--named f
 
 
 
-The previous Fairlady 2000, which is still popular not only in domestic club races, but also overseas, with 88% of the 13,690 produced in 1968 being exported to the US (production will continue for the time being), was a classic open two-seater that sacrificed everything for performance. In contrast, the new Fairlady Z series replaces the rough four-cylinder with a smooth six-cylinder engine, the vintage-car-style stiff springs with a "civilized" all-wheel independent suspension, and the open top with a weather-tight two-seat fastback coupe body, making it a grand touring car in the truest sense of the word. 
+The previous Fairlady 2000, which is still popular not only in domestic club races, but also overseas, with 88% of the 13,690 produced in 1968 being exported to the US (production will continue for the time being), was a classic open two-seater that sacrificed everything for performance. In contrast, the new Fairlady Z series replaces the rough four-cylinder with a smooth six-cylinder engine, the vintage-car-style stiff springs with a "civilized" all-wheel independent suspension, and the open top with a weather-tight two-seat fastback coupe body, making it a grand touring car in the true sense of the word. 
 
 
 

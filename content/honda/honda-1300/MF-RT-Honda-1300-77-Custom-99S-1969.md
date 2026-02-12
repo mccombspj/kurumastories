@@ -268,7 +268,7 @@ If you try to get a good time by revving it up and abruptly releasing the clutch
 
 <b>Baba:</b> First gear may feel sluggish, but once you shift into second, it pulls strongly.
 
-<b>Hoshijima:</b> The feel off the line is best if you approach it expecting the response of an ordinary car. You’ll get the sensation of speed during overtaking acceleration. When you floor it from third gear, the way it pulls is truly impressive. However, we didn't reach the catalog top speed when we ran it at Suzuka. The straights are short there, but we only managed about 170 km/h. Still, it did feel quite strong against crosswinds. 
+<b>Hoshijima:</b> The feel off the line is best if you approach it expecting the response of an ordinary car. You’ll get the sensation of speed during overtaking acceleration. When you floor it from third gear, the way it pulls is truly impressive. However, we didn't reach the catalog top speed when we ran it at Suzuka. The straights are short there, but we only managed about 170km/h. Still, it did feel quite strong against crosswinds. 
 
 <b>Watari:</b> The steering feel is different. And I don’t mean this negatively; while the N360 and N600 felt unstable, this one feels firmly planted.
 
@@ -294,7 +294,7 @@ If you try to get a good time by revving it up and abruptly releasing the clutch
 
 <b>Watari:</b> Given the engine size, this car should be compared with others in the 1300cc class, and within the upper and lower limits of our usual noise evaluation zone, I’d say it’s about average. If I had to point out a weakness, it would be the presence of peaks around 50km/h and 100km/h. However, that may not be because it’s air-cooled and therefore noisy, but rather due to the front-wheel-drive layout.
 
-<b>Tateishi:</b> We measured noise levels at Honda’s Arakawa test course, and the environment and road surface there are different from the course at the Mechanical Engineering Laboratory. These were the measured results, beginning with interior noise: with four occupants, and the microphone placed at ear height in the center of the cabin, the A-weighted values for the 99S were 63 phons at 40km/h, 66.5 phons at 60km/h, 73 phons at 80km/h, 77 phons at 100km/h, and 80 phons at 120km/h. Exterior noise was measured with the car in second gear, and the values were 74 phons during steady running at 50km/h, and 79 phons during full-throttle acceleration from 50 km/h. The same measurements were taken for the 77 Custom, and the values were slightly lower than those of the 99S.
+<b>Tateishi:</b> We measured noise levels at Honda’s Arakawa test course, and the environment and road surface there are different from the course at the Mechanical Engineering Laboratory. These were the measured results, beginning with interior noise: with four occupants, and the microphone placed at ear height in the center of the cabin, the A-weighted values for the 99S were 63 phons at 40km/h, 66.5 phons at 60km/h, 73 phons at 80km/h, 77 phons at 100km/h, and 80 phons at 120km/h. Exterior noise was measured with the car in second gear, and the values were 74 phons during steady running at 50km/h, and 79 phons during full-throttle acceleration from 50km/h. The same measurements were taken for the 77 Custom, and the values were slightly lower than those of the 99S.
 
 <b>Hayano:</b> As you pointed out, the noise is coming not so much from the engine itself, but more from the suspension and running gear.
 

@@ -43,11 +43,11 @@ Based on our experience testing the Galant AII GS sedan and Hardtop (see C/G iss
 
 
 
-The greatest selling points of the GTO MII, in our view, are its mini-Mustang-like styling and its comprehensive equipment, so these are the aspects that deserve to be covered first. Because it shares the basic floor pan with the existing Galant A-series, the GTO's wheelbase and tread width are the same as those of the GS sedan and hardtop, but the body is 45mm longer, 10mm wider, and 25mm lower than the hardtop GS. The overall shape is a typical long-nose, short-deck design, with the nose extended by 100mm compared to the hardtop, while the rear end is cut off in a ducktail style. According to the manufacturer, this ducktail works in the same way as a racing car's air spoiler, reducing air resistance through a streamlining effect while also generating downforce at the rear, improving stability at high speeds. 
+The greatest selling points of the GTO MII, in our view, are its mini-Mustang-like styling and its comprehensive equipment, so we'll cover those aspects first. Because it shares the basic floor pan with the existing Galant A-series, the GTO's wheelbase and tread width are the same as those of the GS sedan and hardtop, but the body is 45mm longer, 10mm wider, and 25mm lower than the hardtop GS. The overall shape is a typical long-nose, short-deck design, with the nose extended by 100mm compared to the hardtop, while the rear end is cut off in a ducktail style. According to the manufacturer, this ducktail works in the same way as a racing car's air spoiler, reducing air resistance through a streamlining effect while also generating downforce at the rear, improving stability at high speeds. 
 
 
 
-The GTO attracted an extraordinary amount of attention wherever it went, likely due to its mini-American-car styling and flashy Kenya Orange paint job. The body's cross section, which uses curved glass with a radius of 50 inches (domestic cars are generally around 100 inches), gives the GTO a powerful "tension" not found in most Japanese cars, and helps make it look larger than it actually is, setting aside for the moment the impact it has on aerodynamics and interior space (which we will discuss later). 
+The GTO attracted an extraordinary amount of attention wherever it went, likely due to its mini-American-car styling and flashy Kenya Orange paint job. The body's cross section, which uses curved glass with a radius of 50 inches (domestic cars are generally around 100 inches), gives the GTO a powerful "tension" not found in most Japanese cars, and helps make it look larger than it actually is, never mind the impact it has on aerodynamics and interior space (which we will discuss later). 
 
 
 

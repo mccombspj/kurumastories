@@ -3,7 +3,7 @@
 
 
 title = "Mazda Familia Rotary Coupe (1968)"
-
+weight = 10
 
 
 date = "2025-10-11T04:50:49-07:00"

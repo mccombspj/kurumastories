@@ -83,9 +83,6 @@
     <loc>http://localhost:1313/nissan/fairlady/cg-rt-datsun-fairlady-2000-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/honda/honda-1300/cg-rt-honda-1300-77-deluxe/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/isuzu/117-coupe/cg-rt-isuzu-117-coupe-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -104,11 +101,17 @@
     <loc>http://localhost:1313/toyota/carina/cg-ri-toyota-carina-1600st-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/honda/honda-1300/mf-rt-honda-1300-77-custom-99s-1969/</loc>
+    <lastmod>2026-02-09T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/isuzu/bellett/mf-tdr-isuzu-bellett-1600gtr-1969/</loc>
     <lastmod>2026-01-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/bluebird/mf-tr-nissan-bluebird-1600-coupe-sss-coupe-1969/</loc>
     <lastmod>2026-01-28T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/honda/honda-1300/cg-rt-honda-1300-77-deluxe/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/117-coupe/mf-tr-isuzu-117-coupe-1969/</loc>
     <lastmod>2026-01-14T04:50:49-07:00</lastmod>
@@ -169,6 +172,9 @@
   </url><url>
     <loc>http://localhost:1313/toyota/crown/cg-rt-toyota-crown-hardtop-sl-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mazda/familia/mf-rt-mazda-familia-rotary-ss-1969/</loc>
+    <lastmod>2026-02-12T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/117-coupe/mf-rt-isuzu-117-coupe-1969/</loc>
     <lastmod>2026-01-24T04:50:49-07:00</lastmod>
@@ -284,9 +290,6 @@
     <loc>http://localhost:1313/honda/honda-1300/mf-dtd-honda-1300-coupe-9s-1970/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/honda/honda-1300/mf-rt-honda-1300-77-custom-99s-1969/</loc>
-    <lastmod>2026-02-09T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/skyline/mf-bs-nissan-skyline-2000gt-1970/</loc>
     <lastmod>2025-12-17T04:50:49-07:00</lastmod>
   </url><url>
@@ -311,13 +314,19 @@
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mazda/familia/</loc>
+    <lastmod>2026-02-12T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mazda/</loc>
+    <lastmod>2026-02-12T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-12T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/honda/honda-1300/</loc>
     <lastmod>2026-02-09T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/</loc>
-    <lastmod>2026-02-09T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-09T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/bellett/</loc>
@@ -366,9 +375,6 @@
     <lastmod>2025-12-05T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/savanna/cg-ri-mazda-savanna-gs-ii-1971/</loc>
-    <lastmod>2025-12-05T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mazda/</loc>
     <lastmod>2025-12-05T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/honda-n360/</loc>
@@ -435,9 +441,6 @@
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/lancer/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mazda/familia/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/familia/cg-rt-mazda-familia-rotary-coupe-1968/</loc>
