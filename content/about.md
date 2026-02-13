@@ -20,7 +20,7 @@ It was not only the state of automotive design and technology that progressed at
 
 
 
-Today, the cars at the center of this cultural and economic phenomenon are mostly gone, with rare exceptions preserved in private collections. The goal of this site is to present the period impressions of these cars and the impact they made when they were new, and to reflect on the contributions of the testers, photographers, editorial staff, and countless employees of these automakers whose determination and extraordinary efforts made this fascinating time a reality.
+Today, the cars at the center of this cultural and economic phenomenon are mostly gone, with rare exceptions preserved in private collections. The goal of this site is to present the period impressions of these cars and the impact they made when they were new, and to reflect on the contributions of the testers, photographers, editorial staff, and countless employees of these automakers whose determination and extraordinary efforts made this formative era a reality.
 
 
 
