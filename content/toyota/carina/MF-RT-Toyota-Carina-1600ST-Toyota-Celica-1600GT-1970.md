@@ -14,7 +14,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> March 1971<br>
-<b>Author:</b> Katsuhiko Nishida, Kenji Higuchi, Yasuhei Oguchi, Hiroshi Okazaki, Atsushi Watari, Akira Miyagawa, Kiyoshi Matsumura, Kunitaka Furitani, Masahide Sano, Hiroshi Hoshijima, Tadashi Nishiyama, Katsumi Kageyama, Yasushi Saito, Kenzaburo Ishikawa, Akio Numazawa, Toshihide Hirata, Kiyoki Higuchi, Motor Fan Editorial Department (uncredited)
+<b>Author:</b> Katsuhiko Nishida, Kenji Higuchi, Yasuhei Oguchi, Hiroshi Okazaki, Atsushi Watari, Akira Miyagawa, Kiyoshi Matsumura, Kunitaka Furitani, Masahide Sano, Hiroshi Hoshijima, Tadashi Nishiyama, Katsumi Kageyama, Yasu Saito, Kenzaburo Ishikawa, Akio Numazawa, Toshihide Hirata, Kiyoki Higuchi, Motor Fan Editorial Department (uncredited)
 
 <b><u>The Aim Is to Put People First</b></u>
 
