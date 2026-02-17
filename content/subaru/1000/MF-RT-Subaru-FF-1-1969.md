@@ -50,7 +50,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> August 1969<br>
-<b>Author:</b> Hiroshi Yamamoto, Motomitsu Honda, Osamu Hirao, Kenji Higuchi, Kozo Murota, Mineo Yamamoto, Kunitaka Furutani, Hiroshi Hoshijima, Taizo Tateishi, Takaaki Kimura, Yasuhei Oguchi, Yasu Saito, Kenzaburo Ishikawa, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
+<b>Authors (Roundtable):</b> Hiroshi Yamamoto, Motomitsu Honda, Osamu Hirao, Kenji Higuchi, Kozo Murota, Mineo Yamamoto, Kunitaka Furutani, Hiroshi Hoshijima, Taizo Tateishi, Takaaki Kimura, Yasuhei Oguchi, Yasu Saito, Kenzaburo Ishikawa, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
 
 
 
