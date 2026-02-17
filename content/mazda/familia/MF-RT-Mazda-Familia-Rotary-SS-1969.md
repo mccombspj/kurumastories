@@ -31,7 +31,7 @@ draft = false
 
 <b><u>Outstanding Power Performance in a Sedan</b></u>
 
-<b>Magazine:</b> This time, our test of the Familia Rotary SS took place at Toyo Kogyo's Miyoshi proving ground. To begin with, we would like to ask about the outline of this model and the intentions behind its release.
+<b>Magazine:</b> Our test of the Familia Rotary SS took place at Toyo Kogyo's Miyoshi proving ground this time. To get started, we would like to ask about the outline of this model and the intentions behind its release.
 
 <b>Minagawa:</b> Our rotary-engine cars began with the Cosmo Sport in May 1967, followed by the Rotary Coupe in July 1968. This Rotary SS represents the third development. We would like its introduction to be understood as part of a broader strategy to promote the wider adoption of rotary-engine vehicles.
 

@@ -63,7 +63,7 @@ draft = false
 
 <b><u>Adapted for the High-Speed Era</b></u>
 
-<b>Magazine:</b> To begin, could you tell us about the development aims and overall outline of this new Subaru FF-1?
+<b>Magazine:</b> To get started, could you tell us about the development aims and overall outline of this new Subaru FF-1?
 
 <b>Yamamoto:</b> It has now been twelve years since we entered the market with the Subaru 360. In that time we introduced the Subaru 1000, and thanks to your continued support, it has been on sale for nearly three years. Throughout that period, we have received a great deal of advice and guidance from the distinguished experts present here, and our engineering staff has devoted every effort, examining every possible angle, to improving performance and creating a car that represents even the smallest step forward.
 
