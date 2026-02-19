@@ -35,7 +35,7 @@ draft = false
 
 <b>Magazine:</b> First, please tell us about the difficulties you faced in completing the rotary engine, which is the heart of the Cosmo.
 
-<b>Yamamoto:</b> It has been about six years since Toyo Kogyo started building rotary engines. During that time, the biggest problem was durability. This was the point we put the most effort into during the research and development stage. After we had a handle on ​​the durability, we solved the problems of optimizing it for use as an automobile engine, such as increasing flexibility to improve performance at low speeds and torque, and we were finally able to reach a point where we could have absolute confidence, which is why we are now releasing it. 
+<b>Yamamoto:</b> It has been about six years since Toyo Kogyo started building rotary engines. During that time, the biggest problem was durability. This was the point we put the most effort into during the research and development stage. After we had a handle on ​​the durability, we solved the problems of optimizing it for use as an automobile engine, such as increasing flexibility to improve performance at low speeds and torque, and we were finally able to reach a point where we could feel absolute confidence in it, which is why we are releasing it now.
 
 The biggest problem directly related to durability was the chatter marks that occur on the inner surface of the trochoid; that is, corrugated wear. Figuring out how to solve this was the most important issue in our research. We had no idea why it occurred, so we had no way of dealing with it. So we started by addressing the basic problem of why corrugated wear occurs, and conducted thorough research and experiments. In the end, this steady, methodological approach opened the way to solving the chatter marks.
 
@@ -43,11 +43,11 @@ The biggest problem directly related to durability was the chatter marks that oc
 
 <b>Yamamoto:</b> The theory is the same as the NSU engine, but structurally it is very different. The Spyder engine was very much focused on high engine speed and high power, but Toyo Kogyo made an effort to make the engine flexible enough to be used over a wide range of revolutions. To achieve this, the intake method is very different from NSU's. As you know, it uses a side port type that takes in air at a right angle to the housing, and Toyo Kogyo was the first to put two plugs on one housing. Of course, the use of two rotors is the biggest difference.
 
-<b>Watanabe:</b> My point of view is a little different, and I would like to emphasize that the development processes of Toyo Kogyo and NSU were very different. Toyo Kogyo researched the various problems starting from the fundamentals, which may have seemed like a detour, but in the end I think it can be said that it hastened the solutions.
+<b>Watanabe:</b> My point of view is a little different, and I would like to emphasize that the development processes of Toyo Kogyo and NSU were very different. Toyo Kogyo researched the various problems starting from the basics, which may have seemed like a detour, but in the end I think it can be said that it hastened the solutions.
 
 <b>Yamamoto:</b> We also did a lot of research into single rotor engines at first, but partway through we realized that two rotors would be easier to drive as an automobile engine, so we focused our efforts on developing two rotor engines. So we couldn't just use NSU's single rotor technology as it was... That's where things diverged and became quite different. 
 
-<b>Hirao:</b> It's important to build up from the basics. Even if an individual genius comes up with an inspired idea, it's difficult to make it a reality if there isn't any enthusiasm in the subsequent research resolving "chatter marks."
+<b>Hirao:</b> It's important to build up from the basics. Even if an individual genius comes up with an inspired idea, it's difficult to make it a reality if there isn't any enthusiasm in the subsequent research resolving issues like "chatter marks."
 
 <b>Kondo:</b> What wavelength does the chatter mark have, and what is its cause?
 
@@ -65,7 +65,7 @@ The biggest problem directly related to durability was the chatter marks that oc
 
 <b>Yamamoto:</b> This is the bending frequency of the apex seal.
 
-<b>Kumabe:</b> I've heard that the problem of plug fouling was also serious, so how did you solve this?
+<b>Kumabe:</b> I've heard that the problem of plug fouling was also serious. How did you solve this?
 
 <b>Yamamoto:</b> At first we used a single plug, but it was quite difficult to start the engine at low cranking speeds. If you pulled the choke incorrectly, the plug would get wet and the engine wouldn't start. Of course, we changed the properties of the plug and the shape of the hole near the plug in various ways, but we found that the biggest problem was the position of the plug. The current engine uses two plugs, and one of them is attached where it is very resistant to getting wet. The other is good in terms of performance, and these two combine to cover the performance requirements of an automobile engine. This way, there is no need to worry about plug fouling or lubrication.
 
@@ -95,7 +95,7 @@ As for the side seal, the lubricating oil that cools the inside of the rotor spl
 
 <b>Miyamoto:</b> What kind of fuel does it use?
 
-<b>Yamamoto:</b> Regular gasoline is sufficient.
+<b>Yamamoto:</b> Regular gasoline is fine.
 
 <b>Hirao:</b> Another thing I'm concerned about is the gear in the center of the trochoid. Are there any technical problems with that gear?
 
@@ -111,7 +111,7 @@ After that, since oil is also used as a coolant, we were worried about oil conta
 
 <b>Higuchi:</b> When I read the manual, it says to use a certain specified oil, but is it something special?
 
-<b>Watanabe:</b> No, this specification means that we want you to use the original oil, and of course normal oil is fine.
+<b>Watanabe:</b> No, this specification means that we want you to continue using the original oil, and of course normal oil is fine.
 
 <b><u>Fuel Economy is 14.3km/l</b></u>
 
@@ -129,7 +129,7 @@ After that, since oil is also used as a coolant, we were worried about oil conta
 
 <b>Hirao:</b> If you think of it as having a 110ps engine, 14.3km/l is a good figure. 110ps is what you'd expect from a 2-liter sedan type.
 
-<b>Higuchi:</b> If you think of it simply as another type of gasoline engine, it's said that the shape of the combustion chamber should be as close to spherical as possible. However, the Wankel combustion chamber has a flat shape, which makes knocking a concern. What are your thoughts on that?
+<b>Higuchi:</b> If you think of it simply as another type of gasoline engine, it's said that the shape of the combustion chamber should be as close to spherical as possible. However, the Wankel combustion chamber has a flat shape, which makes knocking a concern. What do you think about this?
 
 <b>Yamamoto:</b> Certainly, in terms of flame propagation time, a spherical shape is best, and one would think that this Wankel shape would cause knocking. However, a characteristic of the Wankel is that compression turbulence is very intense in the direction of rotation. This shortens the time for combustion propagation, and seems to make it resistant to knocking.
 
@@ -137,11 +137,11 @@ After that, since oil is also used as a coolant, we were worried about oil conta
 
 <b>Magazine:</b> We've talked quite a bit about the Wankel engine itself, but let's get back to the Cosmo Sport and talk about the process that led to the development of the Cosmo.
 
-<b>Minagawa:</b> The basic concept behind the Cosmo is to make the most of the rotary engine's characteristics. The rotary has many advantages, but the main ones are that it is compact compared to its power, and has very good high-speed performance. Of course, it is natural to also place importance on low-speed performance in a passenger car, and it is also important to be able to compete with reciprocating engines in terms of vibration, noise, and durability. So, for our first rotary car, we aimed for a sports coupe from the beginning. At first, we were thinking of a pure sports car for high-speed long-distance touring, but as a practical consideration, it was also necessary to have sufficient performance even at low speeds. As advertised, the Cosmo can accelerate from 25km/h in top gear, so it has grown into a practical car that can actually be driven in the city in top gear.
+<b>Minagawa:</b> The basic concept behind the Cosmo is to make the most of the rotary engine's characteristics. The rotary has many advantages, but the main ones are that it is compact compared to its power, and has very good high-speed performance. Of course, it is natural to also place importance on low-speed performance in a passenger car, and it is also important to be able to compete with reciprocating engines in terms of vibration, noise, and durability. So, for our first rotary car, we aimed for a sports coupe from the beginning. At first, we were thinking of a pure sports car for high-speed long-distance touring, but as a practical consideration, it was also necessary to have sufficient performance even at low speeds. As advertised, the Cosmo can accelerate from 25km/h in top gear, so it has grown into a practical car that can actually be driven in top gear in the city.
 
 As for the style of the car, it was a completely Japanese design that made use of the free ideas of the young designers in the company, starting from the idea that "because the rotary engine is a new technology, the car itself should be as new as possible, and we want a style that breaks through conventional ideas." We are currently planning a sedan-type car as the second model in the Cosmo series. This will a car that is more aimed at the popular mass market, and we are also thinking about a body style that is suitable for the rotary engine.
 
-<b>Watanabe:</b> To be specific, the character of the Cosmo has gradually changed in line with the development of the rotary engine itself. At first, it was designed purely as a sports car, so the gearbox was a 5-speed, the steering was sharp, the springs were stiff, and it was primarily a car for driving on a circuit. However, as it was developed further, and a very flat performance curve was achieved, we decided to make the character of this car more like that of a grand touring car.
+<b>Watanabe:</b> To be specific, the character of the Cosmo has gradually changed in line with the development of the rotary engine itself. At first, it was designed purely as a sports car, so the gearbox was a 5-speed, the steering was sharp, the springs were stiff, and it was primarily a car for driving on a circuit. However, as it was developed further, and a very flat performance curve was achieved, we decided to make its character more like that of a grand touring car.
 
 For example, we changed the gearbox to four-speed, reduced the steering effort, and made the suspension tuning closer to that of a sedan.
 
@@ -151,7 +151,7 @@ For example, we changed the gearbox to four-speed, reduced the steering effort, 
 
 In that case, a transmission with fewer gears would be more than sufficient; one with three speeds, or even two... (laughs).
 
-<b>Yamamoto:</b> The body style that takes advantage of the rotary engine's characteristics, and the wide range of revolutions, are certainly two important points that we will continue to focus on in the future. You pointed out that 7000rpm is a little low for a rotary engine, and you're absolutely right, but because this is the first car we're releasing, we're being extremely cautious about durability. In the future, we'll probably move in the direction of increasing the revolutions to bring out the true strengths of the rotary. Of course, we'll keep the current low-speed performance as it is.
+<b>Yamamoto:</b> The body style that takes advantage of the rotary engine's characteristics, and the wide range of revolutions, are certainly two important points that we will continue to focus on in the future. You pointed out that 7000rpm is a little low for a rotary engine, and you're absolutely right, but because this is the first car we're releasing, we're being extremely careful about durability. In the future, we'll probably move in the direction of increasing the revolutions to bring out the true strengths of the rotary. Of course, we'll keep the current low-speed performance as it is.
 
 <b>Watanabe:</b> The Cosmo has achieved a fairly effective reduction in the bonnet line. There are cars whose overall height is equally low, but with a reciprocating engine, the bonnet is so high that the windshield is quite narrow, resulting in poor visibility.
 
@@ -189,11 +189,11 @@ In that case, a transmission with fewer gears would be more than sufficient; one
 
 <b>Watari:</b> As for the external noise level, I can't say for sure because the data can't be compared directly, but I think it's a little on the high side.
 
-<b>Araki:</b> Compared to other sports cars, however, we think it's on the low side.
+<b>Araki:</b> Compared to other sports cars, however, we think it's fairly low.
 
 <b>Magazine:</b> What about the suspension's vibration frequency?
 
-<b>Watari:</b> The unsprung vibration frequency at the front is 1.8cps, and the rear is 1.85cps, which corresponds to about 100 cycles per minute. The unsprung vibration frequency is about 12cps, which is a little on the hard side, but it's a sports car, so that's to be expected. In reality, it feels softer than these numbers suggest.
+<b>Watari:</b> The unsprung vibration frequency at the front is 1.8cps, and the rear is 1.85cps, which corresponds to about 100 cycles per minute. The unsprung vibration frequency is about 12cps, which is a little on the stiff side, but it's a sports car, so that's to be expected. In reality, it feels softer than these numbers suggest.
 
 <b>Magazine:</b> Next, please announce the results of the power performance test conducted today at the Miyoshi test course.
 
