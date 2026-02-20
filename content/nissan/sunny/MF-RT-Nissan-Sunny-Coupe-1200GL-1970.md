@@ -221,3 +221,6 @@ Next, regarding maintenance, when I read the manual, I found many things that we
 
 <b>Magazine:</b> Thank you all very much. 
 
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-RT-Nissan-Sunny-Coupe-1200GL-1970-Gallery" >}}
