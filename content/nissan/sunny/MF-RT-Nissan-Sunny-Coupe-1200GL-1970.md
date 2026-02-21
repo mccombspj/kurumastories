@@ -25,7 +25,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> July 1970<br>
-<b>Author (Roundtable):</b> Hiroshi Takahashi, Osamu Hirao, Hiroshi Okazaki, Zenzo Sonoda, Kenji Higuchi, Motoo Harada, Akio Miyamoto, Kunitaka Furutani, Yasuhei Oguchi, Taizo Tateishi, Masahide Sano, Kenzaburo Ishikawa, Zo Doi, Kenichi Otani, Minoru Onda 
+<b>Authors (Roundtable):</b> Hiroshi Takahashi, Osamu Hirao, Hiroshi Okazaki, Zenzo Sonoda, Kenji Higuchi, Motoo Harada, Akio Miyamoto, Kunitaka Furutani, Yasuhei Oguchi, Taizo Tateishi, Masahide Sano, Kenzaburo Ishikawa, Zo Doi, Kenichi Otani, Minoru Onda 
 
 
 

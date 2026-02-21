@@ -77,6 +77,6 @@ When I participated in the first Japanese Grand Prix race held at Suzuka Circuit
 
 Over the past few years, these predictions have proven correct, and my expectations have been met, if not fully.
 
-Due to production costs, in Japan, true sports cars that were suitable for racing were rarely made on a mass production basis. As far as I can remember, the Datsun Fairlady was the first real production sports car sold in Japan. This was followed by production sports cars like the Honda S600, then cars like the Bellett GT, Contessa 1300 Coupe, Toyota S800, Nissan Silvia, Corona S, Skyline 2000GT, and Compagno Spider.
+Due to production costs, in Japan, true sports cars that were suitable for racing were rarely made on a mass production basis. As far as I can remember, the Datsun Fairlady was the first real production sports car sold in Japan. This was followed by production sports cars like the Honda S600, then cars like the Bellett GT, Contessa 1300 Coupe, Toyota Sports 800, Nissan Silvia, Corona S, Skyline 2000GT, and Compagno Spider.
 
 At the same time, many manufacturers began to offer high-performance engines for regular passenger cars as well. However, from every angle, the Toyota 2000GT appears to be the first full-fledged sports car made in Japan.
