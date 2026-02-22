@@ -182,6 +182,9 @@
     <loc>http://localhost:1313/toyota/crown/cg-rt-toyota-crown-hardtop-sl-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/crown/mf-tdr-toyota-crown-hardtop-super-deluxe-1969/</loc>
+    <lastmod>2026-02-21T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mazda/familia/mf-rt-mazda-familia-rotary-ss-1969/</loc>
     <lastmod>2026-02-12T04:50:49-07:00</lastmod>
   </url><url>
@@ -190,9 +193,6 @@
   </url><url>
     <loc>http://localhost:1313/nissan/sunny/cg-rt-nissan-sunny-coupe-1400gx-1971/</loc>
     <lastmod>2026-01-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/crown/mf-rtd-toyota-crown-hardtop-super-saloon-1971/</loc>
-    <lastmod>2025-11-18T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/silvia/mf-rt-nissan-silvia-1965/</loc>
     <lastmod>2025-11-16T04:50:49-07:00</lastmod>
@@ -236,11 +236,11 @@
     <loc>http://localhost:1313/nissan/sunny/mf-rt-nissan-sunny-excellent-coupe-1400gx-1971/</loc>
     <lastmod>2026-02-20T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/crown/cg-gt-toyota-crown-hardtop-super-saloon-vs-nissan-cedric-hardtop-gx-1971/</loc>
-    <lastmod>2026-01-30T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/isuzu/117-coupe/cg-rt-isuzu-117-coupe-ec-1970/</loc>
     <lastmod>2026-01-29T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/crown/mf-rtd-toyota-crown-hardtop-super-saloon-1971/</loc>
+    <lastmod>2025-11-18T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/fairlady/mf-rt-nissan-fairlady-z432-1970/</loc>
     <lastmod>2025-11-04T04:50:49-07:00</lastmod>
@@ -265,6 +265,9 @@
   </url><url>
     <loc>http://localhost:1313/toyota/celica/cg-gt-toyota-celica-1600gt-vs-mitsubishi-colt-galant-gto-mr-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/crown/cg-gt-toyota-crown-hardtop-super-saloon-vs-nissan-cedric-hardtop-gx-1971/</loc>
+    <lastmod>2026-01-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/fairlady/mf-dtd-nissan-fairlady-z432-1970/</loc>
     <lastmod>2025-12-20T04:50:49-07:00</lastmod>
@@ -326,13 +329,19 @@
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/crown/</loc>
+    <lastmod>2026-02-21T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/</loc>
+    <lastmod>2026-02-21T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-21T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/</loc>
     <lastmod>2026-02-20T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/sunny/</loc>
-    <lastmod>2026-02-20T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-20T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/subaru/1000/</loc>
@@ -363,12 +372,6 @@
     <lastmod>2026-01-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/cedric/</loc>
-    <lastmod>2026-01-30T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/crown/</loc>
-    <lastmod>2026-01-30T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/</loc>
     <lastmod>2026-01-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/117-coupe/</loc>

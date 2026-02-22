@@ -173,7 +173,7 @@ Regarding handling and stability, the car displayed consistently stable underste
 
 <b>Hirao:</b> That's right. High-speed stability was quite good.
 
-<b>Okazaki:</b> Certainly, with the increase in class, the feeling is considerably different. It is light in response yet carries a certain sense of weight. However, it was disappointing that the tires lacked grip. Ride comfort is good, but the chassis feels somewhat soft, a bit lacking in firmness--it feels somewhat insubstantial.
+<b>Okazaki:</b> Certainly, with the increase in class, the feeling is considerably different. It is light in response yet carries a certain sense of weight. However, it was disappointing that the tires lacked grip. Ride comfort is good, but the chassis feels somewhat soft, a bit lacking in firmness--it feels somewhat unsupported.
 
 <b>Magazine:</b> The Sunny 1200 had a reputation for very good handling…
 

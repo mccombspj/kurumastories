@@ -10,7 +10,7 @@ title = "Toyota Crown Hardtop Super Saloon vs Nissan Cedric Hardtop GX (1971)"
 
 
 
-weight = 40
+weight = 50
 
 
 
