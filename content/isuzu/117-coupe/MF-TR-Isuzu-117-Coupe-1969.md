@@ -97,7 +97,7 @@ Leaving the city behind, the smooth, Italian-bred styling of the coupe stood out
 
 <b>Todoroki:</b> Yes, and the slender rear pillars finished in stainless steel work particularly well. In fact, this applies to the entire design. It’s all very clean and uncluttered.
 
-<b>Araki:</b> The front grille is stylish too: a black mesh background with a thin horizontal chrome bar running across it, and the Chinese lion emblem placed at the center. It’s tasteful in a subtly clever way. That said, when viewed from the rear, despite the overall neatness, the coke-bottle treatment bulges a bit and comes across as slightly heavy.
+<b>Araki:</b> The front grille is stylish too: a black mesh background with a thin horizontal chrome bar running across it, and the lion emblem placed at the center. It’s tasteful in a subtly clever way. That said, when viewed from the rear, despite the overall neatness, the coke-bottle treatment bulges a bit and comes across as slightly heavy.
 
 <b>Todoroki:</b> I don’t see it that way myself. It’s less a "coke-bottle line" than a natural flow, and the degree of fender flare doesn’t upset the overall balance. From the front it looks extremely slim, while from the rear it has a certain voluptuous glamour. It’s the harmony between the two that should be appreciated.
 
