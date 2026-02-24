@@ -81,15 +81,15 @@ At the Tokyo Motor Show held that autumn, the second prototype was exhibited as 
 
 Because it is a car in a completely new category, there was no existing model to compare it with and nothing to use as a reference, so development involved many difficulties. And since it is a high-end vehicle, we did not place emphasis on production volume. As a result, it is a low-volume, high-quality car, which also posed challenges in terms of its structure and production.
 
-We undertook extensive preparation and trained the workers. In addition, rather than adopting the so-called foreign-style custom approach, we chose a production method that achieves higher productivity and more uniform build quality.
+We undertook extensive preparations, including training the workers. In addition, rather than adopting the so-called foreign-style custom approach, we chose a production method that achieves higher productivity and more uniform build quality.
 
 On the technical side, the engine is a newly developed 1.6-liter four-cylinder DOHC unit producing 120ps. This is the result of engine development work that had already been underway before this car. It delivers not only high-speed performance but also plenty of torque at low speeds, and as you will notice when you drive it, it is extremely easy to handle even in city traffic.
 
 We had set a target top speed of 200km/h, but for the domestic standard specification we lowered the final gear ratio to 4.10, so its top speed is 190km/h. We specified low-profile high-speed tires, ventilated wheel discs, and power disc brakes to ensure high-speed drivability and stability.
 
-As for quietness, we made abundant use of special vibration-damping materials, and for comfort we paid particular attention to reducing fatigue on long-distance drives. The seats are designed to meet FIA four-seater standards. Notable features are that the rear seat backs recline in three stages, and if you fold them forward flat, the trunk and rear space become one continuous area, providing a large load space.
+As for quietness, we made abundant use of special vibration-damping materials, and for comfort we paid particular attention to reducing fatigue on long-distance drives. The seating area is designed to meet FIA four-seater standards. Notable features are that the rear seat backs recline in three stages, and if you fold them forward flat, the trunk and rear space become one continuous area, providing a large load space.
 
-In terms of safety, the car is equipped with all 24 items in the US MVSS that are likely to be adopted under equivalent Japanese standards, including a collapsible steering column, dual-circuit brakes, and seat belts for four occupants as standard equipment.
+In terms of safety, the car is equipped as standard with all 24 items in the US MVSS that are likely to be adopted under equivalent Japanese standards, including a collapsible steering column, dual-circuit brakes, and seat belts for four occupants.
 
 Every one of these features represents work that carries the full weight of our company’s reputation. In other words, this is a car built by bringing together the very highest level of our technology.
 
@@ -99,7 +99,7 @@ Every one of these features represents work that carries the full weight of our 
 
 <b>Hamada:</b> It is simply the car’s internal project number, and it has no meaning beyond that. In fact, at the 1966 Tokyo Motor Show, the car was not originally scheduled to be exhibited at all, but it was decided at the last moment that it would go on display. Since it had no official name, we showed it as a reference model under its internal prototype number, as the “117 Sport.”
 
-That name turned out to be unexpectedly well received. It sounded good, and it gained a reputation among younger people, so the car ended up becoming known as the 117 Coupe. So, when we decided to release it, the overwhelming opinion was that it would be more effective to keep the name rather than change it. In the end, it was officially decided to use the name "Isuzu 117 Coupe" just as it was.
+That name turned out to be unexpectedly well received. It sounded good, and it gained a reputation among younger people, so the car ended up becoming known as the 117 Coupe. So, when we decided to release it, the overwhelming opinion was that it would be better to keep the name rather than change it. In the end, it was officially decided to use the name "Isuzu 117 Coupe" just as it was.
 
 <b>Hirao:</b> This is a fairly general issue, but in the copy used for passenger-car advertising you often see phrases like "Top speed 200km/h!" or "0-400m in 16.8 seconds." I’m often asked, particularly by people from what might be called the anti-motorization camp, what does that kind of claim actually mean? They’ll ask, why does a passenger car need that sort of performance?
 
@@ -109,7 +109,7 @@ For example, there is a fundamental difference in safety between driving at 100k
 
 The tires, too, are high-grade tires with a high level of safety, so it is reasonable to think that safety at 100km/h is greatly improved. I would very much like this point to be emphasized in terms of PR.
 
-The same applies to the 0–400m acceleration time. In practical terms, this comes into play when entering a high-speed road. If the figure is 16.8 seconds--a good value, at that--I believe that directly contributes to safety as well. This is another thing I explain to people from the anti-motorization side. I would like manufacturers, too, to give careful thought to how these points are handled in PR. Simply saying that the top speed is high, or that the 0–400m time is fast, carries the risk of being misunderstood.
+The same applies to the 0–400m acceleration time. In practical terms, this comes into play when entering a high-speed road. If the figure is 16.8 seconds--a good value, incidentally--I believe that directly contributes to safety as well. This is another thing I explain to people from the anti-motorization side. I would like manufacturers, too, to give careful thought to how these points are handled in PR. Simply saying that the top speed is high, or that the 0–400m time is fast, carries the risk of being misunderstood.
 
 <b>Hamada:</b> Yes, that is precisely correct. I think this is something that not only we, but the entire automotive industry, should think about very seriously.
 

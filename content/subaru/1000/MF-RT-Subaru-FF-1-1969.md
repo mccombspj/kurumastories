@@ -79,7 +79,7 @@ The result of those efforts is what you see here today: the FF-1.
 
 In other words, our aim was to create a car that is safer, faster, and more spacious. The automobile of the future cannot be merely fast. Safety must always be the primary consideration. With that in mind, our desire was to create a car with an entirely "new car feeling." This is how the Subaru FF-1 came about.
 
-<b>Magazine:</b> What sort of mechanism does the engine employ?
+<b>Magazine:</b> What sort of mechanism does the engine use?
 
 <b>Honda:</b> Displacement has been increased by approximately 11 percent, from 977cc to 1088cc. It is a horizontally opposed four-cylinder, water-cooled, four-cycle unit. There are two types: the EA61 for the sedan and van models, and the EA61S for the Sports Sedan.
 
@@ -113,7 +113,7 @@ For example, the standard model produces 62ps at 6000rpm, with maximum torque of
 
 First, regarding what might be called primary safety, there is the inherent safety of front-wheel drive: the excellent stability and controllability of the FF layout. The benefits of systems that use the same front wheels to steer and pull the car forward are recognized worldwide, and it connects directly to safety in the expressway era.
 
-Secondly, as a matter of secondary safety, we have revised both interior and exterior design elements and modified various devices to improve overall safety. Items that appeared visually hazardous have had their protrusions removed and replaced with rounded forms. The fuel tank has been repositioned and the design of the instrument panel has been improved with safety in mind. The seats, which had drawn some criticism in the past, have been completely redesigned.
+Secondly, as a matter of secondary safety, we have revised both interior and exterior design elements and modified various mechanical parts to improve overall safety. Items that appeared visually hazardous have had their protrusions removed and replaced with rounded forms. The fuel tank has been repositioned and the design of the instrument panel has been improved with safety in mind. The seats, which had drawn some criticism in the past, have been completely redesigned.
 
 Additionally, the sedan’s rear-pillar ventilation system extracts cabin air from beneath the rear glass and routes it through the rear pillars, which also contributes to a demisting effect for the rear window.
 
@@ -133,9 +133,9 @@ The key, incidentally, is of the reversible type—symmetrical top and bottom—
 
 <b>Murota:</b> Wouldn't it be safer to have it locked?
 
-<b>Hirao:</b> Would it? I rather think it may be safer not to lock it on the expressway… In any case, whether it's safer to lock or not lock the doors at high speed is a major issue for the entire industry.
+<b>Hirao:</b> Would it? I rather think it may be safer not to lock it on the expressway… In any case, whether it's safer to lock or not lock the doors at high speed is an issue for the entire industry.
 
-<b>Magazine:</b> It is certainly a question that applies to automobiles in general.
+<b>Magazine:</b> It is certainly a question that applies to cars in general.
 
 <b>Hirao:</b> If the seatbelt were to fail, then surely the occupant would not survive in any case. This is something that ought to be thoroughly studied by the Safety Committee of the Automobile Manufacturers Association.
 
@@ -181,7 +181,7 @@ Another point: it is said that torque between 1500-2500rpm has improved by as mu
 
 <b>Furutani:</b> In actual use, it feels as though the gap between third and top is wider than that between second and third.
 
-<b>Hirao:</b> I agree. One should be able to pull confidently in third. If it enters the yellow zone so quickly, it is slightly troublesome.
+<b>Hirao:</b> I agree. One should be able to pull confidently in third. For it to enter the yellow zone so quickly is slightly bothersome.
 
 <b>Hoshijima:</b> Yes. The red zone begins at 110km/h, and the yellow at 100km/h.
 
@@ -329,13 +329,13 @@ As for cornering, I found the feel much improved. Especially on downhill section
 
 <b>Magazine:</b> You mean, not only general advice, but guidance on how to enjoy it as a sports car.
 
-<b>Hirao:</b> Maybe Hoshijima could write it…
+<b>Hirao:</b> Maybe Hoshijima could write it...
 
 <b>Hoshijima:</b> It would not be inappropriate to emphasize that at higher speeds the car offers a distinctly different style of driving.
 
 <b>Hirao:</b> A sort of guide to FF driving.
 
-<b>Higuchi:</b> One could omit some of the finer points of maintenance and instead add something about the pleasures unique to the Sports model.
+<b>Higuchi:</b> You could omit some of the finer points of maintenance and instead add something about the pleasures unique to the Sports model.
 
 <b>Kimura:</b> When ordinary users have grown more accustomed to FF and begin to seek such enjoyment from the Sports model, we may well consider including such material. At present, however, it may be somewhat premature.
 
