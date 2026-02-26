@@ -23,7 +23,7 @@ draft = false
 <b><u>Road testing the Honda 1300 Coupe 9S</b></u>
 
 
-When we tested the Honda 1300 77 in the February issue, we were highly impressed by its excellent engine, but concluded that its chassis was too soft to keep up with it, and criticized the car for being unable to safely utilize its great power performance. The 77 Deluxe we tested for that report was a very early production model (chassis number H1300-1000611) that was purchased by C/G for long-term testing, and during the approximately 2,000km that we had driven it at that point, it had given us frequent trouble, so the enthusiasm we had initially felt for the Honda 1300 gradually faded. 
+When we tested the Honda 1300 77 in the February issue, we were highly impressed by its excellent engine, but concluded that its chassis was too soft to keep up with it, and criticized the car for being unable to safely utilize its great power performance. The 77 Deluxe we tested for that report was a very early production model (chassis number H1300-1000611) that C/G had purchased for long-term testing, and in the approximately 2,000km that we had driven it at that point, it had already given us frequent trouble. Under these circumstances, the enthusiasm we had initially felt for the Honda 1300 gradually faded away completely. 
 
 Later, as mass production progressed, we began to hear people say that the Honda 1300 had improved considerably, but when we occasionally borrowed one to drive, we couldn't find any improvements significant enough to convince us.
 
