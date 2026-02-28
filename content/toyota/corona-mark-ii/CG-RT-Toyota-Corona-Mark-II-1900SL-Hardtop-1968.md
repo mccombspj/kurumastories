@@ -6,7 +6,7 @@
 
 
 
-title = "Toyota Corona Mark II Hardtop 1900SL (1968)"
+title = "Toyota Corona Mark II 1900 Hardtop SL (1968)"
 weight = 10
 
 

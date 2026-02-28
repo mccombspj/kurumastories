@@ -183,7 +183,7 @@ In addition, the lift coefficient has been reduced considerably. With ordinary c
 
 <b>Mizusawa:</b> In Europe, semi-fastbacks have become more common recently, although there are still quite a few notchback designs as well. This car is a four-seater, and in a four-seater coupe, achieving sufficient headroom is extremely difficult. That is why we brought it together as a fastback. I think that is one of its defining characteristics.
 
-<b>Magazine:</b> From a design standpoint, Hoshijima-san, what do you think?
+<b>Magazine:</b> From a design standpoint, Mr. Hoshijima, what do you think?
 
 <b>Hoshijima:</b> Isuzu’s Bellett was a successful example of emphasizing oval lines, and you can sense something of that image in this car as well. If Ghia’s staff had that in mind when they designed it, then that’s truly impressive. The design itself really feels authentic, very genuine.
 
@@ -317,7 +317,7 @@ Exterior noise was measured using the method specified by JIS. With the car in s
 
 <b>Watari:</b> I think it’s about right for a car of this class. How do the noise figures compare with Isuzu’s internal data?
 
-<b>Kaneshige:</b> They are generally very similar. Earlier, Tateishi-san mentioned that the curve is flat from about 110km/h to 140km/h, but in fact it remains fairly flat even a bit higher. Even up to about 180km/h, there isn’t much change. In the range below 100km/h, the figures are essentially the same as our internal data.
+<b>Kaneshige:</b> They are generally very similar. Earlier, Mr. Tateishi mentioned that the curve is flat from about 110km/h to 140km/h, but in fact it remains fairly flat even a bit higher. Even up to about 180km/h, there isn’t much change. In the range below 100km/h, the figures are essentially the same as our internal data.
 
 Actually, in Motor Fan’s test of the Florian last year, the professors praised the sound level and quality. Compared with the Florian’s engine, this car’s engine has higher output and higher revs, and in the suspension setup, because the priority was naturally high performance and handling, we had to treat noise control as a matter of adding soundproofing and vibration-damping materials inside the cabin to cover it to a considerable degree, and we struggled a lot with that.
 

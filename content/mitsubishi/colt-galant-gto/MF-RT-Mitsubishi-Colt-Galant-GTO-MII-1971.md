@@ -233,7 +233,7 @@ We conducted the free-release stability test up to 140km/h, and at 100km/h, the 
 
 <b>Okazaki:</b> Even if you try really hard to turn in, the rear doesn't slide and you end up going off front-first.
 
-<b>Moriya:</b> On the concrete surface of the test course Okazaki-san used, the understeer is maintained up to a lateral acceleration of 0.7 to 0.8G.
+<b>Moriya:</b> On the concrete surface of the test course Mr. Okazaki used, the understeer is maintained up to a lateral acceleration of 0.7 to 0.8G.
 
 <b>Magazine:</b> Was the tire pressure set to 1.4kg/cm² and 1.6kg/cm² in consideration of ride comfort?
 

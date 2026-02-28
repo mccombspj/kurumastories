@@ -53,7 +53,7 @@ The previous Fairlady 2000, which is still popular not only in domestic club rac
 
 
 
-Compared to other domestic sports cars in the 2-liter class, such as the Toyota 2000GT, Mazda Cosmo, and Nissan's own Skyline 2000GT-R, the Z432 has the most favorable power-to-weight ratio, at 6.5kg/ps when unladen (the figures for the 2000GT, Cosmo, and GT-R are 7.6kg/ps, 7.5kg/ps, and 7.0kg/ps, respectively), and should theoretically be the fastest. However, the engine of the test car, with about 4,400km on the odometer, was not in a proper state of tune. As a result, the top speed was only 175.6km/h, and acceleration performance also fell short of that of the Fairlady 2000. We will go into this point in more detail later.
+Compared to other domestic sports cars in the 2-liter class--the Toyota 2000GT, Mazda Cosmo, and Nissan's own Skyline 2000GT-R--the Z432 has the most favorable power-to-weight ratio, at 6.5kg/ps when unladen (the figures for the 2000GT, Cosmo, and GT-R are 7.6kg/ps, 7.5kg/ps, and 7.0kg/ps, respectively), and should theoretically be the fastest. However, the engine of the test car, with about 4,400km on the odometer, was not in a proper state of tune. As a result, the top speed was only 175.6km/h, and acceleration performance also fell short of that of the Fairlady 2000. We will go into this point in more detail later.
 
 
 
