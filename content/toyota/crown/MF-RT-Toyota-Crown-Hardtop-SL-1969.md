@@ -65,7 +65,7 @@ draft = false
 
 <b>Magazine:</b> As is our usual practice, we would like to ask Mr. Uchiyamada to start by talking about the aims of the development and how the project came about.
 
-<b>Uchiyamada:</b> Talk of “wanting a mid-size hardtop” goes back to around 1963, when I first came to be in charge of the Crown. At the time, however, hardtops were still widely regarded as specialty cars, and there was a strong feeling that they would not sell well. For that reason, we were unable to move forward quickly.
+<b>Uchiyamada:</b> Talk of “wanting a mid-size hardtop” goes back to around 1963, when I first came to be in charge of the Crown. At the time, however, hardtops were still widely regarded as special-purpose cars, and there was a strong feeling that they would not sell well. For that reason, we were unable to move forward quickly.
 
 Looking overseas, however--particularly to the United States--we began to see a steady increase in the sales of hardtops. Even in the case of the Corona, hardtops accounted for around 9% of sales at first, but by 1967 that figure had already risen to about 16%. Seeing this trend, we decided to reexamine the hardtop market in earnest.
 
@@ -133,7 +133,7 @@ As for the unusually shaped headlamps, that design actually dates back to the de
 
 <b>Uchiyamada:</b> I agree completely. With four-door hardtops that lack a center pillar, even driving on ordinary Japanese roads, you hear creaks and groans. You start to wonder whether, over time, the doors might come off altogether.
 
-<b>Higuchi:</b> When you slam the door shut on a pillarless hardtop, the whole body seems to wobble.
+<b>Higuchi:</b> When you slam the door shut on some pillarless hardtops, the whole body seems to wobble.
 
 <b>Hoshijima:</b> Are the headlamp-surround components interchangeable with the current Crown passenger cars?
 

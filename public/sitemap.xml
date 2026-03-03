@@ -110,6 +110,9 @@
     <loc>http://localhost:1313/honda/honda-1300/mf-rt-honda-1300-77-custom-99s-1969/</loc>
     <lastmod>2026-02-09T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/mf-rt-toyota-corona-mark-ii-1600-deluxe-1900-hardtop-sl-1969/</loc>
+    <lastmod>2026-02-28T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/isuzu/bellett/mf-tdr-isuzu-bellett-1600gtr-1969/</loc>
     <lastmod>2026-01-30T04:50:49-07:00</lastmod>
   </url><url>
@@ -235,9 +238,6 @@
   </url><url>
     <loc>http://localhost:1313/toyota/carina/cg-rt-toyota-carina-1600gt-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/corona-mark-ii/mf-rt-toyota-corona-mark-ii-1600-deluxe-1900-hardtop-sl-1969/</loc>
-    <lastmod>2026-02-28T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/sunny/mf-rt-nissan-sunny-excellent-coupe-1400gx-1971/</loc>
     <lastmod>2026-02-20T04:50:49-07:00</lastmod>

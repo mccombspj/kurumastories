@@ -32,7 +32,7 @@ Today, the cars at the center of this cultural and economic phenomenon are mostl
 
 
 
-The articles on this site are English translations of reviews and road tests originally published in Japanese automotive enthusiast publications, mostly monthly magazines such as <i>Car Graphic</i>, <i>Motor Fan</i>, and <i>Auto Sport</i>. They have been machine-translated into English using Google Translate, with manual edits for clarity, context, and to reflect the nuance of the authors' original text.
+The articles on this site are English translations of reviews and road tests originally published in Japanese automotive enthusiast publications, mostly monthly magazines such as <i>Car Graphic</i>, <i>Motor Fan</i>, and <i>Auto Sport</i>. They have been machine-translated into English with manual edits for clarity, context, and to reflect the nuance of the authors' original text.
 
 
 
@@ -51,3 +51,11 @@ The intent of sharing the text and images on this site with the community is edu
 ---
 
 
+<b>このサイトについて</b>
+
+
+
+アメリカ在住の自動車愛好家が個人的に運営している翻訳サイトです。原文の雰囲気や時代背景を大切にしながら、日本の自動車文化を紹介しています。
+
+
+---

@@ -22,9 +22,9 @@ draft = false
 
 <b>Amano:</b> The Mark II was released around this time last year (1968), and we sold about 200,000 units in the first year. There are many variations of the Mark II, but this one is the final, definitive version, and we developed it with the aim of creating a car that boasted the highest performance.
 
-We may have been a bit presumptuous with the name, but it stands for Grand Super Sports. The 1900SL Hardtop emphasizes luxury, but this car emphasizes sportiness over luxury. So, it's a little different from the concept of a GT; it's not a hot car meant to be driven only on the highway, but can also be driven at 40-50km/h around town. It's made to be suitable for women to drive. However, it also has all the qualities needed to achieve great results in races and rallies, and we've also ensured that it can be made into a very hot car by adding options. 
+We may have been a bit presumptuous with the name, but it stands for Grand Super Sports. The 1900SL Hardtop emphasizes luxury, but this car emphasizes sportiness over luxury. So, it's a little different from the concept of a GT; it's not a hot car meant to be driven only on the highway, but one that can also be driven at 40-50km/h around town. It's made to be suitable for women to drive. However, it also has all the qualities needed to achieve great results in races and rallies, and we've also ensured that it can be made into a very hot car by adding options. 
 
-In terms of general features, the engine is a newly developed design. The transmission is an improved version of the Toyota 1600GT's. The differential is a limited-slip, one size larger at seven inches. The suspension is basically the same as the rest of the Mark II series, but the springs are stronger. The brakes have larger-diameter front discs to accommodate high speeds, and the tires are also larger at 14 inches. The top speed is 200km/h, the highest in the Mark II series. This is the character and outline of the car.
+In terms of general features, the engine is a newly developed design. The transmission is an improved version of the Toyota 1600GT's. The limited-slip differential is one size larger at seven inches. The suspension is basically the same as the rest of the Mark II series, but the springs are stronger. The brakes have larger-diameter front discs to accommodate high speeds, and the tires are also larger at 14 inches. The top speed is 200km/h, the highest in the Mark II series. This is the character and outline of the car.
 
 <b>Watari:</b> It's great that anyone can drive it and that you can push it hard when you want to have some sporty fun, but on the other hand, I think it would be better to offer a torque converter automatic. Also, although it might be a bit extravagant, I feel like I'd like power steering.
 
@@ -43,9 +43,9 @@ In terms of general features, the engine is a newly developed design. The transm
 
 <b><u>Well-Matched Power and Transmission</b></u>
 
-<b>Magazine:</b> You mentioned that you kept the price down, but it seems like you really worked hard at this compared to the Skyline 2000GT-R and Bellett 1600GTR in the same class.
+<b>Magazine:</b> You mentioned that you kept the price down, but it seems like you put significant effort into this compared to the Skyline 2000GT-R and Bellett 1600GTR in the same class.
 
-<b>Amano:</b> When we're working on a car, we look at the balance between quality, quantity, cost, and time. We can't release anything less than a good product, but it can't be too expensive. It can't be something so specialized that it can't be made in large quantities. And it can't be something that takes five or ten years to bring to market. Of these, cost carries a huge weight. We calculate how much each part costs, juggling here and there to make ends meet. We thought it would cost around 1 million yen, but it ended up being 1,055,000 yen.
+<b>Amano:</b> When we're developing a car, we look at the balance between quality, quantity, cost, and time. We can't release anything less than a good-quality product, but it can't be too expensive. It can't be something so specialized that it can't be made in large quantities. And it can't be something that takes five or ten years to bring to market. Of these, cost carries a huge weight. We calculate how much each part costs, juggling here and there to make ends meet. We thought it would cost around 1 million yen, but it ended up being 1,055,000 yen.
 
 <b>Magazine:</b> Is the engine just a Mark II 1900SL engine with a different head?
 
