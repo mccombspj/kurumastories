@@ -75,9 +75,7 @@ If we view it within the broader shift in styling--from the flowing, streamlined
 
 <b>Higuchi:</b> The version shown at the Motor Show had something like a rear spoiler attached, which looked quite good.
 
-<b>Yotsumoto:</b> From a styling standpoint, I think the spoiler should really be an option for the sports version… Also, since this car is primarily intended for export, the roof height is generous, so if you slope the rear of the fastback, there’s no room in the dimensions to give it a ducktail.
-
-From a styling standpoint, I feel that a spoiler is best treated as an optional item for a sport version. Moreover, since the car was developed primarily for export, the roofline has been set generously high, so there isn't enough room in the slope of the fastback to incorporate a proper ducktail. 
+<b>Yotsumoto:</b> From a styling standpoint, I feel that a spoiler is best treated as an optional item for a sport version. Moreover, since the car was developed primarily for export, the roofline has been set generously high, so there isn't enough room in the slope of the fastback to incorporate a proper ducktail. 
 
 <b>Watari:</b> Is it possible to enlarge the glass area in the doors somewhat? If the window sills were a little lower, you could lean your arm out more comfortably.
 
