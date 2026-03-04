@@ -33,7 +33,7 @@ draft = false
 
 <b>Magazine:</b> We’d like to begin with the objectives behind the Excellent.
 
-<b>Sonoda:</b> Last year marked the Sunny's full model change into the 1200 series. The Excellent was conceived as the top-grade series within that Sunny family. In other words, it was planned for those customers who may find that the 1200 no longer meets their needs, taking into account the recent trend toward more upmarket preferences. Accordingly, the core of the Excellent series consists of the GL and GX.
+<b>Sonoda:</b> Last year marked the Sunny's full model change into the 1200 series. The Excellent was conceived as the top-grade series within that Sunny family. In other words, it was planned for those customers who may feel that the 1200 does not fully satisfy their needs, taking into account the recent trend toward more upmarket preferences. Accordingly, the core of the Excellent series consists of the GL and GX.
 
 In terms of body styles, there are two types: a coupe and a four-door sedan. Depending on the engine and transmission combinations, there are ten variations in total.
 
@@ -51,11 +51,11 @@ For the suspension, Bluebird-type components are used at the front, tuned to sui
 
 <b>Magazine:</b> So one might say the Excellent was created through the subtlety of combination. From here on, cars of this type --what might be called multi-model, small-volume production--will likely increase. In that sense, it could be considered something of a forerunner…
 
-<b>Sonoda:</b> From mass-market cars through the small and medium classes, and up to the President, I believe the chassis-related components--aside from special-purpose vehicles--have essentially reached a certain stage of completion. Therefore, we considered making full use of these components to develop new models.
+<b>Sonoda:</b> From mass-market cars through the small and medium classes, and up to the President, I believe the chassis-related components--aside from special-purpose vehicles--have essentially reached a certain stage of completion. Therefore, we considered the approach of making full use of these components to develop new models.
 
 <b>Magazine:</b> In that case, issues of matching the various units and achieving overall balance must have presented some difficulty. Were there particular challenges in that respect?
 
-<b>Otani:</b> Leaving aside purely design matters, we made relatively extensive use of existing units experimentally, so in that sense I would not say matching them was especially difficult. Rather, our attention was directed toward how best to achieve compatibility without altering the units themselves. Perhaps this is not the ideal expression, but instead of aiming for the absolute maximum in functional terms, our thinking was to aim for a stable minimum--a reliable, well-settled point of operation.
+<b>Otani:</b> Leaving aside purely design matters, we had conducted relatively extensive tests with these existing units experimentally, so in that sense I would not say matching them was especially difficult. Rather, our attention was directed toward how best to achieve compatibility without altering the units themselves. Perhaps this is not the ideal expression, but instead of aiming for the absolute maximum in functional terms, our thinking was to aim for a stable minimum--a reliable, well-settled functionality.
 
 <b>Higuchi:</b> With the Bluebird engine installed in the Sunny body, front load must have increased. Were there any issues in terms of weight distribution? For example, when braking on snow-covered roads or on downhill grades, was there any tendency for the rear to lock up?
 

@@ -35,15 +35,15 @@ draft = false
 
 <b>Mizutsu:</b> The planning for this car dates back to the year before the current Bluebird was announced, the same year the R380 achieved its victory at the Japanese Grand Prix. In that sense, the technical foundations for the Fairlady Z were already in place: the Bluebird’s suspension on the one hand, and the R380’s engine on the other. The project was conceived on that basis.
 
-The brief given to us contained two requirements which were, in a way, in opposition to each another. First, the car had to have sufficient inherent capability to compete seriously in racing and rallying. At the same time, it had to provide ride comfort comparable to a passenger car, with enough practicality to be used much like a sedan.
+The brief given to us contained two requirements which were, in a way, opposed to one another. First, the car had to have sufficient inherent capability to compete seriously in racing and rallying. At the same time, it had to provide ride comfort comparable to a passenger car, with enough practicality to be used much like a sedan.
 
-It was also required to be suitable for mass production, which meant a reasonable price and appropriate weight. In addition, it had to be suitable for the American market, which has traditionally been the main market for the Fairlady.
+It was also required to be suitable for mass production, which naturally implied a reasonable price and appropriate weight. In addition, it had to be suitable for the American market, which has traditionally been the main market for the Fairlady.
 
 So, while positioning it as a high-performance sports car capable of long-distance touring, we placed emphasis on allowing it to be used for a variety purposes according to varying tastes. For that reason, we decided to offer two engines: the S20 from the R380 as the high-performance unit, and the six-cylinder engine from the Cedric for a more passenger-car-like specification.
 
-For the American market in particular, displacement was increased to 2.4 liters. This was related in part to U.S. emissions requirements, but also for reasons of production commonality. We export a considerable number of Bluebirds to the United States, and the L24 has the same bore and stroke dimensions as the 1.6-liter engine, allowing a high degree component sharing.
+For the American market in particular, displacement was increased to 2.4 liters. This was related in part to U.S. emissions requirements, but also for reasons of production commonality. We export a considerable number of Bluebirds to the United States, and the L24 has the same bore and stroke dimensions as the 1.6-liter engine, allowing a high degree of component sharing.
 
-At the outset there was uncertainty regarding the body configuration--whether it should be open or closed, and whether to make it a two-seater or four-seater. However, as expressways continue to develop, vehicle speeds will naturally rise and the distances traveled will grow longer. In such an environment, a convertible does not always offer the greatest comfort. Issues of noise, airtightness, and the effectiveness of heating and ventilation--in short, overall livability--become increasingly important. Rollover safety was also considered, and for these reasons we decided on a closed body. As for seating capacity, market research in the United States indicated that two seats would be sufficient.
+At the beginning, there was a fair amount of uncertainty regarding the body configuration--whether it should be open or closed, and whether to make it a two-seater or four-seater. However, as expressways continue to develop, vehicle speeds will naturally rise and the distances traveled will grow longer. In such an environment, a convertible does not always offer the greatest comfort. Issues of noise, airtightness, and the effectiveness of heating and ventilation--in short, overall livability--become increasingly important. Rollover safety was also considered, and for these reasons we decided on a closed body. As for seating capacity, market research in the United States indicated that two seats would be sufficient.
 
 Strut-type suspension was adopted at both the front and rear. At the front, the strut was chosen for its lateral rigidity, while also allowing a certain degree of fore-and-aft compliance to address harshness. At the rear, the two-seat layout permitted sufficient height to incorporate the strut towers in the interior. This configuration minimizes camber change, virtually eliminates axle steer, and can even bring the jacking tendency in cornering into the negative range. From the standpoint of stability, it offers considerable latitude in tuning.
 
@@ -51,7 +51,7 @@ Regarding the steering, the rack-and-pinion gear is shared with the Laurel, but 
 
 As for ride comfort, the spring rates differ between the Z432 and the Z equipped with the Cedric-based six-cylinder engine. The standard Z uses the same spring rates as the Bluebird, while the Z432 is set firmer in the interest of improved handling and running performance.
 
-In this way, we began with two principal goals, and sought to allow a choice of engines and suspension specifications in order to appeal to a broad range of users. I would say that reconciling these factors was the central issue in the planning stage.
+In this way, we began with two principal goals, and sought to offer a choice of engine and suspension specifications in order to appeal to a broad range of users. I would say that reconciling these factors was the central issue in the planning stage.
 
 At present, we have a production capacity of 2,000 units per month, of which approximately 1,500 are planned for export and 500 for the domestic market.
 
@@ -63,7 +63,7 @@ At present, we have a production capacity of 2,000 units per month, of which app
 
 <b>Hirao:</b> How would you describe this styling?
 
-<b>Yotsumoto:</b> At the outset, when we began considering the design, there was a fair amount of uncertainty. We debated whether to pursue an overtly aerodynamic form, something more overtly “hot,” or perhaps a specialty car in the manner of the Mustang. We even began exploring the Mustang-like direction at one stage. In the end, however, we concluded that it would be best to proceed with a genuinely sporting image.
+<b>Yotsumoto:</b> At the outset, when we began considering the design, it was unclear which direction we should take. We debated whether to pursue an overtly aerodynamic form, something more overtly “hot,” or perhaps a specialty car in the manner of the Mustang. We even began exploring the Mustang-like direction at one stage. In the end, however, we concluded that it would be best to proceed with a genuine sports-car image.
 
 As a sports car, we felt that an aerodynamic visual impression would naturally become one of the central themes. Small-scale models were made and examined by aerodynamic specialists. The overall length of the car and strictly aerodynamic principles do not necessarily match, but from the standpoint of image, that was the direction we chose.
 

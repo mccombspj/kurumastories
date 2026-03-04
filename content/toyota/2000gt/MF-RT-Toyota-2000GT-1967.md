@@ -127,7 +127,7 @@ We then sent the completed plan to Yamaha Motor Co., which happened to have a re
 
 <b>Miyamoto:</b> It really had to be tenacious.
 
-<b>Kono:</b> The strange thing is, even though we hardly used the clutch, it kept going wrong. Once it reached a certain speed, the clutch would slip. And it would gradually wear down. So we cried a lot about the clutch. The night before the race we replaced the clutch and gave it a go, and this time it worked. 
+<b>Kono:</b> The strange thing is, even though we hardly used the clutch, it kept going wrong. Once it reached a certain speed, the clutch would slip. And it would gradually wear down. So we agonized a lot over the clutch. The night before the race we replaced it and tried it one more time, and that time it worked. 
 
 <b>Hirao:</b> So was it because the clutch spring was too weak? 
 
@@ -191,7 +191,7 @@ However, if possible, I think it would be good to sell a 2+2 type in addition to
 
 <b>Toyota (Riichi):</b> We had to cover the high-speed range as well, and we had a lot of trouble with that. 
 
-<b>Hirao:</b> How many revolutions can you pull that engine up to? 　
+<b>Hirao:</b> How many revolutions can you pull the engine up to? 　
 
 <b>Kono:</b> Up to 7000rpm. 
 
