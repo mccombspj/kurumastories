@@ -33,11 +33,11 @@ draft = false
 
 <b>Magazine:</b> We’d like to begin with the objectives behind the Excellent.
 
-<b>Sonoda:</b> Last year marked the Sunny's full model change into the 1200 Series. The Excellent was conceived as the top-grade series within that Sunny family. In other words, it was planned with customers in mind who may no longer find the 1200 sufficient, taking into account the recent trend toward more upmarket preferences. Accordingly, the core of the Excellent series consists of the GL and GX.
+<b>Sonoda:</b> Last year marked the Sunny's full model change into the 1200 series. The Excellent was conceived as the top-grade series within that Sunny family. In other words, it was planned for those customers who may find that the 1200 no longer meets their needs, taking into account the recent trend toward more upmarket preferences. Accordingly, the core of the Excellent series consists of the GL and GX.
 
 In terms of body styles, there are two types: a coupe and a four-door sedan. Depending on the engine and transmission combinations, there are ten variations in total.
 
-From a design standpoint, one of our aims was to clearly differentiate it from the 1200 Series, both in substance and in appearance. However, if we had made it an entirely different car, it would have lost the image of belonging to the Sunny series. Therefore, it was developed strictly within the framework of the Sunny.
+From a design standpoint, one of our aims was to clearly differentiate it from the 1200 series, both in substance and in appearance. However, if we had made it feel like a different car entirely, it would have lost the image of belonging to the Sunny series. Therefore, it was developed strictly within the framework of the Sunny.
 
 Dimensionally, the front end was extended by 170mm, bringing overall length to 3995mm (4000mm for the sedan). As a result, it now features long-nose proportions. Along with this, we introduced a new grille design. At the rear as well, new tail lamps were adopted.
 
