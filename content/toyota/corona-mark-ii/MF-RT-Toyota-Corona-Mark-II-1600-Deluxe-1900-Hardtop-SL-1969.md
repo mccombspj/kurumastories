@@ -88,7 +88,7 @@ The SL version is specially tuned, with the aim of providing performance appropr
 
 <b>Amano:</b> That may be so.
 
-<b>Miyamoto:</b> The nose is shaped something like a shogi piece, but that makes forward visibility quite good. In addition, high-grade models such as the 1900SL use a recirculating-ball steering system with a variable ratio, which will make it easier for women to drive--and, of course, for men as well. Even when I first drove it, it gave a familiar impression, like a car I'd known for a long time. In terms of performance, I believe it has a character that will be entirely satisfying for expressway driving.
+<b>Miyamoto:</b> The nose is shaped something like a <i>shogi</i> piece, but that makes forward visibility quite good. In addition, high-grade models such as the 1900SL use a recirculating-ball steering system with a variable ratio, which will make it easier for women to drive--and, of course, for men as well. Even when I first drove it, it gave a familiar impression, like a car I'd known for a long time. In terms of performance, I believe it has a character that will be entirely satisfying for expressway driving.
 
 <b>Magazine:</b> Returning to design, the front grille is now made of resin. Presumably this involved considerations for both weight reduction and styling?
 

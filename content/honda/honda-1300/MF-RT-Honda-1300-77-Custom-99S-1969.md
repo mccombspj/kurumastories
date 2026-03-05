@@ -366,7 +366,7 @@ We also conducted free-release directional stability tests up to 110km/h, and th
 
 The inertia was intentionally made heavier. This is very much part of the car’s character, and we deliberately aimed for a “wet” steering feel, as it was described earlier.
 
-<b>Watari:</b> Steering feel is a difficult thing to define, but put simply, I’d say it has a kind of shibui quality--a muted, grown-up feel.
+<b>Watari:</b> Steering feel is a difficult thing to define, but put simply, I’d say it has a kind of <i>shibui</i> quality--a muted, grown-up feel.
 
 <b>Magazine:</b> This uses a rack-and-pinion steering system, correct?
 
