@@ -49,7 +49,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> "Bubble Index" Road Test<br>
 <b>Date:</b> January 1970<br>
-<b>Author:</b> Atsuro Sasaki, Kazuhiko Mitsuwa, Yasuhei Oguchi, Masahide Sano, Atsuhiko Okubo
+<b>Author:</b> Atsuro Sasaki, Kazuhiko Sanbon, Yasuhei Oguchi, Masahide Sano, Atsuhiko Okubo
 
 
 
@@ -86,7 +86,7 @@ A voice mutters indistinctly from somewhere. A knowing grin appears.
 
 “Very well, we’ll depart via the Tomei. From Atsugi to the Odawara-Atsugi Road. In Hakone, the Tokyu Turnpike. Then as far as Miyanoshita. There’s no rough road section, but on the first day we should be able to carry out various instrumented measurements. Let’s fuel up in front of the Tomei Tokyo Interchange and begin recording from there,” says the lead editor.
 
-In the Galant ride Kazuhiko Mitsuwa (driving), Yasuhei Oguchi, and Masahide Sano (manning the test instruments). In the accompanying car are Atsuro Sasaki (your author) and Atsuhiko Okubo. We set off.
+In the Galant ride Kazuhiko Sanbon (driving), Yasuhei Oguchi, and Masahide Sano (manning the test instruments). In the accompanying car are Atsuro Sasaki (your author) and Atsuhiko Okubo. We set off.
 
 From the Tomei entrance, the Galant accelerates eagerly. The surge is strong enough that it hardly feels like a 1300cc car.
 
@@ -124,7 +124,7 @@ In the hexagonal chart that accompanies this test report, the topmost category--
 
 As noted in those sections, the performance is outstanding. All five drivers who alternated at the wheel during the two-day round trip from Tokyo were in unanimous agreement. At 87ps/6300rpm from 1300cc, it surpasses the Bluebird 1300 (72ps/6000rpm), yet falls short of the Honda 1300-77 (100ps/7200rpm). In other words, it sits squarely between them. But the quality of its acceleration deserves special mention.
 
-“It feels as though it would rev forever. Since the Custom doesn’t have a tachometer, I found myself worrying that I might exceed the allowable engine speed,” remarked Mitsuwa.
+“It feels as though it would rev forever. Since the Custom doesn’t have a tachometer, I found myself worrying that I might exceed the allowable engine speed,” remarked Sanbon.
 
 “As Mitsubishi claims, the combustion chamber shape, the improved intake and exhaust efficiency from the crossflow layout, the careful finishing work such as deburring inside the exhaust manifold, the large valve diameters--taken together, these produce a high-performance engine that can be revved easily to quite high speeds. It’s an engine where the torque doesn’t fall away as the revs rise,” said Oguchi.
 
@@ -152,15 +152,15 @@ Noise testing was conducted on ordinary public roads, not on a manufacturer’s 
 
 Interior noise levels measured 68 phons at 60km/h, 73 phons at 80km/h, and 80 phons at 100km/h during top-gear cruising. In this class, those figures might be described as reasonable. During testing, however, we discovered something interesting: opening the vents at both ends of the dashboard increased noise by 1 phon at 80km/h and 2 phons at 100km/h. A 2-phon increase at 100km/h is quite fatiguing for the driver.
 
-“The incoming air from the front intake must be swirling through the tunnel inside the fender as it rushes in. Of course there’s probably a step or baffle along the way, but what we’re hearing is resonance--essentially a jet tone,” observed Oguchi and Mitsuwa.
+“The incoming air from the front intake must be swirling through the tunnel inside the fender as it rushes in. Of course there’s probably a step or baffle along the way, but what we’re hearing is resonance--essentially a jet tone,” observed Oguchi and Sanbon.
 
 “I thought wind noise was relatively low. I felt that the interior became suddenly noisy past 100km/h, but maybe it was the vents all along. Perhaps they were left open,” said Sasaki.
 
-Between 100km/h and 110km/h, a degree of yawing becomes noticeable. Every member of the group felt it. It produces a faintly uneasy sensation. At first we wondered whether it was simply the road surface. "It isn’t severe, but when the speedometer is indicating over 100km/h, the car feels almost as though it is being struck by crosswinds. It took some time before we realized--ah, this is yawing,” said Sasaki. “It happens even at 90km/h. It’s an unpleasant feeling,” added Mitsuwa and Okubo.
+Between 100km/h and 110km/h, a degree of yawing becomes noticeable. Every member of the group felt it. It produces a faintly uneasy sensation. At first we wondered whether it was simply the road surface. "It isn’t severe, but when the speedometer is indicating over 100km/h, the car feels almost as though it is being struck by crosswinds. It took some time before we realized--ah, this is yawing,” said Sasaki. “It happens even at 90km/h. It’s an unpleasant feeling,” added Sanbon and Okubo.
 
 Yet once off the expressway and back onto ordinary roads, the sensation is quickly forgotten. One reason is the seat construction--a unitary urethane-foam structure--which works remarkably well. Thigh support is by no means poor.
 
-The test car, being the Custom grade, featured separate fixed seats. As for seating comfort, the group was near-unanimous: “Above standard--no objections!” "But the seatback reclines too far. Couldn’t they have provided at least two or three degrees of adjustment?” --Mitsuwa. “I think the angle is just right. It must have been calculated that way,” countered Oguchi.
+The test car, being the Custom grade, featured separate fixed seats. As for seating comfort, the group was near-unanimous: “Above standard--no objections!” "But the seatback reclines too far. Couldn’t they have provided at least two or three degrees of adjustment?” --Sanbon. “I think the angle is just right. It must have been calculated that way,” countered Oguchi.
 
 The Galant lineup includes 14 variations in the AI series and 7 in the AII series. The Custom sits roughly in the middle of the range. But if they have already gone so far as to fit a floor shift and separate seats, why not provide reclining adjustment as well? Such voices were heard within the group.
 
@@ -172,9 +172,9 @@ The next evaluation category—the one marked on the upper left of the hexagon�
 
 We tested the steering's self-centering characteristics from a steady 60km/h cruise, applying a slight steering input--simulating the effect of a crosswind--and then gently releasing the wheel. In this case, the car wavers, changes direction, and requires slightly more than one full oscillation from right to left before settling back to its original course. This takes 3 seconds. At 100km/h, it requires two full oscillations and slightly more than 6 seconds. The verdict: the settling characteristics are not especially good.
 
-As for steering feel--we found it somewhat reluctant. “There's a damped sensation,” said Oguchi. “Perhaps 'elastic' is the word,” suggested Mitsuwa. Those expecting sharpness will be disappointed. The overall assessment: it's better suited to calm, unhurried drivers.
+As for steering feel--we found it somewhat reluctant. “There's a damped sensation,” said Oguchi. “Perhaps 'elastic' is the word,” suggested Sanbon. Those expecting sharpness will be disappointed. The overall assessment: it's better suited to calm, unhurried drivers.
 
-The transmission, on the other hand, offers a "pleasingly positive engagement" (Mitsuwa, Sano). Though the test car had only about 1,000km on it, shifts are smooth and sure. It can be fairly called a well-made gearbox. The shift pattern places reverse to the left, engaged by pushing the knob downward. This avoids confusion with second gear. One wonders whether the reverse-left layout reflects consideration of the American export market.
+The transmission, on the other hand, offers a "pleasingly positive engagement" (Sanbon, Sano). Though the test car had only about 1,000km on it, shifts are smooth and sure. It can be fairly called a well-made gearbox. The shift pattern places reverse to the left, engaged by pushing the knob downward. This avoids confusion with second gear. One wonders whether the reverse-left layout reflects consideration of the American export market.
 
 Turning to the category of safety, this is, of course, something that cannot be tested directly. We concluded that the proper benchmark is the degree to which the manufacturer has incorporated features meeting or exceeding safety standards.
 
@@ -188,11 +188,11 @@ As for economy, whenever the word is mentioned, the first thing anyone thinks of
 
 Some foreign observers have remarked, “Japan’s motorization is still overreaching itself.” But we too have no fondness for cars that gulp down a 50- or 60-yen-per-liter liquid as though spilling it carelessly. Nor would we wish to recommend such a car to Japanese users. Accordingly, we measured the Galant's fuel consumption using the same full-tank method as would an ordinary owner.
 
-From the Tomei's Tokyo IC entrance to the Ebina Service Area, we ran a purely expressway distance of 31.7km (outbound, with Mitsuwa driving). The result was 12.7km/l.
+From the Tomei's Tokyo IC entrance to the Ebina Service Area, we ran a purely expressway distance of 31.7km (outbound, with Sanbon driving). The result was 12.7km/l.
 
 The return trip took us from Gotemba IC to Tokyo IC, then via surface roads and the Metropolitan Expressway Route 3 to Tamachi--a total of 101km at an average speed of 71km/h (with Sasaki driving). The figure, coincidentally, was again 12.7km/l.
 
-Mitsuwa holds an International A-class racing license. Sasaki is the senior member of the group and drives very much like an ordinary user. That both produced the same figure is intriguing. Moreover, in both directions we drove at relatively brisk speeds and conducted various tests along the way.
+Sanbon holds an International A-class racing license. Sasaki is the senior member of the group and drives very much like an ordinary user. That both produced the same figure is intriguing. Moreover, in both directions we drove at relatively brisk speeds and conducted various tests along the way.
 
 According to the catalog, fuel consumption on a level road is listed as 19.5km/l. Our figure amounts to roughly 65% of that. One is reminded of the common saying: “Take the catalog mileage and multiply by six-tenths.” It almost seems proven here. Yet considering how we drove on the Tomei--and the urban congestion encountered after returning to Tokyo--this number cannot fairly be called poor.
 
@@ -208,7 +208,7 @@ As noted at the beginning, previous Colts had never quite sparkled. That alone m
 
 And now, on the matter of product appeal...
 
-“It shows the designer’s ambition: to make it appear small yet seat occupants generously. The styling is more refined than previous Colts. The elimination of the triangular vent windows, the high-speed-oriented engine, the clear determination to sell--perhaps this reflects a more aggressive stance from Mitsubishi itself. It is very much in the character of a Mitsubishi-style honor student. There is no strong eccentricity; it is consistently above average. Yet it lacks a single striking, compelling personality trait.” --Mitsuwa, Oguchi.
+“It shows the designer’s ambition: to make it appear small yet seat occupants generously. The styling is more refined than previous Colts. The elimination of the triangular vent windows, the high-speed-oriented engine, the clear determination to sell--perhaps this reflects a more aggressive stance from Mitsubishi itself. It is very much in the character of a Mitsubishi-style honor student. There is no strong eccentricity; it is consistently above average. Yet it lacks a single striking, compelling personality trait.” --Sanbon, Oguchi.
 
 But there are other voices:
 
