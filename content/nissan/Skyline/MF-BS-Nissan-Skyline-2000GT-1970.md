@@ -12,9 +12,9 @@ draft = false
 ![Nissan Skyline 2000GT](/images/MF-BS-Nissan-Skyline-2000GT-1970.jpg)
 
 <b>Publication:</b> Motor Fan<br>
-<b>Format:</b> "Bubble Session" Road Test<br>
+<b>Format:</b> "Bubble Index" Road Test<br>
 <b>Date:</b> February 1970<br>
-<b>Authors:</b> Taihei Oguchi, Masahide Sano, Atsuro Sasaki, Kazuhiko Sanbon, Atsuhiko Okubo
+<b>Authors:</b> Yasuhei Oguchi, Masahide Sano, Atsuro Sasaki, Kazuhiko Sanbon, Atsuhiko Okubo
 
 
 The Skyline GT defined an era with its powerful performance, but its character transformed dramatically with the model change two years ago. Now, an update has been released with a 15ps increase, bringing total output to 120ps. Seizing this opportunity, our team immediately sprung into action.
@@ -23,15 +23,15 @@ The Skyline GT defined an era with its powerful performance, but its character t
 
 The subject of the second installment of our comprehensive test drive series is the Nissan Skyline 2000GT.
 
-This car is so well-known that it goes by the nickname “Ska G” among young sports-car enthusiasts, for whom the mere mention of the letters "GT" is enough to take one's breath away. 
+This car is so well-known that it goes by the nickname “Ska G” among young sports-car enthusiasts, many of whom become breathless at the mere mention of the letters "GT." 
 
-In 1964, when Prince was still independent from Nissan, the company took the chassis of its Skyline 1500, extended the nose, and fitted it with the Gloria's six-cylinder OHC engine powered up with triple Weber carburetors, creating the original Skyline 2000GT.
+In 1964, when Prince was still independent from Nissan, the company took the chassis of its Skyline 1500, extended the nose, and fitted it with the Gloria's six-cylinder OHC engine uprated with triple Weber carburetors, creating the original Skyline 2000GT.
 
-Such an endeavor was unprecedented in Japan at the time, and its appearance was hailed as a highly topical sensation. What quickly elevated its status to something approaching a legend, however, was that this newly emerged Skyline GT went on to achieve near-total dominance in competition, winning race after race in the domestic motorsports scene.
+Such an endeavor was unprecedented in Japan at the time, and its appearance was hailed as a sensation. What quickly elevated its status to something approaching a legend, however, was that this newly emerged Skyline GT went on to achieve near-total dominance on the circuit, winning race after race in the domestic motorsports scene.
 
 In response to the popularity of the "Ska G" as an idol for young motorsports fans, a more street-friendly A-type was introduced (curiously, the heavily tuned B-type came first, with the mass-market A-type appearing later, a reversal of the usual order). At the same time, the manufacturer energetically promoted its image as a high-speed touring car with a strong sporty character.
 
-The expression “a wolf in sheep’s clothing,” which would later be used in advertisements for similar models from other manufacturers, was, at that time, widely regarded as a fitting reference to the Skyline 2000GT itself.
+The expression “wolf in sheep’s clothing,” which would later be used in advertisements for similar models from other manufacturers, was, at that time, widely regarded as a reference to the Skyline 2000GT itself.
 
 Prince later merged with Nissan, and the car became known as the Nissan Skyline 2000GT. There were minor changes along the way, but in the fall of 1968, in conjunction with the model change of the Skyline 1500, it too adopted the current body style.
 
@@ -41,23 +41,23 @@ Tracing the development story of the 2000GT is quite complicated, and since most
 
 What did attract attention at the time of the model change, however, was the new car's specification of 105ps, a single carburetor, and a 4-speed transmission. The reasoning behind this was later explained by the appearance of the GT-R with the R380 engine, but at the time of the 2000GT’s announcement, it left many people scratching their heads.
 
-The commonly asked question was, “It’s still wearing sheep’s clothing, but where is the wolf inside?”
+The commonly asked question was, “It’s still wearing sheep’s clothing, but what happened to the wolf?”
 
-Last fall, with the introduction of the Skyline 1800, the Skyline 2000GT received a 15ps increase, bringing output to 120ps. What would the reception be like this time?
+Last fall, with the introduction of the Skyline 1800, the Skyline 2000GT received a 15ps increase, bringing output to 120ps. The question is, what will the reaction be this time?
 
 <b><u>A Subtle 15ps Power Increase</b></u>
 
 The route for our test was almost the same as in the first installment, from Tokyo (Tomei Expressway) to Atsugi (Atsugi-Odawara Road) to Odawara (Hakone Turnpike) to Moto-Hakone, then from Hakone through to Gotemba, and then back on the Tomei Expressway for the return to Tokyo. However, this time, taking rough-road driving in Hakone into account, we turned off at Sengokuhara just before the Otome Road and took the old road over Nagao Pass (National Route 136).
  
-This time, a Skyline 1800 Sporty Deluxe was chosen as the accompanying support car to allow us to compare the two models. As usual, Kazuhiko Sanbon, Taihei Oguchi, and Masahide Sano were in the main car, while Atsuro Sasaki and Atsuhiko Okubo were in the accompanying car. 
+This time, a Skyline 1800 Sporty Deluxe was chosen as the accompanying support car to allow us to compare the two models. As usual, Sanbon, Oguchi, and Sano were in the main car, while Sasaki and Okubo were in the accompanying car. 
 
-After refueling at a gas station on the Tomei Expressway at Seta, the silver metallic Skyline 2000GT and the crimson 1800 set off one after the other. As soon as we passed the Tokyo toll gate on the Tomei Expressway, the 2000GT began to pull away from the 1800 with ease. “As expected, its agility makes it seem that it hasn’t disappeared that far into the sheep suit…” 
+After refueling at a gas station on the Tomei Expressway at Seta, the silver metallic Skyline 2000GT and the crimson 1800 set off one after the other. As soon as we passed the Tokyo toll gate on the Tomei Expressway, the 2000GT began to pull away from the 1800 with ease. “As expected, its swiftness makes it seem that it hasn’t disappeared that far into the sheep suit...” 
 
-“Just as you’d expect. It has the kind of response that makes it seem to vanish smoothly.”
+“Just as you’d expect. It has the kind of response that makes it seem to disappear smoothly.”
 
 “And without feeling like you’re really pushing it, either.”
 
-There were sighs mixed in with the voices from the accompanying car. And laughter--it's not good to fall in love too quickly, you know.
+There were sighs mixed in with the voices from the accompanying car. And laughter--it's better not to be lovestruck too quickly, you know.
 
 Prior to this, there were various opinions about the reason behind the power increase to 120ps.
 
@@ -171,7 +171,7 @@ There was one last thing that everyone in the group agreed on: one more letter s
 
 <b><u>How to Read the Bubble Index</b></u>
 
-Cars have what might be called character. It can be said that this character emerges from a combination of factors such as performance and functionality, intended use, vehicle class, and design philosophy. However, not all aspects of the car's character are clearly revealed to the user. The purpose of this series is to unravel the character of a car by evaluating six important aspects of its performance. 
+Every car has what might be called character. It can be said that this character emerges from a combination of factors such as performance and functionality, intended use, vehicle class, and design philosophy. However, not all aspects of the car's character are clearly revealed to the user. The purpose of this series is to unravel the character of a car by evaluating six important aspects of its performance. 
 
 The size of the circle at each vertex of the index represents a rating of the attribute indicated there, and by comparing the six circles, one can also get a sense of the balance among them. In the case of the Skyline 2000GT, it received a particularly high rating for economy, but this is because it is a 2000cc class car priced at 860,000 yen, making it exceptionally economical within the context of its class. Otherwise, apart from some issues with handling stability, the six performance areas all received good scores and were well-aligned, making it a well-balanced model overall.
 
@@ -209,7 +209,7 @@ This is the fuel economy performance for highway driving, mainly on the Tomei Ex
 
 <b><u>8. Engine Durability Index</b></u>
 
-The amount of piston movement during a 1km drive in top gear is one measure of an engine's durability. In this case, assuming that the production technology level, engine materials, cooling system, etc. are the same, the smaller this index, the more durable the engine. The Skyline 2000GT has a durability index of only 5.88 x 105, which is small and can be considered to be excellent in terms of durability and reliability. 
+The amount of piston movement during 1km of driving in top gear serves as one measure of an engine's durability. In this case, assuming that the production technology level, engine materials, cooling system, etc. are the same, the smaller this index, the more durable the engine. The Skyline 2000GT has a durability index of only 5.88 x 10⁵, which is small and can be considered to be excellent in terms of durability and reliability. 
 
 
 <b><u>Postscript: Story Photos</b></u>

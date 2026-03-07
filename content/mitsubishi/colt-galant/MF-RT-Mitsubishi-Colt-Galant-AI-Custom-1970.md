@@ -283,7 +283,7 @@ The results for the outbound and return runs were identical, both recording 12.7
 
 How far do the pistons travel during 1km of running in top gear? This serves as one yardstick for estimating engine durability. Assuming production standards, engine materials, and cooling systems to be equivalent, the smaller this index, the greater the engine’s potential durability.
 
-The durability index improves under the conditions of larger tire diameter, shorter stroke, and smaller overall gear ratio. As such, the method of calculation is: Engine Durability Index = (Number of revolutions per 1km of travel) × 2 × (stroke length).
+The durability index improves under the conditions of larger tire diameter, shorter stroke, and smaller overall gear ratio. As such, the method of calculation is: Engine Durability Index = (Number of revolutions per 1km of travel)² × 2 × (stroke length).
 
 The number of revolutions per 1km is calculated as: 1000 × (top gear ratio × final drive ratio) ÷ tire circumference (m).
 
