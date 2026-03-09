@@ -31,21 +31,21 @@ draft = false
 
 
 
-"The power performance is outstanding..." "The styling is cohesive, but a little too ordinary..." Six specialists test-drove the Capella GS in the pouring rain and analyzed this cutting-edge coupe from various angles.
+"The power performance is outstanding..." "The styling is cohesive, but a little too ordinary..." Six specialists test-drove the Capella GS in the pouring rain and analyzed this cutting-edge coupe from a variety of angles.
 
 <b><u>The Coupe's Performance Surpasses That of the Sedan</b></u>
 
-Following on from the Capella Rotary Sedan (featured in the July issue), the Bubble Index comprehensive test drive group now takes a look at the Capella Rotary Coupe and the reciprocating 1600 Super Deluxe sedan, evaluating six categories: driving performance, handling and stability, ride and interior, safety, economy, and marketability. 
+Following on from the Capella Rotary Sedan (featured in the July issue), the Bubble Index comprehensive test drive group examined the Capella Rotary Coupe and the reciprocating 1600 Super Deluxe sedan this time, evaluating six categories: driving performance, handling and stability, ride and interior, safety, economy, and marketability. 
 
-The test drive course was the same as last time. We took the Tomei Expressway from Tokyo IC to Gotemba IC, then exited onto the Otome Touge, drove on the Hakone Turnpike, then returned to Tokyo the way we came, via Otome Touge and the Tomei Expressway from Gotemba IC to Tokyo IC. However, the weather conditions this time were, unfortunately, terrible. On the day we left Tokyo, it had been raining continuously since the morning, and in Hakone, flash floods were gushing out from cracks on the side of the road. So, while we did manage to drive up to the Hakone Turnpike, we had to cancel the hill climbing performance test due to the danger involved. We measured fuel consumption and acceleration performance, but because of the heavy rain, the figures were generally lower than they would have been on a clear day.
+The test drive route was the same as last time. We took the Tomei Expressway from Tokyo IC to Gotemba IC, then exited onto the Otome Touge, drove on the Hakone Turnpike, then returned to Tokyo the way we came, via Otome Touge and the Tomei Expressway from Gotemba IC to Tokyo IC. However, the weather conditions this time were, unfortunately, terrible. On the day we left Tokyo, it had been raining continuously since the morning, and in Hakone, flash floods were gushing out from cracks on the side of the road. So, while we did manage to drive up to the Hakone Turnpike, we had to cancel the hill climbing performance test due to the danger involved. We measured fuel consumption and acceleration performance, but because of the heavy rain, the figures were generally lower than they would have been on a clear day.
 
 However, the downpour also allowed the test drivers to confirm some impressions that would not have been possible on sunny days. For example, the Capella's wipers left a 10cm-wide patch on the right side of the windshield uncleared, and the rear defogger would have been more effective if it were set a little lower in the rear window. 
 
 Also, the "dullness" in the steering response that our test drivers pointed out in the test of the Rotary Sedan was significantly improved in the Coupe. This is likely due to the fact that the Coupe GS comes standard with radial tires.
 
-The Capella Rotary Coupe GS that we test drove this time is equipped with the same two-rotor 573cc x 2 120ps engine as the Capella Rotary Sedan that we tested previously. However, because it is a coupe type, the body silhouette is much more refined, the vehicle height is 25mm lower, and the weight is about 5kg lighter, so the catalog top speed is 190km/h, 5km/h faster than the sedan.
+The Capella Rotary Coupe GS that we test drove this time is equipped with the same two-rotor 573cc x 2 120ps engine as the Capella Rotary Sedan that we tested previously. However, because it is a coupe, the body silhouette is much more refined, the vehicle height is 25mm lower, and the weight is about 5kg lighter, so the catalog top speed is 190km/h, 5km/h faster than the sedan.
 
-The reciprocating engine Capella 1600 sedan (Super Deluxe model) which accompanied us as the support car for this test has not received much attention, being overshadowed by the Rotary Coupe, but its water-cooled, four-cylinder, OHC, 1586cc engine produces 100ps, and it boasts considerable performance in its own right. Our test drivers gave it positive reviews, with comments like, "it's extremely quiet," and "Perhaps because of the long, 78 x 83mm stroke, it has good flexibility from low to high engine speeds."
+The reciprocating engine Capella 1600 sedan (Super Deluxe model) which served as this test's accompanying car has not received much attention, being overshadowed by the Rotary Coupe, but its water-cooled, four-cylinder, OHC, 1586cc engine produces 100ps, and it boasts considerable performance in its own right. Our test drivers gave it positive reviews, with comments like, "it's extremely quiet," and "Perhaps because of the long, 78 x 83mm stroke, it has good flexibility from low to high engine speeds."
 
 Measurements were conducted mainly on the Rotary Coupe.
 
@@ -145,7 +145,7 @@ Compared to sedans, making a good first impression is even more important for co
 
 I said that it was well-balanced, but this doesn't mean it is unique. To repeat what I said about the Capella Rotary Sedan, it's unfortunate that despite having the rotary engine as its defining feature, it hasn't yet been able to fully utilize its image appeal.
 
-Why doesn't Toyo Kogyo, with its rotary engine as a weapon, make the most of the "rotary image" in a coupe, a car with more character than a sedan? It's like throwing away your weapon and taking on the two yokozuna with your bare hands. I just can't understand it.
+Why doesn't Toyo Kogyo, with its rotary engine as a weapon, make the most of the "rotary image" in a coupe, a car with more character than a sedan? It's like throwing away your weapon and taking on the two <i>yokozuna</i> with your bare hands. I just can't understand it.
 
 In the field of fashion, snakeskin (print) is all the rage in Italy right now. Until now, snakeskin has only been used for belts, handbags, shoes, and such.
 
@@ -157,7 +157,7 @@ Up until now, car manufacturing has focused on creating cars that are high-perfo
 
 The Capella Rotary Coupe is well-balanced, but lacks impact. Why? Perhaps it's because the designers were stuck in the preconceived notion that cars equal speed, which equals streamlined form. From now on, logic alone won't cut it. Setting aside the Italian snakeskin craze, the rotary engine is, in a sense, a revolution in engines. So why couldn't the body style have been given more individuality?
 
-The reasons for buying the reciprocating 1600 sedan are economical in nature, so a simple appeal to rationality might be fine. However, as a rotary car, especially a coupe, which requires maximum "coolness," it surely should have incorporated a more striking design.
+The reasons for buying the reciprocating 1600 sedan are economical in nature, so a simple appeal to rationality might be fine. However, as a rotary car, especially a coupe, which requires maximum "freshness," it surely should have incorporated a more striking design.
 <br>
 <br> 
 
@@ -165,41 +165,9 @@ The reasons for buying the reciprocating 1600 sedan are economical in nature, so
 
 <b><u>How to read the Bubble Index</b></u>
 
-The aim of this comprehensive test drive is to judge the overall character of a car based on an evaluation of six main pillars: driving performance, handling and stability, riding performance, safety, economy, and marketability. The evaluation method used is a Bubble Session, a systems engineering method in which six specialists from different fields gather around a hexagonal table to exchange opinions. Each evaluation is shown in the black areas of the six circles, and the more evenly sized the black circles are, the better balanced the car is in each category; the less evenly sized, the more unique the car is.
-
 ![Mazda Capella Rotary Coupe GS Bubble Index](/images/MF-BS-Mazda-Capella-Rotary-Coupe-GS-1970a.jpg)
 
-<b><u>1. Standing-Start Acceleration</b></u>
-
-Following on from last month's test of the Capella Rotary Sedan, we tested the Capella Rotary Coupe this time. Testing was conducted in a torrential downpour, making for horrible conditions. Takeoffs for the acceleration runs were necessarily gentle, at roughly 0.4g. Even so, the 0-100km/h time was 10.5 seconds, a good figure regardless of the conditions. While everyone now acknowledges the power of rotary cars, this test drive unintentionally highlighted their flexibility along with their excellent response.
-
-<b><u>2. Ride (and Interior Noise)</b></u>
-
-The noise level was low across all measured vehicle speeds. This is probably due to the strong noise-reduction effect of the rotary engine, but it is 1-3 phons higher than the Rotary Sedan from last month. This is because the noise created by the rain itself is significant, and the impact of the heavy rain is clearly picked up by the test equipment.
-
-<b><u>3. Overtaking Acceleration</b></u>
-
-Using full power in third gear to overtake a car traveling at a constant speed of 60km/h, the Rotary Coupe completes the maneuver in 160m and 6.0 seconds. The distance between the two cars is 30m, both before and after the pass, and the speed at the end of the pass is 100km/h. Similarly, if you are overtaking a car traveling at 80km/h with a distance of 60m between the cars, the distance will be 340m, the time will be 10.5 seconds, and the speed after the pass will be 115km/h. If you use third gear for this maneuver, you can pass even faster, but for the 80km/h overtake we accelerated at full throttle in top gear.
-
-<b><u>4. Ramp Entry Acceleration</b></u>
-
-In bad weather, such as during this test drive, visibility is generally poor, making this performance even more important from a practical standpoint. Using full throttle in third gear, the time required to go from 40km/h to 100km/h was 10.2 seconds, covering a distance of 202m. The Japan Highway Public Corporation's standard value for acceleration lanes is 250m, so there is ample room for freeway entry.
-
-<b><u>5. Hill Climbing</b></u>
-
-N/A (see text)
-
-<b><u>6. Steering Stability</b></u>
-
-This test checks the vehicle's ability to recover from an external disturbance while driving in a straight line. The method is to turn the steering wheel to the left momentarily and then release it. In this case, when a lateral acceleration of 0.20 to 0.25g is applied to this vehicle, it recovers in one cycle, with a period of 1.5 seconds, at 80km/h, and one and a half cycles, with a period of 2.3 seconds, at 100km/h.
-
-<b><u>7. Fuel Consumption</b></u>
-
-Fuel consumption over the first measurement section, on the Tomei Expressway, was 7.5km/l, which included a significant amount of stop-and-go traffic rather than constant-speed driving. By contrast, the third section included some surface streets, but was mostly constant-speed driving on the highway, resulting in a fuel consumption of 8.4km/l. The second section involved driving on the steep hills and descents around Hakone, and the result was 6.7km/l. 
-
-<b><u>8. Engine Flexibility Index</b></u>
-
-This formula is derived from the engine's horsepower, torque, and rotation speed, and is used to determine whether a car is easy to drive, or whether it is a car that prioritizes driving performance at the expense of some ease of driving. The Capella Rotary's flexibility index is a high 3.3, making it a car with an easy-to-use engine. By comparison, practical sedans tend to have an index of 1.5 to 2.5, while GT cars and sports cars are around 1.0 to 1.5.
+The aim of this comprehensive test drive is to judge the overall character of a car based on an evaluation of six main pillars: driving performance, handling and stability, riding performance, safety, economy, and marketability. The evaluation method used is a Bubble Session, a systems engineering method in which six specialists from different fields gather around a hexagonal table to exchange opinions. Each evaluation is shown in the black areas of the six circles, and the more evenly sized the black circles are, the better balanced the car is in each category; the less evenly sized, the more unique the car is.
 
 <b><u>Postscript: Story Photos</b></u>
 

@@ -209,6 +209,8 @@ Among our diagnostic group, the evaluations of its product appeal came out at 7.
 
 <b><u>How to Read the Bubble Index</b></u>
 
+![Nissan Sunny Coupe 1200GL Bubble Index](/images/MF-BS-Nissan-Sunny-Coupe-1200GL-1970a.jpg)
+
 The aim of this road test is to evaluate a car’s overall character by assessing its performance in six key areas. The size of each of the six circles in the index (the black center portions) represents the rating assigned to that particular performance category. At the same time, the diagram has been designed so that the balance among the six circles can be read at a glance, making it easier to form an overall judgment.
 
 These evaluations are not absolute. Each vehicle is first positioned within the context of its engine displacement and price, and the scores are then adjusted accordingly before being assigned.
@@ -216,62 +218,6 @@ These evaluations are not absolute. Each vehicle is first positioned within the 
 The evaluation method employs what we call a "Bubble Session"--a systems-engineering approach conducted with the cooperation of the Automotive Engineering Research Laboratory at Shibaura Institute of Technology. In this method, specialists from different fields gather around a hexagonal table (the “bubble,” or honeycomb) to conduct their discussion and reach a conclusion.
 
 Even so, the final judgment must ultimately be made by you, our reader.
-
-
-
-![Nissan Sunny Coupe 1200GL Bubble Index](/images/MF-BS-Nissan-Sunny-Coupe-1200GL-1970a.jpg)
-
-
-<b><u>1. Standing-Start Acceleration</b></u>
-
-The Sunny has long enjoyed a reputation for sharpness off the line, and with the 20% increase in engine displacement that impression has become even more pronounced. The improvement is not limited to initial takeoff; gains are also evident in high-speed pull and flexibility. Even in third gear at 120km/h, no surging is observed.
-
-<b><u>2. Ride (and Interior Noise)</b></u>
-
-The Sunny’s distinctive light and lively engine note remains unchanged. For some reason, however, there is a rather noticeable peak at around 80km/h (an actual vehicle speed of 72km/h), pronounced enough that it could momentarily be mistaken for engine braking. Once past this point, the effect disappears and the car returns to a quieter demeanor.
-
-One other point that drew attention was the sound of fuel sloshing inside the tank. No significant difference was observed in this respect with the automatic-transmission version.
-
-<b><u>3. Overtaking Acceleration</b></u>
-
-Overtaking performance carries considerable practical importance and is directly related to safety. For this test, we measure the results from two starting speeds--60km/h and 80km/h. In each case, the test began from the same speed as the lead vehicle, reflecting a realistic overtaking situation in which the following car first matches the pace of the vehicle ahead before accelerating to pass.
-
-To overtake a car traveling at a steady 60km/h required 7.2 seconds and 179m of road when accelerating at full throttle in third gear. This result proved highly commendable, falling only slightly short of the 6.8 seconds recorded by the Skyline 2000GT.
-
-When overtaking a vehicle traveling at 80km/h, the figures were 10.6 seconds and 353m, again using full throttle in third gear. From a practical standpoint, these may also be regarded as very satisfactory results.
-
-<b><u>4. Ramp Entry Acceleration</b></u>
-
-On expressways, traffic in the main lanes is naturally flowing at high speed. For that reason, a car must be able to accelerate quickly along the entry ramp to match the speed of the main stream. In the case of the Sunny 1200 Coupe, accelerating from 40km/h (the speed limit within the ramp) to 100km/h (the speed of traffic on the main line) required 13.9 seconds and 270m under full-throttle acceleration in third gear. Even when compared with larger, higher-class cars, this result was by no means inferior.
-
-<b><u>5. Steering Stability</b></u>
-
-As a test of the car’s inherent ability to recover when its course is disturbed by an external influence during straight-line running, the steering wheel was momentarily turned to the right and then released, allowing the vehicle to settle on its own.
-
-The test was conducted at speeds of 60km/h and 100km/h (both indicated speeds), with a lateral acceleration of 0.2g applied in each case. The oscillation converged after one cycle at 60km/h, and after two cycles at 100km/h.
-
-<b><u>6. Hill Climbing</b></u>
-
-In order to give the test practical significance, hill-climbing performance was measured over a course incorporating both ascending and descending gradients. The course was set on the Hakone Turnpike, and the elapsed time over the section was recorded.
-
-Over a 1,150m stretch including a 10% uphill gradient, the Sunny 1200 Coupe recorded a time of 48.4 seconds, corresponding to an average speed of 85.5km/h. The test method called for the car to start from rest at the 0m point and to be timed as it passed the 1,150m mark.
-
-<b><u>7. Fuel Consumption</b></u>
-
-The fuel economy measurement route differed somewhat from that used in the previous two Bubble Index tests. On this occasion, a hard-driving course was adopted consisting of the Tomei Expressway from the Tokyo IC to Gotemba, followed by a mountainous loop from Gotemba around Hakone and back again to Gotemba.
-
-In Section 1 (the expressway), a figure of 14.4km/l was recorded, while in Section 2 (the mountain route) the result was 9.9km/l. Benefiting perhaps from the car’s light weight, these figures appear to represent rather favorable results.
-
-<b><u>8. Engine Durability Index</b></u>
-
-How far do the pistons travel during 1km of running in top gear? This provides one useful yardstick for estimating an engine’s durability. If we assume that factors such as production technology, engine materials, and the cooling system are broadly comparable, then the smaller this index becomes, the greater the engine's potential durability.
-
-The durability index improves under the conditions of larger tire diameter, shorter stroke, and smaller overall gear ratio. As such, the method of calculation is: Engine Durability Index = (Number of revolutions per 1km of travel)² × 2 × (stroke length).
-
-The number of revolutions per 1km is calculated as: 1000 × (top gear ratio × final drive ratio) ÷ tire circumference (m).
-
-A durability index of 7.11 × 10⁵ is relatively small for the 1200cc class. It may be said that the engine carries on the traditional reputation for durability long associated with Nissan automobiles.
-
 
 <b><u>Postscript: Story Photos</b></u>
 

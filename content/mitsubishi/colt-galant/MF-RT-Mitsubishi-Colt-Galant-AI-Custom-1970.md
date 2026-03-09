@@ -122,7 +122,7 @@ Here, measurements are taken in real time, at a “real-world” level. This is 
 
 In the hexagonal chart that accompanies this test report, the topmost category--marked with a circle--is “Power Performance.” This includes standing-start acceleration, overtaking acceleration, hill-climbing ability, and maximum speed. Please refer carefully to the individual sections below for the measured results.
 
-As noted in those sections, the performance is outstanding. All five drivers who alternated at the wheel during the two-day round trip from Tokyo were in unanimous agreement. At 87ps/6300rpm from 1300cc, it surpasses the Bluebird 1300 (72ps/6000rpm), yet falls short of the Honda 1300-77 (100ps/7200rpm). In other words, it sits squarely between them. But the quality of its acceleration deserves special mention.
+As noted in the chart, the performance is outstanding. All five drivers who alternated at the wheel during the two-day round trip from Tokyo were in unanimous agreement. At 87ps/6300rpm from 1300cc, it surpasses the Bluebird 1300 (72ps/6000rpm), yet falls short of the Honda 1300-77 (100ps/7200rpm). In other words, it sits squarely between them. But the quality of its acceleration deserves special mention.
 
 “It feels as though it would rev forever. Since the Custom doesn’t have a tachometer, I found myself worrying that I might exceed the allowable engine speed,” remarked Sanbon.
 
@@ -196,7 +196,7 @@ Sanbon holds an International A-class racing license. Sasaki is the senior membe
 
 According to the catalog, fuel consumption on a level road is listed as 19.5km/l. Our figure amounts to roughly 65% of that. One is reminded of the common saying: “Take the catalog mileage and multiply by six-tenths.” It almost seems proven here. Yet considering how we drove on the Tomei--and the urban congestion encountered after returning to Tokyo--this number cannot fairly be called poor.
 
-Another important aspect of economy is engine durability. This is explained in detail in the sections below, so we shall not repeat it here. However, when calculated from the data, the Galant revealed a somewhat unexpected characteristic. Those who enjoy working through figures may wish to recompute the data for themselves.
+Another important aspect of economy is engine durability. This is explained in detail in the accompanying data, so we shall not repeat it here. However, when calculated from the data, the Galant revealed a somewhat unexpected characteristic. Those who enjoy working through figures may wish to recompute the data for themselves.
 
 <b><u>A Well-Behaved Honor Student?</b></u>
 
@@ -228,6 +228,9 @@ Perhaps this is a car we ought to watch over just a little longer.
 
 <b><u>The Aims of the MF Comprehensive Test Drive</b></u>
 
+![Mitsubishi Colt Galant AI Custom Bubble Index](/images/MF-BS-Mitsubishi-Colt-Galant-AI-Custom-1970a.jpg)
+
+
 New models appear one after another. To introduce their characteristics and performance while revealing their true nature is, arguably, one of the great responsibilities of an automotive specialist magazine. The so-called road test--or test drive and road evaluation--must be conducted with fairness and accuracy, offering clarity for the user while also maintaining objective, persuasive authority.
 
 In cooperation with Shibaura Institute of Technology and the Oguchi Automotive Research Laboratory, this magazine has devised a “Bubble Session” approach to evaluating automobiles—a method derived from systems engineering in which specialists from differing fields examine a single subject from multiple angles. The evaluations are conducted around a hexagonal table ("Bubble" = honeycomb), and, in addition, the results are presented visibly using a hexagonal “Bubble Index,” creating a novel kind of test drive report.
@@ -237,58 +240,6 @@ This method combines the subjective impressions of multiple members capable of f
 Here, the performance of a vehicle is divided into six categories, and its evaluation is expressed through an index that captures measured data both quantitatively and visually. The area within the circle at each vertex of the hexagon represents the performance of the vehicle in that category. To contextualize this assessment with the vehicle’s class, the car’s category is indicated, correcting for disparities between high-priced and more modest vehicles, and thereby ensuring a reasonable characterization of its qualities.
 
 The test course is standardized over a fixed section, with fuel consumption and hill-climb measurements similarly normalized. The members of the test group, the measurement locations, and the methods are also kept constant. Naturally, this approach is still young and unrefined. Together with our readers, we aim to continue developing this methodology into a more authoritative and reliable product-testing framework.
-
-![Mitsubishi Colt Galant AI Custom Bubble Index](/images/MF-BS-Mitsubishi-Colt-Galant-AI-Custom-1970a.jpg)
-
-
-<b><u>1. Standing-Start Acceleration</b></u>
-
-From its 1300cc displacement the engine produces 87ps. With a specific output of 67ps/l and a power-to-weight ratio of 9.5kg/ps, the figures are exceptional for this class. Perhaps owing to its OHC design, the engine climbs through the rev range with notable smoothness, and valve surge is scarcely perceptible. If anything, there is the risk that the engine may rev beyond its allowable limit before the driver realizes it.
-
-In first gear it delivers 0.6g of acceleration, and may fairly be described as a car with a sharp, decisive launch.
-
-<b><u>2. Ride (and Interior Noise)</b></u>
-
-Wind noise is comparatively low. However, when the air inlets at either end of the dashboard are opened, interior noise increases by 2 phons at 100km/h and by 1 phon at 80km/h.
-
-<b><u>3. Overtaking Acceleration</b></u>
-
-When using full throttle to overtake a vehicle traveling at a steady 60km/h, the total distance required from start to finish is 182m, and the time required is 7.3 seconds. Speed at the completion of the pass reaches 90km/h. For the purposes of this test, the following and leading distances were each set at 30m.
-
-Similarly, when overtaking a vehicle traveling at 80km/h, a distance of 360m is required, with a recorded time of 10.9 seconds. In this case, both the initial and final following distances were set at 60m.
-
-<b><u>4. Ramp Entry Acceleration</b></u> 
-
-As a matter of practical performance, rapid acceleration from 40km/h to 100km/h is required when entering an expressway. In the case of the Colt Galant, using third gear under full acceleration, the run requires 13.7 seconds and a distance of 266m.
-
-This figure only just exceeds the 250m acceleration-lane standard adopted by the Japan Highway Public Corporation for ramp design, and presents no practical difficulty.
-
-<b><u>5. Steering Stability</b></u>
-
-While traveling at a constant speed, the steering is momentarily turned to produce a lateral acceleration of 0.2g, and is then released; the subsequent directional stability of the vehicle is measured by accelerometer.
-
-To maintain consistent conditions, all measurements were conducted with steering input to the right. In the case of the Colt Galant, at 60km/h the vehicle returns to straight-line running after approximately one and a half oscillation cycles (3 seconds). At 100km/h, settling is somewhat slower, requiring two full cycles (just over 6 seconds).
-
-<b><u>6. Hill Climbing</b></u>
-
-The catalog lists maximum gradeability as sin θ = 0.478 (28.5°). For practical evaluation, however, we use a section of the Hakone Turnpike. Using what was judged to be the most effective driving technique, the car recorded a time of 49.5 seconds over a distance of 1,150m.
-
-<b><u>7. Fuel Consumption</b></u>
-
-Operating fuel consumption was measured primarily under expressway driving conditions, over the outbound route from the Tomei Expressway Tokyo IC to the Ebina Service Area, and on the return from Gotemba IC via the Tomei to Tamachi, Tokyo. Because the full-tank method was used, a limited amount of ordinary road driving was necessarily included.
-
-The results for the outbound and return runs were identical, both recording 12.7km/l.
-
-<b><u>8. Engine Durability Index</b></u>
-
-How far do the pistons travel during 1km of running in top gear? This serves as one yardstick for estimating engine durability. Assuming production standards, engine materials, and cooling systems to be equivalent, the smaller this index, the greater the engine’s potential durability.
-
-The durability index improves under the conditions of larger tire diameter, shorter stroke, and smaller overall gear ratio. As such, the method of calculation is: Engine Durability Index = (Number of revolutions per 1km of travel)² × 2 × (stroke length).
-
-The number of revolutions per 1km is calculated as: 1000 × (top gear ratio × final drive ratio) ÷ tire circumference (m).
-
-For the Colt Galant AI, the calculated result is 8.63 × 10⁵. This considerably exceeds the average value for this class, which falls in the range of 5-7 × 10⁵, suggesting that from the standpoint of durability, some questions remain regarding the engine layout. It may be assumed, however, that compensating measures have been taken in production engineering to address this point.
-
 
 <b><u>Postscript: Story Photos</b></u>
 
