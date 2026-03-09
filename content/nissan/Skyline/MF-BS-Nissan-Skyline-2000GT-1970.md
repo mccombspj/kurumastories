@@ -17,19 +17,19 @@ draft = false
 <b>Authors:</b> Yasuhei Oguchi, Masahide Sano, Atsuro Sasaki, Kazuhiko Sanbon, Atsuhiko Okubo
 
 
-The Skyline GT defined an era with its powerful performance, but its character transformed dramatically with the model change two years ago. Now, an update has been released with a 15ps increase, bringing total output to 120ps. Seizing this opportunity, our team immediately sprung into action.
+The first Skyline GT defined an era with its powerful performance, but its character transformed dramatically with the model change two years ago. Now, a minor change has been released with an additional 15ps, bringing total output to 120ps. Seizing this opportunity, our team immediately sprung into action.
 
 <b><u>Skyline 2000GT: Comprehensive Bubble Index Test Drive</b></u>
 
 The subject of the second installment of our comprehensive test drive series is the Nissan Skyline 2000GT.
 
-This car is so well-known that it goes by the nickname “Ska G” among young sports-car enthusiasts, many of whom become breathless at the mere mention of the letters "GT." 
+This car is so well-known that it goes by the nickname “Ska G” among young sports-car enthusiasts, many of whom are rendered breathless at the mere mention of the letters "GT." 
 
 In 1964, when Prince was still independent from Nissan, the company took the chassis of its Skyline 1500, extended the nose, and fitted it with the Gloria's six-cylinder OHC engine uprated with triple Weber carburetors, creating the original Skyline 2000GT.
 
-Such an endeavor was unprecedented in Japan at the time, and its appearance was hailed as a sensation. What quickly elevated its status to something approaching a legend, however, was that this newly emerged Skyline GT went on to achieve near-total dominance on the circuit, winning race after race in the domestic motorsports scene.
+Such an endeavor was unprecedented in Japan at the time, and its appearance was hailed as a public sensation. What quickly elevated the Skyline GT's status to something approaching a legend, however, was that it went on to achieve near-total dominance on the circuit, winning race after race in the domestic motorsports scene.
 
-In response to the popularity of the "Ska G" as an idol for young motorsports fans, a more street-friendly A-type was introduced (curiously, the heavily tuned B-type came first, with the mass-market A-type appearing later, a reversal of the usual order). At the same time, the manufacturer energetically promoted its image as a high-speed touring car with a strong sporty character.
+In response to the popularity of the "Ska G" as an idol for young motorsports fans, a more mildly tuned A-type was introduced (curiously, the heavily tuned B-type came first, with the A-type appearing later, a reversal of the usual order). At the same time, the manufacturer energetically promoted its image as a high-speed touring car with a strong sporty character.
 
 The expression “wolf in sheep’s clothing,” which would later be used in advertisements for similar models from other manufacturers, was, at that time, widely regarded as a reference to the Skyline 2000GT itself.
 
@@ -41,7 +41,7 @@ Tracing the development story of the 2000GT is quite complicated, and since most
 
 What did attract attention at the time of the model change, however, was the new car's specification of 105ps, a single carburetor, and a 4-speed transmission. The reasoning behind this was later explained by the appearance of the GT-R with the R380 engine, but at the time of the 2000GT’s announcement, it left many people scratching their heads.
 
-The commonly asked question was, “It’s still wearing sheep’s clothing, but what happened to the wolf?”
+The commonly asked question was, “It’s still wearing sheep’s clothing, but where is the wolf?”
 
 Last fall, with the introduction of the Skyline 1800, the Skyline 2000GT received a 15ps increase, bringing output to 120ps. The question is, what will the reaction be this time?
 
@@ -49,25 +49,25 @@ Last fall, with the introduction of the Skyline 1800, the Skyline 2000GT receive
 
 The route for our test was almost the same as in the first installment, from Tokyo (Tomei Expressway) to Atsugi (Atsugi-Odawara Road) to Odawara (Hakone Turnpike) to Moto-Hakone, then from Hakone through to Gotemba, and then back on the Tomei Expressway for the return to Tokyo. However, this time, taking rough-road driving in Hakone into account, we turned off at Sengokuhara just before the Otome Road and took the old road over Nagao Pass (National Route 136).
  
-This time, a Skyline 1800 Sporty Deluxe was chosen as the accompanying support car to allow us to compare the two models. As usual, Sanbon, Oguchi, and Sano were in the main car, while Sasaki and Okubo were in the accompanying car. 
+This time, a Skyline 1800 Sporty Deluxe was chosen as the accompanying car to allow us to compare the two models. As usual, Sanbon, Oguchi, and Sano were in the main car, while Sasaki and Okubo were in the accompanying car. 
 
 After refueling at a gas station on the Tomei Expressway at Seta, the silver metallic Skyline 2000GT and the crimson 1800 set off one after the other. As soon as we passed the Tokyo toll gate on the Tomei Expressway, the 2000GT began to pull away from the 1800 with ease. “As expected, its swiftness makes it seem that it hasn’t disappeared that far into the sheep suit...” 
 
-“Just as you’d expect. It has the kind of response that makes it seem to disappear smoothly.”
+“Just as you’d expect. It has the kind of response that makes it seem to vanish smoothly.”
 
 “And without feeling like you’re really pushing it, either.”
 
 There were sighs mixed in with the voices from the accompanying car. And laughter--it's better not to be lovestruck too quickly, you know.
 
-Prior to this, there were various opinions about the reason behind the power increase to 120ps.
+Prior to this, various opinions were heard on the reason behind the power increase to 120ps.
 
-“The subsequent models of each car on the market have become more powerful. While there was still enough margin for high-speed driving, 105ps was not enough to maintain the 2000GT’s outsized ‘displacement’ on the market,” was one view.
+“The subsequent models of each car on the market have become more powerful. While it still had enough in reserve for high-speed driving, 105ps was not enough to maintain the 2000GT’s outsized ‘displacement’ on the market,” was one view.
 
-Another view pointed to “internal circumstances."  With the addition of the Skyline 1800 to the series, with its output of 100ps, it would be awkward to have the GT, with its 2000cc displacement, only 5ps ahead. So they strengthened it to further separate the two.
+Another view pointed to “internal circumstances."  "With the addition of the 100ps Skyline 1800 to the series, it would be awkward to have the GT, with its 2000cc displacement, only 5ps ahead. They had to strengthen it to further separate the two."
 
-“It was shocked back to life,” someone joked, drawing laughter. Still, it is fair to say that the motivation for the 15ps increase was to satisfy the sporty mood and make the car more relaxed in high-speed driving.
+“A shock treatment brought it back to life,” someone joked, drawing laughter. Still, it is fair to say that the motivation for the 15ps increase was to match the sporty mood and make the car more relaxed in high-speed driving.
 
-As for the styling, it has been over a year since the new body style appeared, so there is no need to dwell on it here. The front grille mask is the same as the Skyline 1500, having just undergone a minor change. However, the taillights remain the same as last year's model, recessed deeply within their outer guards. This is a design touch we applaud. The deep placement makes them less likely to be damaged in a rear-end collision, and it also makes the brake lights easier to see in daylight. There’s no need to make changes for the sake of change with each minor update. If a feature has presence and character, there is no reason not to retain it with confidence.
+As for the styling, it has been over a year since the new body style appeared, so there is no need to dwell on it here. The front grille has undergone a minor change, matching that of the Skyline 1500. However, the taillights remain the same as last year's model, recessed deeply within their outer guards. This is a design touch we applaud. The deep placement makes them less likely to be damaged in a rear-end collision, and it also makes the brake lights easier to see in daylight. There’s no need to make changes for the sake of change with each minor update. If a feature has presence and character, there is no reason not to retain it with confidence.
 
 By this point, we had already begun various tests while driving on the Tomei Expressway. What were the results?
 
@@ -75,13 +75,13 @@ By this point, we had already begun various tests while driving on the Tomei Exp
 
 As for driving performance and acceleration, everyone in our group was familiar with the original “wolf,” and some already have experience driving the GT-R, which has cast off its sheep’s clothing entirely, so the reaction was a rather mundane, “I guess it’s about what you’d expect.”
 
-“Maybe the GT name raises expectations too high. Somehow it feels a little lacking. Speaking purely for myself, I like it as a high-speed family sedan.” 
+“Maybe the GT name raises expectations too high. Somehow it feels a little lacking. Speaking purely for myself, I think it's best to view it as a high-speed family sedan.” 
 
 However, there were also voices like this:
 
-“With a vehicle weight of 1095kg, it feels very substantial. Yet compared with other 2000cc cars, it is genuinely agile. As long as you normally drive it as a well-mannered sedan, it still has enough performance in reserve to turn wolfish when the need arises." 
+“With a vehicle weight of 1095kg, it feels very substantial. Yet compared with other 2000cc cars, it is genuinely agile. You can normally drive it as a well-mannered sedan, yet it still has enough performance in reserve to turn wolfish when the need arises." 
 
-As an ideal use case, imagine a business trip from Tokyo to Osaka. On the expressway, you can accelerate up to 100km/h with little effort, using a light throttle foot. In fourth gear, you can drive casually at an easy 100km/h, with the engine turning around 3800rpm. The reserve acceleration when driving on the highway driving translates directly to safety. You finish your business in Osaka, then take the Tomei again all the way back. That's how to drive this car. And what's more, you can drive it in your normal town clothes, not dressed up in a turtleneck and racing suit. As one of us put it, "It's a gentleman's car. And the car itself is also gentlemanly."
+As an ideal use case, imagine a business trip from Tokyo to Osaka. On the expressway, you can accelerate up to 100km/h with little effort, using a light throttle foot. In fourth gear, you can drive casually at an easy 100km/h, with the engine turning around 3800rpm. The reserve acceleration when driving on the highway driving translates directly to safety. You finish your business in Osaka, then take the Tomei again all the way back. That's how this car is meant to be driven. And what's more, you can drive it in your normal town clothes, not dressed up in a turtleneck and racing suit. As one of us put it, "It's a gentleman's car. And the car itself is also gentlemanly."
 
 Acceleration from 0-80km/h takes 10.3 seconds, and it takes 13.4 seconds to reach 100km/h. The latter time, under 15 seconds, is quick enough to indicate that it has plenty of potential as a sporty car.
 
@@ -97,27 +97,27 @@ In addition to this hill-climbing test, we also conducted a comparative test. Cl
 
 Turning next to handling stability, the first point we considered was straight-line stability with one's hands off the steering wheel. When we twitched and released the wheel, the convergence took just over one cycle. Seen from the accompanying car, the 2000GT appeared to settle quickly and smoothly. The apparent movement was small. However, the testers inside the car gave it a poor rating. The instrument readings show that it settles well, but to the human senses, the way it settles feels drawn-out and leaves a sense of unease.
 
-“It probably comes from a variety of factors, such as the lateral rigidity of the tires, the suspension, weight, the position of the roll center, and the aerodynamic center, but ultimately, whether it settles well or not is something our human senses decide. It can be said that the high-speed damping effect is insufficient. I think it’s probably the jerk acceleration (the rate of change of lateral acceleration) that causes the discomfort. All humans have the ability to detect this, but it doesn’t register on instruments, at least not with the current measurement methods. That may be why is simply feels uncomfortable,” said Oguchi.
+“It probably comes from a variety of factors, such as the lateral rigidity of the tires, the suspension, weight, the position of the roll center, and the aerodynamic center, but ultimately, whether it settles well or not is determined by our human senses. It can be said that the high-speed damping effect is insufficient. I think it’s probably the jerk acceleration (the rate of change of lateral acceleration) that causes the discomfort. All humans have the ability to detect this, but it doesn’t register on instruments, at least not with the current measurement methods. That may be why it simply feels uncomfortable,” said Oguchi.
 
 This has yet to be clearly explained theoretically. In terms of the measured lateral acceleration data, the numbers are not bad. However, the driver is left with a lingering, unsteady feeling. This is not unique to the Skyline 2000GT, but it is regrettable that, despite having excellent power performance and acceleration, this aspect is still lagging behind. If this problem could be corrected and resolved, it could become a truly superb GT. We would like to see this become a major goal for Japan’s automotive industry in the future.
 
-As for steering, the car was equipped with the optional wood-rimmed steering wheel. In terms of feeling, it has the same crisp feel common to Nissan cars. This trait is often described as a "dry" (as opposed to "soggy") steering feel. This is a matter of personal preference, so it’s hard to judge absolutely, but for a sporty car, we would definitely recommend this dry type. All of the testers responded positively to this steering feel.
+As for steering, the car was equipped with the optional wood-rimmed steering wheel. In terms of feeling, it has the same crisp feel common to Nissan cars. This trait is often described as a "dry" (as opposed to "wet") steering feel. This is a matter of personal preference, so it’s hard to judge absolutely, but for a sporty car, we would definitely recommend this dry type. All of the testers responded positively to this steering feel.
 
-Of the transmission, the group said, “It’s a good transmission that matches the car perfectly.” Also: “It fully brings out the virtues of the Warner-type unit. The gear ratios, shift feel, stroke, and weight of the lever are all perfect.” Some even went so far as to ask why the shift feel differs so much from that of the Fairlady Z, since both are Nissans.
+Of the transmission, the group said, “It’s a good transmission that matches the car perfectly.” Also: “It fully brings out the virtues of the Warner-type unit. The gear ratios, shift feel, stroke, and weight of the lever are all perfect.” Some even went so far as to ask why the shift feel is so different in the Fairlady Z, since both are Nissans.
 
 We found the crisp, precise engagements perfectly suited to the task of managing this powerful car. The gear ratios of 3.549 in first gear, 2.197 in second, 1.420 in third, and 1.000 in fourth are unchanged from the 105ps model. Even so, the solid, satisfying shift feel drew praise from everyone.
 
-“Nissan's transmissions are well-known for their quality. You often hear acclaim for their clean, decisive shifting,” someone remarked, offering a bit of insider perspective.
+“Nissan's transmissions are widely recognized for their quality. You often hear acclaim for their clean, decisive shifting,” someone remarked, offering a bit of insider perspective.
 
 "On the other hand, I wish they would do something about the low-frequency gear noise."
 
 As for the clutch, we weren’t as enthusiastic. “The first thing I noticed when I got in was the weight of the clutch. I don’t like it,” said Oguchi and Sanbon.
 
-“When I drove the 1800, I felt its clutch was softer than the one in the car I usually drive (a Bluebird SSS), but the 2000GT was a different story. However, it may have been a matter of getting tired from using it repeatedly around town,” said both Sasaki and Okubo.
+“When I drove the 1800, I felt its clutch was easier than the one in the car I usually drive (a Bluebird SSS), but the 2000GT was a different story. However, I may have simply been getting tired from using it repeatedly around town,” said both Sasaki and Okubo.
 
-The pedals give a strong sense of responsiveness to initial pressure, then seem to relax slightly as you depress them further. The difference in pedal force between the brake and accelerator can increase fatigue. Oguchi emphasized that this point isn't limited to pedal force, and that more serious attention should be paid to control harmony in general. This includes inputs to secondary controls such as switches and knobs.
+The pedals give a strong sense of responsiveness to initial pressure, then seem to give way slightly as you depress them further. The difference in pedal force between the brake and accelerator can increase fatigue. Oguchi emphasized that this point isn't limited to pedal force, and that more serious attention should be paid to control harmony in general. This includes inputs to secondary controls such as switches and knobs.
 
-Regarding the controls, opinions included: “They’re scattered, and looking for them disrupts your concentration” (Sanbon). “The console-mounted light and wiper switches are easy to find by feel and pose no problems in use” (Sano). “The fuel and voltage gauges on the console would have been better positioned up near the radio and heater” (Sasaki). The small size of the ashtray came in for harsh criticism as equipment on a long-distance, high-speed touring car: “It looks just like a chest of drawers for Hina dolls...”
+Regarding the controls, opinions included: “They’re scattered, and searching for them disrupts your concentration” (Sanbon). “The console-mounted light and wiper switches are easy to find by feel and pose no problems in use” (Sano). “The fuel and voltage gauges on the console would have been better positioned up near the radio and heater” (Sasaki). The small size of the ashtray came in for harsh criticism as equipment on a long-distance, high-speed touring car: “It looks like a chest of drawers for <i>hina</i> dolls...”
 
 
 <b><u>Problems With Wind Noise and Seats</b></u>
@@ -138,7 +138,7 @@ Regarding ride comfort, the Skyline series uses a typical strut-type suspension 
 
 The resulting ride leaves little to criticize. Comments such as, “You don't feel the sense of speed,” and “It feels stable, so you can drive for long distances” were in the majority.
 
-However, one tester observed, "The ride definitely reflects the car's price," but "I don't know if it's suitable for the image of a GT car..." We'll leave that point to be judged on the product's own merits.
+However, one tester observed, "The ride definitely reflects the car's price," but "I don't know if it's suitable for the image of a GT car..." On that point, we'll let the product be judged on its own merits.
 
 Looking at safety, the comments were mostly positive. “I tried the three-point seat belt, and the shoulder belt that hangs from the ceiling supports your shoulder properly, without rubbing against your neck. That's good,” said one driver. “The outer panels are 6mm thick, so the body feels very rigid,” said another. “The disc brakes use double calipers, which is also good, and they feel strong and stable.” On these points, all the testers were in agreement.
 
@@ -171,45 +171,14 @@ There was one last thing that everyone in the group agreed on: one more letter s
 
 <b><u>How to Read the Bubble Index</b></u>
 
+![Nissan Skyline 2000GT Bubble Index](/images/MF-BS-Nissan-Skyline-2000GT-1970a.jpg)
+
 Every car has what might be called character. It can be said that this character emerges from a combination of factors such as performance and functionality, intended use, vehicle class, and design philosophy. However, not all aspects of the car's character are clearly revealed to the user. The purpose of this series is to unravel the character of a car by evaluating six important aspects of its performance. 
 
 The size of the circle at each vertex of the index represents a rating of the attribute indicated there, and by comparing the six circles, one can also get a sense of the balance among them. In the case of the Skyline 2000GT, it received a particularly high rating for economy, but this is because it is a 2000cc class car priced at 860,000 yen, making it exceptionally economical within the context of its class. Otherwise, apart from some issues with handling stability, the six performance areas all received good scores and were well-aligned, making it a well-balanced model overall.
 
 We have explained our methodology for this test series, but our hope is that, using these tests as reference material, the final judgment will be made by the readers themselves.
 
-![Nissan Skyline 2000GT Bubble Index](/images/MF-BS-Nissan-Skyline-2000GT-1970a.jpg)
-
-<b><u>1. Standing-Start Acceleration</b></u>
-
-The name "GT" gives the impression of a car that is "hard" or "sharp," but judging from the waveform of the acceleration rate, this car is designed to be easy to drive by suppressing the immediacy of acceleration away from a start to some extent. However, the average acceleration value is high, and its capability as a high-speed touring car is more than sufficient. This was clearly shown by its best 0-100km/h acceleration run of 12.9 seconds.
-
-<b><u>2. Ride (and Interior Noise)</b></u>
-
-The preceived wind noise was louder than we expected, but the data itself is not bad. The modest increase in noise above 80km/h is suitable for a high-speed touring car. Of course, it is quieter than most GTs.
-
-<b><u>3. Overtaking Acceleration</b></u>
-
-Overtaking a vehicle ahead traveling at a constant speed of 60km/h took 173m and 6.8 seconds. In this case, we accelerated at full throttle in third gear, and the vehicle speed at the end of the maneuver was 92km/h. The set distance between the vehicles was 30m at both the front and the rear, and the speed before overtaking was 60km/h. Similarly, to overtake a vehicle ahead traveling at 80km/h, it took 348m and 10.3 seconds. The car was again in third gear, and the set distance between the two vehicles was 60m. 
-
-<b><u>4. Ramp Entry Acceleration</b></u>
-
-On expressways, the ability to join the flow of traffic from a ramp onto the main lane is an important element of performance. In this case, full acceleration in third gear from 40km/h (the speed limit on the ramp) to 100km/h (the speed on the main lane) took 12.9 seconds and a distance of 251m. This will allow you to reach 100km/h within the Japan Highway Public Corporation's standard acceleration lane distance of 250m. 
-
-<b><u>5. Hill Climbing</b></u>
-
-The climbing performance listed in the catalog is θ = 0.50, which means it can climb a 30° incline. However, this is only the maximum capacity at an appropriate speed using first gear, and has little practical significance. For our test, we measured the time over a 1,150m section of the Hakone Turnpike that included both uphill and downhill gradients. Once more comparative data is accumulated, we expect this will become a useful yardstick for hill-climbing performance. Of the five measurements taken, the Skyline 2000GT achieved a best time of 43.6 seconds.
-
-<b><u>6. Steering Stability</b></u>
-
-This is the car's ability to recover when its straight-line running is disturbed by crosswinds or the road surface. Here, the steering wheel is turned momentarily, the hands are taken off the wheel, and the subsequent recovery is observed. For the Skyline 2000GT, recovery takes place in one cycle (2.3 seconds) at 60km/h, and two cycles (4.5 seconds) at 100km/h, which is by no means bad data. However, there was a feeling of "sluggishness" that was thought to be due to the rate of change of lateral acceleration.
-
-<b><u>7. Fuel Consumption</b></u>
-
-This is the fuel economy performance for highway driving, mainly on the Tomei Expressway. On the outbound route from Tokyo Interchange to Ebina, the result was 13.5km/l, a very good figure. On the return route, about 20% of the approximately 100km journey from Gotemba to Shinagawa was comprised of slightly congested sections in Tokyo, with the result being 9.2km/l.
-
-<b><u>8. Engine Durability Index</b></u>
-
-The amount of piston movement during 1km of driving in top gear serves as one measure of an engine's durability. In this case, assuming that the production technology level, engine materials, cooling system, etc. are the same, the smaller this index, the more durable the engine. The Skyline 2000GT has a durability index of only 5.88 x 10⁵, which is small and can be considered to be excellent in terms of durability and reliability. 
 
 
 <b><u>Postscript: Story Photos</b></u>

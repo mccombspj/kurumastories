@@ -72,11 +72,11 @@ It has now been six years since the first Colt appeared. And yet, despite that p
 
 Mitsubishi itself is an enormous enterprise, one of Japan’s foremost industrial giants. Before the war, it stood at the center of shipbuilding and aircraft production. But when it came to automobiles, the company inevitably showed signs of being “behind the curve.” That situation has persisted for nearly a decade.
 
-For that reason, the Galant—newly born within the Colt lineage—has drawn a great deal of attention. Particularly so at a moment when Mitsubishi’s tie-up with Chrysler is beginning to take concrete shape. Might this car earn the kind of evaluation never before seen among domestic models? Could this colt become a true thoroughbred, capable of dramatically transforming the image of Mitsubishi automobiles?
+For that reason, the Galant—newly born within the Colt lineage—has drawn a great deal of attention. Particularly so at a moment when Mitsubishi’s tie-up with Chrysler is beginning to take shape. Might this car earn the kind of evaluation never before seen among domestic models? Could this colt become a true thoroughbred, capable of dramatically transforming the image of Mitsubishi automobiles?
 
 Our test began, first and foremost, with keen interest...
 
-The evaluation group gathered around the pure-white Colt Galant AI brought out onto the road. The test car is the 1300cc A1 Custom. Output: 87ps. Price: 601,000 yen. Top speed: 150km/h. Casting sidelong glances at these appealing figures, the group circled the car, quietly appraising it.
+The evaluation group gathered around the pure-white Colt Galant AI brought out onto the street. The test car was the 1300cc AI Custom. Output: 87ps. Price: 601,000 yen. Top speed: 150km/h. Casting sidelong glances at these appealing figures, the group circled the car, quietly appraising it.
 
 They are cautious. Without a word, they climb aboard.
 
