@@ -31,11 +31,11 @@ draft = false
 
 The Sunny Coupe--long popular among younger drivers as a light, lively coupe--has now been reborn. Its 1171cc engine has been strengthened to produce 68ps, and the front styling carries a hint of Mustang influence. For the MF Comprehensive Road Test, we have chosen to examine the top-of-the-line model, the "GL..."
 
-The date was January 6. Appearing at the very beginning of the New Year--when the traditional pine decorations had just scarcely been taken down--the Sunny 1200 made its debut with timing best described as "unorthodox."
+The date was January 6. Appearing at the very beginning of the New Year--when the traditional pine decorations had scarcely been taken down--the Sunny 1200 made its debut with timing best described as "unorthodox."
 
 Rumors had been circulating since the previous spring: would this be a full model change, or merely a power increase? In the end, the matter was provisionally settled with the announcement that a 1200 series would be added to the Sunny line.
 
-Yet this may be only the opening move. If the Sunny has fired the first shot, its rival Toyota will surely have something in store for the Corolla. Depending on how that response shapes up, further developments may well follow. Already, it seems, this year’s “SC battle” has begun in earnest.
+Yet this may be only the opening move. If the Sunny has fired the first shot, its rival Toyota will surely have something in store for the Corolla. Depending on how that response unfolds, further developments may well follow. Already, it seems, this year’s “SC battle” has begun in earnest.
 
 It was exactly four years ago, in January, that the Sunny first appeared amid great fanfare. At the time, it seemed as though Nissan Motor might lead the coming age of the 1000cc family car, and the launch began with remarkable momentum. Yet some six months later, in the autumn, its rival--the Corolla--entered the fray with an 1100cc engine and seized the upper hand.
 
@@ -163,7 +163,7 @@ Readers should bear in mind that these were indicated speeds, so the speedometer
 
 Aside from this, gear noise is fairly noticeable at low speeds, but during high-speed running in top gear it rarely becomes bothersome. A certain amount of muffled rattling could be heard from the interior trim. On rough roads, the cover over the coupe's cargo area bounced up with a bang and a clatter, which startled us more than once. “I kept looking back to see what had happened.” 
 
-“And when the fuel in the tank gets low, you hear it sloshing around--splash, splash. That’s the sound that bothered me most.” “A fuel-shortage warning device?” Laughter again.
+“And when the fuel in the tank gets low, you hear it sloshing around--splash, splash. That’s the sound that bothered me most.” “A low-fuel warning device?” Laughter again.
 
 <b><u>A Respectable Passing Mark For a Popular Car</b></u>
 
@@ -185,13 +185,13 @@ A single bead line has been added along the sides of the body. The manufacturer 
 
 “In terms of rigidity, it has roughly the same effect as attaching an additional strip of steel plate across this section.”
 
-Manufacturers who are aiming at exporting to the United States appear to be using American safety standards as one of their benchmarks. Nissan is no exception in this regard. The company states that the car has been brought “close to complete compliance,” and the GL model tested here was equipped as standard not only with the aforementioned disc brakes, but also with a collapsible steering column and dual-circuit headlamps. Other features now regarded as common-sense safety design are also present: a full crash pad across the instrument panel, recessed door handles, and a flexible rear-view mirror mount. Judged on a visual basis, the car’s safety provisions appear to be fairly satisfactory.
+Manufacturers who are aiming at exporting to the United States appear to be using American safety standards as one of their benchmarks. Nissan is no exception in this regard. The company states that the car has been brought “close to complete compliance,” and the GL model tested here was equipped as standard not only with the aforementioned disc brakes, but also with a collapsible steering column and dual-circuit headlamps. Other features now regarded as common-sense safety design are also present: a full crash pad across the instrument panel, recessed door handles, and a flexible rearview mirror mount. Judged on a visual basis, the car’s safety provisions appear to be fairly satisfactory.
 
 <b><u>The Enjoyment of Mastering an Unpretentious Character</b></u>
 
 As for product appeal--we will let this subject stand as our conclusion.
 
-The Sunny 1200 has consistently kept the Corolla 1200 as its target. In terms of product appeal, it represents a considerable leap forward compared with previous Sunnys. This applies not only to the Sunny Coupe, but also to the four-door and two-door sedans, which have improved in their own ways. If earlier Sunnys were sold largely on the pride that "form followed function,” then this new model may be seen as a candid acknowledgment of the limits of that approach, with Nissan now adopting a measure of Toyota’s well-known skill in merchandising.
+The Sunny 1200 has consistently kept the Corolla as its target. In terms of product appeal, it represents a considerable leap forward compared with previous Sunnys. This applies not only to the Sunny Coupe, but also to the four-door and two-door sedans, which have improved in their own ways. If earlier Sunnys were sold largely with the pride of "form following function,” then this new model may be seen as a candid acknowledgment of the limits of that approach, with Nissan now adopting a measure of Toyota’s well-known skill in merchandising.
 
 All 4-speed floor-shift models are equipped with round gauges, set into a plastic panel with a crystalline metallic pattern. Of the three circular dials, the one on the left can be fitted either with a tachometer or a clock. On the GL model a console is also standard, and the clock is relocated there when a tachometer takes its place in the gauge cluster. This arrangement smoothly accommodates the wishes of buyers seeking a sportier atmosphere.
 
