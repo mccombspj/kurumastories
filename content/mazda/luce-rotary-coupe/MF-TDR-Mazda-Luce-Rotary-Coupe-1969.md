@@ -51,7 +51,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Test Drive Report<br>
 <b>Date:</b> December 1969<br>
-<b>Author:</b> Katsumi Kageyama
+<b>Author:</b> Katsuzo Kageyama
 
 
 
