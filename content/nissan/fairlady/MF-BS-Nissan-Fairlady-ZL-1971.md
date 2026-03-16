@@ -25,7 +25,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> "Bubble Index" Road Test<br>
 <b>Date:</b> August 1971<br>
-<b>Author:</b> Osamu Mochizuki, Katsuzo Kageyama, Shigeki Asaoka, Yasuhei Oguchi, Reiko Ikuuchi, Kensuke Ishizu
+<b>Authors:</b> Osamu Mochizuki, Katsuzo Kageyama, Shigeki Asaoka, Yasuhei Oguchi, Reiko Ikuuchi, Kensuke Ishizu
 
 
 
