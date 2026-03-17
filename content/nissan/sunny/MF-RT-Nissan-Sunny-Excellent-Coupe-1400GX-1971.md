@@ -93,7 +93,7 @@ Many recent American cars use this kind of proportion, and it creates a form wit
 
 <b>Higuchi:</b> I almost think it would be better to drop the "Sunny" from "Sunny Excellent." It might be clearer to present it simply as a new model called "Excellent"…
 
-<b>Tomizuka:</b> In a sense, it’s a car aimed slightly more toward younger buyers than the Sunny itself, so in the catalog and other materials we emphasize "Excellent" prominently, while making "Sunny" as unobtrusive as possible. We’re trying to give "Excellent" an image through phrases like "a car with excitement" or "a car with a fragrance."
+<b>Tomizuka:</b> In a sense, it’s a car aimed slightly more toward younger buyers than the Sunny itself, so in the catalog and other materials we emphasize "Excellent" prominently, while making "Sunny" as unobtrusive as possible. We’re trying to give "Excellent" an image through phrases like "a car with excitement" and "a car with an essence."
 
 <b><u>What Is the Effect of the Spoiler?</b></u>
 

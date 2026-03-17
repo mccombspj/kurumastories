@@ -51,7 +51,7 @@ For that reason, the question that interested us most with this model change was
 
 With these thoughts in mind, the test group set out once again on our usual course: from the Tokyo IC of the Tomei Expressway to Gotemba IC, over Otome Pass, up the Hakone Turnpike, back again via Otome Pass, and finally returning to Tokyo on the Tomei. (Measurements were conducted primarily using the GX model. Hill-climbing performance testing was cancelled because the measurement section was under construction.)
 
-After completing the run, the group gathered at our usual base, the “Fantasy” drive-in near the entrance to the Tomei Expressway on Tamagawa-dori, to compare impressions.
+After completing the run, the group gathered at our usual base, the Fantasy Drive-In near the entrance to the Tomei Expressway on Tamagawa-dori, to compare impressions.
 
 The first topic to arise was the steering. Nearly everyone agreed that its character had changed considerably.
 

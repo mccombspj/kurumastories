@@ -197,6 +197,9 @@
     <loc>http://localhost:1313/toyota/crown/cg-rt-toyota-crown-hardtop-sl-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/sunny/mf-bs-nissan-sunny-excellent-1400gx-coupe-1400gl-1971/</loc>
+    <lastmod>2026-03-15T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/toyota/celica/mf-bs-toyota-celica-1600st-toyota-carina-1600st-1971/</loc>
     <lastmod>2026-03-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -250,9 +253,6 @@
   </url><url>
     <loc>http://localhost:1313/toyota/carina/cg-rt-toyota-carina-1600gt-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/sunny/mf-bs-nissan-sunny-excellent-1400gx-coupe-1400gl-1971/</loc>
-    <lastmod>2026-02-20T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/sunny/mf-rt-nissan-sunny-excellent-coupe-1400gx-1971/</loc>
     <lastmod>2026-02-20T04:50:49-07:00</lastmod>
@@ -356,13 +356,16 @@
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nissan/fairlady/</loc>
-    <lastmod>2026-03-14T00:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/</loc>
-    <lastmod>2026-03-14T00:50:49-07:00</lastmod>
+    <lastmod>2026-03-15T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/sunny/</loc>
+    <lastmod>2026-03-15T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-03-15T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/fairlady/</loc>
     <lastmod>2026-03-14T00:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/crown/</loc>
@@ -379,9 +382,6 @@
   </url><url>
     <loc>http://localhost:1313/mitsubishi/</loc>
     <lastmod>2026-03-10T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/sunny/</loc>
-    <lastmod>2026-03-07T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant/</loc>
     <lastmod>2026-03-05T04:50:49-07:00</lastmod>
