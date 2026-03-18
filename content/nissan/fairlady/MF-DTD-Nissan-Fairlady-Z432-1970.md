@@ -49,7 +49,7 @@ Since its announcement on October 18, the Fairlady Z432 has been a car I’ve be
 
 <b><u>Memories of the R380…</b></u>
 
-That’s because the engine fitted to this Fairlady Z432 is a detuned version of my age-old arch-enemy, the R380. On the night before the test drive, November 13, my past battles with the R380 came flashing back through my mind, and I couldn’t get a wink of sleep. You may say I’m too old for that sort of thing, and you’d be right. But ever since the third Japanese Grand Prix, the anguish I’ve suffered, and the ferocity of those fights--those who know, know.
+That’s because the engine fitted to this Fairlady Z432 is a detuned version of my old arch-enemy, the R380. On the night before the test drive, November 13, my past battles with the R380 came flashing back through my mind, and I couldn’t get a wink of sleep. You may say I’m too old for that sort of thing, and you’d be right. But ever since the third Japanese Grand Prix, the anguish I’ve suffered, and the ferocity of those fights--those who know, know.
 
 "How has it been improved?" "What kind of setup have they gone with?"
 
@@ -67,12 +67,11 @@ Since it was a weekday, the eastern side of the city at dusk was wide open. I pr
 
 The shift feel is good. As if it can see straight through my emotions, it responds crisply--snick, snick--up and down through the gears. In the pale-violet haze of the Tomei Expressway, the image of a race at Fuji suddenly flickered through my mind.
 
-On one side, the much-praised R380--on the other side, my Porsche Carrera 6. Back then, I’d been defeated by my own hotheaded bravado: "No matter how good your engine is, I’ll beat you with my own driving."
-Then, there was the enemy, slicing past with ease.
+On one side, the much-praised R380--on the other side, my Porsche Carrera 6. Back then, I’d been defeated by my own hotheaded bravado: "No matter how good your engine is, I’ll beat you with my own driving." Then, there was the enemy, slicing past with ease.
 
 I glanced down at the tachometer: 6000rpm. Speed: 150km/h. Whoa--don't get carried away.
 
-And yet it ran effortlessly.
+And yet this speed came effortlessly.
 
 "So this is the engine I was fighting against," I muttered to myself. "No wonder it was tough."
 
@@ -110,7 +109,7 @@ Even after dinner and a soak in the onsen, once we’d settled down, that grudgi
 
 Me: Did you feel tired at all?
 
-My better half: No, not at all.
+My wife: No, not at all.
 
 Me: I see. That’s good. Generally speaking, sports cars have cramped passenger seats. The driver may be fine, but the person riding alongside is often worn out. You enjoy the drive, arrive at your destination—and just when you’re ready to go, your companion feels sick with fatigue. That’s a letdown. Two-seat sports cars tend to be like that, and it’s never really been to my taste. So, you weren’t tired? That’s good to hear.
 
@@ -166,7 +165,7 @@ Driving my age-old rival had clearly scrambled my thoughts, and his voice snappe
 
 Rather than driving cautiously on unfamiliar roads, I wanted to take full advantage of this perfect day and tear through my favorite routes. My wish was granted: we set off to cover a broad swath of the Izu Skyline.
 
-By 10:00am, the freshness and calm of the morning--completely different from Tokyo’s smoggy streets--was broken by the roar of the engine: <i>burrooom!</i>
+By 10:00am, the freshness and calm of the morning--completely different from Tokyo’s smoggy streets--was broken by the roar of the engine: <i>barrooom!</i>
 
 The engine started on the first try. And then, unexpectedly, I heard a curious sound: <i>kachi, kachi, kachi</i>--the electric fuel pump, gradually speeding up.
 
@@ -188,11 +187,11 @@ The strut-type independent suspension on all four wheels was chosen, in part, to
 
 On the highway, running at high speed, this suspension feels compliant and perfectly suited to a 2000cc car. Yet on rough roads, its firmness makes the road surface acutely felt. Human perception is a curious thing: we can live with one extreme or the other, but striking a satisfactory balance between the two is no easy task.
 
-Changing topics slightly, magazine editors--many of them rather mischievous (my apologies)--tend to delight in coaxing criticism. This Motor Fan editor was no exception, urging me, with sly insistence, to find faults. But what can I say? When things are good, they're good.
+Changing topics slightly, magazine editors--many of them rather mischievous (my apologies)--tend to delight in coaxing criticism. This Motor Fan editor was no exception, urging me, with sly insistence, to find faults. But what can I say? When something is good, it's good.
 
 Take, for example, the DOHC inline-six. To some, it’s already an antique. "Why use that and call it a true sports car?" they might ask.
 
-Here’s how I see it: no matter how advanced a mechanism, incorporating it into a production-ready, general-use car takes time. When it’s finally done, it inevitably aligns with what some might call an "obsolete" design. And that’s fine. New technology always comes with flaws. Even the latest V6 or V8 engines, lightweight and high-performance as they may be, are not yet perfected. In some ways, they are still precarious.
+Here’s how I see it: no matter how advanced a mechanism, incorporating it into a production-ready, general-use car takes time. When it’s finally done, it inevitably aligns with what some might call an "obsolete" design. And that’s fine. New technology always comes with flaws. Even the latest V6 or V8 engines, lightweight and high-performance as they may be, are not yet perfected. In some ways, they are still at a precarious stage.
 
 Does progress and development towards "the ideal car" truly exist?  Perhaps the first step toward advancement comes not from ideals, but from facing present reality, gaining a certain mastery of it, and then pushing beyond it.
 
@@ -210,7 +209,7 @@ We hit the Tomei Expressway. On the Izu Skyline, I had only used third and fourt
 
 It was late at night, and like on the outbound trip, traffic was light--the perfect opportunity. I made full use of the engine’s maximum torque, 18.0kgm at 5600rpm, shifting swiftly. According to Motor Fan’s road test data, the 0–400m time was 15.578 seconds, and the acceleration was smooth as expected.
 
-The seats hugged me firmly, transmitting the sensation of speed directly through my back. For Japan, where true sports cars had scarcely existed until now, this could honestly be called the first sports car in the real sense. Of course, it’s still different from Porsches or Ferraris in some ways.
+The seats hugged me firmly, transmitting the sensation of speed directly through my back. For Japan, where true sports cars had scarcely existed until now, this could honestly be called the first sports car in the real sense. Of course, it’s still not the same as Porsches or Ferraris in some ways.
 
 But make no mistake: this car has clearly surpassed the domain of "sporty cars." The Toyota 2000GT and Isuzu 117 Coupe remain, regrettably, in the realm of sporty cars. Meanwhile, the Fairlady Z432 fully outpaces the Ford Mustang GT or even the Chevrolet Corvette Stingray.
 

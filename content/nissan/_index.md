@@ -9,6 +9,7 @@ title: "Nissan Stories"
   <li><a href="/nissan/cedric/">Nissan Cedric</a></li>
   <li><a href="/nissan/cherry/">Nissan Cherry</a></li>
   <li><a href="/nissan/fairlady/">Nissan Fairlady</a></li>
+  <li><a href="/nissan/gloria/">Nissan Gloria</a></li>
   <li><a href="/nissan/laurel/">Nissan Laurel</a></li>
 <li><a href="/nissan/silvia/">Nissan Silvia</a></li>  
 <li><a href="/nissan/skyline/">Nissan Skyline</a></li>
