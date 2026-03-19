@@ -207,9 +207,9 @@ Cars built purely on safety and luxury do not allow much room for the driver's o
 
 A car is, in many ways, a form of fashion through which the driver asserts their ideas. Among the many cars available, one should choose the one that allows them to express their own identity.
 
-“The stripes and colors are perhaps a bit too bold…” —Oguchi
+<i>“The stripes and colors are perhaps a bit too bold…” —Oguchi</i>
 
-“The 170mm longer overall length is evident from the side view. The front grille is fairly well-integrated.” —Asaoka
+<i>“The 170mm longer overall length is evident from the side view. The front grille is fairly well-integrated.” —Asaoka</i>
 
 <b><u>How to Read the Bubble Index</b></u>
 
