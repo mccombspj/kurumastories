@@ -127,7 +127,7 @@ During the test of the Sunny 1400, I found myself somewhat at a loss as to what 
 
 The doors and hood constantly vibrate, while noise levels are uncomfortably high compared with similar cars--disappointing, to say the least. The gold-colored plastic instrument panel (why gold?) looks fragile, like a thin cracker, and the brown, grid-patterned floor carpet is a problem that goes beyond questions of personal taste.
 
-On the other hand, the engine turns smoothly, producing ample power and torque. The pedals and shift lever are well-placed, allowing any driver to get in and operate the car without difficulty. In these respects, the Sunny competes well with its peers.
+On the other hand, the engine revs smoothly, producing ample power and torque. The pedals and shift lever are well-placed, allowing any driver to get in and operate the car without difficulty. In these respects, the Sunny competes well with its peers.
 
 But one does not drive a car with their eyes closed. It is not enough to create a mechanically competent vehicle; the design must also demonstrate sensibility. Even if top speed or acceleration exceeds that of comparable models, users will not necessarily respond if it lacks refinement.
 
@@ -195,7 +195,7 @@ In today’s fashion world, there is a sensibility known as Neo-Pauperism, which
 
 Modern consumers have grown weary of gaudy, over-the-top luxury. This “deliberately modest look” has emerged in response. It is not about actually lacking money; rather, it's about individuals cultivating inner richness while keeping outward appearances as modest as possible--a kind of spiritual luxury.
 
-This mindset is reminiscent of the old heii habo (worn-out clothes and hats) trend among students at Japan’s prewar elite high schools. Those students—destined for the Imperial University and bureaucratic careers—would stroll through town with an air of casual satisfaction, almost defiantly modest. Neo-Pauperism channels a similar sense of understated confidence.
+This mindset is reminiscent of the old <i>heii habo</i> (worn-out clothes and hats) trend among students at Japan’s prewar elite high schools. Those students—destined for the Imperial University and bureaucratic careers—would stroll through town with an air of casual satisfaction, almost defiantly modest. Neo-Pauperism channels a similar sense of understated confidence.
 
 Consider a grand chandelier in a simple 2DK apartment, or an overly luxurious ornament brought into a small pre-fabricated house. These gestures may reflect an inferiority complex, a desire to assert superiority through mere appearances.
 

@@ -6,7 +6,7 @@
 
 
 
-title = "Nissan Cherry Coupe X-1 (1971)"
+title = "Nissan Cherry Coupe 1200 X-1 (1971)"
 
 
 
@@ -75,19 +75,19 @@ draft = false
 
 
 
-Contrary to the reaction of general users, which can be inferred from sales results, C/G's evaluation of the Nissan Cherry is extremely high. Although it is true that the basic layout was patterned after the BMC ADO15, the Cherry's design attitude, which was unafraid of taking risks for the sake of rationality, should be appreciated among the generally orthodox designs of domestic cars.
+Contrary to the reaction of general users, which can be inferred from sales results, C/G's opinion of the Nissan Cherry is quite high. Although it is true that the basic layout was patterned after the BMC ADO15, the attitude behind the Cherry's design, which was unafraid of taking risks for the sake of rationality, should be appreciated among the generally orthodox designs of domestic cars.
 
 
 
-As noted in our monthly reports, C/G purchased a Cherry Van for long-term testing, and has already been using it for 20,000km. The reason we chose a Cherry Van instead of a sedan was because we thought that the low, flat luggage compartment that only a front-wheel-drive vehicle can offer, and the wide tailgate that opens all the way to the floor, were ideal for transporting our test fifth wheel, heavy camera equipment, and the like. 
+As noted in our monthly reports, C/G purchased a Cherry Van for long-term testing, and we have already driven it some 20,000km. The reason we chose a Cherry Van instead of a sedan was because we thought that the low, flat luggage compartment that only a front-wheel-drive vehicle can offer, combined with a wide tailgate that opens all the way to the floor, would be ideal for transporting heavy test equipment such as our fifth wheel and cameras. 
 
 
 
-Of course, we had expected from the beginning that the van would have some disadvantages compared to the sedan, and this was true when we actually began using it, so we made some modifications. The 1000cc 58ps engine, with taller gearing than that of the sedan, was not particularly satisfactory for our intended use, but the all-drum brakes and truck tires were simply unbearable, so we quickly replaced them with sedan front discs and X-1 S-spec tires. The ride of the rear suspension, with leaf springs and a rigid rear axle, was also too stiff for our conditions, where we often drive with a light load, and naturally the handling stability on uneven roads was inferior. A plan to transplant the coil/trailing arm independent suspension used in the sedan had to be shelved due to legal difficulties, regardless of whether it was technically feasible or not, so in the end, the camber of the leaf springs was made flatter (while the spring rate remained the same) and the body posture was modified so that it would be level even when unladen. These modifications were a great success, and the Cherry Van became the most useful member of the C/G fleet.
+Of course, we had expected from the beginning that the van would have some disadvantages compared to the sedan, and this proved true when we actually began using it, so we set about making some modifications. The 1000cc 58ps engine, with taller gearing than that of the sedan, was only just satisfactory for our intended use, but the all-drum brakes and truck tires were simply unbearable, so we quickly replaced them with sedan front discs and X-1 S-spec tires. The ride from the rear suspension, with leaf springs and a rigid rear axle, was also too stiff for our conditions, where we often drive with a light load, and naturally the handling stability on uneven roads was inferior. A plan to transplant the coil/trailing arm independent suspension used in the sedan had to be shelved due to legal difficulties, regardless of whether it was technically feasible or not, so in the end, the camber of the leaf springs was made flatter (while the spring rate remained the same) and the body posture was modified so that it would be level even when unladen. These modifications were quite successful, and the Cherry Van has become the most useful member of the C/G fleet.
 
 
 
-However, our dream was still to have a "sports wagon" that combined the utility of the Cherry Van with the power performance and maneuverability of the X-1 sedan (in terms of styling, we still think the Van is the most beautiful, even now that the coupe has appeared). So when we heard that the Cherry Coupe was going to be announced, we immediately had the hope that it might make our dream of a sports wagon come true. To cut straight to the chase, the Cherry Coupe did not completely meet our expectations.
+However, our dream was still to have a "sports wagon" that combined the utility of the Cherry Van with the performance and handling of the X-1 sedan (in terms of styling, we still think the Van is the best-looking version, even now that the coupe has appeared). So when we heard that the Cherry Coupe was going to be announced, we immediately had the hope that it might make our dream of a sports wagon come true. To cut straight to the chase, the Cherry Coupe did not completely meet our expectations.
 
 
 

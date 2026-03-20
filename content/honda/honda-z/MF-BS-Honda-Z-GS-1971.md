@@ -66,7 +66,7 @@ draft = false
 
 How effectively can a 5-speed gearbox be utilized within the constraints of a kei car?
 
-This question set the tone for this test as a whole. So—what was the reality?
+This question set the tone for this test as a whole. So—what was it like in practice?
 
 <b><u>How Effective Is the 5-Speed Transmission?</b></u>
 
