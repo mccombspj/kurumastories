@@ -65,11 +65,11 @@ In terms of the chassis, the drive system has been strengthened to match the inc
 
 <b>Ueda:</b> It was released as an updated vehicle rather than a successor. In terms of dimensions, the body shell is almost unchanged. The tread width has increased slightly, 15mm in the front and 25mm in the rear, due to the addition of capless disc wheels.
 
-<b>Magazine:</b> Is the air scoop functional? Or is it more of a design thing?
+<b>Magazine:</b> Is the air scoop functional? Or is it more for style?
 
 <b>Ueda:</b> It has an effect on cooling, as hot air is blown out from there.
 
-<b>Toishi:</b> The air scoop is both a design thing and a way to let heat out. The right side helps to let out heat, and the left one is just a dummy. Also, the front bonnet is matte black, and there are black stripes, all of which give it a bold look in terms of design. 
+<b>Toishi:</b> The air scoop is both for style and a way to let heat out. The right side helps to let out heat, and the left one is just a dummy. Also, the front bonnet is matte black, and there are black stripes, all of which give it a bold look in terms of design. 
 
 <b>Hoshijima:</b> The matte finish on the hood is also functional.
 

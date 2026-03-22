@@ -14,334 +14,347 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> June 1969<br>
-<b>Author (Roundtable):</b> Jiro Tanaka, Kazuri Okamoto, Osamu Hirao, Atsushi Watari, Kenji Higuchi, Yuji Sakakibara, Jun Narue, Shinichiro Sakurai, Kunitaka Furitani, Hiroshi Hoshijima, Akio Miyamoto, Tadashi Terashima, Taizo Tateishi, Kazuo Kumabe, Ken Goto, Yasuhei Oguchi, Kenzaburo Ishikawa, Yoshio Akutsu, Mineo Yamamoto, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
+<b>Author (Roundtable):</b> Jiro Tanaka, Kazuri Okamoto, Osamu Hirao, Atsushi Watari, Kenji Higuchi, Yuji Sakakibara, Jun Narue, Shinichiro Sakurai, Kunitaka Furutani, Hiroshi Hoshijima, Akio Miyamoto, Tadashi Terashima, Taizo Tateishi, Kazuo Kumabe, Ken Goto, Yasuhei Oguchi, Kenzaburo Ishikawa, Yoshio Akutsu, Mineo Yamamoto, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
 
 
 <b><u>World-Class Performance</b></u>
 
-<b>Magazine:</b> First of all, let's start by talking about the aim of this Skyline 2000GT-R. 
+<b>Magazine:</b> First of all, let’s begin by talking about the aims of this Skyline 2000GT-R.
 
-<b>Tanaka:</b> This car is a sister model to the Skyline 2000GT that is already on the market. In the previous Skyline GT series, there was a GT-A and a GT-B, but in this model change, what was previously called the GT-A has been renamed to the 2000GT, and the GT-R has been introduced as the successor to the GT-B. 
+<b>Tanaka:</b> This car can be thought of as a sister model to the Skyline 2000GT that is already on sale. In the previous Skyline GT series, we divided the lineup into GT-A and GT-B versions. With this latest model change, what was formerly known as the GT-A has become the 2000GT, while this GT-R has been introduced as the successor to what was previously called the GT-B.
 
-The most important feature is the engine, which is a version of that in the R380 prototype that has been detuned so that it can be used by the general public. Given the nature of a prototype, the natural course of action is to transfer the technical knowledge gained from it to production, and we are proud to say that this is a car that is quite unique, even from a global perspective, in the sense that we want to make the most of what we have gained from the development of the R380.
+The most important feature is the engine. It is based on the unit developed for the R380 prototype, but detuned so that it can be used comfortably by the general public. Given the nature of a prototype, the proper course is to carry over the technical knowledge gained into production cars, and in that sense, we have tried to make the fullest possible use of what was learned from the R380. We believe this makes it quite a unique car, even by international standards.
 
-This engine produces about 80 horsepower per liter, and there are only three other commercially available cars that have this level of specific output, the Ferrari 246 Dino, the Fiat Dino, and the Porsche 911S.
+This engine produces approximately 80ps per liter. Among production cars, only three other models are at this level of specific output: the Ferrari Dino, Fiat Dino, and Porsche 911S.
 
-Also, the only other 2-liter DOHC cars are the Dino and the domestic Toyota 2000GT, so in that respect it is a unique car, and one that is rare worldwide. 
+There are also very few 2-liter engines with DOHC layouts. Aside from the Dino, the only other example is the domestic Toyota 2000GT. In that respect as well, we consider this to be a car with very few equivalents worldwide.
 
-There are many different ways to make a sports car, such as those that aim for high performance, those that are stylish, or those that emphasize luxury, and this car is characterized by its thorough pursuit of high performance. It was designed with the purpose of being used in races, and it falls into the Group 2 touring car category, but since that class allows for a wide range of modifications, a variety of optional parts are available. The quoted output of 160ps is for the commercially available engine, but with optional parts it is relatively easy to get over 200ps, so I think it is a car with plenty of room for improvement in performance.
+There are many possible design directions for a sports car--some emphasize performance, others styling, and still others luxury. In the case of this car, its defining characteristic is a thorough pursuit of performance.
 
+It has been developed with the intention that it may also be used in racing, where it would fall into the Group 2 touring car category. Within that class, a fairly wide range of modifications is permitted, and accordingly we have prepared a variety of optional parts. The standard production engine produces 160ps, but with these optional components, it is relatively easy to obtain output in excess of 200ps. In that sense, I would say the car has considerable potential for further performance development.
 
-<b><u>Well-Bred From a Prototype</b></u>
+<b><u>Refinement Born From a Prototype</b></u>
 
-<b>Magazine:</b> You're detuning the R380 engine to use in a mass-produced car. What performance-wise were you aiming for? And how much effort did you put into that? 
+<b>Magazine:</b> You’ve taken the R380 engine, detuned it, and adapted it for use in a production car. What kind of performance targets were you aiming for? We also imagine there must have been considerable difficulties along the way--could you tell us about that?
 
-<b>Okamoto:</b> Even though we say it is a "detuned" R380 engine, when it comes to selling it commercially, we have to take into consideration things like the appearance, ease of maintenance, oil consumption, and other issues, as well as thinking about the manufacturing process, so even though it's an R380 engine, there were many things that we had no choice but to change to some extent. 
+<b>Okamoto:</b> Even though we say it is a “detuned” R380 engine, when it comes to producing it commercially, we have to consider things like external appearance, ease of maintenance, oil consumption, as other issues, as well as thinking about the manufacturing process. So although it is based on the R380 engine, there were quite a few areas where changes were unavoidable.
 
-Bore and stroke are 82mm x 62.8mm, the same as the R380, but the compression ratio is limited to 9.5, in consideration of normal driving, and in terms of performance, the power is set to 160ps and the torque to 18kgm. Since we have been running the R380 in races and record attempts for a while, and have also been doing constant field testing, we knew its performance relatively well, but because of the recent issue of exhaust gas, which has become a big problem, the design and development took a lot of time.
+The bore and stroke remain the same as the R380 at 82mm × 62.8mm, but the compression ratio has been limited to 9.5 in consideration of everyday driving. In terms of performance, output is set at 160ps, with torque at 18kgm. Since the R380 engine had already been run extensively in races and record attempts, and had undergone bench testing as well, we had a fairly good understanding of its performance characteristics. However, with the increasing importance of exhaust emissions in recent years, the design and development process took quite a lot of time.
 
-<b>Magazine:</b> You initially developed it for racing, but was it part of the R380 plan to use this engine in mass-produced cars?
+<b>Magazine:</b> Since it was originally developed for racing, was it always part of the R380 plan that the engine would eventually be used in a production car?
 
-<b>Okamoto:</b> A prototype is a testbed that will eventually lead to mass production, so it was naturally in the plan. 
+<b>Okamoto:</b> A prototype, by definition, is a kind of testbed that is ultimately intended to lead to mass production, so naturally that was part of the plan from the beginning.
 
-<b>Hirao:</b> So that promise has been fulfilled. I had heard people asking, "even after the car is completed, what will they do if they can't put it into mass production within the next two or three years?" But that problem has been resolved now, too (laughs). You also explained that the performance has been reduced, but it's not really a case of reducing the performance, it's better to say that it was modified to suit general driving - in that sense, the word "detuned" doesn't quite fit. I think we should think of a better way to say it, like "adaptively tuned" or something. 
+<b>Hirao:</b> Then I suppose you’ve fulfilled that promise. Around the time the car was completed, I remember hearing discussions along the lines of, “What if it can’t be brought into production within two or three years?” It seems that issue has been resolved (laughs). Also, the way it’s described as having reduced performance--rather than saying the performance was lowered, it might be more accurate to say it has been adapted for general driving use. In that sense, even the term “detuned” feels a bit off. Perhaps something like “adaptive tuning” would be a better way to put it.
 
-<b>Magazine:</b> You mentioned that this is a sports car that prioritizes performance over style, but even so, it seems like you're very focused on entering it in races...
+<b>Magazine:</b> You mentioned earlier that this is a sports car that prioritizes performance over styling, but it does seem to have been developed with racing quite strongly in mind…
 
-<b>Tanaka:</b> The same can be said of the Fairlady 2000, and we're not necessarily expecting it to be used only in races, but yes, we're proud of the fact that it can withstand such uses and can also be used for general driving.
+<b>Tanaka:</b> This also applies to the Fairlady 2000, but it’s not that we are expecting it to be used exclusively for racing. Rather, we consider it a point of pride that it is capable of withstanding that kind of use, while still being perfectly suitable for everyday driving.
 
-<b>Watari:</b> When I drove it, I was surprised at how smoothly it could run even at low speeds in top gear. This is indeed something to be proud of, but I wonder what the design intention behind this was.
+<b>Watari:</b> When I drove it, I was surprised at how smoothly it would run even at very low speeds while remaining in top gear. This may well be something to be proud of, but what was the thinking behind that aspect of the design?
 
-<b><u>Difficult to Handle On the Road</b></u>
+<b><u>Easy to Handle On the Road</b></u>
 
-<b>Okamoto:</b> If it's difficult to drive on the road, the number of sales will be very limited, so although it cannot be made to drive as easily as a sedan, we put a lot of effort into widening the range of rotation speeds at which torque is strong to minimize the difficulty in normal driving.
+<b>Okamoto:</b> If a car is difficult to drive on normal roads, the range of customers becomes very limited. So while it can’t be made to drive quite as easily as a typical sedan, we made considerable efforts to broaden the torque band, so that strong torque is available over a wider range of engine speeds. That was one way of addressing the difficulty of driving.
 
-<b>Watari:</b> Doesn't that make it less satisfying to drive?
+<b>Watari:</b> But in doing so, doesn’t it risk feeling a bit less satisfying?
 
-<b>Okamoto:</b> Some people would like it to have a rougher feel. 
+<b>Okamoto:</b> There are certainly some who would prefer a more aggressive character.
 
-<b>Hirao:</b> When I read the description of the Mercedes Benz 300SL, it said that if you don't need to accelerate quickly, you can put it in top gear at speeds as low as 30km/h, and even if you accelerate from there, the rotation speed will increase smoothly. In that sense, I think the GT-R has a similar aim to the 300SL. 
+<b>Hirao:</b> If you read descriptions of the Mercedes-Benz 300SL, it says that unless strong acceleration is required, it can run in top gear from as low as 30km/h. From there, the engine will pick up smoothly at any speed. In that sense, I think the GT-R is aiming for something similar to the 300SL.
 
-<b>Okamoto:</b> I think that's because of the difference between a carburetor and fuel injection. The Skyline uses triple carburetors, and they're single stage, so trying achieve ideal fueling between maximum and minimum revolutions becomes an issue, and it's a bit difficult to completely cover that wide range with just carburetors.
+<b>Okamoto:</b> That may also have to do with the difference between carburetors and fuel injection. The Skyline uses triple carburetors, and a single-stage setup at that, so trying to achieve the ideal fuel ratio between maximum and minimum engine speeds becomes an issue. With carburetors alone, it’s difficult to fully cover such a wide operating range.
 
-<b>Narue:</b> When you are making a car as a commercial product, it is very important from a sales strategy perspective that it is user-friendly, in terms of its image. In general, a short and sweet way to express this is that a car can be driven slowly in top gear, and this can be said to increase the perceived value of the product.
+<b>Narue:</b> When a machine is made as a commercial product, ease of use--also in terms of its image--becomes very important from a sales standpoint. Saying that it can run slowly in top gear is a simple way of expressing that, and it certainly adds to the car’s appeal.
 
-<b>Watari:</b> In reality, if you're driving at a relaxed pace in top gear, you'll eventually have to downshift. So if you don't use top gear and drive in a lower gear, then you don't have to change gear to accelerate, but the question is which is more effective for a particular scenario.
+<b>Watari:</b> In practice, if you’re just trundling along in top gear, you’ll eventually have to shift down anyway. In those situations, it’s better to use one gear lower—you can accelerate without shifting. But the question is which approach people prefer.
 
-<b>Narue:</b> I wish the instruction manual had a paragraph about how the car should be driven...
+<b>Narue:</b> Ideally, the owner’s manual should probably state that it’s better to drop down a gear in those cases…
 
-<b>Tanaka:</b> Recently, even ordinary sedans have started to use 4-speed gearboxes, but even so, there are still reports of people saying that their car doesn't run well in top gear at low speeds, and that driving in third gear is difficult with a 4-speed.
+<b>Tanaka:</b> These days, people are starting to use 4-speed gearboxes even in ordinary sedans, but you hear complaints about top gear not being flexible at low speeds, and even so, people still tend not to use third gear very much.
 
-<b>Watari:</b> I simply say that I don't use fourth gear in the city, but I think we need to promote this idea with more driver education. I think there are probably a lot of people who just aren't satisfied unless they are using all the gears.
+<b>Watari:</b> Personally, I simply say that fourth gear shouldn’t be used around town, but perhaps the PR hasn't been sufficient in this regard. There seem to be quite a few people who feel they must use all the gears, no matter what.
 
-<b>Higuchi:</b> On the contrary, even if you drop it to third gear, the response is slow and the elderly can't keep pace with traffic. I've also heard people say that since the acceleration is poor in top gear, you can accelerate gradually and just relax, and not get tired.
+<b>Higuchi:</b> On the other hand, I’ve heard that when you drop to third, the acceleration is less controllable, making it harder for older drivers to keep up--whereas in top gear, although acceleration is weak, it will still build speed gradually even with a light throttle, which makes driving less tiring.
 
 <b><u>Numerous New Mechanisms Adopted</b></u>
 
-<b>Magazine:</b> Regarding the structure of the engine, we understand that a side bolt system has been adopted. Could you please explain this a little?
+<b>Magazine:</b> Turning to the engine itself, we understand that a side-bolt system has been adopted. Could you explain this in a bit more detail?
 
-<b>Sakakibara:</b> To increase the rigidity of the engine block, we wanted to make the skirt part of the block like a box. To achieve this, we used bearing caps to secure both sides of the block to the block. Six-cylinder engines are inevitably long, so it is difficult to make them rigid. That is why we used bolts from the side to firmly fasten the skirt part of the block to the bearing caps.
+<b>Sakakibara:</b> As a way of increasing the rigidity of the engine block, the idea is to make the skirt section of the block behave more like a box structure. To achieve that, we use the bearing caps and fasten both sides of them to the block. With an inline six-cylinder engine, the shape inevitably becomes quite long, which makes it difficult to maintain rigidity. So by using bolts from the sides to firmly clamp the skirt section of the block to the bearing caps, we can significantly improve stiffness.
 
+<b>Hirao:</b> There were some engines in the past that used through-bolts, weren’t there?
 
-<b>Hirao:</b> Some old engines used through bolts.
+<b>Sakakibara:</b> Yes, and actually, that was our initial intention. However, that approach would have made the lower portion of the engine longer and encroached on the space for the oil pan, so we used the lower section around the bearing area instead.
 
-<b>Sakakibara:</b> Actually, we wanted to do that, but if we did, the bottom of the engine would have been longer, leaving less space to attach the oil pan, so we used the bottom of the bearing part instead.
+<b>Narue:</b> Another interesting feature is the use of a transistorized ignition system.
 
-<b>Narue:</b> Also, the ignition system that uses a transistor igniter is quite novel. 
+<b>Okamoto:</b> When you want to produce a strong and stable spark at high engine speeds, this method is definitely more effective. For ordinary road use, a conventional contact-point distributor is still sufficient. However, if you want to go further with tuning, the contact-point system tends to produce a weaker spark. So from the outset, we decided to adopt a transistorized igniter as standard equipment.
 
-<b>Okamoto:</b> If you want to produce a strong spark stably when driving at high speeds, this method is definitely better. If you're going to drive only on the road, a contact point distributor will do, but if you want to tune it up further, the spark will be weaker with the contact point type, so we decided to make the transistor igniter standard equipment from the beginning. 
+<b>Hirao:</b> Is that related to FIA regulations? Specifically, the one that states, “The ignition system must not be changed.”
 
-<b>Hirao:</b> I think it has to do with FIA regulations: "The ignition system must not be changed."
+<b>Sakakibara:</b> That is one reason, and also, since this mechanism is still not a common feature in mass-produced cars in Japan, we felt that we should at least do this much.
 
-<b>Sakakibara:</b> That's one reason, and also, since this mechanism hasn't yet been available in mass-produced cars in Japan, we felt that we should at least do this much.
+<b>Magazine:</b> As for the body, from the outside the changes seem limited to things like the overriders and the rear wheel arches. However, with such a powerful engine, we imagine there have been many changes to the suspension and other areas as well…
 
-<b>Magazine:</b> As for the body, all we can see from the outside is that the overriders and rear wheel arches have been changed, but I imagine there have been many changes to the suspension and other parts to accommodate the more powerful engine... 
+<b>Sakurai:</b> From the standpoint of the manufacturer, competition in motor sports presents the most demanding conditions for designing a car. In order to ensure it can withstand that kind of use, we have reinforced many areas—more so than on the previous GT-A and GT-B models, particularly in the suspension.
 
-<b>Sakurai:</b> From the perspective of the manufacturer, the most difficult conditions the car will face are when it is used in competition. In order to be able to withstand such conditions, there are many more reinforced parts than in the previous GT-A and B. This is especially true of the suspension.
+As for the body itself, one of the main design priorities was to keep weight as low as possible, including equipment and interior fittings. For that reason, we did not consider items such as a torque converter automatic or air conditioning, and instead focused on the standard specification, bringing everything together as a more focused, performance-oriented package.
 
-The design focus point for the body itself was to keep the weight as light as possible, including the equipment and interior. Therefore, we didn't even think about things like torque converter automatics or air conditioners, and instead kept the level of equipment standard and made the car hotter. 
+In terms of body shape, the wheel arches have been enlarged to accommodate wider tires. Correspondingly, the chassis has been reinforced so that it can withstand the greater cornering forces these larger tires generate.
 
-The wheel arches of the body were enlarged to accommodate larger tires, and the chassis was reinforced to withstand the greater cornering forces produced by larger tires. The biggest difference in dimensions is that the track has been widened to 1370mm at the front and 1365mm at the rear to improve cornering characteristics when larger tires are fitted.  
+Dimensionally, the most significant change is the increase in track. The front has been widened to 1370mm and the rear to 1365mm, with the aim of improving cornering characteristics when using wider tires.
 
-The Skyline 2000GT has a master back brake servo, but since the pedal pressure changes depending on the engine boost with this system, we removed it and made it available as an option on the GT-R.
+As for the brakes, the Skyline 2000GT is equipped with a master back servo booster, but since pedal effort with this system can vary depending on engine boost, we have omitted it here as standard and instead made it available as an option.
 
-The springs are much stiffer, the exhaust is a full-fledged dual type in preparation for competition use, a large 100-liter fuel tank is installed, and the electromagnetic fuel pump, which was previously installed in the engine compartment, has been changed to a push-out type that is mounted in the trunk so that it is not affected by the engine temperature.
+The springs have been made considerably stiffer in preparation for competition use. The exhaust system is a fully-fledged dual type, and the fuel tank has been enlarged to 100 liters. Previously, the electromagnetic fuel pump was mounted in the engine bay, but to avoid the influence of engine heat, it has been relocated to the trunk, adopting a system that pushes fuel forward from the rear.
 
-<b><u>Race-Minded Design</b></u>
+<b><u>Designed with Racing in Mind</b></u>
 
 <b>Magazine:</b> How about the interior?
 
-<b>Sakurai:</b> We wanted to make heel-and-toe easier, so we made the accelerator pedal larger so it is easier to reach with the heel, and we changed the front-to-back position slightly so that it's easier to step on the accelerator while stepping on the brake. The seats are bucket-type, and are designed to hold the hips and lower back as firmly as possible so that the driver does not slide even during extreme cornering. 
+<b>Sakurai:</b> The accelerator pedal has been shaped to make heel-and-toe operation easier, with a wider heel section for better contact. We’ve also adjusted its fore-and-aft position slightly so that when braking, the driver can more easily reach the accelerator. As for the seats, the front seats are a bucket type designed to hold the lower body firmly, so that the driver doesn’t shift position even under extreme cornering.
 
-<b>Watari:</b> The placement of the pedals is great, but I wonder why they're so heavy. The clutch is light when you release it, but the release point is surprisingly high up, so if you stretch your foot out fully, the stroke becomes long. It seems like it's very heavy around the take-up point. The brakes also require a lot of force, so it seems like "heel-and-toe" would be impossible...
+<b>Watari:</b> The pedal layout is very good, but why do they feel so heavy? The clutch is light when you first depress it, but the engagement point is fairly high, and it feels particularly heavy toward the end of the pedal stroke, around the take-up point. The brakes also require a good deal of force, so I wonder if heel-and-toe might actually be difficult in practice…
 
-<b>Sakurai:</b> When I asked people who actually drove it, they didn't say that heel-and-toe was difficult because the pedal force was too heavy. We decided to use a diaphragm clutch because it is a car with a high-speed engine, but when we added a mechanical servo, the feeling changed constantly, so we decided to go with a firmer clutch because we felt that people who buy this car would be fine with a fairly hot one... (laughs).
+<b>Sakurai:</b> From what we’ve heard from those who have driven the car, the higher pedal effort hasn’t been much of an obstacle to using heel-and-toe. As for the clutch, we decided to use a diaphragm type since this is a high-revving engine. However, if we were to add a mechanical servo, the pedal feel would tend to change constantly. Given that this car is intended for drivers who expect something fairly “hot,” we accepted that level of heaviness… (laughs).
 
-<b>Watari:</b> That's a little different from what we were saying earlier about ease of use (laughs).
+<b>Watari:</b> That’s a little different from what we were saying earlier about ease of use (laughs).
 
-<b>Hirao:</b> When heel-and-toeing, the toe is the part of the foot that is holding the brake pedal down. So if the brakes are too light, it can be difficult to accomplish. Also, if the brakes are heavy, the clutch is made heavy to balance the control efforts, which I think is done on purpose in sports cars. However, since you can add a servo to the brakes as an option, it would be nice if the clutch could be made lighter to match that...
+<b>Hirao:</b> When performing heel-and-toe, the toe—the part of the foot holding the brake pedal down—tends to act as the anchor. If the brakes are too light, it can actually make the technique harder to execute. In that sense, if the brake requires more effort, it’s natural for the clutch to be made heavier as well, to maintain balance. I think that’s something that’s deliberately done in sports cars. Still, since a brake servo is available as an option, it might be better if the clutch could also be lightened to match...
 
-<b>Magazine:</b> The sedan-type body shape is a bit unusual for a car that can reach 200km/h. What does this mean in terms of aerodynamics?
+<b>Magazine:</b> For a car capable of 200km/h, the sedan-type body shape does raise some questions. How does it perform aerodynamically?
 
-<b>Tanaka:</b> Generally speaking, there is little running resistance. However, I would have liked to reduce the front lift a little more...
+<b>Tanaka:</b> In general, running resistance is quite low. That said, we would have liked to reduce front-end lift a bit more…
 
-<b>Hirao:</b> There must be a way to do it, such as lowering the nose a little more. For racing, you can also raise the rear.
+<b>Hirao:</b> There are ways to address that--lowering the nose slightly, for example. In racing, you could also raise the rear.
 
-<b>Tanaka:</b> It is 195mm longer than the four-cylinder Skyline sedan, so that certainly has an effect. However, the aerodynamics are the same for the 2000GT and the GT-R.
+<b>Tanaka:</b> Compared to the four-cylinder sedan, this car is about 195mm longer, which does have some effect. However, the 2000GT and the GT-R are the same in that regard.
 
-<b>Magazine:</b> How about the safety when driving at high speeds?
+<b>Magazine:</b> In terms of safety at high speeds, what measures have been taken?
 
-<b>Sakurai:</b> Compared to the 2000GT that has already been released, we haven't done anything to improve safety, especially inside the car, but we have adopted H-rated tires (high-speed tires that can be driven continuously at 205km/h) to prevent the most frightening punctures at high speeds. Of course, the car satisfies the safety standards that have been in effect since April 1st, but we were not particularly conscious of increasing safety at high speeds. However, there are many options to ensure safety for competition use.
+<b>Sakurai:</b> Compared to the 2000GT that has already been released, we haven’t made any particular changes to improve safety in areas such as the cabin. However, at high speeds, one of the greatest concerns is tire failure, so we’ve adopted H-rated tires, which are capable of continuous running at up to 205km/h. Naturally, the car complies with the safety regulations that came into effect on April 1, but beyond that, we haven’t made specific provisions solely for high-speed use. That said, we do offer a wide range of optional equipment intended to ensure safety in competition.
 
-<b><u>Acceleration From 0-400m in 15.6 Seconds!</b></u>
+<b><u>0-400m in 15.6 Seconds!</b></u>
 
-<b>Magazine:</b> Please tell us the results of the power performance tests that were conducted at Hirao Laboratory.
+<b>Magazine:</b> Let's hear the results of the Hirao Laboratory's power performance tests.
 
-<b>Furuya:</b> This test was conducted on the course at Nissan Motors' Murayama Plant. The vehicle weight at the time of measurement was 1316 kg, including three people and testing instruments. In terms of time to distance from a standing start, the results were 0-50m in 4.0 seconds, 0-100m in 6.3 seconds, 0-200m in 9.8 seconds, and 0-400m in 15.6 seconds.
+<b>Furutani:</b> This test was conducted on the course at Nissan Motors’ Murayama Plant. The vehicle weight during the test was 1316 kg, including three people and test instruments. From a standing start, in terms of time to distance, the results were 0-50m in 4.0 seconds, 0-100m in 6.3 seconds, 0-200m in 9.8 seconds, and 0-400m in 15.6 seconds.
 
-In terms of time to speed, it took 2.9 seconds to reach 40km/h, 4.4 seconds to reach 60km/h, 6.0 seconds to reach 80km/h, 8.3 seconds to reach 100km/h, and 10.9 seconds to reach 120km/h, all of which means it is a car with excellent acceleration. In particular, the 0-50m time of 4.0 seconds is a value that has never been seen before in a Japanese car.
+In terms of time to speed, it took 2.9 seconds to reach 40km/h, 4.4 seconds to reach 60km/h, 6.0 seconds to reach 80km/h, 8.3 seconds to reach 100km/h, and 10.9 seconds to reach 120km/h. This makes it a car with very strong initial acceleration. In particular, the 0-50m time of 4.0 seconds is unprecedented for a Japanese production car.
 
-<b>Hirao:</b> Has a foreign car ever done so?
+<b>Hirao:</b> Have any foreign cars managed that?
 
-<b>Oguchi:</b> None in Motor Fan testing. When we hit the 4-second mark, we also measured the force of acceleration, which dropped from 0.6g to 0.54g and then didn't drop any further. Normally, acceleration peaks at the start and then drops, but this car felt like it was maintaining a high g for a very long time. I think it's appropriate to say that it felt like you were being pinned back in the seat for a long time. The overtaking acceleration times in third gear were 1.2 seconds to go from 30km/h to 40km/h, 4.6 seconds to 60km/h, 7.4 seconds to 80km/h, 10.2 seconds to 100km/h, and 13.2 seconds to 120km/h.
+<b>Oguchi:</b> None in Motor Fan testing. When this car hit the 4-second mark, we also measured acceleration force. It started at 0.6g, dropped to 0.54g, and then held steady for a surprisingly long stretch. Normally, acceleration peaks and drops off quickly, but here the high g-force is sustained--it feels like the driver is being firmly held back in the seat for a long time. As for overtaking acceleration, starting from 30km/h in third gear, the times were 1.2 seconds to 40km/h, 4.6 seconds to 60km/h, 7.4 seconds to 80km/h, 10.2 seconds to 100km/h, and 13.2 seconds to 120km/h.
 
-<b>Hirao:</b> Is that about the same acceleration as a Porsche?
+<b>Hirao:</b> So the acceleration is about on par with a Porsche?
 
-<b>Tanaka:</b> The Porsche 911 has almost the same horsepower and weight, so I think it would be about as fast. Good power performance also translates to safety...
+<b>Tanaka:</b> The Porsche 911 has almost the same horsepower, so the performance is comparable. Strong power like this also contributes to safety…
 
-<b>Hirao:</b> Anyway, we are in an age where we have to talk about speed from a safety standpoint (laughs).
+<b>Hirao:</b> Well, in this day and age, we have to talk about speed in terms of safety anyway (laughs).
 
-<b>Magazine:</b> Is the 0-400m time of 15.6 seconds consistently achieved in the company's in-house testing?
+<b>Magazine:</b> This 0–400 m time of 15.6 seconds--is it repeatable in the company's in-house testing?
 
-<b>Tanaka:</b> Yes. I've even gotten times under 15 seconds. 
+<b>Tanaka:</b> Yes, the 15-second range is achievable consistently.
 
-<b>Oguchi:</b> The Fairlady 2000 has achieved the best 0-400m time in Motor Fan testing up until now, but at low speeds, this Skyline 2000GT-R is slightly faster, and their acceleration curves seem to cross around 400m. However, the Fairlady's acceleration was measured with two people on board, and we tested the Skyline GT-R with three on board, so considering that the GT-R has a larger load capacity, the results are almost the same.
+<b>Oguchi:</b> Up to now, the Fairlady 2000 has held the best 0-400m time in Motor Fan testing, but at low speeds, this Skyline 2000GT-R's times are actually slightly shorter, and their acceleration curves seem to cross around 400m. But the Fairlady’s acceleration was measured with two people on board, whereas the Skyline GT-R was tested with three--so accounting for the extra load, the performance is essentially the same.
 
-<b>Hoshijima:</b> Psychologically, this car feels faster than the Fairlady. This may be because of the better driving position and the fact that you're driving a sedan.
+<b>Hoshijima:</b> Psychologically, this car actually feels faster than the Fairlady. This may be due to the driving position and the sedan-style visual cues.
 
-<b><u>Difficult Bucket Seat Setting</b></u>
+<b><u>The Challenge of Setting the Bucket Seat</b></u>
 
-<b>Magazine:</b> The bucket seats in this car seem to be quite different, and this is a first for a Nissan car.
+<b>Magazine:</b> The bucket seats on this car are quite different from what we’ve seen before. This is a first for Nissan, right?
 
-<b>Tanaka:</b> Yes, structurally, we have done a lot of new things.
+<b>Tanaka:</b> Yes, structurally we have incorporated a number of new ideas.
 
-<b>Hoshijima:</b> I think the racing-style seats are very good, but for competition use, I think they would probably install a different seat anyway. Isn't the fact that they put such a cool seat in a production car more of a "selling point?"
+<b>Hoshijima:</b> I think the racing-style seats are great, but for actual competition use, people will probably switch to a different seat anyway. Still, having such a stylish seat in a production car is itself a selling point, isn’t it?
 
-<b>Miyamoto:</b> It's just like a fighter jet seat. If you put a parachute under it, it would look just like that (laughs).
+<b>Miyamoto:</b> It’s like a fighter jet seat--if you put a parachute in the back, it looks exactly the same (laughs).
 
-<b>Watari:</b> I don't think it would support your head when accelerating at 0.6g.
+<b>Watari:</b> I don’t think it would support your head properly when accelerating at 0.6g.
 
-<b>Sakurai:</b> When we were planning the seat, we assumed that there would be many more opportunities to drive at high speeds than in previous Skylines, given the way high-speed travel is evolving, so we gave a lot of thought to how the body would be supported, and we decided to break away from previous seat design concepts, but we're still in the consideration stage.
+<b>Sakurai:</b> When we planned the seat, we assumed the car would spend much more time at higher speeds than ordinary cars. We put a lot of thought into how the body would be supported, trying to break away from conventional seat concepts. But we’re still in the experimental stage.
 
-<b>Hirao:</b> Size requirements vary depending on the user, so if the seat could be tailored to fit the user like a dress shirt, there wouldn't be any complaints...
+<b>Hirao:</b> People have different body sizes, so ideally the seat should be custom-made like a dress shirt for each user. Then there’d be no complaints...
 
-<b>Terashima:</b> We decided on the dimensions by having people of all sizes sit in them, including heavier and thinner people, but our biggest concern was that the pressure on the sides of the hips could impair blood circulation. So we decided on a size that would allow even relatively large people, at least by Japanese standards, to sit comfortably without getting tired.
+<b>Terashima:</b> We tested the seats with people of all shapes and sizes--heavier, thinner--and set the dimensions that way. Our main concern was whether pressing on the sides of the hips would impede circulation. We decided on a size that would allow even relatively large people, at least by Japanese standards, to sit comfortably without getting tired.
 
-<b>Hirao:</b> I wonder if it's okay for women too (laughs). 
+<b>Hirao:</b> I wonder if it’s okay for women too (laughs).
 
-<b>Watari:</b> I'm sure there is a way to keep the base of the driver's legs from sliding around without raising the sides of the seat so much. I think the bolsters might make it a little difficult to get in and out. 
+<b>Watari:</b> I think there could be a way to hold the hips in place without raising the sides so much, but it might make getting in and out trickier.
 
-<b>Tanaka:</b> We thought more about the hold once seated than about sitting down, so while we did make the sides lower than the original plan, taking into account the ease of getting in and out, I actually wish they were higher.
+<b>Tanaka:</b> We focused more on supporting the body once seated than on ease of entry. The current shape is actually lower than our original plan, to make getting in and out easier. Ideally we’d make the side bolsters even higher.
 
-<b>Hoshijima:</b> I think it would be good to have support on the sides of the driver's knees as well.
+<b>Hoshijima:</b> I think it would be nice to have support around the driver’s knees too.
 
-<b>Hirao:</b> That's right, I would want them to support both my back and knees.
+<b>Hirao:</b> True, support for both the back and knees would be good.
 
-<b>Sakurai:</b> If the knee bolsters extend all the way forward, then it becomes like a true racing car seat, and makes it very difficult to get in and out.
+<b>Sakurai:</b> If the bolsters extend all the way to the knees, then it becomes like a true racing car seat, and getting in and out becomes very difficult.
 
-<b>Higuchi:</b> In my opinion, I would like to see seats that are a little easier to get in and out of as standard, and to have seats like the current ones available as an option. However, many customers who drive this car will want to show that they are driving a racing car, so I think it would be okay to keep the seats as they are now and just make them a little easier to get in and out of. 
+<b>Higuchi:</b> In my opinion, there should be standard seats that are a little easier to get in and out of, with the current aggressive bucket seats available as an option. But many of the people who buy this car will want to feel like they're in a racing car, so keeping the current shape--perhaps adjusted slightly for entry--is probably the right compromise.
 
 <b><u>Aiming For Weight Reduction</b></u>
 
-<b>Magazine:</b> Next, we would like to ask for the data on suspension frequency and noise measured by the Watari Laboratory. 
+<b>Magazine:</b> Next, could you share the data on suspension frequency and noise measured by the Watari Laboratory?
 
-<b>Tateishi:</b> First, regarding vibration, the sprung vibration frequency was 1.5 cps for both the front and rear wheels, while the unsprung vibration frequency was 15.0cps at the front wheels, and 16.0 cps at the rear wheels. In terms of interior noise, it was measured at 67 phons from 40km/h to 50km/h, 68 phons at 60km/h, 70 phons at 70km/h, 73 phons from 80km/h to 100km/h, 74 phons at 110km/h, and 75 phons at 120km/h. External noise was measured in second gear, with a reading of 74 phons when driving at a steady speed and 86 phons when accelerating. All of these figures were obtained while driving on Nissan's test course.
+<b>Tateishi:</b> First, regarding vibration, the sprung vibration frequency was 1.5 cps for both the front and rear wheels, while the unsprung vibration frequency was 15.0cps at the front wheels, and 16.0cps at the rear wheels. 
 
-<b>Watari:</b> The characteristics of the noise inside the car are a little different from those of a normal car, in that its relationship to speed is pretty flat. So, even though it starts off loud at low speeds, it seems to become quieter and quieter as the speed increases. It's not, actually; it's just that the noise level doesn't change much. There are some peaks, though, and at 40km/h in top gear, it may be too loud for a leisurely drive around town.
+In terms of interior noise, it was measured at 67 phons from 40-50km/h, 68 phons at 60km/h, 70 phons at 70km/h, 73 phons from 80-100km/h, 74 phons at 110km/h, and 75 phons at 120km/h. External noise was measured in second gear, with a reading of 74 phons when driving at a steady speed and 86 phons when accelerating. All of these figures were obtained while driving on Nissan’s test course.
 
-<b>Magazine:</b> I don't think there is much to complain about in terms of the sound or ride comfort with a car like this, but what was the impression during the test drive? 
+<b>Watari:</b> One notable feature of the interior noise is that, unlike in ordinary cars, the relationship to speed is relatively flat. So even if it seems loud at low speeds, it gives the impression of becoming quieter as speed increases. There are some peaks here and there, though, and at 40km/h in top gear it's a bit noisy for relaxed city driving.
 
-<b>Kumabe:</b> Considering the motivation behind making this car, it's fine for it to be a little noisy. If anything, they intentionally reduced the amount of soundproofing materials to make it lighter, so I thought they might be proud of this loud sound...
+<b>Magazine:</b> For a car like this, we wouldn’t expect many complaints about sound or ride quality, but how did it feel during the test drive?
 
-<b>Tanaka:</b> It's not that I'm proud of it (laughs), and I do think it's quieter than a Porsche, and is one of the quieter cars of this type. 
+<b>Kumabe:</b> Considering why this car was built, a little extra noise is acceptable. In fact, by reducing sound insulation to save weight, the slightly louder sound could even be seen as a point of pride.
 
-<b>Hirao:</b> I think Alfa Romeo and Jaguar E-Type were quieter when we tested those.
+<b>Tanaka:</b> I wouldn’t say we're proud of it (laughs). I think it’s quieter than a Porsche, and among this type of car, it’s actually on the quieter side.
 
-<b>Goto:</b> The E-Type has a loud engine.
+<b>Hirao:</b> I remember the Alfa Romeo and Jaguar E-Type were pretty quiet when we tested those.
 
-<b>Hoshijima:</b> Rather, I think it's the intake noise that is bothersome. 
+<b>Goto:</b> The E-Type actually has a fairly loud engine note.
 
-<b>Sakurai:</b> I think the sound coming out of the engine bay is influenced by the fact that we have used much less soundproofing material compared to the previous Skyline GT-A and GT-B. In order to make it lighter, we removed anything that added weight as much as possible, so it's easier for sound to enter the cabin.
+<b>Hoshijima:</b> While driving, it’s probably the intake sound that draws attention more than anything else.
 
-<b>Higuchi:</b> It makes me want a Deluxe GT-R (laughs).
+<b>Sakurai:</b> Compared to the previous Skyline GT-A and GT-B, the engine sounds more prominent because we used much less soundproofing material in the engine bay. To save weight, we eliminated anything we could reasonably do without, so the noise naturally comes through more easily.
 
-<b>Hirao:</b> The Benz 300SL has 3 liters and 240 horsepower. This one has 2 liters and 160 horsepower, so in terms of output per displacement, they are about the same. But since the Benz uses fuel injection, whereas this Skyline uses carburetors, I think the Skyline's engine is operating under stricter conditions mechanically. So even if you were to make a deluxe model, you might run into some difficult issues in terms of noise and vibration.
+<b>Higuchi:</b> It makes me want a GT-R Deluxe (laughs).
 
-<b><u>Surprisingly Good Fuel Economy Results</b></u>
+<b>Hirao:</b> The Benz 300SL has 3 liters and 240ps. This one has 2 liters and 160ps, so the power output per liter is similar. But the Benz uses fuel injection, whereas this Skyline still uses carburetors. That makes the conditions for noise and vibration control tougher. So even if you tried to make a deluxe version, managing noise and vibration could become quite a challenge.
 
-<b>Magazine:</b> How was the fuel economy?
+<b><u>Surprisingly Good Fuel Economy</b></u>
 
-<b>Oguchi:</b> Before our first test, we thought that because it's a GT-R, it would consume a lot of fuel, but when we measured it, we were surprised to find that its fuel efficiency curve didn't drop sharply at higher speeds, and the overall figures weren't that bad either. 
+<b>Magazine:</b> How did the fuel economy turn out?
+
+<b>Oguchi:</b> Before we tested it, we assumed the GT-R would consume a lot of fuel, but when we measured it, we were surprised to find that its fuel efficiency curve didn’t drop sharply at higher speeds, and the overall figures weren’t that bad either.
 
 In terms of constant-speed fuel economy, in direct fourth gear, the figures were 14.0km/l at 40km/h, 13.8km/l at 60km/h, 12.5km/l at 80km/h, 12.3km/l at 100km/h, 9.0km/l at 120km/h, and 6.9km/l at 140km/h. In overdrive fifth gear, the fuel consumption was 15.4km/l at 60km/h, 14.0km/l at 80km/h, 12.3km/l at 100km/h, 10.3km/l at 120km/h, 8.2km/l at 140km/h, and 5.7km/l at 160km/h. In other words, 60km/h in fifth gear is the most fuel-efficient way to drive.
 
-<b>Magazine:</b> What was the practical fuel consumption measured under conditions similar to driving in an urban area?
+<b>Magazine:</b> How was the model fuel economy in more realistic conditions, similar to driving in an urban area?
 
-<b>Oguchi:</b> When we simulated driving in a 40km/h speed limit zone, keeping our acceleration below 0.3g and stopping intermittently, our fuel consumption was 7.3km/l, with an average speed of 21.5km/h. When the speed limit was 60km/h and our average speed was 25.3km/h, the figure was 5.7km/l.
+<b>Oguchi:</b> When we set a target speed of 40km/h, keeping our acceleration below 0.3g and stopping intermittently as in normal driving, our fuel consumption was 7.3km/l, with an average speed of 21.5km/h. At a target speed was 60km/h and an average speed of 25.3km/h, the figure was 5.7km/l.
 
-<b>Magazine:</b> I see, that's relatively good. Has anything been done to improve the fuel economy?
+<b>Magazine:</b> Interesting--that’s relatively good. Have any special adjustments been made to improve fuel economy?
 
-<b>Sakai:</b> It's mainly a matter of carburetor settings, and since you can run the R380 engine at surprisingly low speeds, those who drive well and at a moderate pace can get good fuel economy.
+<b>Sakai:</b> It mostly comes down to carburetor settings. Even with the R380 engine, it runs surprisingly well at low speeds, so those who drive carefully in top gear can get good fuel economy.
 
-<b>Tanaka:</b> There is also the issue of air pollution. 
+<b>Tanaka:</b> There's also the issue of exhaust emissions, of course.
 
-<b>Sakai:</b> If you only aim for hot performance, exhaust problems will definitely arise. If you accelerate frequently, the fact that there are three carburetors will come into play and you will inevitably exceed the regulations, so setting the carburetors is difficult.
+<b>Sakai:</b> If you only aim for hot performance, exhaust problems will definitely arise. Frequent acceleration, combined with having three carburetors, makes it hard not to exceed regulations, so tuning the carburetors becomes difficult.
 
-<b>Magazine:</b> It seems that there is a way to reduce pollution while improving fuel efficiency by adopting electronically controlled fuel injection. Are you considering that as well? 
+<b>Magazine:</b> Some suggest electronically controlled fuel injection could improve fuel economy while reducing emissions. Is that something you’ve considered?
 
-<b>Tanaka:</b> It's not that I haven't thought about it, but it's not something that can be done quickly or hastily.
+<b>Tanaka:</b> It’s not that we haven’t considered it, but it's not feasible in the short term.
 
-<b>Okamoto:</b> Technically, I think it's now possible for almost any manufacturer to do this, but the biggest problem is the price.
+<b>Okamoto:</b> Technically, I think almost any manufacturer could do this now, but the biggest problem is cost.
 
-<b>Magazine:</b> Now, let's hear the results of the weight, alignment, and brake measurements carried out at the Ship Research Institute. 
+<b>Magazine:</b> Now, let’s hear the results of the weight, alignment, and brake measurements carried out at the Ship Research Institute.
 
-<b>Ishikawa:</b> The weight was 1144kg with a spare tire, tools, and a nearly full tank of fuel. The weight distribution is 613kg at the front and 531kg at the rear, with a front-to-rear ratio of 54:46, so the front end is heavier, but with five people on board, the rear becomes slightly heavier at 48:52.
+<b>Ishikawa:</b> Vehicle weight was 1144kg with a spare tire, tools, and a nearly full tank of fuel. The weight distribution is 613kg at the front and 531kg at the rear, with a front-to-rear ratio of 54:46, so the front end is heavier. With a full five passengers, it shifts slightly rearward to 48:52.
 
-Regarding wheel alignment, the front wheels have slight camber and toe-in, while the rear has almost zero camber with only the driver on board, but with five people on board, the rear wheels have significant negative camber. 
+Regarding wheel alignment, the front wheels have camber and toe-in adjustments, while the rear has almost zero camber with only the driver on board. With five people on board, the rear develops significant negative camber.
 
-The front brakes are discs, and the rear brakes are leading-trailing drums. The car does not have a brake  servo as standard, but the car we used for measurements had the optional 4.5-inch master back. When the front brakes start to work, the brake pedal pressure is 1-1.5kg, and for the rear brakes it is about 6kg. The relationship between the pedal travel and the pedal pressure is unique. The pressure is only about 0.1kg/mm to push through the initial "play" before the brakes start to work, but after the brakes start to work, the pedal suddenly stiffens to 1.5kg/mm.
+The brakes are discs at the front and leading-trailing drums at the rear. The car does not have a brake servo as standard, but the car we used for measurements had the optional 4.5-inch master back. The front brakes start to work at about 1-1.5kg of pedal pressure; for the rear brakes, it is about 6kg. The relationship between pedal travel and pedal effort is unique. The pressure is only about 0.1kg/mm before the brakes start to work, but once they do, the pedal suddenly stiffens to 1.5kg/mm.
 
-The servo's rest point is about 25kg of pedal pressure, and the pedal pressure at 0.6g deceleration was 20kg in a bench test. The brake pressure is distributed about 65:35, but it seems that the design is such that the rear brakes' share drops further if the deceleration is increased beyond 0.6g.
+The servo’s rest point is about 25kg of pedal pressure, and the pedal pressure at 0.6g deceleration was 20kg in the bench test. Brake force is distributed about 65:35 front-to-rear, but the rear brakes' share drops off when deceleration exceeds 0.6g--this seems intentional in the design. 
 
-The parking brake is a mechanical floor lever type that works on the rear wheels, and it is light, requiring a force of about 20kg to obtain a braking force of 0.2g, and a force of 25kg is sufficient to hold the car on a one-in-five grade.
+The parking brake is a mechanical floor lever type that works on the rear wheels. It's light, requring about 20kg of effort to achieve 20% of the total braking force; an effort of 25kg is sufficient to hold the car on a one-in-five grade.
 
-The gear lever throws are about 3kg for each gear, and the window cranks are light at about 1-3kg. However, the clutch weighs 8kg to engage and 10 to 12kg to disengage, and when disengaging it, you usually step on the toe board, in which case it is 30kg, which is somewhat heavy, as you said.
+The shifter is light to operate,  requiring around 3kg for each gear, and the window cranks are light at about 1-3kg. The clutch requires 8kg to engage and 10 to 12kg to disengage. To disengage, however, you normally press all the way to the toe board, in which case effort reaches about 30kg--somewhat heavy, as we heard earlier.
 
-<b><u>Feels Easy to Control</b></u>
+<b><u>A Sense of Controllable Handling</b></u>
 
-<b>Magazine:</b> I believe you also took a test drive after the measurements. What were your impressions?
+<b>Magazine:</b> We understand you also drove the car after completing the measurements. What were your impressions?
 
-<b>Ishikawa:</b> I thought that it would be very difficult to control the acceleration and deceleration of a car like this, but even though the acceleration and deceleration were sudden, it was not difficult to handle. What surprised me when I drove on the Tomei Expressway was how easy it was to pass all the other cars. I used the brakes a lot, but the stability when I stepped on them was good and I could drive without worry. 
+<b>Ishikawa:</b>  I had expected that controlling acceleration and deceleration might be quite difficult in a car like this, but although the changes in speed are very sharp, it isn’t at all difficult to handle. What surprised me on the Tomei Expressway was how effortlessly it could pass other cars one after another. I used the brakes frequently as well, and their stability when applied was very good--I was able to drive without any concern.
 
-<b>Tanaka:</b> I also asked some older people in the company to try it out, and they seemed to be able to drive it safely up to about 160km/h. 
+<b>Tanaka:</b> We also had some of the older staff in the company drive it, and they seemed quite at ease up to around 160km/h.
 
-<b>Hirao:</b> In Europe, cruising at about 160km/h is not that unusual.
+<b>Hirao:</b> In Europe, cruising at about 160km/h isn't particularly unusual, after all.
 
-<b>Hoshijima:</b> When I was driving on the Tomei Expressway, I accidentally took my eyes off the gauges and my speed increased a lot. Also, I noticed this when I kept the car overnight, but what bothered me more than the engine noise was the clicking of the electromagnetic fuel pump.
+<b>Hoshijima:</b> When I was driving on the Tomei, I absentmindedly took my eyes off the speedometer and found the speed creeping up. Driving at night, I realized that what caught my attention more than the engine noise was the clicking of the electric fuel pump.
 
-<b>Sakurai:</b> It would make a difference if there were some soundproofing material in the back, that's true.
+<b>Sakurai:</b> If we were to fit more sound insulation at the rear, it would certainly make a difference, but yes, that might be the case.
 
 <b>Magazine:</b> Next, please tell us about the data on handling and stability from Kondo Laboratory.
 
-<b>Akutsu:</b> In the understeer and oversteer tests, when accelerating on a 15m radius circle, there was weak understeer from 0 up to about 40km/h, which was a lateral acceleration of 0.75g. It started to reverse into oversteer around 0.8g, and we kept pushing in oversteer until we reached an indicated maximum of 0.96g. The steering force ranged from 0.5kg to a maximum of 5.8kg, and the roll rate was about 3.5°. The steering was quite heavy when the car was stationary, and the instrument we use to measure steering force went over scale at around 270° of steering angle, which means it was over 15kg. The steering force in the slalom test was about 2.5kg to the left and right at a lateral acceleration of 0.25g, and in the hands-free directional stability test, we tried driving at up to 180km/h for the first time since we began conducting this test, and even when we twitched and released the steering wheel at this speed, the car converged without any worries.
+<b>Akutsu:</b> In the oversteer and understeer tests, the car showed mild understeer when accelerating in a circle from 0-40km/h. The line began to tighten from a lateral acceleration of around 0.8g, and we tested it up to approximately 0.96g. Steering effort ranged from about 0.5kg to a maximum of 5.8kg, and the roll angle is about 3.5°. Stationary steering effort is quite high near full lock—at around 270°, the instrument went off scale, so it is likely over 15kg.
+
+In the slalom test, steering effort at 0.25g lateral acceleration was about 2.5kg in both directions. In the free-release directional stability test, we reached speeds of up to 180km/h--something we had not done before in this series of tests--and the car settled without any instability.
 
 <b>Magazine:</b> On the topic of handling, since this car is a sedan, how many passengers is the ideal weight distribution set for?
 
-<b>Sakurai:</b> The initial conditions we used to calibrate the car are with two people in the front seats, but we've made it so that the car doesn't become unstable even if there are more people on board, and we've also taken care to provide an optional stabilizer for use in races, etc. Therefore, I think the maneuverability is pretty much the same whether there are two or five people on board. 
+<b>Sakurai:</b> The original condition was set for two occupants in the front seats. We’ve made sure it remains stable even with a full load, and for racing, an optional stabilizer is available. So handling should feel essentially the same whether there are two or five people aboard.
 
 <b><u>Advanced Body Design System</b></u>
 
-<b>Yamamoto:</b> How about the pitching moments?
+<b>Yamamoto:</b> How about the pitching moment?
 
-<b>Sakurai:</b> Everything is within about 5% of the original plan. Nowadays, we can check things thoroughly during the design process, so there are fewer deviations in the center of gravity. In particular, the precision of weight estimation has improved, so it's almost as if the precision of cost estimation is worse (laughs). 
+<b>Sakurai:</b> It all falls within about 5% of our target values. These days, we’re able to carry out thorough checks after the design phase, and there’s very little deviation in the position of the center of gravity. In particular, the accuracy with respect to weight has improved considerably--if anything, cost estimates are now less precise by comparison (laughs).
 
-<b>Tanaka:</b> Body design has advanced so much that we no longer need to take large-scale measurements after prototyping.
+<b>Tanaka:</b> Body design itself has advanced to the point where we no longer need to make major modifications after the prototype stage.
 
-<b>Hirao:</b> The steering gear ratio is different from that of the Skyline 2000GT. Was that due to changes in the steering arm length or something?
+<b>Hirao:</b> The steering gear ratio is different from that of the Skyline 2000GT. Is that due to changing the arm lengths or something?
 
-<b>Tanaka:</b> The gear case itself is different. The ratio of the 2000GT is 19.8:1, the GT-R's is 18.5:1. To reduce weight, the gear case is made of aluminum.
+<b>Tanaka:</b> The gear case itself is different. The standard 2000GT has a ratio of 19.8:1, while this one is 18.5:1. To reduce weight, the gear case is made of aluminum.
 
 <b>Magazine:</b> Please tell us the results of the visual field measurements.
 
-<b>Hirata:</b> For these measurements, a dummy is placed in the driver's seat, and a camera with a fisheye lens is placed at the viewpoint of the driver to take the photos. The values ​​are different when the seat slide is moved forward or backward, but for our tests, ​​measurements are taken with the seat exactly in the middle position (the fifth of nine detents, in this case). For the GT-R, the visual field through the windshield is 80.5° from left to right, and 26.5° from top to bottom. The visible range through the rear window is 48°. The wiping range of the wipers is 69°, and the blind area through the horizontal plane, including the viewpoint itself, is about 65°.
+<b>Hirata:</b> For these measurements, we placed a dummy in the driver’s seat and positioned a fisheye lens at the eye point. The measurements vary depending on the seat's fore-aft position, but with the seat slide set at the middle notch (the fifth of nine, in this case), the results were as follows: the visual field through the windshield is 80.5° horizontally, and 26.5° vertically; the visible range through the rear window is 48°; the wiper sweep is 69°; and the horizontal blind angle, including the eye point, is about 65°.
 
-<b>Magazine:</b> We previously took these measurements on a Skyline 2000GT, and the results were slightly different.
+<b>Magazine:</b> You previously took these measurements on the Skyline 2000GT--there are some differences this time.
 
-<b>Hirata:</b> This is due to the GT-R's seats, which give the driver a lower viewpoint. In the GT-R, the viewpoint is 115cm from the ground, compared to 121.5 to 118.5 cm for the 2000GT.
+<b>Hirata:</b> This is due to the GT-R’s seats, which give the driver a lower viewpoint. In the GT-R, the viewpoint is 115cm from the ground, compared to 121.5 to 118.5 cm for the 2000GT.
 
-<b>Yamamoto:</b> Even though the body is the same, the viewpoint is lower, so the values ​​are slightly different, but the blind spots to the left and right are almost the same. The visible range through the rearview mirror was 36° to 36.5° in the Skyline 2000GT, but this time it has improved to 38°. Have any measures been taken to improve this?
+<b>Yamamoto:</b> Even though the body is the same, a lower eye point affects the numbers slightly. The horizontal blind spots are almost unchanged. The visible range through the rearview mirror was 36° to 36.5° in the Skyline 2000GT, but here it's improved to 38°. Were any special measures taken to achieve that?
 
-<b>Sakurai:</b> They are both the same. It must depend on the height of the viewpoint. 
+<b>Sakurai:</b> The mirrors are the same. The difference must come from the eye point height.
 
-<b>Magazine:</b> We have had the Higuchi Laboratory measure the exterior and interior dimensions, so let's please hear them.
+<b>Magazine:</b> Now, let's move on to the dimensional measurements from the Higuchi laboratory.
 
-<b>Onda:</b> The exterior dimensions aren't that different from the Skyline 2000GT. The main differences are that the tread is wider and the tires are H-type. 
+<b>Onda:</b> There isn't a great deal of difference in dimensions from the Skyline 2000GT. The main changes are that the tread is wider and the tires are H-type.
 
-Inside the car, the seats are full bucket type, narrower and set slightly lower than the spacious ones in the 2000GT. The seatbacks are fixed and do not tilt. The trunk contains the large 100-liter fuel tank, so there is less space for luggage, and perhaps to give it a hot feel, the tank and spare tire are exposed and there is no mat or bulkhead, which gives it a unique look. The accelerator pedal is larger, and is placed 20mm further back than the 2000GT. Also, the tachometer that goes up to 10,000rpm stands out.
+Inside, the seats are full bucket type. Compared with the more relaxed seats of the 2000GT, they’re narrower and set slightly lower at the base. The seatbacks are fixed and do not recline.
 
-<b>Tanaka:</b> An emergency flashlight and four-way hazard flasher are also installed as per regulations.
+In the trunk, the fuel tank has been enlarged to 100 liters, which reduces luggage space. Also, perhaps to emphasize the “hot” character, the tank and spare tire are left exposed, without a covering mat or partition, which gives a distinctive look.
 
-<b><u>High Performance and Safety</b></u>
+As for the pedals, the accelerator has been made larger and is mounted about 20mm further back than in the 2000GT. Among the gauges, the tachometer reading up to 10,000rpm stands out.
 
-<b>Magazine:</b> We would like to ask about the safety aspects that were investigated by Professor Higuchi.
+<b>Tanaka:</b> A flashlight for emergencies and four-way hazard flasher switch have also been fitted, in accordance with regulations.
 
-<b>Higuchi:</b> In the methodology of our safety checks, there are some features that can increase a car's score even if they seem only superficial, so because this GT-R offers only standard equipment, it receives a lower score in some areas. 
+<b><u>Safety Comes with High Performance</b></u>
 
-For example, the lack of a heater, defroster, and grab handles cause the car to lose a few points. But there are also some improvements over the Skyline 2000GT, so the overall rating is almost the same. It is clear that safety is improved by the more responsive acceleration, and that the seats and other features make the car substantially safer. So if you often drive at high speeds, or if you plan to participate in races, I think this car is a good choice among the wide range of options available.
+<b>Magazine:</b> We'd now like to hear Professor Higuchi's evaluation of the safety aspects.
 
-As for maintenance, I would like to have a manual that includes more technical data specifically for the GT-R. Also, I would like to see simplified explanations for the things that are common to the general Skyline 2000GT. It's a bit unhelpful that the recommended oil grade is specified only for the gear oil, and more broadly, an owner's manual typical of a normal sedan is not sufficient for this car.
+<b>Higuchi:</b> Our safety checks are based on visual inspection, and in some cases, even items that are little more than decorative will improve the score simply by being present. Since this GT-R is in standard specification, there are areas where it loses points as a result.
 
-<b>Magazine:</b> We understand that a wide variety of options are available. Could you please explain them to us?
+For example, the absence of items such as a heater, defroster, or grab handles lower the score somewhat. That said, there are also areas where it improves upon the 2000GT, so the overall rating is nearly the same. It’s clear, however, that practical safety has been enhanced through improvements in acceleration performance and seating, among other factors.
 
-<b>Sakurai:</b> In terms of the engine, the pistons, camshafts, exhaust manifolds, etc. can all be changed to tune the performance characteristics. There are also oil coolers, large-capacity radiators, and carburetors such as Weber's 45DCOE and Solex's large-diameter N44PHH, as well as high-voltage cords and generators that can all be used to set the car up for races and other competitions.
+For those who intend to drive at higher speeds or participate in racing, I think this is a car that can be very well suited by selecting from the wide range of available options.
 
-In terms of the chassis, there are two types of transmissions, two types of final drive, a more aggressive limited-slip differential, and of course there are springs and stabilizers for circuit driving, oil dampers with higher damping force, and a quicker steering gear with a ratio of 15.2:1.
+On maintenance, I’d offer a small critique: I would like to see a manual with technical data specific to the GT-R included. For items shared with the standard 2000GT, the manual could also explain things more clearly. For example, specifying only “gear oil” without further detail is somewhat unhelpful. In short, an owner’s manual intended for an ordinary sedan doesn't quite cover what's needed for this car.
 
-Other options include a high-flow electromagnetic fuel pump and harder brake linings, as well as more general options such as a radio, heater, brake servo, and steering lock. Of course, there are also rollbars, competition seat belts, and even powerful wipers for rallies.
+<b>Magazine:</b> We understand that a wide array of optional equipment is available. Could you walk us through those?
 
-<b><u>Depending On the Tuning, it Can Reach Up to 200hp!</b></u>
+<b>Sakurai:</b> In terms of the engine, performance characteristics can be altered through components such as pistons, camshafts, and exhaust manifolds. There are also items like an oil cooler, a higher-capacity radiator, and carburetors, including Weber 45DCOE units or larger-diameter Solex N44PHH types. In addition, high-voltage ignition leads and generators can be specified to set the car up for racing or other forms of competition. 
 
-<b>Magazine:</b> Clearly, there are a lot of options for racing as well as road use. But how much would it cost to tune the car up using these?
+On the chassis side, there are two types of transmission and two types of final drive, as well as alternative limited-slip differentials for those who want a stronger effect. Naturally, there are also springs and stabilizers for circuit driving, along with oil dampers offering higher damping force. A quicker steering ratio of 15.2:1 is also available.
 
-<b>Sakurai:</b> If you have the dealer do it, remove the engine, redo everything, and check the performance on a chassis dynamometer, it would cost about 600,000 yen, depending on the level of tuning. 
+Other options include a high-flow electromagnetic fuel pump and harder brake linings, as well as more general options such as a radio, heater, brake servo, and steering lock. And of course, equipment such as roll bars, harnesses, and even heavy-duty wipers for rally use are available.
 
-<b>Magazine:</b> How much would output improve over the stock 160ps?
+<b><u>Tuning Can Yield 200ps!</b></u>
 
-<b>Tanaka:</b> It depends on the skill... 
+<b>Magazine:</b> There seem to be quite a number of competition-oriented parts in addition to those for road use. If one were to carry out a full tune using these components, how much would it cost?
 
-<b>Hirao:</b> I think it would be easy to achieve 200ps.
+<b>Sakurai:</b> If it’s done properly through a dealer--removing the engine, rebuilding it completely, and checking performance on a chassis dynamometer--then depending on the extent of the tuning, it would cost around 600,000 yen.
 
-<b>Magazine:</b> With such an engine, if they could come up with something a little more sporty in style, we would love to see that released.
+<b>Magazine:</b> How much improvement could be expected over the standard 160ps?
 
-<b>Tanaka:</b> That's what some people say, but also, because it's a high performance car yet doesn't have a special appearance, others say they like that it can be used on a daily basis, so it's quite difficult (laughs).
+<b>Tanaka:</b> It depends on the skill of the tuner…
 
+<b>Hirao:</b> I think achieving 200ps should be quite easy.
+
+<b>Magazine:</b> With an engine like this, one might hope for an even more overtly sporting style--a version like that would be great to see as well.
+
+<b>Tanaka:</b> That’s what some people say. On the other hand, there are also those who appreciate that, despite its high performance, it doesn't have an overly specialized appearance and can be used in everyday situations. It's a difficult balance to strike (laughs).
+
+<b>Magazine:</b> Thank you all for your time and for the information.

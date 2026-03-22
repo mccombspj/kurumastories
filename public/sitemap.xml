@@ -29,9 +29,6 @@
     <loc>http://localhost:1313/nissan/cherry/cg-rt-nissan-cherry-coupe-x-1-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nissan/cherry/mf-bs-nissan-cherry-coupe-1200-x-1-1971/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/laurel/cg-ri-nissan-laurel-hardtop-2000gx-2000sgx-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -139,6 +136,9 @@
   </url><url>
     <loc>http://localhost:1313/honda/honda-1300/cg-rt-honda-1300-77-deluxe/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/cherry/mf-bs-nissan-cherry-coupe-1200-x-1-1971/</loc>
+    <lastmod>2026-03-20T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/familia/mf-tdr-mazda-familia-rotary-ss-1969/</loc>
     <lastmod>2026-02-24T04:50:49-07:00</lastmod>
@@ -365,19 +365,22 @@
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/cherry/</loc>
+    <lastmod>2026-03-20T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/</loc>
+    <lastmod>2026-03-20T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-03-20T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/honda/</loc>
     <lastmod>2026-03-19T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/honda-z/</loc>
     <lastmod>2026-03-19T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-19T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/gloria/</loc>
-    <lastmod>2026-03-18T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/</loc>
     <lastmod>2026-03-18T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/sunny/</loc>
@@ -507,9 +510,6 @@
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/savanna/cg-ri-mazda-savanna-gt-1972/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/cherry/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/violet/</loc>
