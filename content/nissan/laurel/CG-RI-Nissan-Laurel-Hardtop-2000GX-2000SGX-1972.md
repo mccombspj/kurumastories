@@ -75,7 +75,7 @@ draft = false
 
 
 
-The Nissan Laurel, which pioneered the intermediate car class in Japan, underwent its first full model change on April 4th, closely following its rival, the Corona Mark II. As a result, the Laurel now has a larger, newly designed body that is closer in size to the Cedric. In addition to the previous G18/G20 four-cylinder engines, the series now also includes the L20 six-cylinder engine found in the Cedric/Gloria, Skyline GT, and Fairlady Z. The body is available in four-door sedan and two-door hardtop configurations. The hardtops retain the previous four-wheel independent suspension with MacPherson struts and coil springs in the front and semi-trailing arms and coil springs in the rear, while the sedans changed the rear suspension to a rigid leaf spring type (a step backward?).
+The Nissan Laurel, which pioneered the intermediate car class in Japan, underwent its first full model change on April 4th, closely following its rival, the Corona Mark II. As a result, the Laurel now has a larger, newly designed body that is closer in size to the Cedric. In addition to the previous G18/G20 four-cylinder engines, the series now also includes the L20 six-cylinder engine found in the Cedric/Gloria, Skyline GT, and Fairlady Z. The body is available in four-door sedan and two-door hardtop configurations. The hardtops retain the previous four-wheel independent suspension with MacPherson struts and coil springs in the front and semi-trailing arms and coil springs in the rear, while the sedans' rear suspension has changed to a rigid leaf spring type (a step backward?).
 
 
 
