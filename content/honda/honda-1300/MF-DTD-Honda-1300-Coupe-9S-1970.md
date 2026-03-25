@@ -157,11 +157,11 @@ Now, let's move on to the main topic and get into my opinions.
 
 
 
-In terms of my personal preferences, I honestly don't care much about interior comfort or exterior styling. That's probably why I am involved in racing, because what I'm really interested in is power and handling. If you asked me to describe the true joy of racing, I would say it is the constant pursuit of the limits, always challenging the machinery. I apologize for sounding like I think I know what I'm talking about, but I truly believe the point I want to make next. It's a big mistake to think that cars simply go where they are pointed naturally. It is because of the efforts of all manufacturers, not just in Japan but all around the world, and who go to great lengths, that cars can be made to follow the driver's intended line. 
+In terms of my personal preferences, I honestly don't care much about interior comfort or exterior styling. That's probably why I am involved in racing, because what I'm really interested in is power and handling. If you asked me to describe the true joy of racing, I would say it is the constant pursuit of the limits, always challenging the machinery. I apologize for sounding like I think I know what I'm talking about, but I truly believe the point I want to make next. It's a big mistake to think that cars simply follow the driver's intentions naturally. It is because of the efforts of all manufacturers, not only in Japan but all over the world, each going to great lengths, that cars can be made to faithfully follow the intentions of the driver. 
 
 
 
-The current situation is that we are somehow able to create cars that do so by accumulating experiments day after day to determine what is wrong with a car dynamically, and then improve it. The power of the racer, or rather the driver, plays a major role. What the driver feels during each test is essential to creating a safer car. In some ways, it is not an exaggeration to say that a single driver's feeling determines everything.
+The current situation is that we are somehow able to create cars that do so by accumulating experiments day after day to determine a car's dynamic faults, and then improve them. The influence of the racer, or rather the driver, plays a major role. What the driver feels during each test is essential to creating a safer car. In some ways, it is not an exaggeration to say that a single driver's feeling determines everything.
 
 
 
@@ -229,7 +229,7 @@ Moreover, alongside its advantages, FF also has disadvantages. Namely, it combin
 
 
 
-I said earlier that even small things can take a considerable amount of time and effort, and this is exactly why.
+I said earlier that even small fixes can take a considerable amount of time and effort, and this is exactly why.
 
 
 

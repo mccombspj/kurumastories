@@ -80,7 +80,7 @@ As for the power unit, in addition to the 58ps and 80ps engines already familiar
 
 First is the A10-type 998cc unit, with a maximum output of 58ps/6000rpm and maximum torque of 8.0kgm/4000rpm, which powers the 1000 Deluxe. Its compression ratio of 9.0 is common to all Cherry engines.
 
-Second is the A12-type 1171cc unit (compression ratio 9.0), with a maximum output of 68ps/6000rpm and maximum torque of 9.7kgm/3600rpm, which powers the 1200 Deluxe, GL, and GL-L. This is the same unit currently used in the Sunny 1200.
+Second is the A12-type 1171cc unit, with a maximum output of 68ps/6000rpm and maximum torque of 9.7kgm/3600rpm, which powers the 1200 Deluxe, GL, and GL-L. This is the same unit currently used in the Sunny 1200.
 
 Last is the A12-type 1171cc with SU twin carburetors, a maximum output of 80ps/6000rpm, and maximum torque of 9.8kgm/4400rpm, which powers the 1200 X-1 and X-1L.
 
