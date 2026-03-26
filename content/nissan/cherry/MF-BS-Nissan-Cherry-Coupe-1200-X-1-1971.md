@@ -106,7 +106,7 @@ The catalog lists a top speed of 160km/h, but in practice the speedometer needle
 
 The A12 engine, already well proven in the Sunny Coupe, is above all a light, willing revver. With bore and stroke dimensions of 73 × 70mm, its slightly short-stroke design contributes to an exceptionally smooth character. Even beyond 6000rpm, there is little sense of the power tapering off, and its extension at high revs is genuinely impressive.
 
-At the other end of the scale, the engine also displays notable tenacity at low speeds, likely aided by the car’s low weight. In top gear, 1000rpm at 25km/h is comfortably within the usable range, and even 700rpm at around 20km/h can be managed with a bit of care. In third gear, the car will pull from as low as 15km/h.
+At the other end of the scale, the engine also displays notable tenacity at low speeds, likely aided by the car’s low weight. In top gear, 25km/h at 1000rpm is comfortably within the usable range, and even 20km/h at around 700rpm can be managed with a bit of care. In third gear, the car will pull from as low as 15km/h.
 
 However, this inherent flexibility is somewhat undermined by the difficulty of throttle control. The issue lies in the relatively large throttle opening angle for very small movements of the accelerator pedal.
 

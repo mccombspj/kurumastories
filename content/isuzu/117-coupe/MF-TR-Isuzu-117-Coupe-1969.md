@@ -61,7 +61,7 @@ draft = false
 
 <b><u>Isuzu 117 Coupe: High-Speed Tourer</b></u>
 
-At last, Isuzu has released the Isuzu 117 Coupe, the company’s interpretation of the ultimate luxury tourer. Its flowing lines, styled by the renowned Italian carrozzeria Ghia, have been eagerly awaited for mass production ever since the car’s appearance at the 13th Tokyo Motor Show. Seizing the opportunity, Motor Fan set out to evaluate the true capabilities of the 117 Coupe, undertaking a demanding 570km touring test over every kind of terrain, including expressways, mountain roads, and rough surfaces.
+At last, Isuzu has released the 117 Coupe, the company’s interpretation of the ultimate luxury tourer. Its flowing lines, styled by the renowned Italian carrozzeria Ghia, have been eagerly awaited for mass production ever since the car’s appearance at the 13th Tokyo Motor Show. Seizing the opportunity, Motor Fan set out to evaluate the true capabilities of the 117 Coupe, undertaking a demanding 570km touring test over a wide variety of conditions, including expressways, mountain passes, and rough roads.
 
 <b><u>Through a Rainy Night</b></u>
 
@@ -71,15 +71,15 @@ In preparation, we had sought to plan a route capable of fully exploiting the ab
 
 The test car's odometer already showed more than 1,300 kilometers.
 
-If this was the result of thoughtful preparation on the manufacturer’s part, it was a welcome one, sparing us the need for any break-in concerns.
+If this was the result of thoughtful preparation on the manufacturer’s part, it was most welcome, sparing us the need for any break-in concerns.
 
-Our route first took us along the Tomei Expressway toward Atsugi. The rain steadily grew heavier. From there we followed Route 246 to Matsuda, then turned onto Route 255 and continued on to Odawara.
+Our route first took us along the Tomei Expressway toward Atsugi. Along the way, the rain grew steadily heavier. From there we followed Route 246 to Matsuda, then turned onto Route 255 and continued on to Odawara.
 
-To reach the mountains of Hakone, we chose the familiar Turnpike, with its steep gradients and demanding curves--just the right environs to draw out the car’s high-performance character.
+To reach the mountains of Hakone, we chose the Turnpike as usual, with its steep gradients and demanding curves--just the right environs to draw out the car’s high-performance character.
 
-Up to now, most of our test drives have been limited to daytime conditions. But if a car is to be called a tourer, then it cannot truly be judged without testing the ability to travel comfortably in all conditions that the name implies. Night driving thus becomes an important factor, and driving in the rain is equally significant.
+Up to now, most of our test drives have been limited to daytime conditions. But if a car is to be called a tourer, then it cannot truly be judged without testing its ability to travel comfortably in all conditions, as the name implies. Night driving thus becomes an important factor, and driving in the rain is equally significant.
 
-For this trial, we deliberately chose to drive the Tokyo-to-Hakone route at night. Strangely enough, the rain turned out to be a blessing, perfectly fulfilling both conditions at once.
+For this test, we deliberately chose to drive the Tokyo-to-Hakone route at night. Strangely enough, the rain turned out to be a blessing, perfectly fulfilling both conditions at once.
 
 Leaving the city behind, the smooth, Italian-bred styling of the coupe stood out vividly under the glow of streetlights, clearly drawing people’s attention.
 
@@ -99,7 +99,7 @@ Leaving the city behind, the smooth, Italian-bred styling of the coupe stood out
 
 <b>Araki:</b> The front grille is stylish too: a black mesh background with a thin horizontal chrome bar running across it, and the lion emblem placed at the center. It’s tasteful in a subtly clever way. That said, when viewed from the rear, despite the overall neatness, the coke-bottle treatment bulges a bit and comes across as slightly heavy.
 
-<b>Todoroki:</b> I don’t see it that way myself. It’s less a "coke-bottle line" than a natural flow, and the degree of fender flare doesn’t upset the overall balance. From the front it looks extremely slim, while from the rear it has a certain voluptuous glamour. It’s the harmony between the two that should be appreciated.
+<b>Todoroki:</b> I don’t see it that way myself. It’s less a "coke-bottle line" than a natural flow, and the degree of fender flare doesn’t upset the overall balance. From the front it looks extremely slim, while from the rear it has a certain voluptuous glamour. It’s the harmony between the two that deserves appreciation.
 
 <b>Araki:</b> Despite having a road clearance of 180mm, which is about the same as a sedan, the overall height is an extremely low 1320mm. With this layout, headroom becomes a little tight, but the seats ought to be able to be set lower. Of course, doing so would make the nose appear visually longer to the driver, making the car more difficult to place, so there’s a trade-off involved.
 

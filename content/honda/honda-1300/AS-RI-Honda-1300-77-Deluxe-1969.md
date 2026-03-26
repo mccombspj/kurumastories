@@ -56,7 +56,7 @@ draft = false
 
 
 
-A quiet but powerful air-cooled engine and a hard clutch. Outstanding acceleration and high-speed stability. Even when the Honda 1300's redline was exceeded in each gear, the engine was unperturbed, and the car responded like a rabbit...
+A quiet but powerful air-cooled engine and a hard clutch. Outstanding acceleration and high-speed stability. Even when the Honda 1300's redline was exceeded in each gear, the engine remained unfazed, and the car responded like a rabbit...
 
 
 
