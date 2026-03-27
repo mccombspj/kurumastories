@@ -357,4 +357,4 @@ Other options include a high-flow electromagnetic fuel pump and harder brake lin
 
 <b>Tanaka:</b> That’s what some people say. On the other hand, there are also those who appreciate that, despite its high performance, it doesn't have an overly specialized appearance and can be used in everyday situations. It's a difficult balance to strike (laughs).
 
-<b>Magazine:</b> Thank you all for your time and for the information.
+<b>Magazine:</b> Thank you all for your time.

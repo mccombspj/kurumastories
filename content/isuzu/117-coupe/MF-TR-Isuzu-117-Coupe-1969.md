@@ -135,7 +135,7 @@ The shift lever is also very well judged. Your left hand naturally drops from th
 
 <b>Todoroki:</b> Given the character of this car, there probably isn't much need for heel-and-toe driving, but if you tried it, it would be very easy to do.
 
-<b>Araki:</b> This is something you wouldn’t notice unless you drove at night, but in the Florian, by the same Italian designer, the light switches have small tactile rings to make them easy to distinguish. That’s a clever idea. I wonder why they didn’t adopt it on the 117 Coupe?
+<b>Araki:</b> This is something you wouldn’t notice unless you drove at night, but in the Florian, styled by the same Italian designer, the light switches have small tactile rings to make them easy to distinguish. That’s a clever idea. I wonder why they didn’t adopt it on the 117 Coupe?
 
 <b>Todoroki:</b> Well, you get used to it, and that’s true for most other cars anyway. By the way, the wipers are excellent.
 
@@ -193,7 +193,7 @@ What’s the secret? The engine uses the block from the Bellett 1600GT, with the
 
 <b>Araki:</b> The same goes for the transmission. The relatively low gear ratios make city driving easy, while at high speed the engine’s extended range covers everything. They’ve managed to balance user-friendly drivability with a car that can still be driven hard. 
 
-That said… I’d still like a fifth gear. At highway speeds it would lower engine noise and make things more relaxed. The car’s geared a little low, and the engine's revs run high even on the expressway.
+That said… I’d still like a fifth gear. At highway speeds it would lower engine noise and make things more relaxed. The car’s geared a little low, and the engine revs high even on the expressway.
 
 <b>Todoroki:</b> This engine is so flexible that a 5-speed gearbox might not technically be necessary. Even so, considering fuel economy, noise, and the car’s class, it would probably be better to have one.
 
@@ -227,7 +227,7 @@ From the fifth station we continued on to the Takizawa forest road. Even on roug
 
 <b>Todoroki:</b> That’s a fair question, but overall, this suspension has a character that’s in no way inferior to a good independent setup. Given the nature of this car, it’s unlikely to be driven on rough roads very often anyway.
 
-What impressed me most were the tires. A large part of the excellent road holding seems to be attributable to them. Even in fairly tight corners, they hardly squealed at all.
+What impressed me most were the tires. A large part of the excellent road holding seems to be attributable to these tires. Even in fairly tight corners, they hardly squealed at all.
 
 <b>Araki:</b> They’re using 6.45H-14 tires, which are quite wide for a 1.6-liter car, and that clearly improves grip. And they don’t seem to pick up surface irregularities much, either. That may well be due to the gas-charged dampers.
 
@@ -255,7 +255,7 @@ Among foreign cars--especially European high-speed tourers--it is not uncommon t
 
 The Fuji-Shizuoka section of the Tomei Expressway is, at present, the only seaside highway open in Japan. With strong winds blowing in directly from Suruga Bay, cars are relentlessly buffeted, and no matter how good the road surface may be, failing to account for these crosswinds can sometimes lead to trouble.
 
-On this day the weather was clear, but winds exceeding 10m/s were blowing, and the shock is especially noticeable when emerging from tunnels.
+On this day the weather was clear, but the wind gusts were exceeding 10m/s, and the shock was especially noticeable when emerging from tunnels.
 
 The 117 Coupe, however, behaved quite differently from most cars. As one would expect from its aerodynamically refined shape, the faster it went, the more it seemed to cling to the road. Even in strong crosswinds, it quickly became apparent that the car was remarkably resistant to their effects.
 
@@ -265,7 +265,7 @@ One more thing surprised us: even at around 100km/h, opening the window slightly
 
 Returning to Fujinomiya, we continued via Route 1 and over the Hakone Pass back to Tokyo. Over the full distance of 573km--368km of which was measured from Lake Yamanaka to Tokyo--the fuel consumption came out to 9.05km/l. The manufacturer cites an average touring fuel economy of 10km/l, and considering how hard we drove on this trip, a typical driver should have no trouble maintaining this figure. For a GT car, it can be considered quite economical.
 
-<b>Todoroki:</b> Entering the Tomei, I floored the accelerator to get up to speed. I felt nothing like a sudden jolt of acceleration, but when I looked at the speedometer, I was surprised at how fast we were actually going--that’s the real impression this car gives.
+<b>Todoroki:</b> Entering the Tomei, I floored the accelerator to get up to speed. I felt nothing like a sudden jolt of acceleration, but when I looked at the speedometer, I was surprised at how fast we were actually going--that’s the real essence of this car.
 
 <b>Araki:</b> The feel is smooth and soft. Those who expect razor-sharp response might be disappointed, but isn’t this precisely the kind of character one associates with European cars?
 
@@ -289,7 +289,7 @@ I almost forgot--the horn has a wonderful tone. It’s a crisp sound, unlike any
 
 <b>Araki:</b> The tone is good, and it carries well. It's perfect for highways. There are a few minor things you might quibble over, but after driving over 500km, you really appreciate the car's fundamental qualities.
 
-<b>Todoroki:</b> We tested it under all sorts of conditions, and in terms of overall performance, it strikes me as exactly what a grand touring car should be. And, well... at a price of 1.72 million yen, it certainly ought to be...
+<b>Todoroki:</b> We tested it under all sorts of conditions, and in terms of overall performance, it strikes me as exactly what a grand touring car should be. And, well... at a price of 1.72 million yen, it certainly ought to...
 
 
 <b><u>Postscript: Story Photos</b></u>

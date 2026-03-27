@@ -99,7 +99,7 @@ Every one of these features represents work that carries the full weight of our 
 
 <b>Hamada:</b> It is simply the car’s internal project number, and it has no meaning beyond that. In fact, at the 1966 Tokyo Motor Show, the car was not originally scheduled to be exhibited at all, but it was decided at the last moment that it would go on display. Since it had no official name, we showed it as a reference model under its internal prototype number, as the “117 Sport.”
 
-That name turned out to be unexpectedly well received. It sounded good, and it gained a reputation among younger people, so the car ended up becoming known as the 117 Coupe. So, when we decided to release it, the overwhelming opinion was that it would be better to keep the name rather than change it. In the end, it was officially decided to use the name "Isuzu 117 Coupe" just as it was.
+That name turned out to be unexpectedly well received. It sounded good, and it gained recognition among younger people, so the car ended up becoming known as the 117 Coupe. So, when we decided to release it, the overwhelming opinion was that it would be better to keep the name rather than change it. In the end, it was officially decided to use the name "Isuzu 117 Coupe" just as it was.
 
 <b>Hirao:</b> This is a fairly general issue, but in the copy used for passenger-car advertising you often see phrases like "Top speed 200km/h!" or "0-400m in 16.8 seconds." I’m often asked, particularly by people from what might be called the anti-motorization camp, what does that kind of claim actually mean? They’ll ask, why does a passenger car need that sort of performance?
 
