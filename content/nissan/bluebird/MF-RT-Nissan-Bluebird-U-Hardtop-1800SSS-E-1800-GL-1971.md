@@ -143,7 +143,7 @@ And if you think of it as clothing, then of course you need accessories--a tie, 
 
 <b>Oguchi:</b> The 510, by contrast, looks smaller than its actual dimensions.
 
-<b>Magazine:</b> The wheel arch area is slightly recessed…
+<b>Magazine:</b> The wheel arch area curves slightly inward…
 
 <b>Mizutsu:</b> That’s actually a first for us. The rear fender rises in a kind of Coke-bottle shape, which can make the rear look heavy. So we recessed that area to visually lighten it.
 
