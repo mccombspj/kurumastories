@@ -45,15 +45,15 @@ Since its launch in August 1959, the Bluebird has sold around two million units.
 Building on the proven reliability of the 510, we developed the U series with greater diversification and a more upmarket orientation in mind.
 
 Our key development targets were:
-1. To build on reliability while pursuing greater appeal and richness in quality
+1. To build on functionality while pursuing greater appeal and richness in quality
 2. To meet market demand with a wide range of variants
 3. To further improve reliability
 4. To ensure safety
 5. To thoroughly pursue labor-saving design in production
 
-In terms of size, the U is one class up from the 510. Overall length is 4215mm (+95mm), wheelbase 2500mm (+80mm), and width 1600mm (+40mm). Height, however, is slightly lower at 1405mm. Vehicle weight has increased by about 30kg.
+In terms of size, the U is one class up from the 510. Overall length is 4215mm, 95mm longer; the wheelbase is 2500mm, 80mm longer; and width is 1600mm, 40mm wider. Height, however, is slightly lower at 1405mm. Vehicle weight has increased by about 30kg. 
 
-Stylistically, it adopts a long-nose, short-deck proportion.
+Stylistically, it adopts long-nose, short-deck proportions.
 
 On the technical side, we’ve further improved performance, including upgrades to the 1.6-liter engine. In addition, we offer a 1.8-liter engine with electronic fuel injection, as well as a carbureted version of the same displacement.
 
@@ -65,7 +65,7 @@ We’ve also improved the heater and air conditioning capacity, and some models 
 
 Ride quality has benefited from the longer wheelbase, reducing pitching and improving overall comfort.
 
-For driving performance, we placed particular emphasis on improving straight-line stability to make the car easier to use. This was achieved through revisions to front suspension geometry and careful tuning of front-to-rear roll stiffness distribution.
+For driving performance, we placed particular emphasis on improving straight-line stability to make the car easier to drive. This was achieved through revisions to front suspension geometry and careful tuning of front-to-rear roll stiffness distribution.
 
 In terms of production efficiency, we’ve reduced assembly labor by roughly 25-30% compared to the 510. As for safety, we’ve followed essentially the same philosophy as the 510.
 
