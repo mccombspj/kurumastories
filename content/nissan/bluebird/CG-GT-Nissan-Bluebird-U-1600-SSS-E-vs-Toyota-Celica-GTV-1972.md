@@ -131,7 +131,7 @@ As for the Bluebird U 1600 SSS-E, we were impressed by the overwhelming improvem
 
 
 
-However, when we conducted a slalom test at 80-90km/h, weaving through pylons lined up at 30m intervals at Yatabe, the limitations of the Bluebird's narrow bias-ply tires were revealed. When the throttle was closed to eliminate the excessive understeer, the tail swung out, and the yaw angle gradually increased with each cone we passed, making it difficult to maintain control. The Celica GTV's grip was much stronger in the slalom, and it was able to weave through the pylons in a straighter line. However, the slalom test is extremely harsh, and it would be impossible to re-create these conditions on public roads.
+However, when we conducted a slalom test at 80-90km/h, weaving through pylons lined up at 30m intervals at Yatabe, the limitations of the Bluebird's narrow bias-ply tires were revealed. When the throttle was closed to eliminate excess understeer, the tail swung out, and the yaw angle gradually increased with each cone we passed, making it difficult to maintain control. The Celica GTV's grip was much stronger in the slalom, and it was able to weave through the pylons in a straighter line. However, the slalom test is extremely harsh, and it would be impossible to re-create these conditions on public roads.
 
 
 

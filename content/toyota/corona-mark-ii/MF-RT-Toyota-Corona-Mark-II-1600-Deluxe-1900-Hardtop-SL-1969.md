@@ -68,7 +68,7 @@ The SL version is specially tuned, with the aim of providing performance appropr
 
 <b>Kumabe:</b> It has changed quite a bit from the standard Corona. To take such bold steps and yet improve it so much is impressive.
 
-<b>Hirao:</b> It's been called the Corona’s “big brother,” but to me it feels more like an older sister. (laughs) The lines have become rather feminine. Because of that femininity, I suspect it will appeal to men. On the other hand, I have heard some young women say the lines seem softened, and that the previous Corona was cleaner and more crisp.
+<b>Hirao:</b> It's been called the Corona’s “big brother,” but to me it seems more like an older sister. (laughs) The lines have become rather feminine. Because of that femininity, I suspect it will appeal to men. On the other hand, I have heard some young women say the lines seem softened, and that the previous Corona was cleaner and more crisp.
 
 <b>Watari:</b> My impression is that with the Mark II, the so-called arrow line has become genuinely cleaner. Whether the new lines are feminine or not, I can't say, but they have become very beautiful, especially at the rear.
 

@@ -87,7 +87,7 @@ There’s also a price range aspect, and in terms of image, we felt we could cov
 
 <b>Hirao:</b> In the past, Nissan cars didn’t seem to attract many female buyers. But I get the feeling this one might.
 
-<b>Oguchi:</b> Looking at the Bluebird, you almost get a sense of the broader evolution of Japanese cars. Right now we’re in an era of image--of fashion, even--and this feels like quite a bold shift in that sense. It’s like part of a larger swing in direction. Though mechanically, the window design still carries over.
+<b>Oguchi:</b> Looking at the Bluebird, you almost get a sense of the broader evolution of Japanese cars. Right now we’re in an era of image--of fashion, even--and this feels like quite a bold shift in that sense. It’s like part of a larger swing in direction. Though mechanically, the basic design still carries over.
 
 <b>Mizutsu:</b> That’s exactly right. Functionally, it’s essentially the 510 underneath. We’ve simply changed the outer image.
 
@@ -105,13 +105,13 @@ There’s also a price range aspect, and in terms of image, we felt we could cov
 
 <b>Ohta:</b> Ideally, both the four-door sedan and the hardtop should be fully realized in their own right. But from a development standpoint, you inevitably get pulled toward one or the other. The question becomes: which direction should you start from to minimize compromise? In this case, we felt it was better to begin with the hardtop.
 
-<b>Magazine:</b> The U’s design gives the impression of a slightly darker cabin, almost as if the glass area has been reduced quite a bit.
+<b>Magazine:</b> The U’s design gives the impression of a somewhat darker cabin, as if the glass area has been reduced quite a bit.
 
-<b>Ohta:</b> That’s partly a global trend—window areas have been getting smaller overall. But particularly for the rear seats, there’s also the idea that a more “enclosed” feeling reduces fatigue, provides a sense of security, and even conveys a sense of luxury.
+<b>Ohta:</b> That’s partly a global trend—window areas have been getting smaller overall. But particularly for the rear seats, there’s also the idea that a more "enclosed" feeling reduces fatigue, provides a sense of security, and even conveys a sense of luxury.
 
 <b>Magazine:</b> What about the rear quarter area on the hardtop? There’s quite a lot of sheet metal there.
 
-<b>Hirao:</b> It’s a trend, isn’t it? Though the area does feel quite large.
+<b>Hirao:</b> That’s a trend too, isn’t it? Though that area does seem quite large.
 
 <b>Oguchi:</b> It certainly gives a sense of mass.
 
@@ -121,7 +121,7 @@ There’s also a price range aspect, and in terms of image, we felt we could cov
 
 <b>Higuchi:</b> Change it like a necktie, to match your suit… that’s not a bad idea.
 
-<b>Hoshijima:</b> The wide rear quarter pillars might help in a rollover from a safety standpoint. But from a driving perspective, I’m not entirely in favor. On a larger car it’s less of an issue, but on a compact car, it hurts visibility--especially rear three-quarter visibility. It might be fine in a wide-open place like America, but in Japan’s tighter conditions, it could be a drawback.
+<b>Hoshijima:</b> The wide rear quarter pillars might help in a rollover from a safety standpoint. But from a driving perspective, I’m not entirely in favor of it. On a larger car it’s less of an issue, but on a compact car, it hurts visibility--especially rear three-quarter visibility. It might be fine in a wide-open place like America, but in Japan’s tighter conditions, it could be a drawback.
 
 <b>Oguchi:</b> From the driver’s seat, I’d agree. Especially when parking.
 
@@ -151,7 +151,7 @@ And if you think of it as clothing, then of course you need accessories--a tie, 
 
 <b>Mizutsu:</b> The designers were different. But the timing was only about six months apart, so it’s difficult to completely separate the influence of what came before.
 
-<b>Ohta:</b> It’s also a matter of the times. Designers are responding to the same background and trends.
+<b>Ohta:</b> It’s also a matter of the times. Designers are responding to the same environment and trends.
 
 <b>Hirao:</b> And people around them probably end up saying similar things, too. 
 
