@@ -79,15 +79,15 @@ There’s also a price range aspect, and in terms of image, we felt we could cov
 
 <b>Hirao:</b> You could think of "Bluebird" as the name of the class, and "U" as the actual name of the car. (laughs)
 
-<b>Higuchi:</b> Looking at the history of the Bluebird, it tends to change drastically with each new model. But this time, the 510 is still being kept--that’s reassuring.
+<b>Higuchi:</b> Looking at the history of the Bluebird, it tends to change drastically with each new model. But this time, the 510 is being retained--that’s reassuring.
 
-<b>Mizutsu:</b> Yes, when we spoke with dealers, there was still strong attachment--and demand--for the 510, so I think it was the right decision to keep it.
+<b>Mizutsu:</b> Yes, when we spoke with dealers, there was still strong attachment to--and demand for--the 510, so I think it was the right decision to keep it.
 
-<b>Higuchi:</b> Nissan cars have generally had a sharp, crisp character. Meanwhile, other manufacturers tend toward softness. This U feels soft in appearance, but somewhat sharp in how it drives.
+<b>Higuchi:</b> Nissan cars have generally had a sharp, crisp character. Meanwhile, other manufacturers tend toward softness. This U feels soft in appearance, but still somewhat sharp in how it drives.
 
 <b>Hirao:</b> In the past, Nissan cars didn’t seem to attract many female buyers. But I get the feeling this one might.
 
-<b>Oguchi:</b> Looking at the Bluebird, you almost get a sense of the broader evolution of Japanese cars. Right now we’re in an era of image--of fashion, even--and this feels like quite a bold shift in that sense. It’s like part of a larger swing in direction. Though mechanically, the basic design still carries over.
+<b>Oguchi:</b> Looking at the Bluebird, you almost get a sense of the broader evolution of Japanese cars. Right now we’re in an era of image--of fashion, even--and this car feels like it's undergone quite a bold shift in that sense. It’s like part of a larger swing in direction. Though mechanically, the basic design still carries over.
 
 <b>Mizutsu:</b> That’s exactly right. Functionally, it’s essentially the 510 underneath. We’ve simply changed the outer image.
 
@@ -113,7 +113,7 @@ There’s also a price range aspect, and in terms of image, we felt we could cov
 
 <b>Hirao:</b> That’s a trend too, isn’t it? Though that area does seem quite large.
 
-<b>Oguchi:</b> It certainly gives a sense of mass.
+<b>Oguchi:</b> It certainly gives it a sense of mass.
 
 <b>Higuchi:</b> If you covered that rear quarter area in black vinyl right up to the edge, it might start to resemble an old carriage. Like what you see on some Lincolns… with a crest or emblem added on top…
 
@@ -121,13 +121,13 @@ There’s also a price range aspect, and in terms of image, we felt we could cov
 
 <b>Higuchi:</b> Change it like a necktie, to match your suit… that’s not a bad idea.
 
-<b>Hoshijima:</b> The wide rear quarter pillars might help in a rollover from a safety standpoint. But from a driving perspective, I’m not entirely in favor of it. On a larger car it’s less of an issue, but on a compact car, it hurts visibility--especially rear three-quarter visibility. It might be fine in a wide-open place like America, but in Japan’s tighter conditions, it could be a drawback.
+<b>Hoshijima:</b> The wide rear quarter pillars might help in a rollover from a safety standpoint. But from a driving perspective, I’m not entirely in favor of it. On a larger car it’s less of an issue, but in a compact car, it hurts visibility--especially rear three-quarter visibility. It might be fine in a wide-open place like America, but in Japan’s tighter conditions, this is a drawback.
 
 <b>Oguchi:</b> From the driver’s seat, I’d agree. Especially when parking.
 
 <b>Hoshijima:</b> And to be a bit critical… without that J-line, the car’s shape might look incomplete. Which, in a way, suggests that it needs that element to look good.
 
-<b>Oguchi:</b> But if adding it improves the look, that’s better than leaving it plain and unresolved. That area is quite flat otherwise—the accent changes the impression significantly. I imagine it wasn’t easy to resolve.
+<b>Oguchi:</b> But if adding it improves the look, that’s better than leaving it unresolved. That area is quite plain otherwise—the accent changes the impression significantly. I imagine pulling it together wasn’t easy.
 
 <b>Hoshijima:</b> Still, you don’t often see this kind of technique used on foreign cars to improve the styling.
 
@@ -135,11 +135,11 @@ There’s also a price range aspect, and in terms of image, we felt we could cov
 
 And if you think of it as clothing, then of course you need accessories--a tie, a brooch. If you took away the accessories from what someone’s wearing, it would feel incomplete. In that sense, I think it’s perfectly fine if the car only "comes together" once the J-line is there.
 
-<b>Hoshijima:</b> I see…
+<b>Hoshijima:</b> Interesting…
 
 <b>Hirao:</b> If you start calling it sculpture, though, that invites a different kind of resistance.
 
-<b>Hoshijima:</b> The hardtop does look visually larger, though.
+<b>Hoshijima:</b> The hardtop does look visually larger, certainly.
 
 <b>Oguchi:</b> The 510, by contrast, looks smaller than its actual dimensions.
 
@@ -165,9 +165,9 @@ This was one way of reconciling those two requirements. With fuel injection, we 
 
 At the same time, emissions are roughly 30-35% cleaner compared to a carbureted setup. And cleaner combustion translates directly into better efficiency. We’ve seen about a 5% improvement in fuel economy in normal driving, and around 10% at highway speeds.
 
-What you notice most in actual use is how easily the engine starts, regardless of weather conditions. Even immediately after startup, sensors monitor intake air temperature and coolant temperature, adjusting fuel delivery accordingly, so drivability is extremely good.
+What you notice most in actual use is how easily the engine starts, regardless of weather conditions. Even immediately after startup, sensors monitor intake air temperature and coolant temperature, adjusting fuel delivery accordingly, so drivability is very good.
 
-Fuel pressure is set at 2kg/cm², so there’s no concern about vapor lock.
+Fuel pressure is set at a constant 2kg/cm², so there’s no concern about vapor lock.
 
 This Bosch-type injection system is already widely used. Volkswagen alone fitted it to about 270,000 cars in 1970, and Mercedes-Benz to around 16,000 units, which is about 5-6% of their production. So we believe its reliability is well proven.
 
@@ -189,9 +189,9 @@ This Bosch-type injection system is already widely used. Volkswagen alone fitted
 
 <b>Magazine:</b> What about the mechanical limits--valves, bearings, and so on?
 
-<b>Shimizu:</b> Around 7000rpm. It can go higher briefly without issue, but that’s the general limit.
+<b>Shimizu:</b> It's around 7000rpm. It can go higher briefly without issue, but that’s the general limit.
 
-<b>Magazine:</b> How does the “bento box” control unit hold up in Japan’s climate?
+<b>Magazine:</b> How does the electronic control unit, the "bento box," hold up in Japan’s climate?
 
 <b>Shimizu:</b> Japan’s high humidity does raise concerns about corrosion protection. But under current road conditions, there’s no exposure to salt, and the unit is mounted inside the cabin, so it’s not really an issue. As for water, even if it enters through the doors, the unit is positioned above floor level, so there’s little risk.
 
@@ -211,7 +211,7 @@ This Bosch-type injection system is already widely used. Volkswagen alone fitted
 
 <b>Magazine:</b> 60,000 yen seems rather inexpensive.
 
-<b>Mizutsu:</b> It’s practically a service item. (laughs)
+<b>Mizutsu:</b> We're practically providing it as a service. (laughs)
 
 <b>Hirao:</b> Maybe it would sell even better if you priced it higher. (laughs)
 
@@ -231,9 +231,9 @@ For the SSS-E, the figures are 0-50m in 4.7 seconds, 0-100m in 7.1 seconds, 0-20
 
 Top speed was measured using lap times on the test course. The GL reached 169.09km/h, while the SSS-E recorded 177.89km/h.
 
-<b>Magazine:</b> Does the SSS-E feel more responsive, as you'd expect?
+<b>Magazine:</b> Does the SSS-E feel more responsive, as you would expect?
 
-<b>Furutani:</b> In the overtaking acceleration tests, pulling from 30km/h in third gear or 40km/h in top gear is a bit of a strain. But once you’re at around 60km/h in third or 80km/h in top, the response is quite good--subjectively, as well.
+<b>Furutani:</b> In the overtaking acceleration tests, pulling from 30km/h in third gear or 40km/h in top gear is a bit of a strain. But once you’re at around 60km/h in third or 80km/h in top, the response is quite good--in terms of the subjective feeling, as well.
 
 <b>Magazine:</b> The top speed is about the same as the earlier 510 1800 SSS, isn’t it? The catalog listed 175km/h…
 
@@ -261,7 +261,7 @@ For the SSS-E, constant-speed figures were 16.8km/l at both 40km/h and 60km/h, 1
 
 Under model driving conditions, it recorded 9.2km/l at 40km/h and 7.2km/l at 60km/h.
 
-Compared with the GL, the SSS-E gives poorer results in both constant-speed and model driving tests, although at higher speeds, above around 110km/h, it performs slightly better. 
+Compared with the GL, the SSS-E gives poorer results in both the constant-speed and model driving tests, although at higher speeds, above around 110km/h, it performs slightly better. 
 
 <b>Magazine:</b> Injection is supposed to give better fuel economy, isn’t it…?
 
@@ -277,7 +277,7 @@ Compared with the GL, the SSS-E gives poorer results in both constant-speed and 
 
 <b>Otani:</b> About 100km/h.
 
-<b>Hoshijima:</b> In my own experience, I drove about 300km in the SSS-E, including both highway and ordinary roads, and averaged 11.4km/l overall.
+<b>Hoshijima:</b> In my own experience, I drove about 300km in the SSS-E, including both highways and normal roads, and averaged 11.4km/l overall.
 
 <b>Higuchi:</b> That’s fairly typical.
 
@@ -291,7 +291,7 @@ Compared with the GL, the SSS-E gives poorer results in both constant-speed and 
 
 <b>Magazine:</b> Let’s move on to the results for vibration and noise.
 
-<b>Tateishi:</b> For suspension vibration frequencies, the sprung mass frequency is 1.3Hz at both the front and rear, while the unsprung mass frequency comes in at 12.5Hz for the front wheels and 13.0Hz for the rear. Measurements were taken on the Hardtop SSS-E.
+<b>Tateishi:</b> For the suspension's natural vibration frequencies, the sprung mass frequency is 1.3Hz at both the front and rear, while the unsprung mass frequency comes in at 12.5Hz for the front wheels and 13.0Hz for the rear. Measurements were taken on the Hardtop SSS-E.
 
 As for noise, the SSS-E recorded 61 phons at 40km/h, 65 at 60km/h, 71 at 80km/h, 77 at 100km/h, and 80 at 120km/h. The GL measured 60 phons at 40km/h, 68 at 60km/h, 72 at 80km/h, 76 at 100km/h, and 79 at 120km/h. 
 
@@ -299,17 +299,17 @@ Overall, interior noise levels are very slightly better in the GL.
 
 <b>Watari:</b> With this new Bluebird, I think in some respects--especially in suspension vibration and ride comfort--it’s really turned over a new leaf compared to previous models. Ride quality over rough roads, for example, has improved considerably.
 
-But when it comes to noise, I’m not quite sure what’s been done, but overall, the level has crept up. Unless it’s reduced by another 5dB or so, it becomes difficult to listen to the radio in the rear seat on something like the Tomei Expressway. Among cars in this class, being about 5dB quieter has already become the norm.
+But when it comes to noise--I’m not quite sure what’s been done, but overall, the level has crept up. Unless it’s reduced by another 5dB or so, it's going to be difficult to listen to the radio in the rear seat on something like the Tomei Expressway. Among cars in this class, being about 5dB quieter has already become the norm.
 
-<b>Magazine:</b> We wonder about the SSS-E being slightly noisier than the GL…
+<b>Magazine:</b> The SSS-E is slightly noisier than the GL…
 
 <b>Watari:</b> Looking at past trends, sedans and hardtops tend to show similar figures at higher speeds, around 120km/h, but at lower speeds, the hardtop is usually noisier. I think that comes down to interior sound absorption, as well as differences in body rigidity. So when comparing hardtop and sedan versions of the same car, the hardtop's sound level generally comes out higher in the low-speed range.
 
-<b>Higuchi:</b> In the 510, you start to hear that "roaring along" kind of sound from about 80km/h. In this U, it comes in closer to 90km/h. It feels like the threshold has shifted slightly upward.
+<b>Higuchi:</b> In the 510, you start to get that "roaring along" kind of feeling from about 80km/h. In this U, it comes in closer to 90km/h. It feels like the threshold has shifted slightly upward.
 
 <b>Watari:</b> I wonder if fitting an overdrive might help quiet it down…
 
-<b>Oguchi:</b> You can see it in the numbers, but even subjectively, it starts to feel a bit loud from around 90-100km/h. Whether that’s due to the mountings or some kind of resonance between the suspension and the body, I’m not sure--but you do feel a sort of vibration coming up through the floor.
+<b>Oguchi:</b> You can see it in the numbers, but even subjectively, it starts to feel a bit loud from around 90-100km/h. Also, whether this is due to the mountings or some kind of resonance between the suspension and the body, I’m not sure--but you do feel a sort of vibration coming up through the floor.
 
 <b>Watari:</b> So maybe a full 5dB reduction is difficult, but even 3dB less would make it a much better car.
 
@@ -317,27 +317,27 @@ But when it comes to noise, I’m not quite sure what’s been done, but overall
 
 <b>Ohta:</b> We noticed that just before the car went on sale and have been looking into it. It seems to be caused by vibration of the gas inside. We’re currently studying ways to eliminate it.
 
-<b>Mizutsu:</b> Some cars produce that sound, and some don’t…
+<b>Mizutsu:</b> Some cars produce that sound, and others don’t…
 
 <b>Hoshijima:</b> Still, looking at these figures, it makes me feel my ears can’t quite be trusted. I thought it was genuinely quiet up to about 100km/h…
 
 <b>Watari:</b> It definitely rises quite sharply above 100km/h.
 
-<b>Kageyama:</b> I usually drive a fairly rough, noisy car myself, but even so, my impression was that this one became noisy at around 100km/h.
+<b>Kageyama:</b> The car I usually drive is fairly rough and noisy, but even so, my impression was that this one became noisy at around 100km/h.
 
 <b>Oguchi:</b> The whole car has a softer, more refined character, so perhaps you go in expecting it to be quieter than it actually is.
 
-That said, wind noise seems relatively low. And the sound from the air-conditioning fan is also quieter than I expected.
+That said, wind noise seems relatively low. And the air-conditioning fan is also quieter than I expected.
 
 <b>Tateishi:</b> At around 100km/h, tire noise--particularly with radials--has a relatively low frequency, but high energy, so it tends to stand out to the ear.
 
 <b><u>Stable, Straight-Tracking Handling</b></u>
 
-<b>Magazine:</b> We don’t yet have complete data on handling, so let’s go by driving impressions for now…
+<b>Magazine:</b> We don’t yet have complete data from the handling tests, so let’s go by driving impressions for now…
 
 <b>Kageyama:</b> My first impression was of strong straight-line stability--a very planted, solid feel. At the same time, I felt there was quite pronounced understeer.
 
-In that sense, compared with earlier Bluebirds, which had something of a "driver’s car" character, it now feels more stable and composed, closer to a family car in nature.
+In that sense, compared with earlier Bluebirds, which had something of a "driver’s car" character, it now feels more stable and composed, closer in character to a family car.
 
 Also, this may have been specific to the particular car I drove, but I did notice a bit of friction in the steering system.
 
@@ -345,9 +345,9 @@ Also, this may have been specific to the particular car I drove, but I did notic
 
 <b>Watari:</b> That may also be why it’s become more resistant to crosswinds.
 
-<b>Kageyama:</b> There was one point about usability that bothered me, though. The wiper switch and light switch are the same shape and mounted side by side on the right. I made a mistake almost immediately after getting in, and even after telling myself to be careful, I did it again. Having identical controls so close together just invites confusion.
+<b>Kageyama:</b> There was one point about usability that bothered me, though. The wiper switch and light switch are the same shape and mounted side by side on the right. I made a mistake almost immediately after getting in, and even after telling myself to be careful, I did it again. Having identical controls so close together invites confusion.
 
-<b>Hoshijima:</b> They are definitely too close. Once you get used to the general control layout, you tend to just reach toward that area and grab whatever’s there without looking, so in that sense as well, it would have been better to space them farther apart.
+<b>Hoshijima:</b> They are definitely too close. Once you get used to a car's control layout, you tend to just reach toward that general area and grab whatever’s there without looking, so in that sense as well, it would have been better to space them farther apart.
 
 And on a smaller note, the ashtray knob is quite small, which makes it a bit fiddly to use.
 
@@ -361,19 +361,19 @@ And on a smaller note, the ashtray knob is quite small, which makes it a bit fid
 
 <b>Magazine:</b> There was a comment about slightly increased friction in the steering--what do you think about that?
 
-<b>Ohta:</b> We do hear that from time to time, but it’s not something we’ve intentionally built in to a noticeable degree. We’ve paid quite a bit of attention to the bearings throughout the system.
+<b>Ohta:</b> We do hear that occasionally, but it’s not something we’ve intentionally built in to a noticeable degree. We’ve paid quite a bit of attention to the bearings throughout the system.
 
 <b>Hirao:</b> It did feel a bit like rack-and-pinion steering. Not that it’s "heavy," exactly, but there’s a certain firmness to it. Perhaps it’s just part of that overall sense of stability.
 
-<b>Higuchi:</b> Still, it doesn’t feel like there’s any artificial friction added, even if it were rack-and-pinion. The impression I get is that, compared with the 510, the target driver has aged by about ten years. That’s what this steering feels like.
+<b>Higuchi:</b> Still, even if it were rack-and-pinion, it doesn’t feel like there’s any artificial friction added. The impression I get is that, compared with the 510, the target driver has aged by about ten years. That’s what this steering feels like.
 
 <b><u>A Carefully Designed Brake System</b></u>
 
 <b>Magazine:</b> Let’s hear the test data from the Ship Research Institute.
 
-<b>Ishikawa:</b> We conducted measuremnts on the SSS-E, and the vehicle weight came to 1056kg, compared with the catalog figure of 1010kg. Weight distribution was 54:46 front to rear. With five occupants aboard, this shifts to roughly 49:51.
+<b>Ishikawa:</b> We conducted measurements on the SSS-E, and the vehicle weight came to 1056kg, compared with the catalog figure of 1010kg. Weight distribution was 54:46 front to rear. With five occupants aboard, this shifts to roughly 49:51.
 
-In terms of alignment, the front shows a relatively strong toe-in setting, with camber at a moderate level. With five passengers on board, front toe-in is reduced, while camber remains largely unchanged. At the rear, toe-in becomes almost neutral, and the camber tends to move slightly into the negative.
+In terms of alignment, the front shows a relatively strong toe-in setting, with moderate camber. With five passengers on board, front toe-in is reduced, while camber remains largely unchanged. At the rear, toe-in becomes almost neutral, and the camber becomes slightly negative.
 
 As for the braking system, it uses a disc/leading-trailing drum arrangement, with a tandem master cylinder, servo assistance, and a proportioning valve at the rear. The proportioning valve itself incorporates a thoughtful feature: in the event of a failure in the front brake line, the valve’s operating point shifts upward, increasing braking force as a safeguard.
 
@@ -393,11 +393,11 @@ In on-road testing at 50km/h, achieving 0.6g required around 23-24kg of pedal ef
 
 <b>Magazine:</b> Looking at the data as it stands, there’s almost no fade evident.
 
-<b>Oguchi:</b> Up to about the fifth run, pedal effort does increase, but beyond that it doesn’t continue rising. In that sense, even under repeated heavy braking, the data doesn’t show a clear tendency toward fade.
+<b>Oguchi:</b> Up to about the fifth run, pedal effort does increase, but beyond that it doesn't rise further. In that sense, even under repeated heavy braking, the data doesn’t show a clear tendency toward fade.
 
-<b>Ishikawa:</b> In the October issue, there was a suggestion that it might fade a bit. So I was actually expecting to see that here (laughs).
+<b>Ishikawa:</b> In the October issue, there was a suggestion that the brakes might fade a bit. So I was actually expecting to see that confirmed here (laughs).
 
-Still, if you were to apply very hard braking continuously, it feels like some degree of fade tendency might appear.
+Still, if you were to apply very hard braking continuously, it does feel like some degree of fade tendency might appear.
 
 As for braking feel, when you repeat heavy braking, it’s not exactly fade, but you can sense a slight change in pedal effort. On the other hand, within normal use, the brakes are extremely smooth and reassuring. There’s none of that drawn-out, elastic feel you sometimes get with discs.
 
@@ -447,19 +447,19 @@ Since this U model was introduced, we’ve heard a few comments like Mr. Hoshiji
 
 The overall visible field for the vehicle as a whole comes out to about 2.5 steradians. The GL is just slightly below that, but still within the typical range.
 
-For the windshield, the visible area is 0.6 steradians for the hardtop and 0.7 steradians for the GL. The rear window averages around 0.2 steradians, and both cars fall just a bit below that.
+For the windshield, the visible area is 0.6 steradians for the hardtop and 0.7 steradians for the GL. For the rear window, the average figure is around 0.2 steradians, and both cars fall just a bit below that.
 
 As for the wiper sweep, the average is about 0.4 steradians. The hardtop is slightly below that figure, while the GL is just a little higher. 
 
 <b>Magazine:</b> Now, let's have the data from the Higuchi Laboratory, please.
 
-<b>Onda:</b> Dimensionally, it’s quite close to the Toyota Corona Mark II. It seems the exterior size was set so as not to exceed the Skyline or Laurel.
+<b>Onda:</b> The dimensions are quite close to those of the Toyota Corona Mark II. It seems the exterior size was set so as not to exceed the Skyline or Laurel.
 
 From a styling standpoint, the key feature is the adoption of the "J-line," along with the elimination of the rear door’s triangular window--those are defining elements both visually and dimensionally.
 
 Inside, there’s a new feature for this class: the driver’s seat can be adjusted vertically. This also allows the angle of the seat rails to be varied in four stages, from 8° up to the low teens.
 
-The interior is quite different from the 510, with a softer overall atmosphere. In the GL, the instrument panel is organized around a squared-off design theme. It also comes with a cassette stereo, which is something of a highlight, and gives an overall sense of luxury. In smaller details, there’s even a coin pocket, which seems quite practical.
+The interior is quite different from the 510, with a softer overall atmosphere. In the GL, the instrument panel is organized around a squared-off design theme. It also comes with a cassette stereo, which is something of a highlight, and adds to the overall sense of luxury. In smaller details, there’s even a coin pocket, which seems quite practical.
 
 In the hardtop, on the other hand, all the gauges are round, forming a more traditional "cockpit-style" instrument panel. There’s also an optional overhead console, which includes an auto compass.
 
@@ -469,9 +469,9 @@ Switchgear in the hardtop is illuminated using a fiber-optic system.
 
 <b>Hirao:</b> You can’t really see the auto compass while driving. You have to lean in and look at it.
 
-<b>Kageyama:</b> I once went through quite a bit of trouble trying to fit a compass to my own car, and that position they’ve chosen is actually one of the better ones. So I thought, "Ah, they settled on the same spot." But still, it’s not easy for the driver to see.
+<b>Kageyama:</b> I once went through quite a bit of trouble trying to fit a compass to my own car, and that position they’ve chosen is actually one of the better ones. So I thought, "Ah, so they settled on the same spot." But still, it’s not easy for the driver to see.
 
-So if you’re unsure of your direction, you stop the car and take a look.
+So if you’re unsure of your direction, you have to stop the car and take a look.
 
 <b>Hirao:</b> You mean you actually stop to check it? (laughs)
 

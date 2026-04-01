@@ -161,7 +161,7 @@ Now, as for the verdict between the Crown and the Opel: we’ve had our share of
 
 In terms of styling, as mentioned earlier, the Crown's advantage came mainly from it being the newer model. But Opel has its own fresh entry in the form of the Manta--their designs, generally speaking, are far from outdated.
 
-So for this first round of domestic-versus-foreign car comparisons, the decision goes to the Japanese model. That said, Toyota shouldn’t grow too comfortable before the new Rekord Coupe makes its appearance. As for those who want to "eat it up," these may not be the words of the friendly witch in the well-known TV commercial--but rather the intent of foreign capital, quietly setting their sights on Japan's auto industry...
+So for this first round of domestic-versus-foreign car comparisons, the decision goes to the Japanese model. That said, Toyota shouldn’t grow too comfortable before the new Rekord Coupe makes its appearance. After all, "eat it up" may not be the words of the friendly witch in the well-known TV commercial--but rather the intent of foreign capital, quietly setting their sights on Japan's auto industry...
 
 <b><u>Postscript: Story Photos</b></u>
 
