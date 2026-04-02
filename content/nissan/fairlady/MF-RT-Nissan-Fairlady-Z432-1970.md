@@ -262,3 +262,14 @@ Rearward visible area measures 11.7 steradians. For a car of this type, that is 
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-RT-Nissan-Fairlady-Z432-1970-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/fairlady/">Fairlady</a>
+</div>

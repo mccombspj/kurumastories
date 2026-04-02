@@ -150,3 +150,16 @@ In the February issue's Honda 1300 road test, we wrote that the heater did not w
 
 {{< gallery "CG-RT-Honda-1300-77-Deluxe-1970-Gallery" >}}
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/honda/">Honda</a>
+  <span>·</span>
+  <a href="/honda/honda-1300/">1300</a>
+</div>
+
+
+

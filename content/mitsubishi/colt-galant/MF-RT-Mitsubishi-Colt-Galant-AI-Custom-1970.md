@@ -244,3 +244,14 @@ The test course is standardized over a fixed section, with fuel consumption and 
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-BS-Mitsubishi-Colt-Galant-AI-Custom-1970-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mitsubishi/">Mitsubishi</a>
+  <span>·</span>
+  <a href="/mitsubishi/colt-galant/">Colt Galant</a>
+</div>

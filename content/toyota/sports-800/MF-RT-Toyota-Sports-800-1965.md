@@ -314,3 +314,15 @@ The gauges are nicely separated, good-sized, and well-placed, but I would have l
 <b>Kobayashi:</b> Thank you very much for these many valuable opinions. We will continue researching and improving the car, and hope to make it a car that will please many people. 
 
 We have a monthly production capacity of about 300 to 500 units, so we would like to sell it not only to young people, but also as a business car for gentlemen drivers who are still young at heart.
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/sports-800/">Sports 800</a>
+</div>
+

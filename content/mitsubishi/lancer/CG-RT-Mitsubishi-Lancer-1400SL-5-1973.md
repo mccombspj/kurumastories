@@ -227,3 +227,14 @@ People have different tastes when it comes to body styling and interior design, 
 
 {{< gallery "CG-RT-Mitsubishi-Lancer-1400SL-5-1973-Gallery" >}}
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mitsubishi/">Mitsubishi</a>
+  <span>·</span>
+  <a href="/mitsubishi/lancer/">Lancer</a>
+</div>
+

@@ -243,3 +243,14 @@ If we limit this to the Meishin Expressway and Mt. Hiei hillclimb (excluding the
 As a car, the Silvia suits the high-class personal life of its intended audience of freelancers, entertainers, young executives, and so on. It's also suitable as a car for participating in motorsports. And it is also a perfect car for enjoying sporty touring on your holidays.
 
 One final point: Nissan's pure sports car, the Fairlady, is also popular, especially overseas. I cannot help but think about how the Fairlady's performance has suddenly lost its luster with the emergence of the Silvia. Even though it is 100cc smaller and significantly cheaper, it is not as interesting as a car that is 1.5 seconds slower to 400m and over 10km/h slower in top speed than its newer, fancier sibling. I would like to end this report by expressing my hope that the Silvia engine and transmission will be installed in the Fairlady as soon as possible.
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/silvia/">Silvia</a>
+</div>

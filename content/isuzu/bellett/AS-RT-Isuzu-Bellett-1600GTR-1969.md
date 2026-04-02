@@ -146,3 +146,14 @@ Tsutsumi/Yoneyama: "The brakes are outstanding. They're very effective and light
 The brakes that have earned this praise are discs with Hydromaster servo at the front, Alfin drums with a pressure control valve at the rear, and a dual master cylinder, all supported by a comprehensive range of safety mechanisms.
 
 The Bellett 1600GTR, which was born from racing, has been reborn as a car that offers a high level of maneuverability and livability for general grand touring. However, it is easy to transform it back into a "king of the circuit." The Bellett GTR has an impeccable history and pedigree, so when it is tuned up to the right level and its true "wolf" potential is unleashed, it will undoubtedly be a fearsome presence on the track. You may be the one to wake up the sleeping wolf.
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/isuzu/">Isuzu</a>
+  <span>·</span>
+  <a href="/isuzu/bellett/">Bellett</a>
+</div>

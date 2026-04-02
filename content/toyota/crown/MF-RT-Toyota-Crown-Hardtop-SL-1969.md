@@ -362,3 +362,14 @@ In terms of maintenance, comparing this car with the Corona, it looks like Toyot
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-RT-Toyota-Crown-Hardtop-SL-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/crown/">Crown</a>
+</div>

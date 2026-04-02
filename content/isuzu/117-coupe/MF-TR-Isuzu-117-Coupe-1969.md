@@ -295,3 +295,14 @@ I almost forgot--the horn has a wonderful tone. It’s a crisp sound, unlike any
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-TR-Isuzu-117-Coupe-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/isuzu/">Isuzu</a>
+  <span>·</span>
+  <a href="/isuzu/117-coupe/">117 Coupe</a>
+</div>

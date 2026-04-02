@@ -137,3 +137,14 @@ In all, it was a short drive at only about 250km, but as I looked at the data an
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-RI-Toyota-Corona-Mark-II-GSS-1970-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/corona-mark-ii/">Corona Mark II</a>
+</div>

@@ -130,3 +130,14 @@ The Galant's body is solidly constructed, and there was no abnormal vibration or
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RT-Mitsubishi-Colt-Galant-AI-Custom-1970-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mitsubishi/">Mitsubishi</a>
+  <span>·</span>
+  <a href="/mitsubishi/colt-galant/">Colt Galant</a>
+</div>

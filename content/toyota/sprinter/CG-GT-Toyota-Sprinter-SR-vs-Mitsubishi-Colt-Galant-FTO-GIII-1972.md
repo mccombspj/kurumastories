@@ -115,3 +115,14 @@ Instead of a summary of the test data, we would like to conclude by stating our 
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-GT-Toyota-Sprinter-SR-vs-Mitsubishi-Galant-FTO-GIII-1972-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/sprinter/">Sprinter</a>
+</div>

@@ -157,3 +157,16 @@ The weight of the L26 is about 13kg lighter than the S20. There seems to be almo
 However, as mentioned above, if the Fairlady 260Z is released, the Skyline will undoubtedly follow suit and be equipped with an L26 engine.
 
 Either way, it won't be long before the new Skyline makes its vaunted return to the circuit.
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/skyline/">Skyline</a>
+</div>
+
+

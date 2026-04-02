@@ -311,3 +311,14 @@ With racing tires and the wheel covers removed, the Silvia's body glittered in t
 
 What is amazing about the Silvia is how much more resistant to unpaved roads it is than the Fairlady. This is largely due to the relatively soft springs, but in any case, it can be said that this car's resistance to rough roads is among the best of any sports car in the world. 
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/silvia/">Silvia</a>
+</div>
+

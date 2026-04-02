@@ -448,3 +448,14 @@ As for exports, we are taking a cautious approach. We will be entering Australia
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-RT-Subaru-FF-1-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/subaru/">Subaru</a>
+  <span>·</span>
+  <a href="/subaru/1000/">1000</a>
+</div>

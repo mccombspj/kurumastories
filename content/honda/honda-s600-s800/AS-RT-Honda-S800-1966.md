@@ -138,3 +138,14 @@ At the same time, the engine's greater power reserves and generally lower revolu
 Sitting in the driver's seat, you can see that the previous polished instrument panel has been replaced with a matte black finish. At first glance, it looks less flashy, which some may consider a downside, but on a long drive, you'll realize that this small improvement goes a long way in reducing driver fatigue.
 
 It's been about three years since the Honda Sports series was released, and it has matured remarkably. That was my honest impression after the test drive. The Honda S800's excellence, which was a sharp contrast to the bad feeling I had before setting off, seemed to be the saving grace of this grand touring trip.
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/honda/">Honda</a>
+  <span>·</span>
+  <a href="/honda/honda-s600-s800/">S600 / S800</a>
+</div>

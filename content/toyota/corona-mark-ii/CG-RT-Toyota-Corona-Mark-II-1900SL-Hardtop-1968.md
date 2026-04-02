@@ -119,3 +119,15 @@ Finally, while previous Coronas had many grease points on the suspension, the Ma
 
 {{< gallery "CG-RT-Toyota-Mark-II-1900SL-Hardtop-1968-Gallery" >}}
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/corona-mark-ii/">Corona Mark II</a>
+</div>
+
+

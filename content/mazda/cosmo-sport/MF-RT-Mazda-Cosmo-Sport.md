@@ -366,3 +366,14 @@ Our thinking is that a sedan type is best for the mass market, and we will be ex
 <b>Yamamoto:</b> Since it is a new engine, we think the issue of service is a very important one. However, as you have seen, rotary engines have fewer parts to maintain and we think that servicing is actually easier than with reciprocating engines. In the beginning, we want to be as careful as possible so that we can avoid even the slightest oversight, but as the number of rotary engines in practical use increases, we would like to make it easier to service the cars anywhere in the future. 
 
 <b>Magazine:</b> Thank you very much for your continued support.
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mazda/">Mazda</a>
+  <span>·</span>
+  <a href="/mazda/cosmo-sport/">Cosmo Sport</a>
+</div>

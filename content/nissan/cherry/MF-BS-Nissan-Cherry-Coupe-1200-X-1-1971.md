@@ -275,3 +275,14 @@ Each category is represented by a circle, with the shaded (black) portion indica
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-BS-Nissan-Cherry-Coupe-1200-X-1-1971-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/cherry/">Cherry</a>
+</div>

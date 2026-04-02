@@ -50,3 +50,17 @@ Finally, in terms of fuel economy, our 350km test drive, including a round trip 
 
 In conclusion, the GT-X's 10ps increase over the standard 2000GT (120ps) is offset by the taller gear ratios, and its acceleration feels somewhat slower. The 5-speed is good for those who want quiet and refined high-speed driving, but for those who want a sporty driving style, the standard 4-speed gearbox would be more suitable.
 
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/skyline/">Skyline</a>
+</div>
+
+
+

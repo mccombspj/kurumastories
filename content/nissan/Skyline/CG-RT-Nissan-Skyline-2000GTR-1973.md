@@ -64,4 +64,17 @@ In the past, most fast cars were rough around the edges. In times when technolog
 {{< gallery "CG-RT-Nissan-Skyline-2000GTR-1973-Gallery" >}}
 
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/skyline/">Skyline</a>
+</div>
+
+
+
 

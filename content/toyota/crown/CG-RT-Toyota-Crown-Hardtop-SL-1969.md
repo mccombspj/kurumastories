@@ -115,3 +115,14 @@ The model that we tested, the Hardtop SL with 4-speed floor shift, is the most �
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RT-Toyota-Crown-Hardtop-SL-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/crown/">Crown</a>
+</div>

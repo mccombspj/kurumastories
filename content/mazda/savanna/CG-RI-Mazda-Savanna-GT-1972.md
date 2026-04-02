@@ -104,3 +104,14 @@ In conclusion, the Savanna GT is not a practical GT suitable for long-distance a
 
 {{< gallery "CG-RI-Mazda-Savanna-GT-1972-Gallery" >}}
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mazda/">Mazda</a>
+  <span>·</span>
+  <a href="/mazda/savanna/">Savanna</a>
+</div>
+

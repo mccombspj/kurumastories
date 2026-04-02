@@ -192,3 +192,14 @@ Finally, I should add that on my round trip from Tokyo to Hakone, the tolls on t
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-TDR-Mazda-Luce-Rotary-Coupe-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mazda/">Mazda</a>
+  <span>·</span>
+  <a href="/mazda/luce-rotary-coupe/">Luce Rotary Coupe</a>
+</div>

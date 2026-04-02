@@ -196,3 +196,14 @@ As for the restaurant itself, it was very local. We had curry rice, and everyone
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-DTD-Toyota-2000GT-1970-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/2000gt/">2000GT</a>
+</div>

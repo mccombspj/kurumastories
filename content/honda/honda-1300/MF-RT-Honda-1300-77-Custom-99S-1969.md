@@ -457,3 +457,15 @@ As for exports, this year we’ll be fully occupied with domestic demand, so rea
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-RT-Honda-1300-77-Deluxe-99S-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/honda/">Honda</a>
+  <span>·</span>
+  <a href="/honda/honda-1300/">1300</a>
+</div>
+

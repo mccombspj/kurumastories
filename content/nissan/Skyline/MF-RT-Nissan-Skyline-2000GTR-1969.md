@@ -358,3 +358,16 @@ Other options include a high-flow electromagnetic fuel pump and harder brake lin
 <b>Tanaka:</b> That’s what some people say. On the other hand, there are also those who appreciate that, despite its high performance, it doesn't have an overly specialized appearance and can be used in everyday situations. It's a difficult balance to strike (laughs).
 
 <b>Magazine:</b> Thank you all for your time.
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/skyline/">Skyline</a>
+</div>
+
+

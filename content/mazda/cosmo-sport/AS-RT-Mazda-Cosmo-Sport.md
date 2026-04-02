@@ -123,3 +123,14 @@ When the rain started to fall heavily again, I slowed down to normal speeds. At 
 We took a break in Atami for lunch, took a few photos, and then headed back home. After trying some more high-speed cornering in Yugawara, we took the expressway back to Tokyo.
 
 I look forward to driving the Cosmo again. I'd like to do a perfect road test in the bright sunshine next time.
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mazda/">Mazda</a>
+  <span>·</span>
+  <a href="/mazda/cosmo-sport/">Cosmo Sport</a>
+</div>

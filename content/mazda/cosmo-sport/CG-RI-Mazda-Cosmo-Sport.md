@@ -162,4 +162,13 @@ In addition, the edges of the front and rear bumpers are sharp, and the tips are
 The Cosmo is currently offered in only one specification, priced at 1.45 million yen. Toyo Kogyo has boldly provided a two-year or 50,000km warranty on this revolutionary rotary-engine super car, just like any other car. As for its durability, it is frankly impossible to say anything from this short test, but we're sure it will improve with time.
 
 
+---
 
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mazda/">Mazda</a>
+  <span>·</span>
+  <a href="/mazda/cosmo-sport/">Cosmo Sport</a>
+</div>

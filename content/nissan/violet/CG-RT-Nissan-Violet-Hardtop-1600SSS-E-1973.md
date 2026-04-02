@@ -97,5 +97,16 @@ After the test, our impression of the Violet remained in our minds only in a ver
 
 {{< gallery "CG-RT-Nissan-Violet-Hardtop-1600SSS-E-1973-Gallery" >}}
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/violet/">Violet</a>
+</div>
+
 
 

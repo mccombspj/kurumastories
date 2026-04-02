@@ -35,9 +35,6 @@ draft = false
 
 
 
-
-
-
 ![Toyota 2000GT](/images/MF-RT-Toyota-2000GT-1967.jpg)
 
 
@@ -448,3 +445,15 @@ For that reason, with safety regulations set to become stricter next year, the i
 As for our own policy, we intend for this car to remain strictly a two-seater, and at present we are not considering a 2+2 version.
 
 <b>Magazine:</b> Thank you all very much for your time.
+
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/2000gt/">2000GT</a>
+</div>

@@ -249,5 +249,17 @@ All things considered, the new Skyline shows clear signs of significant improvem
 
 
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/skyline/">Skyline</a>
+</div>
+
+
 
 

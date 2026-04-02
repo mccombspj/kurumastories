@@ -216,3 +216,14 @@ Each of the six circles shows a black segment representing the evaluation for th
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-BS-Nissan-Fairlady-Z-L-1971-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/fairlady/">Fairlady</a>
+</div>

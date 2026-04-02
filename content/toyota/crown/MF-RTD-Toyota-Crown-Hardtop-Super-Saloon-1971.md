@@ -147,3 +147,14 @@ Although we have made some critical comments, there is no doubt that the Crown H
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-RTD-Toyota-Crown-Hardtop-Super-Saloon-1971-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/crown/">Crown</a>
+</div>

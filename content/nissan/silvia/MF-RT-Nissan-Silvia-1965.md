@@ -420,3 +420,15 @@ The interior and exterior finish are luxurious, and must be considered among the
 
 <b>Magazine:</b> Thank you all very much for your support.
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/silvia/">Silvia</a>
+</div>
+
+

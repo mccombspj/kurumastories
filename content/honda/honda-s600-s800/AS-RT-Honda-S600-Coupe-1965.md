@@ -118,3 +118,16 @@ After returning to Tokyo, cornering tests (by the Kondo Laboratory at the Univer
 Comparing the standing-start acceleration data with that of the Toyota Sports 800, the results are somewhat disappointing. Even allowing for the difference in displacement, one might have expected the Honda's 57ps/8500rpm engine to show a greater advantage, although this is perhaps asking too much. At 730kg, the Honda Coupe's weight must be regarded as a little on the heavy side. Of course, given Honda's expertise in developing formula cars, making it lighter would present no great difficulty. 
 
 However, as long as they are selling it as a business car with a two-year or 50,000km warranty, some increase in weight may be unavoidable. For a sports car, it is almost too practical: easy to drive, comfortable, and thoroughly user-friendly. 
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/honda/">Honda</a>
+  <span>·</span>
+  <a href="/honda/honda-s600-s800/">S600 / S800</a>
+</div>
+
+

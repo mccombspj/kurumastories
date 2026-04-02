@@ -122,6 +122,17 @@ We are very much looking forward to testing the GTO MR with DOHC, 125ps, and the
 
 {{< gallery "CG-RI-Mitsubishi-Galant-GTO-MII-1971-Gallery" >}}
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mitsubishi/">Mitsubishi</a>
+  <span>·</span>
+  <a href="/mitsubishi/colt-galant-gto/">Colt Galant GTO</a>
+</div>
+
 
 
 

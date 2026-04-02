@@ -297,5 +297,14 @@ The steering, with a variable ratio of 15.6-18.2:1 common to all Lancers, is als
 
 After covering 600km over the weekend in Izu and on the empty mountain roads of Hakone, our conclusion is that the GSR, while very orthodox in its layout, is a well-balanced and all-around excellent car. It is easy to drive under any conditions, yet still feels sporty. Despite the challenging conditions of traffic jams and mountain roads, it recorded a respectable fuel economy of 10.6km/l overall. If it were given wider wheels, better tires, and high-quality dampers, it could easily become the Escort Mexico of Japan.
 
+---
 
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mitsubishi/">Mitsubishi</a>
+  <span>·</span>
+  <a href="/mitsubishi/lancer/">Lancer</a>
+</div>
 

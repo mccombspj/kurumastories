@@ -223,3 +223,14 @@ Yet, the Fairlady Z432 is a pioneering car that has taken the first step into bo
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-DTD-Nissan-Fairlady-Z432-1970-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/fairlady/">Fairlady</a>
+</div>

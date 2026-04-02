@@ -88,4 +88,17 @@ By contrast, the Honda 1300 series is equipped with a full dry sump system simil
 
 Overall, I was impressed by the potential of the Honda 1300 Coupe, and felt a strong desire to use it in my own racing activities.
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/honda/">Honda</a>
+  <span>·</span>
+  <a href="/honda/honda-1300/">1300</a>
+</div>
+
+
+
 

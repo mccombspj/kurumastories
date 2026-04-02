@@ -88,3 +88,14 @@ To close on some positive notes, the ventilation remains as strong as ever, and 
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RI-Nissan-Bluebird-1600-Deluxe-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/bluebird/">Bluebird</a>
+</div>

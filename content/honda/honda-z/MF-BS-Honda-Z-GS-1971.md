@@ -240,3 +240,14 @@ Each black area within the six circles represents a specific evaluation. The mor
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-BS-Honda-Z-GS-1971-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/honda/">Honda</a>
+  <span>·</span>
+  <a href="/honda/honda-z/">Z</a>
+</div>

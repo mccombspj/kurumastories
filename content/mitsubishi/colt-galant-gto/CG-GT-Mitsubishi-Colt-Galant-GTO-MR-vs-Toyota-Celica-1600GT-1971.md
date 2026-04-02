@@ -78,3 +78,15 @@ In conclusion, these two cars are so similar in both performance and design that
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-GT-Mitsubishi-Galant-GTO-MR-vs-Toyota-Celica-1600GT-1971-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mitsubishi/">Mitsubishi</a>
+  <span>·</span>
+  <a href="/mitsubishi/colt-galant-gto/">Colt Galant GTO</a>
+</div>
+

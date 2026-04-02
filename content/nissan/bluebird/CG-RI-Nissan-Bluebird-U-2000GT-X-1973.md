@@ -108,3 +108,14 @@ There are many excellent four-cylinder engines (e.g., BMW's) which show that six
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RI-Nissan-Bluebird-U-2000GT-X-1973-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/bluebird/">Bluebird</a>
+</div>

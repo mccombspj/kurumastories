@@ -88,3 +88,14 @@ As we have said many times before, the Fairlady is not a modern grand touring ca
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RT-Datsun-Fairlady-2000-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/fairlady/">Fairlady</a>
+</div>

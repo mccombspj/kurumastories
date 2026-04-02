@@ -231,3 +231,16 @@ The Carina GT is a four- to five-seat family sports car that is easy to drive in
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RT-Toyota-Carina-1600GT-1972-Gallery" >}}
+
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/carina/">Carina</a>
+</div>
+

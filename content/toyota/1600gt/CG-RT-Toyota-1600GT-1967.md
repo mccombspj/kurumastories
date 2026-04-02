@@ -147,3 +147,15 @@ Finally, regarding fuel economy, accurate measurements could only be taken for t
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RT-Toyota-1600GT-1967-Gallery" >}}
+
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/1600gt/">1600GT</a>
+</div>

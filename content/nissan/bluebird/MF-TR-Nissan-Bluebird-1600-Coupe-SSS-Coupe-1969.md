@@ -200,3 +200,14 @@ For that reason, neither car has a flashy presence. Instead, they are ideally su
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-TR-Nissan-Bluebird-Coupe-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/bluebird/">Bluebird</a>
+</div>

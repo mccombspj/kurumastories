@@ -210,3 +210,15 @@ Another problem I had while driving was the fine adjustment knob for the reclini
 
 Lastly, over 172km of driving, the 1000 Sports Sedan consumed 19.5 liters of fuel, which works out to 9km/l. 
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/subaru/">Subaru</a>
+  <span>·</span>
+  <a href="/subaru/1000/">1000</a>
+</div>
+
+

@@ -173,3 +173,14 @@ In conclusion, both cars have their respective strengths, making a clear judgmen
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-GT-Nissan-Gloria-GX-Volvo-144S-1971-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/gloria/">Gloria</a>
+</div>

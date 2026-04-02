@@ -222,3 +222,15 @@ Each circle in the evaluation diagram shows the specialist’s rating in black, 
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-BS-Nissan-Sunny-Excellent-1400GX-Coupe-1400GL-1971-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/sunny/">Sunny</a>
+</div>
+

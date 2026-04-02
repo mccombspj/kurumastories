@@ -131,3 +131,14 @@ With the introduction of this SR, we can expect other manufacturers to also intr
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-RTD-Toyota-Sprinter-SR-1971-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/sprinter/">Sprinter</a>
+</div>

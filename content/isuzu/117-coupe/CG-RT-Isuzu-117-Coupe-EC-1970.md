@@ -124,3 +124,14 @@ Even taking into account that this is a low-volume luxury model, the price of 1.
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RT-Isuzu-117-Coupe-EC-1970-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/isuzu/">Isuzu</a>
+  <span>·</span>
+  <a href="/isuzu/117-coupe/">117 Coupe</a>
+</div>

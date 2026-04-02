@@ -170,3 +170,14 @@ We're looking forward to testing the Celica GT more comprehensively in the near 
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RI-Toyota-Celica-1600GT-1971-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/celica/">Celica</a>
+</div>

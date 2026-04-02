@@ -441,3 +441,16 @@ Overall, I think glass that is less likely to shatter is safer, and an argument 
 
 {{< gallery "MF-RT-Nissan-Skyline-1800-1970-Gallery" >}}
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/skyline/">Skyline</a>
+</div>
+
+
+

@@ -172,3 +172,14 @@ The price is 943,000 yen, which is much cheaper than the previous DOHC 1.6-liter
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RT-Mitsubishi-Galant-GTO-2000GSR-1973-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mitsubishi/">Mitsubishi</a>
+  <span>·</span>
+  <a href="/mitsubishi/colt-galant-gto/">Colt Galant GTO</a>
+</div>

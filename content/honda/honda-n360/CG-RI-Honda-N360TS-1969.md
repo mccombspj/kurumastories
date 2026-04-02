@@ -84,3 +84,16 @@ Finally, regarding the interior, the S-model-specific leather-wrapped steering w
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RI-Honda-N360TS-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/honda/">Honda</a>
+  <span>·</span>
+  <a href="/honda/honda-n360/">N360</a>
+</div>
+
+

@@ -136,3 +136,14 @@ It is unfortunate that, during this test, we were not able to fully experience t
 
 {{< gallery "CG-RT-Nissan-Fairlady-Z432-1970-Gallery" >}}
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/fairlady/">Fairlady</a>
+</div>
+

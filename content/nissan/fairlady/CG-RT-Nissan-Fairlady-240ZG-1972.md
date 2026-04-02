@@ -105,3 +105,14 @@ So, is the 240Z, which is 220,000 to 350,000 yen more expensive than the 2-liter
 
 {{< gallery "CG-RT-Nissan-Fairlady-240ZG-1972-Gallery" >}}
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/fairlady/">Fairlady</a>
+</div>
+

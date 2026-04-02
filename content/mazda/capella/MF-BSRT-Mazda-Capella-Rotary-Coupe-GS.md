@@ -172,3 +172,14 @@ The aim of this comprehensive test drive is to judge the overall character of a 
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-BSRT-Mazda-Capella-Rotary-Coupe-GS-1970-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mazda/">Mazda</a>
+  <span>·</span>
+  <a href="/mazda/capella/">Capella</a>
+</div>

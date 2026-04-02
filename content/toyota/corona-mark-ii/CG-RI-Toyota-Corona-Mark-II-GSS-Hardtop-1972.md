@@ -148,4 +148,14 @@ Finally, the fuel economy was 6.37km/l over the full test distance, which includ
 To put it bluntly, one could say that there is no real need for the GSS with its twin cam engine to exist in the large and heavy Mark II series. If you want to drive fast with a sports-car feel, there's the Corolla Levin; if you want a car that creates a sporty mood, there's the Celica GT; and if this car isn't targeting the hard-edged character of the Skyline GT-R and is simply meant to rival the SOHC Skyline GT, then the Mark II GSL, with its SOHC twin-SU engine, is already sufficient. Only those who are in love with the styling of the Mark II, and who won't be satisfied unless they open the hood to see the crackle-black-finished twin cams, would find it worth spending 1.15 million yen on this car.
 
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/corona-mark-ii/">Corona Mark II</a>
+</div>
 

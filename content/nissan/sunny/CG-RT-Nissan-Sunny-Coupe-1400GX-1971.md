@@ -58,3 +58,15 @@ Speaking frankly, these brakes constitute the only major improvement over the 12
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RI-Nissan-Sunny-Coupe-1400GX-1971-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/sunny/">Sunny</a>
+</div>
+

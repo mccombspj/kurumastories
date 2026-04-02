@@ -146,4 +146,15 @@ Admittedly, there are areas of the Capella that need improvement, but owners who
 
 {{< gallery "CG-RT-Mazda-Capella-Rotary-Coupe-GS-1970-Gallery" >}}
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mazda/">Mazda</a>
+  <span>·</span>
+  <a href="/mazda/capella/">Capella</a>
+</div>
+
 

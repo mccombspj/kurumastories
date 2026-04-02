@@ -86,3 +86,15 @@ The noise level is high even by kei car standards, and the exhaust sound resonat
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RI-Subaru-360-Young-SS-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/subaru/">Subaru</a>
+  <span>·</span>
+  <a href="/subaru/360/">360</a>
+</div>
+

@@ -134,3 +134,14 @@ For those fortunate enough to be able to spend 1.72 million yen on a car, the Is
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RI-Isuzu-117-Coupe-1970-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/isuzu/">Isuzu</a>
+  <span>·</span>
+  <a href="/isuzu/117-coupe/">117 Coupe</a>
+</div>

@@ -144,3 +144,15 @@ Leaving Fuji in the evening glow behind, we exited the speedway, leaving behind 
 Traffic was backed up on the Yokohama Bypass, forcing us to drive slowly, but thanks to the electric cooling fan there was no need to worry about overheating, and we were able to get through the rush hour traffic without worry.
 
 Although we were unable to gather much statistical data during our limited test time, this is in any case a very attractive car, and in every respect it can be said to be a car that truly lives up to its name as "Japan's first full-fledged grand touring car." (Yoshio Otsubo, Racing Driver, Team Toyota)
+
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/2000gt/">2000GT</a>
+</div>

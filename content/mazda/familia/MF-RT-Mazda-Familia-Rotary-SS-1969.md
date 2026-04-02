@@ -387,3 +387,14 @@ Total blind spots measure 2.75 steradians, which is slightly larger than normal,
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-RT-Mazda-Familia-Rotary-SS-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mazda/">Mazda</a>
+  <span>·</span>
+  <a href="/mazda/familia/">Familia</a>
+</div>

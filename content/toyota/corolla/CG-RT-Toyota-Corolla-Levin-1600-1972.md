@@ -145,3 +145,14 @@ Its base price of 813,000 yen is not inexpensive, and once practical options suc
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RT-Toyota-Corolla-Levin-1600-1972-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/corolla/">Corolla</a>
+</div>

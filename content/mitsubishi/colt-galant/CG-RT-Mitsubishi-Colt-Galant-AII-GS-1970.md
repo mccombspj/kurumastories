@@ -145,3 +145,14 @@ In summary, the AII GS is a vehicle that serves admirably as everyday transporta
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RT-Mitsubishi-Colt-Galant-AII-GS-1970-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mitsubishi/">Mitsubishi</a>
+  <span>·</span>
+  <a href="/mitsubishi/colt-galant/">Colt Galant</a>
+</div>

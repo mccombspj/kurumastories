@@ -147,3 +147,14 @@ In conclusion, the Carina was the first Toyota car I have driven that was more c
 
 
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/carina/">Carina</a>
+</div>
+

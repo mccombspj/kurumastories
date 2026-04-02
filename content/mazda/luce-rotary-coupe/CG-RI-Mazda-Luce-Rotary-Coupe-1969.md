@@ -162,3 +162,14 @@ The interior is luxurious but unified in modest good taste. Naturally, priority 
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RI-Mazda-Luce-Rotary-Coupe-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mazda/">Mazda</a>
+  <span>·</span>
+  <a href="/mazda/luce-rotary-coupe/">Luce Rotary Coupe</a>
+</div>

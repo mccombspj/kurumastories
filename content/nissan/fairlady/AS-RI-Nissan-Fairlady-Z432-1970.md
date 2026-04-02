@@ -130,3 +130,14 @@ Teranishi mused, "If we put a higher gear on this transmission and add the injec
 At the time of the third Japanese Grand Prix, in 1966, the first Prince R380 was said to be unable to break the two minute mark. However, thanks to the experience gained through the car, the same level of performance is now being replicated in production GT cars.
 
 A car that perfectly combines racing experience and marketability: this was the conclusion that Takatoshi Teranishi reached after thoroughly examining the Z432. 
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/fairlady/">Fairlady</a>
+</div>

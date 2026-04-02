@@ -144,5 +144,16 @@ As mentioned before, this car will be targeted at a wide range of general users 
 
 
 
-Looking closely, these things show that the manufacturer is struggling to combine sportiness and high speeds with general city driving. Honda Motor still has a short history in four-wheeled vehicle production, so naturally the question must have been, what should the character of this car be? Many problems remain to be solved. However, what can be said for sure about the Honda 1300 is that it is a small, high-performance car that squeezes out performance equivalent to a 2000cc engine from a remarkably small displacement. This is a victory for Honda's innovative engineering, and would be unthinkable without the experience of F1 racing.
+Looking closely, these things show that the manufacturer is struggling to combine sportiness and high speeds with general city driving. Honda Motor still has a short history in four-wheeled vehicle production, so naturally the question must have been, what should the character of this car be? Many problems remain to be solved. However, what can be said for sure about the Honda 1300 is that it is a small, high-performance car that squeezes out performance equivalent to a 2000cc engine from a remarkably small displacement. This is a victory for Honda's innovative engineering, and would be unthinkable without the experience gained in F1 racing.
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/honda/">Honda</a>
+  <span>·</span>
+  <a href="/honda/honda-1300/">1300</a>
+</div>
 

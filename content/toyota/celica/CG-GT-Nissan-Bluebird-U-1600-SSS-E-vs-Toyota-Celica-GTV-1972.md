@@ -204,3 +204,14 @@ In conclusion, these cars are comparable in terms of power performance, and they
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-GT-Toyota-Celica-1600GTV-vs-Nissan-Bluebird-U-1600-SSS-E-1972-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/celica/">Celica</a>
+</div>

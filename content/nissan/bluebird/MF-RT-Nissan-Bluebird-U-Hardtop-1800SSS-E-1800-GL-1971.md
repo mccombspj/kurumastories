@@ -518,3 +518,14 @@ So for the time being, the U will remain focused on the domestic market, while e
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-RT-Nissan-Bluebird-U-Hardtop-1800-SSS-E-1800-GL-1971-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/bluebird/">Bluebird</a>
+</div>

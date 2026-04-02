@@ -625,3 +625,15 @@ For example, many people have seat belts but don't use them, so they end up cove
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-RT-Honda-1300-Coupe-9S-1970-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/honda/">Honda</a>
+  <span>·</span>
+  <a href="/honda/honda-1300/">1300</a>
+</div>
+

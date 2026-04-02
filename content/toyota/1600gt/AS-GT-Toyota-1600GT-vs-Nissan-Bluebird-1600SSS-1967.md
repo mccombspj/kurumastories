@@ -151,3 +151,14 @@ In cornering, the effect of the limited-slip is obvious in that it is difficult 
 The brakes are front discs and rear aluminum drums with servo assist as standard, so they are sharp even at low speeds. In addition, a new pressure control valve has been added to prevent rear wheel lockup during sudden braking, so the car maintains directional control even when braking suddenly from high speed. 
 
 It was unfortunate that the test car had not yet been broken in, and could not deliver better test data as a result. On the other hand, we were able to fully enjoy this car in terms of its driving feel. The Toyota 1600GT is a car that is designed not only for sports driving, but one that can also be driven in city traffic without fuss, and in that sense, it can be said to be free of bad habits. It is a GT car that can also be enjoyed by the whole family and beginners.
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/1600gt/">1600GT</a>
+</div>

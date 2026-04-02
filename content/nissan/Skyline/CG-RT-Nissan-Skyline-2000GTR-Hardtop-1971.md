@@ -86,6 +86,19 @@ We discussed how we would spec the GT-R if we were buying one for our own practi
 
 {{< gallery "CG-RT-Nissan-Skyline-2000GTR-Hardtop-1971-Gallery" >}}
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/skyline/">Skyline</a>
+</div>
+
+
+
  
 
 

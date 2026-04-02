@@ -175,3 +175,16 @@ As we wrote at the beginning of this report, the new 2000GT is superior in almos
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RT-Nissan-Skyline-2000GT-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/skyline/">Skyline</a>
+</div>
+
+

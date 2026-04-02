@@ -135,3 +135,14 @@ With acceleration on par with that of a 2-liter sports car, an exceptionally sma
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RT-Mazda-Familia-Rotary-Coupe-1968-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mazda/">Mazda</a>
+  <span>·</span>
+  <a href="/mazda/familia/">Familia</a>
+</div>

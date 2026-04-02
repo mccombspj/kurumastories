@@ -157,3 +157,14 @@ Provided, of course, that one applies just a touch of driving discipline to keep
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-TDR-Mazda-Familia-Rotary-SS-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mazda/">Mazda</a>
+  <span>·</span>
+  <a href="/mazda/familia/">Familia</a>
+</div>

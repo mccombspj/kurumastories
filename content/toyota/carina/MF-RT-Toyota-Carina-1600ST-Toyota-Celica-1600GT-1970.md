@@ -372,3 +372,14 @@ In terms of safety, the Carina ST received 90 points out of 100. The Celica's in
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-RT-Toyota-Carina-1600ST-1971-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/carina/">Carina</a>
+</div>

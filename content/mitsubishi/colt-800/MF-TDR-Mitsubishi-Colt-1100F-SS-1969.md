@@ -165,3 +165,14 @@ Watching the tachometer, modulating the throttle and brakes, and repeating shift
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-TDR-Mitsubishi-Colt-1100F-SS-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mitsubishi/">Mitsubishi</a>
+  <span>·</span>
+  <a href="/mitsubishi/colt-800/">Colt 800</a>
+</div>

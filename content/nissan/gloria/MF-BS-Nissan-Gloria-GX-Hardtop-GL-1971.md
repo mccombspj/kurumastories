@@ -251,3 +251,14 @@ For evaluation, we use a format called the “Bubble Session”—a method from 
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-BS-Nissan-Gloria-GX-Hardtop-GL-1971-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/gloria/">Gloria</a>
+</div>

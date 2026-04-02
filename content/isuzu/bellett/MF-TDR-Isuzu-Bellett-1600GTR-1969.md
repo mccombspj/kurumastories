@@ -126,9 +126,20 @@ All the same, the fact that the production RT55 was offered with a 5-speed gearb
 
 While charging along the highway in the GTR, a thought briefly crossed my mind: "Since they have gone to such lengths to equip this car so completely, why not go all the way and make a 5-speed transmission standard?"
 
-Is it unreasonable to wonder, perhaps selfishly, that only then could the engine’s full power truly be unleashed on the road?
+Is it unreasonable to wonder, perhaps selfishly, whether only then could the engine’s full power truly be unleashed on the road?
 
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-TDR-Isuzu-Bellett-1600GTR-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/isuzu/">Isuzu</a>
+  <span>·</span>
+  <a href="/isuzu/bellett/">Bellett</a>
+</div>
 

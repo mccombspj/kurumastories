@@ -82,3 +82,14 @@ With its fundamentally excellent suspension and tires, the Savanna Coupe GS II i
 
 {{< gallery "CG-RI-Mazda-Savanna-GS-II-1971-Gallery" >}}
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mazda/">Mazda</a>
+  <span>·</span>
+  <a href="/mazda/savanna/">Savanna</a>
+</div>
+

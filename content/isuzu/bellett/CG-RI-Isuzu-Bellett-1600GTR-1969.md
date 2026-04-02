@@ -124,3 +124,14 @@ By the current standards of the class, the Bellett has small body dimensions, an
 
 
 Finally, the fuel economy was 9.2km/l on average for a 300km round trip to FISCO on the Tomei Expressway and driving around Tokyo, which is a relatively good figure for this type of vehicle. Although this article only provides a brief impression of the 1600GTR, we are planning to conduct a full-scale road test at a later date, so please be on the lookout for it.
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/isuzu/">Isuzu</a>
+  <span>·</span>
+  <a href="/isuzu/bellett/">Bellett</a>
+</div>

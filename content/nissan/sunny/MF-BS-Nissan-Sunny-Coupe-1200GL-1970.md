@@ -222,3 +222,15 @@ Even so, the final judgment must ultimately be made by you, our reader.
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-BS-Nissan-Sunny-Coupe-1200GL-1970-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/sunny/">Sunny</a>
+</div>
+

@@ -155,3 +155,15 @@ For the time being, the car's competition debut is likely to be in the special t
 
 There are a wide variety of optional parts available, so you can make the car an even more fearsome performer. You can also turn it into an enjoyable touring car. Prices start from 1.5 million yen (ex-store delivery in the Tokaido region).
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/skyline/">Skyline</a>
+</div>
+
+

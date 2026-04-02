@@ -95,3 +95,15 @@ Finally, a word on fuel consumption. We took measurements over a 149.8km route, 
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "CG-RI-Subaru-Leone-Coupe-1400GSR-1971-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/subaru/">Subaru</a>
+  <span>·</span>
+  <a href="/subaru/leone/">Leone</a>
+</div>
+

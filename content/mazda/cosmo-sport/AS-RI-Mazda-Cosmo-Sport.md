@@ -81,3 +81,14 @@ The dashboard is excellent, with the tachometer and other gauges that the driver
 
 Toyo Kogyo plans to hand over the Mazda Cosmo (2 rotor, 1000cc) to dealers and parts manufacturers in the near future to collect and monitor data in normal driving conditions. From this, it is clear that the Mazda Cosmo will be mass-produced in the near future. Toyo Kogyo is said to be waiting for the results of these experiments before releasing it on the market in 1967, but in any case, many fans are already waiting for the Mazda Cosmo's sales debut. Perhaps it will appear at the Japanese Grand Prix in May.
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mazda/">Mazda</a>
+  <span>·</span>
+  <a href="/mazda/cosmo-sport/">Cosmo Sport</a>
+</div>
+

@@ -324,3 +324,15 @@ In April, we were not yet able to conduct full-scale sales activities, but even 
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-RT-Nissan-Sunny-Excellent-Coupe-1400GX-1971-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/sunny/">Sunny</a>
+</div>
+

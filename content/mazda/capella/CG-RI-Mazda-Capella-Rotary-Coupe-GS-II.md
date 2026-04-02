@@ -95,3 +95,14 @@ There is nothing particularly noteworthy about the interior or exterior of the G
 
 Loaded with all these features, the Capella Rotary Coupe GS II is fully qualified to be at the higher-priced end of the Japanese market for this type of car, and although it has lost some of its once-ferocious punch, it is still unbeatable on the highway. As always, the fact that it combines its dynamic performance with the roominess and ride comfort of a practical car is commendable. It is C/G's hope that in the future, a Capella that combines the GS II's improved chassis with the "REmatic" JATCO automatic transmission will become a reality, to take full advantage of this model's good points.  
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mazda/">Mazda</a>
+  <span>·</span>
+  <a href="/mazda/capella/">Capella</a>
+</div>
+

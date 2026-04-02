@@ -71,3 +71,15 @@ There is no progress in the controls either. The clutch stroke is long and not a
 
 Fuel economy was recorded at 8.7km/l over about 300km of driving, including the Tokyo-Gotemba section of the Tomei Expressway and mountain roads around Hakone and Izu. This is slightly worse than the 8.8km/l of the Audi 100 Coupe S that accompanied us on the drive, but it can still be said to be relatively economical since it uses regular gasoline. However, we don't think fuel economy is a persuasive factor for choosing this EFI version of the Mark II.
 
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/corona-mark-ii/">Corona Mark II</a>
+</div>
+
+

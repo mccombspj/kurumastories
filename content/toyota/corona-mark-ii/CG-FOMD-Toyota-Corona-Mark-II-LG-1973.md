@@ -66,4 +66,13 @@ Therefore, as long as it is equipped with bias-ply tires, this car is a perfectl
 One of the advantages of EFI is the fuel economy, which was 6.98km/l on our round trip to Hakone via the Tomei Expressway, about 10% better than a Mark II L sedan with an automatic transmission that we drove under nearly identical conditions. However, if you drive on the congested streets of Tokyo, the worst-case scenario will be less than 4km/l. The standard price of the test car in Tokyo is 1,123,000 yen (with bias-ply tires), but if you add air conditioning, power windows, and a cruise control system that automatically maintains a pre-set speed, the price will be close to 1,300,000 yen. Still, some people may consider it a cheap purchase, since it is a reasonable size and not that different in specification from an American car. 
 
 
+---
 
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/corona-mark-ii/">Corona Mark II</a>
+</div>

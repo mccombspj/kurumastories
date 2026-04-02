@@ -162,3 +162,14 @@ The final test was on a rough road. The cars kicked up a lot of dirt, with feroc
 <b>Kazato:</b> That's a big deal. If you spend 250,000 yen on a Celica, you can make it a pretty good car...
 
 <b>Sugawara:</b> Moreover, the Celica, despite being 250,000 yen cheaper, has power windows and an FM radio. Common sense tells us the prices should be the other way around. I guess the price difference is due to the difference in engine cost, but it's hard to accept. It's 250,000 yen for a 10ps difference. That's too expensive no matter how you look at it.
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mitsubishi/">Mitsubishi</a>
+  <span>·</span>
+  <a href="/mitsubishi/colt-galant-gto/">Colt Galant GTO</a>
+</div>

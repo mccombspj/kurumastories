@@ -193,3 +193,14 @@ In that sense, although it carries the name Super Touring, it is more than just 
 <b><u>Postscript: Story Photos</b></u>
 
 {{< gallery "MF-RI-Subaru-FF-1-Super-Touring-1969-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/subaru/">Subaru</a>
+  <span>·</span>
+  <a href="/subaru/1000/">1000</a>
+</div>
