@@ -114,7 +114,7 @@ draft = false
 
 
 
-<b><u>Have Domestic Cars Reached the International Standard? Round 3: The Difference Between a Wild Stallion and a Mare</b></u>
+<b><u>Have Domestic Cars Reached International Standards? Round 3: The Difference Between a Wild Stallion and a Mare</b></u>
 
 There’s an old saying that goes, “You have to ride a horse to really know it.” The same applies to cars--just looking at the styling tells you almost nothing about them. What this test drive revealed was just how full of surprises both the Alfa Romeo and the Celica really are.
 

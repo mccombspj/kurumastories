@@ -218,9 +218,6 @@
     <loc>http://localhost:1313/toyota/celica/mf-bs-toyota-celica-1600st-toyota-carina-1600st-1971/</loc>
     <lastmod>2026-03-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/celica/mf-gt-toyota-celica-1600st-alfa-romeo-1750-belina-1971/</loc>
-    <lastmod>2026-03-11T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/toyota/crown/mf-tdr-toyota-crown-hardtop-super-deluxe-1969/</loc>
     <lastmod>2026-02-21T04:50:49-07:00</lastmod>
   </url><url>
@@ -272,6 +269,9 @@
     <loc>http://localhost:1313/toyota/carina/cg-rt-toyota-carina-1600gt-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/subaru/1000/mf-gt-subaru-1300g-sports-sedan-lancia-fulvia-coupe-rallye-1.3hf-1971/</loc>
+    <lastmod>2026-04-04T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/sunny/mf-rt-nissan-sunny-excellent-coupe-1400gx-1971/</loc>
     <lastmod>2026-02-20T04:50:49-07:00</lastmod>
   </url><url>
@@ -304,6 +304,9 @@
   </url><url>
     <loc>http://localhost:1313/toyota/celica/cg-gt-toyota-celica-1600gt-vs-mitsubishi-colt-galant-gto-mr-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/celica/mf-gt-toyota-celica-1600st-alfa-romeo-1750-belina-1971/</loc>
+    <lastmod>2026-04-03T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/crown/mf-gt-toyota-crown-hardtop-opel-rekord-coupe-1971/</loc>
     <lastmod>2026-03-27T04:50:49-07:00</lastmod>
@@ -377,22 +380,31 @@
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/subaru/1000/</loc>
+    <lastmod>2026-04-04T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/subaru/</loc>
+    <lastmod>2026-04-04T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-04T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/celica/</loc>
+    <lastmod>2026-04-03T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/</loc>
+    <lastmod>2026-04-03T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/gloria/</loc>
     <lastmod>2026-04-01T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/</loc>
     <lastmod>2026-04-01T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-01T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/bluebird/</loc>
     <lastmod>2026-03-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/crown/</loc>
-    <lastmod>2026-03-27T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/</loc>
     <lastmod>2026-03-27T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/cherry/</loc>
@@ -409,9 +421,6 @@
   </url><url>
     <loc>http://localhost:1313/nissan/fairlady/</loc>
     <lastmod>2026-03-14T00:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/celica/</loc>
-    <lastmod>2026-03-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-800/</loc>
     <lastmod>2026-03-10T04:50:49-07:00</lastmod>
@@ -430,12 +439,6 @@
   </url><url>
     <loc>http://localhost:1313/mazda/</loc>
     <lastmod>2026-02-24T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/subaru/1000/</loc>
-    <lastmod>2026-02-16T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/subaru/</loc>
-    <lastmod>2026-02-16T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/luce-rotary-coupe/</loc>
     <lastmod>2026-02-13T04:50:49-07:00</lastmod>

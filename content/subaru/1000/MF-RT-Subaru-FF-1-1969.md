@@ -65,9 +65,7 @@ draft = false
 
 <b>Magazine:</b> To get started, could you tell us about the development aims and overall outline of this new Subaru FF-1?
 
-<b>Yamamoto:</b> It has now been twelve years since we entered the market with the Subaru 360. In that time we introduced the Subaru 1000, and thanks to your continued support, it has been on sale for nearly three years. Throughout that period, we have received a great deal of advice and guidance from the distinguished experts present here, and our engineering staff has devoted every effort, examining every possible angle, to improving performance and creating a car that represents even the smallest step forward.
-
-The result of those efforts is what you see here today: the FF-1.
+<b>Yamamoto:</b> It has now been twelve years since we entered the market with the Subaru 360. In that time we introduced the Subaru 1000, and thanks to your continued support, it has been on sale for nearly three years. Throughout that period, we have received a great deal of advice and guidance from the distinguished experts present here, and our engineering staff has devoted every effort, examining every possible angle, to improving performance and creating a car that represents even the smallest step forward. The FF-1 is the result of those efforts.
 
 <b>Magazine:</b> And the name, FF-1?
 
@@ -103,9 +101,9 @@ For example, at around 45km/h in top gear the engine turns approximately 2000rpm
 
 <b>Hirao:</b> As we have just heard, to run comfortably on the expressways, it is necessary to make many careful improvements. The first thing that struck me was how remarkably quiet the engine is. Even as the revs rise beyond 7000rpm, it remains well balanced. And perhaps because there is no cooling fan, the quietness is maintained as speed increases.
 
-<b>Higuchi:</b> I imagine there are many people who are fond of Subaru, and the reason is not merely the front-wheel-drive layout. There are numerous features not seen on other cars, and I believe these are part of its appeal.
+<b>Higuchi:</b> I imagine there are many people who are fond of Subaru, and the reason is not only the front-wheel-drive layout. There are numerous features not seen on other cars, and I believe these are part of its appeal.
 
-For example, the standard model produces 62ps at 6000rpm, with maximum torque of 8.7kgm at 3200rpm, and a top speed of 145km/h. The Sports Sedan reaches 160km/h. For the high-speed age, these figures suggest more than sufficient capability. To achieve such performance from 1100cc--it would be difficult to ask for more.
+For example, the standard model produces 62ps at 6000rpm, with maximum torque of 8.7kgm at 3200rpm, and a top speed of 145km/h. The Sports Sedan reaches 160km/h. These figures suggest more than sufficient capability for the high-speed era. To achieve such performance from 1100cc--it would be difficult to ask for more.
 
 <b>Magazine:</b> We understand that considerable attention has been given to safety equipment. Could you explain the details?
 
@@ -125,7 +123,7 @@ The key, incidentally, is of the reversible type—symmetrical top and bottom—
 
 <b>Yamamoto (Mineo):</b> It's small, but once you get used to it, it’s fairly easy to use, don’t you think?
 
-<b>Hirao:</b> The door lock button, however, is positioned toward the rear, which makes it rather awkward to reach. If one is driving with it locked and the car were to overturn, for example, and especially if wearing a seatbelt, it might be difficult to release it oneself. There is the possibility that someone who could otherwise survive might not simply because the door cannot be opened. It could also happen that rescuers arrive and are unable to open the door. In that sense, wouldn't it be better to place it somewhere more convenient? With a two-door model, it would likely be even more difficult to operate.
+<b>Hirao:</b> The door lock button, however, is positioned toward the rear, which makes it rather awkward to reach. If one is driving with it locked and the car were to overturn, for example, and especially if wearing a seatbelt, it might be difficult to release it oneself. It's possible that someone who could otherwise survive might not simply because the door cannot be opened. It could also happen that rescuers arrive and are unable to open the door. In that sense, wouldn't it be better to place it somewhere more convenient? With a two-door model, it would likely be even more difficult to operate.
 
 <b>Murota:</b> In the case of the two-door, there may indeed be an issue. We are studying the matter.
 
@@ -135,7 +133,7 @@ The key, incidentally, is of the reversible type—symmetrical top and bottom—
 
 <b>Hirao:</b> Would it? I rather think it may be safer not to lock it on the expressway… In any case, whether it's safer to lock or not lock the doors at high speed is an issue for the entire industry.
 
-<b>Magazine:</b> It is certainly a question that applies to cars in general.
+<b>Magazine:</b> It is certainly a question that applies more generally.
 
 <b>Hirao:</b> If the seatbelt were to fail, then surely the occupant would not survive in any case. This is something that ought to be thoroughly studied by the Safety Committee of the Automobile Manufacturers Association.
 
@@ -143,9 +141,9 @@ The key, incidentally, is of the reversible type—symmetrical top and bottom—
 
 <b>Magazine:</b> Let's present the results of the performance tests.
 
-<b>Furutani:</b> I will start with the four-door Deluxe. The test car had covered only 3,507km. Unloaded vehicle weight was 700kg; with three occupants and instruments totaling 179.5kg, the test weight came to 879.5kg.
+<b>Furutani:</b> Starting with the four-door Deluxe: the test car had covered only 3,507km. Unloaded vehicle weight was 700kg; with three occupants and instruments totaling 179.5kg, the test weight came to 879.5kg.
 
-First, the standing-start acceleration results. The car reached 50m in 5.5 seconds, 100m in 7.7 seconds, 200m in 12.1 seconds, and 400m in 19.2 seconds. Expressed in terms of time to speed, the results were 0-20km/h in 1.8 seconds, 0-40km/h in 3.8 seconds, 0-60km/h in 6.4 seconds, 0-80km/h in 10.1 seconds, and 0-100km/h in 15.4 seconds.
+First, the standing-start acceleration results. The car reached 50m in 5.5 seconds, 100m in 7.7 seconds, 200m in 12.1 seconds, and 400m in 19.2 seconds. In terms of time to speed, the results were 0-20km/h in 1.8 seconds, 0-40km/h in 3.8 seconds, 0-60km/h in 6.4 seconds, 0-80km/h in 10.1 seconds, and 0-100km/h in 15.4 seconds.
 
 Turning to the FF-1 Sports, vehicle weight was 705kg; again, three occupants plus instruments added 179.5kg, giving it a test weight of 884.5kg. 
 
@@ -157,19 +155,19 @@ For comparison with the previous Subaru 1000 SS, that car recorded 18.2 seconds 
 
 Compared with other cars in the same class, the Corolla Sprinter recorded 4.5 seconds for 0–50m, while this FF-1 is very slightly behind at 4.7 seconds.
 
-<b>Hirao:</b> That is likely because it is front-wheel drive; the front wheels slip more easily under hard acceleration. The gear ratios have also changed. On a higher-grip surface, the results might have been even better.
+<b>Hirao:</b> That is likely because it is front-wheel drive; the front wheels slip more easily under hard acceleration. The gear ratios have also changed. On a higher-grip surface, the results might have been better.
 
 <b>Honda:</b> The gear ratios are 3.540 for first, 2.235 for second, 1.542 for third, and 1.033 for fourth.
 
 <b>Hirao:</b> The Murayama test course has become rather worn, and the coefficient of friction is lower than it used to be. That would explain why the results fall slightly short of the catalog figures.
 
-<b>Furutani:</b> At the section of Murayama that we use for acceleration testing, the starting area is asphalt that transitions to concrete from the middle of the course onward, so initial tire bite is not necessarily ideal.
+<b>Furutani:</b> At the section of Murayama that we use for acceleration testing, the starting area is asphalt that transitions to concrete from the middle of the course onward, so initial tire bite is less than ideal.
 
 At launch, the clutch felt somewhat soft. Perhaps this is intended to prevent novices from stalling, but in any case, that was the impression it gave.
 
 That said, perhaps owing also to the car’s light weight, acceleration is very good. Overtaking acceleration in particular is considerably improved over the previous 1000cc model.
 
-One concern, however: in second gear, the engine enters the yellow zone at 70km/h. In third, the yellow zone is reached at 100km/h, and by 110km/h it is already in the red. Now that we have entered the high-speed era, it might have been desirable to allow a little more margin in the gearing.
+One concern, however: in second gear, the engine enters the yellow zone at 70km/h. In third, the yellow zone is reached at 100km/h, and by 110km/h it is already in the red. Now that we have entered the high-speed era, it might have been better to allow a little more margin in the gearing.
 
 Another point: it is said that torque between 1500-2500rpm has improved by as much as 16 percent. Yet the handbook states that top gear should not be used below 2000rpm. Isn't that something of a contradiction?
 
@@ -181,7 +179,7 @@ Another point: it is said that torque between 1500-2500rpm has improved by as mu
 
 <b>Furutani:</b> In actual use, it feels as though the gap between third and top is wider than that between second and third.
 
-<b>Hirao:</b> I agree. One should be able to pull confidently in third. For it to enter the yellow zone so quickly is slightly bothersome.
+<b>Hirao:</b> I agree. One should be able to pull confidently in third. It's bothersome for it to enter the yellow zone so quickly.
 
 <b>Hoshijima:</b> Yes. The red zone begins at 110km/h, and the yellow at 100km/h.
 
@@ -193,7 +191,7 @@ Another point: it is said that torque between 1500-2500rpm has improved by as mu
 
 <b>Magazine:</b> Now we'd like to hear the vibration and noise data measured by the Watari Laboratory.
 
-<b>Tateishi:</b> These are the results of the vibration and noise tests. Starting with the Sports model, the sprung-mass natural suspension frequency is 1.5cps, front and rear. The unsprung frequency is 15.0cps, again both front and rear.
+<b>Tateishi:</b> Starting with the Sports model, the sprung-mass natural suspension frequency is 1.5cps, front and rear. The unsprung frequency is 15.0cps, again both front and rear.
 
 The recorded interior noise levels were 66 phons at 40km/h, 69 at 50km/h, 70 at 60km/h, 71 at 70km/h, 74 at 80km/h, 75 at 90km/h, 76 at 100km/h, 77 at 110km/h, and 81 at 120km/h. Exterior noise at a steady 50km/h was 72 phons while under acceleration it reached 83 phons. At idle, the Sports registered 52 phons inside the cabin, and 73 phons outside the vehicle.
 
@@ -201,9 +199,9 @@ Turning to the Sedan, the sprung frequency is 1.4cps front and rear, with the un
 
 Interior noise levels for the Sedan were 65 phons at 40km/h, 67 at 50km/h, 68 at 60km/h, 70 at 70km/h, 73 at 80km/h, 74 at 90km/h, 76 at 100km/h, 78 at 110km/h, and 79 at 120km/h. Exterior noise at a steady 50km/h was 68 phons, and 75 phons during acceleration. At idle, interior noise measured 45 phons on the A scale and 68 phons on the C scale.
 
-As mentioned earlier, interior noise levels are generally within the normal range. As for exterior noise, we would prefer it to be kept to around 80 phons if possible.
+As mentioned earlier, interior noise levels are generally within the normal range. As for exterior noise, we would prefer it to be kept within 80 phons if possible.
 
-Regarding noise, vibration and ride comfort in the Sports model, the frequencies are about the same as those recorded previously for the 1000cc version. The Sedan, however, shows considerable improvement compared with the Sports. Its interior noise curve rises smoothly and progressively in a straight line, which is highly commendable. Compared with previous data, both low- and high-speed noise levels are reduced by 2 to 3 phons. Exterior noise can also be said to have become quieter.
+Regarding noise, vibration and ride comfort in the Sports model, the frequencies are about the same as those recorded previously for the 1000cc version. The Sedan, however, shows considerable improvement compared with the Sports. Its interior noise curve rises smoothly and progressively in a straight line, which is highly commendable. Compared with previous data, both low- and high-speed noise levels are reduced by 2 to 3 phons. Exterior noise has also become quieter.
 
 There was, however, some opinion that the exterior sound has a rather spirited character…
 
@@ -211,11 +209,11 @@ There was, however, some opinion that the exterior sound has a rather spirited c
 
 <b>Yamamoto:</b> No, not quite like that. The idea is more that when one hears that sound, one feels, “I would like to drive that car.” For the Sports model, much like a GT, we felt that a certain spirited note might indeed be appropriate.
 
-<b>Tateishi:</b> I have also heard that intake noise has been reduced. Has the air cleaner been changed as well?
+<b>Tateishi:</b> I've also heard that intake noise has been reduced. Has the air cleaner been changed as well?
 
 <b>Honda:</b> Yes, both the Sports and the Sedan have revised air cleaners. The Sports is fitted with a duct to suppress intake noise. On the Sedan, the duct has been made longer.
 
-<b>Magazine:</b> How about ride comfort? We understand the springs themselves have not been altered…
+<b>Magazine:</b> How about ride comfort? We understand the springs themselves have not changed…
 
 <b>Kimura:</b> Compared with the Sedan, the Sports has firmer settings.
 
@@ -225,17 +223,17 @@ There was, however, some opinion that the exterior sound has a rather spirited c
 
 <b>Hirao:</b> When I drove the Sports, it felt somewhat firm, and I assumed this was due to the springs. But it was the tires, then.
 
-<b>Oguchi:</b> At idle, I was struck by how quiet it was. Were the engine mounts changed--perhaps the rubber?
+<b>Oguchi:</b> At idle, I was struck by how quiet it was. Were the engine mounts changed--perhaps the type of rubber?
 
 <b>Kimura:</b> The rear engine mount has been revised, yes.
 
 <b>Magazine:</b> Professor Miyamoto, what were your impressions in terms of ride comfort?
 
-<b>Miyamoto:</b> Regarding the Sports model, I found its cornering to be extremely good. It left a strong impression of stability. Even someone accustomed to rear-wheel-drive characteristics would not feel apprehensive stepping suddenly into this FF car.
+<b>Miyamoto:</b> Regarding the Sports model, I found its cornering to be very good. It left a strong impression of stability. Even someone accustomed to rear-wheel-drive characteristics would not feel apprehensive stepping straight into this FF car.
 
-At the same time, I would express one wish. It seems to me that it is necessary to explain more clearly why the FF system has been adopted. Those who are knowledgeable about automobile structures and mechanisms tend to choose FF, but the general public does not approach unfamiliar concepts so easily. Its advantages ought to be presented more distinctly.
+At the same time, I have one request. It seems to me that it is necessary to explain more clearly why the FF system has been adopted. People who are knowledgeable about automobile structures and mechanisms tend to appreciate FF, but the general public does not approach unfamiliar concepts so easily. Its advantages ought to be presented more distinctly.
 
-Ordinary buyers tend to gravitate towards vehicles sold in large, impressive showrooms by dealers with extensive sales networks. If I may be frank, perhaps a more revolutionary body style--something capable of rivaling foreign cars--would be desirable in this case. As it is, the styling gives a somewhat conventional impression.
+In addition, ordinary buyers tend to gravitate towards vehicles sold in large, impressive showrooms by dealers with extensive sales networks. Speaking frankly, a more revolutionary body style--something capable of rivaling foreign cars--might be desirable in this case. As it is, the styling gives a somewhat conventional impression.
 
 <b>Higuchi:</b> Even the name "FF-1" is insufficient. Unless "Front Drive" is boldly displayed alongside it, the meaning is not immediately understood.
 
@@ -319,7 +317,7 @@ Finally, in the free-release directional stability test, its character has chang
 
 <b>Magazine:</b> Mr. Hoshijima, how did you find the steering? Was it either too heavy or too light?
 
-<b>Hoshijima:</b> Compared with the earlier 1000, this car's steering feels lighter at high speed. On the Tomei Expressway in particular, it seemed light to me. Personally, I think steering ought perhaps to be a little heavier at high speed.
+<b>Hoshijima:</b> Compared with the earlier 1000, this car's steering feels lighter at high speed. On the Tomei Expressway in particular, it seemed light to me. Personally, I think steering ought to be a little heavier at high speed.
 
 As for cornering, I found the feel much improved. Especially on downhill sections. Braking lightly before entering the corner, turning in, allowing the tail to move just slightly, then applying the throttle decisively... the sensation is more enjoyable than in the previous 1000.
 
@@ -331,7 +329,7 @@ As for cornering, I found the feel much improved. Especially on downhill section
 
 <b>Hirao:</b> Maybe Hoshijima could write it...
 
-<b>Hoshijima:</b> It would not be inappropriate to emphasize that at higher speeds the car offers a distinctly different style of driving.
+<b>Hoshijima:</b> It would not be inappropriate to emphasize that at higher speeds the car offers a distinctly different driving style.
 
 <b>Hirao:</b> A sort of guide to FF driving.
 
