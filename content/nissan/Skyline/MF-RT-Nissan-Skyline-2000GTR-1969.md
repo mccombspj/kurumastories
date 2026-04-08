@@ -14,7 +14,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> June 1969<br>
-<b>Author (Roundtable):</b> Jiro Tanaka, Kazuri Okamoto, Osamu Hirao, Atsushi Watari, Kenji Higuchi, Yuji Sakakibara, Jun Narue, Shinichiro Sakurai, Kunitaka Furutani, Hiroshi Hoshijima, Akio Miyamoto, Tadashi Terashima, Taizo Tateishi, Kazuo Kumabe, Ken Goto, Yasuhei Oguchi, Kenzaburo Ishikawa, Yoshio Akutsu, Mineo Yamamoto, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
+<b>Authors (Roundtable):</b> Jiro Tanaka, Kazuri Okamoto, Osamu Hirao, Atsushi Watari, Kenji Higuchi, Yuji Sakakibara, Jun Narue, Shinichiro Sakurai, Kunitaka Furutani, Hiroshi Hoshijima, Akio Miyamoto, Tadashi Terashima, Taizo Tateishi, Kazuo Kumabe, Ken Goto, Yasuhei Oguchi, Kenzaburo Ishikawa, Yoshio Akutsu, Mineo Yamamoto, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
 
 
 <b><u>World-Class Performance</b></u>

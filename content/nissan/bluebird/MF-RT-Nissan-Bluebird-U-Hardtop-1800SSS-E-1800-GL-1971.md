@@ -26,7 +26,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> December 1971<br>
-<b>Authors (Roundtable):</b> Hajime Mizutsu, Osamu Hirao, Kenji Higuchi, Yasuhei Oguchi, Noboru Ohta, Hiroshi Hoshijima, Hiroshi Shimizu, Kenichi Otani, Kunitaka Furutani, Masahide Sano, Atsushi Watari, Taizo Tateishi, Katsuzo Kageyama, Kenzaburo Ishikawa, Yukio Miyamori, Toshihide Hirata, Minoru Onda, Yasunobu Tomizuka
+<b>Authors (Roundtable):</b> Hajime Mizutsu, Osamu Hirao, Kenji Higuchi, Yasuhei Oguchi, Noboru Ohta, Hiroshi Hoshijima, Hiroshi Shimizu, Kenichi Otani, Kunitaka Furutani, Masahide Sano, Atsushi Watari, Taizo Tateishi, Katsuzo Kageyama, Kenzaburo Ishikawa, Yukio Miyamori, Toshihide Hirata, Minoru Onda, Yasunobu Tomizuka, Motor Fan Editorial Staff (uncredited)
 
 
 
