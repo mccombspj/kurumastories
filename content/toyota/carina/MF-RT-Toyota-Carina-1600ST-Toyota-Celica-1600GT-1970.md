@@ -16,358 +16,382 @@ draft = false
 <b>Date:</b> March 1971<br>
 <b>Author:</b> Katsuhiko Nishida, Kenji Higuchi, Yasuhei Oguchi, Hiroshi Okazaki, Atsushi Watari, Akira Miyagawa, Kiyoshi Matsumura, Kunitaka Furitani, Masahide Sano, Hiroshi Hoshijima, Tadashi Nishiyama, Katsumi Kageyama, Yasu Saito, Kenzaburo Ishikawa, Akio Numazawa, Toshihide Hirata, Kiyoki Higuchi, Motor Fan Editorial Department (uncredited)
 
-<b><u>The Aim Is to Put People First</b></u>
+<b><u>Aiming for "People First"</b></u>
 
-<b>Magazine:</b> First, please tell us about the development goals and outline of the Carina and Celica.
+<b>Magazine:</b> To begin with, could you tell us about the aims and general outline behind the development of the Carina and Celica?
 
-<b>Nishida:</b> The Carina is a car that aims to fill as wide a space as possible between compact cars and mass-market cars. If we liken the Toyota lineup to a tree, there are various branches such as the Century, Crown, Corona, Corolla, and Publica, but we thought it would be nice to have one more branch within that, so we developed the Carina. The Carina is a sporty family sedan, and although the Celica shares the same engines and some components, it is a completely different car from the Carina, a so-called "specialty car."
+<b>Nishida:</b> The Carina is a car intended to cover as broad a range as possible between the compact-car class and the mass-market-car class. If you think of our model line as a tree, there are branches such as Century, Crown, Corona, Corolla, and Publica--but we felt there could be room for another branch among them, and that is how the Carina was developed. The Carina is, at its core, a sporting family sedan. The Celica, while sharing certain engines and components, is an entirely different kind of car--what you would call a "specialty car."
 
-We set five goals for development.
-1) High performance, easy to drive, and responsive to the driver's intentions.
-2) Strong, long-lasting, and economical.
-3) Sufficient consideration for safety. In other words, we paid attention to even the smallest details and made every effort to ensure practical safety, not just the appearance of safety. For example, we took strict measures in the design of the wiring and piping.
-4) We took sufficient measures to meet the demands of continuous high-speed driving. To this end, we developed a new 5-speed transmission to prevent passenger fatigue, and we are using it in as many car models as possible. At the same time, we emphasized the low-speed torque of the engine so that it can also handle low-speed driving in cities.
-5) In order to meet the needs of this age of user diversification, we have prepared 2-door, 4-door, several types of engines, transmissions, and a wide range of options. The direction we are moving in is for manufacturers not to make pre-prescribed cars, but to assemble cars that meet the user's preferences. We aimed to thoroughly adopt a "people-first" approach, taking into consideration aspects such as the fun of shopping.
+In development, we set out five principal objectives.
 
-As for the transmission, we developed it to be lightweight, compact, and low-cost. We made the synchro stronger and made it lighter by using a direct shift. Needle roller bearings are used inside. The suspension uses MacPherson struts in the front and a 4-link system with lateral rods in the rear to reduce unsprung weight and friction. In particular, the rigidity of the suspension was increased to contribute to maneuverability and stability, and coil springs were used at the rear to enlarge the trunk space and lower the center of gravity. We placed particular emphasis on maneuverability and stability at high speeds.
+1. High performance, yet easy to use, with responses that faithfully follow the driver's intentions.
+2. Durability and long service life, with good economy.
+3. Thorough consideration for safety--not only in the things you can see, but in the finer details as well, aiming at real, substantive safety. For example, wiring and piping have been treated with particular care.
+4. Careful attention to meeting the demands of sustained high-speed driving. With this in mind, we developed a new 5-speed transmission to reduce driver fatigue, and have adopted it across as many models as possible. At the same time, we placed emphasis on low-speed torque, so that the car can also cope well with urban driving.
+5. In keeping with the age of diversification, we prepared two-door and four-door bodies, a range of engines and transmissions, and a wide selection of options, so as to meet a variety of needs. Rather than the manufacturer presenting a fixed specification, the idea is for the user to assemble a car to their own taste. Even the enjoyment of the "shopping" process was taken into account--in short, we pursued a "people first” approach throughout.
 
-The brakes are discs at the front and leading/trailing drums at the rear, with a large booster and a proportioning control valve.
+As for the transmission, it was developed to be light, compact, and economical. The synchronizers have been strengthened, and the direct shift action lightened. Internally, needle roller bearings are used. The suspension employs MacPherson struts at the front, and a four-link arrangement with a lateral rod at the rear, reducing unsprung weight and friction. Particular attention was given to increasing rigidity in the suspension and its mounting points, contributing to handling and stability; coil springs were adopted to enlarge the luggage space and lower the center of gravity. The aim was an overall balance of effects, with special emphasis placed on high-speed stability and controllability.
 
-The ideas behind the body engineering are roughly the same as the Corona.
+The brakes are discs at the front and leading-trailing drums at the rear, with a large booster and a proportioning valve.
 
-The Celica was developed using completely new and different shapes and forms. We placed particular emphasis on making the body dimensions large enough for comfort, and I believe that we have managed to provide a relatively sufficient amount of space despite the low overall height. 
+As for the Carina's body, the basic thinking follows much the same lines as the Corona.
 
-<b>Matsumura:</b> The requirements for engines have become much more demanding recently. While high-speed driving is now expected, there are still plenty of slow driving conditions, and exhaust gas countermeasures must also be taken. Therefore, in accordance with the development objectives mentioned earlier, our first goal was to make the engine easy to use. In other words, we wanted it to be practical, versatile, and reliable against all kinds of trouble, not just focused on high-speed driving. For this reason, we carried out testing specifically to improve reliability. Reliability was confirmed under environmental conditions of low and high temperatures, including actual on-site vehicle testing in locations with those conditions.
+The Celica, on the other hand, was developed as an entirely new form. Particular emphasis was placed on securing adequate body dimensions, and despite its low overall height, we believe it offers comparatively sufficient interior space.
 
-It also had to be quiet, so we worked to eliminate peak noises across the entire rpm range, eliminating the sources of noise one by one, such as the bending vibration of the power plant at high rpm, noises from the intake system, reflected sounds from the valve system, etc.
+<b>Matsumura:</b> The demands placed on engines have become increasingly severe lately. High-speed running is now a necessity, but at the same time, slow, stop-and-go driving remains common, and exhaust emissions must also be addressed. Accordingly, following the development objectives just outlined, our first aim was ease of use--not only at high speed, but in practical everyday conditions, and with a high degree of reliability against all forms of trouble. To that end, we carried out testing specifically to improve reliability, including low and high temperatures, with real-world vehicle testing in locations with those conditions.
 
-As for exhaust gas measures, we had to consider not only CO, but also hydrocarbons and NOx in consideration of future regulations, so we aimed to incorporate that forward thinking into the current engine's basic design. For that reason, we paid attention to optimizing the fuel injection conditions as well as the air-fuel ratio for the carburetor, and also to the shape of the intake and exhaust system including the combustion chamber. We think the resulting fuel economy and oil consumption are not embarrassing for this class.
+Quietness was another requirement, and we worked to eliminate peak noises across the entire speed range. We addressed such factors as bending vibrations in the powerplant at high engine speeds, intake noise, and reflected noise in the valve system one by one.
 
-<b>Magazine:</b> We think the Carina will overlap with the Corolla, Corona, and Corona Mark II.
+With regard to exhaust emissions, and looking ahead, we considered not only CO but also hydrocarbons and NOx, and aimed to incorporate this thinking into the basic design of the present engine. Accordingly, attention was paid not only to air-fuel ratio in the carburetor, but also to fuel atomization, as well as the shapes of the combustion chamber and the intake and exhaust systems. As for fuel consumption and oil consumption, we believe they are entirely acceptable for this class.
 
-<b>Nishida:</b> I think the class of the car is a little different. However, it does occupy the middle ground between a compact car and a mass-market car, so it may be said to be a little closer to the compact car class. Also, in terms of the way of thinking and feeling it represents, I think it's good for us to offer something a little different.
+<b>Magazine:</b> Doesn't the Carina overlap somewhat with the Corolla, Corona, and Corona Mark II?
 
-<b>Magazine:</b> Is it somewhere between a Corolla and a Corona?
+<b>Nishida:</b> I think there are some differences in vehicle class. Within the intermediate range between compact and mass-market cars, it might be said to lean somewhat toward the compact-car side. And in terms of thinking and overall feeling, it may be good for us to offer something with a slightly different character.
 
-<b>Nishida:</b> That's about right.
+<b>Magazine:</b> So, is it roughly between the Corolla and Corona?
 
-<b>Higuchi:</b> Looking at the price, it seems almost the same as the Corona, from a buyer's perspective.
+<b>Nishida:</b> Yes, that's about right.
 
-<b>Magazine:</b> We wonder what will happen, sales-wise, from the perspective of the full Toyota model line.
+<b>Higuchi:</b> From a buyer's standpoint, looking at the price, it seems to be almost the same as the Corona.
 
-<b>Nishida:</b> To put it in extreme terms, GM has Pontiac and Buick for different users within similar vehicle categories.
+<b>Magazine:</b> From the perspective of a full model lineup, how does that work?
 
-<b>Magazine:</b> There's also the issue of the sales network.
+<b>Nishida:</b> To put it in somewhat extreme terms, it's similar to GM having both Pontiac and Buick.
 
-<b>Nishida:</b> That's right.
+<b>Magazine:</b> So there's also the matter of sales channels.
 
-<b>Magazine:</b> The Celica is in a class of its own, but what does it mean to be a "specialty car?"
+<b>Nishida:</b> Exactly.
 
-<b>Nishida:</b> I think the original meaning is something that is specially tailored to the user's preferences, outside of restrictions on price. I also think that novelty, or advanced technology, is one of the requirements for a specialty car.
+<b>Magazine:</b> The Celica stands apart, of course, but what is meant by the term "specialty car?"
 
-<b><u>Can You Choose Your Favorite Car?</b></u>
+<b>Nishida:</b> In the original sense, it refers to something specially prepared for the individual user, outside the usual price framework. And beyond that, a certain novelty--or forward-looking character--is also one of the conditions of a specialty car.
 
-<b>Magazine:</b> Does the "Full Choice" system meet the criteria for a specialty car?
+<b><u>Can You Really Choose the Car You Want?</b></u>
 
-<b>Nishida:</b> I think it's one important aspect.
+<b>Magazine:</b> The "Full Choice" ordering system--would that be one of the conditions of a specialty car?
 
-<b>Magazine:</b> The press materials say there will be 10 million different variations.
+<b>Nishida:</b> I would think so, yes.
 
-<b>Nishida:</b> Well, the number itself doesn't mean much, but if you include different colors, for example, I think it would be around 10 million different types.
+<b>Magazine:</b> We've heard it amounts to something like ten million combinations.
 
-<b>Magazine:</b> What kind of system is it?
+<b>Nishida:</b> Well, the number itself doesn’t have much meaning, but if you include differences in color, it would come to something on that order.
 
-<b>Nishida:</b> Up until now, for example, when you ordered a model called "SL," it had the appearance and equipment specified for the SL, and you couldn't make choices within that. This time, we've broken it down into components such as the body, engine, and interior, and created combinations that you can freely choose from. The big difference is in the production process.
+<b>Magazine:</b> How does the system actually work?
 
-<b>Magazine:</b> When a user actually makes their choice, how does the factory handle it? It's done using computers, right?
+<b>Nishida:</b> Up to now, for example, when a customer ordered an SL model, the appearance and content were fixed for that SL grade, and there was no scope for choice within it. This time, we have broken things down into components--body, engine, interior, and so on--and created combinations that allow free selection. That is the major difference.
 
-<b>Nishida:</b> Usually, we build a finished car in advance, but in this case, we prepare the materials up to the point of selection, and then assemble them as soon as they are needed, combining them as instructed by the orders coming through the computer system. For example, the body is made using a new method called the Gate Line System.
+<b>Magazine:</b> When a user actually makes a selection, how is it handled at the factory? We assume a computer is involved…
 
-<b>Higuchi:</b> In that sense, it's very good from the user's point of view. However, from the standpoint of the manufacturer, there are cases where there is no benefit unless there is a great deal of commonality, for example, the seats, steering wheel, and interior. If you look at cars from the various divisions of GM, the only things that are different are the radiator grille, fenders, and taillights, but they each have their own image. It seems to me that this car is also doing something like that, to some extent. The shared interior parts are obvious, but what about the body?
+<b>Nishida:</b> Normally, fully completed cars are built in advance, but in this case we prepare the individual components up to the point just before final selection. Then, the required combination is assembled as directed by the computer. For example, the body is handled using a new method called the Gate-Line System.
 
-<b>Nishida:</b> The bodies look completely different, but in fact they share a considerable number of parts. 
+<b>Higuchi:</b> From the user’s point of view, that’s very appealing. From the manufacturing side, however, unless a fair degree of commonality is maintained--seats, steering, interior components--there would be little advantage. If you look at cars from GM, for instance, the differences are largely in the radiator grille, fenders, and tail lamps, yet the overall impression changes considerably. This car seems to be doing something similar to a certain extent. It was quite evident in the interior--how about in the body?
 
-<b>Higuchi:</b> For example, the Corona's doors have the same dimensions for the different body styles, but by changing the accent lines, it gives a completely different impression. In this sense, parts-sharing should be thought of not as something that is deceptive, but as a way for manufacturers to make products that are both cheaper and of good quality. Of course, if there are too many variations, it can actually be a negative if you don't give careful consideration to the serviceability of all of them. 
+<b>Nishida:</b> The body may appear entirely different, but in fact a considerable number of parts are shared.
 
-<b>Nishida:</b> We think carefully about such things and create comprehensive plans when planning new products.
+<b>Higuchi:</b> For example, the doors are the same dimensions across the Corona line, but by changing the styling accents, each version gives a completely different impression. In this sense, parts-sharing is not a matter of disguising things, but of producing something of good quality at reasonable cost. With too many variations, unless serviceability is carefully considered, it can become a disadvantage.
 
-<b>Magazine:</b> In reality, there won't be orders for 10 million different types, and I think it will be narrowed down to a few popular combinations. That kind of forecast can also be done by computer. (laughs)
+<b>Nishida:</b> Those points are fully taken into account in the overall product planning.
 
-<b>Nishida:</b> After a month, you can understand the preferences of users from the previous month's trends, so that's possible. But this means that a system is in place to make 10 million different kinds at any time, if and when it is ordered.
+<b>Magazine:</b> In practice, we imagine there won’t be ten million actual orders, and things will settle into a few typical combinations. We suppose that, too, can be anticipated by computer. (laughs)
 
-<b>Oguchi:</b> I think the factory can build the 10 million types well with this system, but I think it will be more difficult to sell them. If there are 10 million configurations, it will be impossible for a human mind to organize them all. Also, from the perspective of the buyer, don't you think there will be confusion about what the differences are, that there are too many choices, and you don't know how to decide? 
+<b>Nishida:</b> After a month or so, one can understand user preferences from the previous month’s trends, so that is certainly possible. The point is that we have a system capable of producing those ten million variations at any time.
 
-<b>Higuchi:</b> I would want to see some sample combinations and a detailed price list.
+<b>Oguchi:</b> From the factory side, producing ten million variations may be manageable, but it would be more difficult on the sales side. With that many possibilities, it becomes impossible for the human mind to organize them. From the buyer’s standpoint as well, couldn't there be confusion--too many choices, and no clear sense of which to select?
 
-<b>Nishida:</b> That was published in a booklet. 
+<b>Higuchi:</b> I would want to see sample combinations, along with a detailed price list.
 
-<b>Higuchi:</b> So it's possible to have, let's say, a standard body with twin carbs, a 3-speed transmission, and disc brakes?
+<b>Nishida:</b> That has been prepared in booklet form.
 
-<b>Okazaki:</b> So you can't combine the functional parts as freely as that. When I tried it with the "Carputer" system, the combination I personally wanted, with a standard body, DOHC engine, rear defogger, and high-speed tires, didn't work. In the end, it ended up being an expensive car. (Laughs) It came with a clock and other unwanted items, and if you don't want a radio, but you do want a heater, you end up having to buy the version with the deluxe interior.
+<b>Higuchi:</b> So it’s possible to have, let's say, a standard body with twin carburetors, a 3-speed transmission, and disc brakes?
 
-<b>Watari:</b> No matter how cleverly you might explain what you want, it's like a bear in a cage at the zoo. No matter how hard you try, you're still inside the cage. (Laughs)
+<b>Okazaki:</b> In practice, you can’t combine functional components quite so freely. When you try it with the "carputer," the combination I’d personally like--a low-priced body, DOHC engine, rear defogger, high-grade tires--doesn’t work. In the end, it becomes an expensive car. (laughs)
 
-<b>Magazine:</b> Is "Carputer" available at every dealer?
+You also end up with things you don’t need, like a clock--and if, say, you don’t want a radio but do want a heater, you’re forced into buying the deluxe interior.
 
-<b>Nishida:</b> We're running a test case at five dealers in the Nagoya area.
+<b>Watari:</b> However cleverly it’s presented, it’s still like a bear in a cage at the zoo--you can walk around all you like, but you're still inside the cage. (laughs)
 
-<b>Okazaki:</b> It's fun. You end up wanting to buy the "recommended product." The recommended product will usually arrive in about four days, but if you order by "preference," it takes about a month... (laughs)
+<b>Magazine:</b> Is this "carputer" available at all dealers?
 
-<b>Nishida:</b> Although things like that will happen at first, once things get on track, we will be able to deliver the car of your choice in around ten days. 
+<b>Nishida:</b> It’s currently being tested at five dealers in the Nagoya area.
 
-<b>Oguchi:</b> Can I choose each individual part?
+<b>Okazaki:</b> It’s fun to use. In the end, though, one tends to choose the "recommended" specification. That can be delivered in about four days, whereas a fully personalized order takes about a month… (laughs)
 
-<b>Nishida:</b> The buyer can choose what we call a "power plant." So once the engine and transmission are chosen, the drivetrain and axle are selected accordingly. 
+<b>Nishida:</b> At first that may be the case, but once things settle down, even a "custom" car should be deliverable in around ten days.
 
-<b>Miyagawa:</b> To give another example, DOHC is only available in GT spec.
+<b>Oguchi:</b> Can individual components be selected freely?
 
-<b>Oguchi:</b> Can you choose based on the desired performance characteristics, rather than individual parts? For example, you might want to prioritize ride comfort, or fuel efficiency, or good power performance...
+<b>Nishida:</b> The powertrain is treated as a unit. Once the engine and transmission are decided, the driveline and axle are matched accordingly.
 
-<b>Nishida:</b> Not at the moment. 
+<b>Miyagawa:</b> Also, the DOHC engine is limited to the GT specification.
 
-<b>Oguchi:</b> It would be nice to be able to do that in the future. It may seem contradictory, but...
+<b>Oguchi:</b> So it’s not a matter of selecting individual parts, but is it possible to choose by performance characteristics? For instance, prioritizing ride comfort and fuel economy, while accepting moderate performance…
 
-<b>Miyagawa:</b> For now, we have a system in place that allows the selection of parts. We would like to create a system like you describe if we have the time. But if we were to separate the power-related choices into smaller parts, we would have to submit notifications for each combination to the Ministry of Transport, one by one.
+<b>Nishida:</b> At present, no.
 
-<b>Higuchi:</b> It would be a big problem if you told the Ministry of Transport there were 10 million different types. (Laughs)
+<b>Oguchi:</b> It would be desirable if that became possible in future, though there may be conflicting requirements.
 
-<b>Watari:</b> It would be great if users could submit their own settings...
+<b>Miyagawa:</b> For the time being, we have established a system for selecting components. If possible, we would like to take it further. However, if the powertrains were subdivided too finely, each variation would require separate approval from the Ministry of Transport.
 
-<b><u>Dare to Choose OHV</b></u>
+<b>Higuchi:</b> If you told the Ministry there were ten million variations, that would be quite something. (laughs)
 
-<b>Magazine:</b> Does the engine have anything in common with the design approach taken for the Century?
+<b>Watari:</b> It would be easier if users could just bring in their own specifications… (laughs)
 
-<b>Matsumura:</b> For the Carina/Celica series, there is one 1400cc engine and three 1600cc engines. These engines have a high degree of interchangeability, so rather than using existing heads, pistons, or connecting rods, we are adding variety to the new series by treating these engines as one group, while considering productivity. 
+<b><u>Daring to Choose OHV</b></u>
 
-<b>Magazine:</b> There are many OHC engines around the world these days, so why did you choose an OHV engine?...
+<b>Magazine:</b> Regarding the engine, is there any commonality with the Century?
 
-<b>Matsumura:</b> OHC is the trend, but we are going against that trend, and we believe that we can produce something that offers the functional benefits of OHC without taking the OHC shape. In other words, with a single OHC, there is a certain amount of strain on the combustion chamber that we wanted to avoid. We were particularly conscious of this, and even with an OHV, we were able to obtain a rotation speed that is sufficient to meet current demands. It's a 1600cc engine with an allowable rotation speed of 6500rpm, and for anything beyond that, we have a DOHC.
+<b>Matsumura:</b> In the Carina and Celica series, the 1400cc engine is offered in one version, and the 1600cc in three versions. That doesn’t mean we simply borrowed heads, pistons, or connecting rods from existing engines. Rather, we approached the new series as a unified group, giving the engines some variety while still keeping production efficiency in mind.
 
-<b>Higuchi:</b> I think OHCs used to be more expensive, but I think it's hard to say which is more expensive now. If you use double rocker arms, like this engine does, the number of parts increases, so I think a single OHC might actually be cheaper.
+<b>Magazine:</b> Worldwide, OHC engines are becoming more common. Why, then, deliberately choose OHV...?
 
-<b>Nishida:</b> It's an engine with the same functions as a DOHC, but it's also reliable and easy to service.
+<b>Matsumura:</b> OHC is certainly fashionable these days, but we felt that even without adopting OHC, we could achieve the same functional results. With a single OHC, there can be a certain amount of strain on the combustion chamber. By paying particular attention, we found that even an OHV engine can reach the necessary engine speeds to meet modern requirements. For this 1600cc engine, the maximum allowable speed is 6500rpm. For higher performance beyond that, we turn to DOHC.
 
-<b>Magazine:</b> What about quietness?
+<b>Higuchi:</b> In the past, OHC was more expensive, but today I don’t think you can say one is definitively more costly than the other. For example, with this engine, the use of double rocker arms increases the parts count, so a single OHC might even be cheaper in some cases.
 
-<b>Matsumura:</b> OHVs are noisier on the highway, so we eliminated those noises one by one through noise tests. 
+<b>Nishida:</b> The point is, we achieve the same functionality as a DOHC, with reliability and good serviceability.
 
-<b>Magazine:</b> I think OHC is easier to use at low speeds.
+<b>Magazine:</b> How about quietness?
 
-<b>Matsumura:</b> It's hard to say. Whether it works well when installed in a car is a question of how it's put together and the design.
+<b>Matsumura:</b> At high speed, OHV is naturally noisier. That’s why we worked carefully, tuning each part in noise tests to bring it down.
 
-<b>Magazine:</b> We understand that there were two internal teams competing to design the Celica... 
+<b>Magazine:</b> Wouldn’t an OHC be easier to use at low speeds?
 
-<b>Nishida:</b> That's not only the case for the Celica. Our teams come up with various ideas, and the designs that go into production are chosen from among them.
+<b>Matsumura:</b> It isn't that straightforward. Once the engine is installed in the car, it really comes down to design and how everything is put together.
 
-<b>Miyagawa:</b> Usually, we start with a certain size, or a certain engine displacement, and aim for a design within those parameters. In the case of the Celica, the Advanced Design Team was involved, and the design took the lead from the beginning, which was different from the normal process. But it wasn't a case of competition. 
+<b>Magazine:</b> We understand the Celica had two competing design teams. How did that work?
 
-<b>Oguchi:</b> When I first saw a photo of the Celica, it looked a bit like a Kero-yon, but the production car is completely different, which is great. 
+<b>Nishida:</b> For that car, as with others, multiple proposals were developed, and the final choice was selected from among them.
 
-<b>Watari:</b> The Celica looks best from the side. I don't really like the rear view of the Carina though...
+<b>Miyagawa:</b> Usually, a design is constrained by overall size and engine layout. With the Celica, our so-called Advance Group was involved, which allowed the design to take a more leading role than usual. Still, I wouldn’t call it a competition in the strict sense.
 
-<b>Higuchi:</b> The back looks like an old American car.
+<b>Oguchi:</b> When I first saw photos of the Celica, I thought it looked a bit like "Keroyon," but the actual car gives a completely different impression, in a good way.
 
-<b>Magazine:</b> The Carina looks narrow.
+<b>Watari:</b> The side view is the best angle for the Celica. The Carina’s rear styling isn't really to my taste, though…
 
-<b>Higuchi:</b> It's not overly decorative. It has a European feel to it.
+<b>Higuchi:</b> The rear is reminiscent of older American cars, isn’t it?
 
-<b>Magazine:</b> Which looks better, the Carina or the Celica?
+<b>Magazine:</b> The Carina looks quite slender.
 
-<b>Higuchi:</b> It depends on what you're looking for. You can drive a Carina casually, but with the Celica you have to think about what outfit you're going to wear...
+<b>Higuchi:</b> It’s not over-decorated; there’s a European sensibility to it.
 
-<b><u>"Simple Car"</b></u>
+<b>Magazine:</b> Between the Carina and Celica, which would you say is better?
 
-<b>Magazine:</b> Please tell us the results of the power performance tests.
+<b>Higuchi:</b> That depends on how it's going to be used. The Carina is easygoing, comfortable for everyday use. In the Celica, on the other hand, you have to pay a bit more attention to your outfit…
 
-<b>Furutani:</b> The 0-400m acceleration time was 17.1 seconds for the Carina ST and 16.1 seconds for the Celica GT. In terms of overtaking acceleration, up to around 100km/h, the Carina's response is better in third and fourth gear. At higher speeds, the Celica pulls ahead.
+<b><u>An "Honest Car"</b></u>
 
-<b>Oguchi:</b> I think its lower air resistance comes into play. 
+<b>Magazine:</b> Let’s have the results of the performance tests, please.
 
-<b>Nishida:</b> I think so.
+<b>Furutani:</b>  In 0-400m acceleration, the Carina ST recorded 17.1 seconds, while the Celica GT did it in 16.1 seconds.
 
-<b>Watari:</b> But the Celica was easier to drive in urban areas.
+As for overtaking acceleration, up to around 100km/h the Carina actually has the edge, in both third and fourth gears. At higher speeds, though, the Celica begins to pull away.
 
-<b>Magazine:</b> It's interesting, because the transmission and final drive ratio are the same in both cars.
+<b>Oguchi:</b> That would be where aerodynamic drag starts to come into play, wouldn’t it?
 
-<b>Miyagawa:</b> It's the difference in engine performance and weight. And also air resistance. The Celica is about 75mm lower than the Carina, and it has that styling. So the air resistance characteristics are quite different.
+<b>Nishida:</b> Yes, I think so.
 
-<b>Matsumura:</b> At low engine speeds, their performance is roughly similar, but the Carina's 2T-B engine seems to have slightly better steady-state torque. However, the Carina ST has twin downdraft carburetors, while the Celica GT has twin Solex carburetors, so perhaps the Solex's better response translates to a better feeling in urban areas.
+<b>Watari:</b> Even so, in town the Celica felt easier to drive.
 
-<b>Oguchi:</b> The Celica in particular ran smoothly even when I was driving it for the first time. It almost gave me the illusion that I had become a better driver. 
+<b>Magazine:</b> The transmission and final drive are the same in both cars, aren’t they?
 
-<b>Watari:</b> Even though the suspension and steering are the same, the feeling was quite different between the two cars. 
+<b>Miyagawa:</b> The difference comes down to engine characteristics and weight. And aerodynamics as well--the Celica sits about 75mm lower than the Carina, and with that shape, there’s a noticeable difference in drag.
 
-<b>Nishida:</b> The spring rates are a little different, but what they have in common is that even if the driver does something drastic, I think you can easily make corrections.
+<b>Matsumura:</b> At lower engine speeds there isn’t much difference between them, but the Carina’s 2T-B engine seems to have slightly better, more sustained torque. That said, the carburetion differs--the Carina ST uses twin downdrafts, while the Celica GT has twin Solexes. The sharper response of the Solex setup probably contributes to the better feel in city driving.
 
-<b>Magazine:</b> How were the results of the fuel economy tests?
+<b>Oguchi:</b> Particularly with the Celica, when I got in and drove it for the first time, I felt that it responded in a very natural, "honest" way. It almost made me feel like my driving had improved.
 
-<b>Sano:</b> In simulated city driving in a 40km/h speed limit zone, the practical fuel economy was 9.8km/l for the Celica GT and 11.5km/l for the Carina ST, and in a simulated 60km/h zone, their fuel economy was 8.9km/l and 10.0km/l, respectively. 
+<b>Watari:</b> Even though the suspension and steering are basically the same, the overall feel is quite different.
 
-In top gear, the Celica GT's constant-speed fuel economy is better at 80km/h than at 30km/h. In other words, it's a high-speed model. The Carina ST's constant-speed economy is better than the Celica GT's at low and medium speeds, but their fuel efficiency curves cross at 80km/h, and then the Carina falls behind.
+<b>Nishida:</b> The spring rates differ slightly, but in both cars, even if you push fairly hard, it remains easy to gather things up again.
 
-<b>Magazine:</b> Those are good results. Did both cars have 5-speed transmissions?
+<b>Magazine:</b> How were the fuel economy results?
 
-<b>Sano:</b> Both were 5-speeds, in both the constant-speed and practical tests.
+<b>Sano:</b> In the model-driving test, at a target speed of 40km/h, the Celica GT returned 9.8km/l, and the Carina ST 11.5km/l. At a target speed of 60km/h, the figures were 8.9 and 10.0km/l, respectively.
 
-<b>Magazine:</b> That means the final drive ratio is high.
+For steady-speed consumption, the Celica GT actually does better at 80km/h than at 30km/h--that is, it’s more of a high-speed type. The Carina ST is better at low to medium speeds, but the curves cross over from about 80km/h.
 
-<b>Sano:</b> The final drive ratio is 4.111, so to put it another way, if the overdrive fifth gear was a direct 1.000, the final drive would equate to about 3.463.
+<b>Magazine:</b> Those are good results. Were these taken in fifth gear?
 
-<b>Magazine:</b> Can you run at 40km/h in fifth gear?
+<b>Sano:</b> Yes, both the steady-speed and model-cycle figures included fifth.
 
-<b>Sano:</b> The Carina seems fine down to about 20km/h.
+<b>Magazine:</b> So in effect, that’s like having a relatively tall final drive.
 
-<b>Hoshijima:</b> The 5-speed is a more of a "selling point." It's certainly economical, quiet, lightweight, and compact, but the shifting felt too stiff and clunky, which was a bit off-putting.
+<b>Sano:</b> With a final drive of 4.111, if the overdrive top were taken as a direct 1.000, it would work out to about 3.463.
 
-<b>Magazine:</b> Are the gear lever strokes large? 
+<b>Magazine:</b> Can you drive in fifth at 40km/h?
 
-<b>Hoshijima:</b> They're not that large compared to a Corolla or something like that. 
+<b>Sano:</b> With the Carina, it was said to be possible down to about 20km/h.
 
-I thought the Carina was the quieter of the two cars overall, but there was a little bit of resonant noise when decelerating. The Celica didn't make that noise at all.
+<b>Hoshijima:</b> The 5-speed is clearly one of the car’s selling points. It’s certainly good for economy, and it’s quiet, as well as being light and compact. But the shift feel is perhaps a bit too notchy. It lacks a certain smoothness.
 
-<b>Magazine:</b> What were the measured results in the noise and vibration tests? 
+<b>Magazine:</b> Are the shift throws long?
 
-<b>Nishiyama:</b> We took measurements on a Carina Super Deluxe. We didn't test the Celica. The interior noise was 63 phons at 40km/h, 68 phons at 60km/h, 72 phons at 80km/h, 75 phons at 100km/h, and 80 phons at 120km/h. All of these measurements were taken in fourth gear. The exterior noise was 72 phons when driving at a steady speed, and 79 phons when accelerating. 
+<b>Hoshijima:</b> Not especially--no more so than, say, the Corolla.
 
-The measured vibration frequencies were 1.35 to 1.40Hz for the sprung vibration, and 11.5Hz for unsprung vibration.
+Also, I felt the Carina was the quieter of the two, but there was a slight resonant noise during deceleration. The Celica didn’t have that at all.
 
-<b>Watari:</b> The interior noise levels aren't particularly quiet. I think it would have been quieter if the measurements had been taken in overdrive fifth gear. There must be peaks in the rpm range somewhere.
+<b>Magazine:</b> What did the noise measurements show?
 
-<b>Nishiyama:</b> The results in the dBA scale form an almost straight line as speeds increase, but in the dBC scale, peaks appear around 50km/h and 70km/h. 
+<b>Nishiyama:</b> We took measurements on a Carina Super Deluxe. Interior noise levels were 63 phons at 40km/h, 68 at 60km/h, 72 at 80km/h, 75 at 100km/h, and 80 at 120km/h, all in fourth gear.
 
-<b>Watari:</b> I do have one complaint about the Celica, and that is the sound of its muffler. Although there has been a lot of complaining about noise pollution recently, I agree that a quiet, smooth running sports car is cooler. 
+Exterior noise was 72 phons at steady speed, and 79 under acceleration.
 
-<b>Kageyama:</b> I also noticed the sound when decelerating that Hoshijima mentioned. Only in the Carina, though.
+As for suspension vibration frequencies, the sprung mass was in the 1.35-1.40Hz range, and the unsprung mass about 11.5Hz.
 
-<b>Higuchi:</b> In the past, designers would put a "blanket" between the noise sources and the cabin to absorb sounds that were too loud, but technology has improved since then, and now mechanical noise levels are generally quieter. However, when hard plastics are used for the interior, etc., noise is generated when the body twists.
+<b>Watari:</b> I wouldn’t say the cabin is especially quiet. With an overdrive top gear, it ought to be quieter still--there may be a peak somewhere.
 
-<b>Watari:</b> For example, the materials for the interior door panels and the trim around the seats.
+<b>Nishiyama:</b> On the A-scale it’s nearly linear, but on the C-scale there are peaks around 50 and 70km/h.
 
-<b>Higuchi:</b> The interior door panels of the Carina are hard, and those of the Celica are soft.
+<b>Watari:</b> One thing I’d comment on is the Celica’s exhaust note. With all the talk of noise pollution these days, a sports car that slips by quietly has a certain appeal.
 
-<b>Nishida:</b> The Celica uses a new material called molded resin. 
+<b>Kageyama:</b> That deceleration noise Hoshijima mentioned--I noticed it as well. On the Carina, that is.
 
-<b>Watari:</b> I wonder if it will be a little quieter when summer comes. (laughs)
+<b>Higuchi:</b> In the past, if a car was noisy, people would simply add soundproofing material here and there. But as design has progressed, cars have become quieter overall. On the other hand, with the increased use of hard plastics in the interior, you sometimes get noises when the body twists.
 
-<b><u>Unparalleled Maneuverability For a Toyota Vehicle</b></u>
+<b>Watari:</b> Around the inside of the doors, or the seats, for example.
 
-<b>Magazine:</b> Please tell us the results of the maneuverability and stability tests.
+<b>Higuchi:</b> Yes—the Carina uses harder materials on the inside of the doors, while the Celica uses softer ones.
 
-<b>Saito:</b> These tests were conducted with a Celica GT. First of all, the practical minimum turning radius is 5.23m, which is the third smallest turning radius we have measured after the Mitsubishi Galant GTO and Ford Capri 1600. 
+<b>Nishida:</b> The Celica also adopts a new molded headliner.
 
-The steering is quite heavy. When the car was stationary, the turning effort reached a maximum of 19-20kg. 
+<b>Watari:</b> Perhaps it’ll quiet down a bit once summer comes. (laughs)
 
-In the understeer/oversteer test, understeer was moderate at medium speeds, and weakened at high speeds, with an R/Ro of about 1.28.
+<b><u>Unusual Handling for a Toyota</b></u>
 
-The roll rate was 4°, which is a bit high for a modern car.
+<b>Magazine:</b> Let’s move on to the results for handling and stability.
 
-The steering force remained quite heavy whether entering curves, holding a steady steering angle, or exiting curves, and it was also a little heavy when driving through a slalom course at 0.5 Hz. In the same slalom, the yaw rate per steering angle was on the high side, meaning that the steering gain at turn-in is large; in other words, it's responsive. 
+<b>Saito:</b> The tests were conducted with the Celica GT. Starting with the practical minimum turning radius, it came out at 5.225 meters--quite a tight figure, second only to the Galant GTO and Capri 1600.
 
-We performed free-release stability tests up to a maximum of 120km/h, and it generally converged smoothly. What is notable is that the convergence cycle was on the short side, at about 0.8 seconds.
+At a standstill, steering effort is on the heavy side, with a maximum of 20kg to the left and 19kg to the right.
 
-<b>Watari:</b> The Celica's steering is heavier than that of the Carina.
+As for understeer and oversteer characteristics, it shows a moderate degree of understeer at medium speeds, which eases off at higher speeds. At a V² of 100, the R/Ro value is about 1.28.
 
-<b>Nishida:</b> Actually, we intentionally did not make it lighter.
+The roll angle is around 4°, which is slightly on the high side by current standards.
 
-<b>Watari:</b> Are the tires different from those on the Carina?
+Both the steering effort and the effort to hold it in a turn are fairly heavy. In a 0.5Hz slalom, the effort per degree of steering angle is somewhat high, while the yaw rate per steering angle is also on the higher side--in other words, the steering gain is relatively large.
 
-<b>Nishida:</b> The Celica's are 165HR-13 radials, while the Carina's are 6.45-13-4PR bias-ply, so they are different. 
+Hands-off stability was tested up to 120km/h, and in general the car shows well-behaved convergence back to a straight path. One notable point is that the oscillation period is rather short, at about 0.8 seconds.
 
-<b>Ishikawa:</b> What is the difference in alignment?
+<b>Watari:</b> The Celica’s steering feels heavier than the Carina’s.
 
-<b>Numazawa:</b> They're almost the same. The geometry is almost the same, but the Celica uses gas-charged shock absorbers.
+<b>Nishida:</b> That’s intentional--we didn’t want to make it too light.
 
-<b>Higuchi:</b> For a Toyota car, not only is the Celica's styling different, but its steering feels different too. Did you do anything special to it?
+<b>Watari:</b> Are the tires different from the Carina’s?
 
-<b>Oguchi:</b> The feeling is quite different between the Celica and the Carina. It must be because of the tires. I wonder if the shocks make a difference, too.
+<b>Nishida:</b> Yes. The Celica uses 165H-13-4 tires, while the Carina's are 6.45-13-4.
 
-<b>Nishida:</b> The height of the center of gravity is also different.
+<b>Ishikawa:</b> What about alignment differences?
 
-<b>Oguchi:</b> In particular, the Celica's steering has a response and rigidity that is not typical of Toyota, and the rear suspension also tracks very well.
+<b>Numazawa:</b> The basic geometry is almost identical, but the Celica uses gas-filled shock absorbers.
 
-<b>Numazawa:</b> Right from the very beginning of the planning stages, we had decided to give it a stronger sense of that kind of feeling. 
+<b>Higuchi:</b> For a Toyota, not only the styling but also the steering feel is rather different. Was that deliberate?
 
-<b>Oguchi:</b> It feels close to neutral, and corners well.
+<b>Oguchi:</b> In terms of feel, there’s quite a noticeable difference between the Celica and Carina. The tires must play a part, but the dampers as well, I imagine.
 
-<b>Magazine:</b> You say it's not typical of Toyota cars, but was the reduced understeer a conscious part of the design?
+<b>Nishida:</b> The height of the center of gravity is different too.
 
-<b>Nishida:</b> Personally, I think my opinion has moved in that direction. 
+<b>Oguchi:</b> In particular, the Celica’s steering response and rigidity don’t feel very "Toyota-like," and the rear follows through very nicely.
 
-<b>Numazawa:</b> I think that being close to neutral is the recent trend. 
+<b>Numazawa:</b> From the initial planning stage, we did intend to give it something of that character.
 
-<b>Watari:</b> Did you design the rear suspension with Europe in mind?
+<b>Oguchi:</b> It feels close to neutral, and very pleasant through corners.
 
-<b>Okazaki:</b> Before the road test, I had a chance to drive on the circuit, and when I increased the speed considerably, the understeer became stronger. The front end started to slide out immediately. I think it would be better for the car to gradually reverse into oversteer, rather than understeering all the way. 
+<b>Magazine:</b> You say it doesn’t feel like a typical Toyota--was that mild understeer part of the design target?
 
-<b>Oguchi:</b> If you adjust the tire pressure...
+<b>Nishida:</b> Personally, that’s the direction I had in mind.
 
-<b>Numazawa:</b> From a safety standpoint, I think it's better for the understeer to be slightly stronger.
+<b>Numazawa:</b> I think a tendency toward neutral handling is becoming the general trend.
 
-<b>Magazine:</b> Please provide us with the data on weight, alignment, and braking.
+<b>Watari:</b> I wonder if they changed the rear suspension to suit European preferences?
 
-<b>Ishikawa:</b> The weight of the Celica GT is 971kg. The front-to-rear weight distribution of the Celica is 57:43, which is slightly heavier at the front than the Carina ST's 56:44. The weight distribution of the Carina ST hardly changes with the number of passengers aboard, but the weight of the Celica reduces at the front. Therefore, the seating position of the Celica GT is behind the center of gravity.
+<b>Okazaki:</b> Before the road test, I had a chance to run it on a circuit. When you really increase the speed, the understeer actually becomes stronger--the front starts to push quite early. Rather than holding that understeer all the way through, I think a gentler transition toward oversteer might be preferable.
 
-In terms of alignment, the Celica has a slightly large toe-in at the front and a small camber. The Carina has medium camber. At the rear, the Celica has almost zero toe-in and negative camber. The Carina has toe-out and zero camber. There is not much change depending on the number of occupants.
+<b>Oguchi:</b> You might be able to adjust that with tire pressures…
 
-The brake pedal force for 0.6g deceleration is almost the same for both cars, 27.5kg for the Celica and 26kg for the Carina. In stops from 50km/h in the road test, the pedal force was less than in the bench test, with the Celica requiring 25kg for 0.6g deceleration and the Carina varying slightly, but still around 20kg.
+<b>Numazawa:</b> From a safety standpoint, we feel it’s better to retain a certain degree of understeer.
 
-The road surface was wet during testing, and I wondered how effective the proportioning valve would be, so I applied the brakes at about 50kg of force. I didn't feel the brakes lock up, but the rear end was really swaying side-to-side. Looking at the data, I later realized that the brakes were unbalanced left-to-right. The front-to-rear brake force distribution is about 55:45.
+<b>Magazine:</b> Could we have the figures for weight, alignment, and braking?
 
-<b>Magazine:</b> It seems that the front wheels do a smaller proportion of the braking than normal.
+<b>Ishikawa:</b> The Celica GT weighs 971kg. Its front/rear weight distribution is 57:43, slightly more front-heavy than the Carina ST’s 56:44.
 
-<b>Ishikawa:</b> Yes, Toyota cars are still like that today. I think they want to preserve as much steering ability as possible...
+With changes in passenger load, the Carina’s distribution remains almost unchanged, whereas in the Celica the front load decreases. In other words, the seating position in the Celica GT lies somewhat behind the center of gravity.
 
-<b>Magazine:</b> What do you think of the brake feel?
+As for alignment, the Celica has slightly greater front toe-in and less camber, while the Carina uses a moderate camber setting. At the rear, the Celica is nearly zero toe-in with some negative camber, whereas the Carina has toe-out and essentially zero camber. These values don’t change much with additional passengers.
 
-<b>Ishikawa:</b> I think it's good, but I was more impressed that it was so effective with such an imbalance.
+Regarding braking, at 0.6g deceleration, the pedal effort is 27.5kg for the Celica and 26kg for the Carina--virtually the same. The servo's rest point is around 25kg.
 
-<b><u>Spacious Front Seats in Celica</b></u>
+In the road test, pedal effort when decelerating from 50km/h was slightly lower than in bench testing--about 25kg for the Celica at 0.6g deceleration. The Carina showed some variation, but was around 20kg.
 
-<b>Magazine:</b> Please tell us the results of the field of vision tests.
+Since the road surface was wet, we tried applying about 50kg of pedal force to see how the proportioning valve would behave. It didn’t feel like the wheels locked, but the rear stepped out to the side quite noticeably. Looking at the data, we realized that there was a left-right imbalance.
 
-<b>Hirata:</b> The forward visibility range of the Celica GT is 1.39 steradians, and the wipers clear about 63% of the windshield. The rear visibility range is 1.2 steradians. The rearview mirror has a total of 0.107 steradians, which is very good. The Carina has a forward visibility range of 1.5 steradians, and the wipers clear about 74% of the front window. The rear visibility range is 1.3 steradians.
+Front-to-rear brake force distribution, at around 25kg pedal effort, is 55:45 front to rear. This is a relatively low load on the front. The parking brake was very effective.
 
-Comparing these results to the data we have collected for other cars, where the total visibility has ranged from 2.2 to 3.2 steradians, the Celica/Carinas' 2.5 to 2.6 steradians is a normal value.
+<b>Magazine:</b> That front bias in braking seems a little low.
 
-<b>Magazine:</b> How do the Celica and Carina compare to each other? From their appearance, you would expect the data to be quite different.
+<b>Ishikawa:</b> Yes, that’s been typical of Toyota. I suppose the idea is to preserve as much steering control as possible.
 
-<b>Hirata:</b> The total fields of view are 2.6 and 2.58, so about the same, I guess.
+<b>Magazine:</b> And the braking feel?
 
-<b>Magazine:</b> I wonder how it feels to the driver.
+<b>Ishikawa:</b> In terms of feel, it’s quite good. Even with the imbalance we noted, their effectiveness is impressive--that left a strong impression.
 
-<b>Hoshijima:</b> It's true that they feel quite different to the driver, and if I'm driving alone, I prefer the Celica. However, I'm not sure about the visibility.
+<b><u>Relaxing Front Seats—Celica</b></u>
 
-<b>Magazine:</b> From what I can see, the Carina seems brighter inside.
+<b>Magazine:</b> Let’s hear the results on visibility.
 
-<b>Hoshijima:</b> Overall, the Celica felt better from the driver's seat. One thing that bothered me was that the rearview mirror was a little small. Also, the design of the instrument panel in previous Toyota cars was very luxurious, but when I look at the Carina, especially, that feeling is gone. This may be because other cars have improved, but in that sense, I would like to see it take another step forward to captivate young drivers like the Celica. 
+<b>Hirata:</b> For the Celica GT, the forward field of view measures 1.39 steradians, of which the wiper sweep covers 0.379 steradians, about 63% of the windshield. The rearward field of view is 1.2 steradians. The interior mirror provides a total of 0.107 steradians, which gives a very good rearward view.
 
-<b>Magazine:</b> Please give us some data on exterior and interior dimensions from the Higuchi Lab.
+For the Carina, the forward field of view is 1.5 steradians, with a wiper-swept area of 0.411 steradians—about 74% of the windshield. The rearward field is 1.3 steradians, and the rearview mirror covers about 69% of the rear window area.
 
-<b>Higuchi:</b> First of all, the Carina is said to be aimed somewhere between the Corona and the Corolla, but the dimensions are close to the Corona. Its overall length is 35mm shorter than the Corona, but 90mm longer than the Corolla. The width is the same as the Corona. In particular, the wheelbase is only 5mm shorter than the Corona. The interior is almost the same length as the Corona, with a difference of 5mm.
+As a comparison with data from previous tests, total visibility generally falls in the range of about 2.2 to 3.2 steradians, so the Celica and Carina, at around 2.5 to 2.6, can be considered quite typical figures.
 
-The instrument panel is similar to the Corona, but the seating area seems more similar to the Corolla. The shift lever throws are 65-70mm going into each gear and 40-50mm across the crossbar, so there is not much difference. I think the horizontal movements across the crossbar could be a little narrower. The problem is when you put it into reverse, you have to lift the gearlever upwards. It's fine once you get used to it, but is difficult at first.
+<b>Magazine:</b> How do the two compare with each other?
 
-The Celica is 1600mm wide, which is wider than the Corona. In these specialty cars, there are usually only one or two people on board, so I don't think the overall length is very important, and in that sense, it has the dimensions of a specialty car. The interior is naturally centered around the front seats, so it's cramped for the full five-person capacity for long periods of time. The front seats slide 160mm, and the distance from the center seat position to the pedals is 925mm. The standard for domestic cars is about 850mm, so anyone should be able to find a driving position they like. The Celica has a high waistline with raised "hips," so it's a little hard to see diagonally behind you when parking, but I think it's a matter of getting used to it.
+<b>Hirata:</b> At 2.6 versus 2.58, there’s very little difference.
 
-The trunks of both models have a spare tire stacked vertically on the right side. The gas tank is at the bottom of the trunk, and the trunk room is spacious enough.
+<b>Magazine:</b> And in terms of the feel while actually driving?
 
-The instrument panel area is very well-equipped, with a tachometer, water temperature, current, oil pressure, and fuel gauge all included.
+<b>Hoshijima:</b> From the driver’s standpoint, they do feel rather different. If I were driving alone, I’d prefer the Celica. But if we’re speaking strictly in terms of visibility, it’s harder to say.
 
-In terms of safety, the Carina ST received 90 points out of 100. The Celica's interior received a higher score than the Carina, with 92 points. The scores are roughly similar to those of a 2-liter class hardtop.
+<b>Magazine:</b> Visually, the Carina gives a brighter impression inside.
 
-<b>Magazine:</b> As for putting it into reverse...
+<b>Hoshijima:</b> Taken as a whole, though, the impression from the Celica's driver seat is the more agreeable. One point I noticed was that the interior mirror is a little small.
 
-<b>Hoshijima:</b> All you need to do is remember the technique. It's easy if you just pull the lever a little bit towards you.
+Also, whereas Toyota dashboards have traditionally had a rather luxurious feel, the Carina seems to have lost that somewhat. That may simply be because other cars have caught up, but in that sense, I'd like to see the Celica take a further step—something that really captures the imagination of younger drivers.
 
-<b>Magazine:</b> Finally, please tell us about your production plans.
+<b>Magazine:</b> Let’s have the data from the Higuchi laboratory.
 
-<b>Higuchi (Kiyoki, Toyota Motor Sales):</b> In December 1970, we expect sales of the Carina to be about 7,500 units, and sales of the Celica to be about 3,000 units. In fiscal year 1971, we plan to produce 15,000 Carinas and 10,000 Celicas.
+<b>Higuchi:</b> To begin with the Carina: it was said to aim at a position between the Corona and Corolla, but in terms of dimensions it is quite close to the Corona. Overall length is 35mm shorter than the Corona, and 90mm longer than the Corolla. Width is the same as the Corona, and the wheelbase differs by only 5mm.
 
-<b>Magazine:</b> What about exports?
+Interior length is also almost identical to the Corona, again within 5mm. Around the instrument panel, it resembles the Corona, while the seats seem closer in character to those of the Corolla.
 
-<b>Higuchi:</b> It's not clear yet, but we think we'll start with 5,000 to 6,000 units in the spring. Mainly for America.
+The shift lever stroke is 65-70mm in the shift plane and 40-50mm in the select plane, so there isn’t much difference between the two. It might be better if the select movement were slightly shorter. The main issue is engaging reverse--once you’re used to it, it’s fine, but if you simply push it toward the gate in the usual way, it doesn’t go in easily.
 
-<b>Magazine:</b> That's all for now...
+As for the Celica, its width is 1600mm, making it wider than the Corona. For a specialty car like this, where there are typically only one or two occupants, overall length is less critical, and in that sense the dimensions are appropriate.
+
+The interior is naturally centered on the front seats, and it would feel cramped with five passengers aboard for any length of time. The front seats have a sliding range of 160mm, and the distance from the center slide position to the pedals is 925mm. With the figure for domestic cars generally being around 850mm, this allows drivers of almost any size to find a comfortable position.
+
+Because of the body's relatively tall "hips" at the rear, rearward visibility at an angle when parking is slightly restricted, though this is largely a matter of familiarity.
+
+The trunk in both cars carries the spare tire upright on the right-hand side. The fuel tank is located beneath the trunk floor, leaving ample luggage space.
+
+The instrument cluster is fully equipped--tachometer, water temperature, ammeter, oil pressure, and fuel gauge--giving a very complete impression.
+
+In terms of safety, the Carina ST scores 90 out of 100, while the Celica, with slightly higher marks in interior-related items, scores 92. Both figures are comparable to those of 2-liter-class hardtops.
+
+<b>Magazine:</b> About engaging reverse gear…
+
+<b>Hoshijima:</b> Once you learn the technique, it’s no problem. If you pull the lever slightly toward you as you shift, it goes in easily enough.
+
+<b>Magazine:</b> Finally, could you tell us about production plans?
+
+<b>Higuchi (Kiyoki, Toyota Motor Sales):</b> For December of 1970, we expect around 7,500 units of the Carina and about 3,000 of the Celica. For the 1971 fiscal year, the plan is roughly 15,000 Carinas and 10,000 Celicas.
+
+<b>Magazine:</b> And exports?
+
+<b>Higuchi:</b> Nothing definite yet, but we expect to begin around spring, at a rate of 5,000 to 6,000 units, mainly for the US market.
+
+<b>Magazine:</b> Thank you all very much.
+
 
 <b><u>Postscript: Story Photos</b></u>
 
