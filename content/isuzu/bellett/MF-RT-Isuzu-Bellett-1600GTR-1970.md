@@ -25,201 +25,279 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> March 1970<br>
-<b>Authors (Roundtable):</b> Yozo Shimizu, Osamu Hirao, Ichiro Oka, Ren Ueda, Mineo Yamamoto, Hiroshi Toishi, Hiroshi Hoshijima, Hiroshi Okazaki, Kiyoshi Suzuki, Akio Miyamoto, Kunitaka Furutani, Masahide Sano, Katsuji Takanami, Taizo Tateishi, Atsushi Watari, Kenji Higuchi, Kenzaburo Ishikawa, Zo Doi, Ken Noguchi, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
+<b>Authors (Roundtable):</b> Yozo Shimizu, Osamu Hirao, Ichiro Oka, Ren Ueda, Mineo Yamamoto, Hiroshi Toishi, Hiroshi Hoshijima, Hiroshi Okazaki, Kiyoshi Suzuki, Akio Miyamoto, Kunitaka Furutani, Masahide Sano, Katsuji Takanami, Taizo Tateishi, Atsushi Watari, Ichiro Kaneshige, Kenji Higuchi, Kenzaburo Ishikawa, Zo Doi, Kenichi Noguchi, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
 
 
 
-<b><u>Aiming For High-Performance Cars</b></u>
+<b><u>Aiming for a High-Performance Car</b></u>
 
-<b>Magazine: </b>To get things started, I would like to ask Mr. Shimizu about the aims of developing the Bellett 1600GTR.
+<b>Magazine:</b> To begin, could we ask Mr. Shimizu to tell us about the development aims behind the Bellett 1600GTR?
 
-<b>Shimizu:</b> This car was released in the fall, and at that time, some people were of the opinion that a car like this would not sell well. However, we received unexpected support from young people after we released it, so we feel glad that we did. Since our aim was to develop a high-performance car, we had to be thoughtful both technically and in terms of manufacturing, and we studied a great deal about safety as well. Thank you for giving us this opportunity today. I would like to take this opportunity to learn a lot from you.
+<b>Shimizu:</b> This car was released in the autumn, and at the time there were quite a few opinions suggesting that a car like this wouldn’t sell in large numbers. However, once it was introduced, it received unexpectedly strong support, particularly from younger buyers, so we feel it was worthwhile bringing it to market.
 
-As for the aim of the design, we have been making Belletts for six years now. We made the GT first, which stood out from the beginning with its floor shift and other sporty design features, and then moved on to the 1300 and 1600. However, the performance of GTs made by other companies kept gradually improving, so if we remained at the same level, we would have fallen behind in terms of performance. By coincidence, the 1600cc DOHC engine was ready for mass production after the introduction of the 117 Coupe, and the price was also coming down. We made this car by adding this engine and filling in the gaps.
+Because we set out to create a high-performance car, it required considerable care both technically and in terms of production, and from a safety standpoint as well, there was a great deal we had to study and learn. Since we’ve been given this opportunity today, I hope we can take the chance to learn from your comments.
 
-Nowadays, the driving skills of private car owners have improved quite a lot, and there are now many people who can drive such high-performance cars safely, so we are aiming to cater to these people with the GTR. The price is also quite high, but if a young person buys a Bellett GT and then tunes it up, the total cost can reach 1 million yen. In that respect, some people believe that a car that has already been tuned up from the factory, like this one, is quite inexpensive, so we aimed for that point as well.
+As for the aims of development, we have now been producing the Bellett for six years. The GT came first, followed by the move to a floor-mounted shift, and we proceeded with a focus on sportiness, expanding from 1300cc to 1600cc models. However, as the performance of GT cars from other manufacturers steadily improved, we felt that if things continued as they were, we would fall behind in terms of performance.
 
-<b>Hirao:</b> Is this an engine based on the Bellett R6, but with slightly different tuning?
+By coincidence, the 1600cc DOHC engine—following its use in the 117 Coupe—was ready for mass production, and its cost had begun to come down. By fitting this engine, and aiming to fill in the gaps where the car had been lacking, we arrived at this model.
 
-<b>Oka:</b> That's right. The R6 uses a tuned-up version of this engine.
+At the same time, driver skill has improved considerably in recent years, and there are now many people who can handle a car of this level of performance safely. So part of our aim was to respond to those users.
 
-<b>Hirao:</b> The GTR has 120 horsepower, right? Does that mean the DOHC adds 20 horsepower?
+The price is, of course, somewhat higher, but among younger buyers who purchase a Bellett GT, it’s not uncommon to spend close to a million yen on tuning. From that perspective, there are those who see a car like this, already tuned from the outset, as representing good value, and that was also part of our thinking.
 
-<b>Oka:</b> That's right. The SOHC version makes 103 horsepower, so it's about a 20 horsepower increase.
+<b>Hirao:</b> Is this the same engine as the Bellett R6, with only differences in tuning?
 
-<b>Magazine:</b> Are there any differences in the body and chassis compared to a regular Bellett GT?
+<b>Oka:</b> That’s right. The R6 uses a tuned-up version of this unit.
 
-<b>Ueda:</b> Well, to briefly explain what has changed, the weight is slightly heavier than the GT due to the addition of DOHC and the strengthening of the drivetrain, the unladen weight is 970kg instead of the GT's 940kg, the top speed is 190km/h, the tires are 165HR-13, and the fuel tank capacity is larger at 46 liters.
+<b>Hirao:</b> The GTR is rated at 120 horsepower. Does that mean that by adopting DOHC, you’ve gained about 20 horsepower?
 
-In terms of design, the exterior has an air scoop on the hood at the front, and the front and rear are painted black. Stripes are added to the sides of the body to create a more stylish atmosphere. The front bumper is divided into two parts, with fog lights installed on the inside. The capless disc wheels are also used in the regular GT, but the rims are chrome-plated, which sets it apart. Inside, the seats are made of FRP molded parts with integrated headrests, which are ergonomically appropriate and provide a good grip. We created several prototypes of the leather-wrapped steering wheel and then selected one from among them by conducting a survey.
+<b>Oka:</b> Yes. The SOHC version produces 103ps, so it’s an increase of about 20ps.
 
-Other small improvements include a day/night switching rearview mirror, a wooden shift knob for the gear lever, a clock with a second hand, a defogger with a heat wire printed on the rear window, and high-speed wipers. Needless to say, we also included a collapsible steering column and flexible fender mirrors.
+<b>Magazine:</b> Are there any differences in the body or chassis compared to the standard GT?
 
-In terms of the chassis, the drive system has been strengthened to match the increased torque of the engine. This includes a strengthened clutch, and the transmission has a higher gear ratio for first gear, and a stronger universal rear axle shaft. A limited-slip differential and radial tires are also used. In the braking system, emphasis has been placed on stabilizing the front and rear brake distribution by combining a tandem master cylinder with a Hydromaster servo and using a pressure control valve for the rear wheels.
+<b>Ueda:</b> I’ll briefly outline the main changes. Because of the DOHC engine, and the associated strengthening of the driveline, the weight is slightly higher than the GT. Curb weight increases from 940 to 970kg. Top speed is 190km/h. The tires are 165HR-13, and the fuel tank capacity has also been increased to 46 liters.
 
-<b><u>0-400m: 16.4 Seconds</b></u>
+In terms of design, at the front we’ve added an air scoop to the hood, and adopted black paint treatment at both front and rear. A stripe has been applied along the side of the body to enhance the overall mood. The bumper is split into two sections, with fog lamps mounted on the inner side. Capless disc wheels are also used on the standard GT, but here the rims are chrome-plated to give it further distinction.
 
-<b>Magazine:</b> The GTR's style is based on the Bellett GT, but the matte finish on the hood and sporty stripes on the sides give it an even more powerful and rugged look.
+Inside, the seats are one-piece FRP molded units with integrated headrests, designed with ergonomics in mind to provide good support. The steering wheel is leather-wrapped, and we produced several prototypes, then selected the final design based on user feedback.
 
-<b>Yamamoto:</b> Was this car made as a successor to the existing Bellett? How does it compare to the existing model in terms of structure, dimensions, etc.? 
+As for other details, we’ve incorporated a day/night rearview mirror, a wooden shift knob for the gear lever, a clock with a second hand, a rear window defogger with printed heating element, high-speed wipers, and other small improvements. Needless to say, we have also adopted a collapsible steering column and flexible fender mirrors.
 
-<b>Ueda:</b> It was released as an updated vehicle rather than a successor. In terms of dimensions, the body shell is almost unchanged. The tread width has increased slightly, 15mm in the front and 25mm in the rear, due to the addition of capless disc wheels.
+In the chassis, the increase in engine torque required strengthening of the driveline. This includes revisions to the clutch and transmission, with a higher first-gear ratio, the adoption of a universal joint in the rear axle shaft, a limited-slip differential, and radial tires.
 
-<b>Magazine:</b> Is the air scoop functional? Or is it more for style?
+In the braking system, we’ve used a tandem master cylinder in combination with a Hydrovac servo, and added a pressure control valve for the rear wheels, with particular emphasis on stabilizing front-to-rear brake balance.
 
-<b>Ueda:</b> It has an effect on cooling, as hot air is blown out from there.
+<b><u>0–400m in 16.4 Seconds</b></u>
 
-<b>Toishi:</b> The air scoop is both for style and a way to let heat out. The right side helps to let out heat, and the left one is just a dummy. Also, the front bonnet is matte black, and there are black stripes, all of which give it a bold look in terms of design. 
+<b>Yamamoto:</b> Was this car developed as a successor to the existing Bellett? How does it compare in terms of structure, dimensions, and so on?
 
-<b>Hoshijima:</b> The matte finish on the hood is also functional.
+<b>Ueda:</b> Rather than a successor, we see it more as a car to lead the model line. As for dimensions, the body shell itself is almost unchanged. However, with the adoption of capless disc wheels, the track has increased slightly—by 15mm at the front and 25mm at the rear.
 
-<b>Suzuki:</b> It's very functional. If the bonnet is shiny, it's tiring for the eyes.
+<b>Magazine:</b> Is the air scoop functional, or is it mainly for styling?
 
-<b>Toishi:</b> It's just as useful as painting the wiper arms black.
+<b>Ueda:</b> It allows hot air to be vented from that area, so it does contribute to cooling.
 
-<b>Miyamoto:</b> It's very good when you're driving towards the sun. I think it's good to have a matte finish like the front of an airplane cockpit.
+<b>Toishi:</b> The air scoop serves both purposes--design and heat extraction. The right-hand side is functional and helps release heat, while the left is a dummy. Also, details like the matte-black bonnet and the black side stripes are all intended to give a sharper, more purposeful impression.
 
-<b>Magazine:</b> How did it do in terms of the power performance measured at Hirao Laboratory? 
+<b>Hoshijima:</b> The matte finish on the bonnet has a functional effect as well.
 
-<b>Furutani:</b> The standing-start acceleration was 4.4 seconds for 50m, 6.7 seconds for 100m, 10.4 seconds for 200m, and 16.4 seconds for 400m. This is because it's equipped with a 117 engine and the low gear ratio has been increased a little, but the starting acceleration time of the 117 is 16.7 seconds for 400m, so between the 180kg lighter body and the increased first gear ratio, the GTR is about 0.3 seconds quicker than the 117.
+<b>Suzuki:</b> Yes, very much so. If the bonnet is reflective, it can be fatiguiing for the eyes.
 
-<b>Magazine:</b> Watching the acceleration runs, it seemed that there was hardly any wheelspin. 
+<b>Toishi:</b> It serves a similar purpose to painting the wiper arms black.
 
-<b>Furutani:</b> There was no wheelspin when starting off. I think it's because of the grippy tires.
+<b>Miyamoto:</b> When driving toward the sun, it’s very effective. Like the anti-glare finish in front of an aircraft cockpit--it’s a good idea.
 
-<b>Toishi:</b> The quality of the radial tires is very good, and they don't slip, even when braking hard.
+<b>Magazine:</b> How were the performance figures measured by the Hirao laboratory?
 
-<b>Magazine:</b> Next, please give us the Oguchi Laboratory's fuel economy report.
+<b>Furutani:</b> Standing-start acceleration times were 0-50m in 4.4 seconds, 0-100m in 6.7 seconds, 0-200m in 10.4 seconds, and 0-400m in 16.4 seconds. This car uses the engine from the 117 Coupe, but with a slightly lower first-gear ratio. The 117’s 0-400m time is 16.7 seconds, so with this car being about 180kg lighter, along with the shorter gearing, the time improves by roughly 0.3 seconds.
 
-<b>Sano</b>: In terms of constant-speed fuel economy in top gear, the results were 17.2km/l at 30km/h, 17.1km/l at 60km/h, 15.4km/l at 80km/h, and 12.5km/l at 100km/h. The results at speeds around 40km/h, 50km/h, and 60km/h are very close with almost no change, and the curve is generally quite flat. We were also conducting a road test with the 117 Coupe at the same time, and the GTR was slightly better in constant-speed fuel economy. This may be because of its lighter weight.
+<b>Magazine:</b> Looking at the data, it seems there was almost no wheelspin.
 
-<b><u>Quieter at High Speed</b></u>
+<b>Furutani:</b> There’s no slip even at launch. Perhaps it's due to the wider tires.
 
-<b>Magazine:</b> At the Tokyo Motor Show, a 117 Coupe with ECGI (electronic fuel injection) was exhibited, and if this is the same engine, it can be used in the GTR as well. If such a car is released in the near future, how much will it differ in terms of power and fuel efficiency?
+<b>Toishi:</b> The quality of the radial tires is very good. Under braking as well, they hardly slip at all.
 
-<b>Oka:</b> I think it is possible that such a car will appear. I can't say how much horsepower it would have, but of course there will be benefits in terms of output. Also, considering that electronically controlled gasoline injection was created as a measure against exhaust emissions for Volkswagen's exports to the United States, we can expect it to be more economical in terms of fuel consumption. Another benefit is that it will improve the smoothness of control, even at very low speeds, allowing for smoother driving. Furthermore, the issue of exhaust fumes is becoming a very noisy one lately, and sports cars like this are having a hard time dealing with exhaust regulations, so it may also be a solution to that problem. 
+<b>Magazine:</b> Let’s have the fuel economy results from the Oguchi laboratory.
 
-<b>Magazine:</b> The suspension of the GTR has been significantly strengthened over the regular GT, but what is the specific spring rate?
+<b>Sano:</b> In steady-speed fuel consumption tests, we recorded 17.2km/l at 30km/h, 17.1km/l at 60km/h, 15.4km/l at 80km/h, and 12.5km/l at 100km/h. Around 40, 50, and 60km/h the figures are very close, showing almost no variation, and overall the curve is quite flat. 
 
-<b>Takanami:</b> Our aim was to release a sports kit as an optional part for the regular GT, and the GTR comes with a specification close to that of the Stage II kit, so the front spring constant is about 50 to 60 percent higher. The rear is also about 20 to 30 percent higher. The overall damping force of the shock absorbers has also been increased.
+We conducted steady-speed testing with the 117 Coupe at the same time, and under these conditions the GTR shows slightly better figures. This may be due to its lower weight.
 
-<b>Magazine:</b> How is the ride comfort, including vibration and noise, as measured at Watari Laboratory? 
+<b><u>Quiet High-Speed Noise</b></u>
 
-<b>Tateishi:</b> The vibration frequency is 1.7Hz for the front sprung vibration, 1.7Hz for the rear, and 17Hz for the unsprung vibration at the front wheels and 18Hz for the rear wheels. The spring rate for the sprung vibration is said to be 20% higher at the rear than in the GT, but it seems to be a lot higher.  
+<b>Magazine:</b> At the Tokyo Motor Show, a 117 Coupe equipped with ECGI (electronically controlled fuel injection) was exhibited. If that uses the same engine, then such a system could presumably be applied to the GTR as well. If a car like that were to appear in the near future, how much difference would there be in terms of power and fuel economy?
 
-The interior noise level is 67 phons at 40km/h, 72 phons at 80km/h, 76 phons at 100km/h, and 81 phons at 160km/h. Outside the car, the noise level is 70.5 phons when driving steadily, and 79 phons when accelerating. The exterior noise is very quiet for a GT, and considering high-speed noise and other factors, I think these are good results.
+<b>Oka:</b> I think the appearance of such a model is certainly possible. I can’t say exactly what the horsepower difference would be, but of course there would be a gain in output.
 
-<b>Watari:</b> I'm not sure the GTR is the kind of car that focuses on ride quality in the normal sense, other than maintaining flat cornering, or on interior noise. However, when I drove it, there was a lot of engine vibration and noise at idle. Once I started driving, I didn't notice the noise, but if I was going to drive long distances on the highway, I think that would be an issue.
+Also, electronic fuel injection was originally developed in connection with exhaust-emissions measures for Volkswagen's exports to the US, so it's reasonable to expect improved fuel economy as well.
 
-From the point of view of "husband's specifications," I think this car has just the right vibration and noise levels, peaking at low speeds, high speeds, and medium speeds, but there is one problem. I don't like the vibrations at idle, and I think that's because the engine mountings are too stiff. Is there any reason for this? I wonder if, if they're not stiff enough, there will be problems with linear motion of the engine. 
+Another point is drivability--the engine would operate more smoothly, with good response even at very low speeds, allowing for more precise control. And with exhaust emissions becoming an increasingly troublesome issue, especially for sports cars, this could also be a means of addressing that problem.
 
-<b>Kaneju:</b> It's not that much of a problem. With this kind of car, the space around the engine gets tighter and tighter, so it's designed to prevent the engine from interfering with or contacting other parts under the hood while driving. If it hits something, you get a shock, and it's stressful on the components as well, but the vibration at idle isn't relaxing either. I don't know if I can say that it's just the nature of the car, but it is a GTR, after all, so it's a little worse at idle than a normal sedan, and I think it's inevitable that you'll notice that for the time being. 
+<b>Magazine:</b> Compared with the standard GT, the GTR’s suspension has been significantly strengthened. To be specific, how much higher are the spring rates?
 
-<b>Hirao:</b> Well, it can't be helped how the valve timing was chosen. It revs up to 7000rpm.
+<b>Takanami:</b> Our aim was essentially to bring the production car close to what we had previously offered as an optional sports kit for the GT--something like the Stage II specification.
 
-<b>Kaneju:</b> Setting the idle speed at a higher speed reduces the vibration, but dealing with the vibration and noise of a car of this nature is difficult.
+As a result, the front spring rate has been increased by roughly 50-60%, and the rear by about 20-30%. The shock absorbers have also been tuned for overall higher damping force.
 
-<b>Higuchi:</b> From my perspective, if we look at the space around the engine, you have to at least give up on the idea of an air conditioner. But I get the feeling that some users will go ahead and tune up the 1600GT and replace the engine with this one. That will be expensive, so if you can get a good engine from the start, that would be better, but you can't have it both ways, so you have to give up on the "husband's" specifications. Is that right? 
+<b>Magazine:</b> From the measurements carried out by the Watari laboratory, how are the vibration, noise, and overall ride characteristics?
 
-<b>Kaneju:</b> It simplifies things to give up on the "husband's specs" completely, but in the end, it doesn't quite feel right.
+<b>Tateishi:</b> The suspension vibration frequencies are as follows: sprung-mass frequency is 1.7Hz at both front and rear; for the unsprung mass, the figures are 11.7Hz at the front and 18Hz at the rear.
 
-<b><u>Development at Endurance Racing Venues</b></u>
+As for the sprung frequencies, although we’ve just heard that the rear spring rate is increased by about 20 percent, the measured values seem quite high. 
 
-<b>Hirao:</b> In terms of noise and vibration, it would be much easier to live with this engine with an overdrive gear. As it is, it turns about 4000 rpm at 120km/h. If you could drive normally at those speeds at just under 3000rpm, it would make a big difference. In that sense, having an overdrive is a big advantage.
+The interior noise level is 67 phons at 40km/h, 72 phons at 80km/h, 76 phons at 100km/h, and 81 phons at 160km/h. 
 
-<b>Hoshijima:</b> I first saw the Bellett GTR in 1968. It was called "GTX" then, and it was entered in an endurance race at Suzuka. Since then, it has mainly participated in endurance races, but I was very interested in it because I always thought it would be interesting to put a 117 engine in a Bellett. However, at first it had a difficult time finishing races, and every time something went wrong and it had to retire. In 1969, the distances it could complete gradually increased, and in August it won the overall championship. Soon after, it was released in its production form under the name GTR. I was very interested in the fact that the endurance race itself had been used as a testing ground for development, and I think it was a very good way to promote it to the market.
+Exterior noise measures 70.5 phons under steady running and 79 phons under acceleration. For a GT, the external noise level is quite low, and considering high-speed noise as well, I think these are good figures.
 
-When I drove the car after it was released, the first thing I noticed was how quiet it was. However, below 40km/h it felt similar to what you describe when idling, and the noise and vibration there is no different from when the engine is first started, so this is unavoidable. However, the sound around 3000rpm is very quiet. And while it is true that it can be a little noisy when driving at around 120km/h, it is quiet above or below that speed. In particular, the quietness at 130km/h and 140km/h is almost unparalleled. It was definitely around 70 phons at that point.
+<b>Watari:</b> With a car like the GTR, I wonder whether it even makes sense to judge ride comfort in the usual vertical-motion sense, or to focus too much on interior noise--apart from cornering performance, that is.
 
-<b>Watari:</b> There are peaks in the noise level at 120 and 140km/h, and it's quiet in between.
+Speaking just from my impression, the engine is rather noisy and vibratory at idle. Once underway, that harshness becomes less noticeable, but if you were to do long-distance driving on the expressway, it might become an issue.
 
-<b>Hoshijima:</b> Comparing the ride quality of the GTR with that of the 117, I think the 117 has a better ride due to the suspension. Also, Professor Hirao mentioned the benefits of an overdrive transmission earlier, but to add to that, when driving on the Tomei Expressway at around 140km/h, I noticed there were many times when I needed to slow down and hesitated about whether to put it in third or apply the brakes. But if I had been driving in fifth gear, it would have been natural to drop down to fourth gear. It's not that I don't trust the brakes or tires to slow the car, but I think a car like this deserves a 5-speed transmission. 
+If you look at it from what you might call a "husband’s specification" standpoint, this car seems to have pronounced peaks in vibration and noise at low, medium, and high speeds alike--so that’s something to consider.
 
-<b>Hirao:</b> I think you should consider whether to make it a 5-speed, or to make overdrive available on third and fourth gears. 
+The idle vibration in particular is unpleasant. I assume the engine mountings have been made quite stiff—was there a reason for that? If they weren’t stiff, would there be problems with engine movement in operation?
 
-<b>Watari:</b> It's unsatisfying when there are changes in the engine sound that make it too quiet or too loud at different speeds. It would be better if there were no such dramatic changes at all. It's okay to raise the overall sound level, as long as it's consistent.
+<b>Kaneshige:</b> It wasn’t treated as such a major issue. In a car like this, space around the engine becomes increasingly tight, so the mountings are set up to prevent interference between components while driving.
 
-<b><u>Successful Seats</b></u>
+If everything is too rigidly constrained, shocks can increase stress, so it becomes a balancing act. Whether one can simply say "that’s the nature of the car" is another matter, but since this is a GTR, compared with a normal sedan, some roughness at idle is probably unavoidable for the time being.
 
-<b>Kaneju:</b> Pollution has gradually improved as the industry has been bullied, but the raw engine noise you mention is a problem, and we want to eliminate the high frequency noises as much as possible. These don't seem to affect the peak periods that people often point out in the measurements, but I still think they are noisy.
+<b>Hirao:</b> Well, that comes down to things like valve timing--you can’t really avoid it, especially if it’s designed to hold together up to 7000rpm.
 
-<b>Yamamoto:</b> Regarding vibration and noise, when I first drove it I did notice the idling harshness, but when I drove it on cobblestone roads, the car felt really good. I don't know why that was. 
+<b>Kaneshige:</b> If you raise the idle speed, the vibration becomes easier to live with, but managing both vibration and noise in a car of this character is inherently difficult.
 
-<b>Miyamoto:</b> I think that's because of the independent rear suspension. When the Bellett was released, I drove it on some pretty bad roads, but I also thought it was pretty good.
+<b>Higuchi:</b> My impression, looking at the engine bay, is that you’d have to give up on fitting air conditioning altogether.
 
-<b>Higuchi:</b> I drove it at about 40km/h inside the university campus, avoiding some areas that had been dug up for construction work, but there was no need to do that at all. On the contrary, it's actually good on bad roads. 
+If that’s the case, I get the feeling some users might go all the way—start with a 1600 GT, tune it, and even swap in a different engine. But that would drive the cost up, so if you can run a car with a properly tuned engine from the outset, that might be better. 
 
-<b>Hirao:</b> This may be because the springs are a little stiffer and the shock absorbers are stronger.
+But you can’t chase two goals at once--so does that mean abandoning the "husband’s specification" idea?
 
-<b>Suzuki:</b> That's right.
+<b>Kaneshige:</b> If you completely abandon it, things become clearer--but when it comes down to the final balance, it’s not so simple…
 
-<b>Ishikawa:</b> I think the seats are very good.
+<b><u>Using Endurance Racing as a Development Ground</b></u>
 
-<b>Toishi:</b> We used molded urethane for the padding to improve the damping effect. Another feature is that the seatback is made of FRP.
+<b>Hirao:</b> In that sense, having an overdrive gear makes quite a difference. At 120km/h, the engine is turning at about 4000rpm. So if it could cruise normally at just under 3000rpm, that would be a significant improvement. The difference between 4000 and 3000rpm is considerable--having an overdrive gear really changes things in that respect.
 
-<b>Hirao:</b> The connection between the backrest and the base of the driver's spine is quite good.
+<b>Hoshijima:</b> The first time I saw the Bellett GTR was back in 1968. It was entered in the Suzuka endurance race under the name “GTX.” After that, it appeared mainly in endurance racing, and I followed it with great interest--I had always thought it would be interesting to install the 117 engine in the Bellett.
 
-<b>Toishi:</b> Well, we think it was a success.
+At first, though, it struggled to finish races; almost every time, something would go wrong and it would retire. But by 1969, its endurance was gradually improving, and by August it had achieved an overall victory. Not long after that, the production car was released in essentially the same form under the name GTR.
+
+I found it very interesting that endurance racing itself was used as a development test bed, and I think it also worked extremely well from a publicity standpoint.
+
+Having driven the production car, the first thing that struck me was how quiet it is. Below about 40km/h, however, it’s essentially at idle, so the noise at those speeds is no different than just after the engine is started—that’s unavoidable.
+
+But around 3000rpm, it’s remarkably quiet. And while there are moments around 120km/h when it feels a bit noisy, at both higher and lower speeds it becomes quiet again. In particular, the quietness at 130-140km/h is almost unmatched. The figure of 70 phons reflects that quite well.
+
+<b>Watari:</b> There are peaks at 120 and 140km/h, and it’s actually quieter in between.
+
+<b>Hoshijima:</b> Comparing ride comfort with the 117 Coupe, I would say the 117 has the better ride in terms of suspension feel.
+
+Also, regarding the transmission—since Professor Hirao mentioned the benefits of overdrive—when driving on the Tomei or Meishin expressways at around 140km/h, there are many situations where you hesitate: should you shift down to third, or apply the brakes?
+
+In practice, if you’re in fifth, it’s natural to drop to fourth in those situations. It’s not that I don’t trust the brakes or the tires, but I do feel that it's reasonable for a car like this to be offered with a 5-speed transmission.
+
+<b>Hirao:</b> It would definitely be worth considering either a 5-speed, or a setup where overdrive can be used on third and fourth gears.
+
+<b>Watari:</b> The issue is that the change between quiet and noisy is too pronounced. If that variation could be smoothed out, it would be better--even if the overall noise level were slightly higher.
+
+<b><u>A Successful Seat</b></u>
+
+<b>Kaneshige:</b> We’ve been under increasing pressure on the emissions front, and that side of things has gradually improved. At the same time, we've tried to eliminate the raw mechanical noise of the engine, as well as high-frequency noise, as much as possible. 
+
+However, our countermeasures don't really show up in those noise peaks, as has been noted by many people. So I still feel that the car may be somewhat noisy overall.
+
+<b>Yamamoto:</b> In terms of vibration and noise, when I first drove it, I did notice something like idle-related noise. But when I had the chance to drive it over cobblestones, the car was extremely good. I’m not entirely sure why.
+
+<b>Miyamoto:</b> That may be due to the independent rear suspension. When the Bellett was first introduced, I drove it over some fairly rough roads, and even then I thought it performed quite well.
+
+<b>Higuchi:</b> I tried driving it at around 40km/h over a section of road on campus that had been dug up for construction, expecting it to be quite rough--but there was really no need to brace for it. In fact, it seems to handle poor roads rather well.
+
+<b>Hirao:</b> That may be because of the somewhat stiffer springs and larger-capacity shock absorbers.
+
+<b>Suzuki:</b> Yes, that’s right.
+
+<b>Ishikawa:</b> I think the seats themselves may also have contributed significantly.
+
+<b>Toishi:</b> To improve damping characteristics, we’ve used molded urethane padding. Another feature is the use of an FRP shell for the seatback.
+
+<b>Hirao:</b> The transition between the backrest and the seat cushion is also quite well executed.
+
+<b>Toishi:</b> Yes--we consider it a success.
 
 <b><u>Excellent Responsiveness</b></u>
 
-<b>Magazine:</b> We would like to ask the Saito Laboratory for their data on maneuverability and stability.
+<b>Magazine:</b> Next, let’s have the handling and stability data from the Saito laboratory.
 
-<b>Doi:</b> The practical minimum turning radius is 5.32m on the outside and 3.02m on the inside, which I think is a little on the large side for this car compared to cars in the same class. To evaluate the understeer and oversteer characteristics, we drove in a circular course, measuring the V²/100 while gradually increasing the vehicle speed up to 50km/h. In this case, the resulting R/Ro value of 1.35, which was maintained in understeer up until the end, is on the small side compared to other cars in the same class. This is what we call "weak understeer," or minimal understeer. The maximum steering force in the test was 4kg at a lateral acceleration of about 0.4g, which is on the heavier side compared to other cars in the same class. The roll rate was 3.5° at 0.5g, while Isuzu's internal data was 3.75°, so our test results showed that it is a car with relatively little roll. 
+<b>Doi:</b> The practical minimum turning radius is 5.32m on the outside and 3.02m on the inside. Compared with other cars in this class, these values are on the slightly larger side.
 
-<b>Magazine:</b> Mr. Hirao, how did it handle crosswinds?
+As for understeer and oversteer characteristics, measured at V² = 100, the R/Ro value is 1.35, with testing carried out up to 50km/h. The car maintains understeer throughout, and an R/Ro of 1.35 is actually somewhat on the low side compared with others in the class.
 
-<b>Hirao:</b> It was a fairly windy day on the Tomei Expressway, with a tailwind on the way to the test track, but as we left the Atsugi pass, the wind turned to the right. I hadn't felt any impact when the wind was mostly a tailwind, but when we left the pass and caught the crosswind, even though I was holding the steering wheel with both hands, it was pulled about three degrees to the left. In that sense, I feel that if the steering weren't quite so light at the center position, I wouldn't have had to move my hands as much.
+Maximum steering effort during the test was 4kg, at a lateral acceleration of 0.4g--again, slightly heavier than comparable cars.
 
-On the way back, Furutani was driving, and it seemed that the hardest part was when the wind hit the car diagonally from the front. It wasn't so bad when we were driving directly into the headwind, but when we left Atsugi, it was again quite blustery, and I felt it even from the passenger's seat. Could you add some solid friction to the steering in that position? Or maybe viscous friction is better, but either way, I think you can do it directly by tightening that part of the steering mechanism.
+The roll angle was 3.5° at 0.5g. Isuzu’s internal figure is 3.75°, so it actually exhibited slightly less roll in our test.
 
-<b>Takanami:</b> There are quite a few people who say that rack and pinion steering is the reason for the Bellett's reputation for good handling.
+<b>Magazine:</b> Professor Hirao, how was it in crosswinds?
 
-<b>Hirao:</b> I think that's probably just one aspect of it. If I had tried going up the turnpike at around 100km/h, or up Otome Pass at around 70km/h, I might have been able to see its good points. I think one of the Bellett's strengths is its excellent handling on roads like that. However, from the perspective of driving on the highway, you may not see its benefits.
+<b>Hirao:</b> We drove on the Tomei on a fairly windy day. On the way out, it was mostly a tailwind, but after passing through the Atsugi cutting, it turned into a crosswind from the right.
 
-<b>Hoshijima:</b> It's true that there are a lot of cars with variable-ratio steering these days, and compared to those, the Bellett's steering feels lighter around the straight ahead position when driving on the highway.
+When it was mostly a tailwind, there was little effect. But as we exited the cutting and caught the crosswind, even with both hands on the wheel, it was pulled slightly to the left--by about three degrees or so.
 
-<b>Okazaki:</b> It's definitely good on twisty roads. I drove it in conditions like Mr. Hirao described, and it's amazing on roads like that. It's a little unusual to have the car go exactly where you want it to go and drive so easily. It's very responsive and the understeer/oversteer characteristics are very good.
+From that perspective, if the corrective tendency from the opposite direction were reduced slightly, I feel I might not have had to make so many steering corrections.
 
-<b><u>Headrests Obstruct Vision</b></u>
+On the return trip, Furutani was driving. The most difficult condition seemed to be a diagonal front-left crosswind. Once it became a direct headwind, it wasn’t so bad, but around Atsugi it was quite unsettled, and even from the passenger seat you could feel it clearly.
 
-<b>Magazine:</b> Next, please tell us the results of the weight and brake tests from Ship Research Institute.
+I’m not sure whether introducing a bit more solid friction would help, or whether viscous damping would be better--but it may be something that can be adjusted through steering setup.
 
-<b>Ishikawa:</b> The weight distribution is 538kg in the front and 435kg in the rear, for a balance of 54%/46%. The front end has a very small toe-in and camber alignment. The rear is not too large either. The brakes are discs in the front and leading/trailing drums in the rear, with a vacuum booster only in the front, and a tandem master cylinder, so the spring constant of the brake pedal is 1kg/mm, which is between a car with a brake booster and a car without a booster, and I think it is a reasonable value. The balance of the left and right braking forces is fairly good in both the front and rear. The operating force of each part is generally heavy, at 3kg to 4kg for the shift lever, 6kg of lateral movement to select reverse. The accelerator pedal force is 2.5kg for steady driving at 50km/h and 4kg when accelerating, which are heavier than in a normal sedan.
+<b>Takanami:</b> As far as the Bellett's reputation goes, there are quite a few people who say it's no good without its rack-and-pinion steering.
 
-<b>Magazine:</b> And the feel of the brakes?
+<b>Hirao:</b> I think that’s focusing on just one aspect of it. If you were to drive it somewhere like the Turnpike at around 100km/h, or climb Otome Pass at around 70km/h, you might better appreciate its strengths.
 
-<b>Ishikawa:</b> I didn't feel anything in particular, but the pedal stroke did feel a bit stretchy.
+One of the Bellett’s virtues is its very good steering response on roads like that. If you focus only on high-speed expressway driving, you may lose sight of that.
 
-<b>Okazaki:</b> Yes, and I didn't feel that the servo was very strong. 
+<b>Hoshijima:</b> It’s true that variable-ratio steering cars have become more common recently, and compared with those, this one feels relatively light on center at highway speeds.
 
-<b>Yamamoto:</b> It has disc brakes at the front, drum brakes at the rear, and has a pressure control valve and a limited-slip differential, correct?
+<b>Okazaki:</b> On winding roads it is certainly very good. I tried similar conditions myself, and on roads like that it is genuinely excellent.
 
-<b>Noguchi:</b> We use a hydrovac brake booster only on the front wheels. The hydrovac only comes into play at about 30kg to 40kg of pedal force, so the PCV is used to match that. It also serves the purpose of balancing the rear wheel braking force. 
+It is quite rare to find a car that follows the intended line so easily and precisely. The response is very good, and its corrective steering behavior is also excellent.
 
-<b>Ishikawa:</b> The bench test results clearly show the increase in braking force as the pedal is pressed, but it doesn't feel that way when you actually drive the car... 
+<b><u>Headrest Obstructs Rearward Visibility</b></u>
 
-<b>Magazine:</b> We would like to hear the results of the Hirata Laboratory's field of view tests.
+<b>Magazine:</b> Next, please give us the results of the Ship Research Institute’s measurements on weight and braking.
 
-<b>Hirata:</b> The field of view in the horizontal plane, including the viewpoint, is 31.5° to the right and 60.6° to the left from the windshield, for a total of 91.5°. The rear window is a problem because the headrest is integrated with the seatback and is very large, but it is 27.5° on the left and 19.5° on the right. The blind angle created in the same horizontal plane is 91.5° overall, again because of the headrest. I think we may need to reconsider the methods we have been using to measure the driving visibility in the horizontal plane.
+<b>Ishikawa:</b> The weight distribution is 538kg in the front and 435kg in the rear, for a balance of 54:46. In terms of alignment, the front end shows a very small amount of toe-in and camber. The rear values are not too large either. 
 
-<b>Yamamoto:</b> We also measured the Bellett 1500, with a similar body structure, when it was released (December 1966). Comparing the two cars, the visibility is better this time, and it's better overall. The dead angles to the left and right sides in the horizontal plane are about average compared to a normal car. The dead angles have become larger in relation to the total field of view, but the headrests are protruding, which is obstructing the visibility.
+The braking system uses discs in the front and leading-trailing drums at the rear. Only the front is equipped with a Hydrovac vacuum booster, together with a tandem master cylinder. As a result, the brake pedal effort curve is about 1kg/mm, which sits between a car with a brake booster and a car without a booster, and I think it's a reasonable value.
 
-<b>Magazine:</b> Next, let's take a look at the measurements by the Higuchi Laboratory. 
+Left-right braking balance is fairly well matched both front and rear. However, overall operating forces are somewhat heavy: shift lever operation is around 3-4kg, and the lateral movement into reverse is 6kg. Accelerator pedal effort is 2.5kg for steady driving at 50km/h, rising to 4kg when accelerating--these values are heavier than in a typical sedan. 
 
-<b>Onda:</b> The overall width has hardly changed compared to the Bellett 1500, but the front tread is now 1255mm, which is slightly wider than the previous model. The radial tires are 165x13, which is a big change in the numbers, but other than that, besides the divided front bumper, the small decorations, and the accents that make it recognizable as a GTR, the dimensions are basically the same. The most notable change in the interior dimensions is that the headrest is integrated, so the seatback height is a very high 770mm. The pedal arrangement hasn't changed much from the previous model, but one thing that remains notable is that is that while the clutch pedal in most cars straddles the steering shaft, the Bellett's pedals are all together to the right of the steering shaft, and the shaft is shifted to the left. 
+<b>Magazine:</b> And the braking feel?
 
-<b>Yamamoto:</b> One thing I wish they would fix is the angle of the left footrest.
+<b>Ishikawa:</b> I didn’t notice anything particularly distinctive, but it did feel slightly “stretchy” in response.
 
-<b>Hirao:</b> That's right. It poses a big problem for the driver. 
+<b>Okazaki:</b> The servo assist didn’t feel very strong, either.
 
-<b>Higuchi:</b> There is a correlation between the seat height and the angle of the footrest, and I think the footrest needs to be more upright. This close, flat footrest would only work if the seat was much higher. The most fundamental thing is whether it matches the overall height of the seat. 
+<b>Yamamoto:</b> The front uses disc brakes and the rear drum brakes, with a PCV system and a limited-slip differential as well. Could you explain that combination?
 
-<b>Hirao:</b> I think the lower edge of the footrest should be moved 20mm forward. I think that would solve the pedal problem.
+<b>Noguchi:</b> Only the front wheels use the Hydrovac unit. Since the Hydrovac becomes effective at around 30-40kg of pedal effort, the PCV is set to bias the system accordingly. It also helps balance braking force at the rear.
 
-<b>Magazine:</b> Finally, Professor Higuchi will tell us about safety.
+<b>Ishikawa:</b> In bench testing, the system clearly shows that biasing effect, and you can see the braking force drop. But in actual driving, I can’t say it is all that noticeable…
 
-<b>Higuchi:</b> Regarding the safety results, on a 100-point scale, recent 1500cc class sedans generally score around 90 points, while GT sports cars score around 80 to 85 points. This car scored 84 points, which is on the low side for a sedan. The fact that the front bumper is divided into left and right halves and is not attached in the middle, and that it uses tempered glass instead of laminated glass, both lowered its score by 3 points each, but I don't think a score above 80 points is a problem.
+<b>Magazine:</b> Please continue with the Ship Research Institute’s visibility measurements.
+
+<b>Hirata:</b> The forward field of view within the horizontal plane, including the eye point, is 31.5° to the right and 60.6° to the left, for a total of 91.5°.
+
+The view to the rear is a problem because the headrest is integrated with the seatback and is quite large. It is 27.5° to the left and 19.5° to the right, meaning it is obstructed on the left side.
+
+Within the same horizontal plane, the total blind angle comes to 91.5°, again because of the headrest. I think we may need to reconsider the methods we have been using to measure the driving visibility in the horizontal plane.
+
+<b>Yamamoto:</b> We also tested the Bellett 1500, with a similar body structure, when it was released (December 1966). Comparing the two cars, the visibility is better this time, and the evaluation is better overall. 
+
+The blind angles to the left and right sides in the horizontal plane are about average compared to a normal car. The blind angles have become larger relative to the total field of view, but that is due to the protruding headrest, which is obstructing visibility.
+
+<b>Magazine:</b> Next, please report the measurements from the Higuchi Laboratory.
+
+<b>Onda:</b> The overall width has hardly changed compared to the Bellett 1500, but the front tread is now 1255mm, which is slightly wider than the previous model. 
+
+Externally, the biggest change is the use of 165x13 radial tires. Other changes are mostly minor styling updates such as the split bumper, small decorative elements, and accents that visually differentiate the GTR from standard models.
+
+The most notable change in interior dimensions is the integrated headrest, which raises the seatback height to a very high 770mm.
+
+The pedal arrangement hasn’t changed much from the previous model, but one thing that remains notable is that while the clutch pedal in most cars straddles the steering shaft, the Bellett’s pedals are all together to the right of the steering shaft, and the shaft is shifted to the left. 
+
+<b>Yamamoto:</b> One thing I would like to see fixed is the angle of the toe board.
+
+<b>Hirao:</b> That’s right. It could pose a big problem for the driver.
+
+<b>Higuchi:</b> There is a relationship between the seat height and the angle of the toe board, and in this case I think it needs to be more upright. This close, flat toe board would only work if the seat was much higher. The most fundamental thing is whether it matches the overall height of the seat.
+
+<b>Hirao:</b> I think the lower bending point of the toe board should be moved forward by about 20mm. That might also solve the pedal geometry issues.
+
+<b>Magazine:</b> Finally, Professor Higuchi, let's hear your comments on safety.
+
+<b>Higuchi:</b> In terms of safety results, if we take 100 points as the benchmark: modern 1500cc sedans generally score around 90 points, while GT sports cars are typically in the 80-85 range. This car scores 84 points, so it is slightly low by sedan standards.
+
+The deductions include three points for the front bumper being split into left and right halves and not attached in the middle, and another three points for not using laminated safety glass.
+
+However, at over 80 points, I do not believe there is any serious issue.
 
 <b>Magazine:</b> Thank you all very much.
 
