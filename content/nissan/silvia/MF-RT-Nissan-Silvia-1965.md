@@ -98,7 +98,7 @@ draft = false
 
 
 
-<b>Publication:</b> Motor Fan<br><b>Format:</b> Road Test<br><b>Date:</b> July 1965<br><b>Authors (Roundtable):</b> Motoo Harada, Osamu Hirao, Hiromichi Nakamura, Kenzaburo Ishikawa, Kazuo Kumabe, Masahi Kondo, Kazumi Yotsumoto, Mineo Yamamoto, Yasuhei Oguchi, Atsushi Watari, Taizo Tateishi, Akio Miyamoto, Kenji Higuchi
+<b>Publication:</b> Motor Fan<br><b>Format:</b> Road Test<br><b>Date:</b> July 1965<br><b>Authors (Roundtable):</b> Teiichi Hara, Motoo Harada, Osamu Hirao, Hiromichi Nakamura, Kenzaburo Ishikawa, Kazuo Kumabe, Masashi Kondo, Kazumi Yotsumoto, Mineo Yamamoto, Yasuhei Oguchi, Atsushi Watari, Naoyuki Yamada, Taizo Tateishi, Akio Miyamoto, Kenji Higuchi
 
 
 
@@ -122,303 +122,387 @@ draft = false
 
 
 
-<b><u>A High-Performance Car With Style</b></u>
+<b><u>A High-Performance Car to Match the Styling</b></u>
 
-<b>Magazine:</b> The Silvia, which has been much talked about since last year's Tokyo Motor Show, has finally been released. It seems to have changed quite a bit from the prototype exhibited at the show, so let's start by asking Nissan to explain the development goals of this model.
+<b>Magazine:</b> Since last year’s Tokyo Motor Show, the Silvia has generated quite a bit of attention, and now it has finally gone on sale. It seems to differ considerably from the prototype that was exhibited at the show, so let's begin with an explanation of the development aims from Nissan.
 
-<b>Harada:</b> From the beginning, our desire was to make a beautiful car. This was the starting point for the Silvia, and when it came to deciding what to base it on, we settled on something that was neither too big nor too lightweight, and was adaptable to the concept, based on the cars we had on hand.
+<b>Hara:</b> We’ve long had a desire to build a beautiful car. That was really the starting point behind the Silvia. When it came to deciding what to base it on, given the range of models we had available, we settled on something not too large, but also not cheap-feeling—something of an appropriate size and character.
 
-In the end, we decided to base it on the Fairlady, keep the seating capacity modest with accommodations for two, and to go for a coupe type that would make it easier to create a beautiful layout.
+In the end, we chose the Fairlady as the base, kept it a two-seater so as not to be overly ambitious, and went with a coupe body, which lends itself well to achieving a clean, attractive layout.
 
-This was the stage we had gotten up to when we exhibited it at the show last year, but when it came to actually putting it on the market, we didn't want it to be just a beautiful shape with nothing inside. So, to give it performance that matched its appearance, we developed a high-performance 1600cc engine, which resulted in the car we are selling now.
+Up to that point—that is, until the stage when we displayed it at last year’s show—that was essentially the direction we had taken. But when it came time to bring it to market, we felt that having only the shape, with nothing underneath to match it, would be unsatisfactory. So we set out to give it performance worthy of its appearance, and developed a high-performance 1600cc engine, resulting in the car now on sale.
 
-To explain the content, of course, the highlight of the car is its style. As a design, I think that it is something we can be proud to have worked on. Of course, since it is a car, we had to consider both beauty and functionality, and there were many discussions about making it streamlined, but we were mostly focused on the visual balance and the weight balance... Then, if I had to name a scientific consideration, we wanted the center of wind force not to be too far forward, due to the issue of crosswind stability, which we are always careful about... We made requests about those things, and then we let the stylist do the rest freely. 
+In terms of its content, I’ll start with the styling. As something we’ve worked on ourselves, we feel it’s something we can be proud of. Of course, being a car, there were various discussions about functional beauty—streamlining and so on—but from our standpoint, we focused on things like weight balance and visual balance.
 
-For the engine, we used as much of the equipment as possible that we use for the Cedric and Fairlady, and modified it to create a high-speed engine, so it has a fairly short stroke for a 1600cc engine.
+And if I may add a more technical consideration, we are always mindful of crosswind stability, so we specified a shape in which the center of aerodynamic force is not too far forward. With those requirements in place, we then allowed the stylists a fair degree of freedom.
 
-Compared to the Fairlady engine, the bore is 7.2mm larger and the stroke is 7.2mm smaller, resulting in an engine volume 100cc larger. This bore-stroke ratio is about 0.76, which can be said to be a fairly short stroke. Looking around the world, only certain example of Ford engines have strokes shorter than this.
+As for the engine, we made use of as much existing equipment as possible from the units used in the Cedric and the Fairlady, modifying them to create a more high-speed-oriented engine. As a result, it became a fairly short-stroke 1600cc unit.
 
-The engine's characteristics were not specifically designed for racing, so we tried to make it very easy to use. Maximum output is 90hp at 6000rpm, and maximum torque is 13.5kgm at 4000rpm. It's a higher-speed type than a normal passenger car's engine, but it's not difficult to use like a racing car.
+Compared with the Fairlady engine, the bore has been increased by 7.2mm, while the stroke has been reduced by 7.2mm, giving an overall increase in displacement of 100cc.
 
-The clutch has a stronger spring type to accommodate overrun up to about 8000rpm, such as when driving downhill or downshifting to third gear.
+The bore-to-stroke ratio comes out to about 0.76, which makes it quite a short-stroke design. Internationally, there are even shorter-stroke examples--particularly among Ford engines.
 
-<b><u>Porsche-Type Synchronization</b></u>
+As for the character of the engine, we did not develop it with only racing use in mind. We aimed instead for good usability. Maximum output is 90ps at 6000rpm, and peak torque is 13.5kgm at 4000rpm. It is more high-revving than an ordinary engine, but it is not difficult to handle in the way a racing engine might be.
 
-<b>Magazine:</b> Nissan is promoting the fact that the synchromesh was designed in a technical partnership with Porsche.
+The clutch has also been reinforced, with a stronger spring setup, to withstand overrunning conditions up to around 8000rpm--for example, when driving downhill or when pulling hard in third gear.
 
-<b>Harada:</b> That's right. This car is the first Nissan car to use a Porsche-type synchro. You could say that this synchromesh is the most distinctive technical feature of this car. We basically took a lot of inspiration from their designs, but the actual unit was developed by Nissan in collaboration with Porsche. 
+<b><u>Porsche-Type Synchromesh Mechanism</b></u>
 
-In the end, we decided that four speeds would be sufficient for normal use, so we went with a 4-speed forward fully synchronized transmission. We listened to Porsche's opinion, and they advised that even with a 4-speed, if the driveshaft was too long, it would not be very good due to excessive bending, so we put all the forward 4-speed parts inside the gearbox, and put the reverse gear behind it to make the shaft shorter.
+<b>Magazine:</b> You’ve been promoting the synchromesh as something developed in technical cooperation with Porsche, haven’t you?
 
-<b>Hirao:</b> What exactly is a Porsche-type synchro?
+<b>Hara:</b> Yes, that’s right. This is the first time Nissan has adopted a Porsche-type system in one of its cars. You could say that this particular synchromesh is the car’s most distinctive feature--something unique to it.
 
-<b>Harada:</b> This is not a mechanism that is widespread all over the world, but Porsche itself uses it, and Alfa Romeo has been using it for quite some time now. To give you an anecdote, when we visited Alfa Romeo and asked if there was a syncromesh that would work reliably at any speed, they looked at the data and decided that we should use the Porsche type.
+Fundamentally, we took considerable inspiration from their design, but the unit itself was developed by Nissan. So rather than a direct transfer from Porsche, it would be more accurate to say it was a collaboration.
 
-To briefly explain, the internal structure is that of a normal synchronizer, plus a device just like a brake's leading shoe which acts as a servo, so you can downshift reliably from any rpm, even high engine speeds. The synchronizer itself is powerful, but because it has a servo action that reliably downshifts in line with the rpm, this type is called a servo synchronizer system.
+In the end, we felt that for normal use, four forward gears would be sufficient, so we settled on a fully synchronized 4-speed transmission. Taking Porsche’s input into account, we were advised that if the gearbox shaft became too long--even with four speeds--it could lead to undesirable flex.
 
-It took Porsche a long time to develop this. The design is very different now than when we first saw it when we partnered with them.
+So we arranged all four forward gears within the main gear cluster, and placed reverse behind that. Normally, everything might be housed within a single section, but that would have made the unit too long. By placing the reverse gear section behind the gearbox, we were able to keep the overall length more compact.
 
-<b><u>Effective Even For Long-Term Use</b></u>
+<b>Hirao:</b> When you say “Porsche-type synchromesh,” what exactly does that mean in practical terms?
 
-<b>Harada:</b> Recently, it has started to be used in practical vehicles as well. It has been adopted in certain popular cars such as the French Simca and the Fiat 850. At first, it was only used in sporty cars, but...
+<b>Hara:</b> It’s not something that’s widely used, but Porsche themselves use it, and Alfa Romeo has been using it for quite some time as well.
 
-<b>Nakamura:</b> Because there is a servo mechanism, when you first press the ring, an initial force is applied, so at first the resistance rises sharply, and then it slowly goes flat. It just slides right in.
+To give you a bit of background--when we visited Alfa Romeo, we asked whether there was a synchromesh system that would engage reliably at any speed. After considering the requirements, they told us, “In that case, you should use the Porsche system.”
 
-<b>Harada:</b> Another feature of this synchro is that the gear teeth do not wear out. Conventional synchro rings would get rough after tens of thousands of kilometers of use, but this one will still function perfectly even after a very long time of use.
+Structurally, speaking in simple terms, it incorporates something like a leading brake shoe within a conventional synchronizer. This produces a servo effect, allowing for reliable downshifts even from very high engine speeds.
 
-<b>Harada:</b> In the area where the clutch meshes, where the surface is irregular, it uses a coating of molybdenum. In terms of dimensions, the unit is a little smaller than the Warner type we used previously.
+The synchronizer itself is quite strong, but by adding this servo action, it ensures that speeds are matched and downshifts occur positively. For that reason, this type is often referred to as a servo-synchro mechanism.
 
-<b>Ishikawa:</b> We recently tested a Porsche 911, and compared to that, the effort of the gearchange in this car is significantly greater. The Porsche's shifter was around 2-3kg, but this one required 6kg for first gear and 4-5kg for second, and shifting into top is also around 4kg.
+Even Porsche themselves, I understand, took quite some time to refine and bring this system together. The version we first saw and the one we eventually collaborated on differ considerably.
 
-<b>Harada:</b> I guess the teacher is better after all (laughs). 
+<b><u>Effective Even Over Long-Term Use</b></u>
 
-<b>Hirao:</b> Still, when we tested it at Yatabe, the synchronization was very good.
+<b>Harada:</b> Recently, this type of system has started to be used even in more practical, everyday cars. Models like the Simca in France and the Fiat 850--fairly popular cars--have adopted it. At first, it was mainly used in sportier vehicles, but…
 
-<b><u>The Benefits of Short-Stroke</b></u>
+<b>Nakamura:</b> Because it has a servo mechanism, when you first apply pressure to the ring, an initial force comes into play. So the effort sort of rises sharply at first, then levels off, and finally slips smoothly into gear--that’s the feel.
 
-<b>Harada:</b> Another feature of this car is the use of Dunlop disc brakes on the front wheels. In terms of weight distribution, I think that when driving normally, the load is on the front wheels about 54%, but when braking, the ratio is about 2:1, so even though the rear wheels are normal drum type, there is almost no risk of fade. Because of the use of disc brakes, the tires have been increased from 13 inches to 14 inches, so the cutouts of the wheel arches are a little different from when the car was exhibited at the show.
+<b>Hara:</b> Another feature of this synchromesh is that there’s no real wear at the contact points. With conventional synchronizers, after tens of thousands of kilometers, you inevitably start to get that notchy, "gritty" feel. But with this one, even after long use, it continues to perform effectively.
 
-In the end, the final result was a beautiful car. We started with the idea of what we wanted, and we developed performance that could match it. The maximum speed is quoted as 165km/h in the catalog, but in our internal tests we have seen speeds even faster than that. 
+<b>Harada:</b> At the engagement surfaces, what you might call the clutching areas, those slightly uneven portions are coated with molybdenum.
 
-However, because it is produced in small quantities, the price is a steep 1.2 million yen, so we have taken into consideration the customizability and deluxe atmosphere that goes with that price, and have also given careful attention to the cabin furnishings.
+<b>Hara:</b> Dimensionally, it’s also been made a little smaller than the previous Warner-type units.
 
-Regarding the issue of sound, there was some discussion about whether it should be something more like a sports car, but we wanted a car that would not be embarrassing to park next to a hotel, not just for racing, so we went for something a little more refined. I think it's roughly comparable to a sedan. As for driving stability, since it is based on the Fairlady, it has inherited many of that car's characteristics.
+<b>Ishikawa:</b> We recently tested a Porsche 911, and compared with that, the shift effort here is noticeably higher.
 
-<b>Hirao:</b> The engine has a very short stroke. Is that better?
+On the Porsche, it was around 2-3kg, but here first gear is about 6kg, second around 4-5kg, and even top gear is about 4kg--so it’s a bit on the heavy side.
 
-<b>Harada:</b> We experimented with three different types of engines, including extending the stroke, widening the bore, and a combination of the two. We had expected that the short-stroke type would be weak at low speeds, but assuming a twin-carb specification, the all-round performance would be good even with a short stroke, so that was the one we went with.
+<b>Hara:</b> So in that respect, the teacher is better after all? (laughs)
 
-The dimensions are an odd 87.2mm bore and 66.8mm stroke, but this is because it is a Fairlady engine, and we were forced to compromise by the fact that there is a water jacket in between the cylinders, and we could not expand the bore any further.
+<b>Hirao:</b> When we tested it at Yatabe, the synchromesh engaged very well indeed.
 
-<b>Hirao:</b> So if the design had allowed it, it would have been better to make the bore-stroke ratio a little smaller? 
+<b><u>The Benefits of a Short-Stroke Engine</b></u>
 
-<b>Harada:</b> We haven't testedit that far, but I think that with a shorter stroke, although there is a limit, the high-speed effect would be increased. 
+<b>Hara:</b> As for the other features, we’ve adopted Dunlop-type disc brakes on the front wheels. In normal driving, the weight distribution is about 54% on the front, but under braking this shifts to roughly a 2:1 ratio. That means the rear wheels can remain conventional drum brakes without much concern about fade.
 
-<b>Hirao:</b> Judging by the size of an individual cylinder, with an engine displacement like that, I had thought that it would have been more appropriate to have a bore-stroke ratio closer to 1, but if those are your results, I may have to revise my thinking.
+Because we adopted disc brakes, we increased the wheel size from 13 inches to 14 inches, which means the shape of the fender cutouts differs slightly from those of the show car.
 
-<b>Harada:</b> I don't know if this can be said as a general rule...
+Looking at the finished product as a whole, I think it’s fair to say we started with the goal of creating a beautiful car, and then pushed ourselves to give it performance worthy of that appearance.
 
-<b><u>Plenty of Room For Tuning Up</b></u>
+The catalog top speed is 165km/h, although in our internal testing it has exceeded that figure.
 
-<b>Hiaro:</b> Earlier, you mentioned that short-stroke engines like the Silvia's are found in some Ford models, but volume of each cylinder is larger in those engines, isn't it?
+However, because it is a low-volume production car, the price is relatively high at 1.2 million yen. To justify that, we’ve placed emphasis on a certain level of customization and luxury, paying careful attention to interior appointments and overall refinement.
 
-<b>Harada:</b> When I say Ford, I mean the British Ford, and the Anglia, for example, has a stroke of 40-something mm. That engine produces a variety of engines in one manufacturing process, and that series covers up to the 1.5 liter Consul.
+As for sound, there was some discussion about giving it a more overtly "sports car" character. But we also wanted a car that wouldn’t feel out of place pulling up to a hotel entrance, so we aimed for a more refined tone--something closer to a sedan in that respect.
 
-Certainly, in terms of absolute stroke value, I think that for a cylinder volume of this size, about 70mm would normally be considered ideal, but in this case, since we used a twin carburetor, it doesn't become weak at low speeds either. This doesn't mean that a short stroke is necessarily better, but it works well in this particular case.
+In terms of driving stability, since the car is based on the Fairlady, it inherits much of that character.
 
-<b>Hirao:</b> Doesn't it become difficult when you try to increase the compression ratio? 
+<b>Hirao:</b> The engine has a very short stroke. Does that configuration work well in practice?
 
-<b>Harada:</b> The combustion chamber becomes a bit flatter, so yes, that does tend to make it harder.
+<b>Harada:</b> In increasing the engine displacement to 1.6 liters, we explored about three different approaches--extending the stroke, enlarging the bore, and so on.
 
-<b>Kumabe:</b> Are the carburetors the same size as before?
+With a short-stroke design, we did expect some loss in low-speed performance. However, with a twin-carburetor setup, the overall balance improves even with a short stroke, so we chose that route.
 
-<b>Harada:</b> Yes, they are. We tried using one size larger and compared them, and found that the performance curve crosses over at about 4500rpm, but is significantly lower below that, so we think the smaller size is better for practical driving. If you use a larger carb, it will not perform well at low speeds. 
+The final dimensions--87.2mm bore × 66.8mm stroke--may seem a bit of an in-between solution. That’s because, starting from the Fairlady engine, we needed to retain space for the water jacket, which limited how much we could increase the bore. So in the end, it was a compromise.
 
-<b>Kumabe:</b> However, it wll probably have more power at higher speeds.
+<b>Hirao:</b> So if those constraints weren’t there, would it have been preferable to bring the bore-stroke ratio closer to one?
 
-<b>Harada:</b> Yes, it does at high speeds. However, our aim is to make it easy to use, so... In terms of performance, we built three engine types, varying the camshaft, the compression ratio, and the carburetor. In the end, we chose the low-speed type that produces the least horsepower.
+<b>Harada:</b> We didn’t go as far as testing that specifically, but in general, as you move toward a shorter stroke, within limits, you tend to gain more high-speed performance.
 
-<b>Kumabe:</b> So, if you were to enter a race, you could just replace the camshaft and carburetor, right? 
+<b>Hirao:</b> Based on the results, I had thought that with a cylinder size in that range, it might be better to bring the bore–stroke ratio closer to equal. If that’s not the case, then I may need to revise my thinking.
 
-<b>Harada:</b> Yes. And I think there's a fair amount of margin built in for that.
+<b>Harada:</b> I’m not sure it can be generalized that far...
 
-<b>Hirao:</b> The driving stability is roughly similar to the Fairlady, but the steering seems to feel softer than the Fairlady.
+<b><u>Plenty of Scope for Tuning</b></u>
 
-<b>Harada:</b> It wasn't something we made a conscious effort to change. We think it was just due to the slight difference in weight and its distribution. We also think it feels more like a civilized Fairlady.
+<b>Hirao:</b> Earlier, you mentioned that engines with a short-stroke layout like the Silvia’s are mostly found in Ford designs--but I imagine the displacement per cylinder in those engines is larger than in this case.
 
-<b>Hirao:</b> Are the steering wheel angles and mounting methods the same?
+<b>Harada:</b> When I referred to Ford, I meant the British Fords--engines like those in the Anglia, for example, which I believe have a stroke in the 40mm range.
 
-<b>Harada:</b> Basically, yes. However, halfway through the steering column, at the universal joint, the angle of the post has changed.
+That series uses a common manufacturing process to produce a variety of engine types, covering up to around 1.5 liters in that lineup.
 
-<b><u>The Aim is to Be Rich, Spirited, and Sporty</b></u>
+That said, in terms of absolute stroke length, for a cylinder of this size, something around 70mm would normally be appropriate. In this case, however, because we’re using twin carburetors, low-speed performance didn’t suffer as much as expected, so we adopted the short-stroke design. It’s not that a short stroke is inherently superior in all cases.
 
-<b>Magazine:</b> Why did you decide on a 1600cc engine?
+<b>Hirao:</b> When you try to raise the compression ratio, doesn’t that become more difficult?
 
-<b>Harada:</b> From the equipment standpoint, we could have gone up to 1900cc, but we were able to use the production facilities for a 1500cc, and we decided that this size was appropriate. When you move up to the 2000cc class, the level of your rivals changes drastically.
+<b>Harada:</b> Yes, there is that tendency, since the combustion chamber becomes somewhat flatter in shape.
 
-<b>Kondo:</b> You mentioned that it all started with the idea of making a beautiful car. I understand that the design was created with a focus on aerodynamics, and I think that the style is certainly beautiful, in terms of commercial beauty. However, you also mentioned that functionality was taken into consideration. In that case, I have some doubts about the aerodynamic design... How did you think about the shape and aerodynamic design?
+<b>Kumabe:</b> Are the carburetors the same as before?
 
-<b>Harada:</b> To be honest, we didn't give much thought to the aerodynamic design. In general, we just left it up to the stylists, assuming that things that are considered beautiful probably aren't too bad in terms of wind resistance. 
+<b>Harada:</b> Yes. We did compare them with a larger size, but the performance curves cross at around 4,500 rpm, and below that the larger unit falls off significantly. From a practical standpoint, we felt the smaller one was the better choice.
 
-<b>Hirao:</b> Recently, various manufacturers have been releasing high-speed sports cars, such as the Toyota Sports 800. This car contrasts with that one in many ways. That car's shape is smooth and rounded. This car has crisp, or should I say, crystal cut lines. Also, Toyota is aiming for a more affordable sports car, while this car is relatively high-class. It seems that cheaper cars are more rounded, while the higher-end ones are sharper and more angular, is there some kind of relationship there?
+<b>Kumabe:</b> If you fit larger carburetors, they might be less effective at low speeds, but you’d get more power at higher speeds, wouldn’t you?
 
-<b>Harada:</b> I don't really have any deep thoughts about it. I had a private discussion with the head of the design department, and we simply decided to create something that would be the highlight of the Motor Show, and the result ended up being something that was aimed at a relatively high-end market.
+<b>Harada:</b> Yes, you would at high speeds. However, our primary aim was usability.
 
-<b>Yotsumoto:</b> There was no particular thought put into the "crystal cut." It was very crisp, had a high-class look, and was visually beautiful... somehow rich-feeling and spirited, and sporty without looking cheap, so we decided to go with it. Specifically, I wanted to give the roof of the car a cantilevered look from the front. I wanted to use the rear quarter panel to create a cantilever roof that extends forward like an overhang. I actually wanted to remove the front pillars as well, but after discussing it with the body engineer, we decided to just make them as thin as possible.
+In the end, we focused on three elements--camshaft, compression ratio, and carburetors--and built about three different engine specifications. We ultimately chose the one with the lowest peak output, as it provided the best low-speed characteristics.
 
-The body sides have a relatively flat feel, and another reason for this is that, in addition to the cantilever roof, I also wanted to make the doors sliding doors that disappeared into the body. That's basically what I was aiming for with the design. And I think that shows what we wanted to do from the beginning.
+<b>Kumabe:</b> In that case, for something like racing use, would it be enough to change the camshaft and carburetors?
 
-<b><u>Coupe Type Has Advantages in Terms of Rigidity</b></u>
+<b>Harada:</b> Exactly. There’s a considerable margin there for that kind of tuning.
 
-<b>Yamamoto:</b> The flat surfaces and ridges reminiscent of diamond cuts have been used to great effect. Apart from being a stylistic consideration, this must have also had the added benefit of making it suitable for mass production.
+<b>Hirao:</b> You mentioned earlier that the car’s driving stability is broadly similar to the Fairlady’s, since it shares that foundation. But the steering feel seems softer than in the Fairlady, doesn’t it?
 
-<b>Harada:</b> Actually, in our experience, the more mass-produced the body is, the more rounded it is, so we decided on that style just for aesthetic reasons.
+<b>Hara:</b> We didn’t intentionally change it. I think it’s simply the result of slight differences in weight and weight distribution.
 
-<b>Yamamoto:</b> If that is the case, wouldn't it have been possible to use a little more light alloy to reduce the weight and improve performance?
+If anything, we feel it gives a somewhat milder impression than the Fairlady.
 
-<b>Harada:</b> If you think about racing, of course you have to take that into account, but since this car was all about our original aesthetic idea, we put it together without thinking about such things. If we were thinking about racing, I would want it to be 100kg lighter. But when it comes to practicality, I don't think being slightly heavier is necessarily bad. For example, when it comes to issues like ride comfort and vibration, a certain amount of weight is an advantage. Well, some might say we're being too selfish for developing such a high-performance engine and not thinking about racing, but we'll carry that over as something to address in the future. At least, I'd certainly like to.
+<b>Hirao:</b> And the steering wheel angle and mounting, are those the same?
 
-<b>Yamamoto:</b> I imagine the reason for making it a coupe, instead of an open car, was probably because it was easier to create the shape, and also because it had an advantage in terms of rigidity. 
+<b>Hara:</b> Fundamentally, yes. The only change is in the section with the universal joint--specifically, the angle of the steering column post has been altered there.
 
-<b>Harada:</b> After all, it does give the car a lot of rigidity. I thought it would be foolish to make it an open type and increase the weight while reducing rigidity. We've done roofless cars before with the Fairlady, but you have to reinforce the bottom quite a bit.
+<b><u>Aiming for “Rich,” “Spirited,” and “Sporty”</b></u>
 
-<b>Yamamoto:</b> The frame is from the Fairlady, right?
+<b>Magazine:</b> What led you to settle on a 1600cc engine?
 
-<b>Harada:</b> Yes, but the length is a little shorter.
+<b>Hara:</b> From a facilities standpoint, something like 1900cc would have been possible. However, we were able to make use of the existing 1500cc production equipment, and we felt that this displacement was appropriate for the car.
 
-<b><u>A Style With Low Rolling Resistance</b></u>
+Once you move into the 2000cc class, the level of competition changes entirely.
 
-<b>Magazine:</b> Now, here are the results of the power performance tests...
+<b>Kondo:</b> You mentioned earlier that the project began with the aim of creating a beautiful car, and the styling is certainly very attractive, at least in a commercial, visual sense.
 
-<b>Oguchi:</b> In terms of standing-start acceleration, the 0-200m time was 11.0 seconds, and the 0-400m time was 17.4 seconds. The in-house data showed 0-400m in 17.9 seconds, so we actually got better figures in the Motor Fan test. 
+But you also said that function was taken into account. From that perspective, I do have some doubts--particularly when it comes to aerodynamic design. How do you see the relationship between styling and aerodynamics here?
 
-<b>Kondo:</b> It seems the wind was quite strong... 
+<b>Hara:</b> To be completely honest, we didn’t pursue aerodynamics in a particularly detailed or rigorous way.
 
-<b>Oguchi:</b> It was, but during our test, the wind had died down considerably and the crosswind was around 5 to 7m/s.
+Our general feeling was that if something is considered beautiful, it probably won’t be too bad aerodynamically either. So in practice, we left much of that to the styling team.
 
-<b>Hirao:</b> So the conditions weren't particularly favorable. 
+<b>Hirao:</b> Recently, manufacturers have been introducing more and more high-speed sports models--take the Toyota Sports 800, for example. In many ways, this car feels like its opposite.
 
-<b>Oguchi:</b> That's right. Also, this was the first time that we have been able to measure the top-gear overtaking acceleration time from 40km/h to 140 km/h. This was because the test location was Yatabe and not Murayama this time. In any case, I think this data proves the good acceleration of the car.
+That car is smooth and rounded, whereas this one--what was it called, "crystal-cut"?--has very sharply defined lines. And while Toyota seems to be aiming for an inexpensive sports car, this one is targeting a relatively higher class.
 
-<b>Magazine:</b> We weren't able to measure the fuel economy ourselves this time, so we will refer to Nissan's data, but it seems we did did conduct coasting performance tests at highway speeds.
+It’s interesting--the lower-priced car is rounded, while the more upscale one is more angular. Is there some connection there?
 
-<b>Oguchi:</b> I haven't been able to organize the data yet, so I'll publish the rolling resistance coefficient. The rolling resistance coefficient is about 0.015, which is on the low side. For a normal car, it's about 0.018. The air resistance is also about 0.002, so I think it's also small.
+<b>Hara:</b> There wasn’t any particularly deep reasoning behind it.
 
-<b>Kondo:</b> I thought the typical rolling resistance was around 0.013 or 0.012...
+In internal discussions with the head of styling, the starting point was simply: "Let’s create a showpiece for the Motor Show." From there, it just happened that our approach leaned toward something more upscale.
 
-<b>Hirao:</b> With a larger car, the number would be smaller, but since this is a small car, things like internal friction come into play. 
+<b>Yotsumoto:</b> As for the "crystal-cut" theme, there wasn’t any especially deep theory behind it either.
 
-<b>Yamada:</b> The drag coefficient for the new Silvia will be about 0.5, which is about the same as a normal sedan, and on the high side for a sports car.
+The idea was to create something crisp and clean in execution, what you might call a "rich look." Something visually attractive, with a sense of substance, spirit, and sportiness--without feeling cheap. That’s what we aimed to bring together in the design.
 
-<b>Kondo:</b> Aerodynamically speaking, people say the Silvia has a lot of wind noise, but 0.5 isn't so bad.
+More specifically, I’d long wanted to give a car’s roof a kind of cantilevered feel--almost as if it were projecting forward from the rear quarter panels, like an overhanging eave. That was something I wanted to try.
 
-<b>Hirao:</b> A normal sedan is around 0.6. I think Porsche and Volkswagen have just been getting a little under 0.5. 
+Ideally, I would have eliminated the front pillars altogether, but after discussions with the body engineers, we instead made them as thin as possible.
 
-<b>Yotsumoto:</b> It would be better if we put headlamp covers on it like Volkswagen does. However, this is no longer allowed due to regulations.
+As for the body sides, they have a relatively flat, planar quality, but another factor there was the idea of combining that cantilever concept with the possibility of using sliding doors. That’s part of what led to that flat surface treatment.
 
-<b>Hirao:</b> As Professor Kondo said, 0.5 is a little low considering the styling, but I think the fact that it was running on racing tires with high pressures probably had a big impact as well. 
+So overall, those were the main design intentions, and I think we were able to express what we set out to achieve.
 
-<b>Nakamura:</b> I think the low rolling resistance is a factor in this as well, but the fuel economy is quite good for a twin-carb engine. The average fuel economy between Odawara and Yokohama was 16.5km/l. The average speed was 49.3 km/h, and the distance traveled was 103.4 km.
+<b><u>The Coupe Advantage--Especially in Structural Rigidity</b></u>
 
-<b><u>Soft, Sedan-Like Sound Quality</b></u>
+<b>Yamamoto:</b> The use of flat surfaces and sharp character lines, almost like diamond cutting, is very striking. But beyond styling, wasn’t there also an advantage in terms of suitability for mass production?
 
-<b>Magazine:</b> What about our noise and vibration data?
+<b>Hara:</b> In our experience, mass-produced bodies tend to benefit from having more curvature. So in this case, the design was decided purely from a styling standpoint.
 
-<b>Watari:</b> Since it's a sports car, I don't know if I should go into too much detail about this aspect, but I'll announce the specifications anyway. 
+<b>Yamamoto:</b> If that’s the case, might it not have been possible to reduce weight--and improve performance further--by making greater use of light alloys?
 
-<b>Tateishi:</b> In the suspension vibration test, the vehicle was driven over the usual bumps. The sprung vibration frequency at the front is 1.5c/s, the rear is 1.6c/s, and the unsprung vibration is 20-23 c/s, so the damping is quite strong. 
+<b>Hara:</b> If we were designing with racing in mind, then of course we would have had to consider that.
 
-<b>Watari:</b> In other words, the bouncing rate is about 90 times per minute and the pitching rate is about 95 times per minute, which is the same as that of conventional GT cars and other sports cars.
+But given how the project began, we didn’t pursue those kinds of measures. If we were targeting racing, we’d probably want to reduce the weight by another 100kg.
 
-However, when I actually rode in the car, although it was quite good in many respects, I felt that the elastic vibration through the chassis was a little large. On the test day, there was a strong wind of about 20m/s blowing at a 45-degree angle to the straight course, and when we were driving at high speed, the upper edge of the door felt a little lacking in rigidity.
+That said, when you consider practical use, it’s not necessarily true that lighter is always better. For things like ride comfort and vibration, having a certain amount of weight can actually be advantageous.
 
-<b>Tateishi:</b> As for the noise data, due to the strong winds, the background noise was 65 phons on the A scale, so we corrected for ambient noise in the measurement range of 40 to 60 km/h. At 40 km/h, it was 65 phons, and at 60 km/h, it was 72 phons. We also measured interior noise at 160 km/h, and the figure was 91 phons. 
+Of course, some might say that after going to the trouble of developing such a high-performance engine, not taking racing into account shows a lack of ambition--but those are issues we can leave for the future.
 
-<b>Watari:</b> This was the first time that we measured noise inside the car in strong winds at 160 km/h, and if you convert the wind speed, it corresponds to running at close to 190 km/h. When comparing these measurements with other GT cars, the noise level is on the low side. 
+<b>Yamamoto:</b> So the decision to make it a coupe, besides making it easier to achieve a cohesive shape, also offered advantages in terms of structural rigidity?
 
-<b>Nakamura:</b> Comprared to our in-house data, the sound seems to be higher at high speeds. For reference, at 160 km/h, we measured the sound level at 86 phons, which is about 5 to 6 phons lower.
+<b>Hara:</b> Yes, overall rigidity is much easier to achieve that way.
 
-<b>Hirao:</b> It must be because of the wind. The background noise is corrected for, but at high speeds, the wind speed against the vehicle increases, so the noise generated apart from the background noise also increases. It probably rises at roughly the square of the wind speed against the vehicle.
+We felt it would be somewhat pointless to make it an open car and then have to increase weight just to compensate for the loss of stiffness. We’ve already had that experience with the Fairlady--without a roof, you have to add quite a lot of reinforcement underneath.
 
-<b>Harada:</b> Also, if the wind hits it from a slightly diagonal direction, the sound gets louder. Professor Watari pointed out the fit of the door, and in areas like that, the sound can get louder suddenly from gusts.
+<b>Yamamoto:</b> The frame is based on the Fairlady, then?
 
-<b>Tateishi:</b> The wind was at its worst during the sound testing, with a maximum instantaneous wind speed was 25 m/s. I did not measure the noise outside the car, but when I listened to the sound of the car, as others mentioned, it more like the light sound of a sedan than a sports car.
+<b>Hara:</b> That’s right. Although the length has been shortened slightly.
 
-<b>Nakamura:</b> We considered various options when deciding on the exhaust sound quality but in the end, since this is a touring sports car, we intentionally went for something more sedan-like.
+<b><u>A Shape That Keeps Running Resistance Low</b></u>
 
-<b><u>Basic Steering Characteristic is Understeer</b></u>
+<b>Magazine:</b> Now then, let’s take a look at the performance test results…
 
-<b>Magazine:</b> How about the results of the maneuverability and stability tests?
+<b>Oguchi:</b> In standing-start acceleration, we recorded 0-200m in 11.0 seconds, and 0-400m in 17.4 seconds. Nissan’s internal figure for 0-400m is said to be 17.9 seconds, so the Motor Fan test produced slightly better results.
 
-<b>Kondo:</b> First, we measured the minimum turning radius. The results are 5.29m for the outermost part of the car, and the innermost part is 3.01m. 
+<b>Kondo:</b> I understand there was quite a strong wind during testing?
 
-The understeer, oversteer, and steering force test shows that the car maintained understeer until the end. The maximum steering forc during the test was 2.8kg, which I think is light for this type of car. The degree of understeer was judged from the R/R.~V². (R is the radius of curvature at time t=0, R=14.0m) curve, and it continued to increase up to 120m²/s², which I think is quite good. However, since the rate of increase was so strong, I wondered if the degree of understeer was too strong. For comparison, the Porsche 911, which has good handling and stability, also exhibited understeer up to about 120m²/s² like this Silvia.
+<b>Oguchi:</b> By the time of the test, the wind had died down somewhat, but there was still a crosswind of about 5-7m/s.
 
-The roll angle during turns is obtained by comparing an actual straight line overlaid with the measured values, which results in a calculated roll rate of 3.90, which I think is appropriate.
+<b>Hirao:</b> So the conditions weren’t especially favorable.
 
-The steering force for turning the wheel while stationary is 16kg for a left turn at a steering angle of 180° and 16kg for a right turn at 270°, which are quite large values. It seems that the steering force while stationary is high for all domestic sports cars these days, maybe on the assumption that they are driven by energetic young people. What bothers me more was the asymmetry in effort between left and right turns.
+<b>Oguchi:</b> In overtaking acceleration as well, this was the first time we were able to measure all the way from 40km/h in top gear up to around 140km/h.
 
-In the low-speed steering force test, i.e. the figure-8 course driving test, the steering force when entering a curve was 6kg at a centripetal acceleration of 0.25g, which I think is in the optimum range. In the high-speed steering force test (slalom test), turning side-to-side with a maximum lateral acceleration of 0.25g, turning left resulted in a maximum effort of 2.5 to 3kg, but the right turn effort was asymmetrical with the left, being much lighter at 1.5kg. This is related to the asymmetry in steering force when the car is stationary, and I would like to discuss this with the company's engineers later whether it was just a maintenance issue.
+Part of that may be due to using Yatabe rather than Murayama as the test location, but in any case, I think the data clearly demonstrates the car’s strong acceleration performance.
 
-<b>Hirao:</b> I wonder what the alignment was like...
+<b>Magazine:</b> It seems fuel economy wasn’t measured in this test, so we’ll refer to Nissan’s data. But you did conduct a high-speed coasting test, correct?
 
-<b>Ishikawa:</b> When measured with a side slip tester, the front wheels had medium camber and toe-in. When there was one person in the car and when there were two people in the car, the camber and toe-in were slightly smaller. The rear wheels had almost no camber or toe-in. 
+<b>Oguchi:</b> We haven’t fully compiled the data yet, but we can report the rolling resistance and aerodynamic drag coefficients.
 
-<b>Kondo:</b> We also performed hands-off directional stability tests at speeds up to 120km/h, but there was nothing unusual to report.
+The rolling resistance coefficient is about 0.015, which is relatively low--most ordinary cars are around 0.018. The aerodynamic drag component is also small, at roughly 0.002.
 
-<b>Hirao:</b> Perhaps because the wind was strong, I felt like the steering was light and easily deflected. I happened to be driving a Mercedes-Benz 300SL the same day, but that car didn't seem to be affected. I suppose it's because that's a bigger car with heavier steering.
+<b>Kondo:</b> I would have expected the rolling resistance to be closer to 0.012 or 0.013…
 
-<b>Kondo:</b> For Japan, this is a topic for research in the future.
+<b>Hirao:</b> With larger cars, you tend to see lower figures. Since this is a small car, internal friction effects probably play a bigger role.
 
-<b>Kumabe:</b> I think everyone who drives in gusty crosswinds for the first time has the same feeling.
+<b>Yamada:</b> For this Silvia, the overall drag coefficient comes out to about 0.5. That’s roughly on par with a typical sedan, and actually on the higher side for a sports-type car.
 
-<b>Ishikawa:</b> Up to about 120 km/h, there wasn't much wobbling. But at 140 or 160km/h, the wind had a big effect on the steering. 
+<b>Kondo:</b> From a purely aerodynamic standpoint, I would have expected it to generate more wind noise, but a figure of 0.5 isn’t bad.
 
-<b><u>Effective High-Speed Braking</b></u>
+<b>Hirao:</b> Most ordinary sedans are around 0.6. Cars like Porsche or Volkswagen are probably just a bit above 0.5.
 
-<b>Hirao:</b> I wonder if the stiffness of the steering column is a little low. I couldn't instantly make the right corrections, which was a little unnerving. I didn't notice this in the Fairlady, although there was some difference in the test speeds.
+<b>Yotsumoto:</b> If it had headlamp covers like a Volkswagen, the figure could be improved further, but regulations no longer allow that.
 
-<b>Harada:</b> Yes, this happens. Understeering cars have the disadvantage of being weak against the wind.
+<b>Hirao:</b> As Professor Kondo  suggested, 0.5 does seem a bit low for this kind of styling. However, I suspect the use of racing tires--and particularly the high tire pressures--had a significant influence on the results.
 
-<b>Kondo:</b> That may be true, but if you look at the sports cars that have come out recently, they all seem to have light steering at high speeds. Since they are sports cars, surely it would be okay to make the gear ratio smaller and the steering a little heavier?
+<b>Nakamura:</b> The low running resistance likely plays a role as well, but fuel economy is actually quite good for a twin-carburetor setup.
 
-<b>Harada:</b> It's quite difficult to make the steering appropriately heavy at high speeds. We will continue to research this.
+On a run between Odawara and Yokohama, the average fuel consumption came out to 16.5km/l, with an average speed of 49.3km/h over a distance of 103.4km.
 
-<b>Magazine:</b> What about our tests at the Ship Research Institute?
+<b><u>Sedan-like Soft Sound Quality</b></u>
 
-<b>Ishikawa:</b> The weight is 993kg including the spare tire and tools, with 531kg on the front wheels and 462kg on the rear wheels, for a weight distribution of 53.5:46.5. With two people on board, the rear load becomes a little heavier. 
+<b>Magazine:</b> How about the noise and vibration data?
 
-The brakes are Dunlop type discs on the front wheels and leading-trailing drum brakes on the rear wheels. Because discs are used on the front wheels, the pedal force required for 0.6g deceleration is a little heavy (37kg), and the distribution of the braking force is 6:4. The balance between the left and right wheels is quite good, but on the test car the left front wheel brake was a little weaker than the right. 
+<b>Watari:</b> Since this is a sports-type car, it may not be necessary to go into too much detail on this aspect, but we will present the data for the record.
 
-The parking brake has a 0.2g operating force of 29kg, which is greater than the in-house data, but the floor-lever type rear two-wheel brakes are located in an easy-to-reach position and operate smoothly.
+<b>Tateishi:</b> In the suspension vibration tests, using the usual bump course, we obtained sprung-mass vibration frequencies of 1.5cps at the front and 1.6cps at the rear. Unsprung mass vibration was in the 20-23cps range, and the damping characteristics appear to be fairly strong.
 
-In earlier road tests, cars have tended to require greater pedal force as speeds increased, but in the Silvia, due to air resistance and other factors, the pedal force actually becomes lighter at higher speeds. However, at 129km/h, 0.6g braking causes considerable brake fade and the pedal becomes heavier. However, because recovery is quick, no significant increase in pedal force is observed in repeated tests. 
+<b>Watari:</b> In other words, bouncing is around 90 cycles per minute, and pitching about 95 cycles per minute, which are typical values for GT cars and other sports cars.
 
-The shift lever is a little rough and difficult to operate. Effort seems to be heavier than in the Fairlady. The clutch, on the other hand, seems lighter than the Fairlady's.
+However, when actually driving it, it seemed quite good in those aspects, but I did feel that elastic vibrations in the structure were somewhat noticeable.
 
-<b>Watari:</b> I thought the feel of the shift lever was pretty good, but the brake feel wasn't so impressive. 
+On the test day, there was a strong wind of about 20m/s blowing at roughly 45°  to the straight course, and combined with the high-speed driving, the upper edge of the door felt a little flimsy.
 
-<b><u>How to Brake From High Speed</b></u>
+<b>Tateishi:</b> For the noise measurements, because of the strong wind, the background noise reached as high as 65 phons on the A-weighted scale. So for the 40-60km/h range, background correction was applied. The readings were 65 phons at 40km/h and 72 phons at 60km/h. We also measured up to the top speed of 160km/h, where the reading was 91 phons.
 
-<b>Kumabe:</b> This is a very basic question, but what is the proper technique for decelerating from high speeds, like 160 or 170km/h?
+<b>Watari:</b> This is the first time we’ve measured in-car noise up to 160km/h under such strong wind conditions. If we convert the wind speed conditions, it's equivalent to running at nearly 190km/h. When compared with other GT cars, these values fall into the lower (quieter) group.
 
-<b>Hirao:</b> I usually apply the brakes first to slow down, then downshift to third gear and let engine braking slow the car, then apply the brakes again and throw the car into second. What do you think?
+<b>Nakamura:</b> Compared with our internal data, the high-speed noise seems slightly higher. For reference, at 160km/h we recorded 86 phons, so this is about 5-6 phons higher.
 
-<b>Harada:</b> I think customs differ depending on the country. In Europe they make heavy use of engine braking, but this isn't so common in Japan.
+<b>Hirao:</b> That’s probably because of the wind. Even though background noise has been corrected, at high speeds the relative airflow over the car increases significantly, so noise generated independently of background conditions also rises. It probably increases with roughly the square of the relative wind speed.
 
-<b>Kumabe:</b> With normal drum brakes, how many times can you be guaranteed to stop from high speeds of 180 or 170kmh? 
+<b>Hara:</b> Also, when the wind comes in at a slight angle, noise tends to increase. Professor Watari also pointed out the door fit, and it's true that in those areas the noise can rise quite sharply.
 
-<b>Harada:</b> We test systems so that they can be guaranteed to work for about 20 consecutive stops, but in those tests, the continuous speed before stopping is 100km/h. At higher speeds, the load increases by more than a factor of two, but I think they will still be fine for about 20 stops. 
+<b>Tateishi:</b> During the test, we experienced the worst of the wind conditions of the day. According to radio reports, the maximum instantaneous wind speed in that area was about 25m/s. We did not measure exterior noise, but from listening to the car, as described, the sound is more like a sedan--lighter in character than a typical sports car.
 
-<b>Harada:</b> But to be honest, when it comes to speeds like 160km/h, it becomes almost impossible unless you exert an incredible amount of force. 
+<b>Nakamura:</b> In deciding the overall sound character, we examined it in various ways, but in the end we settled on a touring sports car classification, and gave it a sedan-like quality.
 
-<b>Ishikawa:</b> With these disc brakes, I tried braking hard from 140km/h, and it stopped perfectly. 
+<b><u>Steering Characteristics: Tending Toward Understeer</b></u>
 
-<b>Hirao:</b> These brakes are very reassuring. And as for engine braking, thanks to the Porsche-type synchro, you can downshift smoothly at any speed.
+<b>Magazine:</b> How were the results of the handling and stability tests?
 
-<b>Miyamoto:</b> From my experience, even if you use disc brakes hard enough to approach wheel lock on a paved road, they will still work, but with drum brakes, it's no good. The steering wheel gets yanked right out of your hands...
+<b>Kondo:</b> First we measured the minimum turning radius. As shown in the accompanying chart, the outermost path of the car was 5.25m, and the innermost was 3.01m.
 
-<b>Higuchi:</b> In races, I was taught to press the the brakes as hard as I could, then ease off when it skidded, and then brake again. This way, even with drum brakes, you can slow down safely.
+In the understeer/oversteer test, the car remained in a state of understeer throughout. Maximum steering effort was 2.8kg, which I think is light for a car of this type.
 
-<b>Magazine:</b> Now, here are the results of the visibility test...
+The degree of understeer is evaluated from the R/R₀ ~ V² curve. It continues rising up to about 120 m²/s², which is a good result. However, since the rate of increase is rather strong, I did wonder whether the understeer might be a little on the heavy side.
 
-<b>Yamamoto:</b> The seat slide travel is 130mm, and we measured the solid angle of forward visibility and the visible range with the seat in its fully forward and rearward positions. Looking at the data, I think that overall visibility in this car is good for a coupe.
+For reference, the Porsche 911--well known for good handling stability--also showed understeer values up to around this same 120 m²/s² range in our tests.
 
-<b><u>Exterior and Interior Finish</b></u>
+The roll angle in cornering, derived from the straight-line relationship, also matches the measured values quite well. The points fall cleanly on the estimated line, giving a roll rate of 3.90, which I think is quite acceptable.
 
-<b>Magazine:</b> What about the interior dimensions?
+The steering effort when stationary is 16kg at 180° to the left, and 16kg at 270° to the right. These are fairly high values. Most domestic sports cars in recent years tend to show relatively heavy steering at standstill--maybe on the assumption that they will be driven by energetic young drivers.
 
-<b>Higuchi:</b> In terms of body dimensions, since it is a full two-seat coupe, compared to a 2+2 or four-seat cars in the same class, it is short in length, medium in width, and the lowest in height. The reduced length and height have a large effect on reducing the frontal area. However, although it is a small thing, the protrusion of the wheel caps was noticeable compared to the width of the front bumper and the width of the front half of the body.
+One point that stood out is that the left and right steering efforts are not symmetrical.
 
-The interior dimensions are fully adequate for a two-seater. The luggage area at the rear is particularly spacious, with the curved doors and glass. The seats are low and deep, ensuring ample head clearance. However, I wonder if it could have legally been classified as a four-seater, so it could be used for family use, rather than limiting it to a two-seat capacity. 
+In the low-speed steering tests--that is, the figure-eight course tests--the steering effort on entering a turn was about 6kg at 0.25g lateral acceleration, which I would consider to be in the favorable range.
 
-The driving position is typical of a sports car, with the front end of the seat low, the steeply inclined steering wheel close to the seat cushion, and far away from the backrest. The steering wheel and stick-type gear shift lever also add to the sports-car feel, and the pedals are arranged to allow for heel-and-toe positioning.
+The high-speed slalom tests, meanwhile, show that to the left the steering effort is about 2.5-3kg at a lateral acceleration of 0.25g, which is quite good. However, to the right it is not symmetrical with the left, dropping to about 1.5kg at 0.25g, and the effort curve itself also becomes more relaxed.
 
-The reach to the switches and levers is also better than in any previous domestic car. The only controls that feel a little far away are the seat slide lock, trip meter reset, cowl ventilator, ignition key, bonnet lock, etc., which are rarely used while driving. The rest are all located in convenient places and leave nothing to be desired.
+This seems related to the asymmetry already seen in the stationary steering effort test. It may be due to some unevenness in setup or alignment, and I would like to discuss it later with the company engineers.
 
-The interior and exterior finish are luxurious, and must be considered among the best of any domestic car. The gauges are impressive, and the way they are arranged across the curved instrument panel is very nice. The car is also equipped with a roll-up safety belt with adjustable straps, and the soft interior lining assures that safety measures are sufficient.
+<b>Hirao:</b> I wonder how the alignment was set up…
 
-<b>Magazine:</b> Thank you all very much for your support.
+<b>Ishikawa:</b> We measured it with a side-slip tester. The front wheels had a moderate amount of camber and toe-in. With either one passenger or two, both camber and toe-in shift slightly toward the smaller side. The rear wheels have almost no camber or toe-in at all.
+
+<b>Kondo:</b> As for straight-line stability with hands off the wheel, we tested this up to 120km/h, and there is nothing unusual to report.
+
+<b>Hirao:</b> Perhaps because of the strong wind, it felt as though the steering was being pulled around quite a bit. I happened to be driving a Mercedes 300SL at the time, and it didn’t behave that way. I suppose that’s because it’s larger and heavier.
+
+<b>Kondo:</b> This is probably something for future research in Japan.
+
+<b>Kumabe:</b> In those wind conditions, I think anyone driving it for the first time would feel that way.
+
+<b>Ishikawa:</b> Up to about 120km/h there’s no real wandering. But at 140 or 160km/h, the wind effect on the steering becomes quite noticeable.
+
+<b><u>Brakes That Work Well at High Speed</b></u>
+
+<b>Hirao:</b> I wonder if the steering rigidity is a little low. I can’t quite get a quick, precise sense of how much correction is needed--in other words, it feels like it doesn't settle properly. The Fairlady didn’t have that feeling, though there was a difference in test speeds.
+
+<b>Hara:</b> That may be true. Another weak point of understeering cars is that they tend to be sensitive to wind.
+
+<b>Kondo:</b> That may be part of it, but looking at recent sports cars, all of them have light steering. Since these are sports cars, perhaps the gear ratio could be made a little smaller and the effort increased slightly.
+
+<b>Hara:</b> The question of how to make steering heavier at high speeds--that’s a difficult one. We’ll continue to study it.
+
+<b>Magazine:</b> How about the results of the Ship Research Institute tests?
+
+<b>Ishikawa:</b> Total weight with spare tire and tools is 993kg. Axle load is 531kg front, 462kg rear, giving a 53.5:46.5 distribution. With two passengers, the rear load increases slightly.
+
+The brakes are Dunlop-type discs at the front and leading-trailing drums at the rear. Because discs are used at the front, pedal effort for 0.6g braking is about 37kg, somewhat on the heavy side. Brake force distribution is 6:4.
+
+Left-right balance is generally good, though on the test car the left front brake was slightly weaker than the right.
+
+The parking brake requires 29kg effort for the equivalent of 0.2g braking--this figure is somewhat higher than the internal data. It is a floor-mounted lever type acting on both rear wheels, positioned for easy reach and smooth in operation.
+
+In road testing, unlike previous cars where pedal effort increased with speed, this car shows slightly lighter pedal effort at higher speeds, likely due to aerodynamic effects and related factors. However, at 120km/h, braking at 0.6g causes noticeable fade and the pedal becomes heavier. That said, recovery is quick, so repeated tests do not show a significant rise in pedal effort.
+
+Among other controls, the shift lever is somewhat stiff and requires relatively high effort. The clutch, on the other hand, is lighter than that of the Fairlady.
+
+<b>Watari:</b> The shift lever feel was quite good. But I can’t say the brakes had particularly good “feel.”
+
+<b>Kumabe:</b> This may be a very basic question, but when braking from very high speeds--say, 160-170km/h--what is the proper sequence?
+
+<b>Hirao:</b> What I do is first apply the brakes to reduce speed, then drop into third and use engine braking, then brake again and shift into second. That’s the method I use--what do you think?
+
+<b>Hara:</b> I think it probably depends on driving habits by country. In Europe, engine braking is widely used, but in Japan, not as much.
+
+<b>Kumabe:</b> With ordinary drum brakes, how many repeated stops are they expected to withstand from something like 170 or 180km/h?
+
+<b>Hara:</b> We test on the basis of about 20 consecutive applications. With older brake systems, repeated use was generally limited up to around 100km/h. As speed increases, braking load may rise more than proportional to the square of speed, but we believe 20 cycles is still safe.
+
+<b>Harada:</b> To be honest, at 160km/h, unless you apply quite serious force, it becomes difficult.
+
+<b>Ishikawa:</b> With these disc brakes, we tested stopping from 140km/h, and it came to a very clean stop.
+
+<b>Hirao:</b> In that sense, these brakes are reassuring. And with engine braking as well, thanks to the Porsche-type synchronizer, you can downshift cleanly at almost any speed.
+
+<b>Miyamoto:</b> From experience, disc brakes, even if you step on them hard enough to lock on paved roads, tend to bite down smoothly, whereas drums are no longer safe in that situation—the steering starts to get pulled...
+
+<b>Higuchi:</b> In racing, we were taught to keep full pressure on the brakes, and if it starts to skid, ease off and reapply. With that technique, even drum brakes can still be used safely for deceleration.
+
+<b>Magazine:</b> Now, let's move on to the visibility measurements…
+
+<b>Yamamoto:</b> The seat has 130mm of fore-and-aft adjustment. We measured forward visibility and the solid angle of the visible field with the seat both fully forward and fully rearward. The data is shown in the appendix, but overall, for a coupe-type car, visibility falls into the better category.
+
+<b><u>Excellent Interior and Exterior Finish</b></u>
+
+<b>Magazine:</b> How about interior dimensions and related measurements?
+
+<b>Higuchi:</b> In terms of body dimensions, since this is a pure two-seat coupe, compared with 2+2 or four-seaters in the same class, overall length is shorter, width is mid-range, and overall height is among the lowest. Because both length and height have been pushed down to the limit, the reduction effect on frontal projected area is quite significant.
+
+There is one minor point: compared with the width of the front bumper and the front half of the body, the protrusion of the wheel covers is somewhat pronounced.
+
+As for interior dimensions, since it is a two-seater, there is sufficient space. In particular, the rear luggage area, together with the curved door glass, forms a fairly generous storage space. The seats are set low and deep, which secures ample head clearance. 
+
+However, I did feel that rather than making it strictly a two-seat coupe, if it were certified as a four-seater under regulations, it could also be used more easily for family purposes.
+
+The driving position is set in a typical sports-car posture: the seat front is low, the steering wheel is positioned close to the seat cushion, while the backrest is set farther away. 
+
+The steering wheel and stick-type gear lever are also very much in the sports-car style, and the pedal layout has been designed to allow heel-and-toe operation.
+
+Switches and control levers are arranged more cleanly than in previous examples. Items that feel slightly far away are those used less frequently while driving—such as the seat slide lock, trip meter reset, cowl ventilator, ignition key, and bonnet lock. Everything else is placed appropriately and is quite satisfactory.
+
+The interior and exterior specification is quite luxurious and, among domestic cars, appears to fall into the top-class category. The gauges are also well executed--the curved instrument panel arrangement is particularly impressive.
+
+Retractable seat belts and adjust straps are properly fitted, and together with the soft interior trim, safety considerations are well taken care of.
+
+<b>Magazine:</b> Thank you all very much.
 
 ---
 
