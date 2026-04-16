@@ -116,7 +116,7 @@ For the interior as well, we avoided anything showy or excessive, and instead ai
 
 <b>Yotsumoto:</b> I believe the basic proportions are quite sporty. Within the set dimensional limits--and without sacrificing interior space--to achieve those proportions gives it something close to a kind of fully resolved form. If we were to go further, it would mean adding something more flamboyant, but that wasn’t our intention. If dimensional restrictions are relaxed in the future, that may be another matter. Also, we had to keep in mind the relationship with the Laurel as an existing model line.
 
-<b>Magazine:</b> If this is the "ultimate" form, does that mean no further model changes for the 2-liter class? (laughs)
+<b>Magazine:</b> If this is the "ultimate" form, does that mean no further model changes are needed for the 2-liter class? (laughs)
 
 <b>Takahashi:</b> Not quite--but we are certainly reaching a difficult point.
 
@@ -412,7 +412,7 @@ There is also a tail-lamp monitor, which is a new feature.
 
 <b>Magazine:</b> What do you think about putting yellow and red lines on the speedometer?
 
-<b>Takahashi:</b> There’s no particular consensus on it, and it’s not something required by regulation…
+<b>Takahashi:</b> There’s no particular policy on it, and it’s not something required by regulation…
 
 <b>Hirao:</b> I think the red zone should be set based on the tires. Considering tire reliability, around 100mph--about 160km/h--would be a reasonable point.
 
@@ -420,7 +420,7 @@ There is also a tail-lamp monitor, which is a new feature.
 
 <b>Magazine:</b> But do yellow and red lines really contribute to safety?
 
-<b>Hirao:</b> It is not really about "safety" in that sense. It's more a zone that indicates the car is beginning to be under strain.
+<b>Hirao:</b> It's not really about "safety" in that sense. It's more a zone that indicates the car is beginning to be under strain.
 
 <b>Watari:</b> You could even have a car where 60km/h is the yellow zone and 80km/h is the red zone. (laughs) But for this class, perhaps yellow from 120km/h and red from 150km/h would make sense.
 
