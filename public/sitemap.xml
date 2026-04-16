@@ -44,6 +44,9 @@
     <loc>http://localhost:1313/nissan/laurel/cg-ri-nissan-laurel-hardtop-2000gx-2000sgx-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/cedric/mf-rt-nissan-cedric-gx-hardtop-gl-1971/</loc>
+    <lastmod>2026-04-15T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/sunny/mf-bs-nissan-sunny-coupe-1200gl-1970/</loc>
     <lastmod>2026-03-07T04:50:49-07:00</lastmod>
   </url><url>
@@ -386,13 +389,16 @@
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nissan/skyline/</loc>
-    <lastmod>2026-04-08T04:50:49-07:00</lastmod>
+    <loc>http://localhost:1313/nissan/cedric/</loc>
+    <lastmod>2026-04-15T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/</loc>
-    <lastmod>2026-04-08T04:50:49-07:00</lastmod>
+    <lastmod>2026-04-15T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-15T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/skyline/</loc>
     <lastmod>2026-04-08T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/laurel/</loc>
@@ -462,9 +468,6 @@
     <lastmod>2026-01-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/</loc>
-    <lastmod>2026-01-30T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/cedric/</loc>
     <lastmod>2026-01-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/117-coupe/</loc>
