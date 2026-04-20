@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/toyota/sprinter/mf-rt-toyota-corolla-coupe-1400sr-sprinter-1400sr-1971/</loc>
+    <lastmod>2026-04-19T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-800/mf-tdr-mitsubishi-colt-1100f-ss-1969/</loc>
     <lastmod>2026-03-10T04:50:49-07:00</lastmod>
   </url><url>
@@ -389,13 +392,19 @@
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/sprinter/</loc>
+    <lastmod>2026-04-19T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/</loc>
+    <lastmod>2026-04-19T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-19T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/cedric/</loc>
     <lastmod>2026-04-15T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/</loc>
-    <lastmod>2026-04-15T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-04-15T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/</loc>
@@ -411,9 +420,6 @@
     <lastmod>2026-04-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/celica/</loc>
-    <lastmod>2026-04-03T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/</loc>
     <lastmod>2026-04-03T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/gloria/</loc>
@@ -490,9 +496,6 @@
   </url><url>
     <loc>http://localhost:1313/honda/honda-s600-s800/</loc>
     <lastmod>2025-12-02T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/sprinter/</loc>
-    <lastmod>2025-11-25T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/2000gt/</loc>
     <lastmod>2025-11-21T04:50:49-07:00</lastmod>

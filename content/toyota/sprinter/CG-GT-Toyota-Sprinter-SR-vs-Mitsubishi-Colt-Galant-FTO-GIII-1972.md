@@ -2,7 +2,7 @@
 
 
 
-title = "Toyota Sprinter SR vs. Mitsubishi Colt Galant FTO GIII (1972)"
+title = "Toyota Sprinter 1400SR vs. Mitsubishi Colt Galant FTO GIII (1972)"
 
 weight = 1
 

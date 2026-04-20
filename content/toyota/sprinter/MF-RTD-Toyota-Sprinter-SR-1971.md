@@ -6,7 +6,7 @@
 
 
 
-title = "Toyota Sprinter SR (1971)"
+title = "Toyota Sprinter 1400SR (1971)"
 
 
 
