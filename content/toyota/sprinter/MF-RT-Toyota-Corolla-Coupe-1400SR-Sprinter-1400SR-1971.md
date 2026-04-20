@@ -60,15 +60,15 @@ draft = false
 
 <b><u>Is the Gear Ratio Too Low?</b></u>
 
-<b>Magazine:</b> To begin with, we’d like to ask about the development aims behind the 1400 SR, and the kind of car you had in mind.
+<b>Magazine:</b> To begin with, we’d like to ask about the development aims behind the 1400SR, and the kind of car you had in mind.
 
 <b>Sasaki:</b> Last spring we carried out a model change for the Corolla, and in the autumn we introduced the TE series with a 1400cc engine. Now, as a further step, we’ve added new SL and SR versions to the Corolla/Sprinter line, powered by the 1407cc twin-carburetor TB engine.
 
 The new SL replaces the previous single carburetor with a twin-carb setup, raising output to 95ps at 6000rpm. The SR uses this same engine, combined with either a 4-speed or 5-speed transmission. “SR” stands for Sports & Rally. 
 
-Within the Corolla/Sprinter range, the SL is, as the name suggests, the most sporty and luxurious model. The SR is essentially a version that emphasizes the “S” (sport) character more strongly, while keeping the “L” (luxury) element restrained.
+Within the Corolla/Sprinter range, the SL is, as the name suggests, the most sporting and luxurious model. The SR is essentially a version that emphasizes the “S” (sport) character more strongly, while keeping the “L” (luxury) element restrained.
 
-In other words, the 1400 twin-carb engine, 5-speed transmission, and disc brakes represent the “S” side. In particular, the suspension has been made firmer, and radial tires are fitted as standard. The interior is unified in a black color scheme, including the steering wheel, and the exterior uses SR-specific wheel caps, moldings, and badging to give it its own identity.
+In terms of features, the 1400 twin-carb engine, 5-speed transmission, and disc brakes represent the “S” side. For this model, the suspension has been made firmer, and radial tires are fitted as standard. The interior is unified in a black color scheme, including the steering wheel, and the exterior uses SR-specific wheel caps, moldings, and badging to give it its own identity.
 
 The “L” element has been deliberately reduced in several areas. The SL uses heat-absorbing glass at the front, whereas the SR uses clear glass, and the amount of trim has been reduced. The console, radio, and rear window defogger have also been omitted. However, in consideration of rally use, laminated front glass and a rear defogger are available as options.
 
@@ -76,15 +76,15 @@ In terms of appearance, the SR also features dedicated side stripes, and special
 
 <b>Magazine:</b> The chassis has been changed quite a bit--could you go into the details?
 
-<b>Sasaki:</b> First, the tires are radials. The suspension layout itself is the same, but the springs have been stiffened and the damping force of the shock absorbers increased. In terms of spring rates, the front coil springs have gone from 1.6kg/mm on the SL to 2.2kg/mm, and the rear leaf springs from 1.9kg/mm to 2.2kg/mm. The front stabilizer bar has also been increased in diameter, from 16mm to 19mm, to improve front roll stiffness.
+<b>Sasaki:</b> First, the tires are radials. The suspension layout itself is the same, but the springs have been stiffened and the damping force of the shock absorbers has been increased. In terms of spring rates, the front coil springs have increased from 1.6kg/mm on the SL to 2.2kg/mm, and the rear leaf springs from 1.9kg/mm to 2.2kg/mm. The front stabilizer bar has also been increased in diameter, from 16mm to 19mm, to improve front roll stiffness.
 
 <b>Magazine:</b> Was the suspension setup chosen to suit rally use? Or would further modification still be needed for rallying?
 
-<b>Sasaki:</b> Actually, we’d like to hear your opinions on that… From a design standpoint, the previous setup had a relatively large difference between the front and rear spring rates, so we brought them closer together. When setting these spring rates, we actually had some of our younger staff act as a panel and choose what they preferred.
+<b>Sasaki:</b> Actually, we’d like to hear your opinions on that… From a design standpoint, the previous setup had a relatively large difference between the front and rear spring rates, so we brought them closer together. When setting these spring rates, we actually had some of our younger staff act as a panel and tell us what they preferred.
 
 That said, it’s not intended only for rally-style driving. It’s set so that even on rough roads in general use, it doesn’t feel overly stiff.
 
-Rather, we decided on a specification that would be appreciated when driving in a rally-like manner on roads like the Tomei Expressway or on winding roads.
+Our aim was a specification that would be appreciated when driving in a rally-like manner on routes like the Tomei Expressway or on winding roads.
 
 <b>Watari:</b> The front setting seems about right, but at the rear, it might be a bit harsh on rough roads.
 
@@ -92,7 +92,7 @@ Rather, we decided on a specification that would be appreciated when driving in 
 
 <b>Nishiyama:</b> The bouncing frequency is about 1.65cps, and pitching around 1.5cps.
 
-<b>Watari:</b> In that case, it should suit something like the Tomei quite well. But on mountain roads, when it hits resonance, it could be tough.
+<b>Watari:</b> In that case, it should suit something like the Tomei quite well. But on mountain roads, when it starts to resonate, it could be tough.
 
 <b>Sasaki:</b> We do have people competing in mountain rallies, so we measured times on mountain roads and selected the setup that gave the quickest results.
 
@@ -100,7 +100,7 @@ Rather, we decided on a specification that would be appreciated when driving in 
 
 Roll itself is controlled by spring stiffness, but stroke—aside from cases of resonance—comes down to whether the dampers are doing their job, and ultimately to the road surface. So for rally use, you really need to decide what kind of road irregularities you’re designing for, and set the suspension stroke accordingly.
 
-<b>Sasaki:</b> With five passengers aboard, the stroke has actually increased by about 5mm compared with before.
+<b>Sasaki:</b> With five passengers aboard, the stroke is actually about 5mm longer than before.
 
 <b>Magazine:</b> From the standpoint of stroke, wouldn’t coil springs have an advantage? In that sense, might it have been better to adopt something like the Celica/Carina suspension…?
 
@@ -110,9 +110,9 @@ Roll itself is controlled by spring stiffness, but stroke—aside from cases of 
 
 <b>Sasaki:</b> The 5-speed transmission itself is the same as the Celica/Carina unit, but since we’ve adopted a 5-speed, we’ve raised the final drive ratio from 4.222 to 4.375. As a result, driving force in first through fourth gear is increased accordingly, while fifth is an overdrive—so engine speed is lower than in the top gear of a 4-speed.
 
-<b>Okazaki:</b> Japanese rough roads tend to have many tight hairpin-type sections. So raising the final drive may actually be working against it. As it is, the ratios are too low--first gear tops out too quickly, and in second it doesn't quite extend properly.
+<b>Okazaki:</b> Rough roads in Japan tend to have many tight hairpin-type sections. So raising the final drive may actually be working against it. As it is, the ratios are too low--first gear tops out too quickly, and in second it doesn't quite extend properly.
 
-People who drive cars like this SR tend to prefer the feeling of extension at the top end rather than just strong pull at low speeds. From a practical rally standpoint, ideally you’d want first to reach about 50km/h and second around 90km/h. Personally, I think a 4.111 final drive might suit first and second gear much better.
+People who drive cars like this SR tend to prefer the feeling of extension at the top end rather than just strong pull at low speeds. From the perspective of real-world rallying, ideally you’d want first to reach about 50km/h and second around 90km/h. Personally, I think a 4.111 final drive might suit first and second gear much better.
 
 <b>Hirao:</b> Yes, that sounds right.
 
@@ -120,7 +120,7 @@ People who drive cars like this SR tend to prefer the feeling of extension at th
 
 <b>Sasaki:</b> At 6500rpm, first gives 45km/h, second 77km/h, and third 112km/h.
 
-<b>Okazaki:</b> It may just have been the particular car I drove, but from around 5500rpm the engine seemed to lose its willingness to rev, and response dulled. I drove a Paprika SR at the same time, and compared to that, this one felt a bit sluggish at the top end.
+<b>Okazaki:</b> It may just have been the particular car I drove, but from around 5500rpm the engine seemed to lose its willingness to rev, and response dulled. I drove a Publica SR at the same time, and compared to that, this one felt a bit sluggish at the top end.
 
 <b>Hirao:</b> It might be better to make 4.111 the standard, and offer 4.222 or 4.375 as options.
 
@@ -188,7 +188,7 @@ In that case, if you gave it six speeds, would that be even more appealing? (lau
 
 <b>Kinoshita:</b> The main changes are the twin carburetors and a revised camshaft. Naturally, that brings changes to the intake manifold as well, and the valve timing has been set to improve high-speed performance. We’ve also made some revisions to the exhaust system to reduce muffler resistance.
 
-We’ve raised the compression ratio as well, which gives about 9 ps more than the T-type engine.
+We’ve raised the compression ratio as well, which gives about 9ps more than the T-type engine.
 
 <b>Magazine:</b> It’s certainly a fairly high-power engine. In general, Japanese cars tend to emphasize high output--how do you see that?
 
@@ -248,7 +248,7 @@ If you have to shift at 6500rpm, that’s one thing—but if that point were a y
 
 Earlier there was some discussion about the gear ratios being a bit too low, and during launch the tires are indeed slipping almost the entire time--proper traction only comes in for less than 0.5 seconds. It left me feeling the overall gearing might be better set slightly taller.
 
-<b>Magazine:</b> It didn’t even cover 50m in first gear, did it?
+<b>Magazine:</b> It didn’t even reach 50m in first gear, did it?
 
 <b>Furutani:</b> It was already in fourth by the 400m mark.
 
