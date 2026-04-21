@@ -49,7 +49,7 @@ There were, of course, other sports cars along the way, such as the Prince Skyli
 
 In the scorching heat of summer, rather than creeping through the city in a plain sedan, one naturally wants to take to the highway in a sports car and enjoy the breeze. Among the members of our test group, someone casually suggested that this month's subject should be the Fairlady, the domestic sports car with the longest history. After all, it had only recently finished in first and second place in the East African Safari Rally.
 
-The winning car there was the Nissan Fairlady 240Z. However, since the purpose of this test was to examine a model closer to what readers might come to own, we ultimately settled on the more popular, regular-production version: the Nissan Fairlady Z-L.
+The winning car there was the Nissan Fairlady 240Z. However, since the purpose of this test was to examine a model closer to what readers might come to own, we ultimately settled on the more popular, regular-production version: the Fairlady Z-L.
 
 As usual, the test group set out along our established route: onto the Tomei Expressway from the Tokyo IC to Gotemba IC, over Otome Pass, up the Hakone Turnpike, back again via Otome Pass, and then onto the Tomei from Gotemba for the return to Tokyo, before convening again at our base, the Fantasy Drive-In near the entrance to the expressway on Tamagawa-dori.
 
