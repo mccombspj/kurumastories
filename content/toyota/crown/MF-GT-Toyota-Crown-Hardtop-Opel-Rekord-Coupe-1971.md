@@ -10,7 +10,7 @@ title = "Toyota Crown Hardtop Super Deluxe vs Opel Rekord Coupe (1971)"
 
 
 
-weight = 45
+weight = 44
 
 
 

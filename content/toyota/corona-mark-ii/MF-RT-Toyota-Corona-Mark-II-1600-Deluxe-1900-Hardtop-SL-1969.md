@@ -24,81 +24,81 @@ draft = false
 
 From around 1964, we became increasingly active in exports, and in particular we began to achieve considerable success with large-volume exports to the United States. As people in various parts of the world drove the car and we listened to their opinions, there were comments that, because of differences in physique, the interior could be made somewhat more spacious.
 
-Mechanically as well, although the Corona was regarded as a good, well-balanced car, we began thinking about how to further improve its functional performance. Out of these considerations, the concept for this model was born. That was around 1965.
+Mechanically as well, although the Corona was regarded as a good, well-rounded car, we began thinking about how to further improve its functional performance. Out of these considerations, the concept for this model was born. That was around 1965.
 
 <b>Magazine:</b> In overseas markets, then, is the Corona considered somewhat cramped?
 
 <b>Amano:</b> In America, we do not hear that complaint very often. In Europe, however, it seems that the rear seats are used more frequently. In such cases, when the front occupants slide their seats fully rearward, there are requests for more rear-seat space. When compared with similarly-priced cars such as the Cortina, it is said that the Corona is somewhat smaller.
 
-Thus, the central theme of development became not only styling, but also improving room and comfort. At the same time, we sought to enhance functional performance. Furthermore, as American safety standards were becoming considerably stricter, we placed emphasis on meeting these requirements from the earliest planning stage. The result of that effort is the Corona Mark II.
+Thus, the central theme of development became not only styling, but also improving room and comfort. At the same time, we sought to enhance its functional performance. Furthermore, as American safety standards were becoming considerably stricter, we placed emphasis on meeting these requirements from the earliest planning stages. The result of these efforts is the Corona Mark II.
 
 <b>Higuchi:</b> How does this car relate to the existing Corona, and what are the origins of the name, "Mark II?"
 
-<b>Amano:</b> The Corona has knock-down production facilities in other countries, including Australia and Korea, and its styling has been very well received both domestically and overseas. It would be a waste to discontinue it entirely. Therefore, we decided to freshen the existing Corona with a minor change, and position this as its larger, senior counterpart--hence the name Corona Mark II.
+<b>Amano:</b> The Corona has knock-down production facilities in other countries, including Australia and Korea, and its styling has been very well received both domestically and overseas. It would be a shame to discontinue it entirely. Therefore, we decided to freshen the existing Corona with a minor change, and position this as its larger, senior counterpart--hence the name Corona Mark II.
 
-In Japan, I believe this is the first time the designation “Mark II” has been used in this way, but in Europe and America the term is commonplace. We would like it to be understood as a car that is within the Corona lineage, but advanced one step further.
+In Japan, I believe this is the first time the term “Mark II” has been used in this way, but it is used quite commonly in Europe and America. We would like it to be understood as a car that is within the Corona lineage, but advanced one step further.
 
 <b>Magazine:</b> In what specific ways does it differ from the existing Corona?
 
-<b>Amano:</b> In terms of available body styles, there are sedan and hardtop versions, as before, but this time we have introduced a station wagon. These three are the passenger-car models. In addition, there are three commercial variants: the single-cab pickup, double-cab pickup, and van.
+<b>Amano:</b> There are sedan and hardtop body styles available, as before, but this time we have introduced a station wagon. These three are the passenger-car models. In addition, there are three commercial variants: the single-cab pickup, double-cab pickup, and van.
 
-The sedan is the mainstay model. The hardtop has been given a somewhat bolder styling treatment, incorporating the recently popular “Coke-bottle” line, though we were careful not to make it excessive. We also made a conscious effort to increase the distinction between the sedan and hardtop compared to the previous model.
+The sedan is the primary model. The hardtop has been given a somewhat bolder styling treatment, incorporating the recently popular “Coke-bottle” line, though we were careful not to take it too far. We also made a conscious effort to increase the distinction between the sedan and hardtop compared to the previous model.
 
-As for the van and wagon, we significantly differentiated the rear styling. We worked hard to create an image that would immediately identify the wagon at a glance. I believe the result has turned out rather well.
+As for the van and wagon, we significantly differentiated the rear styling of the two. We worked hard to create an image that would immediately identify the wagon at a glance. I believe the result has turned out rather well.
 
 <b><u>Efforts Toward Improved Accommodation</b></u>
 
 <b>Magazine:</b> You mentioned placing emphasis on room and comfort. Could you reveal something of the process behind that?
 
-<b>Amano:</b> In the past, the stylists would first decide the exterior form, and afterward the interior would be arranged as best as possible within that framework. In such cases, if opinions differed between styling and accommodation, the styling side might prevail.
+<b>Amano:</b> In the past, the stylists would decide the exterior shape first, and afterward the interior would be arranged as best as possible within that framework. In cases where opinions differed between styling and accommodation, the styling side could win out.
 
-For the Mark II, however, we first created a full-scale wooden interior mock-up. If the styling department requested revisions, the matter was discussed from that starting point. Because of this approach, I believe we were able to secure a relatively spacious interior for a car of this overall size.
+For the Mark II, however, we created a full-scale wooden interior mock-up first. If the styling department requested revisions, the matter was discussed using that as a starting point. Because of this approach, I believe we were able to secure a relatively spacious interior for a car of this overall size.
 
 As for design, we paid attention to aligning it with the sensibilities of today's younger people. In particular, we worked hard to clarify the distinctions between the sport-oriented models and the standard sedan, as well as between the hardtop and sedan body styles.
 
 <b>Magazine:</b> You mentioned that, in terms of safety, it complies fully with American standards.
 
-<b>Amano:</b> Yes, that is one aspect. In addition, the fundamental body structure has been designed so that the front and rear sections can deform comparatively more easily than the cabin, allowing them to help absorb energy in the event of a collision.
+<b>Amano:</b> Yes, that is one aspect. In addition, the fundamental body structure has been designed so that the front and rear sections can deform relatively easily compared to the cabin, allowing them to help absorb energy in the event of a collision.
 
-Under American standards there are 21 regulated items. By carrying over the previous Corona’s specifications, 19 of those were already satisfied. To that we have added the remaining two items, and beyond that we have incorporated various further considerations.
+Under American standards, there are 21 individual regulated items. By carrying over the previous Corona’s specifications, 19 of those were already satisfied. To that we have added the remaining two items, and beyond that we have incorporated various further considerations.
 
-Turning next to function: for the engine, we are using the 1591cc SOHC unit from the Golden Series Corona introduced in the spring of 1968, with certain improvements. From a product standpoint, the primary emphasis remains on this 1.6-liter engine. The 1900 engine that you have also tested is based on the 1.6-liter unit, but with the stroke extended by 11.5mm, bringing displacement to 1858cc.
+Turning next to function: for the engine, we are using the 1591cc SOHC unit from the Corona Golden Series introduced in the spring of 1968, with certain improvements. From a product standpoint, the primary emphasis remains on this 1.6-liter engine. The 1900 engine that you have also tested is based on the 1.6-liter unit, but with the stroke extended by 11.5mm, bringing displacement to 1858cc.
 
 The SL version is specially tuned, with the aim of providing performance appropriate to the highest-grade model in the Corona series. "SL" signifies not only sportiness, but also a high level of equipment. Accordingly, it includes features such as power windows, a rear window defogger, armrests, a steering lock device, an energy-absorbing steering column, and a dual-circuit braking system. The inclusion of these comprehensive safety measures is something we take pride in.
 
 <b>Kumabe:</b> It has changed quite a bit from the standard Corona. To take such bold steps and yet improve it so much is impressive.
 
-<b>Hirao:</b> It's been called the Corona’s “big brother,” but to me it seems more like an older sister. (laughs) The lines have become rather feminine. Because of that femininity, I suspect it will appeal to men. On the other hand, I have heard some young women say the lines seem softened, and that the previous Corona was cleaner and more crisp.
+<b>Hirao:</b> It's been called the Corona’s “big brother,” but to me it looks more like an older sister. (laughs) The lines have become rather feminine. Because of that femininity, I suspect it will appeal to men. On the other hand, I have heard some young women say the lines seem softened, and that the previous Corona was cleaner and more crisp.
 
-<b>Watari:</b> My impression is that with the Mark II, the so-called arrow line has become genuinely cleaner. Whether the new lines are feminine or not, I can't say, but they have become very beautiful, especially at the rear.
+<b>Watari:</b> My impression is that with the Mark II, the so-called "Arrow Line" has become genuinely cleaner. Whether the new lines are feminine or not, I can't say, but it has become very beautiful, especially at the rear.
 
-<b>Amano:</b> Indeed, the flowing line at the rear of the hardtop was an area where we devoted considerable effort from a design standpoint. We were also concerned whether it could be pressed successfully, but it turned out almost exactly as we had originally envisioned. When one contemplates it carefully, however, it does give something of an impression of human shapeliness. (laughs)
+<b>Amano:</b> Yes, the flowing line at the rear of the hardtop was an area where we devoted considerable effort from a design standpoint. We were also concerned whether it could be pressed successfully, but it turned out almost exactly as we had originally envisioned. When one contemplates it carefully, however, it does give something of an impression of human shapeliness. (laughs)
 
-<b>Hirao:</b> To me, it feels less like a Corona Mark II and more like a Corolla Mark II. In terms of shape, it seems like a Corolla that has grown larger.
+<b>Hirao:</b> To me, it seems less like a Corona Mark II and more like a Corolla Mark II. In terms of overall shape, it's like a Corolla that's grown larger.
 
 <b><u>A Body That Retains the Corona Character</b></u>
 
-<b>Hoshijima:</b> I agree. The Corona had a sharp character before, but this mixes that sharpness with the rounded flavor of the Corolla, giving a strong overall impression. In terms of attractiveness, the hardtop really stands out compared with the Mark II four-door sedan.
+<b>Hoshijima:</b> I agree. The Corona had a sharp character before, but this mixes that sharpness with the rounded flavor of the Corolla, making a strong overall impression. In terms of attractiveness, the hardtop really stands out compared with the Mark II four-door sedan.
 
 <b>Magazine:</b> In bringing together the sedan’s styling, what aspects proved most difficult? For example, the provision of the air duct behind the rear side glass?
 
-<b>Amano:</b> Fundamentally, it was a question of how to refine the Arrow Line theme. The previous Corona received considerable comment regarding its front-end treatment. At the same time, since this was to be positioned as the Corona’s senior counterpart, we did not wish to depart too far from the established Corona lineage. We also expended considerable effort on the treatment of the rear lamps.
+<b>Amano:</b> Fundamentally, it was a question of how to refine the Arrow Line theme. The previous Corona received considerable comment regarding its front-end treatment. At the same time, since this was to be positioned as the Corona’s senior counterpart, we didn't want to stray too far from the established Corona lineage. We also expended considerable effort on the treatment of the rear lamps.
 
 <b>Hirao:</b> The sedan is a semi-fastback, so it does somewhat resemble the Corolla in that regard.
 
 <b>Amano:</b> That may be so.
 
-<b>Miyamoto:</b> The nose is shaped something like a <i>shogi</i> piece, but that makes forward visibility quite good. In addition, high-grade models such as the 1900SL use a recirculating-ball steering system with a variable ratio, which will make it easier for women to drive--and, of course, for men as well. Even when I first drove it, it gave a familiar impression, like a car I'd known for a long time. In terms of performance, I believe it has a character that will be entirely satisfying for expressway driving.
+<b>Miyamoto:</b> The nose is shaped something like a <i>shogi</i> piece, but that makes forward visibility quite good. In addition, high-grade models such as the 1900SL use a recirculating-ball steering system with a variable ratio, which will make it easier for women to drive--and men as well, of course. Even when I first drove it, it gave a familiar impression, like a car I'd known for a long time. In terms of performance, I believe it has a character that will be fully satisfactory for expressway driving.
 
 <b>Magazine:</b> Returning to design, the front grille is now made of resin. Presumably this involved considerations for both weight reduction and styling?
 
-<b>Amano:</b> Previously we used die-cast components. These are well suited to producing a deeply sculpted appearance, but we moved to pressed parts for their lighter weight and lower cost. However, pressed parts tend to appear flat and make it difficult to achieve depth. For last year’s Crown, we therefore adopted resin, and we decided to follow the same direction with the Corona Mark II.
+<b>Amano:</b> In the past we used die-cast components. These are well suited to producing a deeply sculpted appearance, but we moved to pressed parts for their lighter weight and lower cost. However, pressed parts tend to appear flat and make it difficult to achieve depth. For last year’s Crown, we adopted resin, and we decided to follow the same direction with the Corona Mark II.
 
-Recently the quality of resin materials has improved, so we took the step of using it more throughly. The grille on the Corona Mark II is larger than that of the Crown--approximately 1m 35cm across--and reaching the point where this was practical required extensive testing.
+Recently the quality of resin materials has improved, so we took the step of using it more extensively. The grille on the Corona Mark II is larger than that of the Crown--approximately 1m 35cm across--and reaching the point where this was practical required quite a lot of testing.
 
-<b>Sakakibara:</b> We conducted full-scale tests regarding expansion and contraction, resistance to twisting, and whether it might become prone to cracking over time. For this purpose, we built dedicated testing equipment, and in the end it was sufficiently durable.
+<b>Sakakibara:</b> We conducted full-scale tests regarding expansion and contraction, resistance to twisting, and whether it might become prone to cracking over time. We built dedicated testing equipment for this purpose, and in the end, it turned out to be sufficiently durable.
 
-<b>Higuchi:</b> With some model changes, the character of the car is altered so completely that existing customers become confused. In extreme cases, they may even abandon the model altogether. With the Mark II, however, you have handled that skillfully. It seems that previous Corona owners can move to it without resistance.
+<b>Higuchi:</b> With some model changes, the character of the car is altered so completely that existing users are confused. In extreme cases, they may even abandon the model altogether. With the Mark II, however, you have handled that skillfully. It seems that previous Corona owners could move to this without resistance.
 
 That said, from a styling standpoint, the sedan may make younger drivers hesitate a bit. They will likely choose the hardtop.
 
@@ -402,9 +402,9 @@ Of that total, about 3,700 units were the previous Corona (1500), which accounts
 
 <b>Nakaoka:</b> Yes. The American market requires the 1900, but in other markets we are continuing with the 1500. We plan to begin full-scale exports of the Mark II around March or April, proceeding with both lines.
 
-<b>Amano:</b> Setting a record in the very month of release is quite rare. For that reason, we have been asking dealers whether there are any issues of concern, but aside from very minor points, the car’s reputation has generally been favorable.
+<b>Amano:</b> Setting a record in the first month of release is quite rare. For that reason, we have been asking dealers whether there are any concerns, but aside from very minor points, the car’s reputation has generally been favorable.
 
-<b>Magazine:</b> Thank you very much for your time.
+<b>Magazine:</b> Thank you all very much.
 
 <b><u>Postscript: Story Photos</b></u>
 

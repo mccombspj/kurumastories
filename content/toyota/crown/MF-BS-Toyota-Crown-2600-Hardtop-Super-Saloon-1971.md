@@ -10,7 +10,7 @@ title = "Toyota Crown 2600 Hardtop Super Saloon (1971)"
 
 
 
-weight = 45
+weight = 50
 
 
 
