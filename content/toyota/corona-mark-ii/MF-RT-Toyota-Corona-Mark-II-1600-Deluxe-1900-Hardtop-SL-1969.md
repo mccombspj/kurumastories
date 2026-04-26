@@ -88,7 +88,7 @@ The SL version is specially tuned, with the aim of providing performance appropr
 
 <b>Amano:</b> That may be so.
 
-<b>Miyamoto:</b> The nose is shaped something like a <i>shogi</i> piece, but that makes forward visibility quite good. In addition, high-grade models such as the 1900SL use a recirculating-ball steering system with a variable ratio, which will make it easier for women to drive--and men as well, of course. Even when I first drove it, it gave a familiar impression, like a car I'd known for a long time. In terms of performance, I believe it has a character that will be fully satisfactory for expressway driving.
+<b>Miyamoto:</b> The nose is shaped something like a <i>shogi</i> piece, but that makes forward visibility quite good. In addition, high-grade models such as the 1900SL use a recirculating-ball steering system with a variable ratio, which will make it easier for women to drive--and men as well, of course. Even when I first drove it, it gave a familiar impression, like a car I'd known for a long time. In terms of performance, I believe it has a character that will fully satisfy the demands of expressway driving.
 
 <b>Magazine:</b> Returning to design, the front grille is now made of resin. Presumably this involved considerations for both weight reduction and styling?
 
@@ -202,7 +202,7 @@ For overtaking acceleration from 30km/h in third gear, it reached 60km/h in 8.4 
 
 <b>Watari:</b> There's no chance of that on the Murayama course; you’d need to go to Yatabe. And you can’t use public roads. (laughs)
 
-<b>Hirao:</b> And on the Tomei, with the inclines, you couldn't take precise measurements anyway. (laughs)
+<b>Hirao:</b> And on the Tomei, with the inclines, you couldn't measure it precisely anyway. (laughs)
 
 <b><u>The Substantial SL Character</b></u>
 
@@ -264,7 +264,7 @@ For comparison, the 1600 Deluxe returned constant-speed fuel economy figures of 
 
 <b>Oguchi:</b> I believe these figures should serve as a guideline for real-world driving in this car. If an owner-driver can only obtain results far worse than these, it would be fair to say either the car is poorly maintained, the driving is rough, or perhaps the driver is simply not very skilled. For that reason, we designate a single driver for these tests and make every effort to use acceleration techniques and gear shifts appropriate to each car, so that the figures can serve as a proper benchmark.
 
-<b>Watari:</b> I used to think that in ordinary use, city fuel economy amounted to about 60% of the steady-speed figure. But with today's traffic, perhaps that ratio needs to be reconsidered. At least from these results, it does seem to come out to roughly 60%…
+<b>Watari:</b> I used to think that in ordinary use, city fuel economy amounted to about 60% of the steady-speed figure. But with today's traffic, that ratio might need to be reconsidered. At least from these results, though, it does seem to come out to roughly 60%...
 
 <b><u>1900SL Suspension Is Firmer</b></u>
 
@@ -286,13 +286,13 @@ Aside from the 1900SL's rear suspension frequency being slightly on the high sid
 
 <b>Higuchi:</b> Yes, only the 1900 has the firmer settings.
 
-<b>Watari:</b> Being a sports-type, stiffening it slightly poses no problem, but compared with previous Toyotas it does feel somewhat firmer. Of course, the roads themselves may have changed as well.
+<b>Watari:</b> Being a sports type, there's nothing wrong with stiffening it slightly, but it does feel rather firm compared to previous Toyotas. Of course, the roads themselves may have changed as well.
 
 <b>Hirao:</b> Regarding noise, does the longer-stroke 1900 engine vibrate more due to greater centrifugal force?
 
 <b>Amano:</b> At the same road speed, the 1900’s engine speed is actually lower, though piston speed is about the same.
 
-<b>Watari:</b> From a vibration standpoint, it's a car with a completely different character. The springs are different, and engine speeds differ as well. As for the 1600, it can be said to be one of the better cars we've measured in this class. 
+<b>Watari:</b> From a vibration standpoint, the car's character is completely different. The springs are different, and engine speeds differ as well. As for the 1600, it can be said to be one of the better cars we've measured in this class. 
 
 <b>Magazine:</b> Next, let’s cover the results for weight, brakes, and other measurements conducted at the Ship Research Institute.
 
@@ -320,9 +320,9 @@ The parking brake is a walking-stick type. To obtain 0.2g of braking force requi
 
 Stationary steering effort near 360° of steering angle averaged 13kg. In the slalom test, steering effort at 0.25g lateral acceleration was about 2kg. The free-release directional stability test was conducted up to 110km/h, and the car converged without any sense of instability.
 
-<b>Hoshijima:</b> Some competitors have adopted independent rear suspension. Why has Toyota not pursued its development--or rather, why has it not been adopted for this car? 
+<b>Hoshijima:</b> Some competitors have adopted independent rear suspension. Why has Toyota not developed this--or rather, why has it not been adopted for this car? 
 
-<b>Amano:</b> That system indeed has merits, but it also has drawbacks. For a high-volume model like the Corona, any new system adopted must be an unqualified success. Moreover, our existing suspension already has very good characteristics, so we cannot simply discard it. Even with this suspension, we are confident that this car's handling does not fall short of other vehicles.
+<b>Amano:</b> That system certainly has advantages, but it also has drawbacks. For a high-volume model like the Corona, any new system adopted must be superior in all respects. Moreover, our existing suspension already has very good characteristics, so we cannot simply dismiss it. Even with this suspension, we are confident that this car's handling does not fall short compared to other vehicles.
 
 <b>Miyamoto:</b> Regarding the issue of exhaust gas purification, what measures are being taken?
 
@@ -334,7 +334,7 @@ Stationary steering effort near 360° of steering angle averaged 13kg. In the sl
 
 <b>Amano:</b> Yes. When we recently carried out a rapid round-the-world run with this car, those who rode in it said the engine was almost absurdly durable and simply would not fail. Even running continuously at speeds of around 160km/h, there were no troubles at all. To be honest, we ourselves were somewhat anxious, but aside from a punctured tire and a blown fuse, we were told there was not a single problem of consequence. Hearing this has greatly strengthened our confidence.
 
-<b>Kumabe:</b> One cannot help but feel that this Mark II represents a major triumph for passenger-car technology in Japan.
+<b>Kumabe:</b> One cannot help but feel that this Mark II represents a major advance for passenger-car technology in Japan.
 
 <b>Magazine:</b> Next, please present the results of the visibility measurements.
 
@@ -400,7 +400,7 @@ Of that total, about 3,700 units were the previous Corona (1500), which accounts
 
 <b>Magazine:</b> We understand the 1500 is still being exported?
 
-<b>Nakaoka:</b> Yes. The American market requires the 1900, but in other markets we are continuing with the 1500. We plan to begin full-scale exports of the Mark II around March or April, proceeding with both lines.
+<b>Nakaoka:</b> Yes. The 1900 is necessary for the American market, but in other markets we are continuing with the 1500. We plan to begin full-scale exports of the Mark II around March or April, proceeding with both lines.
 
 <b>Amano:</b> Setting a record in the first month of release is quite rare. For that reason, we have been asking dealers whether there are any concerns, but aside from very minor points, the car’s reputation has generally been favorable.
 

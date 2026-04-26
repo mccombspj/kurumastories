@@ -25,11 +25,11 @@ draft = false
 
 With the earlier 2000GT, there was a strong emphasis on sportiness, partly due to its involvement in competition. There were two versions: the A-type, which was suitable for road use, and the B-type, which was aimed more directly at racing. With this new model, we’ve tried to define the character of those two approaches more clearly.
 
-The car tested here corresponds to what was previously the A-type. We’ve set out to establish it firmly as a grand touring machine for road use. In other words, it’s intended to be a car that can fully make use of expressways such as the Tomei and Meishin—what you might call a true GT car in the proper sense.
+The car tested here corresponds to what was previously the A-type. We’ve set out to establish it firmly as a grand touring machine for road use. In other words, it’s intended to be a car that can make full use of expressways such as the Tomei and Meishin—what you might call a proper GT car in the true sense.
 
-To achieve that, we’ve adopted a six-cylinder engine, independent rear suspension, and disc brakes with a master-back servo, among other features. In that respect, the mechanical specification differs considerably from the standard Skyline sedan.
+To achieve that, we’ve adopted a six-cylinder engine, independent rear suspension, and disc brakes with a master-back servo, among other features. In that respect, the mechanical specification differs considerably from the normal Skyline sedan.
 
-Another point is that the previous 2000GT was based on the standard sedan, with an emphasis on keeping weight as low as possible. In contrast, this new 2000GT is based on the Deluxe version. The interior has been given a more refined treatment, with a center console, and incorporating items such as a radio, clock, and carpeting to create a more luxurious atmosphere.
+Another point is that the previous 2000GT was based on the Standard sedan, with an emphasis on keeping weight as low as possible. In contrast, this new 2000GT is based on the Deluxe version. The interior has been given a more refined treatment, with a center console, and incorporating items such as a radio, clock, and carpeting to create a more luxurious atmosphere.
 
 In terms of safety equipment as well, we’ve taken a step further beyond the Skyline sedan. For example, a collapsible steering column is available as an option, seat belts are of the three-point type, and headrests are fitted for both front-seat occupants.
 
