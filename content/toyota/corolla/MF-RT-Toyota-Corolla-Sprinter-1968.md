@@ -33,23 +33,23 @@ draft = false
 
 <b>Magazine:</b> First, could you tell us about the aims behind the Corolla Sprinter?
 
-<b>Sasaki:</b> The Corolla sedan was launched in the autumn of 1966, so it has now been about a year and a half since its introduction. Initially it was offered only as a two-door, but since then we've expanded the lineup with four-door versions, torque converter-equipped models, and vans, steadily broadening the range.
+<b>Sasaki:</b> The Corolla sedan was launched in the autumn of 1966, so it has now been about a year and a half since its introduction. Initially it was offered only as a two-door, but since then we've expanded the lineup with four-door versions, torque-converter automatic equipped models, and vans, steadily broadening the range.
 
-This spring, we also carried out improvements to the sedan line with a focus on safety, and added items such as a column shift and vibration-damping rubber for the shift lever. In addition to these refinements, we have now introduced a new variation in the Corolla family--the Sprinter.
+This spring, we also carried out improvements to the sedan line with a focus on safety, and added items such as a column shift and vibration-damping rubber for the shift lever. In addition to these refinements, we have now introduced a new variation in the Corolla family: the Sprinter.
 
-This model is essentially the same as the one shown at last year’s Tokyo Motor Show. If the current Corolla sedan can be described as a semi-fastback, then this is a full fastback. It has what one might call a coupe-style silhouette, although we do not regard it as a coupe. Rather, we intend it to be used the same way as a four-door sedan.
+This model is essentially the same as the one shown at last year’s Tokyo Motor Show. If the current Corolla sedan can be described as a semi-fastback, then this is a full fastback. It has what one might call a coupe-style silhouette, although we do not regard it as a coupe. Rather, we intend it to be used the same way as a four-passenger sedan.
 
 For that reason, overall height has been reduced by 35mm compared to the sedan, but by lowering the seating position we have ensured adequate headroom. In particular, we have taken care not to compromise rear seat comfort, and have maintained a full five-passenger layout.
 
 The car tested here was equipped with a floor shift, but as with the sedans, the production Sprinter will also be available with a column shift, as well as torque converter versions.
 
-The test car is the SL specification. SL stands for “Sporty and Luxury.” In this version, the engine is based on the existing K-type unit, but has been revised with twin carburetors and a dual exhaust system, raising output to 73 horsepower and enabling a top speed of 160km/h.
+The test car is the SL specification. SL stands for “Sporty and Luxury.” In this version, the engine is based on the existing K-type unit, but has been revised with twin carburetors and a dual exhaust system, raising output to 73ps and top speed to 160km/h.
 
 Front disc brakes are fitted, and a tachometer is included as standard equipment.
 
 Looking at global trends, we believe that sporty cars are becoming increasingly popular. However, true sports cars are expensive and tend to have limited practical use. If, instead, one were to create something positioned between a sedan and a sports car--in other words, a sporty interpretation of a sedan--it should be possible to keep costs down. We also expect this kind of market to continue growing.
 
-With that in mind, what we have realized in the Corolla series is this Sprinter SL.
+With that in mind, what we have created in the Corolla series is this Sprinter SL.
 
 <b><u>A Fastback Intended to Be Enjoyed by a Wide Range of Users</b></u>
 
@@ -81,9 +81,9 @@ For that reason, we have taken care to ensure rear seat comfort. If you look at 
 
 <b>Magazine:</b> From a styling standpoint, in terms of what most people would call "attractive," the general opinion seems to be that this Sprinter is better-looking than the sedan…
 
-<b>Hoshijima:</b> Well, there’s been talk of a so-called coupe boom, but as was mentioned earlier, this Sprinter is not a coupe in the usual sense--it doesn’t have folding rear seats or a continuous space between the rear seat and luggage compartment. In that sense, it is simply a sedan with this kind of body style. I think that's probably the best way to understand it.
+<b>Hoshijima:</b> Well, there’s been talk of a so-called "coupe boom," but as was mentioned earlier, this Sprinter isn't a coupe in the usual sense--it doesn’t have folding rear seats or a continuous space between the rear seat and luggage compartment. In that sense, it's simply a sedan with this kind of body style. I think that's probably the best way to understand it.
 
-<b>Magazine:</b> In that case, maybe the better-looking one is all anyone will want?
+<b>Magazine:</b> In that case, maybe the better-looking model is the only one anyone will want?
 
 <b>Hirao:</b> No, compared with the Corolla sedan, the Sprinter does make things a little tighter in the rear seat.
 
@@ -91,7 +91,7 @@ For that reason, we have taken care to ensure rear seat comfort. If you look at 
 
 <b>Hirao:</b> So if the Sprinter sells better, then even if the standard sedan sells less, that would still be acceptable, wouldn’t it? (laughs)
 
-<b>Hoshijima:</b> The type of design where the rear seat and trunk are connected is disliked by quite a few users, because it allows luggage to be seen from the outside. There's also the aspect of theft prevention.
+<b>Hoshijima:</b> The type of design where the rear seat and trunk are connected is disliked by quite a few users, because it allows luggage to be seen from the outside. There's also the theft prevention aspect.
 
 <b>Hirao:</b> But from a safety point of view, even if there is a partition there, it’s basically like cardboard. I don’t think it makes much difference in terms of safety whether it exists or not.
 
@@ -101,7 +101,7 @@ In fact, I once saw a frontal collision test where tools and the spare tire from
 
 <b>Sasaki:</b> Without a partition behind the rear shelf of the rear seat, luggage from the trunk could come forward, so I think a barrier is necessary for occupant safety. In addition, the location of the Corolla’s fuel tank is actually a very safe one in the event of a rear-end collision, as it helps prevent fuel leakage.
 
-<b>Hirao:</b> Another point–this is slightly different–is that I think plastic spare fuel containers are quite dangerous as well.
+<b>Hirao:</b> Another point–this is slightly different–is that I think portable plastic fuel containers are quite dangerous as well.
 
 In a rear-end collision, they will almost certainly catch fire. And in that case, I suspect the partition would actually allow the fire to spread into the cabin.
 
@@ -109,7 +109,7 @@ In a rear-end collision, they will almost certainly catch fire. And in that case
 
 <b>Magazine:</b> At the Motor Show, this car was displayed as the Corolla Fastback, wasn't it? So where does the name "Sprinter" come from?
 
-<b>Sasaki:</b> There isn’t any particularly elaborate reason. We simply chose the name "Sprinter" from the image of a car that runs with a good, sharp pickup.
+<b>Sasaki:</b> There isn’t any particularly elaborate reason. We simply chose the name "Sprinter" from the image of a car that runs with a good, sharp response.
 
 <b>Okada:</b> Perhaps it also carries the meaning of "running faster," which is the ultimate objective of a car.
 
