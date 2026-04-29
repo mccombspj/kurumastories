@@ -4,7 +4,7 @@
 
 title = "Mitsubishi Colt Galant FTO GIII vs. Toyota Sprinter SR (1972)"
 
-weight = 1
+weight = 10
 
 
 
