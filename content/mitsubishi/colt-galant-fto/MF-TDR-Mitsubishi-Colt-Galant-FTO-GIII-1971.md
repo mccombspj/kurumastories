@@ -27,7 +27,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Test Drive Report<br>
 <b>Date:</b> December 1971<br>
-<b>Author:</b> Koji Okazaki
+<b>Author:</b> Hiroshi Okazaki
 
 
 
@@ -39,7 +39,7 @@ On the eve of the Tokyo Motor Show, Mitsubishi Motors has announced a new 1400cc
 
 A stylish compact coupe has now joined the Galant series.
 
-Its name is the Galant FTO. The initials “FTO” are said to derive from the Italian <i>Fresco Turismo Omologáre</i>—rendered in English as “Fresh Touring Homologated.”
+Its name is the Galant FTO. The initials “FTO” are said to derive from the Italian <i>Fresco Turismo Omologare</i>—or, in English terms, “Fresh Touring Homologated.”
 
 At 3765mm in overall length, it is in fact shorter than rivals such as the Sprinter and Sunny Coupe. Yet its width, at 1580mm, is comparable to cars in the 1.5-1.6-liter class.
 

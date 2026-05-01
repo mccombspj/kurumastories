@@ -21,13 +21,13 @@ The much-anticipated reborn Skyline GT-R has finally arrived. This model is base
 
 <b><u>Four-Wheel Discs With Excellent Fade Resistance</b></u>
 
-As the starter key was turned, the sound of the electromagnetic fuel pump working filled my ears. Sitting next to me in the GT-R's cockpit was Kitano.
+As the starter key was turned, the sound of the electromagnetic fuel pump filled my ears. Sitting next to me at the wheel of the GT-R was Kitano.
 
-"Whiiirrrrn"... With the metallic sound unique to the S20, the 24-valve, DOHC straight-six engine came to life.
+<i>"Whiiirrrrn"</i>... With the metallic sound unique to the S20, the 24-valve, DOHC straight-six engine came to life.
 
-"The sound is great. I think anyone who loves cars will be thrilled by the sound of the S20. No matter how many times I listen to it, I'm always in awe," Hasemi murmured.
+"The sound is great. I think anyone who loves cars will be thrilled by the sound of the S20. No matter how many times I listen to it, I'm always in awe," Hasemi observed.
 
-He's exactly right. When you're driving in the city or on the highway, the sound of this car passing by clearly conveys the power and strength and makes you want to give way. The exhaust note of the S20... even if it's at a loud volume, it's not an unpleasant noise for enthusiasts, but a beautiful "sound."
+He's exactly right. When you're driving in the city or on the highway, the sound of this car passing by clearly conveys its power and strength and makes you glad to give way. The exhaust sound of the S20... even if it's at a loud volume, it's not an unpleasant noise for enthusiasts, but a beautiful "note."
 
 Kitano completed laps in the 2 minute 19 second range. In the tight corners, he let the tail hang out a little just before entering and took advantage of the limited slip differential to exit cleanly. After seven or eight laps we came back to the pits.
 
@@ -37,15 +37,15 @@ Kitano completed laps in the 2 minute 19 second range. In the tight corners, he 
 
 "In the old GT-R, you could feel the center of gravity shift to the rear when cornering, but this feels more like a racing car, with the center of gravity toward the front. If the center of gravity is shifted to the rear and the car starts to slide, the front becomes less effective, making it harder to control, so in that sense, the new GT-R has better maneuverability.
 
-"Also, compared to the previous GT-R, the front end lifts up less when accelerating from a standstill, and as the speed increases the steering feels more stable, which is a step in the right direction."
+"Also, compared to the previous GT-R, there is less lift at the front when accelerating from a standstill, and as the speed increases the steering feels more stable, which is a step in the right direction."
 
 Kitano continues, choosing his words carefully.
 
-"However, for those who want to use the full power of the S20, the standard tires are a little weak. Also, a steering wheel with a smaller diameter would be better. With this combination of steering gear ratio and steering wheel diameter, the steering tends to feel a little delayed when cornering aggressively. This is based on my own personal preferences, but if I were to buy a GT-R, I would switch to higher-grade tires and change the steering wheel to one with a smaller diameter.
+"However, for those who want to use the full power of the S20, the standard tires are a little weak. Also, a steering wheel with a smaller diameter would be better. With this combination of steering gear ratio and steering wheel diameter, the steering tends to feel a little delayed when cornering aggressively. This is based on my own personal preference, but if I were to buy a GT-R, I would switch to higher-grade tires and change the steering wheel to one with a smaller diameter.
 
 "Of course, if you're just driving briskly on regular roads, there's nothing wrong with leaving it at the standard setting...
 
-"The brakes are really good. With the old GT-R, which had drums on the rear, braking was good up to a certain point, but if you went any further than that, they would lock up and lose stability. In this new model with four-wheel discs, you can rest assured that it will keep that steady, strong braking action, pulling you down firmly but progressively, all the way to the limit.
+"The brakes are really good. With the old GT-R, which had drums on the rear, braking was good up to a certain point, but if you went any further than that, they would lock up and lose stability. In this new one, with four-wheel discs, you can rest assured that it will maintain that steady, strong braking force, pulling you down firmly but progressively, all the way to the limit.
 
 "The brakes are so fade-resistant that they can even be used on a circuit as-is. This is one of the major attractions of the new GT-R. However, if you use them hard, the tires still tend to give out. If we put on better tires, I'm sure the brakes will be even more powerful."
 
@@ -57,7 +57,7 @@ It was Hasemi's turn at the wheel. After completing about 10 laps, he came back 
 
 "The same goes for the clutch. I remember the old GT-R's clutch being quite hard to engage, but with this one, you don't have to worry about the engagement at all when starting off."
 
-In other words, the first things Hasemi said after getting out of the car showed that he had a similar impression to Kitano.
+In other words, the first things Hasemi said after getting out of the car showed that his thoughts were similar to Kitano's.
 
 I also got behind the wheel after Hasemi, and I had the same overall impression.
 
