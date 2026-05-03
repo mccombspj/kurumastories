@@ -4,7 +4,7 @@
 
 title = "Toyota Corolla Sprinter (1968)"
 
-
+weight = 10
 
 date = "2026-04-28T04:50:49-07:00"
 

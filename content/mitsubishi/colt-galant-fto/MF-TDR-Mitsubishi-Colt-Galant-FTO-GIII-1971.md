@@ -121,7 +121,7 @@ On dry pavement, the rear end is reluctant to break loose, but on rough surfaces
 
 However, as with the Galant, the FTO shows a pronounced tendency to “tuck in” when the throttle is lifted mid-corner, tightening its line toward the inside.
 
-Because of this, if one enters a corner too fast and then suddenly lifts off the accelerator--or applies the brakes abruptly--the car reacts quite sharply. In other words, it is sensitive to driver error in such situations. For skilled drivers, this can be a useful, even welcome trait, as it can be exploited to allow faster cornering speeds. But in general use, the degree of lift-off oversteer is a little too strong, and should probably be moderated.
+Because of this, if one enters a corner too fast and then suddenly lifts off the accelerator--or applies the brakes abruptly--the car reacts quite sharply. In other words, it is sensitive to driver error in such situations. For skilled drivers, this trait can be useful--even welcome--as it can be exploited to allow faster cornering speeds. But for the average driver, the degree of lift-off oversteer is a little too strong, and should probably be moderated.
 
 Another point is that the steering wheel’s inertia also feels a little heavy. While the wheel's styling is certainly attractive, its rotational mass should ideally be reduced slightly.
 
