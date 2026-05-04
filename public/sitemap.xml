@@ -59,6 +59,9 @@
     <loc>http://localhost:1313/nissan/sunny/mf-bs-nissan-sunny-coupe-1200gl-1970/</loc>
     <lastmod>2026-03-07T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corolla/mf-rt-toyota-corolla-sprinter-1968/</loc>
+    <lastmod>2026-04-28T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/honda/honda-z/mf-bs-honda-z-gs-1971/</loc>
     <lastmod>2026-03-19T04:50:49-07:00</lastmod>
   </url><url>
@@ -143,6 +146,9 @@
     <loc>http://localhost:1313/honda/honda-1300/mf-rt-honda-1300-77-custom-99s-1969/</loc>
     <lastmod>2026-02-09T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mitsubishi/colt-galant-fto/as-gt-mitsubishi-colt-galant-fto-1600gsr-1400sl-5-toyota-corolla-levin-levin-j-1973/</loc>
+    <lastmod>2026-05-02T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/toyota/corona-mark-ii/mf-rt-toyota-corona-mark-ii-1600-deluxe-1900-hardtop-sl-1969/</loc>
     <lastmod>2026-02-28T04:50:49-07:00</lastmod>
   </url><url>
@@ -224,6 +230,9 @@
     <loc>http://localhost:1313/toyota/celica/cg-ri-toyota-celica-1600gt-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corolla/cg-rt-toyota-corolla-levin-1600-1972/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/toyota/crown/cg-rt-toyota-crown-hardtop-sl-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -238,6 +247,9 @@
   </url><url>
     <loc>http://localhost:1313/toyota/celica/mf-bs-toyota-celica-1600st-toyota-carina-1600st-1971/</loc>
     <lastmod>2026-03-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/corolla/as-gt-toyota-corolla-levin-levin-j-mitsubishi-colt-galant-fto-1600gsr-1400sl-5-1973/</loc>
+    <lastmod>2026-05-02T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/crown/mf-tdr-toyota-crown-hardtop-super-deluxe-1969/</loc>
     <lastmod>2026-02-21T04:50:49-07:00</lastmod>
@@ -368,6 +380,9 @@
     <loc>http://localhost:1313/nissan/fairlady/mf-bs-nissan-fairlady-zl-1971/</loc>
     <lastmod>2026-03-14T00:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mitsubishi/colt-galant-gto/as-gt-mitsubishi-colt-galant-gto-2000gsr-vs-nissan-cherry-x-1r-1973/</loc>
+    <lastmod>2026-05-04T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/skyline/mf-rt-nissan-skyline-1800-1970/</loc>
     <lastmod>2025-12-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -404,23 +419,23 @@
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mitsubishi/colt-galant-fto/</loc>
-    <lastmod>2026-05-03T04:50:49-07:00</lastmod>
+    <loc>http://localhost:1313/mitsubishi/colt-galant-gto/</loc>
+    <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/</loc>
-    <lastmod>2026-05-03T04:50:49-07:00</lastmod>
+    <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-03T04:50:49-07:00</lastmod>
+    <lastmod>2026-05-04T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mitsubishi/colt-galant-fto/</loc>
+    <lastmod>2026-05-02T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/corolla/</loc>
-    <lastmod>2026-04-28T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/corolla/mf-rt-toyota-corolla-sprinter-1968/</loc>
-    <lastmod>2026-04-28T04:50:49-07:00</lastmod>
+    <lastmod>2026-05-02T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/</loc>
-    <lastmod>2026-04-28T04:50:49-07:00</lastmod>
+    <lastmod>2026-05-02T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/laurel/</loc>
     <lastmod>2026-04-24T04:50:49-07:00</lastmod>
@@ -539,9 +554,6 @@
     <loc>http://localhost:1313/mazda/cosmo-sport/</loc>
     <lastmod>2025-11-08T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mitsubishi/colt-galant-gto/</loc>
-    <lastmod>2025-11-06T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/toyota/1600gt/</loc>
     <lastmod>2025-11-03T04:50:49-07:00</lastmod>
   </url><url>
@@ -564,9 +576,6 @@
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/1600gt/cg-rt-toyota-1600gt-1967/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/corolla/cg-rt-toyota-corolla-levin-1600-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
