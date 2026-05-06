@@ -186,7 +186,7 @@ On flat national highways, there is little opportunity for spirited driving, so 
 
 Access to the rear seat is aided by front seats with a "walk-in" sliding feature, and the wide door opening avoids unnecessary contortions. The rear seat offers perfectly adequate comfort for two occupants, and allows the car to fulfill the role of a two-door sedan.
 
-The SSS shares the same seats and rear compartment, but its superb instrument panel is worthy of the more powerful engine, and can be called one of the finest among domestic cars. The basic design remains much the same, but the previously silver-rimmed round gauges are finished entirely in matte black, and the turn-signal indicator is enlarged for better visibility. The steering wheel is wood-rimmed, with a thick, solid grip that reaffirms the car’s high-performance character. The spokes, too, are finished in matte black, with nothing to distract or irritate the driver’s eye.
+The SSS shares the same seats and rear compartment, but its superb instrument panel is worthy of the more powerful engine, and can be called one of the finest among domestic cars. The basic design remains much the same, but the previously silver-rimmed round gauges are finished entirely in matte black, and the turn-signal indicator is enlarged for better visibility. The steering wheel is wood-rimmed, with a thick, substantial grip that reaffirms the car’s high-performance character. The spokes are finished in matte black, with nothing to distract or irritate the driver’s eye.
 
 If there is a flaw, it is the glovebox latch, which is too loose and tends to pop open with even slight vibration. This occurred in both the 1600 Coupe and the SSS Coupe, and it is something the manufacturer would do well to address.
 
