@@ -31,7 +31,7 @@ Which matters more--the engine, the chassis… or whether we’re even capable o
 
 <b><u>Guest Driver: Masao Nakamura</b></u>
 
-On the day in June, with the rainy season already declared across the Kanto region, the sky nevertheless cleared as if in anticipation of our test drive. At Tsukuba Circuit, the Skyline GT-R and Fairlady Z sat in the paddock, waiting to head out onto the course, their bodies gleaming under the early-summer sun.
+On the test day in June, with the rainy season already declared across the Kanto region, the sky nevertheless cleared as if in anticipation of our arrival. At Tsukuba Circuit, the Skyline GT-R and Fairlady Z sat in the paddock, waiting to head out onto the course, their bodies gleaming under the early-summer sun.
 
 The track itself was, of course, completely dry. A faint heat haze even shimmered over the first corner as seen from in front of the control tower. With track temperatures expected to rise significantly, we set the test cars' tires--front and rear--to 2.0kg/cm² pressure as a baseline.
 
@@ -45,39 +45,39 @@ He also has prior experience conducting magazine test drives here at Tsukuba Cir
 
 <b><u>GT-R: Heavy Understeer</b></u>
 
-The name Skyline GT-R--etched into the memory of racing fans through a string of unprecedented victories in Japan’s touring car scene--returned to us once again in February of this year with the new Skyline GT-R, arriving about six months after the full model change of the Skyline series last September.
+The name Skyline GT-R--etched into the memory of racing fans through a string of unprecedented victories in Japan’s touring car scene--returned once again in February of this year with the new Skyline GT-R, arriving about six months after the full model change of the Skyline series last September.
 
 As readers will recall, shortly after its debut, we conducted a circuit impression test at Nissan’s factory with drivers Kitano and Hasemi in order to explore its potential for racing competition.
 
 However, as of June, four months after its introduction, the new GT-R has yet to make any appearance in actual racing events--contrary to expectations.
 
-One is left to wonder whether Nissan, having realized that even the noble S20 engine cannot overcome the burden of a significantly larger and heavier GT-R body--and now facing rotary-powered rivals freed from peripheral port restrictions--has effectively abandoned its return to the racing arena, preserving only its name and legacy.
+One is left to wonder whether Nissan, having realized that even the vaunted S20 engine cannot overcome the burden of a significantly larger and heavier GT-R body--and now facing rotary-powered rivals freed from peripheral port restrictions--has effectively abandoned its return to the racing arena, preserving only its name and legacy.
 
-Be that as it may, the GT-R’s appeal still lies above all in its engine. The S20, a semi-racing DOHC unit born from the legendary Nissan R380 that opened a new chapter in domestic motorsport, has lost none of its fascination even today.
+Nevertheless, the GT-R’s appeal still lies, above all, in its engine. The S20, a semi-racing DOHC unit born from the legendary Nissan R380 that opened a new chapter in domestic motorsport, has lost none of its allure even today.
 
-The styling of the GT-R, with this inline-six DOHC engine under the hood, continues the traditional long-nose proportion seen since the first Skyline GT. Combined with overfenders covering both front and rear wheel arches and a standard rear spoiler, it has a distinctly purposeful appearance.
+The styling of the GT-R, with this inline-six DOHC engine under the hood, continues the long-nose proportion that has been a tradition since the first Skyline GT. Combined with overfenders covering both front and rear wheel arches and a standard rear spoiler, it has a distinctly purposeful appearance.
 
 At the front, behind a wire-mesh radiator grille, and at the rear garnish panel, an "R" ornament glimmers faintly, proclaiming the presence of its high-performance heart.
 
-As for styling impressions, these are inevitably subjective. But in this author's personal view, the new GT-R feels somewhat overdone in places--particularly the pronounced overfenders, which seem excessive. By comparison, the original first-generation GT-R sedan (PGC10), which offered no visual indication of its performance nature beyond the rear wheel opening and a simple red “GT” badge, remains the most appealing interpretation.
+As for styling impressions, these are inevitably subjective. But in this author's personal view, the new GT-R feels somewhat overdone in places--particularly the pronounced overfenders, which seem excessive. In this sense, the original first-generation GT-R sedan (PGC10), which offered no visual indication of its performance nature beyond the rear wheel opening and a simple red “GT” badge, remains the most appealing interpretation.
 
-That said, enough preface--let's move on to the test itself.
+With that, enough preface--let's move on to the test itself.
 
 Each driver began with five laps of free runs. Mr. Nakamura took up an instructor's position at the first corner, closely observing each driver’s cornering technique.
 
-The GT-R’s powerful exhaust note echoed across the otherwise silent circuit. In city driving it is somewhat conspicuous—hardly what one would call quiet—but on a circuit, it becomes nothing more than an engaging mechanical soundtrack.
+The GT-R’s powerful exhaust note echoed across the otherwise silent circuit. In city driving it is somewhat conspicuous—hardly what one would call quiet—but on a circuit, it becomes simply an engaging mechanical soundtrack.
 
-As expected, the engine revs willingly. The tachometer is marked up to 10000rpm, hinting at its high-performance intent, while the stated 7500rpm rev limit, if anything, appears to be a rather conservative figure.
+As expected, the engine revs willingly. The tachometer is marked up to 10000rpm, hinting at its high-performance intent, while the stated 7500rpm rev limit, if anything, appears to be rather conservative.
 
 160ps is not something we, of course, are in any position to fully exploit--but on the other hand, the S20 engine does not feel unruly or difficult to handle. The moment you open the throttle, it responds with a degree of flexibility that is almost hard to believe, the revs rising smoothly and cleanly.
 
-That said, to truly feel its overwhelming acceleration, the tachometer needle needs to be kept above roughly 3500rpm. Beyond that point, whenever you press the throttle, you can count on being pressed firmly into the seatback.
+That said, to truly feel its overwhelming acceleration, the tachometer needle needs to be kept above roughly 3500rpm. Beyond that point, whenever you press the throttle, you can be assured of being pressed firmly into the seatback.
 
-Because of the relatively tall gear ratios, standing starts do not deliver especially dramatic sensations. However, the acceleration from 100km/h onward is where the GT-R shows its true character--something that is difficult to compare with anything else.
+Because of the relatively tall gear ratios, standing starts do not feel especially dramatic. However, the acceleration from 100km/h onward is where the GT-R reveals its true character--nothing else truly compares to it.
 
 The high gearing, combined with an engine capable of operating at very high rpm, also means that on the Tsukuba Circuit the car can effectively be driven without using fourth or fifth gear at all. On the back straight, the GT-R reaches 140km/h, its top speed on this circuit, yet even at that point it is only in third gear at 6500rpm, still leaving plenty in reserve.
 
-While its straight-line acceleration is outstanding, its behavior in corners is also noteworthy--but for a different reason. It is characterized by severe understeer, to a degree not encountered in our previous three test sessions.
+While its straight-line acceleration is outstanding, its behavior in corners is also noteworthy--for a different reason. It is characterized by severe understeer, to a degree not encountered in our previous three test sessions.
 
 This tendency is particularly pronounced at the right-hand 35R under the Dunlop Bridge, taken at full throttle. The cameraman positioned on the outside of the corner reportedly had several moments where he genuinely thought he might be in danger.
 
@@ -105,11 +105,11 @@ Ideally, we would have liked to test the Z432 equipped with the same S20 engine 
 
 The test car itself is an early example, registered in May the year following its release (1970), and has already covered over 80,000km. As such, the body shows significant signs of wear, and it is hard to imagine that the engine is still delivering all of its original performance. For that reason, we fitted a new set of "shoes" in an attempt to compensate, at least with respect to chassis performance. 
 
-In stock form, the car is equipped with 4.5J steel wheels and 6.45H-14 high-speed tubed bias-ply tires. For this test, we replaced them with 185/70HR-14 ultra low-profile radial tires. The wheels are 6J aluminum alloy units, an original product from Speed Shop Lotus, sold under the name “Yarrow.”
+In stock form, the car is equipped with 4.5J steel wheels and 6.45H-14 high-speed bias-ply tires. For this test, we replaced them with 185/70HR-14 ultra low-profile radial tires. The wheels are 6J aluminum alloy units, an original product from Speed Shop Lotus, sold under the name “Yarrow.”
 
 The design of these wheels is reminiscent of the magnesium racing wheels used by the Nissan R380 from American Racing Equipment, and they suit the Fairlady Z’s sporting image extremely well.
 
-Since we did not run the car on standard tires, it is difficult to quantify exactly how much difference the wider tires and wheels made. At the very least, it was clear that there was a significant gap in performance compared to the GT-R tested at the same time--even setting aside the Z’s naturally more composed GT-style handling.
+Since we did not run the car on standard tires, it is difficult to quantify exactly how much difference the wider tires and wheels made. At the very least, it was clear that there was a significant gap in performance compared to the GT-R tested at the same time--even after allowing for the Z’s naturally more composed GT-style handling.
 
 Switching from the GT-R to the Fairlady Z feels almost like descending from the second floor to the first. The Z’s cockpit sits very low, enveloping the driver, and its design philosophy is clearly centered on the driver as the focal point, in true sports car style. The dashboard is a one-piece molded foam resin unit, and all instruments are arranged perpendicular to the driver’s line of sight.
 
@@ -121,7 +121,7 @@ No matter how much it is dressed up in sports car clothes, this engine remains--
 
 The Fairlady Z’s outstanding handling is ultimately the result of a well-balanced sports car chassis combined with a finely matched four-wheel-independent suspension. With its fundamentally excellent road-holding, it delivers an unparalleled level of enjoyment even when driven on the circuit.
 
-Its excellent straight-line stability is impressive in its own right, but in cornering, the low center of gravity and the fully independent strut-type suspension work together so effectively that body roll is virtually imperceptible. The car maintains an extremely stable attitude, carving the intended line with ease. Compared to the GT-R, its behavior is almost neutral, with a natural, predictable character that offers a wide degree of control freedom. With the help of its sharp steering, it even allowed us to try deliberately provoking a hint of tail slide.
+Its excellent straight-line stability is impressive, but in cornering, the low center of gravity and the fully independent strut-type suspension work together so effectively that body roll is virtually imperceptible. The car maintains an extremely stable attitude, carving the intended line with ease. Compared to the GT-R, its behavior is almost neutral, with a natural, predictable character that offers a wide degree of control freedom. With the help of its sharp steering, it even allowed us to try deliberately provoking a hint of tail slide.
 
 In terms of lap times, however, the edge still went to the GT-R. Even with the Z’s excellent chassis and Mr. Nakamura’s driving skill, the best the production L20 engine could do was 1 minute 21.1 seconds.
 

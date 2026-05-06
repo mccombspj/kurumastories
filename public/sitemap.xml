@@ -419,11 +419,14 @@
     <loc>http://localhost:1313/nissan/skyline/as-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
-    <lastmod>2026-05-04T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/fairlady/as-gt-nissan-fairlady-z-vs-nissan-skyline-2000gtr-1973/</loc>
+    <lastmod>2026-05-04T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
+    <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
@@ -432,6 +435,9 @@
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/cherry/</loc>
+    <lastmod>2026-05-04T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/fairlady/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/</loc>
@@ -487,9 +493,6 @@
   </url><url>
     <loc>http://localhost:1313/nissan/sunny/</loc>
     <lastmod>2026-03-15T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/fairlady/</loc>
-    <lastmod>2026-03-14T00:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-800/</loc>
     <lastmod>2026-03-10T04:50:49-07:00</lastmod>
