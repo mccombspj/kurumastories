@@ -7,7 +7,7 @@
 
 
 title = "Subaru Leone Coupe 1400GSR (1971)"
-weight = 1
+weight = 2
 
 
 
