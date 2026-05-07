@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/subaru/leone/mf-tdr-subaru-leone-coupe-1400gsr-1971/</loc>
-    <lastmod>2026-05-06T04:50:49-07:00</lastmod>
+    <loc>http://localhost:1313/subaru/leone/mf-tdr-subaru-leone-coupe-1400gl-1971/</loc>
+    <lastmod>2026-05-07T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-fto/mf-tdr-mitsubishi-colt-galant-fto-giii-1971/</loc>
     <lastmod>2026-04-29T04:50:49-07:00</lastmod>
@@ -40,6 +40,9 @@
   </url><url>
     <loc>http://localhost:1313/toyota/sprinter/cg-gt-toyota-sprinter-sr-vs-mitsubishi-colt-galant-fto-giii-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/subaru/leone/mf-tdr-subaru-leone-coupe-1400gsr-1971/</loc>
+    <lastmod>2026-05-06T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/laurel/mf-gt-nissan-laurel-2000gl-bmw-2002ti-1971/</loc>
     <lastmod>2026-04-05T04:50:49-07:00</lastmod>
@@ -432,13 +435,13 @@
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/subaru/leone/</loc>
-    <lastmod>2026-05-06T04:50:49-07:00</lastmod>
+    <lastmod>2026-05-07T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/subaru/</loc>
-    <lastmod>2026-05-06T04:50:49-07:00</lastmod>
+    <lastmod>2026-05-07T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-06T04:50:49-07:00</lastmod>
+    <lastmod>2026-05-07T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
