@@ -10,7 +10,7 @@ title = "Nissan Cherry Coupe 1200 X-1 (1971)"
 
 
 
-weight = 1
+weight = 5
 
 
 
@@ -99,7 +99,7 @@ The driver's seat and controls are the same as the sedan. However, the seat slid
 
 
 
-The rear seats can accommodate three people legally, on thin cushions made of urethane foam. They sit low on the low, flat floor, which is only possible with the combination of front-wheel-drive, a long wheelbase, and independent rear suspension, and provide a marginal amount of headroom. However, the backrest is nearly vertical, though not as vertical as in the van, and there is also insufficient legroom, forcing rear passengers to sit with their arms around their knees. This means that it is not a complete four-seater. 
+The rear seats can legally accommodate three people, on thin cushions made of urethane foam. They sit low on the low, flat floor, which is only possible with the combination of front-wheel-drive, a long wheelbase, and independent rear suspension, and provide a marginal amount of headroom. However, the backrest is nearly vertical, though not as vertical as in the van, and there is also insufficient legroom, forcing rear passengers to sit with their arms around their knees. This means that it is not a complete four-seater. 
 
 
 
