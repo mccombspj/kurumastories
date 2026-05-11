@@ -149,7 +149,7 @@ draft = false
 
 
 
-Toyota's product planners are very quick to seize opportunities, and they always seem to be one step ahead of other companies in identifying market trends, especially in the field of sports cars. When the Celica and Carina were released, the C/G editorial department talked about how it would be nice to have a model that combined the DOHC 1.6-liter engine of the Celica GT with the body of the Carina sedan. It seems that such a desire was also prevalent among enthusiasts around the world, so Toyota produced a car with exactly those specifications. This was released on April 5th under the name Carina 1600GT, and is priced at 818,000 yen, between the previously most-expensive Carina 1600ST (OHV, 1588cc, 5-speed gearbox, 720,000 yen) and the Celica GT (875,000 yen). 
+Toyota's product planners are very quick to seize opportunities, and they always seem to be one step ahead of other companies in identifying market trends, especially in the field of sports cars. When the Celica and Carina were released, the C/G editorial department talked about how it would be nice to have a model that combined the DOHC 1.6-liter engine of the Celica GT with the body of the Carina sedan. It seems that such a desire was also widespread among enthusiasts, so Toyota produced a car with exactly those specifications. This was released on April 5th under the name Carina 1600GT, and is priced at 818,000 yen, between the previously most-expensive Carina 1600ST (OHV, 1588cc, 5-speed gearbox, 720,000 yen) and the Celica GT (875,000 yen). 
 
 
 
@@ -161,7 +161,7 @@ The Carina GT's suspension has also been strengthened to handle the increased po
 
 
 
-The body is easily distinguished from other Carinas by the black-painted front grille and GT badges, and the thick tape stripe running down the side of the body. The windscreen, which was previously partially reinforced with 5mm thick glass, is now 6.3mm thick. The main difference in the interior is that it is unified in all-black, and the seats' black knitted vinyl upholstery is the same as the Celica GT.
+The body is easily distinguished from other Carinas by the black-painted front grille and GT badges, and the thick tape stripe running down the side of the body. The windshield, which was previously partially reinforced with 5mm thick glass, is now 6.3mm thick. The main difference in the interior is that it is unified in all-black, and the seats' black knitted vinyl upholstery is the same as the Celica GT.
 
 
 
@@ -173,7 +173,7 @@ There is a huge range of optional parts available for the Celica/Carina models, 
 
 
 
-We tested the OHV Carina ST in the January 1971 issue of C/G, and highly praised its handling, which was comparable to that of the Alfa 1750 and Fiat 124S, along with the above-average power performance backed up by a 5-speed gearbox with good ratios. The performance of the 1600GT, which is 10ps more powerful, is even more impressive. The results of the top speed test at Yatabe were a 1km straight-line average of 175.4km/h and a 5.5km lap average of 173.1km/h. These results are close to the 176.8km/h top speed of the Celica GT (C/G, April 1971), which is 5kg lighter (940kg) and uses the same engine in a more aerodynamic body with a smaller frontal area. Maximum speed was reached at 5500rpm in fifth gear, but the Celica GT reached its top speed at 5900rpm in fifth gear. 
+We tested the OHV Carina ST in the January 1971 issue of C/G, and highly praised its handling, which could be compared with that of the Alfa 1750 and Fiat 124S, along with the above-average power performance backed up by a 5-speed gearbox with good ratios. The performance of the 1600GT, which is 10ps more powerful, is even more impressive. The results of the top speed test at Yatabe were a 1km straight-line average of 175.4km/h and a 5.5km lap average of 173.1km/h. These results are close to the 176.8km/h top speed of the Celica GT (C/G, April 1971), which is 5kg lighter (940kg) and uses the same engine in a more aerodynamic body with a smaller frontal area. Maximum speed was reached at 5500rpm in fifth gear, but the Celica GT reached its top speed at 5900rpm in fifth gear. 
 
 
 

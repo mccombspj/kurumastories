@@ -45,7 +45,7 @@ C/G purchased an early Capella Rotary as soon as the model was released in May 1
 
 
 
-In the end, these measures proved effective, and the C/G Capella's handling eventually became tolerable for sporty driving. But the fundamental characteristics of the car, such as strong understeer and slow steering, could not be significantly changed even with the fitment of Michelin XAS tires, so there was no choice but to wait for more extensive design changes. Our conclusion was that, if its maneuverability could be improved, the Capella would become a much more attractive long-distance tourer. 
+In the end, these measures proved effective, and the C/G Capella's handling eventually became acceptable for sporty driving. But the fundamental characteristics of the car, such as strong understeer and slow steering, could not be significantly changed even with the fitment of Michelin XAS tires, so there was no choice but to wait for more extensive design changes. Our conclusion was that, if its handling could be improved, the Capella would become a much more attractive long-distance tourer. 
 
 
 
