@@ -257,6 +257,9 @@
     <loc>http://localhost:1313/toyota/crown/cg-rt-toyota-crown-hardtop-sl-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/carina/mf-tdr-toyota-carina-1600gt-1971/</loc>
+    <lastmod>2026-05-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/skyline/mf-rt-nissan-skyline-2000gt-1969/</loc>
     <lastmod>2026-04-08T04:50:49-07:00</lastmod>
   </url><url>
@@ -452,6 +455,15 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/carina/</loc>
+    <lastmod>2026-05-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/</loc>
+    <lastmod>2026-05-11T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mazda/savanna/</loc>
     <lastmod>2026-05-09T04:50:49-07:00</lastmod>
   </url><url>
@@ -462,9 +474,6 @@
     <lastmod>2026-05-09T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/</loc>
-    <lastmod>2026-05-09T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-05-09T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/bluebird/</loc>
@@ -492,9 +501,6 @@
     <lastmod>2026-05-02T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/corolla/</loc>
-    <lastmod>2026-05-02T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/</loc>
     <lastmod>2026-05-02T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/laurel/</loc>
@@ -589,9 +595,6 @@
   </url><url>
     <loc>http://localhost:1313/toyota/1600gt/as-gt-toyota-1600gt-vs-nissan-bluebird-1600sss-1967/</loc>
     <lastmod>2025-11-03T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/carina/</loc>
-    <lastmod>2025-11-02T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/lancer/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
