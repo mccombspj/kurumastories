@@ -61,25 +61,25 @@ draft = false
 
 <b><u>The Long-Awaited SS Model Finally Appears</b></u>
 
-The first time this car--the Colt 1100F SS--appeared before our eyes was at the Tokyo Motor Show the year before last. At the time, detailed specifications were not shared, but the apparent fitment of radial tires, together with a pair of thick exhaust pipes, suggested that it had been tuned to a rather considerable degree.
+The first time this car--the Colt 1100F SS--appeared before our eyes was at the Tokyo Motor Show the year before last. Detailed specifications were not shared at the time, but the apparent fitment of radial tires, together with a pair of thick exhaust pipes, suggested that it had been tuned to a fairly significant degree.
 
-Yet after that, there was no mention of a production release. Then, in August of last year, the 1100F Sport, fitted with the new 1100cc engine, appeared; and with that development it seemed increasingly likely that the car seen at the show would remain no more than a reference model.
+Yet after that, there was no mention of a production release. Then, in August of last year, the 1100F Sport, fitted with the new 1100cc engine, appeared; and with that development it seemed increasingly likely that the car seen at the show would remain no more than a concept model.
 
-Meanwhile, however, in the world of rallying and other forms of motor sport, factory-tuned versions of the 1100F gradually began to appear following that Motor Show appearance. Last year they turned in remarkable performances, beginning with victory in an international rally in Australia and continuing with strong showings in domestic events. Among a certain circle of enthusiasts, one might say that calls were already growing louder in hopes that the car might be placed on sale in essentially the same form.
+Meanwhile, however, in the world of rallying and other forms of motor sport, factory-tuned versions of the 1100F gradually began to appear following that Motor Show appearance. Last year they turned in remarkable performances, beginning with victory in an international rally in Australia and continuing with strong showings in domestic events. Among a certain circle of enthusiasts, calls were already growing louder in hopes that the car might be placed on sale in essentially the same form.
 
-Then, last November, under the catchphrase “a car that lets you feel superior on the highway,” the 1100F SS finally made its appearance—almost exactly as it had been prepared for rally use. For fans of motor sport, it must surely have been welcome news.
+Then, last November, under the catchphrase “a car that lets you feel superior on the highway,” the 1100F SS finally made its appearance—almost exactly as it had been prepared for rally use. For fans of motor sport, it must surely have been a welcome arrival.
 
 <b><u>The Feel of the Brakes--Superb!</b></u> 
 
 For this test drive, we planned a route starting from Mitsubishi’s sales office in Mita, Tokyo, then threading our way through the city center before joining the Chuo Expressway. After running along the newly opened Hachioji-Sagamiko section, we left National Route 20 (the Koshu Kaido) at Uenohara and climbed the Jinba Kaido, crossed Wada Pass, returned to Hachioji, and from there headed back to Tokyo.
 
-Until reaching the expressway we found ourselves squarely in the morning rush, and so--as usual--the driving became a matter of crawling along at a snail’s pace.
+Until reaching the expressway we found ourselves in the middle of the morning rush, and so--as usual--the driving became a matter of crawling along at a snail’s pace.
 
-The secret to this kind of inch-by-inch progress is simply not to think about it. One must resign oneself completely to the slowness. Whether the engine happens to have twin carburetors or even a DOHC layout makes no difference; the best frame of mind is to imagine that you are driving an old, tired machine that stalls the moment it tries to get moving.
+The secret to this kind of inch-by-inch progress is simply not to think about it. One must resign oneself completely to the slowness. Whether the engine happens to have twin carburetors or even a DOHC layout makes no difference; the best frame of mind is to imagine that you are driving an old, decrepit machine that stalls the moment it tries to get moving.
 
-That said, the large, circular gauges—the speedometer on the right reading to 180km/h and the tachometer on the left to 7000rpm (with the yellow band beginning at 6300 and the red zone at 6500), together with the wood-rimmed steering wheel and the pleasantly resonant, low-toned exhaust note--<i>bo-bo-bo...</i>--create an anticipation that pricks at the nerves little by little.
+Even so, in the case of this car, the large, circular gauges—the speedometer on the right reading to 180km/h and the tachometer on the left to 7000rpm (with the yellow band beginning at 6300, and the red zone at 6500), together with the wood-rimmed steering wheel and the pleasantly resonant, low-pitched exhaust note--<i>bo-bo-bo...</i>--create an anticipation that pricks at the nerves, little by little.
 
-And then there is the body color of this car: a striking, brilliant red (called Lightning Red by the manufacturer). One does not need to be a fighting bull to be stirred on by this hue.
+And then there is the body color of this car: a striking, brilliant red (called Lightning Red by the manufacturer). One does not need to be a fighting bull to feel stirred by this hue.
 
 I am fairly sure this is the very same red that was used on the 1100F SS exhibited at the Motor Show. Even then its vivid appearance drew plenty of attention, but seen here in full daylight it glows with an even more intriguing brilliance. Before long, one begins to feel as though one is at the controls of a high-level machine.
 
@@ -87,11 +87,11 @@ It seemed as though the eyes of the surrounding drivers were fixed upon us, and 
 
 At that very moment, a light van suddenly darted into the lane directly ahead of us.
 
-Watch out!
+"Watch out!"
 
-Instinctively I stamped on the brakes. The car stopped instantly, without the slightest fuss—clamping down as though nailed to the road. The feel of the brakes is excellent. Disc brakes with opposed calipers are fitted at the front, while the rear uses leading-trailing drums. The master cylinder, moreover, is a tandem type—something of a luxury in this class.
+Instinctively I stamped on the brakes. The car stopped instantly, without the slightest fuss—clamping down as though nailed to the road. The feel of the brakes is excellent. Disc brakes with opposed calipers are fitted at the front, while the rear uses leading-trailing drums. The master cylinder is also a tandem type—something of a luxury in this class.
 
-When brakes of this sort first began to appear, the pedals were often excessively heavy, or else at low speeds gave a vague feeling that left one unsure whether they were actually working. The latest examples, however, are much improved. I had previously heard favorable reports about Mitsubishi’s disc brakes, and those on this car indeed have a remarkably fine feel. One suspects that experience gained with the Colt Formula has been put to good use here.
+When brakes of this sort first began to appear, the pedals were often excessively heavy, or else at low speeds gave a vague feeling that left one unsure whether they were actually working. The latest examples, however, are much improved. I had previously heard favorable reports about Mitsubishi’s disc brakes, and those on this car indeed have an excellent feel. One suspects that experience gained with the Colt Formula has been put to good use here.
 
 “Driving beyond one’s ability invites an accident”--recalling this solemn admonition, I gathered myself again and gripped the steering wheel.
 
@@ -99,7 +99,7 @@ Prior to the appearance of this 1100F SS, the Colt 1500 SS had already been rele
 
 The transmission uses the same gear ratios common to this series--3.787 in first, 2.379 in second, 1.535 in third, and 1.000 in fourth, with reverse at 5.243. However, the final reduction ratio has been lowered to 4.22, the same as that used in the 1500 SS. Even so, drawing out the engine’s full performance requires rather careful and technical driving. One cannot help feeling that they may soon begin to wish for a closer-ratio gearbox. Yet in a way, this too seems to form part of the car’s unique character. Certainly, for the enthusiast who enjoys frequent gear changes and the process of extracting the machine’s capabilities, it has its own kind of appeal.
 
-The shift action itself has what might be called a distinctly British-car firmness. The lever slots neatly into place with only small movements—click, click. At a time when more and more gearboxes feature the so-called Porsche-type shift, with its somewhat viscous feel—rather like stirring honey with a pair of chopsticks—this crisp action has a charm that is hard to dismiss.
+The shift action itself has what might be called a distinctly British-car firmness. The lever slots neatly into place with only small movements—<i>click, click</i>. At a time when more and more gearboxes feature the so-called Porsche-type shift, with its somewhat viscous feel—rather like stirring honey with a pair of chopsticks—this crisp action has an undeniable charm.
 
 The shift knob, like the steering wheel, is finished in high-quality wood. One senses here the small touches clearly intended with younger drivers in mind.
 
@@ -159,7 +159,7 @@ Seen in that light, the arrival of the 1100F SS is truly groundbreaking. Mitsubi
 
 Passenger cars have recently begun moving away from an era when driving demanded technical skill, toward an age of easy driving. In that context, a car like the Colt 1100F SS--which allows the driver to fully enjoy the act of driving, to transform an ordinary commute into something thrilling with nothing more than subtle inputs--is a delight no car enthusiast could resist.
 
-Watching the tachometer, modulating the throttle and brakes, and repeating shifts with precision--the Colt 1100F SS hides within it a charm sure to win the hearts of young drivers.
+Watching the tachometer, modulating the throttle and brakes, and repeating shifts with precision--the Colt 1100F SS has a hidden charm that is sure to win the hearts of young drivers.
 
 
 <b><u>Postscript: Story Photos</b></u>
