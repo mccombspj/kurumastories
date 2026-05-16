@@ -275,7 +275,7 @@ There are, on the other hand, many areas in which the Skyline has improved over 
 
 Considerable attention also appears to have been paid to interior safety. Thick padding has been fitted to the backs of the front seats so that rear passengers are better protected if they are thrown forward in an accident.
 
-The front seats are equipped as standard with two-point seatbelts and optional headrests, the latter fixed in height and non-adjustable. The true effectiveness of the headrests can hardly be judged short of experiencing an actual rear-end collision, but at the very least, they allow passengers to recline the seat, fasten the belt, and travel in remarkable comfort while resting or sleeping.
+The front seats are equipped as standard with two-point seatbelts, while fixed, non-adjustable headrests are available as an option. The true effectiveness of the headrests can hardly be judged short of experiencing an actual rear-end collision, but at the very least, they allow passengers to recline the seat, fasten the belt, and travel in remarkable comfort while resting or sleeping.
 
 There is, however, a drawback: once the headrests are fitted, it becomes very difficult for front-seat occupants to reach the rear doors or operate the rear side windows.
 
