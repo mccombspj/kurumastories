@@ -62,9 +62,9 @@ draft = false
 
 <b>Magazine:</b> To begin with, could you tell us about the background that led to the development and release of the Laurel, as well as its intended aims?
 
-<b>Hara:</b> The origins of the Laurel project go back to a fairly simple line of thinking. As we were exporting the Datsun Bluebird to the United States, there was an underlying sense in the market that it was somewhat too small. When we looked more closely at what it was being compared with, it turned out to be European cars--roughly equivalent to the Austin-class cars that used to be produced domestically.
+<b>Hara:</b> The origins of the Laurel project go back to a fairly simple line of thinking. As we were exporting the Datsun Bluebird to the United States, there was an underlying sense in the market that it was somewhat too small. When we looked more closely at what it was being compared with, it turned out to be European cars--roughly equivalent in size to the Austin-class cars that used to be produced domestically.
 
-On the other hand, in Japan, the compact-car regulations allowed somewhat larger dimensions, and there was also considerable demand for commercial use. As a result, this intermediate class had more or less faded away, while cars the size of the Nissan Cedric occupied the upper end of the compact category. In other words, there was effectively no car occupying the space between the two.
+In Japan, on the other hand, the compact-car regulations allowed somewhat larger dimensions, and there was also considerable demand for commercial use. As a result, this intermediate class had more or less faded away, while cars the size of the Nissan Cedric occupied the upper end of the compact category. In other words, there was effectively no car occupying the space between the two.
 
 Around the summer of 1963, discussions gradually began to emerge about creating such a car.
 
@@ -90,11 +90,11 @@ The first prototypes were completed around May of 1965, and testing continued st
 
 We had already intended to adopt these same mechanical features for the Bluebird as well, so in the end, most of the new mechanisms were introduced there first. As a result, the Bluebird was launched ahead of the Laurel, in August of the following year.
 
-Because of that sequence, the Laurel benefited from a longer testing period, and we were also able to incorporate feedback from both our experience with the Bluebird and responses from customers. In that sense, you could say the Laurel was released in a more thoroughly refined state.
+Because of that sequence, the Laurel benefited from a longer testing period, and we were also able to incorporate feedback from both our experience with the Bluebird and responses from customers. In that sense, you could say the Laurel was released in a more thoroughly developed state.
 
 In the end, it emerged as something like an "older sister" to the Bluebird, though there are differences in detail.
 
-In terms of suspension, many components are shared between the two. One might argue that this makes the Bluebird somewhat over-engineered, but there is significant demand for it as a taxi and it is often subjected to rather severe usage. Given that, the shared specification is by no means excessive.
+In terms of suspension, many components are shared between the two. One might argue that this makes the Bluebird somewhat over-engineered, but there is significant demand for it as a taxi and it is often subjected to rather severe use. Given that, the shared specification is by no means excessive.
 
 One key difference lies in the steering system. For the first time in one of our cars, we adopted a rack-and-pinion setup. To be honest, we had considerable concerns about this. There were worries that it might transmit too much shock through the steering wheel, or be prone to shimmy. However, thanks to the extended development time, we were able to refine it to an acceptable level.
 
@@ -106,7 +106,7 @@ The similarity in styling between the two has also been noted, but in fact, the 
 
 Another difference in performance-related equipment is that disc brakes have been adopted across all Laurel models. For a car of this size, capable of a top speed of around 165km/h, there is no strict rule dictating at what speed discs become necessary. However, we believe that any "100 mile" car should employ disc brakes in the interest of safety.
 
-Development began around 1965, and in total approximately 60 prototype vehicles were built. This is considerably more than in the past, largely because around 27 of those were used for safety testing, including crash tests and similar evaluations.
+From the beginning of development around 1965, a total of approximately 60 prototype vehicles were built. This is considerably more than in the past, largely because around 27 of those were used for safety testing, including crash tests and similar evaluations.
 
 As for production, the original plan was to build the car at the Oppama plant. However, when we added up the production volumes for all models, it became clear that Oppama would be operating beyond capacity. Since the engines are produced at Murayama, where there was some available capacity, we shifted the production plan there, and the Laurel is currently built at Murayama.
 
