@@ -18,7 +18,7 @@ draft = false
 
 
 
-![Toyota 1600GT](/images/AS-GT-Nissan-Bluebird-1600SSS-vs-Toyota-1600GT-1967.jpg)
+![Nissan Bluebird 1600SSS](/images/AS-GT-Nissan-Bluebird-1600SSS-vs-Toyota-1600GT-1967.jpg)
 
 
 

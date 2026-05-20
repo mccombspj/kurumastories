@@ -8,7 +8,7 @@
 
 title = "Nissan Violet Hardtop 1600SSS-E (1973)"
 
-
+weight = 10
 
 
 
