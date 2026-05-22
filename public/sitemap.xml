@@ -41,6 +41,9 @@
     <loc>http://localhost:1313/toyota/sprinter/cg-gt-toyota-sprinter-sr-vs-mitsubishi-colt-galant-fto-giii-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mitsubishi/lancer/as-gt-nissan-violet-hardtop-1600sss-mitsubishi-lancer-1600gsl-1973/</loc>
+    <lastmod>2026-05-20T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/subaru/leone/mf-tdr-subaru-leone-coupe-1400gsr-1971/</loc>
     <lastmod>2026-05-06T04:50:49-07:00</lastmod>
   </url><url>
@@ -152,6 +155,9 @@
     <loc>http://localhost:1313/nissan/sunny/cg-rt-nissan-sunny-coupe-1200gl-1970/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/violet/cg-rt-nissan-violet-hardtop-1600sss-e-1973/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/toyota/carina/cg-ri-toyota-carina-1600st-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -178,6 +184,9 @@
   </url><url>
     <loc>http://localhost:1313/nissan/bluebird/mf-tdr-nissan-bluebird-u-hardtop-1800sss-e-1971/</loc>
     <lastmod>2026-05-07T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/violet/as-gt-nissan-violet-hardtop-1600sss-mitsubishi-lancer-1600gsl-1973/</loc>
+    <lastmod>2026-05-20T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/gloria/mf-gt-nissan-gloria-gx-volvo-144s-1971/</loc>
     <lastmod>2026-04-01T04:50:49-07:00</lastmod>
@@ -461,13 +470,22 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nissan/bluebird/</loc>
-    <lastmod>2026-05-19T04:50:49-07:00</lastmod>
+    <loc>http://localhost:1313/mitsubishi/lancer/</loc>
+    <lastmod>2026-05-20T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mitsubishi/</loc>
+    <lastmod>2026-05-20T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/</loc>
-    <lastmod>2026-05-19T04:50:49-07:00</lastmod>
+    <lastmod>2026-05-20T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/violet/</loc>
+    <lastmod>2026-05-20T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-20T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/bluebird/</loc>
     <lastmod>2026-05-19T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/subaru/leone/</loc>
@@ -492,9 +510,6 @@
     <lastmod>2026-05-09T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/</loc>
-    <lastmod>2026-05-04T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mitsubishi/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/fairlady/</loc>
@@ -601,15 +616,6 @@
   </url><url>
     <loc>http://localhost:1313/toyota/1600gt/as-gt-toyota-1600gt-vs-nissan-bluebird-1600sss-1967/</loc>
     <lastmod>2025-11-03T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mitsubishi/lancer/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/violet/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/violet/cg-rt-nissan-violet-hardtop-1600sss-e-1973/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/1600gt/cg-rt-toyota-1600gt-1967/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
