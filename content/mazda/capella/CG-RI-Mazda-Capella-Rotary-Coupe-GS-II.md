@@ -71,7 +71,7 @@ In fifth gear, maximum speed corresponds to approximately 6700rpm, but if the ca
 
 This is most likely the result of tuning carried out in connection with emissions regulations. In all other respects, however, its character remains that of a rotary engine--its exceptional smoothness and mechanical silence hardly need repeating.
 
-The new 5-speed gearbox is a useful addition. Thanks to the engine’s abundant torque, it can be used as more than a simple overdrive; if desired, it will pull cleanly from as low as 45km/h (around 1500rpm) without any sense of strain. In normal highway driving, it is therefore entirely possible to complete all overtaking manoeuvres without a single downshift, and in complete safety.
+The new 5-speed gearbox is a useful addition. Thanks to the engine’s abundant torque, it can be used as more than a simple overdrive; if desired, it will pull cleanly from as low as 45km/h (around 1500rpm) without any sense of strain. In normal highway driving, it is therefore entirely possible to complete all overtaking maneuvers without a single downshift, and in complete safety.
 
 The fifth gear itself, however, generates a distinctly metallic mechanical noise, which--combined with the inherent quietness of the power unit--stands out clearly against the already noticeable wind noise.
 

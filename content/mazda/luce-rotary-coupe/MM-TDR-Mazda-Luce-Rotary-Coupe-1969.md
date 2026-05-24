@@ -118,7 +118,7 @@ The engine is remarkably quiet. At idle, one almost has to check the tachometer 
 
 <b><u>A New 655cc × 2 Rotary Engine</b></u>
 
-The Luce Coupe's 13A rotary engine was newly designed specifically for this model, and has a displacement of 655cc × 2, a compression ratio of 9.1:1, and a Stromberg downdraft two-stage four-barrel carburetor. Output is rated at 128ps/6000rpm, with maximum torque of 17.5kgm/3500rpm. (For comparison, the Cosmo’s 491cc × 2 rotary produces 128hp at 7000rpm, while the Familia Coupe’s 481cc × 2 unit develops 100hp at 7000rpm.)
+The Luce Coupe's 13A rotary engine was newly designed specifically for this model, and has a displacement of 655cc × 2, a compression ratio of 9.1:1, and a Stromberg downdraft two-stage four-barrel carburetor. Output is rated at 128ps/6000rpm, with maximum torque of 17.5kgm/3500rpm. (For comparison, the Cosmo’s 491cc × 2 rotary produces 128ps/7000rpm, while the Familia Coupe’s 491cc × 2 unit develops 100ps/7000rpm.)
 
 As usual with a rotary engine, the compact unit itself is almost dwarfed by its auxiliary equipment, with the twin distributors, air cleaner, air-conditioning compressor, and other components dominating the engine bay.
 
