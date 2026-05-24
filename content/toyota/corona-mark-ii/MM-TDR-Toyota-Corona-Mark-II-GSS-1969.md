@@ -106,7 +106,7 @@ Road noise and powertrain noise are also well suppressed. As a result, even at s
 
 The brakes use servo-assisted front discs with rear drums. While initial braking response has the somewhat dull feel characteristic of disc systems, their resistance to fade and ability to bring the car down from speed reliably are on an entirely different level from ordinary drum brakes.
 
-The handling has no particular bad habits, tending slightly toward understeer, though in actual driving this tendency is hardly noticeable. The steering system employs Toyota’s variable-ratio setup, with the ratio changing between 19.5 and 21.5:1, and requires four-and-a-half turns lock-to-lock. For a car of this type, it feels surprisingly slow, and steering effort is correspondingly light--so light, in fact, that the driver hardly notices the presence of the radial tires through the wheel.
+The handling has no particular bad habits, tending slightly toward understeer, though in actual driving this tendency is hardly noticeable. The steering system uses Toyota’s variable-ratio setup, with the ratio changing between 19.5 and 21.5:1, and requires four-and-a-half turns lock-to-lock. For a car of this type, it feels surprisingly slow, and steering effort is correspondingly light--so light, in fact, that the driver hardly notices the presence of the radial tires through the wheel.
 
 In other words, the steering lacks sharpness. Yet in deliberately accepting this compromise--without pursuing the harder-edged feel suggested by the "GSS" name--one can clearly sense Toyota’s intention that this car is not meant to appeal only to a limited circle of enthusiasts.
 

@@ -266,6 +266,9 @@
     <loc>http://localhost:1313/toyota/crown/cg-rt-toyota-crown-hardtop-sl-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/mm-tdr-toyota-corona-mark-ii-gss-1969/</loc>
+    <lastmod>2026-05-22T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/toyota/carina/mf-tdr-toyota-carina-1600gt-1971/</loc>
     <lastmod>2026-05-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -470,6 +473,15 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/</loc>
+    <lastmod>2026-05-22T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/</loc>
+    <lastmod>2026-05-22T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-22T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mitsubishi/lancer/</loc>
     <lastmod>2026-05-20T04:50:49-07:00</lastmod>
   </url><url>
@@ -482,9 +494,6 @@
     <loc>http://localhost:1313/nissan/violet/</loc>
     <lastmod>2026-05-20T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-20T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/bluebird/</loc>
     <lastmod>2026-05-19T04:50:49-07:00</lastmod>
   </url><url>
@@ -495,9 +504,6 @@
     <lastmod>2026-05-17T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/carina/</loc>
-    <lastmod>2026-05-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/</loc>
     <lastmod>2026-05-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/savanna/</loc>
@@ -559,9 +565,6 @@
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant/</loc>
     <lastmod>2026-03-05T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/corona-mark-ii/</loc>
-    <lastmod>2026-02-28T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/familia/</loc>
     <lastmod>2026-02-24T04:50:49-07:00</lastmod>
