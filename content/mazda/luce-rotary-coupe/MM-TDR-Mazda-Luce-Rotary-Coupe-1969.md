@@ -72,7 +72,7 @@ draft = false
 
 <b><u>Luce Rotary Coupe: The Prestige Car of the Series</b></u>
 
-We suspect that many of the owners who have lived with the Familia Rotary Coupe for some time have already reached a certain level of satisfaction with the rotary engine itself--or perhaps arrived at a practical compromise with its characteristics--and now have even greater expectations for growth beyond that car’s styling, chassis, and overall class. It is probably fair to say that “rotary-ization” has now reached the point where it ought to enter a second phase of development and refinement.
+We suspect that many of the owners who have lived with the Familia Rotary Coupe for some time have already reached a certain level of satisfaction with the rotary engine itself--or perhaps arrived at a practical compromise with its characteristics--and now have even greater expectations for advances in the car’s styling, chassis, and overall class. It is probably fair to say that “rotary-ization” has now reached the point where it ought to enter a second phase of development and refinement.
 
 Just as NSU evolved from the Spider to the Ro80, and just as Daimler-Benz produced the mid-engined C111 rotary prototype sports car, the level of rotary-engine development today seems to be advancing at a rapid pace. It was perfectly timed, then, that we were finally given the opportunity to test the Luce Rotary Coupe RX-87, which has now begun full-scale production.
 
