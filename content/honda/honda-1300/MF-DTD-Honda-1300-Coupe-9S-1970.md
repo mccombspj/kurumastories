@@ -53,15 +53,15 @@ Since I have accepted the position, I will not make any long-winded excuses for 
 
 
 
-<b><u>I see, it's a Honda car!</b></u>
+<b><u>I See, It's a Honda Car!</b></u>
 
 
 
-On the day of the test drive, I was already at Fuji Speedway for some business when Motor Fan arrived with the Honda Coupe 9. I had often seen this car in catalogs and magazines, but it was my first time seeing one in person. It was in the driver's salon at Fuji Speedway that I first encountered it. At that moment, a familiar, nostalgic feeling struck me: "Ah, this is definitely a Honda car!"
+On the day of the test drive, I was already at Fuji Speedway on business when Motor Fan arrived with the Honda Coupe 9. I had often seen this car in catalogs and magazines, but it was my first time seeing one in person. It was in the driver's salon at Fuji Speedway that I first encountered it. At that moment, a familiar, nostalgic feeling struck me: "Ah, this is definitely a Honda car!"
 
 
 
-The front view is bold, split into two halves with a central apex. It has an unmistakable challenger spirit. When you think of Honda as a company, it is immediately associated with challenging convention. That image began with their motorcycles, and has stayed with them to this day. Not only the front view, but also the cantilever roof, the 20.5 degree rear window angle, etc., all say "Honda" from the first glance. 
+The front view is bold, split into two halves with a central apex. It conveys an unmistakable challenger spirit. When you think of Honda as a company, it is immediately associated with challenging convention. That image began with their motorcycles, and has stayed with them to this day. Not only the front view, but also the cantilever roof, the 20.5 degree rear window angle, etc., all say "Honda" from the first glance. 
 
 
 
@@ -69,11 +69,11 @@ Still, why does it look slightly smaller than its 1300 sedan counterpart? Perhap
 
 
 
-I opened the driver's door. Once again, I thought, "Ah, just as I expected," and settled into the seat. The steering wheel felt great in my hands. The size was just right. I focused my eyes on the dashboard. "So this is what they call a 'flight cockpit'..." I looked ahead, straightened my arms, and assumed a driving position. The gauges were very easy to read. It was the kind of thoughtful design that you would expect from Honda, a leader in the racing world.
+I opened the driver's door. Once again, I thought, "Ah, just as I expected," and settled into the seat. The steering wheel felt good in my hands. The size was just right. I focused my eyes on the dashboard. "So this is what they call a 'flight cockpit'..." I looked ahead, straightened my arms, and assumed a driving position. The gauges were very easy to read. It was the kind of thoughtful design that you would expect from Honda, a leader in the racing world.
 
 
 
-When I was around 20 years old, when I wore the look of a grown-up on my face and was confident that I knew everything about cars, I probably would have jumped at the chance to own this car the moment it was released.
+When I was around 20 years old, wearing the look of a grown-up on my face and confident that I knew everything about cars, I probably would have jumped at the chance to own this car the moment it was released.
 
 
 
@@ -85,19 +85,19 @@ Honda is also likely targeting a younger demographic with this car.
 
 
 
-When I started racing as a woman, I was driving a Honda S600. Taking part in this test drive, I was able to drive a Honda car for the first time in a long time, and it brought back such a feeling of nostalgia that it made me shiver. My first impression when I sat in the seat was that it was not at all different than the Honda I had when I was racing three or four years ago. My "20-year-old younger brother" here has been singing the praises of this Honda Coupe 9, and seeing it in person, I can understand his sentiment very well. The exterior and interior styling seem to incorporate all the latest trends--major manufacturers like Toyota and Nissan would never be able to go to these extremes. I felt strongly that Honda's design philosophy remains alive and well.
+When I was getting started as a female racer, I was driving a Honda S600. Taking part in this test drive, I was able to drive a Honda car for the first time in a long time, and it brought back such a feeling of nostalgia that it gave me shivers. My first impression when I sat in the seat was that it was not at all different than the Honda I had when I was racing three or four years ago. My "20-year-old younger brother" here has been singing the praises of this Honda Coupe 9, and seeing it in person, I can understand his sentiment very well. The exterior and interior styling seem to incorporate all the latest trends--major manufacturers like Toyota and Nissan would never be able to go to these extremes. I felt strongly that Honda's design philosophy remains alive and well.
 
 
 
-<b><u>Outstanding seats and excellent visibility</b></u>
+<b><u>Outstanding Seats and Excellent Visibility</b></u>
 
 
 
-There was no point sitting and admiring the interior forever. So I prepared to set off from Fuji Speedway. I turned the key and started the engine. "Hmm... is this definitely air-cooled?" I checked with the editor just to be sure, and he said it was. Considering that, it's very quiet. I wouldn't go as far as saying it's quieter than a normal water-cooled engine, but it's quiet enough that it's hard to believe it's air-cooled. They must have put a lot of effort into it. The editor added that it's an OHC system, and I thought, "Of course it is." It's a mechanism that is unique in the world. 
+There was no point just sitting and admiring the interior, so I prepared to set off from Fuji Speedway. I turned the key and started the engine. "Hmm... is this definitely air-cooled?" I checked with the editor just to be sure, and he said it was. Considering that, it's very quiet. I wouldn't go as far as saying it's quieter than a normal water-cooled engine, but it's quiet enough that it's hard to believe it's air-cooled. They must have put a lot of effort into it. The editor added that it's an OHC system, and I thought, "Of course it is." It's a mechanism that is unique even internationally. 
 
 
 
-Leaving Fuji behind, I turned onto a local dirt road. I didn't push the speed too much, and started off at a normal driving pace. Under these conditions, the seat felt great, just as it had when the car was stationary. The cushion fit my lower body perfectly, and it was very supportive, so even as I was moved up and down or swayed side-to-side, I didn't slide around. The padding wasn't particularly soft, but it wasn't particularly hard either. The seatback was quite narrow, but the area under my shoulders was nicely contoured, giving me the feeling that it was cradling my entire back.
+Leaving Fuji behind, I turned onto a local dirt road. I didn't push my speed at first, starting off at a normal driving pace. Under these conditions, the seat felt great, just as it had when the car was stationary. The cushion fit my lower body perfectly, and it was very supportive, so even as I was bounced up and down or swayed side-to-side, I didn't slide around. The padding wasn't particularly soft, but it wasn't particularly hard either. The seatback was quite narrow, but the area under my shoulders was nicely contoured, giving me the feeling that it was cradling my entire back.
 
 
 
@@ -117,7 +117,7 @@ The position of the shifter is very good, and it was easy to drive with the seat
 
 
 
-<b><u>The high-speed engine has been heavily modified</b></u>
+<b><u>The High-Speed Engine Has Been Heavily Modified</b></u>
 
 
 
@@ -125,7 +125,7 @@ Apparently, the release of the 1300 Coupe coincided with revisions to the 1300's
 
 
 
-Even so, the engine revs well. The power and acceleration are as expected of a Honda. I couldn't help thinking that it's perhaps rather dangerous for someone who isn't a particularly skilled driver. Humans have a troublesome instinct to want to go faster. In that respect, Hondas have always given me satisfaction, though I don't know whether that's a good thing or a bad thing...
+Even so, the engine revs well. The power and acceleration are as expected of a Honda. I couldn't help thinking that it's perhaps rather dangerous for someone who isn't a particularly skilled driver. Humans have a troublesome instinct to always want to go faster. In that respect, Hondas have always given me satisfaction, though I don't know whether that's a good or a bad thing..
 
 
 
@@ -133,7 +133,7 @@ Next, I opened the engine compartment. Oh dear. Air-cooled engines are supposed 
 
 
 
-The transmission, which is responsible for bringing out an engine's performance, can be said to be a perfect match for this engine's high-speed characteristics. The ratios are 3.446, 2.014, 1.367, and 1.000 for first, second, third, and fourth gear, slightly higher than other cars in the same class. This matches well with the performance and brings out its full potential.
+The transmission, which is responsible for bringing out the engine's performance, can be said to be a perfect match for this engine's high-speed characteristics. The ratios are 3.446, 2.014, 1.367, and 1.000 for first, second, third, and fourth gear, slightly higher than other cars in the same class. This matches well with the performance and brings out its full potential.
 
 
 
@@ -145,7 +145,7 @@ The engine runs very smoothly. I couldn't help but wonder, with my feminine inst
 
 
 
-<b><u>Too bad! The handling makes you shake your head</b></u>
+<b><u>Too Bad! The Handling Makes You Shake Your Head</b></u>
 
 
 
@@ -205,7 +205,7 @@ If I may add more, I also felt that the relationship between the steering and th
 
 
 
-<b><u>The rationality of the FF mechanism is unclear</b></u>
+<b><u>The Rationality of the FF Mechanism is Unclear</b></u>
 
 
 

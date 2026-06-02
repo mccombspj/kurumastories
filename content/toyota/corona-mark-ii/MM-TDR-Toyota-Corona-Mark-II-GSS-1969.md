@@ -30,7 +30,7 @@ Of course, there are some who question the need for this seemingly excessive esc
 
 As one can see from a glance, the Mark II 1900 GSS is a sports sedan that is outwardly almost identical to the original model. The initials stand for “Grand Super Sports,” but apart from the "GSS" emblems on the radiator grille, rear end panel, and rear quarter panels, it is almost impossible to distinguish from the standard hardtop version.
 
-The engine, however, is another matter. The 10R unit is a twin-cam development of the 8R SOHC engine used in the SL. Though retaining the same 1858cc displacement, output has been increased substantially to 140ps/6400rpm, with torque rising to 17kgm/5200rpm, giving the car decidedly greater power specifications.
+The engine, however, is the 10R unit, a twin-cam development of the 8R SOHC engine used in the SL. Though retaining the same 1858cc displacement, output has been increased substantially to 140ps/6400rpm, with torque rising to 17kgm/5200rpm, giving the car decidedly greater power specifications.
 
 This inline four-cylinder DOHC engine's bore and stroke dimensions are an oversquare 86mm × 80mm. The aforementioned output and torque figures are achieved through a 9.7:1 compression ratio together with twin Solex two-stage carburetors. Compared with the original 8R engine, these figures represent a considerable increase of 30ps in output and 1.5kgm in torque.
 
@@ -38,9 +38,9 @@ It could be said that the defining characteristic of the GSS is the powerful dri
 
 <b><u>Remarkably Flexible Low-Speed Performance</b></u>
 
-Given the nature of this car, it would be natural to focus first on its powerful performance. However, our test drive began not on an expressway, or a test course, but on ordinary city streets with heavy traffic. For that reason, it seems appropriate to start by describing the car’s characteristics in low-speed driving. The greatest surprise of this test drive was the fact that, in this respect, the car behaved no differently from an ordinary sedan.
+Given the nature of this car, it would be natural to focus first on its powerful performance. However, our test drive began not on an expressway--let alone a test course--but on ordinary city streets with heavy traffic. For that reason, it seems appropriate to start by describing the car’s characteristics in low-speed driving. The greatest surprise of this test drive was the fact that, in this respect, the car behaved no differently from an ordinary sedan.
 
-In other words, despite its name and formidable engine specifications, and the high performance figures listed in its catalog, it was capable of completely smooth low-speed cruising, to a degree that was genuinely unexpected.
+In other words, despite its impressive name and engine specifications, and the high performance figures listed in its catalog, it was capable of completely smooth low-speed cruising, to a degree that was genuinely unexpected.
 
 To be more specific, when moving off in first gear, clutch engagement occurs at roughly 1000rpm. Shifting into second follows as soon as the car is rolling, then into third at around 30km/h, and finally into top gear at approximately 40km/h, after which smooth driving is entirely possible.
 
