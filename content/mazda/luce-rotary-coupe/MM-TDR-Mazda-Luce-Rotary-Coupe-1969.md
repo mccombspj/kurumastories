@@ -74,31 +74,31 @@ draft = false
 
 We suspect that many of the owners who have lived with the Familia Rotary Coupe for some time have already reached a certain level of satisfaction with the rotary engine itself--or perhaps arrived at a practical compromise with its characteristics--and now have even greater expectations for advances in the car’s styling, chassis, and overall class. It is probably fair to say that “rotary-ization” has now reached the point where it ought to enter a second phase of development and refinement.
 
-Just as NSU evolved from the Spider to the Ro80, and just as Daimler-Benz produced the mid-engined C111 rotary prototype sports car, the level of rotary-engine development today seems to be advancing at a rapid pace. It was perfectly timed, then, that we were finally given the opportunity to test the Luce Rotary Coupe RX-87, which has now begun full-scale production.
+Just as NSU evolved from the Spider to the Ro80, and as Daimler-Benz produced the mid-engined C111 rotary prototype sports car, the level of rotary-engine development today seems to be advancing at a rapid pace. It was perfectly timed, then, that we were finally given the opportunity to test the Luce Rotary Coupe RX-87, which has now entered full-scale production.
 
 <b><u>A Styling Leader</b></u>
 
-To establish a strong image for the rotary engine--and to impress upon buyers the pride of possessing the latest technology--there could hardly be a more effective approach than to create a truly beautiful styling leader. Because the rotary engine is so compact, it is possible to adopt fashionable Italian-influenced coachwork without great difficulty. At the same time, generous cabin space can be provided even in a relatively compact car. These advantages should be exploited to the fullest.
+To establish a strong image for the rotary engine--and to impress upon buyers the pride of possessing the latest technology--there could hardly be a more effective approach than to create a truly beautiful styling leader. Because the rotary engine is so compact, it is possible to adopt fashionable Italian-influenced coachwork without great difficulty. At the same time, generous cabin space can be provided even in a relatively compact car. These are advantages that should be exploited to the fullest.
 
-The Bertone styling of the Luce four-door sedan can no longer be called especially fresh today, yet many owners were undoubtedly captivated by its familiar, softly flowing body lines. Indeed, this graceful styling has always been the primary appeal of the Luce.
+The Bertone styling of the Luce four-door sedan can no longer be called especially fresh today, yet many owners were undoubtedly captivated first by its familiar, softly flowing body lines. Indeed, this graceful styling has always been the primary appeal of the Luce.
 
 The Luce Rotary Coupe reinterprets the sedan’s design theme as a two-door hardtop, and it gives the impression of a style that has been brought fully to completion. If there is one regret, it is that the design no longer feels especially new.
 
-The body itself appears a class larger than it actually is. Most striking of all is the substantial hardtop roofline, which gives it a dignified presence comparable to that of a 2-liter-class car.
+The body itself appears a class larger than it actually is. The striking hardtop roofline gives it a dignified presence comparable to that of a 2-liter-class car.
 
-The test car was the Super Deluxe model: the most expensive version in the range, priced at 1.75 million yen and finished in light ivory, with a leather roof, power steering, and air conditioning.
+The test car was the Super Deluxe model: the most expensive version in the range, priced at 1.75 million yen and painted light ivory, with a leather roof, power steering, and air conditioning.
 
 The Luce identity has clearly been retained, and the resemblance is immediately recognizable. At first glance, it gives the impression of being simply a two-door hardtop version of the Luce sedan. In reality, however, almost no body pressings are shared, and the level of detail finish is unmistakably more sophisticated.
 
-The seats, for example, are upholstered in a subdued green velour with a notably soft feel. Their generously thick backrests, deep cushions, and excellent support give it something of the classical atmosphere of older European luxury cars. These days, when one usually finds PVC upholstery as far as the eye can see, the Luce Coupe’s soft, richly tailored ambiance is especially memorable.
+The seats, for example, are upholstered in a subdued green velour with a notably soft feel. Their generously thick backrests, deep cushions, and excellent support give it something of the classical atmosphere of older European luxury cars. These days, when one usually finds PVC upholstery as far as the eye can see, the Luce Coupe’s soft, richly tailored ambiance stands out memorably.
 
-The thickly padded door trim is also very well executed. Particularly impressive is the large door-mounted handgrip integrated into the armrest design. The rear bench seat incorporates a folding center armrest. The shape of the seats themselves is exceptionally good, recalling those of a high-class sedan. Unless the front seats are slid fully back, even adults can ride in the rear seat in reasonable comfort. Headroom, however, cannot be called generous.
+The thickly padded door trim is also very well executed. Particularly impressive is the large door-mounted handgrip integrated into the armrest design. The rear bench seat incorporates a folding center armrest. The shape of the seat itself is exceptionally good, recalling that of a high-class sedan. Unless the front seats are slid fully back, even adults can ride in the rear seat in reasonable comfort. Headroom, however, cannot be called generous.
 
 One interesting detail is that by opening the zipper in the armrest storage section, it becomes possible to retrieve items directly from the trunk compartment.
 
 <b><u>A Comfortable Driver’s Seat</b></u>
 
-Settling into the driver’s seat, visibility is excellent thanks to the low front and rear fenders, and the expansive glass area creates a bright, pleasant atmosphere for driving.
+Settling into the driver’s seat, visibility is excellent thanks to the low front and rear fenders, and the expansive glass area creates a bright, pleasant driving atmosphere.
 
 Naturally, the seats feature full reclining adjustment, and together with the three-position tilt steering wheel, it is possible to tailor a genuinely sporting driving position. Even very tall drivers are able to find a satisfactory posture.
 
@@ -108,13 +108,13 @@ The dashboard follows the familiar Luce design, though finished in black, with s
 
 The dashboard of the Super Deluxe was fitted with a fairly bright stainless-steel trim panel. While this may reflect prevailing tastes, one cannot help feeling that a subdued woodgrain finish would convey a greater sense of luxury. It is not distractingly flashy, yet while this treatment might be perfectly satisfactory when it comes to furniture design, in an automobile--constantly subject to changing light while in motion--its qualities may prove difficult to appreciate.
 
-Another factor contributing to the Luce Coupe’s excellent cabin comfort is its highly effective ventilation, heating, and air conditioning. In addition to the central outlet beneath the dashboard, the air conditioning system also supplies air through vents positioned at both ends of the dash. Fan speed is controlled by a three-position switch.
+Another factor contributing to the Luce Coupe’s excellent cabin comfort is its highly effective ventilation, heating, and air conditioning. In addition to the central outlet beneath the dashboard, the air conditioning system supplies air through vents positioned at both ends of the dash. Fan speed is controlled by a three-position switch.
 
 The Luce Coupe’s air circulation is extremely effective, and the heater distributes warm air throughout the cabin almost immediately.
 
 In any case, the Luce Coupe’s excellent air-conditioning system makes vent windows seem entirely unnecessary. The comfortable cabin atmosphere it creates deserves high praise.
 
-The engine is remarkably quiet. At idle, one almost has to check the tachometer to confirm that it is running at all, as the sound of the electric clock and the idle note blend together in a pleasing unison.
+The engine is remarkably quiet. At idle, one almost has to check the tachometer to confirm that it is even running, as the sound of the electric clock and the idle note blend together in a pleasing unison.
 
 <b><u>A New 655cc × 2 Rotary Engine</b></u>
 
@@ -124,13 +124,13 @@ As usual with a rotary engine, the compact unit itself is almost dwarfed by its 
 
 The dual-circuit power brake fluid system and battery are both easily accessible for inspection, though reaching the four spark plugs still requires bending down awkwardly.
 
-Even at high engine speeds, the sound remains characteristically subdued, and the rotary spins effortlessly higher the more one presses the accelerator. Unlike a reciprocating engine, it gives none of the familiar hints--such as valve noise when approaching its limits--that warn the driver of overrevving. Particular caution is therefore required in this respect.
+Even at high engine speeds, the sound remains characteristically subdued, and the rotary spins effortlessly higher the more one presses the accelerator. Unlike a reciprocating engine, it gives none of the familiar signs--such as valve noise when approaching its limits--that warn the driver of overrevving. Particular caution is therefore required in this respect.
 
 Mazda has attempted to prevent overrevving by fitting a warning buzzer that sounds once engine speed exceeds 6500rpm. In addition, the secondary throttle valves close as a further protective measure. As a result, if the driver attempts to maintain high engine speeds for sustained racing-style driving, the buzzer becomes a constant companion.
 
 The 200km/h speedometer is somewhat crowded and not especially easy to read, but once accustomed to it--simply remembering reference points such as "needle straight up equals 100km/h"--it presents little real difficulty in ordinary driving.
 
-As expected, the aerodynamic body shape proves highly effective, and wind noise is low. The power steering, while certainly useful in city driving, feels excessively light. Once one settles into sustained driving, this becomes less of a concern. Even so, it still seems that a more grounded steering feel could have been achieved. Recently, even American cars have increasingly begun to adopt power steering systems with genuinely good feel. The era when power steering merely had to be foolproof and low-effort should already have passed.
+As expected, the aerodynamic body shape proves highly effective, and wind noise is low. The power steering, while certainly useful in city driving, feels excessively light. Once one settles into sustained driving, this becomes less of a concern. Even so, it still seems that a more connected steering feel could have been achieved. Recently, even American cars have increasingly begun to adopt power steering systems with genuinely good feel. The era when power steering merely had to be foolproof and low-effort should already have passed.
 
 <b><u>An FF Car Without FF Bad Habits</b></u>
 

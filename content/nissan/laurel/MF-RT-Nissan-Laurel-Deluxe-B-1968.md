@@ -42,7 +42,7 @@ draft = false
 
 
 
-![Nissan Laurel Hardtop 2000GX](/images/MF-RT-Nissan-Laurel-Deluxe-B-1968.jpg)
+![Nissan Laurel Deluxe B](/images/MF-RT-Nissan-Laurel-Deluxe-B-1968.jpg)
 
 
 
