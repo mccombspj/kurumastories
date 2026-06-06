@@ -466,7 +466,7 @@ The fuel tank has been moved behind the rear seat. This is something we are seei
 
 Inside, the seat has a very generous range of fore-and-aft sliding adjustment. As we've heard, a lot of effort has gone into making the trim and fittings more luxurious, so some of this may just be a matter of usability, or perhaps of getting used to it--but two or three points did stand out. First, the passing light and turn signal are combined into a single lever. Recently, many drivers have tended to flash the headlights unintentionally when signaling. It happens unconsciously, but it can be a bit startling for oncoming traffic. Since there is also another lever for the headlights, one wonders whether this creates opportunities for confusion from a usability standpoint.
 
-Also, the side vent outlet protrudes from below the instrument panel. It gives the impression that it may have been added on afterwards. In practice, this compromises the usability of the under-tray storage area.
+Also, the side vent outlets protrude from below the instrument panel. It gives the impression that they may have been added on afterwards. In practice, this compromises the usability of the under-tray storage area.
 
 I do have some concern about the usability of the overhead console, which has the sun visors integrated into it. This may be slightly inconvenient, though it is likely also a matter of getting used to it.
 

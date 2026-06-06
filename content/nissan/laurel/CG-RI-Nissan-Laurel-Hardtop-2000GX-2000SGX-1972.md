@@ -127,7 +127,7 @@ As for handling, simply put, this new Laurel not only handles significantly bett
 
 
 
-The large, heavy L20 six-cylinder engine has negative effects on the car's steering, as well. That is, while steering effort in the four-cylinder GX feels just right, the SGX's steering feels heavy and unresponsive. However, the strength of the front dampers and the spring constants of the coil springs differ between the six-cylinder and four-cylinder models, with the six-cylinder’s being firmer, so contrary to expectations, the amount of understeer in both cars is almost the same. (The recommended high-speed air pressures were also distributed differently front and rear, 1.9/2.0kg/cm²  for the four-cylinder, and 1.9/1.9kg/cm² for the six-cylinder – 2.0/2.0 with the air conditioner.)
+The large, heavy L20 six-cylinder engine has negative effects on the car's steering. That is, while steering effort in the four-cylinder GX feels just right, the SGX's steering feels heavy and unresponsive. However, the front damper strength and coil spring constants differ between the six-cylinder and four-cylinder models, with the six-cylinder’s being stiffer, so contrary to expectations, the amount of understeer in both cars is almost the same. (The recommended high-speed air pressures were also distributed differently front and rear, 1.9/2.0kg/cm²  for the four-cylinder, and 1.9/1.9kg/cm² for the six-cylinder – 2.0/2.0 with the air conditioner.)
 
 
 
@@ -139,15 +139,15 @@ The brakes are power-assisted discs/drums, equipped with a master cylinder and a
 
 
 
-The interior is as luxurious as the Toyota Mark II, offering all the convenience features expected from a domestic car in this class, including effective ventilation. The dashboard design, with panels that slope down and forward, is unique and characteristically Nissan, yet has a pleasing lack of unnecessary ornamentation. The steering column-mounted stalk controls for the wipers (on the left) and lights (on the right) are clearly easier to operate than those on the Mark II (more on the excellent wiper functionality in our report on the sedan).
+The interior is as luxurious as that of the Toyota Mark II, offering all the convenience features expected from a domestic car in this class, including effective ventilation. The dashboard design, with panels that slope down and forward, is unique and characteristically Nissan, yet has a pleasing lack of unnecessary ornamentation. The steering column-mounted stalk controls for the wipers (on the left) and lights (on the right) are clearly easier to operate than those on the Mark II (more on the excellent wiper functionality in our report on the sedan).
 
 
 
-The driving position, which is lower than that of the previous Laurel, is excellent, and the seat is generously sized and comfortable, with more substantial lumbar support than its appearance suggests. The pedals are well-placed, allowing for natural heel-and-toe driving, and there is sufficient space for the left foot. However, the handbrake is still an umbrella-handle type located under the dash, making it difficult to use, and the return spring for the automatic seatbelt retractor is too strong, making it tempting to immediately unfasten the belt unless persuaded by the warning light, which is dangerous.
+The driving position, which is lower than that of the previous Laurel, is excellent, and the seat is generously sized and comfortable, with more substantial lumbar support than its appearance suggests. The pedals are well-placed, allowing for natural heel-and-toe driving, and there is sufficient space for the left foot. However, the handbrake is still an umbrella-handle type located under the dash, making it inconvenient to use, and the return spring for the automatic seatbelt retractor is too strong, making it tempting to immediately unfasten the belt unless persuaded by the warning light, which is dangerous.
 
 
 
-Another major drawback is the poor rear visibility. This problem is not limited to the Laurel, and can be said of all recent cars with semi-fastback rooflines, but it is particularly true in this car, where the lower edge of the window is very high and the rear seat headrests protrude significantly, making it extremely difficult to reverse into a garage, as ends of the rear fenders are invisible to the driver. 
+Another major drawback is the poor rear visibility. This problem is not limited to the Laurel, and can be said of all recent cars with semi-fastback rooflines, but it is particularly true in this car, where the lower edge of the window is very high and the rear seat headrests protrude significantly, making it extremely difficult to reverse into a garage, as both ends of the rear fenders are invisible to the driver. 
 
 
 
@@ -159,7 +159,7 @@ Finally, regarding fuel economy, we drove in a variety of conditions without par
 
 
 
-The new Laurel, with its BMW-style European mechanicals wrapped up in an American-style body, is an improvement over the previous Laurel, which had a BMW-like body as well as mechanicals. Aside from the styling, it can be said to have improved in almost every respect, including body rigidity, interior and exterior finish, handling, and ride comfort. However, the heavy, large, and “sleepy” six-cylinder L20 engine clearly compromises the car’s relatively nimble character for its size. Unless one is willing to spend an extra 100,000 yen to “drive slowly,” as the advertisements say, and if one has even the slightest desire to drive a Laurel that is faster and more economical, the four-cylinder is definitely the better choice. Even if you do opt for the six-cylinder, unless you regularly cruise on the highway, the 4-speed gearbox would be a better choice than the heavy-shifting 5-speed.
+The new Laurel, with its BMW-style European mechanicals wrapped up in an American-style body, is an improvement over the previous Laurel, which had a BMW-like body as well as mechanicals. Aside from the styling, it can be said to have improved in almost every respect, including body rigidity, interior and exterior finish, handling, and ride comfort. However, the heavy, large, and “sleepy” six-cylinder L20 engine clearly compromises the car’s character, which is otherwise relatively nimble for its size. Unless one is willing to spend an extra 100,000 yen to “drive slowly,” as the advertisements say, and if one has even the slightest desire to drive a faster, more economical Laurel, the four-cylinder is definitely the better choice. Even if you do opt for the six-cylinder, unless you regularly cruise on the highway, the 4-speed gearbox would be a better choice than the heavy-shifting 5-speed.
 
 <b><u>Postscript: Story Photos</b></u>
 

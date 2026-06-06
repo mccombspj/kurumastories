@@ -44,7 +44,7 @@ Mazda’s catchphrase for the Savanna is “Intuition.” At the beginning of th
 
 “The encounter between man and automobile is no different from that between human beings themselves. Indeed, there are even those who would say that a car is a living thing. At the very instant of that encounter, here appears a new class of automobile that appeals directly to your intuition.”
 
-And indeed, the Savanna does seem to be a car that appeals to something instinctive in many people.
+The Savanna does seem to be a car that appeals to something instinctive in many people.
 
 The car tested was the Coupe GS II, the highest-grade model in the Savanna series.
 
@@ -152,17 +152,17 @@ The transition into oversteer is, if anything, somewhat abrupt, and recovery onc
 
 Even so, on rough roads there were moments when the front and rear suspension seemed to move somewhat out of balance with one another, which was slightly concerning.
 
-This is purely my own impression, but in overall balance it feels as though front damping may be just a little too soft relative to the rear.
+This is purely my own impression, but in overall balance it feels as though front damping may be a little too soft relative to the rear.
 
-Ride quality is on the firm side. Perhaps because rebound damping at the rear is quite strong, there is a pronounced sense of vertical kickback from the rear suspension.
+Ride quality is on the stiff side. Perhaps because rebound damping at the rear is quite strong, one feels pronounced vertical kicks from the rear suspension.
 
 This may also be a measure intended to increase rear roll stiffness, but from the standpoint of ride comfort it is not particularly satisfactory. With tire pressures set at the low-speed recommendation of 1.5kg/cm², the ride remains tolerable, but once inflated to the high-speed specification of 1.8kg/cm², it becomes decidedly harsh.
 
 This sensation is particularly noticeable in the rear seats. One can sense that considerable effort was made to compensate through seat design, but even so…
 
-Given how generously the rear seating has been treated for a coupe, one cannot help feeling that there is something of a contradiction between that accommodation and the ride characteristics.
+Given how generously the rear seating has been treated for a coupe, one cannot help feeling that there is something of a contradiction between the accommodation and the ride characteristics.
 
-Though its character is not always clear-cut or easy to define, there is no doubt that this car represents Toyo Kogyo placing the full breadth of its technical capabilities on display.
+Though its character is not always clear-cut or easy to define, there is no doubt that this car represents Toyo Kogyo placing the full strength of its technical capabilities on display.
 
 In terms of positioning, the overall impression is of a car aimed primarily at buyers in their thirties--people who, despite their age, remain decidedly youthful in spirit.
 
