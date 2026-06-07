@@ -53,7 +53,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> January 1969<br>
-<b>Author:</b> Kameo Uchiyamada, Osamu Hirao, Eiichi Kumabe, Masashi Kondo, Kenji Higuchi, Hiroshi Hoshijima, Kunitaka Furutani, Jun Narie, Yasuhei Oguchi, Taizo Tateishi, Kazuo Kumabe, Akio Miyamoto, Mineo Yamamoto, Atsushi Watari, Kenzaburo Ishikawa, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
+<b>Author:</b> Kameo Uchiyamada, Osamu Hirao, Eiichi Kumabe, Masashi Kondo, Kenji Higuchi, Hiroshi Hoshijima, Kunitaka Furutani, Jun Narue, Yasuhei Oguchi, Taizo Tateishi, Kazuo Kumabe, Akio Miyamoto, Mineo Yamamoto, Atsushi Watari, Kenzaburo Ishikawa, Toshihide Hirata, Minoru Onda, Motor Fan Editorial Staff (uncredited)
 
 
 
@@ -107,7 +107,7 @@ Because of design requirements, we also moved away from conventional wheels with
 
 <b>Higuchi:</b> For a light, nimble car, narrowing the quarter pillar makes sense. But for a more luxurious car, I think this approach may actually be better.
 
-<b>Hirao:</b> Do you really need the triangular vent window?
+<b>Hirao:</b> Is the triangular vent window really needed?
 
 <b>Uchiyamada:</b> Because the glass area is so large, it serves as a guide for raising and lowering the window.
 
@@ -115,7 +115,7 @@ Because of design requirements, we also moved away from conventional wheels with
 
 <b>Uchiyamada:</b> When we conduct side-impact tests, the structural members around the rear quarter contribute significantly. The same is true in rollover tests—there are various ways to simulate a rollover, of course, but in those situations as well, the rear quarter structure plays a definite role.
 
-As for the unusually shaped headlamps, that design actually dates back to the development stage of the New Crown sedan project. The concept was already finalized at that time; this is just the first opportunity it’s had to see the light of day. (laughs)
+As for the unusually shaped headlamps, that design actually dates back to the development stage of the New Crown sedan project. The concept was already finalized at that time; it's just taken until now to see the light of day. (laughs)
 
 <b><u>Well-Integrated Disc Wheels</b></u>
 
@@ -129,9 +129,9 @@ As for the unusually shaped headlamps, that design actually dates back to the de
 
 <b>Kumabe (Eiichi):</b> We carried out a full series of safety tests, and in both side-impact and rollover situations, the locks did not release. The doors remained firmly closed.
 
-<b>Hoshijima:</b> With older American cars, especially the pillarless types, you often get the impression that the fit of the doors deteriorates over time.
+<b>Hoshijima:</b> With older American cars, especially the pillarless types, you often get the impression that the fit of the doors worsens over time.
 
-<b>Uchiyamada:</b> I agree completely. With four-door hardtops that lack a center pillar, even driving on ordinary Japanese roads, you hear creaks and groans. You start to wonder whether, over time, the doors might come off altogether.
+<b>Uchiyamada:</b> I agree completely. With four-door hardtops that lack a center pillar, even driving on ordinary Japanese roads, you hear creaks and groans. You start to wonder whether, over time, the doors might fall off altogether.
 
 <b>Higuchi:</b> When you slam the door shut on some pillarless hardtops, the whole body seems to wobble.
 
@@ -139,7 +139,7 @@ As for the unusually shaped headlamps, that design actually dates back to the de
 
 <b>Uchiyamada:</b> The headlamps and this grille are interchangeable as a set. That said, if you were to install them, you’d probably need to submit a modification notice. (laughs)
 
-<b>Kondo:</b> Speaking of what you mentioned earlier, the disc wheels strike me as an excellent example of how mechanical engineering and design have been very successfully harmonized. I really admire that as an example of bringing together engineering and design.
+<b>Kondo:</b> Speaking of what you mentioned earlier, the wheel discs strike me as an excellent example of how mechanical engineering and styling have been very successfully harmonized. I really admire that as an example of bringing together engineering and design.
 
 <b>Uchiyamada:</b> For those wheels, the idea was: “Make it look exactly as the design intends, and still give it fatigue strength.” That meant we had a lot of trouble keeping the strength without losing the shape. The other issue was the color. The design goal was to give it a magnesium-like look, but if we used actual magnesium, we wouldn't make any money on the car. (laughs) So we struggled quite a bit to create a magnesium-like color and texture. In reality, it’s just ordinary steel.
 
@@ -157,7 +157,7 @@ Overtaking acceleration was as follows: starting in third gear from 30km/h, the 
 
 The figures themselves are fairly good, but by contrast, in terms of the feeling you get while driving, the 4.9 second 0-50m run and 18.7 second 0-400m run don’t give the sense of sudden acceleration you get from a GT or a sporty car. Once the speed builds up, though, the car pulls strongly, and there’s a kind of underlying strength. I think it makes highway driving very comfortable.
 
-The vehicle weighs around 1.3 tons, so considering that it’s pulling a fairly large body, I didn’t expect such good numbers. In reality, you don’t really feel the true speed that much; the performance is better represented by the numbers.
+The vehicle weighs around 1.3 tons, so considering that it’s pulling a fairly large body, I didn’t expect such good numbers. In reality, there isn't that much of a sense of speed; the performance is better represented by the numbers.
 
 <b>Magazine:</b> We understand one of the aims was to make the power performance fairly strong.
 
@@ -165,9 +165,9 @@ The vehicle weighs around 1.3 tons, so considering that it’s pulling a fairly 
 
 <b><u>Attracting Younger Buyers As Well</b></u>
 
-<b>Magazine:</b> Mr. Narie, how did it feel to drive?
+<b>Magazine:</b> Mr. Narue, how did it feel to drive?
 
-<b>Narie:</b> It's genuinely exciting that a luxury personal car like this has appeared. The look alone is attractive, and young people naturally get drawn to it too. What I want to say is that the SL should perhaps be made a bit calmer.
+<b>Narue:</b> It's genuinely exciting that a luxury personal car like this has appeared. The look alone is attractive, and young people naturally get drawn to it too. What I want to say is that the SL should perhaps be made a bit calmer.
 
 Not everything needs to be sporty; using the standard Crown steering wheel and other fittings would also be fine. I think it would be better if there were a version that was more relaxed and comfortable to ride in. At first, I thought that because it has the “S” engine it would be very "hot" and aggressive, but it was actually very easy to drive and I liked it a lot.
 
@@ -199,7 +199,7 @@ I think the interior noise is very good, sitting close to the lowest line on the
 
 <b>Kumabe (Kazuo):</b> My impression was mainly of the ride comfort, and there are a lot of good things to say in that regard. Also, stylistically, aiming for sportiness while still remaining fundamentally a sedan—one could say it’s a successful approach to a new sedan type.
 
-<b>Miyamoto:</b> This car weighs about 1.3 tons, and you can really feel how composed it is when you drive it. Cars with this kind of frame are rare these days, but I think a car like this should prove very comfortable in long-distance driving. Also, as was mentioned earlier, the rear overhang is quite short, so even someone older like me could use it in town on a daily basis without issue. It could be driven by a chauffeur or by one's self, and as Mr. Narie said, I think it would also appeal to younger people.
+<b>Miyamoto:</b> This car weighs about 1.3 tons, and you can really feel how composed it is when you drive it. Cars with this kind of frame are rare these days, but I think a car like this should prove very comfortable in long-distance driving. Also, as was mentioned earlier, the rear overhang is quite short, so even someone older like me could use it in town on a daily basis without issue. It could be driven by a chauffeur or by one's self, and as Mr. Narue said, I think it would also appeal to younger people.
 
 Also, the engine is a six-cylinder, and it has a real sense of torque--you might say that it's very tenacious--and it’s quiet as well. Hardtops are in fashion now, and I have the feeling this one will sell fairly well.
 

@@ -356,6 +356,9 @@
     <loc>http://localhost:1313/toyota/carina/cg-rt-toyota-carina-1600gt-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mazda/capella/mf-rt-mazda-capella-rotary-coupe-gs-ii/</loc>
+    <lastmod>2026-06-05T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/subaru/leone/as-rt-subaru-leone-coupe-1400gsr-1971/</loc>
     <lastmod>2026-05-17T04:50:49-07:00</lastmod>
   </url><url>
@@ -488,13 +491,19 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mazda/capella/</loc>
+    <lastmod>2026-06-05T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mazda/</loc>
+    <lastmod>2026-06-05T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-05T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/laurel/</loc>
     <lastmod>2026-06-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/</loc>
-    <lastmod>2026-06-04T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-06-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/subaru/1000/</loc>
@@ -516,9 +525,6 @@
     <lastmod>2026-05-27T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/luce-rotary-coupe/</loc>
-    <lastmod>2026-05-23T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mazda/</loc>
     <lastmod>2026-05-23T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/corona-mark-ii/</loc>
@@ -622,9 +628,6 @@
   </url><url>
     <loc>http://localhost:1313/subaru/360/cg-ri-subaru-360-young-ss-1969/</loc>
     <lastmod>2025-11-16T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mazda/capella/</loc>
-    <lastmod>2025-11-09T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/cosmo-sport/</loc>
     <lastmod>2025-11-08T04:50:49-07:00</lastmod>
