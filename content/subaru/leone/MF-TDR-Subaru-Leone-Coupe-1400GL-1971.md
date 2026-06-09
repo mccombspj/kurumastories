@@ -76,7 +76,7 @@ As things stand, the Subaru ff-1 1300G has been selling at a rate of around 2,00
 
 Yet the Leone is not such a variation model. If the usual approach is to take a sedan as a base and create a coupe or hardtop by modifying portions of the body, then the Leone clearly departs from that pattern, with a body that is entirely distinct from the sedan.
 
-Rather than maximizing commonality with the sedan and keeping changes to a minimum, it almost gives the impression that the intention was to reduce shared components as much as possible. This led me to wonder whether, perhaps, the Leone Coupe itself might serve as the true basis—and that Fuji Heavy Industries could be planning to develop a more practical sedan from it in the future.
+Rather than maximizing commonality with the sedan and keeping changes to a minimum, it almost gives the impression that the intention was to reduce shared components as much as possible. This led me to wonder whether, perhaps, the Leone Coupe itself might serve as the true base version--and that Fuji Heavy Industries could be planning to develop a more practical sedan from it in the future.
 
 One could, for instance, take the two-door body, extend it into a four-door, lengthen the roof, and treat the rear in the manner of something like the Renault 16. In that way, a Leone sedan could emerge.
 
@@ -90,7 +90,7 @@ Its proportions are somewhat in the long-nose, short-tail mold. There is, in som
 
 In fact, although its wheelbase is longer than that of the Honda, visually it appears longer still. I find it difficult to shake the aforementioned line of reasoning from my mind; even in terms of visual balance, one senses that a sedan body might suit it better.
 
-One of the principal advantages of a front-wheel-drive car in the small-car class is the ability to secure a spacious interior. Because the entire powertrain can be accommodated ahead of the cabin, the remaining space can be laid out with relatively few constraints. There is no need for a propeller shaft tunnel in the floor, so the rear footwell can be made flat, giving a genuinely roomy impression--and in practice, seating three across is not especially difficult. With no differential at the rear, the luggage compartment can also be made larger and more usable.
+One of the principal advantages of a front-wheel-drive car in the small-car class is the ability to secure a spacious interior. Because the entire powertrain can be accommodated ahead of the cabin, the remaining space can be laid out with relatively few constraints. There is no need for a propeller shaft tunnel in the floor, so the rear footwell can be made flat, giving a genuinely roomy impression, and seating three across is not especially difficult in practice. With no differential at the rear, the luggage compartment can also be made larger and more usable.
 
 Unfortunately, in the case of the Leone Coupe, these advantages of the FF layout have not been fully realized. In fact, it is almost as though they have been deliberately set aside.
 
@@ -98,15 +98,15 @@ The front seats are satisfactory enough, but the rear is cramped. While there is
 
 While the front seating is generally well judged, the front passenger is treated less favorably than the driver.
 
-The wraparound instrument panel, finished in a rosewood-style trim, together with the projecting padded section, is not without merit. However, on the passenger's side the safety padding appears insufficient, and there is no assist grip provided.
+The wraparound instrument panel, finished in a rosewood-style trim, together with the projecting padded section, is not without merit. However, on the passenger's side the safety padding appears insufficient, and no assist grip is provided.
 
-One distinctive feature is the four-spoke steering wheel. Similar designs have been recently seen on cars from Porsche, Mercedes-Benz, and, if memory serves, Peugeot. It seems this is becoming a trend among European sporting cars.
+One distinctive feature is the four-spoke steering wheel. Similar designs have been recently seen on cars from Porsche, Mercedes-Benz, and, if memory serves, Peugeot. It seems this is becoming a trend among sporting European cars.
 
 The advantage of this wheel layout lies in the wide range of possible hand positions. One can grip it at the conventional “quarter-to-three” position between the spokes, rest the thumbs on the upper spoke in a “ten-to-two” style, or even hold it lower with the thumbs on the bottom spoke in an “eight-twenty” position. Compared with two- or three-spoke designs, it is genuinely easier to find a comfortable grip. It also imparts something of the feeling of sitting in an aircraft cockpit, which is rather appealing.
 
 The seats are high-back types with integrated headrests. It is somewhat unusual that there is a gap around the neck and shoulder area. The practical benefit of this is not entirely clear, though it may appeal to those concerned about disturbing their hairstyle. In terms of comfort, they are neither too soft nor too firm, and their shape is well judged. Overall, they can be considered above average.
 
-The multi-function lever mounted to the right of the steering column combines the flasher, headlight flashing, dimmer, wiper, and washer into a single control. Once one becomes accustomed to its operation, it proves convenient. One point that stood out is the headlight beam indicator: it does not light up for high beams, but instead for low beams. This appears to be consistent with Subaru’s 1300 series, but it is not the usual arrangement.
+The multi-function lever mounted to the right of the steering column combines the flasher, dimmer, wiper, and washer into a single control. Once one becomes accustomed to its operation, it proves convenient. One point that stood out is the headlight beam indicator: it does not light up for high beams, but instead for low beams. This appears to be consistent with Subaru’s 1300 series, but it is not the usual arrangement.
 
 The tachometer is positioned directly ahead of the driver, with the speedometer to the left. This, too, reflects a layout intended for sporting driving, though one might question whether it is appropriate for a model such as the GL. In fact, the opposite arrangement would likely be preferable. Depending on the driving position, the steering wheel can obscure the speedometer, making it difficult to read the crucial 40, 60, and 80km/h markings. With the tachometer, by contrast, the corresponding range--around 2000-3500rpm--is less critical, so reduced visibility is less of an issue.
 
@@ -120,9 +120,9 @@ The clutch is light. In this class, a clutch usually requires around 10-12kg of 
 
 Pedal placement is also good, with none of the leftward offset often seen in FF cars; they are arranged straight ahead. Apart from the accelerator’s very short travel, operation is easy.
 
-It is regrettable that the advantages of the FF layout are somewhat diluted by the center console. It was likely added to accommodate stereo equipment and to avoid the ungainly appearance of a floor-mounted shift lever, but it not only reduces the sense of foot space, it even makes things feel somewhat cramped.
+It is regrettable that the advantages of the FF layout are somewhat diluted by the center console. It was likely added to accommodate stereo equipment and to avoid the ungainly appearance of a floor-mounted shift lever, but more than reducing the sense of foot space, it actually makes things feel somewhat cramped.
 
-The shift lever operates with long throws. In this respect it is no different from the ff-1. The wide movement, both in the lateral select and front-aft shift planes, is not particularly desirable. One wonders whether there was no attempt to bring the lever closer to the driver and shorten its length.
+The shift lever operates with long throws. In this respect it is no different from the ff-1. The wide movement, both in the side-to-side (select) and front-to-back (shift) planes, is not ideal. One wonders whether there was no attempt to bring the lever closer to the driver and shorten its length.
 
 Subaru’s much-touted dual radiator system is not present here, but I did not feel that the noise level had increased. Vibration is low, and cabin noise is about average for a Japanese car in this class; overall, it does not feel particularly noisy.
 
@@ -132,7 +132,7 @@ Compared with the Honda 1300 Coupe 9, the Leone is superior in initial accelerat
 
 The test route took us onto the Tomei Expressway to the Okazaki Interchange, then over National Route 1, the Meishi National Highway, and Route 23 to Suzuka Circuit. Total distance from Shinjuku was 402km. Fuel consumption came out to 11.4km/l. From my notes, this is about 0.3km/l better than when I drove a 1100cc ff-1 sports sedan to Suzuka two years earlier. That earlier run was on premium gasoline, so in economic terms the Leone GL is clearly more efficient. Of course, direct comparisons are always risky, but this time there was almost no traffic and the drive was generally pleasant. The driving position also suited me well, so I did not feel fatigued.
 
-At Suzuka Circuit, I tried driving the racing course in a sporty manner twice--once around 6:00pm and again the next morning before 8:00am. This included the 6km long course and the east–west short course, for a total of about 75km. The following morning, thanks to overnight rain, I was able--fortunately (?)--to test high-speed driving on a slippery surface.
+At Suzuka Circuit, I tried driving the racing course in a sporty manner twice--once around 6:00pm and again the next morning before 8:00am. This included the 6km long course and the east–west short course, for a total of about 75km. The following morning, thanks to overnight rain, I was fortunately (?) also able to test high-speed driving on a slippery surface.
 
 To begin with, the handling is characterized by mild understeer and an easy-to-control nature. It did not particularly feel like a front-wheel-drive car.
 
