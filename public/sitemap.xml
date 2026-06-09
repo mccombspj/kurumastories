@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/mitsubishi/colt-galant-fto/mf-rt-mitsubishi-colt-galant-fto-giii-1972/</loc>
+    <lastmod>2026-06-09T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/cherry/mf-tdr-nissan-cherry-coupe-1200-x-1-1971/</loc>
     <lastmod>2026-05-09T04:50:49-07:00</lastmod>
   </url><url>
@@ -494,13 +497,19 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mitsubishi/colt-galant-fto/</loc>
+    <lastmod>2026-06-09T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mitsubishi/</loc>
+    <lastmod>2026-06-09T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-09T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/fairlady/</loc>
     <lastmod>2026-06-07T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/</loc>
-    <lastmod>2026-06-07T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-06-07T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/capella/</loc>
@@ -542,9 +551,6 @@
     <loc>http://localhost:1313/mitsubishi/lancer/</loc>
     <lastmod>2026-05-20T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mitsubishi/</loc>
-    <lastmod>2026-05-20T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/violet/</loc>
     <lastmod>2026-05-20T04:50:49-07:00</lastmod>
   </url><url>
@@ -568,9 +574,6 @@
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mitsubishi/colt-galant-fto/</loc>
-    <lastmod>2026-05-02T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/corolla/</loc>
     <lastmod>2026-05-02T04:50:49-07:00</lastmod>
