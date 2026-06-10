@@ -51,13 +51,13 @@ Of course, the idea of fitting a larger engine into a lighter body is nothing ne
 
 At this point, it is worth taking a closer look at what these latest hot versions really are.
 
-The engines used are generally relatively lightweight, compact four-cylinder 1.6-liter units, spanning OHV, SOHC, and DOHC layouts. In any case, these are engines originally developed for other model ranges--essentially "borrowed" units. And they are, without exception, mass-produced engines in a fairly standard state of tune. They are not highly stressed racing-derived units producing extreme outputs. Even in town driving that relies heavily on low-to-mid range torque, they remain perfectly tractable.
+The engines used are generally relatively lightweight, compact four-cylinder 1.6-liter units, spanning OHV, SOHC, and DOHC layouts. In each case, these are engines originally developed for other model ranges--essentially "borrowed" units. And they are, without exception, mass-produced engines in a fairly standard state of tune. They are not highly stressed racing-derived units producing extreme outputs. Even in town driving that relies heavily on low-to-mid range torque, they remain perfectly tractable.
 
-Carburation systems are equally conventional. Aside from DOHC engines equipped with twin-choke Solex carburetors, most use two-stage downdraft twin carburetors, while simpler versions make do with a single carburetor. Basically, there is little here to distinguish them from ordinary family saloons.
+Carburation systems are equally conventional. Aside from DOHC engines equipped with twin-choke Solex carburetors, most use two-stage downdraft twin carburetors, while simpler versions make do with a single carburetor. Basically, there is little here to distinguish them from ordinary family sedans.
 
 The bodies, while described as “lightweight,” are simply light in the sense that they belong to the 1.2-1.4 liter class. They are not specially lightened. However, suspension settings are made considerably firmer to match the stronger output, improving overall stability and control.
 
-In terms of appearance and interior, some models deliberately omit radios and other accessories in order to create a racing-special atmosphere. Interiors are often finished in all-black. Externally, the most notable feature is the use of extremely wide 70-profile radial tires, often combined with FRP overfenders fitted purely to emphasise their presence.
+In terms of appearance and interior, some models deliberately omit radios and other accessories in order to create a racing-special atmosphere. Interiors are often finished in all-black. Externally, the most notable feature is the use of extremely wide 70-profile radial tires, often combined with FRP overfenders fitted purely to emphasize their visual presence.
 
 Looking at these elements in isolation, the latest hot models are in fact rather ordinary. They do little more than change the conventional pairing of engine and chassis. The wide tires, overfenders, and firm suspension are simply part of the "seasoning" that underlines their “hot model” identity.
 
@@ -177,7 +177,7 @@ Compared with the Levin, the Levin J exhibits a milder degree of understeer. Thi
 
 The brakes on the Levin J are equipped with a master back servo, and the clutch (compared with the Levin) requires less effort. This lighter, more responsive feeling extends throughout the entire car, and in terms of the matching of power and chassis, there are aspects in which it may even feel superior to the Levin.
 
-In any case, for drivers of our level, there is no doubt that on the circuit the Levin J can be driven with far greater ease than the Levin.
+In any case, for drivers of our level, there is no doubt that on the circuit the Levin J can be driven far more easily than the Levin.
 
 <b><u>The Maverick of the Galant Line: FTO 1600GSR</b></u>
 

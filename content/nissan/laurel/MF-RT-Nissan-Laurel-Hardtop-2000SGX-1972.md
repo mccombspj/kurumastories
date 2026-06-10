@@ -144,11 +144,11 @@ As a result, we’ve ended up hearing both kinds of opinions. We take that as co
 
 <b>Tanaka:</b> We also believe this is the first car to feature evaporative emission countermeasures.
 
-<b>Yamaguchi:</b> Is the camshaft the same as the Skyline GTX?
+<b>Yamaguchi:</b> Is the camshaft the same as the Skyline GT-X?
 
-<b>Omura:</b> The camshaft is different. The single-carb version uses the same cam as the Cedric, while the twin-carb version uses the same cam as the Cedric L26. It is not the same as the Skyline GTX.
+<b>Omura:</b> The camshaft is different. The single-carb version uses the same cam as the Cedric, while the twin-carb version uses the same cam as the Cedric L26. It is not the same as the Skyline GT-X.
 
-<b>Yamaguchi:</b> I can’t help feeling the engine response is a bit dull.
+<b>Yamaguchi:</b> I can’t help feeling the engine response is a bit sluggish.
 
 <b>Hirao:</b> In other words, the response isn’t very sharp?
 
@@ -204,7 +204,7 @@ Compared with the previous Laurel, the overall gear ratios are slightly shorter.
 
 <b>Hoshijima:</b> The 5-speed in this car isn’t really what you'd call "cool." There’s no real reason to use fifth, and no real reason to drop back to fourth either. (laughs)
 
-<b>Omura:</b> Even among 5-speed gearboxes, there are different types--some where top gear is 1:1 and it’s a close-ratio setup, and others like this where top gear is an overdrive. The character changes quite a bit.
+<b>Omura:</b> Even among 5-speed gearboxes, there are different types--some where top gear is 1:1 and it’s a close-ratio setup, and others like this where top gear is an overdrive. The character varies quite a bit.
 
 <b>Narue:</b> This one is clearly meant for quiet overdrive cruising--but in practice you still get some gear noise…
 
@@ -246,17 +246,17 @@ Exterior noise was recorded in second gear at 50km/h, measuring 70 phons at a st
 
 <b>Goto:</b> In the past, quite a bit of noise used to come in through the center bearing mount, but these days that’s been improved. In fact, at high speed it works better.
 
-<b>Watari:</b> On hardtops, as they get older, they almost always start to creak at the point where the door glass meets. This car feels like it has that potential as well.
+<b>Watari:</b> With hardtops, as they get older, they almost always start to creak at the point where the door glass meets. This car feels like it has that potential as well.
 
 The ride quality itself is quite good, but depending on what the target is, 1.4Hz feels like a bit of an in-between tuning. If it’s meant as a "driver’s car," it should be higher; if it’s for middle-aged buyers, it might be better to lower it. As it is, 1.4Hz feels like a compromise.
 
 <b>Magazine:</b> Why was a rigid rear axle chosen for the sedan?
 
-<b>Goto:</b> The car has been made larger, with a longer wheelbase and wider track. At the same time, road conditions are improving. So while independent suspension is better in terms of handling stability—especially on rough roads—this is not a very sporty sedan. In that case, a rigid axle is acceptable.
+<b>Goto:</b> The car has been made larger, with a longer wheelbase and wider track. At the same time, road conditions are improving. So while independent suspension is better in terms of handling stability—especially on rough roads—this is not a very sporty sedan. In such cases, a rigid axle is sufficient.
 
 <b>Magazine:</b> There’s a general impression among users that a rigid axle means "cheaper."
 
-<b>Watari:</b> It is cheaper, of course, but I don't think a rigid rear is necessarily a bad thing. It does have disadvantages on rough roads, but those kinds of roads are becoming less common. For sedans, this layout is actually quite reasonable, and it reduces the burden on the engineers.
+<b>Watari:</b> It is cheaper, of course, but I don't think a rigid rear is necessarily a bad thing. It does have disadvantages on rough roads, but those kinds of roads are becoming less common. For sedans, this layout is actually quite rational, and it reduces the burden on the engineers.
 
 <b>Magazine:</b> Earlier there was a comment that in overdrive the car doesn’t become very quiet, and there’s some gear noise...
 

@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/mitsubishi/colt-galant-fto/mf-rt-mitsubishi-colt-galant-fto-giii-1972/</loc>
-    <lastmod>2026-06-09T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/cherry/mf-tdr-nissan-cherry-coupe-1200-x-1-1971/</loc>
     <lastmod>2026-05-09T04:50:49-07:00</lastmod>
   </url><url>
@@ -166,6 +163,9 @@
   </url><url>
     <loc>http://localhost:1313/honda/honda-1300/mf-rt-honda-1300-77-custom-99s-1969/</loc>
     <lastmod>2026-02-09T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mitsubishi/colt-galant-fto/mf-rt-mitsubishi-colt-galant-fto-giii-1972/</loc>
+    <lastmod>2026-06-09T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/honda-1300/mm-tdr-honda-1300-99s-1969/</loc>
     <lastmod>2026-05-29T04:50:49-07:00</lastmod>
