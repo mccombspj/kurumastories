@@ -35,81 +35,237 @@ draft = false
 
 
 
-This month, we compared two 1400cc sports cars, the Toyota Sprinter SR and the Mitsubishi Galant FTO GIII, under a variety of conditions, including performance testing at Yatabe. We would like to begin by briefly explaining why we chose these two models from the many cars in the same class. First, the Sprinter SR boasts the best specs in its class, making it a natural choice for pure motoring enthusiasts like us (and we think many C/G readers share our priorities), so we unanimously agreed that it should be included. Second, the Galant FTO GIII was just recently released on the market, and since we drove the GII last month and were impressed with its handling, we were particularly interested in how the GIII, which has 9ps more power, would stack up, so we included it as well. When we think of Sprinters, the Nissan Sunny GX also immediately comes to mind. In our opinion, however, the Sunny Coupe 1200GX is the best of the Sunny model range, and the Excellent, with its SOHC 1400cc engine, is a downgrade in every respect (except for having a brake servo), so we deliberately left it out of this comparison test. To avoid any misunderstanding, we should add that the C/G test is first and foremost a test of driving performance, and places particular emphasis on the balance of maneuverability and braking power with power performance, especially when it comes to cars that are marketed as being sporty. 
+This month we conducted a comparison test between two 1400cc sporting coupes--the Sprinter SR and the Galant FTO GIII--under a wide variety of conditions, including testing at Yatabe. Before examining the results, however, it is worth explaining why these two were selected from among the many cars in the class.
 
-The Sprinter SR is currently the hottest of the Corolla series, having appeared in April 1971. It is only available as a two-door coupe; no four-door sedan version is offered, as in the SL, which uses the same engine. The crossflow OHV 1407cc engine has a compression ratio of 9.6 (or 8.5 on regular gasoline models) and twin carburetors, producing 95ps/6000rpm (91ps/6000rpm in the regular gas version) and 12.3kgm/4000rpm (12.0kgm/4000rpm). A key feature is that it comes standard with a 5-speed gearbox. Cars of this size and character with 5-speed gearboxes are very rare, even internationally, with the only other example we can think of being the Alfa Romeo 1300GT Junior. The suspension, with its ordinary MacPherson strut front and leaf-sprung rigid axle rear layout, is even stiffer than the SL's, and the stabilizer is also thicker at 19mm in diameter. The performance-focused SR comes with radial tires as standard equipment, but does not even have a radio, which is practically a given in domestic cars. It is priced slightly lower than the SL, at 644,000 yen.
+The Sprinter SR was an obvious choice. On paper it stands at the very top of its category, and for enthusiasts such as ourselves--as, we suspect, many Car Graphic readers are as well--who enjoy driving for its own sake, it represents an ideal specification.
 
-While the basic design of the Sprinter SR dates back to the 1966 Corolla 1100 sedan, the Galant FTO, which was announced in October 1971, is much newer under the skin. With the exception of the engine, the powertrain and suspension are almost entirely carried over from the Galant 14/16L and GTO. Therefore, the FTO, which shares the same track width as those models, but has a 120mm shorter wheelbase and a body that is 150kg lighter, promises excellent handling from the start due to its wide-track proportions. The OHV 1378cc engine, a short-pushrod unit exclusive to the FTO, is basically an enlarged version of the old 11F/Colt 1200 series engine. In the GIII, the sportiest of the FTOs, this engine has a compression ratio of 9.5 and two Stromberg-type carburetors, producing 95ps/6300rpm and 12.3kgm/4500rpm. Apart from this engine tuning and the addition of a brake servo, the GIII is virtually identical to the GII. The base price of the GIII is 660,000 yen, but if you add the "mandatory optional equipment" (a strange term that reminds us of our college days) that came with our test car, such as 155SR-13 radial tires and a rear window defogger, the price comes to 682,000 yen, which is significantly more expensive than the Sprinter SR.
+The Galant FTO GIII, meanwhile, has only just gone on sale. Having driven the GII the previous month, and having come away impressed by its handling, we were particularly interested to see how the GIII, with an additional 9ps, would behave by comparison.
 
-In terms of on-paper specs, these two cars could hardly be more similar. The engine output and torque figures are exactly the same, and vehicle weight is virtually identical, at 840kg for the SR and 835kg for the GIII, so the power-to-weight ratios are just fractions apart, at 8.84kg/ps and 8.78kg/ps, respectively. Both are fitted with 155SR-13 tires, and the final drive ratios are 4.30 for the SR and 4.22 for the GIII, so overall gearing is more or less the same. In fact, other than the GIII having a 4-speed gearbox, versus the SR's 5-speed, the biggest difference between them is the shape of the body.
+Mention the Sprinter and many readers will immediately think of the Sunny GX. In our view, however, the Sunny Coupe is at its best in 1200GX form. The Excellent model, fitted with the SOHC 1400 engine, is a step backward in virtually every respect--the only exception being the addition of servo-assisted brakes--and for that reason we deliberately excluded it from this comparison.
 
-<b><u>Power performance</b></u>
+To avoid any misunderstanding, it should be added that a Car Graphic road test is first and foremost an evaluation of a car’s ability to perform on the road. We place particular emphasis on the balance between performance, handling, and braking, and this is especially true of cars that make sporting character one of their main selling points.
 
-The Sprinter/Corolla's 1400cc engine, with its hemispherical combustion chambers and V-shaped valve arrangement, is well-known for its high-revving performance despite being an OHV. This is especially true for the 95ps SR model, which, with its twin-carburetor setup, can be fully utilized up to the redline of 6500rpm. However, it is neither quiet nor particularly smooth, and the noise level (mainly engine fan noise and exhaust resonance) increases dramatically above 3500rpm.  
+The Sprinter SR, introduced in April 1971, is the hottest version of the Corolla yet produced. It is available only as a two-door coupe; unlike the mechanically similar SL, there is no four-door version.
 
-The SR's greatest attraction is its 5-speed gearbox, whose gear ratios and final drive ratio are well matched to the engine's power characteristics. This engine generates strong, relatively flat torque throughout its practical rev range from 1500 to over 6000rpm, meaning that the top three gears of the 5-speed gearbox have significant overlap in their operating ranges. For example, overtaking acceleration from 60-100km/h, which is a common maneuver on the highway, can be accomplished in third, fourth, or fifth gear depending on the need and the driver's mood. 60-100km/h in fifth gear takes 15.2 seconds, while in third gear it is a quick 7.2 seconds. The ratios of this 5-speed gearbox are quite Alfa-like, and the 0.861 overdrive fifth is not only a high-speed cruising gear, but can also be used frequently on slow Japanese roads. If you feel like it, you can use it from about 60km/h (about 2000rpm), and if you step on the throttle at 100km/h, it will accelerate decisively.
+Its crossflow OHV 1407cc engine, with twin carburetors and a compression ratio of 9.6 (an 8.5-compression version is also available), develops 95ps/6000rpm and 12.3kgm/4000rpm. The lower-compression version produces 91ps/6000rpm and 12.0kgm/4000rpm.
 
-The shift pattern is the same standard international arrangement used by Alfa (Porsche finally changed to this pattern in 1972), with fifth gear located up and to the right. The gear lever is spring-loaded towards the third-fourth plane, so to shift down from fifth to fourth, you just pull it back gently and it goes into the fourth gear slot, making for quick and confident downshifts. 
+Its most notable feature is the standard 5-speed gearbox. In a car of this size and character, a 5-speed transmission remains extremely rare even by international standards; the Alfa Romeo 1300 GT Junior is one of the few comparable examples that comes to mind.
 
-Acceleration is incredibly fast for a 1.4-liter engine, and the clutch and throttle are smooth, allowing for quick starts with very little wheelspin. The 0-400m time was 18.2 seconds. This was achieved by revving it up to exactly the 6500rpm redline; there is no point in pushing it any further because the torque drops off rapidly beyond that.
+The suspension is conventional--MacPherson struts at the front and semi-elliptic leaf springs at the rear--but is tuned even more firmly than that of the SL, while the anti-roll bar has been increased to a substantial 19mm in diameter. The SR is a car devoted entirely to the business of driving. It comes standard with radial tires, yet dispenses with even such equipment as a radio, which is virtually expected on a Japanese car. Price is 644,000 yen, making it slightly less expensive than the SL.
 
-In the speed tests at Yatabe, the SR recorded a top speed of 163km/h in fifth gear (at 5600rpm), while the maximum in direct fourth was 151km/h (6450rpm). The speedometer was unusually accurate at 100km/h, and was a bit pessimistic at top speed, reading 159km/h. At the legal cruising speed on the highway, 100km/h, the engine is turning only 3500rpm in fifth gear, so the interior is relatively quiet. However, once you exceed 120km/h, the wind noise around the window frames suddenly becomes quite loud. Speaking of noise, the gearbox is also noisy, especially in second gear. Also, when you shift from fourth gear to overdrive fifth, the engine noise subsides, but a faint gear whine begins.
+Whereas the Sprinter SR’s basic design can be traced back to the original 1966 Corolla 1100 sedan, the Galant FTO, introduced in October 1971, is a much newer design. In practice, however, nearly all of its running gear and powertrain components apart from the engine are shared with the Galant 14L, 16L, and GTO.
 
-During the top speed test at Yatabe, the SR suffered a small mishap. The car suddenly lost power and our speed dropped, and upon investigation, it was found that one of the spark plugs had melted, causing a hole in the number 3 cylinder. From the beginning of the test, the car's engine had been knocking when accelerating in high gears, even at around 3000rpm, and it exhibited a dieseling tendency where the engine would not stop even after the ignition was turned off. These were clear signs of trouble, and when we re-tested the car a few days later, both of these issues had been resolved. It is safe to assume that this was an accidental failure caused by insufficient maintenance.
+As a result, the FTO inherits the same track dimensions as those larger models, while combining them with a wheelbase 120mm shorter and a body approximately 150kg lighter. From the outset, therefore, it possessed considerable potential for excellent handling through its wide-track layout.
 
-As mentioned in the introduction, we tested the Galant FTO GII with a single Stromberg carburetor and 86ps in last month's issue, and were very impressed by its quick-revving engine and excellent handling. However, the 95ps GIII we tested this time left a less satisfying impression. It certainly revs up smoothly to its 6600rpm redline, but that was also true of the GII. The biggest detraction that dampened our enthusiasm was the noise. The engine fan became very noisy from around 5000rpm and above, and the differential was even noisier. It was especially bad under hard throttle, and as a result, the noise during acceleration in first and second gear was terrible, giving the impression that the car is much lower-geared than it actually is. 
+The 1378cc short-pushrod OHV engine is unique to the FTO, though fundamentally it can be considered an enlarged version of the older 11F/Colt 1200 unit. In the sporting GIII model, the most powerful version in the range, a compression ratio of 9.5 and twin Stromberg carburetors raise output to 95ps/6300rpm and 12.3kgm/4500rpm.
 
-This differential seems to be the Achilles' heel of the Galant series. Every Galant we have driven has had severe differential noise, and we had to replace the differential twice in the 46,000km (mostly in Tokyo) that we drove our long-term C/G 1300cc AI Custom sedan. On this point, we would like to take the opportunity to request that the manufacturer take immediate action.
+Apart from this engine specification and the addition of servo-assisted brakes, the GIII is essentially identical to the GII. Base price is 660,000 yen, but once one adds the "mandatory optional equipment"--a curious term that reminds us of our university days--the figure rises appreciably. Our test car included 155SR-13 radial tires and a heated rear window, bringing the total to 682,000 yen, considerably more expensive than the Sprinter SR.
 
-The FTO GII's 86ps was perfectly adequate for practical use, but it felt a bit underpowered for sporty driving on mountain roads. By comparison, the GIII is certainly more powerful, particularly in the stronger torque it provides between 3000 to 5000rpm, which is the most important range for practical use. This was most noticeable when climbing hills. On our usual test hill, the GII was almost always straining at the limit of 6600rpm in second gear, but the GIII was able to easily reach 80% of the same speed at 4500rpm in third. The strong mid-range torque was also demonstrated after the Sprinter's breakdown at Yatabe mentioned above, when the GIII towed it back to Tokyo. Even in this situation, it was easy to drive at a steady 40 to 50km/h (2200-2800rpm), and the water temperature gauge did not change at all from normal.
+Comparing the two cars on paper reveals remarkably little difference between them. Engine output and torque are identical, while curb weights are likewise almost the same: 840kg for the SR and 835kg for the GIII. Power-to-weight ratios are therefore virtually equal at 8.84kg/ps and 8.78kg/ps respectively.
 
-The GIII's top speed was 154km/h (at 6050rpm), which was a bit disappointing considering that GII also achieved a recorded speed of 150km/h (at 6250rpm, using 6.15-13 tires, slightly larger than radials).
+Both cars run on 155SR-13 tires, and with final-drive ratios of 4.3 for the SR and 4.222 for the GIII, their overall gearing may also be regarded as effectively identical.
 
-The FTO's key strength is its ease of driving, mainly due to its flexible engine and its light, easy-to-use clutch and gearbox. The pedals are ideally positioned, making heel-and-toeing a natural proposition. Shifting is light and precise, allowing for quick and satisfying operation. However, its standing-start acceleration times are spoiled considerably by poor rear axle location. While normal starts are no problem, abrupt, full-throttle starts cause the axle to tramp wildly, making clean getaways difficult. This is true of all Galants except the GTO MR, which is equipped with a torque rod. Because of this issue, the 0-400m time was 18.5 seconds, 0.3 seconds slower than the SR.
+The only significant differences, then, are the Sprinter’s 5-speed gearbox versus the FTO’s 4-speed unit, and the shape of their bodies.
 
-The gear ratios of the FTO's 4-speed gearbox are a handicap when it comes to fast driving. The gap between third and top gear is particularly large, and when driving on the highway at 100km/h or more, we weren't often tempted to downshift into third to overtake. Even though the engine is equipped with twin carburetors, its top-end power is not as strong as the low and mid-range power, so you won't want to push it to high engine speeds. Given this characteristic, the current gear ratio seems a little too large. A smaller reduction ratio and lower engine speeds would improve not only the maximum speed, but also acceleration times. As it stands, the car is relatively under-geared.
+What, then, did the tests reveal?
 
-Comparing the power performance of the two cars, the winner is clear. In terms of both absolute speed and acceleration, the SR is far superior. If we assume that the power is truly the same (both the output and the torque specs are identical, but subjectively the SR's 95ps feels much more powerful), then the difference in top speed comes down to the advantage of the overdrive fifth gear. In any case, the fifth gear also reduces fuel consumption, noise level, and vibration during high-speed cruising, so it is preferable in practical terms as well. At least as far as the test cars are concerned, the SR has a wider effective engine rotation range, while the GIII struggles at the top end. Therefore, when the FTO is driven at 100 to 120km/h (which is now a common cruising speed on the highway, regardless of engine size), it effectively has only one forward gear, fourth, while the SR driver can choose between fourth or fifth gear at will, making acceleration and deceleration faster and with greater control. 
+<b><u>Performance</b></u>
 
-In terms of standing-start acceleration, the 0-100km/h times for the SR and GIII are 13.2 and 13.9 seconds, which isn't that great a difference, but the difference grows to 1.8 seconds in the 0-120km/h times (where both cars are at the limit of third gear), and there's a huge gap of 8.1 seconds between the cars from 0-140km/h, where the SR's time is 30.5 seconds and the GIII takes 38.6 seconds. Since both cars are in fourth gear in the 120-140km/h range in this test,  the results are purely a reflection of the difference in driving force each car offers at high engine speeds around 4800-5600rpm. 
+The Corolla engine, with its hemispherical combustion chambers and V-type valve arrangement, has long enjoyed a reputation for revving freely despite its OHV design. The 95ps unit fitted to the Sprinter SR is no exception. Equipped with twin carburetors, it will happily pull all the way to the 6500rpm redline.
 
-The overtaking acceleration data clearly shows that the SR has stronger torque across the entire rev range. It bears repeating that the tire diameter is the same for both cars, and the final drive ratio is virtually the same, 4.30 for the SR and 4.22 for the GIII. Looking at top gear acceleration in 40km/h increments, the SR takes 10.6 seconds to go from 40 to 80km/h, while the GIII takes 12.3 seconds, a difference of 1.7 seconds. When accelerating from 60-100km/h, the gap grows to 2.1 seconds, from 80-120km/h, it becomes 3.4 seconds, and it continues to widen from there. This doesn't mean the SR's engine is a high-speed type; its torque just holds up better than the FTO's, even at low speeds, making it easier to use. This simply illustrates the difference in efficiency between the hemispherical combustion chamber and the wedge type.
+It is neither especially quiet nor particularly smooth, however. Beyond about 3500rpm, noise levels rise sharply, mainly from the cooling fan and exhaust-system resonance.
 
-<b><u>Fuel economy</b></u>
+The SR's greatest attraction is probably its 5-speed gearbox. Both the gear ratios and final-drive ratio are very well matched to the engine's characteristics. Since the engine produces strong, relatively flat torque throughout a useful operating range extending from roughly 1500rpm to well beyond 6000rpm, the upper three gears overlap substantially in their usable speed ranges.
 
-Both cars are equipped with twin two-barrel carburetors, and both have high compression ratios (9.6 for the SR, 9.5 for the GIII). Both require super-grade gasoline. We measured constant-speed fuel economy at 60km/h and 100km/h in top gear (both fourth and fifth gear, in the SR's case). In fourth gear, at 60km/h, the SR returned 14.1km/l and the GIII returned 14.6km/l, while at 100km/h the SR returned 11.4km/l and the GIII returned 11.6km/l with the FTO being slightly better in both cases. However, in overdrive fifth gear, the SR returned even better results of 17.1km/l and 12.5km/l, respectively. 
+Take, for example, the 60-100km/h passing acceleration frequently encountered on expressways. Depending on necessity or the driver's mood, the maneuver can be accomplished in third, fourth, or fifth gear. In fifth it requires 15.2 seconds; in third, only 7.2 seconds.
 
-Practical fuel economy was recorded on a round trip from Tokyo to Hakone. On the Tomei Expressway, we made frequent use of the SR's fifth gear, so we expected that it would probably outperform the FTO, but in the end, both vehicles averaged exactly 10.8km/l in a coincidental tie. The SR was undoubtedly better when cruising on the Tomei Expressway, but on the Hakone hill climb, we ended up unnecessarily shifting between fourth and fifth just for the fun of it, which probably cancelled out its highway advantage. Both have a gasoline tank capacity of 45 liters.
+The character of this 5-speed gearbox is very much Alfa-like. Fifth gear, with its 0.861 ratio (3.70 overall), is not merely a high-speed cruising gear. Even on Japan's relatively slow roads, opportunities to use it come frequently. If one wishes, it can be engaged from 60km/h (approximately 2000rpm), and even above 100km/h, a firm step on the throttle produces unmistakable acceleration.
 
-<b><u>Handling, ride comfort, and brakes</b></u>
+The shift pattern follows the now-standard international arrangement--adopted even by Porsche from 1972 onward--with fifth gear located to the upper right of third. Since the gear lever is spring-loaded toward the third/fourth-gear plane, downshifting from fifth to fourth requires only a light movement to the left followed by a pull rearward, allowing rapid shifts to be made with complete confidence.
 
-We drove the Sprinter SR with its standard 155SR-13 Bridgestone RD201 radial tires set to pressures of 2.0kg/2.0kg. The steering system is highly rigid, without the free play around the straight-ahead position that is a common problem with Toyota cars. The steering response is reasonably sharp and accurate. There is strong understeer in corners, but it is by no means excessive. When you lift your right foot in the middle of a corner, the car tucks quite strongly to the inside, a characteristic similar to front-wheel-drive cars (which tend to be quirky when pushed). The cornering grip of the RD201s is high, at least on dry pavement, and they rarely squeal. However, on surfaces less smooth than those on a circuit, the rear wheels have a tendency to hop, sometimes losing contact with the road momentarily and jumping sideways. Also, in tight corners, there is a lot of body roll despite the stiff springs, and the inside rear wheel tends to lift, resulting in severe wheelspin. The SR is at its best in a series of smooth, medium-speed corners at 80-100km/h. Roll is minimal in this kind of cornering, the transitions left and right are snappy and crisp, and the powerful third gear makes it extremely fast and fun to drive. 
+Acceleration is exceptionally brisk for a 1.4-liter car. Clutch take-up and throttle response are both smooth, making it easy to achieve quick starts accompanied by only a slight trace of wheelspin. The 0-400m time was 18.2 seconds. This figure was obtained by shifting at the 6500rpm redline; beyond that point torque falls away rapidly, and there is little to be gained by extending the engine further.
 
-Road noise is well muted, and the harshness of the radial tires is not noticeable even on rough surfaces. The ride is certainly firm, with constant pitching and bouncing, especially at low speeds, but there is no bottoming or floating even on large disturbances such as bridges. In short, the ride is absolutely ideal for those who prefer this type of car.
+During maximum-speed testing at Yatabe, the SR recorded 163km/h at 5600rpm. In direct fourth gear, maximum speed was 151km/h at 6450rpm.
 
-The unservoed disc/drum brakes require a lot of pedal pressure regardless of speed, but they are very effective. The feeling is similar to using brakes with hard pads that are fitted with a servo, but the servo is not working. In practical terms, the SR's brakes are really at the limit of what can be used without servo assistance. If it were our car, we would install one. There is remarkably little nose dive during sudden braking.
+The speedometer proved unusually accurate. At 100km/h the error was effectively zero, while at maximum speed it was actually pessimistic, indicating 159km/h. The legal expressway cruising speed of 100km/h corresponds to only 3500rpm in fifth gear, and the cabin remains comparatively quiet. Beyond 120km/h, however, wind noise around the window frames increases abruptly.
 
-The Galant FTO GIII's 155SR-13 Yokohama GT Special tires were also set to a pressure of 2.0kg/2.0kg, but to be honest, this suspension is better suited to a good quality bias-ply tire than a radial. This is because, first of all, the road noise isolation is not as good as it should be for a 1972 model, and the harshness of the radial tires is faithfully transmitted to the body. Last month, when we drove the 86ps GII equipped with Yokohama Y205 bias-ply tires, we thought the FTO was a very quiet car, but this time, with the car on radials, our impression changed completely. 
+Speaking of noise, the gearbox itself is not particularly quiet, with noise in second gear being especially noticeable. Furthermore, when one shifts from direct fourth into overdrive fifth, the reduction in engine noise is accompanied by a faint but distinct gear whine.
 
-In terms of handling, the GII with bias-ply tires also felt much better balanced overall and easier to handle. It is true that the GIII with radials has much sharper (and, at the same time, much heavier) steering response, and the maximum cornering speed is slightly faster. However, it is no exaggeration to say that the delicate balance between power and handling that existed in the GII is spoiled in the GIII with the power increase to 95ps and the switch to radial tires. We are curious to see what kind of handling the GIII would display if equipped with good bias-ply tires. Of course, we are talking about the car's balance in extreme situations, and in normal high-speed driving, the GIII's handling is perfectly fine. Understeer is moderate, and even if you back off the throttle in mid-corner, there is only a slight change in the car's cornering attitude. 
+A minor incident occurred during the Yatabe maximum-speed testing. Power suddenly fell away and the car began to lose speed. Investigation revealed that one spark plug had melted, burning a hole in the No. 3 piston.
 
-The FTO's ride is much stiffer with radial tires than with bias-plies (the suspension settings are the same as the GII), but the ride is still not as stiff as in the Sprinter SR. The ride is very different between the front and rear seats, with reactions to bumps being much more violent in the rear. 
+From the beginning of the test, the car had displayed a tendency to knock under acceleration from around 3000rpm in the higher gears, and it would also continue running briefly after the ignition was switched off. In retrospect, those were warning signs of the trouble to come.
 
-The servo-equipped disc/drum brakes work powerfully with very little pedal pressure, and they have good feel. In stark contrast to the Sprinter SR, we got the feeling they were using low-friction, "soft" pads designed for use without a servo, even though a servo is installed. We didn't have the chance to perform our usual 0-100-0 fade test this time, but the FTO's brakes felt as though they might fade if used harshly. The GII's unservoed brakes also felt light and powerful (though the master cylinder diameter is naturally different), so they probably use pads made of the same material. Note that the Sprinter uses single-cylinder calipers, while the FTO uses opposed-cylinder ones.
+When the car was retested several days later, both symptoms had disappeared completely. It is therefore reasonable to regard the failure as an isolated incident resulting from improper adjustment rather than any fundamental defect in the design.
 
-<b><u>Interior and equipment</b></u>
+Last month we tested the 86ps Galant FTO GII equipped with a single Stromberg carburetor and came away thoroughly impressed by both its free-revving engine and its excellent handling. Compared with that car, however, this 95ps GIII left a somewhat less favorable impression.
 
-Both cars' front seats have generously sized reclining backrests, allowing the driver to stretch their arms and legs out fully, like in a good sports car. The driving positions of both cars are so similar that you hardly notice the difference when switching from one to the other. The steering wheels in both cars are moderately low (the height of the FTO's wheel can be adjusted) so they don't obstruct the view, and the gauges are easy to read. The SR's steering wheel is wrapped in real leather, while the FTO's uses a clever imitation that resembles leather no matter how you look at it. 
+To be sure, it revs smoothly all the way to its 6600rpm redline, but so did the GII. The main culprit is noise.
 
-As for secondary controls, the horn buttons on the SR's steering wheel spokes can be operated while holding the wheel, which is good, but in the FTO you have to push the pad in the center. The frequently used headlight on/off switch is located on the dash in both cars, and the SR's push-pull knob is too far away when the driver has the three-point seat belt fastened. The FTO has a toggle switch, which is a little better, but we'd prefer to have everything controlled by a stalk on the steering column. The wiper/washer in the FTO is built into the turn-signal stalk, which is good. The SR has its wiper/washer switch on the dash, and unlike the light switch, you have to operate it with your left hand, which is inconvenient. The pedals in the FTO are positioned so that they are easier to operate with your heels on the floor. However, both cars make heel-and-toeing easy. 
+The engine itself becomes noticeably loud above 5000rpm as fan noise increases sharply, but even more objectionable is the differential. Under heavy load it becomes particularly noisy, most noticeably during hard acceleration in first and second gear. The effect is so pronounced that the car feels much lower-geared than it actually is.
 
-The SR offers better rear seat comfort. Two people can sit in a natural position in the rear of the SR, whereas in the FTO, the passengers' knees will be tight against the front seatback unless the driver is small and the seat is moved forward.
+For the Galant series, the differential seems to be something of an Achilles' heel. Nearly every Galant we have driven has exhibited excessive differential noise. Even Car Graphic's own older 1300cc AI sedan required two differential replacements during 46,000km of service, almost all of it accumulated in Tokyo traffic.
 
-In terms of heating and ventilation, the SR is much better. The controls are easy to operate and allow fine adjustments to the temperature. In contrast, the heater in the FTO offers either too much heat or none at all, with no fine adjustment in between, so you have to constantly fiddle with the lever all year round. Also, the on/off knobs for the face-level vents on both ends of the FTO's dash are set far back on the panel, making them difficult to operate while driving. Overall, we have to say that the Toyota's interior design is superior. As mentioned above, the SR has simplified equipment, and does not include a radio, lighter, or center console, but instead comes standard with radials and finned high-speed wipers. The FTO comes with more accessories, such as an AM radio, lighter, console, and so on, but the radials on our test car are a 16,000 yen option.
+We mention this specifically in the hope that Mitsubishi will take prompt measures to address the problem.
 
-The trunks of both cars are deep but short, and their openings are relatively small. The spare tire is placed under the floor in both cars, so in the event of a flat tire, all the cargo must be removed. The Toyota comes with a much more complete tool kit, and the tools are of better quality. It includes a spanner set, an adjustable wrench, two screwdrivers, a spark plug wrench, pliers, a wheel wrench, and even a set of wheel chocks. 
+The GII's 86ps engine was entirely adequate for everyday use, though when driven enthusiastically on mountain roads it occasionally felt somewhat underpowered. The GIII is unquestionably more powerful.
 
-Instead of a summary of the test data, we would like to conclude by stating our personal preference. Given a choice between these two cars, we would undoubtedly take the Sprinter SR. Although these cars have the same 95ps output, the SR runs much more enthusiastically and intuitively, and it is simply more fun to drive, with the 5-speed gearbox being a major attraction. Moreover, the SR's 644,000 yen price includes radial tires, whereas adding radial tires to the FTO GIII's 660,000 yen base price raises the cost to 676,000 yen. In the FTO's case, we would rather have the GII (608,000 yen), with single carburetor and bias-plies, which has a good balance between its power and chassis. While the SR is a tough car all-around, the FTO has a softer feel and will be more widely accepted. It is easier to operate and more compact than the SR, making it particularly suitable for use in the city. Its Ford Capri-like styling and newness on the market are also sure to be attractive qualities for many people.
+Most notably, torque in the 3000-5000rpm range--the range of greatest practical importance--is appreciably stronger, something that became particularly evident during hillclimbing. On our usual test hill, the GII spent much of its time at the 6600rpm limit of second gear. The GIII, by contrast, climbed roughly 80 percent of the route comfortably in third gear at only 4500rpm.
+
+The strength of its mid-range torque was demonstrated in another way as well. When the Sprinter suffered its mechanical failure at Yatabe, it became necessary to tow it back to Tokyo with the GIII. Even while towing, the FTO cruised effortlessly at 40-50km/h in third gear (2200-2800rpm), and the temperature gauge never rose above its normal position.
+
+Maximum speed was 154km/h at 6050rpm, a result that was somewhat disappointing in light of the GII's performance. The GII had managed an actual 150km/h at 6200-6300rpm despite being equipped with 6.15-13 tires, which are slightly larger in diameter than the radial tires fitted to the GIII.
+
+The FTO's greatest virtue is its ease of operation. Anyone can drive it well.
+
+The reasons are straightforward. First, there is the engine's flexibility. Second are the light, easy-to-use clutch and gearbox. Pedal placement is virtually ideal, allowing heel-and-toe downshifts to be performed naturally and without conscious effort. Gear changes are light, positive, and satisfying, making rapid shifts both easy and enjoyable.
+
+Standing-start acceleration, however, is compromised somewhat by inadequate rear-axle location. Under normal driving this presents no difficulty, but racing-style starts provoke axle tramp, making a clean launch difficult to achieve.
+
+This is true of every Galant model except the GTO MR, which is equipped with a torque rod.
+
+Partly as a result of this behavior, the FTO recorded a 0-400m time of 18.5 seconds, 0.3 seconds slower than the Sprinter SR.
+
+The 4-speed gearbox represents a definite handicap when it comes to outright performance. The gap between third and top gear is particularly large, and on expressways, where speeds above 100km/h are common, one is reluctant to use third gear for overtaking.
+
+Despite its twin carburetors, this engine's strength lies more in the low- and mid-range than at the top end. High-rpm power is not especially impressive, and it is not an engine that encourages being extended to its limits. Given these characteristics, the present gearing seems somewhat too short. One cannot help wondering whether a taller final-drive ratio, reducing engine speed, might actually improve not only maximum speed but acceleration as well.
+
+As it stands, the car is relatively undergeared.
+
+Comparing the performance of the two cars, the outcome is perfectly clear. In both outright speed and acceleration, the Sprinter SR enjoys a substantial advantage.
+
+If one assumes that the two engines truly produce identical output--and their published horsepower and torque figures are indeed the same, though intuitively the SR's 95ps engine feels considerably more powerful--then the difference in maximum speed can largely be attributed to the advantage of the overdrive fifth gear.
+
+That aside, overdrive is beneficial in practical terms as well, reducing fuel consumption, noise, and vibration during high-speed cruising.
+
+At least judging from the test cars, the SR enjoys a considerably broader effective operating range. The FTO GIII begins to run out of breath at the top end. As a result, when cruising at 100-120km/h--a perfectly ordinary expressway speed nowadays, regardless of engine size--the FTO effectively becomes a one-speed car, with only top gear remaining useful. The SR, by contrast, always allows the driver to choose freely between fourth and fifth, making both acceleration and deceleration quicker and more effective.
+
+In standing-start acceleration, the difference is not especially large at first. The SR reaches 100km/h in 13.2 seconds, while the GIII requires 13.9 seconds.
+
+By 120km/h, however--the limit of third gear in both cars--the gap has widened to 1.8 seconds. At 140km/h the difference becomes dramatic: the SR requires 30.5 seconds, the GIII 38.6 seconds, a substantial margin of 8.1 seconds.
+
+Since the 120-140km/h interval is covered in fourth gear, this difference simply reflects the disparity in available driving force between roughly 4800 and 5600rpm.
+
+Passing-acceleration figures demonstrate equally clearly that the SR develops stronger torque throughout the range.
+
+To repeat, both cars use tires of the same diameter, and their final-drive ratios--4.3 for the SR and 4.222 for the GIII--are for practical purposes identical. Looking at top-gear acceleration, the SR covers 40-80km/h in 10.6 seconds, compared with 12.3 seconds for the GIII, a margin of 1.7 seconds. At 60-100km/h the advantage grows to 2.1 seconds, and at 80-120km/h it widens further to 3.4 seconds.
+
+One might assume from this that the SR's engine is simply tuned for high-speed performance, but that is not the case. At lower engine speeds it is at least as flexible as the FTO's engine, if not more so, and equally easy to use.
+
+At that point, one is forced to conclude that the difference lies in the relative efficiency of the Corolla's hemispherical combustion chambers compared with the FTO's wedge-shaped design.
+
+<b><u>Fuel Consumption</b></u>
+
+Both cars employ twin two-barrel carburetors and relatively high compression ratios--9.6 for the SR and 9.5 for the GIII--and both require premium gasoline.
+
+Steady-speed fuel-consumption measurements were taken at 60km/h and 100km/h in top gear, with the SR tested in both fourth and fifth.
+
+In fourth gear, the FTO held a slight advantage. At 60km/h the SR returned 14.1km/l against the GIII's 14.6km/l, while at 100km/h the figures were 11.4km/l and 11.6km/l respectively.
+
+With the SR's overdrive fifth gear engaged, however, the results improved to an impressive 17.1km/l at 60km/h and 12.5km/l at 100km/h.
+
+Practical fuel consumption was measured over a round trip between Tokyo and Hakone. Since the SR spent much of its time in fifth gear on the Tomei Expressway, we expected it to outperform the FTO. In the event, however, the two cars produced exactly the same average: 10.8km/l.
+
+It is quite clear that the SR is more economical during expressway cruising. The most likely explanation is that, during the hillclimb section at Hakone, we found ourselves enjoying the 5-speed gearbox rather too much and shifting more frequently than necessary, thereby offsetting the advantage gained on the expressway.
+
+Fuel-tank capacity is 45 liters in both cars.
+
+<b><u>Handling, Ride, and Braking</b></u>
+
+The Sprinter was tested on its standard Bridgestone RD201 tires, inflated to 2.0kg/cm² front and rear.
+
+Steering-system rigidity is high, and the elastic play around the straight-ahead position that has traditionally characterized many Toyota products is absent here. Response to steering inputs is appropriately quick and accurate.
+
+Understeer is pronounced, but by no means excessive. Lift off the throttle in mid-corner and the car tightens its line quite noticeably--to a degree more commonly associated with a front-wheel-drive car, albeit a relatively well-mannered one.
+
+The Bridgestone RD201 develops considerable cornering force, at least on dry pavement, and tire squeal is rarely heard. Away from the smooth surface of a circuit, however, the rear wheels have a tendency to hop. On occasion they momentarily lose contact with the road and step sideways slightly.
+
+In very tight corners, body roll is greater than one might expect given the stiff springing. The inside rear wheel becomes lightly loaded and wheelspin can be quite severe.
+
+The SR is at its best on a succession of medium-speed bends that can be taken at 80-100km/h. In this type of cornering, body roll is minimal, transitions from right to left are crisp and decisive, and the combination of a powerful third gear and responsive handling makes for very rapid and enjoyable progress.
+
+Road noise is well suppressed, and even on coarse surfaces the usual harshness associated with radial tires never becomes objectionable.
+
+Ride quality is undeniably firm. At lower speeds there is a constant degree of pitching, yet the suspension neither bottoms on large undulations nor loses composure over pronounced crests. In short, for the sort of driver likely to buy a car of this kind, it is almost the ideal compromise.
+
+The unassisted disc/drum brake system requires substantial pedal effort regardless of speed, but braking performance itself is dependable and consistent.
+
+The impression is that of a low-friction pad compound intended to be paired with servo assistance, yet used here without it. In practical terms, it is about at the limit of how much pedal effort one would reasonably tolerate in a non-servo system. Personally, this author would prefer to have a servo fitted.
+
+One particularly commendable characteristic is the very small amount of nose-dive under hard braking.
+
+The FTO was tested on Yokohama GT Special 155SR-13 radials, likewise inflated to 2.0kg/cm² front and rear.
+
+Frankly speaking, this suspension seems better suited to a high-quality cross-ply tire than to a radial.
+
+The principal reason is that isolation from road noise is inadequate for a 1972-model car. The coarseness of the radial tires is transmitted faithfully into the body structure. When we drove the 86ps GII last month on Yokohama Y205 cross-ply tires, the FTO struck us as a remarkably quiet car. With radial tires fitted, however, the impression changes completely.
+
+The same applies to handling. For some reason, the cross-ply-shod GII felt better balanced and easier to drive overall.
+
+To be sure, the radial-equipped GIII displays much sharper steering response--along with noticeably heavier steering effort--and cornering speeds are somewhat higher. Yet it does not seem unfair to ask whether the delicate balance between power and suspension that existed in the GII has been disturbed in the GIII, with its increased output and radial tires.
+
+One cannot help wondering what sort of handling the GIII might display if fitted with a set of excellent cross-ply tires.
+
+It should be emphasized that these observations concern driving right near the limit. Under normal high-speed driving conditions, the GIII's handling presents no problems whatsoever. Understeer remains moderate, and lifting off the throttle in mid-corner produces only slight changes in attitude.
+
+Ride quality has become considerably firmer with the adoption of radial tires--the suspension itself is unchanged from the GII--but it remains more compliant than that of the Sprinter SR.
+
+There is, however, a pronounced difference between the front and rear seats. Rear-seat occupants are subjected to considerable vertical tossing over bumps and undulations.
+
+The servo-assisted disc/drum brakes are powerful, progressive, and require remarkably little pedal effort.
+
+In this respect they are the complete opposite of the Sprinter SR. The impression is of a high-friction, "soft" pad compound originally intended for use without servo assistance, now combined with a servo system. The result is excellent braking feel and strong stopping power.
+
+We had no opportunity to test them under severe conditions, but it is possible that they might prove susceptible to fade if subjected to prolonged hard use.
+
+The non-servo brakes on the GII were also light and powerful in operation--though naturally fitted with a different master-cylinder bore--which suggests that the same pad material is probably employed.
+
+One further point of distinction is that while the Sprinter uses single-piston calipers, the FTO is equipped with opposed-piston calipers.
+
+<b><u>Interior and Equipment</b></u>
+
+Both cars are fitted with generously proportioned reclining front seats with integrated backrests, and both provide the sort of driving position one hopes to find in a proper sporting car, with arms and legs comfortably extended.
+
+In fact, the driving positions of the two cars are remarkably similar. One can step directly from one into the other without experiencing the slightest sense of unfamiliarity. Both steering wheels are mounted sufficiently low not to obstruct the driver's view (the FTO's column is also adjustable for angle), and the instruments are easy to read.
+
+The Sprinter's steering wheel is covered in genuine leather, whereas the FTO uses an imitation so convincing that one is hard pressed to distinguish it from the real thing.
+
+Looking at the smaller controls, the Sprinter's horn buttons, mounted in the steering-wheel spokes, deserve praise because they can be operated without removing one's hands from the wheel. In the FTO, one must press the center of the steering wheel.
+
+The headlight switches, which are used frequently, are dashboard-mounted in both cars. In the Sprinter, particularly when wearing the standard 3-point seatbelt, the switch is placed uncomfortably far away. The FTO's toggle switch is somewhat better, though ideally all such functions would be operated from a steering-column stalk.
+
+The FTO's wiper and washer controls are commendably integrated into the turn-signal lever. In the Sprinter, they are located on the dashboard and, to make matters worse, must be operated with the left hand, opposite from the headlight switch. This arrangement is distinctly inconvenient.
+
+Pedal placement is slightly better in the FTO, whose controls are positioned to allow operation while keeping one's heel on the floor. Both cars, however, are well suited to heel-and-toe downshifting.
+
+Rear-seat accommodation is superior in the Sprinter. Two passengers can sit naturally and comfortably in the SR's rear seat, whereas in the FTO knee room becomes restricted unless the driver happens to be particularly small in stature.
+
+As for the heater and ventilation systems, the Sprinter is decidedly superior.
+
+Its controls are easy to operate and permit precise adjustment. The FTO, by contrast, seems to offer either excessive heat or none at all, with little fine regulation possible in between. One finds oneself constantly moving the levers back and forth in an effort to achieve a comfortable setting.
+
+The face-level vents at the outer ends of the dashboard are likewise unsatisfactory. Their on/off controls are recessed too deeply and are difficult to reach while driving.
+
+Overall, one must conclude that Toyota has done the better job in interior design.
+
+In terms of equipment, the Sprinter is the more austere of the two. As noted earlier, it omits such items as a radio, cigarette lighter, and center console, but compensates by including radial tires and finned wiper blades as standard equipment.
+
+The FTO, on the other hand, includes an AM radio, cigarette lighter, and center console, but radial tires remain a 16,000-yen option.
+
+The luggage compartments of both cars are deep but somewhat short in length, and the trunk openings are comparatively small. In each case the spare tire is stored flat beneath the trunk floor, meaning that all luggage must be removed before it can be accessed in the event of a flat.
+
+The Toyota is far better equipped when it comes to tools, both in quantity and quality. In addition to a set of spanners, an adjustable wrench, two screwdrivers, a spark-plug wrench, pliers, and a wheel wrench, it even includes wheel chocks. Nowadays, only Toyota and Isuzu seem to provide such comprehensive tool kits as standard equipment.
+
+Rather than attempting a formal conclusion, perhaps it is best to finish with a personal choice.
+
+Of these two cars, we would choose the Sprinter SR without hesitation.
+
+Although both are rated at 95ps, the SR feels--and proves in the test data--to be the far more lively performer. It is also the more rewarding car to drive. The 5-speed gearbox is unquestionably one of its greatest attractions.
+
+Moreover, the SR's 644,000-yen price includes radial tires as standard equipment, whereas fitting radials to the basic 660,000-yen FTO GIII adds another 16,000 yen.
+
+If choosing an FTO, this author would actually prefer the GII. With its single-carburetor engine and cross-ply tires, it offers a better balance between power and suspension, and at 608,000 yen it is also considerably less expensive.
+
+The SR is, in every respect, a tougher, harder-edged machine. The FTO, by contrast, has a softer and more approachable character that will likely appeal to a broader audience. Its controls are lighter, and its dimensions more compact than those of the SR, making it particularly well suited to urban use. There will also be many who find themselves drawn to the freshness of its Ford Capri-like styling.
 
 
 <b><u>Postscript: Story Photos</b></u>

@@ -446,7 +446,7 @@ The rear seat has become smaller in dimensional terms as well.
 
 The front seats, with their integrated headrests, are distinctive in appearance because the area beneath the headrest has been left open.
 
-Another thoughtful touch is the provision of an illumination lamp that cast soft light over the instrument panel.
+Another thoughtful touch is the provision of an illumination lamp that casts soft light over the instrument panel.
 
 <b>Magazine:</b> The FF-1's steering wheel has something of a bus-like feel to it, but on the Leone Coupe the diameter, grip, and angle all give a completely different impression.
 

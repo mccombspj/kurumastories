@@ -128,9 +128,9 @@ The servo-assisted disc/drum brakes can only be described as superb. Pedal effor
 
 The car driven to Hakone was the Super Deluxe model, equipped as standard with power steering.
 
-One can certainly understand why power steering was adopted. This is a front-wheel-drive car carrying some 800kg over the front wheels even unladen, and fitted with 165HR15 tires with a substantial contact patch. Frankly speaking, however, this power steering seriously spoils what is otherwise an excellent automobile.
+One can certainly understand why power steering was adopted. This is a front-wheel-drive car carrying some 800kg over the front wheels even unladen, and fitted with 165HR15 tires with a substantial contact patch. Frankly speaking, however, this power steering greatly spoils what is otherwise an excellent automobile.
 
-To begin with, it is extraordinarily light–in fact, too light. Light steering effort is by no means objectionable in itself, but what is troublesome is when all sensation from the road surface is isolated from the driver, and in the Luce this is precisely the case. Response around the straight-ahead position is especially over-sensitive, so that it is all too easy to feed in more steering than intended.
+To begin with, it is extraordinarily light--in fact, too light. Light steering effort is by no means objectionable in itself, but what is troublesome is when all sensation from the road surface is isolated from the driver, and in the Luce this is precisely the case. Response around the straight-ahead position is especially over-sensitive, so that it is all too easy to feed in more steering than intended.
 
 At lower speeds this presents little difficulty, and in city traffic or while parking one becomes very grateful for the assistance. At high speeds, however, the car would frankly be better without it. Even at a comparatively moderate 100km/h, changing lanes demands a degree of concentration on the steering that soon becomes tiring.
 
