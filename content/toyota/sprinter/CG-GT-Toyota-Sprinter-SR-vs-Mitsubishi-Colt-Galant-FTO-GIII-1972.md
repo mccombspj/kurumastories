@@ -71,7 +71,7 @@ What, then, did the tests reveal?
 
 <b><u>Performance</b></u>
 
-The Corolla engine, with its hemispherical combustion chambers and V-type valve arrangement, has long enjoyed a reputation for revving freely despite its OHV design. The 95ps unit fitted to the Sprinter SR is no exception. Equipped with twin carburetors, it will happily pull all the way to the 6500rpm redline.
+<b>Sprinter SR:</b> The Corolla engine, with its hemispherical combustion chambers and V-type valve arrangement, has long enjoyed a reputation for revving freely despite its OHV design. The 95ps unit fitted to the Sprinter SR is no exception. Equipped with twin carburetors, it will happily pull all the way to the 6500rpm redline.
 
 It is neither especially quiet nor particularly smooth, however. Beyond about 3500rpm, noise levels rise sharply, mainly from the cooling fan and exhaust-system resonance.
 
@@ -97,7 +97,7 @@ From the beginning of the test, the car had displayed a tendency to knock under 
 
 When the car was retested several days later, both symptoms had disappeared completely. It is therefore reasonable to regard the failure as an isolated incident resulting from improper adjustment rather than any fundamental defect in the design.
 
-Last month we tested the 86ps Galant FTO GII equipped with a single Stromberg carburetor and came away thoroughly impressed by both its free-revving engine and its excellent handling. Compared with that car, however, this 95ps GIII left a somewhat less favorable impression.
+<b>FTO GIII:</b> Last month we tested the 86ps Galant FTO GII equipped with a single Stromberg carburetor and came away thoroughly impressed by both its free-revving engine and its excellent handling. Compared with that car, however, this 95ps GIII left a somewhat less favorable impression.
 
 To be sure, it revs smoothly all the way to its 6600rpm redline, but so did the GII. The main culprit is noise.
 
@@ -171,7 +171,7 @@ Fuel-tank capacity is 45 liters in both cars.
 
 <b><u>Handling, Ride, and Braking</b></u>
 
-The Sprinter was tested on its standard Bridgestone RD201 tires, inflated to 2.0kg/cm² front and rear.
+<b>Sprinter SR:</b> The Sprinter was tested on its standard Bridgestone RD201 tires, inflated to 2.0kg/cm² front and rear.
 
 Steering-system rigidity is high, and the elastic play around the straight-ahead position that has traditionally characterized many Toyota products is absent here. Response to steering inputs is appropriately quick and accurate.
 
@@ -193,7 +193,7 @@ The impression is that of a low-friction pad compound intended to be paired with
 
 One particularly commendable characteristic is the very small amount of nose-dive under hard braking.
 
-The FTO was tested on Yokohama GT Special 155SR-13 radials, likewise inflated to 2.0kg/cm² front and rear.
+<b>FTO GIII</b>: The FTO was tested on Yokohama GT Special 155SR-13 radials, likewise inflated to 2.0kg/cm² front and rear.
 
 Frankly speaking, this suspension seems better suited to a high-quality cross-ply tire than to a radial.
 
