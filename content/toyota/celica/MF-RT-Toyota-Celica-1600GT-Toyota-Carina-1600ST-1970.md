@@ -21,7 +21,7 @@ draft = false
 
 <b>Magazine:</b> To begin with, could you tell us about the aims and general outline behind the development of the Carina and Celica?
 
-<b>Nishida:</b> The Carina is a car intended to cover as broad a range as possible between the compact-car class and the mass-market-car class. If you think of our model line as a tree, there are branches such as Century, Crown, Corona, Corolla, and Publica--but we felt there could be room for another branch among them, and that is how the Carina was developed. The Carina is, at its core, a sporting family sedan. The Celica, while sharing certain engines and components, is an entirely different kind of car--what you would call a "specialty car."
+<b>Nishida:</b> The Carina is a car intended to cover as broad a range as possible between the compact-car class and the mass-market-car class. If you think of our model line as a tree, there are branches such as the Century, Crown, Corona, Corolla, and Publica--but we felt there could be room for another branch among them, and that is how the Carina was developed. The Carina is, at its core, a sporting family sedan. The Celica, while sharing certain engines and components, is an entirely different kind of car--what you would call a "specialty car."
 
 In development, we set out five principal objectives.
 
@@ -31,13 +31,13 @@ In development, we set out five principal objectives.
 4. Careful attention to meeting the demands of sustained high-speed driving. With this in mind, we developed a new 5-speed transmission to reduce driver fatigue, and have adopted it across as many models as possible. At the same time, we placed emphasis on low-speed torque, so that the car can also cope well with urban driving.
 5. In keeping with the age of diversification, we prepared two-door and four-door bodies, a range of engines and transmissions, and a wide selection of options, so as to meet a variety of needs. Rather than the manufacturer presenting a fixed specification, the idea is for the user to assemble a car to their own taste. Even the enjoyment of the "shopping" process was taken into account--in short, we pursued a "people first” approach throughout.
 
-As for the transmission, it was developed to be light, compact, and economical. The synchronizers have been strengthened, and the direct shift action lightened. Internally, needle roller bearings are used. The suspension employs MacPherson struts at the front, and a four-link arrangement with a lateral rod at the rear, reducing unsprung weight and friction. Particular attention was given to increasing rigidity in the suspension and its mounting points, contributing to handling and stability; coil springs were adopted to enlarge the luggage space and lower the center of gravity. The aim was an overall balance of effects, with special emphasis placed on high-speed stability and controllability.
+As for the transmission, it was developed to be light, compact, and economical. The synchronizers have been strengthened, and the direct shift action lightened. Internally, needle roller bearings are used. The suspension employs MacPherson struts at the front, and a four-link arrangement with a lateral rod at the rear, reducing unsprung weight and friction. Particular attention was given to increasing rigidity in the suspension and its mounting points, contributing to handling and stability; rear coil springs were adopted to enlarge the luggage space and lower the center of gravity. The aim was an overall balance of effects, with special emphasis placed on high-speed stability and controllability.
 
 The brakes are discs at the front and leading-trailing drums at the rear, with a large booster and a proportioning valve.
 
 As for the Carina's body, the basic thinking follows much the same lines as the Corona.
 
-The Celica, on the other hand, was developed as an entirely new form. Particular emphasis was placed on securing adequate body dimensions, and despite its low overall height, we believe it offers comparatively sufficient interior space.
+The Celica, on the other hand, was developed as an entirely new shape. Particular emphasis was placed on securing adequate body dimensions, and despite its low overall height, we believe it offers comparatively sufficient interior space.
 
 <b>Matsumura:</b> The demands placed on engines have become increasingly severe lately. High-speed running is now a necessity, but at the same time, slow, stop-and-go driving remains common, and exhaust emissions must also be addressed. Accordingly, following the development objectives just outlined, our first aim was ease of use--not only at high speed, but in practical everyday conditions, and with a high degree of reliability against all forms of trouble. To that end, we carried out testing specifically to improve reliability, including low and high temperatures, with real-world vehicle testing in locations with those conditions.
 
