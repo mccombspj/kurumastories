@@ -155,7 +155,7 @@ At that point, one is forced to conclude that the difference lies in the relativ
 
 <b><u>Fuel Consumption</b></u>
 
-Both cars employ twin two-barrel carburetors and relatively high compression ratios--9.6 for the SR and 9.5 for the GIII--and both require premium gasoline.
+Both cars use twin two-barrel carburetors and relatively high compression ratios--9.6 for the SR and 9.5 for the GIII--and both require premium gasoline.
 
 Steady-speed fuel-consumption measurements were taken at 60km/h and 100km/h in top gear, with the SR tested in both fourth and fifth.
 
@@ -217,7 +217,7 @@ In this respect they are the complete opposite of the Sprinter SR. The impressio
 
 We had no opportunity to test them under severe conditions, but it is possible that they might prove susceptible to fade if subjected to prolonged hard use.
 
-The non-servo brakes on the GII were also light and powerful in operation--though naturally fitted with a different master-cylinder bore--which suggests that the same pad material is probably employed.
+The non-servo brakes on the GII were also light and powerful in operation--though naturally fitted with a different master-cylinder bore--which suggests that the same pad material is probably used.
 
 One further point of distinction is that while the Sprinter uses single-piston calipers, the FTO is equipped with opposed-piston calipers.
 
