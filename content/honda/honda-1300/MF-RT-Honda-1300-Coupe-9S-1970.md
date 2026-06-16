@@ -65,561 +65,395 @@ draft = false
 
 
 
-<b><u>Style For Young People</b></u>
+<b><u>Style Aimed at Younger Drivers</b></u>
 
+<b>Magazine:</b> We recently had the opportunity to test both the Honda 1300 Coupe 9 and the automatic version of the Coupe 7. To begin, Mr. Mabuchi, could you tell us about the aims behind the Honda 1300 Coupe?
 
+<b>Mabuchi:</b> The coupe was introduced about a year after the sedan, but it had been planned as part of the model series from the very beginning.
 
-<b>Magazine:</b>This time, we will present our road test of the Honda 1300 Coupe 9 and 7 automatic models. First, we would like to ask Mr. Mabuchi about the aim of the Honda 1300 Coupe.
+Since we were going to build a coupe, however, we wanted it to make people sit up and take notice--to offer something that would be readily accepted by the public. We gave considerable thought to what those elements should be. As a result, we concluded first that the styling had to appeal to younger buyers. At the same time, we also devoted a great deal of effort to improving the car's aerodynamics.
 
+As for the feeling one gets behind the wheel, the interior--what we call the "Flight Cockpit"--is intended to make a strong impression by combining mechanical functionality with sculptural design.
 
+We also wanted to avoid creating a car that emphasized only the traditional sports-car virtues, such as a very stiff ride, high top speed, but poor low-speed acceleration. Instead, we wanted it to offer a character that anyone could enjoy and find easy to drive.
 
-<b>Mabuchi:</b> We announced the coupe about a year after releasing the sedan, and we always planned for the series to include both models. However, once the decision was made to develop a coupe, we thought a lot about what elements would make it a car that would surprise the public and make it well-received. In the end, we decided that it had to have styling that would be welcomed by young people, and at the same time, we also researched ways to improve on the sedan aerodynamically.
+At the same time, we felt it was important to give each model a clearly defined personality. Just as the sedan range is divided into the 77 and 99 series, each with its own character, the Coupe 9 was intended as the high-performance model, with the understanding that a somewhat firmer ride would be acceptable. The Coupe 7, by contrast, is positioned as the softer-riding alternative.
 
+<b>Magazine:</b> And where does the automatic version fit into the lineup?
 
+<b>Mabuchi:</b> The primary aim of the automatic model was to create a car with a distinctly family-oriented character.
 
-Along the same lines, we refer to the interior as the "flight cockpit," which is the feeling you get when you sit in the car, and we aimed for a very strong appeal by matching functional and sculptural elements. 
+In America, it has already become common to see automatic transmissions offered even in cars such as the Chevy and Mustang, and some racing cars are beginning to use them as well. Japan, however, has not yet reached that stage. We therefore felt that the first step should be a family car. For that reason, the automatic transmission is offered only in the Coupe 7, and at the same time we reduced the engine's output even further compared with the manual-transmission Coupe 7 in order to place greater emphasis on low-speed performance.
 
+We also developed a set of instruments specifically for the automatic model, giving the instrument panel a more family-oriented character. Rather than treating the automatic as merely an option, we wanted to establish it as a distinct automatic-transmission series in its own right.
 
+Broadly speaking, then, the lineup can be divided as follows: first, the Coupe 7 Automatic; next, the Coupe 7 with manual transmission; and finally, the Coupe 9.
 
-Our goal was to create a car that is easy to drive and can be enjoyed by anyone, rather than just pursuing the sports car-like aspects that are common with this type of car, such as a very stiff ride or being able to reach high speeds but not accelerating well at low speeds.
+<b>Magazine:</b> From the standpoint of body construction, how are the sedan and coupe related?
 
+<b>Mabuchi:</b> The coupe was developed after the sedan, but aside from the underbody and the front fenders, virtually everything else was redesigned.
 
+As you may have noticed, the roof panel features two character lines running fore and aft. The body structure is designed so that welding is carried out along those sections, thereby increasing body rigidity.
 
-To achieve this, we decided to clearly define the characteristics of each model. Just as the sedans are divided into the 77 series and the 99 series and have their respective characteristics, the Coupe 9 is characterized by high performance, and if its ride is a little too stiff for some, the 7 offers a softer ride for those users.
-
-
-
-<b>Magazine:</b> How does this principle apply to the automatic car?
-
-
-
-<b>Mabuchi:</b> The first aim of the automatic is that it's a very family-friendly car. In America, we've already entered an era where Corvettes and Mustangs are equipped with automatic transmissions, and even some racing cars are equipped with automatics, but Japan hasn't reached that stage yet, so the first step was to create an automatic car that is family-focused. We offer the automatic only in the 7, and at the same time, we reduced the power even further than the manual transmission 7 series to emphasize low speed response.
-
-
-
-We also developed a special instrument panel layout specifically for automatic vehicles to create a family car-like feel. Rather than just adding an automatic transmission as an accessory, we wanted to create something completely different with the automatic series.
-
-
-
-The above can be broadly characterized as follows, in a spectrum from family- to sports-focused: First there is the 7 series automatic, then the 7 manual, and then the 9 Coupe.
-
-
-
-<b>Magazine:</b> How are the sedans and coupes distinguished in terms of bodywork?
-
-
-
-<b>Mabuchi:</b> The Coupe was designed after the sedan, and the entire shape was changed except for the undercarriage and one side of the front fender. As you may have noticed, there are two lines running from front to back on the roof. The body structure is welded beneath those to increase the body rigidity. Of course, this is done as part of the unibody structure for mass production, but even this has changed the shape of the car.
-
-
+Of course, that construction method was adopted in part to suit mass-production requirements, but even taking that into account, the body shape was changed almost completely.
 
 <b><u>The Aim of Reducing Horsepower</b></u>
 
+<b>Magazine:</b> Even so, the coupe still shares a strong family resemblance with the sedan. As for the automatic version, you've said it differs substantially from conventional automatic models--to the point of being treated as a series in its own right. Could you tell us a little more about that?
 
+<b>Hattori:</b> Unlike the conventional view of an automatic transmission, where it is little more than an optional accessory, this is an automatic model that has been fully matched to the car itself. We revised the engine's design to increase low- and mid-range torque, making it a car that is easier to use in everyday driving. As a result, the engine's characteristics were altered specifically to suit the automatic transmission.
 
-<b>Magazine:</b> In terms of image, it has something in common with the sedan in that the automatic has been made into a series of its own. Could you tell us more about that?
+The most significant difference from conventional automatics is its two-shaft design. Most automatic transmissions use planetary gears, but Honda's automatic uses a two-shaft layout, making it an automatic transmission that is mechanically quite similar to a manual gearbox.
 
+The hydraulic control system also incorporates Honda's own unique design, and the vehicle itself features a number of automatic-specific specifications, particularly around the instrument panel.
 
+<b>Magazine:</b> With the introduction of the Coupe 9, engine output has been reduced by 5ps across the range. What was the reason for lowering the power?
 
-<b>Hattori:</b> Unlike conventional automatic cars where the automatic is something of an afterthought, this is a car where the automatic and the overall design are integrated. The engine design was changed, increasing torque at low and medium speeds, making the car easier to use for general use. Therefore, the engine performance itself was changed, and the automatic transmission was made to match it. 
+<b>Irikawa:</b> That wasn't because the coupe was introduced. The change was made last November across the entire lineup, including the sedan.
 
+The reason was that Honda engines are often said to rev well at the top end but lack low-end performance. In reality, however, the low-speed torque people generally refer to--around 1,500 rpm, for example--is not especially poor.
 
+Even so, there were requests from sedan owners for a little more torque at extremely low engine speeds--just off idle, at the very bottom of the range. We felt there was room to improve drivability in that area, and that's what prompted the change.
 
-The biggest difference from conventional automatics is that it is a two-shaft system. While ordinary automatics use planetary gearsets, the Hondamatic is mechanically similar to a normal manual transmission, and uses a hydraulic control mechanism unique to Honda. The body and instrument panel designs are also model-specific for the automatic cars.
+To achieve that, we sacrificed a certain amount of peak horsepower. Most of the change was accomplished simply through alterations to the valve timing.
 
+<b>Hirao:</b> So you've lowered the engine speed on the automatic model as well?
 
+<b>Irikawa:</b> That's right. If low-speed torque is insufficient, then the torque converter's stall speed has to be raised, which means the engine must operate at higher rpm all the time. And since an automatic transmission inevitably results in some deterioration in fuel economy, we felt it was more important to consider fuel consumption and overall usability than maximum horsepower at the top end.
 
-<b>Magazine:</b> At the same time the Coupe 9 was released, the power was reduced by 5 horsepower. Why was the horsepower reduced?
+<b>Hirao:</b> So the reduction was made with fuel economy in mind.
 
+<b>Higuchi:</b> Or were you more concerned about excessive creep at idle?
 
+<b>Mabuchi:</b> That was part of it as well. It's related to fuel economy, but our primary objective was to create a car with a distinctly family-oriented character. From that standpoint, we felt a top speed of 150km/h would be entirely adequate, and in that context we reduced output to 80ps.
 
-<b>Irikoshi:</b> The power drop coincided with the release of the Coupe, but was not related to it. We made this change at the end November last year, including for the sedan. The reason we lowered it is that we heard people saying that Honda engines rev well at high speeds but not at low speeds, and that the torque range we consider to be low-speed, for example, around 1500rpm, is actually not that low.
+At the end of last year, we reduced the output of the manual-transmission models from 100 to 95ps. However, what one might call practical top-speed performance actually improved. Because low- and mid-range acceleration became stronger--the kind of performance most useful on highways--the engine reaches speeds such as 150-160km/h more quickly despite the loss of 5ps at the top end.
 
+Moreover, because the coupe has lower running resistance, its top speed is still 175km/h in the Coupe 7 and 185km/h in the Coupe 9.
 
+<b>Higuchi:</b> From a marketing standpoint, saying you've reduced horsepower may sound a little strange to customers who've been hearing "more horsepower, more horsepower" up to now. Perhaps it would be better to say, "We've increased maximum torque and usable power."
 
-We received feedback from users saying they wanted more torque at extremely low speeds, such as when the engine is just off idle, so we made some changes to improve the feel in that area. To achieve this, we sacrificed a certain amount of horsepower, but the majority of the change was just in the valve timing...
+After all, that's the kind of engine that's easiest for customers to drive.
 
+<b>Mabuchi:</b> When we say we've reduced horsepower, people generally complain. Interestingly enough, though, the motoring press seems to have received the change quite favorably. Perhaps that's because you've interpreted it in exactly the way we've been discussing.
 
+<b>Hirao:</b> Perhaps the real selling point is being able to say, "We could have given it more power--but we chose not to." (laughs)
 
-<b>Hirao:</b> So the rotation speed of the automatic car has also been reduced?
+<b><u>A Cockpit with Excellent Design Sense</b></u>
 
+<b>Magazine:</b> What were your impressions of the cockpit?
 
+<b>Hirao:</b> I think the instruments are quite well done. The way they're arranged, wrapping around the driver from both sides, works very nicely.
 
-<b>Irikoshi:</b> That's right. If the low-speed torque is insufficient, the stall speed of the torque converter must be increased to keep the rotations high at all times, and of course, fuel economy will be worse to some extent with any automatic, so the upper limit was lowered to take fuel economy and other factors into consideration rather than increasing the horsepower at the upper end.
+<b>Higuchi:</b> The first thing I noticed when I got in was how low the eye point was. Then, with all those instruments spread out in front of you, I found myself thinking that if I were flying an airplane, it probably would feel very much like this.
 
+<b>Mabuchi:</b> We devoted a great deal of attention to keeping the overall height low. At the same time, if lowering the car came at the expense of headroom or passenger comfort, that would create serious problems. So we experimented with different seating positions in an effort to make it a car that felt comfortable and natural once you were behind the wheel.
 
+<b>Hirao:</b> That's certainly true. The moment you settle into the driver's seat, it has a reassuring, comfortable atmosphere.
 
-<b>Hirao:</b> So you lowered it out of consideration of fuel efficiency.
+<b>Magazine:</b> And what about the car's family-car qualities?
 
+<b>Higuchi:</b> Though when you say "family-oriented," I wonder if perhaps you mean the sort of family car that's really for the father. (laughs)
 
+<b>Mabuchi:</b> Well, our basic objective was simply to create a car that a great many people would want to buy.
 
-<b>Higuchi:</b> In reality, were you also afraid of strong idle creep if it kept its high-rpm characteristics?
+<b>Okazaki:</b> It was just suggested that the car feels like something intended for a one-man owner, and I think there's some truth in that. The driver is very well looked after, but I've heard complaints from people riding in the passenger seat. Two people in particular remarked that the passenger seemed to have been treated as something of an afterthought. There is certainly a noticeable disparity.
 
+<b>Higuchi:</b> Even something as simple as the ashtray--the passenger has to say, "Excuse me, could I borrow yours?" (laughs)
 
+<b>Hirao:</b> I think a little more attention could have been paid to the passenger side. It wouldn't have cost much to do so.
 
-<b>Mabuchi:</b> Yes, that too. It's also related to fuel efficiency. However, the aim from the beginning was to make it very family-friendly, so we settled on a horsepower reduction to 80, as a top speed of 150km/h would be sufficient for this model.
+<b>Watari:</b> In that sense, the materials used throughout the interior are rather unbalanced as well. Some are quite expensive, while others seem rather cheap.
 
+<b>Hoshijima:</b> On the Custom model, if a console is fitted in the center, then when air conditioning is installed it ends up directly in front of the passenger seat.
 
+<b>Watari:</b> Exactly. Sitting in the passenger seat, you almost feel more like cargo than a passenger. (laughs)
 
-At the end of last year, the horsepower of the manual transmission vehicle was reduced from 100 horsepower to 95 horsepower. This improves what is generally referred to as the practical maximum speed, because while the peak power is reduced, the time it takes to reach 150km/h or 160km/h is actually shorter due to the increased acceleration force at low to medium speeds on the highway. 
+<b>Hirao:</b> Looking at the overall layout, I wonder if the 1300 might simply be a little too narrow. One could say that it offers the performance of a larger-class engine in a compact package. But isn't there a risk that people will instead say it has been given a body one size too small for its engine?
 
+<b>Watari:</b> In Europe, they'd certainly say the car is too small for the engine it carries.
 
+<b>Mabuchi:</b> That was actually discussed at length when the sedan was being developed as well. There were arguments that the car should have been made somewhat wider.
 
-Moreover, the coupe has less rolling resistance, so its top speed is 175km/h for the 7, and 185km/h for the 9.
+Our view, however, was that as automobiles become increasingly common, bigger will not necessarily mean better. Sooner or later, people will begin moving back in the other direction. Furthermore, given Japan's road conditions and parking problems, we thought it was better to follow the old saying: "a sansho pepper may be small, but it packs a punch."
 
+Admittedly, whether five adults can ride in comfort is open to debate. Even so, we believe it compares quite favorably with other coupes.
 
+<b><u>0–400m in 17.1 Seconds</b></u>
 
-<b>Higuchi:</b> If the horsepower is reduced when it is put on sale, it will seem a bit strange to the fans who have been crying "horsepower, horsepower" up until now, so instead, it would be better to say "we've increased the usable torque and horsepower." From the user's perspective, that is the easiest type of engine to drive.
+<b>Magazine:</b> Next, let's have the results of the performance testing conducted by the Hirao Laboratory.
 
+<b>Furutani:</b> For the Coupe 9, standing-start acceleration figures were 0-200m in 10.9 seconds and 0-400m in 17.1 seconds. Expressed in terms of speed versus elapsed time, the car recorded 0-40km/h in 3.3 seconds, 0-60km/h in 5.3 seconds, 0-80km/h in 7.9 seconds, and 0-100km/h in 12.2 seconds.
 
+For third-gear overtaking acceleration from 30km/h, the figures were 1.9 seconds to 40km/h, 5.9 seconds to 60km/h, 9.5 seconds to 80km/h, and 13.6 seconds to 100km/h.
 
-<b>Mabuchi:</b> Generally, people will complain if we say horsepower has dropped, but by contrast, the change seemed to have been well-received by journalists. Perhaps that's because they interpreted it the same way we did.
+Turning to the automatic Coupe 7, standing-start acceleration figures were 0-200m in 12.6 seconds and 0-400m in 19.7 seconds. In terms of speed versus elapsed time, it recorded 0-40km/h in 4.4 seconds, 0-60km/h in 7.4 seconds, 0-80km/h in 11.7 seconds, and 0-100km/h in 17.8 seconds.
 
+<b>Magazine:</b> The automatic didn't show much front-wheel spin at launch, did it?
 
+<b>Furutani:</b> No. The Coupe 9 exhibited quite a lot of front wheelspin, but the automatic hardly spun its wheels at all.
 
-<b>Hirao:</b> I think the killer line is, "we could have released it, but we held it back." (laughs)
+<b>Magazine:</b> Even with an ordinary start, the tires break traction. One gets the impression that the front tires will wear out quickly...
 
+<b>Mori:</b> Being a front-wheel-drive car, front-tire wear admittedly tends to be somewhat higher. We recommend regular tire rotation to our customers, however, and on average we don't believe tire life is poor at all.
 
+<b>Kizawa:</b> We recommend rotating the tires every 5,000km.
 
+In fact, the rear tires wear so little that the opposite problem arises. On cars used on the Tomei Expressway without any tire rotation at all, we've seen figures as high as 100,000 kilometers.
 
+<b>Magazine:</b> Next, we'd like to hear the noise-test results.
 
-<b><u>A Cockpit With Excellent Taste</b></u>
+<b>Watari:</b> The noise measurements were conducted on the Tomei Expressway.
 
+In the past, the Third Keihin Expressway had been a satisfactory venue for lower-speed testing, and the results obtained there were not greatly different from those gathered at Murayama. Since the Tomei allows sustained speeds of 100km/h, however, we decided to conduct the tests there this time.
 
+The figures may be slightly higher than those we've recorded in the past, but judging from my own experience driving the car in everyday traffic, I don't think the difference is particularly significant. It would probably be more useful to look at how the noise levels change with speed.
 
-<b>Magazine:</b> What were your thoughts on the cockpit?
+<b>Tateishi:</b> Beginning with vibration data, the suspension's natural sprung-mass frequency is 1.5Hz front and rear, while the unsprung frequency is 13.0Hz at both ends.
 
+Noise levels for the Coupe 9 were 67 phons at 40km/h, 68 phons at 60km/h, 72 phons at 80km/h, 77 phons at 100km/h, 76 phons at 110km/h, and 79 phons at 120km/h.
 
+For the Coupe 7 Automatic, the figures were 62 phons at 40km/h, 66 phons at 60km/h, 66 phons at 70km/h, 72 phons at 80km/h, 77 phons at 100km/h, 76 phons at 110km/h, and 76 phons at 120km/h.
 
-<b>Hirao:</b> The gauges look pretty good, don't they?
+<b>Watari:</b> I don't think the figures are especially high. If anything, what stands out is the sharp increase at 90km/h--the question is what's causing that peak. The low-speed figures are also somewhat elevated.
 
+We've seen the same tendency before when comparing coupe and sedan versions of the same model: the coupe usually produces slightly higher readings at lower speeds.
 
+<b>Mabuchi:</b> That 90km/h peak is caused by resonance in the exhaust system. We'd like to improve that aspect. We're considering various approaches involving the bulkhead.
 
-<b>Higuchi:</b> The first thing I felt when I got in was that my eyepoint was low. And there were all these amazing things in front of me, so yes, I thought it was exactly what it would be like to fly an airplane.
+<b>Watari:</b> While we're on the subject of noise, I mentioned earlier that the interior felt somewhat unbalanced. There are places where the car produces rather inexpensive-sounding noises, such as the dashboard and steering column. I think it would be worthwhile to continue working on eliminating those kinds of sounds.
 
+As for ride quality, a sprung-mass frequency of 1.5Hz is about standard for a car in this class these days. The question is where you choose to place the emphasis. If this were intended as a true family car, I think the frequency could stand to be a little lower.
 
+On the other hand, driving enthusiasts would probably want it somewhat higher. Lately I've begun to feel that cars like this should be offered with a choice of two different spring rates.
 
-<b>Mabuchi:</b> We put a lot of effort into lowering the car height. However, lowering the car without changing the seating would result in sacrificing head room and comfort, which would be a serious problem, so we thought about various ways to change the driving position and make the car easier to drive.
+<b>Kizawa:</b> The car you measured was the 9S, whose rear dampers are tuned somewhat more firmly. The noise levels, however, are essentially identical to those of the 7.
 
+The automatic model exhibits its peak at 90km/h, while the 9S peaks at a somewhat higher speed. Part of that is due to the gear ratios, and part of it stems from the fact that the automatic uses a manifold-type muffler. The configuration of the exhaust system differs slightly from that of the manual-transmission cars.
 
+<b>Tateishi:</b> The automatic does show that tendency. However, when we previously measured a Honda 1300 99S on Honda's own test course, the results were virtually identical at lower speeds, aside from the 90km/h peak. At higher speeds, the Coupe's figures are actually lower.
 
-<b>Hirao:</b> Indeed, when I first sat in the driver's seat I felt that it had a very relaxing atmosphere.
+<b>Higuchi:</b> I think the character of the noise becomes much more noticeable when you're stopped somewhere like a park, sitting with the engine idling and the windows closed. I think that's particularly true in a coupe.
 
+<b>Hirao:</b> What is the idle speed?
 
-
-<b>Magazine:</b> What did you think about the family car elements?
-
-
-
-<b>Higuchi:</b> Even though we say it's family car-like, I thought it was suited to more of a one-man, old man kind of family. (laughs)
-
-
-
-<b>Mabuchi:</b> To put it another way, we wanted to make it a car that many people will buy...
-
-
-
-<b>Okazaki:</b> It's true that it's a one-man owner kind of car. It takes care of the driver very well, but the person in the passenger seat sometimes complains, and I heard two people say that the passenger's side seems to be neglected in terms of design, and there is certainly a big disparity.
-
-
-
-<b>Higuchi:</b> For example, when it comes to ashtrays, I have to ask the driver to lend me theirs. (laughs)
-
-
-
-<b>Hirao:</b> I think it would be good to provide a little more hospitality to the passenger seat area as well. It doesn't feel like as much money was spent there, either.
-
-
-
-<b>Watari:</b> In that sense, the interior materials are quite unbalanced, with both expensive and cheap ones used. 
-
-
-
-<b>Hoshijima:</b> In the case of the Custom, since the console is in the middle, if you want to install an air conditioner, it will go right in front of the passenger seat.
-
-
-
-<b>Watari:</b> When I sat in the passenger's seat, I felt like I was riding on a baggage carousel. (laughs)
-
-
-
-<b>Hirao:</b> Considering the overall layout, isn't the 1300 a bit narrow? With such high performance, it's fine to say that it's a small car with an engine from a higher class, but wouldn't you say that it has a body that is a step below the engine?
-
-
-
-<b>Watari:</b> In Europe, people would say that the car is small compared to its engine.
-
-
-
-<b>Mabuchi:</b> Actually, this was also the case with the sedan. There were many discussions. There was a question of whether we should make it a little wider, but we felt that as cars become more popular, bigger is not necessarily better. We thought that there would come a time when we would return to the original dimensions. Also, in Japan, with road conditions and parking issues, we thought it would be fine for the car to have a character that is something like, "a small pepper with a spicy kick." As you say, there is some debate about whether it is comfortable enough for five people, but among coupes, we think it is among the better ones.
-
-
-
-<b><u>0-400m in 17.1 Seconds</b></u>
-
-
-
-<b>Magazine:</b> We would like to see the results of the performance measurements taken by the Hirao Laboratory.
-
-
-
-<b>Furutani:</b> Standing-start acceleration times for the Coupe 9 are 10.9 seconds for 0-200m and 17.1 seconds for 0-400m. In terms of time to speed, it takes 3.5 seconds to reach 40km/h, 5.5 seconds to reach 60km/h, and 12.2 seconds to reach 100km/h. Overtaking from 30km/h takes 1.9 seconds to 40km/h, 5.9 seconds to 60km/h, 9.5 seconds to 80km/h, and 13.6 seconds to 100km/h. 
-
-
-
-Next, the automatic Coupe 7 accelerates from 0-200m in 12.5 seconds and 0-400m 19.7 seconds. In terms of time to speed, it takes 4.4 seconds for 40km/h, 7.4 seconds for 60km/h, and 17.6 seconds for 100km/h. 
-
-
-
-<b>Magazine:</b> The automatic model did not have as much front wheelspin when starting off.
-
-
-
-<b>Furutani:</b> Yes, the front wheels of the Coupe 9 were spinning quite a bit, but the automatic didn't slip as much.
-
-
-
-<b>Magazine:</b> Even when starting under normal driving conditions, you can get front wheelspin, so I feel like the tires will wear out quickly...
-
-
-
-<b>Mabuchi:</b> The FF design makes it inevitable that front tire wear will occur a little earlier. We ask our users to rotate the tires more frequently. In this case, I don't think the average tread life is bad at all.
-
-
-
-<b>Hattori:</b> We advise that the rotation period is every 5,000km. By contrast, the rear tires do not wear down very much at all. If you're driving only on the Tomei Expressway, the figure without rotation is 100,000km. 
-
-
-
-<b>Magazine:</b> Next, we would like to ask for the data on noise levels.
-
-
-
-<b>Watari:</b> Speaking of driving on the Tomei Expressway, in the past, the surface of the Third Keihin Expressway was relatively better in terms of noise at low speeds, and the data for the Third Keihin Expressway and the Murayama course were not that different, so that's where I took measurements. But since the Tomei Expressway can be driven at 100km/h, I tried taking measurements there this time. I think the readings are a little higher than the data we've had up to now, but from my experience driving in the city, I don't think it will have too much of an impact on the comparative data, so I think it will be a good idea to continue with this change in the test routine and see how it goes.
-
-
-
-<b>Tateishi:</b> In terms of vibration frequency, the sprung vibration frequency is 1.5Hz for both front and rear, and 13.0Hz for unsprung vibration front and rear. The noise level is 67 phons at 40km/h, 68 phons at 60km/h, 72 phons at 80km/h, 77 phons at 100km/h, 76 phons at 110km/h, and 79 phons at 120km/h.
-
-
-
-The 7 automatic is 62 phons at 40km/h, 66 phons at 60km/h, 72 phons at 80km/h, 77 phons at 100km/h, 76 phons at 110km/h, and 76 phons at 120km/h. 
-
-
-
-<b>Watari:</b> I don't think it's very high. If I had to say, the only thing that stands out is the increase at 90km/h. I wonder what that peak is, and the low-speed numbers are also generally high. Even with the data we've had up until now, when comparing coupes and sedans of the same class, the low-speed data is higher.
-
-
-
-<b>Mabuchi:</b> The peak at 90km/h is due to the resonance of the exhaust sound. We would like to fix that somehow. We're thinking about changing the bulkhead. 
-
-
-
-<b>Watari:</b> In relation to sound, another aspect of the imbalance I mentioned earlier is that some parts of the interior can produce cheap noises. I think it would be good to eliminate these noises in places like the dashboard and steering column. 
-
-
-
-In terms of ride comfort and up-and-down vibration, the sprung frequency of 1.5Hz is about standard for this class of car, but what the user thinks will depend on their priorities. If it were really being used as a family car, I think it would be better to lower the spring rates a little more. On the other hand, I think street racers will want to raise them even higher than this. I've been thinking lately that cars like this should offer two different spring constants for the suspension.
-
-
-
-The car we took measurements on was the 9S, which has slightly stronger rear dampers. The sound is exactly the same as the 7, but the automatic model's noise level peaks at 90km/h, while the 9S peaks at a slightly higher speed. This is partly due to the gear ratios, and partly because the automatic model has a different muffler, and the exhaust shape is slightly different than that of the manual transmission model.
-
-
-
-<b>Tateishi:</b> The automatic transmission model is showing similar results, but I previously measured the 1300 99S sedan on Honda's test course, and the results were almost the same at low speeds, except for the peak at 90km/h. At high speeds, the values are lower.
-
-
-
-<b>Higuchi:</b> I think the noise would be a problem if you were in a park or somewhere quiet like that, or idling with all the windows closed, but I think that's especially true of the coupe.
-
-
-
-<b>Hirao:</b> How fast does the engine idle?
-
-
-
-<b>Irikoshi:</b> It's 750rpm. The automatic version is around 700rpm.
-
-
+<b>Irikawa:</b> About 750rpm. The automatic is roughly 700rpm as well.
 
 <b><u>Better Fuel Economy Than the Sedan</b></u>
 
+<b>Magazine:</b> Next, let's have the results of the fuel-economy testing.
 
+<b>Sano:</b> I'll begin with the Coupe 9S. The results showed a fair amount of variation. At worst, the figures at 40km/h varied by as much as 4-5km/l.
 
-<b>Magazine:</b> Next, we'd like to ask for the results of the fuel economy tests.
+The recorded figures were 19.8km/l at 40km/h, 20.4km/l at 60km/h, 18.6km/l at 80km/h, 16.3km/l at 100km/h, 13.4km/l at 120km/h, and 10.3km/l at 140km/h.
 
+For the model-route fuel-consumption test, the car returned 11.5km/l at a target speed of 40km/h, with an average actual speed of 22.8km/h. When the target speed was 60km/h, the average speed was 25.4km/h and fuel consumption was 9.6km/l.
 
+Turning to the Coupe 7 Automatic, the constant-speed figures were quite consistent and showed little variation: 17.0km/l at 40km/h, 16.8km/l at 60km/h, 14.9km/l at 80km/h, 12.6km/l at 100km/h, 10.0km/l at 120km/h, and 7.0km/l at 140km/h.
 
-<b>Sano:</b> I'll start with the Coupe 9S. The fuel economy varied quite a bit. At its worst, it varied by 4-5km/l over a 40km/h range of speeds. The steady-speed data is 19.8km/l at 40km/h, 20.4km/l at 60km/h, 18.6km/l at 80km/h, 16.3km/l at 100km/h, 13.4km/l at 120km/h, and 10.3km/l at 140km/h. 
+<b>Oguchi:</b> At highway speeds, that's a difference of a little over 20-30%.
 
+As for the model-route test we conducted later, this was carried out in actual city driving. Although the speed limit was 40km/h, the actual average speed worked out to only a little over 20km/h, and even then the car returned 11.5km/l.
 
+In practical use, I doubt the figures would become much worse than that.
 
-The model operating fuel consumption is 11.5km/l at an average speed of 22.8km/h in a simulated 40km/h speed zone, and 9.6km/l at an average speed of 25.4km/h when the speed zone is 60km/h. 
+<b>Magazine:</b> Looking at these fuel-consumption figures, one gets the impression that the engine's output belongs more in the 1.5-liter class or above. Doesn't it consume rather a lot of fuel?
 
+<b>Watari:</b> Those figures do seem a little on the high side to me.
 
+<b>Higuchi:</b> It's good in terms of horsepower-per-fuel consumption, but not so good in terms of displacement-per-fuel consumption.
 
-Next, the 7 automatic's fuel economy figures are quite consistent: 17.0km/l at 40km/h, 16.8km/l at 60km/h, 14.9km/l at 80km/h, 12.8km/l at 100km/h, 10.0km/l at 120km/h, and 7.0km/l at 140km/h.
+<b>Sano:</b> That's not really true of the Coupe 9. 
 
+It managed to reach more than 20km/l. We recently tested the Sedan 99, and in the model-route test the coupe recorded 11.5km/l at the 40km/h setting, compared with 10.7km/l for the sedan, so the coupe was actually better.
 
+The same was true at the 60km/h setting. The coupe returned 9.6km/l, while the sedan managed 9.1km/l. Both are good figures.
 
-On minor expressways, it's about 20-30% better. The fuel economy I recorded later was 11.5km/l, based on a model run in a real city, with a speed limit of 40km/h and an average speed of 20km/h. This figure suggests that it won't get any worse in real-world driving.
+<b>Mabuchi:</b> As part of our CO-emissions countermeasures introduced at the end of last year, we revised the carburetor specifications and modified the hot-air intake system. I think that's why the results are better than when the sedan was tested the previous year.
 
+<b>Oguchi:</b> One factor may be that the exhaust-emissions requirements have allowed the engine to run a slightly leaner mixture. Fuel economy has improved as well, so I imagine that's one of the changes you've made...
 
+There was something else that caught my attention. When we were running laps at Yatabe, we returned after driving flat-out, close to maximum speed, and found that the idle characteristics had changed noticeably.
 
-<b>Magazine:</b> According to this fuel economy data, while the car is more powerful than some cars in the 1.5-liter class, the fuel consumption figures are a little high.
+Another thing was the fuel-consumption testing itself. The figures didn't change, but at first Mr. Sano had a very difficult time because the data simply wouldn't settle down. The readings were scattered all over the place. We even began to wonder whether the instruments were malfunctioning. Then we switched to the torque-converter car and everything immediately became consistent, which struck us as rather odd.
 
+<b>Mabuchi:</b> I'm not sure I understand what would cause the measurements to vary so much.
 
+<b>Oguchi:</b> And it's not something one normally expects to see with idle speed, either.
 
-<b>Higuchi:</b> In terms of fuel efficiency, it's good for its horsepower, but bad for its cc displacement.
+<b>Mabuchi:</b> Well, for example, there will be differences between an engine that is still quite cold and one that has fully warmed up. The cars are adjusted during final inspection in a fully warmed-up condition, so provided nothing is wrong with the adjustment itself, there should be no reason for temperature-related changes of that sort.
 
+<b>Hoshijima:</b> As it happens, I drove this car about 10,000 kilometers across the United States.
 
+Fuel consumption worked out at almost exactly 25 miles per gallon throughout the trip. Converted to metric units, that's about 10.2-10.3km/l.
 
-<b>Sano:</b> This is less true with the 9. It managed to reach over 20km/l. When I did a practical fuel economy run with the 99 sedan, it got 10.7km/l, while the coupe got 11.5km/l, which is good. In a simulated 60km/h speed zone the coupe achieved 9.6km/l, while the sedan achieved 9.1km/l, both of which are good figures.
+And that was while driving at speeds considerably higher than those normally maintained in typical American traffic.
 
+The worst fuel economy came in Arizona, where I encountered a tremendous sandstorm. Speeds weren't especially high under those conditions, but even so I was cruising at around 130-140km/h and still managed roughly 8km/l.
 
+The best figure I saw was about 12km/l.
 
-<b>Mabuchi:</b> As part of the CO countermeasures implemented at the end of last year, we made small changes to the carburetor and the hot-air intake control system, so I think it's better than when we measured the sedan last year.
+To me, that seemed entirely in line with what American buyers expect from a small car.
 
+<b><u>Tendency to Wander on a Closed Throttle</b></u>
 
+<b>Magazine:</b> What do you make of the fact that the coupe seems to return better fuel economy than the sedan?
 
-<b>Oguchi:</b> If this is related to exhaust gas control, wouldn't it be okay to just make the mixture a little leaner? Fuel efficiency has also improved, so it's one of the many changes that have been made...
+<b>Hirao:</b> Well, the coupe has a lower drag coefficient than the sedan, so naturally you'd expect it to do better.
 
+<b>Magazine:</b> We didn't test the manual-transmission Coupe 7 this time, but how much difference is there in fuel economy between the four-carburetor and single-carburetor versions?
 
+<b>Mabuchi:</b> In terms of fuel consumption, they're about the same.
 
-Then something that bothered me was that when I was driving around Yatabe, I had the accelerator down hard and drove at close to top speed, and when I came back to the pits, the idling speed had completely changed.
+In fact, I think the four-carburetor version is better at higher speeds.
 
+<b>Hoshijima:</b> On the Tomei, the four-carburetor car is about 1km/l better.
 
-
-Another thing is that while the average fuel economy hasn't changed, at first, Mr. Sano was having a very hard time with individual measurements, the data was all over the place, which was unsettling. We gave up, thinking that the test equipment was broken, but when we moved on to the 7 automatic it was working fine, so we thought something must be wrong. 
-
-
-
-<b>Mabuchi:</b> You mention the measured data was inconsistent, but I don't understand what that means.
-
-
-
-<b>Higuchi:</b> I didn't expect the idling would change that often.
-
-
-
-<b>Mabuchi:</b> Maybe this was because, for example, the engine was very cold. The values will change depending on whether the engine is cold or warm. We adjust the engine before shipping when it is in a fairly warm state, so unless the adjustment is poor, it is unlikely that a warm engine should be affected.
-
-
-
-<b>Hoshijima:</b> I happened to drive about 10,000km in the US with this car, and the fuel economy was almost perfectly consistent, at 25 miles per gallon. In terms of liters, that is 10.2 to 10.3km/l. We were traveling at a much faster speed than the average American traffic. The worst was in Arizona, where we were hit by a massive sandstorm and couldn't go very fast. But, at 130-140km/h, I got about 8km/l. At its best, I got about 12km/l. I thought that this was probably about what people in America expect from a small car.
-
-
-
-<b><u>Confused Direction With Power Off</b></u>
-
-
-
-<b>Magazine:</b> Why do you think the coupe's fuel economy is better than the sedan's?
-
-
-
-<b>Hirao:</b> In short, the drag coefficient is lower than that of the sedan, so it's only natural that it is better in this regard.
-
-
-
-<b>Magazine:</b> We didn't measure the 7 model with the manual transmission this time, but what is the difference between the four-carb and the single-carb car? Is it a big difference?
-
-
-
-<b>Mabuchi:</b> In terms of fuel economy, it's roughly the same. In fact, I think the four-carb model is better for highway fuel economy. 
-
-
-
-<b>Hoshijima:</b> On the Tomei Expressway, the four-carb is about 1km/l better.
-
-
-
-<b>Watari:</b> What is the tank capacity of the coupe?
-
-
+<b>Watari:</b> What's the fuel-tank capacity of the coupe?
 
 <b>Mabuchi:</b> 45 liters.
 
+<b>Magazine:</b> Next, let's have the results of the handling and stability tests.
 
+<b>Saito:</b> The catalog lists a practical turning radius of 4.8m. We measured an outside turning radius of 5.25m and an inside radius of 2.92m, which are essentially the same as the sedan's figures.
 
-<b>Magazine:</b> Next, please provide us with the results of the maneuverability and stability tests.
+Steering effort at a standstill was measured at Yatabe. Turning to the right, effort was 6.5kg at 90°, 8.5kg at 180°, 10.5kg at 270°, and 10.5kg at 360°. Turning to the left, the corresponding figures were 8.0kg, 11.5kg, 10.0kg, and 11.5kg. Since these measurements were conducted at Yatabe, road-surface conditions differed somewhat from those used in our previous tests.
 
+As for hands-off stability, the highest test speed was 120km/h. At 50, 60, and 70km/h, convergence was quite good, but from about 80-120km/h the damping characteristics became somewhat weaker.
 
+<b>Hirao:</b> One thing that caught my attention while driving on the expressway was that when I lifted off the throttle, the car couldn't seem to settle on a direction. That tendency is definitely there.
 
-<b>Saito:</b> The practical turning radius is listed as 4.8m, and the measured outer turning radius was 5.25m and the inner turning radius was 2.92m, which is roughly the same as that of the sedan. The steering force for turning the wheel when stationary is 6.5kg for 90° to the right, 8.5kg for 180°, 10.5 for 270°, and 10.5 for 360°. To the left, 90° is 8.0kg, 180° is 11.5kg, 270° is 10.1kg, and 360° is 11.5kg.
+At one point, I happened to be on a slight downhill grade. I was driving in the passing lane when another car came up behind me, so I accelerated to about 130km/h, completed the overtake, and then immediately lifted off the accelerator. At that point, the car no longer seemed to have a clear sense of direction.
 
+Up to then I'd completely forgotten about any such tendency, so it made me stop and think. I tried it several more times. With the throttle applied, the car tracked straight and true; lift off, and it became less certain. I came away feeling that this characteristic is definitely present.
 
+Because of that, it seems to me that the test results could vary depending on whether the car was under power during the measurement or whether the throttle happened to be lifted at that moment.
 
-The highest speed reached in the free-release stability test was 120km/h. At the initial lower speeds of 50km/h, 60km/h, and 70km/h the car converged well, but the damping ability decreases slightly from about 80km/h to 120km/h.
+<b>Oguchi:</b> Driving by feel on the Yatabe course, I gradually increased speed, held a slight steering angle and then lifted off the throttle. Up to around 100km/h, I noticed virtually nothing.
 
+Only when speeds reached 120–130km/h did I begin to think, "Ah, maybe that's it..." and even then only slightly.
 
+<b><u>Front-Wheel Drive on the Rise Worldwide</b></u>
 
-<b>Hirao:</b> One thing that bothered me when I was driving on the expressway was that when I backed off the power, it felt like the car couldn't decide which direction to go. This is a definitely a characteristic of the car. To give one example, this was on a slight downhill slope, but I was driving in the express lane and someone was chasing me, so I increased my speed to about 130km/h to get some distance from them, and then immediately took my foot off the accelerator. However, the car would not steer in the right direction. Up until then I had been driving without paying attention to such things, so I thought it was strange and repeated the inputs, trying various things, and whenever I stepped on the accelerator the car would steer in the right direction, but when I took my foot off the accelerator it would not steer in the right direction. I felt this is definitely something that happens.
+<b>Hirao:</b> I suspect it's the sort of thing you don't really notice when you're out on a wide-open course like Yatabe driving by yourself. But when you're driving with three cars side-by-side, there are moments when you suddenly think, "Huh."
 
+Because the engine is relatively powerful, the effect shows up more clearly. If the engine were smaller, I imagine it would be subtle enough that you might not notice it at all.
 
+<b>Mori:</b> There's probably some truth to that.
 
-So in terms of the free-release stability testing, I think the data will be slightly different depending on whether power was being applied during the test or whether the power was immediately released.
+<b>Higuchi:</b> For someone who drives actively and anticipates what's happening, it's very safe. For someone who doesn't, it could be rather dangerous.
 
+<b>Okazaki:</b> I think the change in steering effort is part of it. When that combines with the car's response, there are moments when it suddenly makes an unexpected movement at the wrong time, and I find that rather frightening.
 
+Personally, I make a point of completing my braking before turning in. If you try it in a wide-open area, what you're really dealing with is the onset of a spin-out.
 
-<b>Oguchi:</b> I drove at the Yatabe course to get a feel for this, gradually increasing the speed, adjusting the steering, and then taking my foot off the accelerator, and as I increased the speed up through about 100km/h, I hardly felt anything. But when I got to 120-130km/h, I thought, "Oh, there it is."
+<b>Mabuchi:</b> The whole FF-versus-FR debate tends to be colored by the conventional wisdom that has surrounded automobiles up to now, and that's why these points become contentious.
 
+Front-wheel drive has its drawbacks, just as it has its advantages.
 
+When people begin weighing one against the other, the discussion inevitably turns to which system is better. Yet if we look at worldwide trends, the number of FF cars continues to increase steadily.
 
-<b><u>FF is Increasing Worldwide</b></u>
+In that sense, whether a car is FF or FR, future progress will depend on how well we can develop the strengths of each layout while eliminating as many of their weaknesses as possible.
 
+We regard that as both our responsibility and the essential nature of technological progress.
 
+<b>Higuchi:</b> The shortcomings of FR are already well known to most people.
 
-<b>Hirao:</b> I don't think you'll feel it much when you're driving alone on a relatively wide course like Yatabe. However, when you're driving in traffic on a three-lane road, it's a bit unnerving. 
+Because drivers have become accustomed to them, they tend to regard those shortcomings simply as familiar quirks.
 
+With FF, on the other hand, people are less accustomed to its behavior. As a result, the moment something feels a little unusual, they make a great fuss over it.
 
+<b>Watari:</b> FR is the most ordinary layout of all. It has no particularly outstanding qualities.
 
-The engine is large, so it has a big effect. I think if the engine was smaller, you wouldn't even notice it...
+FF, on the other hand, has clear strengths, but it also has clear weaknesses. One could argue that, overall, the two average out to much the same thing. Yet the strengths and weaknesses of FF tend to stand out more clearly, making the differences appear larger than they really are.
 
+<b><u>Overly Effective Air Conditioner</b></u>
 
+<b>Magazine:</b> Next, let's look at the weight-related data.
 
-<b>Mori:</b> Yes, there is some truth to that.
+<b>Ishikawa:</b> Including the spare tire and tools, vehicle weight was 921kg. Weight distribution was 62% front and 38% rear, with the left front corner approximately 15kg heavier than the right. The rear was evenly balanced.
 
+With five occupants aboard, weight distribution shifts to 55:45.
 
+As for wheel alignment, with a single occupant the front wheels exhibit a moderate amount of toe-in. With five occupants, that decreases considerably.
 
-<b>Higuchi:</b> It's perfectly safe for people who think proactively about driving safely, but dangerous for people with a passive attitude towards safe driving. 
+Camber is also very slight. With five occupants, the wheels assume a small amount of negative camber and the toe setting shifts toward toe-out.
 
+Regarding the brakes, the system uses front discs and rear leading-trailing drums with servo assistance, though in practice the servo effect seems to act primarily on the front brakes.
 
+The front brakes do the majority of the work, giving the impression of extremely front-biased distribution. At approximately 0.6g deceleration, with a pedal effort of 20kg, the front-to-rear distribution is 83:17. It feels as though the car is stopping almost entirely on the front brakes.
 
-<b>Okazaki:</b> There is definitely a change in steering force. The chassis reaction coincides with that, and it feels unsettling. Sometimes this happens suddenly, which can be scary. 
+The pedal effort required for 0.6g deceleration measured about 25kg in bench testing, but in road testing the figure dropped to just 14kg, making the brakes feel very light in actual use.
 
+<b>Mori:</b> Normal brake pads require a certain bedding-in period before they settle down completely. During that time, pedal effort can be somewhat higher, so I imagine that's responsible for at least part of the difference.
 
+<b>Hirao:</b> The lighter figure is the way the system is really intended to perform, isn't it?
 
-In actual driving, I just slowed all the way down before entering corners, but when I tried harder on the wide area of the test course, I ended up spinning out. 
+<b>Mori:</b> Yes, according to our internal data.
 
+<b>Magazine:</b> Next, we'd like the visibility measurements.
 
+<b>Hirata:</b> We measured only the Coupe 9.
 
-<b>Mabuchi:</b> Regarding the FF discussion, there is a kind of common sense that has applied to automobiles up until now, so there are various issues in that regard, and FF has its advantages and disadvantages. I think there will be debate as to which is better, but looking at the global trend, FF is currently on the rise. 
+Using a seating reference point 110cm above the ground, with the driver's eyepoint 54cm from the windshield and 42cm from the center of the rearview mirror, the visible field through the windshield measured 33° to the right and 63° to the left, for a total of 96°.
 
+Vertically, visibility extended 19° upward and 9.5° downward, for a total of 28.5°.
 
+The rear-window visible field measured 13° to the right and 34.5° to the left, for a total of 47.5°. Vertically, it measured 5° upward and 2.5° downward, totaling 7.5°.
 
-In that sense, in order to further develop in the future, whether it is FF or FR, we need to maximize the strengths and eliminate the weaknesses as much as possible. That is our duty, and I believe that this is the advancement of technology.
+The windshield wipers swept 24° to the right and 57° to the left, for a total swept area of 81°.
 
+The total blind area in the horizontal plane was 66.5°, of which 25° lay directly ahead.
 
+<b>Higuchi:</b> How does the eyepoint height compare with that of an ordinary passenger car?
 
-<b>Higuchi:</b> The disadvantages of FR are already common knowledge and are well-understood by many people, so I think people have become accustomed to it and think of its flaws as simple quirks.
+<b>Hirata:</b> It's not especially low.
 
+<b>Magazine:</b> Next, let's move on to the dimensional data...
 
+<b>Onda:</b> I think the styling has been improved by retaining the sedan's wheelbase while increasing the overhangs, creating more space at the rear and giving the front end greater visual depth through the grille and other detailing.
 
-When it comes to FF, perhaps because people are not as used to it as they are to FR, they may make a big fuss if they notice something is a little off.
+Because the positions of the four wheels remain unchanged, the body itself has grown larger. Yet one of the perennial problems with coupes--interior roominess--seems to have been addressed rather successfully. The rear seat and trunk, in particular, are dramatically different from the sedan's and offer noticeably more space than similar cars.
 
+As for interior ergonomics, the novelty lies less in the reach to the controls and more in the way they're arranged. I think drivers will find it very appealing.
 
+At the same time, it's a little disappointing that despite the advantages of front-wheel drive and its flat floor, the area beside the pedals feels somewhat cramped, as though some of that spacious floor area has been sacrificed.
 
-<b>Watari:</b> FR is the most conventional and has no outstanding features. FF has its good points but also its bad points, and on average they balance out, but the more familiar one seems better. 
+The instruments, on the other hand, are positively lavish. The large gauges lined up across the panel contribute greatly to the car's showroom appeal.
 
+<b>Hoshijima:</b> I'm not entirely convinced that placing the air conditioner unit in the dashboard is the best solution. If anything, it works too well. I think it might be better if the unit were located farther toward the rear of the cabin.
 
+<b>Hirao:</b> I don't mind the outlets being at the front. But I think the vents should be integrated into the dashboard itself.
 
-<b><u>Overly Effective Cooler</b></u>
+When you want rapid cooling, you direct the airflow at your face first.
 
+After that, you can deflect it as necessary.
 
+<b>Hoshijima:</b> The problem is that it cools too effectively. The passenger side becomes practically freezing. At least that was my experience about a year ago.
 
-<b>Magazine:</b> Next, let's take a look at some weight-related data.
+<b>Watari:</b> A front-discharge system requires very careful thought.
 
+<b>Mabuchi:</b> When we were experimenting with air-conditioning systems some time ago, we found that from the standpoint of what might be called healthy air conditioning, the ideal was to lower the cabin temperature by only about five degrees relative to the outside air.
 
+The trouble is that customers find that completely unsatisfactory. Their attitude tends to be, "If it's too cold, I can always turn it off."
 
-<b>Ishikawa:</b> The weight is 921kg with spare tire and tools, with a weight distribution of 62% at the front and 38% at the rear. The measured weight at the left front wheel is about 15kg heavier than the front right, while the rear is the same on both sides. With five people on board, the weight distribution if 55:45. The wheel alignment is such that there is a medium amount of toe-in when one person is on board; with five people on board, the toe-in decreases.
+<b>Hirao:</b> The problem is that the moment you turn it off, it becomes hot again. (laughs)
 
+Then when you switch it back on, it's immediately too cold. That's why the argument that "you can always turn it off" doesn't really hold up.
 
+<b>Magazine:</b> Next, let's move on to the safety data.
 
-There's also a slight amount of camber. With five people on board, the camber reverses into negative camber. The brakes are discs in the front and leading-trailing type drums in the rear, but the servo only seems to work on the front discs. 
+<b>Higuchi:</b> Our evaluation is based largely on how safe a car appears upon visual inspection.
 
+On a scale of 100 points, this car scores 87. Cars in this class used to start at around 70 points, and only since last year have we begun seeing scores in the 80s.
 
+An 87-point score essentially means that just about every expected safety feature has been fitted.
 
-The front brakes are working hard, and the front-to-rear brake distribution is extremely front-heavy, giving a ratio of 83:17 when deceleration is around 0.6g, with a pedal force of about 20kg. It felt like most of the braking was coming from the front.
+The challenge going forward, I think, is not simply adding safety equipment, but making people actually want to use it--and making it convenient to use.
 
+Take seat belts, for example. Many people have them but never wear them. More often than not, they're left muddied on the floor. In this car, however, they've been arranged so they can be stowed neatly away.
 
-
-The pedal force at 0.6g deceleration is approximately 25kg in bench tests, but the road test results show that it is a very light 14kg. 
-
-
-
-<b>Mori:</b> With normal pads, it takes a little while for the pedal to settle, and during that time there are times when the pedal pressure is a little higher, so I think it varies.
-
-
-
-<b>Hirao:</b> But the nature of it is basically light.
-
-
-
-<b>Mori:</b> Yes, that's the case according to our internal data.
-
-
-
-<b>Magazine:</b> We would also like to ask for the visual field data.
-
-
-
-<b>Hirata:</b> I only took measurements on the 9, and I measured the distance from the ground to the height of my viewpoint at 110cm, the distance from my viewpoint to the windshield at 54cm, and the distance to the center of the rearview mirror at 42cm. The visible range through the windshield was 33° to the right and 63° to the left, for a total of 96°. The front and rear directions were 19° up and 9.5° down, for a total of 26.5°. The visible range through the rear window was 13° to the right and 34.5° to the left, for a total of 47.5°, 5° up and 2.5° down through the rearview mirror, for a total of 7.5°, and the wiper wiping range was 24° to the right and 57° left, for a total of 81°. The invisible range in the horizontal plane at the time is 66.5°, of which 25° is in the forward direction.
-
-
-
-<b>Higuchi:</b> How much ground clearance is there compared to a normal car?
-
-
-
-<b>Hirata:</b> It's actually not that low.
-
-
-
-<b>Magazine:</b> Please share the data on dimensions.
-
-
-
-<b>Onda:</b> The wheelbase is the same as the sedan. In terms of dimensions, I think the styling has been improved by making the overhangs larger, increasing the space at the back, and making the grille and other parts more deeply curved at the front. 
-
-
-
-The position of the four wheels remains the same, so the body is larger, but the interior space, which is always an issue for a coupe, seems to have been greatly improved. The rear seats and trunk space in particular have changed dramatically from the sedan, and are more spacious than similar cars. The interior space is more about the new layout than the dimensions, and it seems to be very popular with drivers.
-
-
-
-Also, while FF cars have a flat floor, the space next to the pedals is cramped, and it feels like a large amount of floor space has been sacrificed. The gauges are luxurious and generously sized, so I think they are a good feature in terms of perceived product value.
-
-
-
-<b>Hoshijima:</b> I think it's a bad idea to have the air conditioner on the dashboard. It's too conspicuous, so I think it would be better to have it installed at the rear of the cabin.
-
-
-
-<b>Hirao:</b> I think it's fine for the air to exit in the front, but even if it's in front, I think the grille that comes out should come out from somewhere on the dash panel. And that way, if you want to feel the cool air immediately, you can point it at your face first. Then you can move it away as needed.  
-
-
-
-<b>Hoshijima:</b> It was so sensitive that I practically froze in the passenger's seat. That was about a year ago.
-
-
-
-<b>Watari:</b> Next time we'll have to be more careful to test it before the summer holidays.
-
-
-
-<b>Mabuchi:</b> When we tried out various air conditioners last year, in terms of healthy cooling, it was actually best to keep the temperature about 5 degrees cooler than the outside temperature, but from the customer's point of view, this was not enough. If it was too cold, they thought, "well, then I'll just turn it off."
-
-
-
-<b>Hirao:</b> But if I turn it off, it gets too hot right away. (laughs) And if I turn it on, it gets too cold right away. So the argument, "just turn it off" doesn't hold water.
-
-
-
-<b>Magazine:</b> Now let's take a look at some safety-related data.
-
-
-
-<b>Higuchi:</b> It certainly appears to be safe. Using our methods, out of a total 100 points, this car gets 87 points. Cars like this started out at around 70 points, but since last year they've been in the 80s. I think the 87 point rating is basically because it has all the features you could want, and the question going forward will be whether the safety features are easy to use, and make you want to use them or not.
-
-
-
-For example, many people have seat belts but don't use them, so they end up covered in mud on the floor of the car, but this one has a neat design that makes them easy to store them away.
-
-
-
-<b>Magazine:</b> Thank you all for your continued support.
+<b>Magazine:</b> Thank you all very much for your time today.
 
 
 <b><u>Postscript: Story Photos</b></u>

@@ -51,7 +51,7 @@ For the suspension, Bluebird-type components are used at the front, tuned to sui
 
 <b>Magazine:</b> So one might say the Excellent was created through the subtlety of combination. From here on, cars of this type --what might be called multi-model, small-volume production--will likely increase. In that sense, it could be considered something of a forerunner…
 
-<b>Sonoda:</b> From mass-market cars through the small and medium classes, and up to the President, I believe the chassis-related components--aside from special-purpose vehicles--have essentially reached a certain stage of completion. Therefore, we considered the approach of making full use of these components to develop new models.
+<b>Sonoda:</b> From mass-market cars through the small and medium classes, and up to the President, we believe the chassis-related components--aside from special-purpose vehicles--have essentially reached a certain stage of completion. Therefore, we considered the approach of making full use of these components to develop new models.
 
 <b>Magazine:</b> In that case, issues of matching the various units and achieving overall balance must have presented some difficulty. Were there particular challenges in that respect?
 
