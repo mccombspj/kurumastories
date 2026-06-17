@@ -35,7 +35,7 @@ The test car this time is the “Z-L,” the popular version of the Nissan Fairl
 
 <b><u>The Fairlady That Survived</b></u>
 
-A blazing summer day—there is something exhilarating about driving a sports car flat out, the wind rushing full against one’s face. The origins of Japan’s domestic sports cars date back exactly twelve years, to June 1959, when the first model of its kind was introduced. That car was the Datsun Sports S211, which may be regarded as the predecessor of the Fairlady. Its body was made of plastic.
+A blazing summer day—there is something exhilarating about driving a sports car flat out, the wind rushing full against one’s face. The beginning of domestic sports cars in Japan dates back exactly twelve years, to June 1959, when the first such model was introduced. That car was the Datsun Sports S211, which may be regarded as the predecessor of the Fairlady. Its body was made of plastic.
 
 The history of the Fairlady itself begins the following year, in 1960, with the launch of the Datsun Fairlady SP211. In 1962 came the Datsun Fairlady SP310, which combined the Bluebird’s frame with the Cedric’s 1488cc G-type engine. Though it underwent several minor revisions, this basic model remained in production until 1965.
 
@@ -45,7 +45,7 @@ Then, in March 1967, the Fairlady advanced further with the arrival of the Datsu
 
 At last, in the autumn of 1969, a new model appeared that drew the full attention of sports-car enthusiasts: the Fairlady Z, in the form we know today. The letter “Z,” like X and Y, represents an unknown quantity, chosen to symbolize a car striving toward the ultimate.
 
-There were, of course, other sports cars along the way, such as the Prince Skyline Sport, the Honda S500, and the S800 mentioned earlier. Yet one by one they disappeared from the scene. Today, aside from the Fairlady, there are few genuine Japanese sports cars still offered to the public.
+There were, of course, other sports cars along the way, such as the Prince Skyline Sport, the Honda S500, and the Sports 800 mentioned earlier. Yet one by one they disappeared from the scene. Today, aside from the Fairlady, there are few genuine Japanese sports cars still offered to the public.
 
 In the scorching heat of summer, rather than creeping through the city in a plain sedan, one naturally wants to take to the highway in a sports car and enjoy the breeze. Among the members of our test group, someone casually suggested that this month's subject should be the Fairlady, the domestic sports car with the longest history. After all, it had only recently finished in first and second place in the East African Safari Rally.
 

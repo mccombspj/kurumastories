@@ -92,7 +92,7 @@ The test car on this occasion was the 80ps Cherry Coupe 1200 X-1. As usual, the 
 
 The route followed our standard pattern: onto the Tomei Expressway from Tokyo IC to Gotemba IC, over Otome Pass, up the Hakone Turnpike, back again via Otome Pass, and finally returning to Tokyo on the Tomei.
 
-At the post-drive meeting back at the Fantasy Drive-In, several points were raised. While the car was praised for its high-speed cruising ability and straight-line stability, there were also remarks that “on climbs and descents, as well as through corners, some of the less favorable traits of the front-wheel-drive layout are apparent.” Others noted the presence of a “booming resonance around 90km/h,” while concerns were also expressed about “an imbalance between the steering wheel position and angle and the relationship of the pedals and running gear.” Rearward visibility, too, became a topic of discussion.
+At the post-drive meeting back at the Fantasy Drive-In, several points were raised. While the car was praised for its high-speed cruising ability and straight-line stability, there were also remarks that “on climbs and descents, as well as through corners, some of the less favorable traits of the front-wheel-drive layout are apparent.” Others noted the presence of a “booming resonance around 90km/h,” while concerns were also expressed about “an imbalance between the steering wheel position and angle and its relationship to the pedals and footwell.” Rearward visibility, too, became a topic of discussion.
 
 On the other hand, more favorable opinions included remarks such as “it represents good value for the price,” and “it’s an ideal car for leisure use.”
 
@@ -110,7 +110,7 @@ At the other end of the scale, the engine also displays notable tenacity at low 
 
 However, this inherent flexibility is somewhat undermined by the difficulty of throttle control. The issue lies in the relatively large throttle opening angle for very small movements of the accelerator pedal.
 
-As a result, the car’s naturally sharp response becomes exaggerated: slight pressure on the pedal causes the car to lurch forward abruptly, while lifting off produces an equally sudden onset of engine braking.
+As a result, the car’s naturally sharp response becomes exaggerated: slight pressure on the pedal causes the car to lurch forward abruptly, while lifting off produces an equally sudden tug of engine braking.
 
 This characteristic makes smooth low-speed driving more difficult than it should be, requiring the driver to pay close attention to pedal modulation.
 

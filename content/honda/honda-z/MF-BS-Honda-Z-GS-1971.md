@@ -180,12 +180,12 @@ In general, human adaptability includes both functions that one "gets used to" a
 
 <b><u>Economy: The Most Expensive Kei Car</b></u> <i>(Reiko Ikuuchi)</i>
 
-The Honda Z-GS tested here carries a Tokyo delivery price of 465,000 yen, making it the most expensive kei car on the market. For reference, here are the highest-priced models from each kei car series (as detailed in our March 1971 issue):
-Honda Z-GS — 465,000 yen
-Minica GL — 425,000 yen
-Suzuki Fronte SSSR (with radial tires) — 421,000 yen
-Subaru R-2 GL — 410,000 yen
-Fellow Max SS — 408,000 yen
+The Honda Z-GS tested here carries a Tokyo delivery price of 465,000 yen, making it the most expensive kei car on the market. For reference, here are the highest-priced models from each kei car series (as detailed in our March 1971 issue):<br><br>
+Honda Z-GS — 465,000 yen<br>
+Minica GL — 425,000 yen<br>
+Suzuki Fronte SSSR (with radial tires) — 421,000 yen<br>
+Subaru R-2 GL — 410,000 yen<br>
+Fellow Max SS — 408,000 yen<br>
 
 That said, the Z-GS comes equipped with nearly everything one might expect of a sporting car: a 5-speed transmission, twin carburetors, front servo-assisted disc brakes with PCV-equipped rear drums, and radial tires. Seen in that light, it may not be especially expensive after all.
 
