@@ -148,7 +148,7 @@ You also end up with things you don’t need, like a clock--and if, say, you don
 
 <b>Higuchi:</b> In the past, OHC was more expensive, but today I don’t think you can say one is definitively more costly than the other. For example, with this engine, the use of double rocker arms increases the parts count, so a single OHC might even be cheaper in some cases.
 
-<b>Nishida:</b> The point is, we achieve the same functionality as a DOHC, with reliability and good serviceability.
+<b>Nishida:</b> The point is, we achieve the same functionality as OHC, with reliability and good serviceability.
 
 <b>Magazine:</b> How about quietness?
 

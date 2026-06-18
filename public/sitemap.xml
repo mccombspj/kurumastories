@@ -410,6 +410,9 @@
     <loc>http://localhost:1313/toyota/crown/mf-rtd-toyota-crown-hardtop-super-saloon-1971/</loc>
     <lastmod>2025-11-18T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mitsubishi/colt-galant-gto/mf-bs-mitsubishi-colt-galant-gto-17x-ii-1972/</loc>
+    <lastmod>2026-06-17T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/subaru/leone/mf-rt-subaru-leone-coupe-1400gsr-1972/</loc>
     <lastmod>2026-06-10T04:50:49-07:00</lastmod>
   </url><url>
@@ -500,19 +503,22 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mitsubishi/colt-galant-gto/</loc>
+    <lastmod>2026-06-17T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mitsubishi/</loc>
+    <lastmod>2026-06-17T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-17T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/subaru/leone/</loc>
     <lastmod>2026-06-10T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/subaru/</loc>
     <lastmod>2026-06-10T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-10T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-fto/</loc>
-    <lastmod>2026-06-09T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mitsubishi/</loc>
     <lastmod>2026-06-09T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/fairlady/</loc>
@@ -571,9 +577,6 @@
   </url><url>
     <loc>http://localhost:1313/nissan/cherry/</loc>
     <lastmod>2026-05-09T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mitsubishi/colt-galant-gto/</loc>
-    <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>

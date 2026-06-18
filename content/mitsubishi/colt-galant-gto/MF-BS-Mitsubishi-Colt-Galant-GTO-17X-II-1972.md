@@ -71,11 +71,11 @@ The 1600cc Galant GTO lineup has now been joined by the new 17X series, powered 
 
 The Galant GTO series first appeared in November 1970. Its dramatic styling--highlighted by its ducktail rear treatment and 50-inch-radius curved side glass—generated considerable attention at the time, and it still remains fresh.
 
-The newly introduced 17X Series consists of three basic models: the XI (single carburetor, 105ps), the XII (twin carburetors, 115ps), and the XII Automatic (twin carburetors, 115ps). In addition, a regular-fuel version of the XII is offered as an optional specification.
+The newly introduced 17X Series consists of three basic models: the X-I (single carburetor, 105ps), the X-II (twin carburetors, 115ps), and the X-II Automatic (twin carburetors, 115ps). In addition, a regular-fuel version of the X-II is offered as an optional specification.
 
 Inside and out, these models differ little from the existing GTO 1600 range. One visible change appears at the rear, where the combination lamps have been revised: on the 1600 all four lenses are red, while on the 1700 the inner pair are amber.
 
-For this month's test, we selected two examples of the XII--a 4-speed and an automatic--with performance measurements taken mostly with the former. (Hill-climb testing was cancelled due to heavy fog at the test site.)
+For this month's test, we selected two examples of the X-II--a 4-speed and an automatic--with performance measurements taken mostly with the former. (Hill-climb testing was cancelled due to heavy fog at the test site.)
 
 As usual, the test group assembled at our base, the Fantasy Drive-In near the Tokyo IC on the Tomei Expressway, before setting off on the familiar route: Tomei Tokyo IC to Gotemba IC, over Otome Pass, up the Hakone Turnpike, back via Otome Pass, and then returning to Tokyo on the Tomei.
 
@@ -101,11 +101,11 @@ For more detailed impressions of the GTO 17X-II, we invite readers to continue w
 
 Already the flagship of the Galant range, the GTO has now received a larger-displacement version of the Saturn engine. The new 4G35 increases displacement from 1597cc to 1686cc by enlarging the bore from 76.9mm to 79mm while retaining the 86mm stroke.
 
-As a result, the XII model's output rises from 110ps/6700rpm to 115ps/ 6500rpm, while maximum torque increases from 14.2kgm/4800rpm to 15.2kgm/4500rpm.
+As a result, the X-II model's output rises from 110ps/6700rpm to 115ps/ 6500rpm, while maximum torque increases from 14.2kgm/4800rpm to 15.2kgm/4500rpm.
 
 A number of other improvements have been incorporated as well. In an effort to reduce exhaust emissions, the SU twin carburetors have been replaced by a pair of Strombergs. Durability has also been enhanced through revisions including new piston-ring materials, oil-control rings with coil expanders, and the addition of flywheel locating dowels to increase fastening strength.
 
-The new 4G35 retains all of the Saturn engine's established virtues, including its crossflow hemispherical combustion chambers and five-bearing support for both the camshaft and crankshaft. As a result, the additional 100cc has been translated into usable performance with impressive efficiency, bringing meaningful gains in both power and torque. This makes the XII a genuinely muscular machine.
+The new 4G35 retains all of the Saturn engine's established virtues, including its crossflow hemispherical combustion chambers and five-bearing support for both the camshaft and crankshaft. As a result, the additional 100cc has been translated into usable performance with impressive efficiency, bringing meaningful gains in both power and torque. This makes the X-II a genuinely muscular machine.
 
 Since both the final-drive ratio (3.889:1) and the transmission ratios remain unchanged, the improvement in response is immediately apparent from behind the wheel.
 

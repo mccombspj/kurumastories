@@ -72,11 +72,11 @@ It has now been six years since the first Colt appeared. And yet, despite that p
 
 Mitsubishi itself is an enormous enterprise, one of Japan’s foremost industrial giants. Before the war, it stood at the center of shipbuilding and aircraft production. But when it came to automobiles, the company inevitably showed signs of being “behind the curve.” That situation has persisted for nearly a decade.
 
-For that reason, the Galant—newly born within the Colt lineage—has drawn a great deal of attention. Particularly so at a moment when Mitsubishi’s tie-up with Chrysler is beginning to take shape. Might this car earn the kind of evaluation never before seen among domestic models? Could this colt become a true thoroughbred, capable of dramatically transforming the image of Mitsubishi automobiles?
+For that reason, the Galant—newly born within the Colt lineage—has drawn a great deal of attention. Particularly so at a moment when Mitsubishi’s tie-up with Chrysler is beginning to take shape. Might this car earn the kind of evaluation never before seen among domestic models? Could this colt become a true thoroughbred, capable of dramatically transforming the image of Mitsubishi cars?
 
 Our test began, first and foremost, with keen interest...
 
-The evaluation group gathered around the pure-white Colt Galant AI brought out onto the street. The test car was the 1300cc AI Custom. Output: 87ps. Price: 601,000 yen. Top speed: 150km/h. Casting sidelong glances at these appealing figures, the group circled the car, quietly appraising it.
+The evaluation group gathered around the pure-white Colt Galant AI parked on the street. The test car was the 1300cc AI Custom. Output: 87ps. Price: 601,000 yen. Top speed: 150km/h. Casting sidelong glances at these appealing figures, the group circled the car, quietly appraising it.
 
 They are cautious. Without a word, they climb aboard.
 
@@ -105,7 +105,7 @@ Later, we checked the figures. Comparing the dimensions of the Bluebird (of the 
 
 “By all logic, the Galant ought to look lower.”
 “They must have had exports to America in mind. Their bumpers are wide over there.”
-“The wide area below the bumper probably helps as a mudguard.”
+“The large area below the bumper probably helps as a mudguard.”
 “You could even recess fog lamps into it.”
 
 At this point the discussion drifts somewhat into background noise. Since styling is closely tied to “product appeal,” we won’t belabor it further. But when we stopped at the Ebina Service Area for fuel, we took the opportunity to listen to a few voices from the “outfield seats”: a service station attendant, a young GT-car enthusiast, and a university student.
@@ -156,7 +156,7 @@ Interior noise levels measured 68 phons at 60km/h, 73 phons at 80km/h, and 80 ph
 
 “I thought wind noise was relatively low. I felt that the interior became suddenly noisy past 100km/h, but maybe it was the vents all along. Perhaps they were left open,” said Sasaki.
 
-Between 100km/h and 110km/h, a degree of yawing becomes noticeable. Every member of the group felt it. It produces a faintly uneasy sensation. At first we wondered whether it was simply the road surface. "It isn’t severe, but when the speedometer is indicating over 100km/h, the car feels almost as though it is being struck by crosswinds. It took some time before we realized--ah, this is yawing,” said Sasaki. “It happens even at 90km/h. It’s an unpleasant feeling,” added Sanbon and Okubo.
+Between 100km/h and 110km/h, a degree of yawing becomes noticeable. Every member of the group felt it. It produces a faintly uneasy sensation. At first we wondered whether it was simply the road surface. "It isn’t severe, but when the speedometer is indicating over 100km/h, the car feels almost as though it is being buffeted by crosswinds. It took some time before we realized--ah, this is yawing,” said Sasaki. “It happens even at 90km/h. It’s an unpleasant feeling,” added Sanbon and Okubo.
 
 Yet once off the expressway and back onto ordinary roads, the sensation is quickly forgotten. One reason is the seat construction--a unitary urethane-foam structure--which works remarkably well. Thigh support is by no means poor.
 
