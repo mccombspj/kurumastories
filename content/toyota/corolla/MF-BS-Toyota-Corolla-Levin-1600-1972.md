@@ -217,9 +217,9 @@ Until now, the most expensive Corolla had been the 1400 Coupe SL, priced at 659,
 
 That additional cost buys an increase in output from 95 to 115 horsepower, a rise in top speed from 170km/h to an estimated 190km/h, and an improvement in 0-400m from 16.8 to 16.4 seconds. The driveline and suspension have also been strengthened accordingly.
 
-Fuel consumption figures are shown in the table below.
+Fuel consumption figures recorded over Section 1, 2, and 3 of the test route were 11.4km/l, 8.6km/l, and 11.1km/l respectively.
 
-For comparison, the Isuzu 117 Coupe EC (1600cc), previously tested in this series, returned 9.9km/L, 8.8km/L, and 11.1km/L over the same sections. The Levin's figures are somewhat better, though once vehicle weight and other factors are considered, the difference is not dramatic.
+For comparison, the Isuzu 117 Coupe EC (1600cc), previously tested in this series, returned 9.9km/l, 8.8km/l, and 11.1km/l over the same sections. The Levin's figures are somewhat better, though once vehicle weight and other factors are considered, the difference is not dramatic.
 
 Running costs are another matter. Compared with an ordinary Corolla, the Levin moves into the over-1.5-liter tax bracket, increasing annual road tax from 21,000 yen to 24,000 yen.
 

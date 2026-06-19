@@ -275,6 +275,9 @@
     <loc>http://localhost:1313/isuzu/bellett/mm-tdr-isuzu-bellett-1600gtr-1969/</loc>
     <lastmod>2026-05-27T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corolla/mf-bs-toyota-corolla-levin-1600-1972/</loc>
+    <lastmod>2026-06-19T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mazda/luce-rotary-coupe/mm-tdr-mazda-luce-rotary-coupe-1969/</loc>
     <lastmod>2026-05-23T04:50:49-07:00</lastmod>
   </url><url>
@@ -506,13 +509,16 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/corona-mark-ii/</loc>
-    <lastmod>2026-06-18T04:50:49-07:00</lastmod>
+    <loc>http://localhost:1313/toyota/corolla/</loc>
+    <lastmod>2026-06-19T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/</loc>
-    <lastmod>2026-06-18T04:50:49-07:00</lastmod>
+    <lastmod>2026-06-19T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-19T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/corona-mark-ii/</loc>
     <lastmod>2026-06-18T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/</loc>
@@ -583,9 +589,6 @@
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/corolla/</loc>
-    <lastmod>2026-05-02T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/crown/</loc>
     <lastmod>2026-04-23T04:50:49-07:00</lastmod>
