@@ -250,7 +250,7 @@ Routine maintenance costs are also slightly higher for the twin-carburetor engin
 
 <i>"If you buy this car expecting the performance suggested by its specifications, you may come away disappointed." —Suzuki</i>
 
-<b><u>Product Appeal: A Car Intended to Satisfy Every Need</b></u> <i>(Kensuke Ishizu)</i>
+<b><u>Product Appeal: A Car That Aims to Satisfy Every Need</b></u> <i>(Kensuke Ishizu)</i>
 
 This may not reflect particularly well on me, but the other day I was pulled over by an unmarked police car on the Tomei Expressway. I was clocked at 31km/h over the limit, earned a 30-day license suspension, and paid a substantial fine.
 

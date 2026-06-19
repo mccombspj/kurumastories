@@ -2,7 +2,7 @@
 
 
 
-title = "Toyota Corolla Levin 1600 (1972)"
+title = "Toyota Corolla Levin (1972)"
 
 weight = 20
 
@@ -29,7 +29,7 @@ draft = false
 
 
 
-<b>Summary:</b> A "fun car" with the 1.6-liter DOHC engine from the Celica/Carina GT mounted in a Corolla body. It is powerful, flexible, and has an excellent gearbox, but is slightly low-geared overall. The ride and cabin usability are sufficient despite the reinforced suspension. Handling is excellent thanks to the 175-width tires, but fuel economy is poor and the noise level is high.
+<b>Summary:</b> A "fun car" with the 1.6-liter DOHC engine from the Celica/Carina GT mounted in a Corolla body. It is powerful, flexible, and has an excellent gearbox, but is slightly low-geared overall. Ride and cabin usability are sufficient despite the reinforced suspension. Handling is excellent thanks to the 175-width tires, but fuel economy is poor and the noise level is high.
 
 
 
@@ -41,15 +41,15 @@ draft = false
 
 
 
-When speaking of practical passenger cars in Japan, the Toyota Corolla is invariably one of the first names to be mentioned. This is not simply a matter of production and sales volume; in terms of its concept and equipment as well, it has consistently led the market as a product of the country’s largest manufacturer. For better or worse, it exerts an overwhelming influence on its competitors, and can fairly be said to qualify as a representative example of the domestic automobile.
+When speaking of practical passenger cars in Japan, the Toyota Corolla is invariably one of the first names to be mentioned. This is not simply a matter of production and sales volume; in terms of its concept and equipment as well, it has consistently led the market as a product of the country’s largest manufacturer. For better or worse, it exerts an overwhelming influence on its competitors, and can fairly be said to qualify as a representative example of the domestic car.
 
-Accordingly, the range of models that make up the series is extraordinarily broad. Through a virtually endless combination of body shells, engines, gearboxes, brakes, and an almost bewildering array of accessories, the lineup spans a wide price range--from 438,500 yen (for the 1200 Standard two-door sedan) to 644,000 yen (for the 1400 Coupe SR)--and even when considering only the basic variations, there are well over a dozen distinct models.
+Accordingly, the range of models that make up the series is extraordinarily broad. Through a virtually endless combination of body shells, engines, gearboxes, brakes, and an almost bewildering array of accessories, the lineup spans a wide price range--from 438,500 yen (for the 1200 Standard two-door sedan) to 644,000 yen (for the 1400 Coupe SR)--and even when considering only the basic variations, there are over a dozen distinct models.
 
-In addition, the Toyota Sprinter series, which was originally introduced as one of the Corolla’s variations before becoming a separate model, offers almost the same lineup. Taken together, it is hardly an exaggeration to say that within this class, virtually every conceivable user requirement can be met by some model within the series.
+In addition, the Toyota Sprinter series, which was originally introduced as one of the Corolla’s variations before becoming a separate model, offers almost the same range. Taken together, it is hardly an exaggeration to say that within this class, virtually every conceivable user requirement can be met by some model within the series.
 
-Naturally, specifications aimed at the enthusiast are also included. At present, these are centered around the 1200 and 1400 SL models (each available as both coupe and sedan), with the Coupe SR--equipped with a 5-speed gearbox and a strengthened suspension--standing at the top of the range in both performance and price. These models have enjoyed considerable popularity in the market, offering a high standard of performance, ease of driving, reasonably well-balanced (if not especially outstanding) handling and comfort, and an equipment level that may be called generous for their price. Moreover, fully tuned works machines based on these models have recently been a consistently strong presence in domestic touring car racing.
+Naturally, specifications aimed at enthusiasts are also included. Up to now, these have centered around the 1200 and 1400 SL models (each available as a coupe and sedan), with the Coupe SR--equipped with a 5-speed gearbox and a strengthened suspension--standing at the top of the range in performance and price. These models have enjoyed considerable popularity in the market, offering a high standard of performance, ease of driving, reasonably well-balanced (if not especially outstanding) handling and comfort, and an equipment level that may be called generous for their price. Moreover, fully tuned works machines based on these models have recently been a consistently strong presence in domestic touring car racing.
 
-However, there are always those who take a different view. A certain group of enthusiasts--who regard themselves as more serious, or perhaps more "authentic"--tend to favor cars such as the Nissan Skyline GT-R, Isuzu Bellett GTR, Toyota Corona Mark II GSS, and Mitsubishi Galant GTO-MR, choosing them largely on the strength of their specifications, even if they are not especially practical or economical choices. In terms of sales numbers, these cars are in the minority, but their role as image leaders within their respective series gives them considerable promotional value, creating the impression that all models in the lineup share the character of these “super sports” machines.
+However, there are always those who take a different view. A certain group of enthusiasts--who regard themselves as more serious, or perhaps more "genuine"--tend to favor cars such as the Nissan Skyline GT-R, Isuzu Bellett GTR, Toyota Corona Mark II GSS, and Mitsubishi Galant GTO MR, choosing them largely on the strength of their specifications, even if they are not especially practical or economical choices. In terms of sales numbers, these cars are in the minority, but their role as image leaders within their respective series gives them considerable promotional value, creating the impression that all models in the lineup share the character of these “super sports” machines.
 
 Toyota, ever attentive to such matters, could hardly ignore this approach for one of its most important model lines. So, in March of this year, it introduced a version of the Corolla liberally seasoned with “hot sauce” under the name Toyota Corolla Levin. Its twin in the Sprinter line is known as the Toyota Sprinter Trueno.
 
