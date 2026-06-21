@@ -122,7 +122,7 @@ draft = false
 
 If the Celica already offered a 1600cc DOHC-powered model, then why had there been no equivalent version of the Carina? And why has the long-awaited "Carina GT" finally appeared now?
 
-While driving the car, we explored the background behind those questions.
+While driving the car, we explored the background behind these questions.
 
 <b><u>The Composition of the Carina 1600GT</b></u>
 
@@ -218,13 +218,13 @@ The same can be said of the body style itself.
 
 Having gone to the trouble of offering an affordable GT aimed at adults, one cannot help wondering why Toyota did not make the basic model a four-door. Since it is not a hardtop, the two-door sedan currently occupies a rather awkward middle ground and lacks much real charm. At the very least, few people spending more than 800,000 yen are likely to want a car whose rear side windows are all but fixed shut.
 
-In that sense, if the Carina is truly to serve as a "GT for adults," then it ought naturally to exist as a four-door GT.
+In that sense, if the Carina is truly to serve as a "GT for adults," then it is only natural that it should take the form of a four-door GT.
 
 Indeed, it could very well be the answer to the question of why someone would choose a Carina GT instead of simply buying a Celica GT.
 
-The desire to drive something different from everyone else’s car may escalate endlessly, but in the end, the point of compromise tends to arrive at a fairly restrained automobile endowed with high performance.
+The desire to drive something different from everyone else’s car may escalate endlessly, but in the end, the point of compromise tends to arrive at a fairly restrained car endowed with high performance.
 
-When that ideal is satisfied neither by the Corolla nor by the Corona Hardtop, the presently absent Carina four-door GT begins to appear as an extremely attractive proposition for mature buyers.
+When that ideal is satisfied neither by the Corolla nor by the Corona Hardtop, the presently absent Carina four-door GT emerges as an extremely attractive proposition for mature buyers.
 
 If Toyota were to build such a car, it would amount to a pairing not unlike Alfa Romeo’s GT and Berlina models.
 
@@ -234,17 +234,17 @@ To remain stubbornly attached to this half-hearted two-door format is to risk sq
 
 The test car was finished in a light blue body color described as "Mermaid Blue"--bright, certainly, but by no means flashy.
 
-Whether in city traffic, on the highway, or among tourist areas, it attracted remarkably little attention. In other words, unless one drew close, nobody realized that it was in fact a high-performance machine powered by a 115ps DOHC engine.
+Whether in city traffic, on the highway, or among tourist areas, it attracted remarkably little attention. In other words, unless they drew close, no one realized that it was in fact a high-performance car powered by a 115ps DOHC engine.
 
 And yet, compared with the feeling one gets behind the wheel of the former top-grade Carina 1600ST, the difference here lay first and foremost in the driver’s own sense of psychological superiority.
 
 That quiet confidence of “Mine is something different” is immensely satisfying to the driver.
 
-The 5-speed gearbox itself is unchanged from the ST, so in that respect there is nothing fundamentally new. One might imagine that pairing it with a 115ps DOHC engine producing 14.5kgm of torque would result in a hot-blooded machine. In reality, however, the sensation is better described as a cool, mature kind of effortless performance.
+The 5-speed gearbox itself is unchanged from the ST, so in that respect there is nothing fundamentally new. One might imagine that pairing it with a 115ps DOHC engine producing 14.5kgm of torque would result in a hot-blooded machine. In reality, however, the sensation is better described as a cool, mature kind of reserve performance.
 
 This is one of the characteristic qualities of Toyota’s DOHC cars: rather than feeling peaky or temperamental, their ample torque instead translates into practical ease of use. As a result, even the 5-speed gearbox can be operated with a certain casualness.
 
-And when acceleration is desired, a single step on the throttle delivers a seemingly endless surge of speed.
+And when acceleration is desired, one squeeze of the throttle delivers a seemingly endless surge of speed.
 
 Sudden lurches or shrieking tire noises under acceleration are simply unnecessary for a car like this to feel fast.
 
