@@ -291,7 +291,9 @@ Apparently, no car yet exists with a ventilation system sufficiently effective t
 
 Taken as a whole, however, the new Skyline represents a substantial improvement over its predecessor in nearly every respect. For those who find the Bluebird 1300 somewhat inadequate, yet have no need for a car as large as the Laurel, it should prove a very appealing five-passenger family sedan.
 
+<b><u>Postscript: Story Photos</b></u>
 
+{{< gallery "CG-RT-Nissan-Skyline-1500-Sporty-Deluxe-1969-Gallery" >}}
 
 ---
 
