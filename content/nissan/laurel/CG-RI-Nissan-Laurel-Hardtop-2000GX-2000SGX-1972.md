@@ -10,7 +10,7 @@ title = "Nissan Laurel 2000GX and 2000SGX Hardtops (1972)"
 
 
 
-weight = 3
+weight = 4
 
 
 
