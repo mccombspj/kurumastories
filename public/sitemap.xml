@@ -56,6 +56,9 @@
     <loc>http://localhost:1313/mitsubishi/lancer/cg-fomd-mitsubishi-lancer-1600gsr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/laurel/mf-tdr-nissan-laurel-hardtop-2000sgx-1972/</loc>
+    <lastmod>2026-06-25T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/laurel/cg-ri-nissan-laurel-hardtop-2000gx-2000sgx-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -515,13 +518,19 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/laurel/</loc>
+    <lastmod>2026-06-25T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/</loc>
+    <lastmod>2026-06-25T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-25T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/toyota/corona-mark-ii/</loc>
     <lastmod>2026-06-24T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/</loc>
-    <lastmod>2026-06-24T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-06-24T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant/</loc>
@@ -548,17 +557,11 @@
     <loc>http://localhost:1313/nissan/fairlady/</loc>
     <lastmod>2026-06-07T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nissan/</loc>
-    <lastmod>2026-06-07T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/mazda/capella/</loc>
     <lastmod>2026-06-05T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/</loc>
     <lastmod>2026-06-05T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/laurel/</loc>
-    <lastmod>2026-06-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/subaru/1000/</loc>
     <lastmod>2026-06-02T04:50:49-07:00</lastmod>
