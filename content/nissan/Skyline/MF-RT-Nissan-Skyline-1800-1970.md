@@ -69,7 +69,7 @@ For the cylinder head, the diameter of both the intake and exhaust valves has be
 
 <b>Terashima:</b> That's probably because they wanted it to cruise quietly at high speed.
 
-<b>Hirao:</b> Anyway, when I see them out on the Tomei Expressway, the Skyline is usually going faster than the Laurel.
+<b>Hirao:</b> Anyway, when I see them out on the Tomei Expressway, the Skylines are usually going faster than the Laurels.
 
 <b>Higuchi:</b> Isn’t it just that Laurel owners are more refined than Skyline owners? (laughs)
 
@@ -77,7 +77,7 @@ For the cylinder head, the diameter of both the intake and exhaust valves has be
 
 <b>Magazine:</b> We couldn’t test it this time, but there’s also the automatic version. It seems to be very well matched to the car.
 
-<b>Terashima:</b> From 0–400 meters, it’s only about one second slower.
+<b>Terashima:</b> From 0–400m, it’s only about one second slower.
 
 <b>Tanaka:</b> The automatic we’re using now is really quite good. It's much better than the Borg-Warner.
 
@@ -431,9 +431,9 @@ Overall, I think glass that is less likely to shatter is safer, and an argument 
 
 <b>Magazine:</b> It seems to be popular among young people.
 
-<b>Tanaka:</b> After all, when it comes to trends, almost anything can be seen as good once it becomes popular.
+<b>Tanaka:</b> After all, when it comes to trends, almost anything can be seen positively once it becomes popular.
 
-<b>Okazaki:</b> The earlier Prince-era cars were very good when they first came out, but over time, people got tired of them. By contrast, when this new model came out, it wasn’t so good at first. But it's gotten better and better, and now, I think it's become a really good car.
+<b>Okazaki:</b> The earlier Prince-era cars were very good when they first came out, but over time, people got tired of them. By contrast, when this new model came out, it wasn’t so good at first. But it's gotten better and better, and now, I think it's become a genuinely good car.
 
 <b>Magazine:</b> We’d like to conclude this roundtable with Mr. Okazaki’s words of praise. Thank you very much.
 
