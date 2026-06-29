@@ -422,6 +422,9 @@
     <loc>http://localhost:1313/toyota/crown/mf-rtd-toyota-crown-hardtop-super-saloon-1971/</loc>
     <lastmod>2025-11-18T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corona/mf-tdr-toyota-corona-hardtop-2000sr-1972/</loc>
+    <lastmod>2026-06-29T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/mf-bs-mitsubishi-colt-galant-gto-17x-ii-1972/</loc>
     <lastmod>2026-06-17T04:50:49-07:00</lastmod>
   </url><url>
@@ -509,6 +512,12 @@
     <loc>http://localhost:1313/nissan/skyline/cg-ri-nissan-skyline-2000gt-x-hardtop-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/skyline/mf-tdr-nissan-skyline-2000gt-x-hardtop-1972/</loc>
+    <lastmod>2026-06-27T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/skyline/mf-tdr-nissan-skyline-2000gt-1972/</loc>
+    <lastmod>2026-06-28T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/skyline/as-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -521,19 +530,25 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corona/</loc>
+    <lastmod>2026-06-29T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/</loc>
+    <lastmod>2026-06-29T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-29T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/skyline/</loc>
+    <lastmod>2026-06-28T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/</loc>
+    <lastmod>2026-06-28T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/laurel/</loc>
     <lastmod>2026-06-26T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nissan/</loc>
-    <lastmod>2026-06-26T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-26T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/toyota/corona-mark-ii/</loc>
-    <lastmod>2026-06-24T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/</loc>
     <lastmod>2026-06-24T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant/</loc>
@@ -601,9 +616,6 @@
   </url><url>
     <loc>http://localhost:1313/nissan/cherry/</loc>
     <lastmod>2026-05-09T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/skyline/</loc>
-    <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/crown/</loc>
     <lastmod>2026-04-23T04:50:49-07:00</lastmod>
