@@ -32,17 +32,17 @@ draft = false
 
 <b><u>Leader of the Mass-Produced Sports Cars</b></u>
 
-<b>Magazine:</b> First, could you give us an overview of the Fairlady Z-G?
+<b>Magazine:</b> First, could you give us an overview of the Fairlady ZG?
 
 <b>Mizutsu:</b> Let me begin with the background behind the introduction of the Fairlady 240Z.
 
-The Z first went on sale in October 1969, and to date we have sold approximately 100,000 units. Of those, roughly 80-90% have gone to the American market. Export models were fitted with the 2.4-liter engine from the outset.
+The Z first went on sale in October 1969, and to date we have sold approximately 100,000 units. Of those, roughly 80-90% have gone to the American market. Export models were fitted with the 2.4-liter engine from the beginning.
 
-As a result, the name "240Z" first became familiar overseas, and later there was strong demand for it in Japan as well, leading us to introduce it domestically in November of last year. Within the 240Z lineup, the Z-G model is distinguished by the addition of an Aerodyna Nose at the front, which was developed to improve high-speed stability and other performance characteristics. The range consists of two models, including one with an automatic transmission.
+As a result, the name "240Z" first became familiar overseas, and later there was strong demand for it in Japan as well, leading us to introduce it domestically in November of last year. Within the 240Z lineup, the ZG model is distinguished by the addition of an Aerodyna Nose at the front, which was developed to improve high-speed stability and other performance characteristics. The range consists of two models, the second being the automatic-transmission version.
 
 The engine displaces 2393cc. Starting with the twin-carburetor L20 engine previously offered in the Japanese-market Z, we created an enlarged, long-stroke unit with bore and stroke dimensions of 83 × 73.7mm.
 
-To take advantage of production economies, the pistons and certain block components are shared with the 2.6-liter Cedric engine introduced last year--the L26, with an 83 × 79mm bore and stroke. The result is the L24 engine fitted to the 240Z-G. All models are designed to run on regular-grade gasoline.
+To take advantage of production economies, the pistons and certain block components are shared with the 2.6-liter Cedric engine introduced last year--the L26, with an 83 × 79mm bore and stroke. The result is the L24 engine fitted to the 240ZG. All models are designed to run on regular-grade gasoline.
 
 We have also revised the SU carburetor system. The previous exhaust-heated arrangement has been replaced with a hot-water-heated system, making carbon monoxide emissions less sensitive to changes in outside temperature. Our target is to maintain CO levels at a consistent 3%.
 
@@ -56,7 +56,7 @@ There have been no major changes to the chassis itself, though a number of measu
 
 First, the fore-and-aft offset in the rear independent suspension's driveshaft arrangement, previously 35mm, has been reduced to zero in order to eliminate vibration caused by that offset. In addition, the engine's rear support has been changed to a dual-isolation mounting system.
 
-All models are equipped with a 5-speed transmission. It uses Porsche-type synchromesh, and fifth gear is an overdrive ratio.
+A 5-speed transmission is fitted as standard. It uses Porsche-type synchromesh, and fifth gear is an overdrive ratio.
 
 The suspension and brakes are unchanged from before.
 
@@ -72,13 +72,13 @@ As for emissions equipment, in addition to the carburetor revisions I mentioned 
 
 <b>Mizutsu:</b> We built 6,000 cars in April, making this the first sports car to exceed the 6,000-unit mark in a single month. Of those, 5,500 went to the United States, with the remainder serving domestic demand.
 
-The engine is shared with the Cedric, the suspension with the Laurel, and only the body is entirely new. Given that approach, I think it's fair to say it's number one when it comes to mass production.
+The engine shares components with the Cedric, the suspension shares components with the Laurel, and only the body is entirely new. Given that approach, I think it's fair to say it's number one when it comes to mass production.
 
 <b>Hirao:</b> You must not be able to stop smiling these days.
 
-<b>Watari:</b> Looking at the figures alone, the Z432 and this Z-G don't seem all that different in terms of performance. The main difference appears to be engine size. Why is that?
+<b>Watari:</b> Looking at the figures alone, the Z432 and this ZG don't seem all that different in terms of performance. The main difference appears to be engine size. Why is that?
 
-<b>Takei:</b> The Z432's engine is essentially a detuned racing engine. It uses a highly sophisticated 4-valve design, and its torque curve is extremely peaky, which makes it difficult to handle.
+<b>Takei:</b> The Z432's engine is essentially a detuned racing engine. It uses a highly sophisticated 4-valve design, and its torque curve is very peaky, which can make it difficult to handle.
 
 The 240Z, on the other hand, has an exceptionally flat low-speed torque curve and is very easy to drive. The two cars simply have different characters.
 
@@ -98,7 +98,7 @@ The 240Z, on the other hand, has an exceptionally flat low-speed torque curve an
 
 <b>Okazaki:</b> I think the power is entirely adequate. My only reservation is the feel of the engine in the upper rev range.
 
-I've always had the impression that Nissan's L-series engines aren't particularly happy at very high rpm. If it could spin a little more smoothly, from a subjective standpoint, I'd have no complaints at all.
+I've always had the impression that Nissan's L-series engines aren't especially happy at high rpm. If it could spin a little more smoothly, from a subjective standpoint, I'd have no complaints at all.
 
 <b>Oguchi:</b> With a Mercedes engine, to put it somewhat dramatically, the tachometer needle seems to start climbing before your foot has even finished pressing the accelerator.
 
@@ -112,23 +112,23 @@ I've always had the impression that Nissan's L-series engines aren't particularl
 
 <b>Mizutsu:</b> We believe we've already softened them considerably, but apparently not enough. (laughs)
 
-<b>Takei:</b> If we softened them any further, the car's character would suffer. Cornering speeds inevitably rise in a car like this, and body roll would become excessive. It would simply be too dangerous. We've already reached the practical limit.
+<b>Takei:</b> If we softened them any further, the car's character would suffer. Cornering speeds are inevitably higher in a car like this, and body roll would become excessive. It would simply be too dangerous. We've already reached the practical limit.
 
 <b><u>Aerodynamics That Complement the Styling</b></u>
 
 <b>Magazine:</b> Was a separate specification developed for the European market?
 
-<b>Ishikawa (Yasuo):</b> Fundamentally, the styling is the same as the American-market version. However, front and rear spoilers are fitted as standard.
+<b>Ishikawa (Yasuo):</b> In terms of styling, it's basically the same as the American-market version. However, front and rear spoilers are fitted as standard.
 
 The front spoiler is a fairly large piece made of flexible FRP, while the rear spoiler is the same design fitted to the test car here today.
 
-European customers are also much more demanding when it comes to crosswind stability, and cruising speeds can easily be twice what is typical in North America. To cope with those conditions, the suspension has been stiffened further. Front and rear stabilizer bars are fitted, and the springs are firm enough that some might call them rock-hard. In addition, the spoilers and other aerodynamic devices are used to further improve aerodynamic performance.
+European customers are also much more demanding when it comes to crosswind stability, and cruising speeds can easily be twice what is typical in North America. To cope with those conditions, the suspension has been stiffened further. Front and rear stabilizer bars are fitted, and the springs are firm enough that some might call them rock-solid. In addition, the spoilers and other aerodynamic devices are used to further improve aerodynamic performance.
 
-<b>Watari:</b> Having driven it, I'd say the Z-G is about as firm as you'd want to go for Japanese roads. It gives the impression that you couldn't really take it any further.
+<b>Watari:</b> Having driven it, I'd say the ZG is about as firm as you'd want to go for Japanese roads. It gives the impression that you couldn't really take it any further.
 
 <b>Magazine:</b> We've heard that the Aerodyna Nose has a significant aerodynamic effect.
 
-<b>Watari:</b> The Z-G may well be the first Japanese car to integrate that kind of aerodynamic treatment so successfully into the styling.
+<b>Watari:</b> The ZG may well be the first Japanese car to integrate that kind of aerodynamic treatment so successfully into the styling.
 
 The theory and experimental results have long shown that reducing lift improves stability. Even so, I'd imagine the effects at the front and rear are quite different.
 
@@ -154,7 +154,7 @@ It felt rather unsettled.
 
 <b>Takei:</b> In the gusts we had that day, any car would have been blown around.
 
-And with a Z-G, drivers naturally tend to travel faster than they would in an ordinary car. When you're cruising at 130 or 150km/h and suddenly encounter a strong crosswind, it's bound to get your attention.
+And with a ZG, drivers naturally tend to travel faster than they would in an ordinary car. When you're cruising at 130-150km/h and suddenly encounter a strong crosswind, it's bound to get your attention.
 
 <b>Oguchi:</b> I drove it in that same strong wind and even tried a hands-off test up to around 160km/h. The car didn't seem to deviate from its line all that much.
 
@@ -230,7 +230,7 @@ The effect is much greater with small-displacement cars, so I wouldn't have expe
 
 <b>Oguchi:</b> In that case, weight distribution must be the more important factor.
 
-<b>Takei:</b> In the Z-G's case, yes, weight distribution is key.
+<b>Takei:</b> In the ZG's case, yes, weight distribution is key.
 
 Because the car's weight distribution is very close to 50:50, adding another load over the rear axle causes the nose to lift, which also increases aerodynamic drag and results in a noticeable loss.
 
@@ -326,7 +326,7 @@ As for running flat-out in Europe, I don't think there's much point in worrying 
 
 <b>Tateishi:</b> The 2-liter Z was measured in top gear--that is, fourth--and its readings were about 2 phons higher across the board.
 
-<b>Watari:</b> So the Z-G is the quieter car.
+<b>Watari:</b> So the ZG is the quieter car.
 
 Then again, one could argue that at around 100km/h you'd naturally be using overdrive, so perhaps these figures are perfectly appropriate.
 
@@ -522,11 +522,11 @@ When we adjusted the driver's seat to suit our physiques, the seating position e
 
 <b>Watari:</b> I'd much rather have the ashtray somewhere further forward--even if it meant having to hunt around a little for things like the rear-window defogger switch. At least put the ashtray within easier reach.
 
-<b>Takei:</b> The previous model actually had it there, but we were told the area ahead of the shift lever was awkward to use, so it was moved to its present location.
+<b>Takei:</b> The previous model actually had it there, but we were told the area ahead of the shift lever was awkward to use, so it was moved to where it is now.
 
 <b>Watari:</b> Personally, I think the best solution would be separate ashtrays mounted on the dashboard, one for each side. Then again, perhaps the current arrangement works if the seat is positioned farther back. Japanese drivers tend to move the seat well forward, after all...
 
-<b>Magazine:</b> Couldn't it be fitted with a sliding roof?
+<b>Magazine:</b> Could it be fitted with a sliding roof?
 
 <b>Mizutsu:</b> The roof is a little too short. If it were somewhat longer, it could be done.
 
@@ -540,7 +540,7 @@ There was demand for one, and we did consider it, but because the roof is so sho
 
 <b>Magazine:</b> Finally, we've heard exports are going well, but could you tell us about the sales plan?
 
-<b>Inosaki:</b> Domestic sales of the Z series are running at around 400 units per month. Of those, the Z-G accounts for roughly 100 units.
+<b>Inosaki:</b> Domestic sales of the Z series are running at around 400 units per month. Of those, the ZG accounts for roughly 100 units.
 
 As was mentioned earlier, exports are currently around 5,000 units per month.
 
