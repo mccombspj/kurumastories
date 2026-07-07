@@ -84,19 +84,15 @@ Secondly, in terms of the model lineup, we’ve added a hardtop variant. Then, t
 
 As for the specification-level objectives, the key point was to clearly emphasize a user-oriented approach--to provide refinement in the details. In that regard, there are five areas we focused on in particular:
 
-1. Measures against vibration and noise.<br>
-We aimed to improve this significantly over previous models. Specifically, we increased the number of crankshaft balance weights to eight, adopted a three-joint propeller shaft, and improved both engine and exhaust mountings. In addition, we worked extensively on sound insulation. Taken together, these measures have raised the overall level of ride comfort considerably.
+1. Measures against vibration and noise. We aimed to improve this significantly over previous models. Specifically, we increased the number of crankshaft balance weights to eight, adopted a three-joint propeller shaft, and improved both engine and exhaust mountings. In addition, we worked extensively on sound insulation. Taken together, these measures have raised the overall level of ride comfort considerably.
 
-2. Improved usability for the driver.<br>
-For example, a remote-control mechanism allows adjustment of the fender mirror’s field of view, a remote trunk release has been added, and there’s a tail-lamp monitor, intermittent wipers, a heated rear defogger, and centralized door locking. In short, we put quite a lot of thought into all the points the driver interacts with directly.
+2. Improved usability for the driver. For example, a remote-control mechanism allows adjustment of the fender mirror’s field of view, a remote trunk release has been added, and there’s a tail-lamp monitor, intermittent wipers, a heated rear defogger, and centralized door locking. In short, we put quite a lot of thought into all the points the driver interacts with directly.
 
-3. Increased trunk capacity.<br>
-This had not been particularly well received in the past, so we’ve enlarged this area.
+3. Increased trunk capacity. This had not been particularly well received in the past, so we’ve made this area larger.
 
-4. Improved climate control performance.<br>
-With residential air conditioning becoming something of a trend, there is now an expectation for similar comfort in automobiles. The system combines a centrally directed forced ventilation outlet with a heater and side vents to achieve a “cool head, warm feet” effect. There are also ducts to extend heating to the rear. In addition, a thermostatically controlled air-conditioning system is available, allowing for a more ideal cabin environment.
+4. Improved climate control performance. With residential air conditioning becoming something of a trend, there is now an expectation for similar comfort in automobiles. The system combines a centrally directed forced ventilation outlet with a heater and side vents to achieve a “cool head, warm feet” effect. There are also ducts to extend heating to the rear. In addition, a thermostatically controlled air-conditioning system is available, allowing for a more ideal cabin environment.
 
-5. Safety measures.<br>On the braking side, we’ve adopted a larger master-back booster, front disc brakes, and a tandem master cylinder, along with a brake fluid level warning lamp. We’ve also incorporated a steering lock, headrests, and seatbelts, and added warning markings to the speedometer. Overall, we’ve made a substantial effort to improve safety.
+5. Safety measures. On the braking side, we’ve adopted a larger vacuum booster, front disc brakes, and a tandem master cylinder, along with a brake fluid level warning lamp. We’ve also incorporated a steering lock, headrests, and seatbelts, and added warning markings to the speedometer. Overall, we’ve made a substantial effort to improve safety.
 
 <b><u>Orthodox Styling</b></u>
 
@@ -106,7 +102,7 @@ With residential air conditioning becoming something of a trend, there is now an
 
 Looking ahead, we felt this car would inevitably be influenced by the youth market as well. So we considered various directions--something more eye-catching, something more in line with the traditional corporate image, and something in between. We built models along each of those lines and carried them through to full-size proposals. From those, we eventually settled on the present form.
 
-In terms of philosophy, there were two opposing views: one was to aim for something bold and unconventional; the other was that, now that domestic cars have reached their current level, we should pursue something more fundamental. In the end, given the dimensional constraints, we decided the latter was the right approach. I think that also reflects Nissan’s general character.
+In terms of philosophy, there were two opposing views: one was to aim for something bold and unconventional; the other was that, now that domestic cars have reached their current level, we should concentrate on the fundamentals of good design. In the end, given the dimensional constraints, we decided the latter was the right approach. I think that also reflects Nissan’s general character.
 
 As for what we mean by something “fundamental”--design is ultimately about feeling, so there’s no need to make it overly theoretical--but first comes proportion, and then movement, or a sense of flow. In that respect, we asked a great deal of the styling team, but we were able to bring it into line with the intended image.
 
@@ -114,7 +110,7 @@ For the interior as well, we avoided anything showy or excessive, and instead ai
 
 <b>Magazine:</b> So the idea is a more restrained, composed kind of styling?
 
-<b>Yotsumoto:</b> I believe the basic proportions are quite sporty. Within the set dimensional limits--and without sacrificing interior space--to achieve those proportions gives it something close to a kind of fully resolved form. If we were to go further, it would mean adding something more flamboyant, but that wasn’t our intention. If dimensional restrictions are relaxed in the future, that may be another matter. Also, we had to keep in mind the relationship with the Laurel as an existing model line.
+<b>Yotsumoto:</b> I believe the basic proportions are quite sporty. Within the fixed dimensional limits--and without sacrificing interior space--to achieve those proportions gives it something close to a kind of fully resolved form. If we were to go further, it would mean adding something more flamboyant, but that wasn’t our intention. If dimensional restrictions are relaxed in the future, that may be another matter. Also, we had to keep in mind the relationship with the Laurel as an existing model line.
 
 <b>Magazine:</b> If this is the "ultimate" form, does that mean no further model changes are needed for the 2-liter class? (laughs)
 
@@ -124,7 +120,7 @@ For the interior as well, we avoided anything showy or excessive, and instead ai
 
 <b>Watari:</b> These days, everything is starting to look the same. You can’t tell which car is which.
 
-<b>Higuchi:</b> It does resemble something like an Opel in shape. Though I think something a bit more "over-the-top," like the old Gloria’s front grille, might have more appeal. (laughter)
+<b>Higuchi:</b> It does resemble something like an Opel in shape. Though I think something a bit more "overdone," like the old Gloria’s front grille, might have more appeal. (laughs)
 
 <b>Watari:</b> When you’re actually driving, it’s the rear design that tends to stand out more.
 
@@ -144,19 +140,19 @@ For the interior as well, we avoided anything showy or excessive, and instead ai
 
 <b>Magazine:</b> The hardtop seems aimed more at private owners, but its styling doesn’t differ greatly from the sedan's.
 
-<b>Yotsumoto:</b> With a hardtop, you can go either toward a fastback or a landau-style treatment, and for the Cedric we chose the latter. It’s a difficult decision. A fastback raises visibility concerns, which perhaps younger drivers are willing to accept, but many Cedric buyers are older, so that becomes a consideration. There’s also the issue of trunk capacity; with a fastback, it’s difficult to achieve a large trunk lid. In the end, it’s a matter of priorities.
+<b>Yotsumoto:</b> With a hardtop, you can go either toward a fastback or a landau-style treatment, and for the Cedric we chose the latter. It was a difficult decision. A fastback raises visibility concerns, which perhaps younger drivers are willing to accept, but many Cedric buyers are older, so that becomes a consideration. There’s also the issue of trunk capacity; with a fastback, it’s difficult to achieve a large trunk lid. In the end, it’s a matter of priorities.
 
 <b><u>Convenience Features Abound</b></u>
 
-<b>Magazine:</b> There are quite a number of convenience features fitted--could you comment on that?
+<b>Magazine:</b> There are quite a number of convenience features fitted--could you comment on that aspect?
 
-<b>Kageyama:</b> There’s a bit of a paradox: “convenience features can be inconvenient.” Take the remote trunk opener, for example--it uses vacuum assist, but in practice there may be situations where it’s actually less convenient.
+<b>Kageyama:</b> It's a bit of a paradox: “convenience features can be inconvenient.” Take the remote trunk opener, for example--it uses vacuum assist, but in practice there may be situations where it’s actually less convenient.
 
 <b>Watari:</b> Well, you can still open it with the key, so that’s fine, isn’t it?
 
 <b>Hirao:</b> But if you open it from inside, you still have to get out to close it.
 
-<b>Higuchi:</b> If it could be closed from inside, like a taxi door, that would solve it. (laughter)
+<b>Higuchi:</b> If it could be closed from inside, like a taxi door, that would solve it. (laughs)
 
 <b>Takahashi:</b> We’ve had all sorts of ideas internally, but when it comes to the actual equipment, we’ve selected only what we felt was appropriate.
 
@@ -170,7 +166,7 @@ For the interior as well, we avoided anything showy or excessive, and instead ai
 
 <b>Magazine:</b> Still, if you aim for luxury and add too many features, doesn’t the weight increase?
 
-<b>Mizutsu:</b> We’ve kept the vehicle weight at about the same level as before.
+<b>Mizutsu:</b> We’ve kept the vehicle weight about the same as before.
 
 <b><u>0–400m in 18.4 Seconds (GX)</b></u>
 
@@ -212,7 +208,7 @@ The GX we tested was fitted with the optional air conditioner--how much power do
 
 <b>Okazaki:</b> I wondered if it might be because the engine itself revs so smoothly. Previously, above about 5000rpm there was a certain roughness to the way it spun, but that’s been eliminated.
 
-<b>Higuchi:</b> Maybe it’s because the engine note no longer sounds like a typical Nissan unit. (laughter)
+<b>Higuchi:</b> Maybe it’s because the engine no longer sounds like a typical Nissan unit. (laughs)
 
 <b>Watari:</b> Just making the engine quieter makes quite a difference.
 
@@ -276,7 +272,7 @@ That said, the position of the outlets in the front pillars—higher or lower—
 
 <b>Kageyama:</b> I also noticed the sound of the turn signal--that stood out a bit.
 
-<b>Takahashi:</b> It may be a little on the harsh side.
+<b>Takahashi:</b> It may be a little on the loud side.
 
 <b><u>How Does the Power Steering Feel?</b></u>
 
@@ -284,9 +280,9 @@ That said, the position of the outlets in the front pillars—higher or lower—
 
 <b>Toba:</b> The tests were carried out with the hardtop GL. First, the practical minimum turning radius was 5.94m on the outside and 3.23m on the inside, which are typical figures for this class.
 
-The steering gear ratio measured 24.0. At a standstill, with the power assist operating, steering effort was about 3.0-3.5kg; without assist, it rose to around 16-17kg to turn the wheel roughly 180°.
+The steering gear ratio measured 24.0. At a standstill, with the power assist operating, steering effort was about 3.0-3.5kg; without assist, it increased to around 16-17kg to turn the wheel roughly 180°.
 
-As for understeer/oversteer characteristics, the car shows a relatively strong tendency toward understeer. We tested up to about 0.5g of lateral acceleration at a constant steering angle, and it remained in understeer throughout. Even in power-on cornering, there was no tendency toward oversteer.
+As for understeer/oversteer characteristics, the car shows relatively strong understeer. We tested up to about 0.5g of lateral acceleration at a constant steering angle, and it remained in understeer throughout. Even in power-on cornering, there was no tendency toward oversteer.
 
 The roll rate is 5.4°, which is a relatively small value for this class. Steering effort in this test increases smoothly up to around 0.3g, but beyond that it levels off, settling at about 1.2kg.
 
@@ -420,7 +416,7 @@ There is also a tail-lamp monitor, which is a new feature.
 
 <b>Magazine:</b> But do yellow and red lines really contribute to safety?
 
-<b>Hirao:</b> It's not really about "safety" in that sense. It's more a zone that indicates the car is beginning to be under strain.
+<b>Hirao:</b> It's not really about "safety" in that sense. It's more a zone that indicates the car is approaching the limit.
 
 <b>Watari:</b> You could even have a car where 60km/h is the yellow zone and 80km/h is the red zone. (laughs) But for this class, perhaps yellow from 120km/h and red from 150km/h would make sense.
 
@@ -436,7 +432,7 @@ There is also a tail-lamp monitor, which is a new feature.
 
 <b>Higuchi:</b> If we score it out of 100, it’s 95 points. There’s really nothing more to add. From here on, real safety needs to be confirmed through actual crash testing--but we can’t exactly go around destroying cars every time. (laughs)
 
-<b>Hirao:</b> Modern cars are all "crushable" now. I saw a rear-end collision the other day, and it collapsed quite dramatically.
+<b>Hirao:</b> Modern cars are all "crushable" now. I saw a rear-end collision the other day, and it deformed quite dramatically.
 
 <b>Magazine:</b> Finally, what about production plans?
 

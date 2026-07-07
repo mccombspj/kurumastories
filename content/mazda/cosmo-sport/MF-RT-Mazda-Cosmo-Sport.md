@@ -33,7 +33,7 @@ draft = false
 
 <b><u>Unique Rotary Engine Completed</b></u>
 
-<b>Magazine:</b> First, please tell us about the difficulties you faced in completing the rotary engine, which is the heart of the Cosmo.
+<b>Magazine:</b> First, please tell us about the difficulties you faced in completing the rotary engine at the center of the Cosmo.
 
 <b>Yamamoto:</b> It has been about six years since Toyo Kogyo started building rotary engines. During that time, the biggest problem was durability. This was the point we put the most effort into during the research and development stage. After we had a handle on ​​the durability, we solved the problems of optimizing it for use as an automobile engine, such as increasing flexibility to improve performance at low speeds and torque, and we were finally able to reach a point where we could feel absolute confidence in it, which is why we are releasing it now.
 
@@ -193,7 +193,7 @@ In that case, a transmission with fewer gears would be more than sufficient; one
 
 <b>Magazine:</b> What about the suspension's vibration frequency?
 
-<b>Watari:</b> The unsprung vibration frequency at the front is 1.8cps, and the rear is 1.85cps, which corresponds to about 100 cycles per minute. The unsprung vibration frequency is about 12cps, which is a little on the stiff side, but it's a sports car, so that's to be expected. In reality, it feels softer than these numbers suggest.
+<b>Watari:</b> The unsprung vibration frequency at the front is 1.8cps, and the rear is 1.85cps, which corresponds to about 100 cycles per minute. The unsprung vibration frequency is about 12cps, which is a little on the stiff side, but it's a sports car, so that's to be expected. In reality, it feels softer than the figures suggest.
 
 <b>Magazine:</b> Next, please announce the results of the power performance test conducted today at the Miyoshi test course.
 
@@ -227,7 +227,7 @@ Besides that, there is also the issue of tires, and it may be dangerous to reach
 
 <b><u>Slight Understeer</b></u>
 
-<b>Magazine:</b> Let's move on to the topic of maneuverability and stability. 
+<b>Magazine:</b> Let's move on to the topic of handling and stability. 
 
 <b>Kondo:</b> Our methodology was different this time in that Toyo Kogyo published the test data in advance, so we conducted tests mainly to evaluate the feeling while using Toyo Kogyo's data as a reference. First, we tested oversteer and understeer. The Miyoshi skid pad area is large, with a diameter of 100m, so we conducted three types of tests, our usual turning test in a circle with a radius of 15m, plus turning tests in a slightly larger radius. First, we started gently in a 15m radius circle, shifted to second gear, and accelerated further. At first there was slight understeer, then the balance became neutral around 40km/h to 50km/h, and from that point on we felt a decrease in steering force. We accelerated to 60km/h, and at that point, it started to oversteer.
 
@@ -365,7 +365,11 @@ Our thinking is that a sedan type is best for the mass market, and we will be ex
 
 <b>Yamamoto:</b> Since it is a new engine, we think the issue of service is a very important one. However, as you have seen, rotary engines have fewer parts to maintain and we think that servicing is actually easier than with reciprocating engines. In the beginning, we want to be as careful as possible so that we can avoid even the slightest oversight, but as the number of rotary engines in practical use increases, we would like to make it easier to service the cars anywhere in the future. 
 
-<b>Magazine:</b> Thank you very much for your continued support.
+<b>Magazine:</b> Thank you all very much.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-RT-Mazda-Cosmo-Sport-1967-Gallery" >}}
 
 ---
 

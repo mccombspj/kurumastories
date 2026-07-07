@@ -50,7 +50,7 @@ The most significant body change compared with previous Z models is at the front
 
 As a result of the overfenders, overall width has increased by 60mm to 1690mm, while overall length has grown by 190mm to 4305mm.
 
-The front and rear bumpers are both urethane rubber units reinforced with metal cores. A rear spoiler is available as an option, and the test car provided for this evaluation is equipped with one.
+The front and rear bumpers are both urethane rubber units reinforced with metal cores. A rear spoiler, as equipped on the car provided for this test, is available as an option.
 
 There have been no major changes to the chassis itself, though a number of measures have been incorporated to reduce noise and vibration.
 
@@ -110,7 +110,7 @@ I've always had the impression that Nissan's L-series engines aren't especially 
 
 <b>Hirao:</b> In that case, would there be an argument for making the springs a little softer?
 
-<b>Mizutsu:</b> We believe we've already softened them considerably, but apparently not enough. (laughs)
+<b>Mizutsu:</b> We believe we've already softened them quite a bit, but apparently not enough. (laughs)
 
 <b>Takei:</b> If we softened them any further, the car's character would suffer. Cornering speeds are inevitably higher in a car like this, and body roll would become excessive. It would simply be too dangerous. We've already reached the practical limit.
 
@@ -168,7 +168,7 @@ It's better to hold the wheel lightly and let the car follow its natural course.
 
 <b>Hirao:</b> It uses rack-and-pinion steering, and the overall steering ratio is quite quick. The steering gain is high as well, so when a crosswind hits and the driver instinctively corrects for it, the response is magnified.
 
-In that sense, it's not so much an external disturbance as an internally created one. (laughs)
+In that case, it's not so much an external disturbance as an internally created one. (laughs)
 
 <b>Watari:</b> How far apart are the aerodynamic center and the center of gravity? Is the aerodynamic center ahead of or behind the wheelbase center, and by what percentage?
 
@@ -190,7 +190,7 @@ When the car passes a crosswind generator during testing, it's immediately obvio
 
 <b>Magazine:</b> Is there any possibility of a 2+2 version?
 
-<b>Mizutsu:</b> There is a school of thought that turning a pure two-seater into a 2+2 inevitably dilutes its image, so we have to approach the idea cautiously.
+<b>Mizutsu:</b> There is a view that turning a pure two-seater into a 2+2 inevitably dilutes its image, so we have to approach the idea cautiously.
 
 <b>Ishikawa (Yasuo):</b> Weight at the rear is one issue, but packaging dimensions are an even bigger one.
 
@@ -204,7 +204,7 @@ And if you're going to seat people in the rear, regulations require roughly 800m
 
 <b>Hoshijima:</b> Whenever I sketch one for fun, it ends up looking exactly like the Jaguar E-Type 2+2.
 
-<b>Mizutsu:</b> And since the Jaguar is often cited as an example that didn't work out particularly well, we're all the more cautious about the idea...
+<b>Mizutsu:</b> The Jaguar is often cited as an example that didn't work out very well, which makes us all the more cautious about the idea...
 
 <b><u>0-400m in 15.7 Seconds</b></u>
 
@@ -230,7 +230,7 @@ The effect is much greater with small-displacement cars, so I wouldn't have expe
 
 <b>Oguchi:</b> In that case, weight distribution must be the more important factor.
 
-<b>Takei:</b> In the ZG's case, yes, weight distribution is key.
+<b>Takei:</b> In the ZG's case, yes, weight distribution is crucial.
 
 Because the car's weight distribution is very close to 50:50, adding another load over the rear axle causes the nose to lift, which also increases aerodynamic drag and results in a noticeable loss.
 
@@ -264,7 +264,7 @@ American drivers tend to assume that a Porsche-type synchromesh should slip into
 
 With an engine like Porsche's, which has very little rotational inertia and gains or sheds revs quickly, that crisp, rifle-bolt shift feel works beautifully. But with an ordinary water-cooled inline-six like this one, inertia is much greater. Even if you try to shift with that same quick action, it doesn't work nearly as well, and the synchronizers wear out very quickly.
 
-Japanese drivers also seem to retain a strong preference for the traditional British-style shift feel—something with a definite, mechanical <i>click-click</i> to it.
+Japanese drivers also still seem to have a strong preference for the traditional British-style shift feel—something with a definite, mechanical <i>click-click</i> to it.
 
 <b>Hirao:</b> That's certainly true.
 
@@ -280,7 +280,7 @@ For the model-route fuel-economy test, the results were 6.6km/l at the 40km/h in
 
 The constant-speed figures are notably flat. The best result was 15.4km/l at 60km/h.
 
-<b>Hirao:</b> The fuel tank holds 60 liters, doesn't it? By today's standards, isn't that rather small?
+<b>Hirao:</b> The fuel tank holds 60 liters, correct? By today's standards, isn't that rather small?
 
 <b>Takei:</b> For Japan it's adequate, but in America or Europe it can seem a little on the small side.
 
@@ -290,7 +290,7 @@ The constant-speed figures are notably flat. The best result was 15.4km/l at 60k
 
 One advantage of the Aerodyna Nose is that it improves fuel economy as well, since aerodynamic drag has been reduced.
 
-<b>Oguchi:</b> Which explains why fuel consumption falls off so little at higher speeds.
+<b>Oguchi:</b> That would explain why fuel consumption falls off so little at higher speeds.
 
 <b>Takei:</b> Fuel economy during high-speed cruising has improved substantially.
 
@@ -326,7 +326,7 @@ As for running flat-out in Europe, I don't think there's much point in worrying 
 
 <b>Tateishi:</b> The 2-liter Z was measured in top gear--that is, fourth--and its readings were about 2 phons higher across the board.
 
-<b>Watari:</b> So the ZG is the quieter car.
+<b>Watari:</b> That would make the ZG quieter.
 
 Then again, one could argue that at around 100km/h you'd naturally be using overdrive, so perhaps these figures are perfectly appropriate.
 
@@ -338,7 +338,7 @@ Then again, one could argue that at around 100km/h you'd naturally be using over
 
 My impression is that, after a great deal of effort, they decided that was the compromise they could live with.
 
-<b>Hoshijima:</b> When this model first appeared in Japan, it produced much the same sort of noise.
+<b>Hoshijima:</b> When this model first appeared in Japan, it produced much the same kind of noise.
 
 The engineers said they understood the cause and expected it would be easy to cure. They worked on countermeasures, but in the end all they discovered was just how difficult it was to eliminate. (laughs)
 
@@ -348,7 +348,7 @@ Looking at the noise figures, the A-weighted results are good, but the C-weighte
 
 I suspect it's a question of the differential mounting.
 
-<b>Mizutsu:</b> We can stop it by using very thick reinforcing plates, but then the car would no longer be commercially viable. So we're still working on a solution.
+<b>Mizutsu:</b> We can stop it by using very thick reinforcing plates, but then the car would no longer be profitable. So we're still working on a solution.
 
 <b>Ishikawa (Yasuo):</b> If we improve the machining accuracy of the differential itself, that noise will be reduced.
 
@@ -364,7 +364,7 @@ But once the vibration disappeared, the remaining noise became much more apparen
 
 There are very few cars that operate comfortably over such a broad speed range, and with a noise issue like this, the acceptable compromise differs from market to market.
 
-In America, the maximum speed limit is 70mph (112km/h), and even in a sports car like this, relatively few drivers go much faster. So if you optimize the car around 70mph, you've done most of what is required.
+In America, the maximum speed limit is 70mph (112km/h), and even in a sports car like this, relatively few drivers go much faster. So if you optimize the car for around 70mph, you've done most of what is required.
 
 In Europe, however, 100km/h is merely a speed you pass through on the way to something faster. It isn't regarded as much of an issue. Instead, refinement has to be maintained at speeds approaching 200km/h.
 
@@ -374,11 +374,11 @@ As a result, compromises are sometimes made around the 100km/h range.
 
 <b>Magazine:</b> Next, let's have the handling and stability results.
 
-<b>Toba:</b> The practical minimum turning radius is 5.35m on the outside and 2.94m on the inside. Compared with the sports cars we've tested so far--the Porsche 911, Mercedes-Benz 350SL, and Toyota 2000GT--the figures are very similar.
+<b>Toba:</b> The practical minimum turning radius is 5.35m on the outside and 2.94m on the inside. Compared with other sports cars we've tested so far--the Porsche 911, Mercedes-Benz 350SL, and Toyota 2000GT--the figures are very similar.
 
 That said, even though the numbers are comparable, forward visibility isn't quite as good. I found myself wondering whether I could place the car accurately through a tight turn.
 
-The overall steering ratio is 16.8. Steering effort increases almost linearly all the way to full lock.
+The overall steering ratio is 16.8. The increase in steering effort is nearly linear all the way to full lock.
 
 At a standstill, steering effort reaches about 15kg at roughly 300° of wheel angle, and exceeds 20kg at full lock. Subjectively, it feels quite heavy.
 
@@ -400,9 +400,9 @@ We conducted hands-off stability testing up to 130km/h, though the analysis is n
 
 <b>Toba:</b> The car does exhibit a fairly strong degree of understeer. Was that intentional, from the standpoint of making it easier to drive?
 
-<b>Takei:</b> That's right. It was a major topic during development. We had to decide whether to build a true sports car or a sporting car with passenger-car ride comfort. The understeer/oversteer characteristics are completely different depending on which direction you take.
+<b>Takei:</b> Yes, that's right. It was a major topic during development. We had to decide whether to build a true sports car or a sporting car with passenger-car ride comfort. The understeer/oversteer characteristics are completely different depending on which direction you take.
 
-Since North America was our primary export market, we aimed for a car that women could also drive comfortably and confidently. As a result, we deliberately built in stronger understeer.
+Since North America is our primary export market, we aimed for a car that women could also drive comfortably and confidently. As a result, we deliberately built in stronger understeer.
 
 The European-specification cars, however, are tuned much closer to neutral.
 
@@ -432,9 +432,9 @@ The one thing that stood out to me was the strong understeer that appears when a
 
 <b>Takei:</b> For drivers who feel that way, there's always the optional suspension package...
 
-<b>Okazaki:</b> But I wouldn't want to lose this ride quality. The balance is excellent, and even when crossing fairly large bumps, the car lands in a very composed attitude.
+<b>Okazaki:</b> But I wouldn't want to lose this ride quality. The balance is excellent, and even when going over fairly large bumps, the motions are well-controlled.
 
-It's really only that understeer under power in the lower gears that concerns me.
+It's really only that understeer under power in the lower gears that bothers me.
 
 <b>Takei:</b> If that's the only issue, fitting the optional rear stabilizer bar should eliminate it. The mounting brackets are already fitted to the domestic-spec cars.
 
@@ -450,7 +450,7 @@ It's really only that understeer under power in the lower gears that concerns me
 
 Alignment settings are quite conservative. Front camber and toe-in are both very small, with the wheels tending slightly toward negative camber.
 
-The brakes are servo-assisted discs at the front, while the rear brakes are fitted with a proportioning valve as well.
+The brakes are servo-assisted front discs and rear leading-trailing drums, and the rear is fitted with a proportioning valve as well.
 
 The pedal effort required to generate 0.6g deceleration measured about 29kg on the brake tester, but on the road it was noticeably lighter. In fact, braking effort seemed to decrease somewhat once the brakes had warmed up.
 
@@ -474,7 +474,7 @@ Overall, the impression was of a braking system that remains extremely stable at
 
 <b>Ishikawa (Yasuo):</b> No, they're the same as the domestic specification. The system has a considerable margin of capacity, so there's no need to change anything.
 
-<b>Magazine:</b> We weren't able to complete our visibility measurements, but unless you're accustomed to a car like this, it's easy to worry about where the front end actually ends.
+<b>Magazine:</b> We weren't able to complete our visibility measurements, but unless you're used to a car like this, it's easy to worry about where the front end actually ends.
 
 <b>Kageyama:</b> That's certainly true. Sitting in the driver's seat, I found myself wishing my eye point were a little higher. Forward visibility is somewhat difficult.
 
@@ -524,7 +524,7 @@ When we adjusted the driver's seat to suit our physiques, the seating position e
 
 <b>Takei:</b> The previous model actually had it there, but we were told the area ahead of the shift lever was awkward to use, so it was moved to where it is now.
 
-<b>Watari:</b> Personally, I think the best solution would be separate ashtrays mounted on the dashboard, one for each side. Then again, perhaps the current arrangement works if the seat is positioned farther back. Japanese drivers tend to move the seat well forward, after all...
+<b>Watari:</b> Personally, I think the best solution would be separate ashtrays mounted on the dashboard, one for each side. Then again, perhaps the current arrangement works if the seat is positioned farther back. Japanese drivers tend to move the seat forward, after all...
 
 <b>Magazine:</b> Could it be fitted with a sliding roof?
 
@@ -546,7 +546,7 @@ As was mentioned earlier, exports are currently around 5,000 units per month.
 
 <b>Magazine:</b> We've heard that in places like America these cars are selling with a premium attached.
 
-<b>Inosaki:</b> Yes, fortunately demand has been very strong. We've heard reports that in the US customers must wait several months before they can take delivery.
+<b>Inosaki:</b> Yes, fortunately demand has been very strong. We've heard reports that in the US customers are waiting several months before they can take delivery.
 
 <b>Magazine:</b> Thank you very much.
 
