@@ -25,7 +25,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> "Bubble Index" Road Test<br>
 <b>Date:</b> July 1972<br>
-<b>Author:</b> "C/G Test Group" (uncredited)
+<b>Author:</b> Osamu Mochizuki, Katsuzo Kageyama, Shigeki Asaoka, Yasuhei Oguchi, Reiko Ikuuchi, Kensuke Ishizu, Motor Fan Editorial Staff (uncredited)
 
 
 
