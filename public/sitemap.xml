@@ -179,6 +179,9 @@
     <loc>http://localhost:1313/honda/honda-1300/mm-tdr-honda-1300-99s-1969/</loc>
     <lastmod>2026-05-29T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corolla/mf-tdr-toyota-corolla-levin-1600-1972/</loc>
+    <lastmod>2026-07-08T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-fto/as-gt-mitsubishi-colt-galant-fto-1600gsr-1400sl-5-toyota-corolla-levin-levin-j-1973/</loc>
     <lastmod>2026-05-02T04:50:49-07:00</lastmod>
   </url><url>
@@ -539,13 +542,19 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corolla/</loc>
+    <lastmod>2026-07-08T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/</loc>
+    <lastmod>2026-07-08T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-07-08T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/isuzu/florian/</loc>
     <lastmod>2026-07-03T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/</loc>
-    <lastmod>2026-07-03T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-07-03T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/</loc>
@@ -555,9 +564,6 @@
     <lastmod>2026-07-02T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/celica/</loc>
-    <lastmod>2026-07-01T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/</loc>
     <lastmod>2026-07-01T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/corona/</loc>
@@ -577,9 +583,6 @@
   </url><url>
     <loc>http://localhost:1313/mitsubishi/</loc>
     <lastmod>2026-06-21T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/corolla/</loc>
-    <lastmod>2026-06-19T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-gto/</loc>
     <lastmod>2026-06-17T04:50:49-07:00</lastmod>

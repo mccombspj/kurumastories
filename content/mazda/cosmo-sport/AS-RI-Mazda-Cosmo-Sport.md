@@ -23,63 +23,70 @@ draft = false
 
 
 <b>Publication:</b> Auto Sport<br>
-<b>Format:</b> Road Impression (original article includes Toyota 2000GT impression, posted separately)<br>
+<b>Format:</b> Test Drive Report<br>
 <b>Date:</b> Spring 1966<br>
 <b>Author:</b> Robert Dunham
 
 
 
-<b><u>Robert Dunham's Test Run: Mazda Cosmo Sport</b></u>
+<b><u>Robert Dunham's Test Run: Mazda Cosmo</b></u>
 
-"I drove the much-anticipated rotary engine car, the Mazda Cosmo." I'm still surprised to be able to say these words. This is a test-drive report of the Mazda Cosmo, published for the first time. 
+<i>"I Drove the Much-Anticipated Rotary-Engined Mazda Cosmo"</i><br>
+—The first published road test of the Mazda Cosmo.
 
-Recently, I was invited by Toyo Kogyo's president, Tsuneji Matsuda, to visit the company's factory and test track in Hiroshima, as reported in the Asahi Evening News. There, believe it or not, I had the opportunity to test drive the Mazda Cosmo, Japan's first rotary engine car. It was a truly enjoyable and valuable experience for me.
+Recently, through an introduction by the <i>Asahi Evening News</i>, I was invited by Tsuneji Matsuda, president of Toyo Kogyo, to visit the company's factory and test course in Hiroshima. There, to my great surprise, I was given the opportunity to drive Japan's first rotary-engined car: the Mazda Cosmo. It was an experience that proved both immensely enjoyable and genuinely memorable.
 
-The morning I visited Toyo Kogyo's Ujina factory, the air was dry and chilly, but fortunately the skies were clear and the weather perfect.
+On the morning I visited Toyo Kogyo's Ujina plant, the air was cold and dry, but fortunately the sky was perfectly clear and the weather could not have been better.
 
-Mr. Sasaki from the Research and Planning Division and several other engineers from Toyo Kogyo appeared at the test course. First, the company's test driver drove around the course several times to familiarize me with the characteristics of the car and the course. After this, I took the wheel myself and drove the Cosmo, a 1000cc 2-rotor sports car, around the course for about seven laps.
+Mr. Sasaki of the Research Planning Department, together with several of Toyo Kogyo's engineers, was waiting at the test course. First, one of the company's test drivers completed several laps so that I could become familiar with both the characteristics of the car and the course itself. After that, I took the wheel and completed about seven laps of my own. The Mazda Cosmo I drove was the 1000cc two-rotor sports model.
 
-<b><u>Passionate Research Pays Off</b></u>
+<b><u>The Rewards of Dedicated Development</b></u>
 
-Toyo Kogyo signed an agreement with NSU and Wankel of West Germany to jointly develop rotary piston engines in July 1961. At that time, the rotary piston engine was still in the experimental stage, so the agreement did not generate much interest among other domestic car manufacturers.
+Toyo Kogyo entered into an agreement with West Germany's NSU Motorenwerke and NSU Wankel GmbH in July 1961 to jointly develop the rotary-piston engine. At the time, the rotary engine remained little more than an experimental concept, and the agreement attracted relatively little attention from Japan's other automobile manufacturers. 
 
-Toyo Kogyo worked diligently and efficiently to develop and perfect various prototypes of the rotary engine. They exhibited two rotary engines at the 1963 Tokyo Auto Show, a 35ps 400cc and a 75ps 800cc. Of course, this was the first time that engines of this type had been exhibited. However, other manufacturers still considered it merely an expensive experiment.
+Toyo Kogyo, however, pursued the project with remarkable dedication and efficiency, steadily developing and improving a variety of rotary-engine prototypes. The results first became public at the 1963 Tokyo Motor Show, where the company displayed two rotary engines: a 400cc unit producing 35ps and an 800cc unit producing 75ps. It was, of course, the first time engines of this type had ever been exhibited there. Even so, most other manufacturers still dismissed the project as little more than "an expensive experiment."
 
-But at the Tokyo Auto Show the following year, in 1964, Toyo Kogyo took a big step forward by unveiling two rotary engine cars called the Cosmo: one intended to use a single-rotor 400cc engine and one to use an engine with four 400cc rotors, the latter of which would naturally be 1600cc.
+At the 1964 Tokyo Motor Show, however, Toyo Kogyo took a big step forward by unveiling two rotary-engine cars under the Cosmo name: one with a single 400cc rotor and another with four 400cc rotors--the latter, naturally, totaling 1600cc.
 
-Toyo Kogyo subsequently came up with a functioning single rotor engine similar to that produced by NSU, and also succeeded in designing a two-rotor engine, and thus unveiled the current version of the Cosmo sports car at the 1965 Tokyo Auto Show.
+Thereafter, Toyo Kogyo developed a single-rotor engine similar to that produced by NSU, while at the same time succeeding in designing multi-rotor engines. The latest version of the Cosmo sports car was then unveiled at the 1965 Tokyo Motor Show.
 
-<b><u>Sharp and Quiet Engine</b></u>
+<b><u>Responsive and Remarkably Quiet Engine</b></u>
 
-Let me share my impressions after test driving a Mazda Cosmo (2 rotor, 1000cc) on the test course at the Ujina Factory.
+Let me begin by describing my impressions of the Mazda Cosmo (two-rotor, 1000cc) after driving it on the Ujina factory test course.
 
-First of all, even if you have no experience of high-speed or highway driving, there are two things that you will notice right away.
+Two characteristics become immediately apparent, even to someone with little experience of high-speed driving.
 
-First, when you step on the accelerator, the rpm climbs to its limit in an instant, but even in that state the engine is extremely quiet, even during engine braking.
+1. Press the accelerator fully and the engine speed climbs to its limit almost instantaneously, yet even under these conditions the engine remains remarkably quiet. The same is true under engine braking.
 
-Second, compared to ordinary piston engine vehicles, acceleration in reaction to the throttle is extremely sensitive regardless of which gear you are in.
+2. Compared with a conventional piston-engined car, acceleration response is exceptionally sharp, regardless of the gear selected.
 
-Driving the Cosmo, it's hard to believe that this is a 1000cc car. Its official output is 110ps, and it certainly has at least that much. It goes without saying that it performs much better than the many 45-50 horsepower pushrod 1000cc cars out there.
+Driving the Cosmo, I found it hard to believe that this was a 1000cc automobile. Its official output is said to be 110ps, and it certainly delivers every bit of that. Needless to say, its performance is in an entirely different class from that of the conventional 45-50ps, pushrod-type 1000cc cars we are familiar with.
 
-The factory test track has a straight section just under 1000m long, but I was able to easily reach 150km/h without having to fully utilize the engine or over-rev it. With four forward gears, I rarely felt a lack of horsepower. However, I did notice a slight drop in engine power in second gear during high-speed turns, but this was likely simply due to fuel starvation in the engine. This could easily be remedied by raising the float level on the carburetor somewhat.
+The factory's test-course straight measures just under 1000m, yet even without using the engine to its limit or over-revving it, the Cosmo readily reached 150km/h. Throughout the four forward gears, I was rarely aware of any lack of power.
 
-<b><u>Further Improvements Needed in Vehicle Weight</b></u>
+I did notice, however, that the engine lost a small amount of power in second gear while driving on the high-speed banking. This appeared to be nothing more than a momentary interruption in the fuel supply to the engine. Raising the carburetor float level slightly should resolve the problem easily.
 
-The gearbox was incredibly smooth, and gear changes through the four forward speeds were extremely easy, as was finding reverse gear.
+<b><u>One Further Improvement: Reducing Weight</b></u>
 
-Road holding and handling are as efficient, smooth and solid as any expensive European sports car, with neutral steering characteristics that are free of excessive oversteer or understeer.
+The smoothness of the transmission is remarkable. All four forward gears can be selected with exceptional ease, and even engaging reverse presents no difficulty.
 
-Even at high speeds, I was able to carve through turns easily. The brakes were discs on the front wheels, and they provided good braking power, especially when decelerating suddenly. There was a definite feeling of firmness and solidity to the car. In some small sports cars, there tends to be an unsettling feeling of lightness in the steering when going around corners, which is a drawback, but I didn't feel that with the Cosmo.
+Road holding and handling are every bit as capable, refined, and secure as those of any expensive European sports car. The steering remained commendably neutral, showing no trace of excessive oversteer or understeer.
 
-If I were to be greedy, I think we could further improve the current performance by reducing the unladen weight from 950kg to about 850kg, which should be possible without changing the overall design of the car.
+Even at high speeds, the car could be guided through bends with complete confidence. Disc brakes are fitted at the front, and under heavy braking they proved especially effective. The feel was reassuringly firm. Some small sports cars have a tendency for the steering to become light in corners, but I detected no such weakness in the Cosmo.
+
+If I were to ask for one further improvement, it would be a reduction in curb weight from the present 950kg to something nearer 850kg. With that alone, I believe the car's already impressive performance could be improved further still. Moreover, such a reduction ought to be achievable without fundamentally altering the car's overall design.
 
 <b><u>Mass Production Is Only a Matter of Time</b></u>
 
-The design of this two-door, two-seat hardtop coupe is stylish. Anyone interested in a sports car will surely be pleased. The interior layout is also tasteful. It is efficient and not at all uncomfortable for tall foreigners like me.
+This two-door, two-seat hardtop coupe is an attractive design, and should appeal strongly to those with an interest in sporting automobiles. The interior layout is equally well conceived. It is both tasteful and practical, and even for taller foreign drivers such as myself, comfort is by no means lacking.
 
-The dashboard is excellent, with the tachometer and other gauges that the driver must constantly check positioned for maximum visibility, not to mention the positioning of the steering wheel, pedals and gear shift, which are all within easy reach of the average driver.
+The tachometer and other instruments that require constant attention from the driver are all arranged on the dashboard for maximum legibility. The steering wheel, pedals, and gear lever are likewise positioned so that they can be operated efficiently by the average driver.
 
-Toyo Kogyo plans to hand over the Mazda Cosmo (2 rotor, 1000cc) to dealers and parts manufacturers in the near future to collect and monitor data in normal driving conditions. From this, it is clear that the Mazda Cosmo will be mass-produced in the near future. Toyo Kogyo is said to be waiting for the results of these experiments before releasing it on the market in 1967, but in any case, many fans are already waiting for the Mazda Cosmo's sales debut. Perhaps it will appear at the Japanese Grand Prix in May.
+Toyo Kogyo intends soon to place the Mazda Cosmo (two-rotor, 1000cc) in the hands of its dealers and component suppliers for evaluation under normal driving conditions, gathering further data from everyday use. Judging from this, it seems clear that the Mazda Cosmo will enter mass production in the near future.
+
+It is said that Toyo Kogyo plans to study the results of these trials before introducing the car to the market, with 1967 as its target. In the meantime, there can be little doubt that countless enthusiasts are eagerly awaiting the Mazda Cosmo's sales debut.
+
+Perhaps it will even make an appearance at the Japanese Grand Prix this May.
 
 ---
 
