@@ -23,7 +23,7 @@ draft = false
 
 
 <b>Publication:</b> Auto Sport<br>
-<b>Format:</b> Road Impression (original article includes Mazda Cosmo Sport impression, posted separately)<br>
+<b>Format:</b> Test Drive Report<br>
 <b>Date:</b> Spring 1966<br>
 <b>Author:</b> Robert Dunham
 
@@ -31,55 +31,59 @@ draft = false
 
 <b><u>Robert Dunham's Test Run: Toyota 2000GT</b></u>
 
-The Toyota 2000GT will be making an appearance at the Japanese Grand Prix in May. In line with this ambition, it left an impression on me as Japan's first full-scale sports car.
+<i>"The Toyota 2000GT, expected to make an appearance at the Japanese Grand Prix in May, gave every impression of deserving the title of Japan's first true sports car."</i>
 
-A few weeks after the 1965 Tokyo Auto Show, I had the opportunity to interview Toyota Motor Corporation Chairman Taizo Ishida. During the interview, I received an informal invitation to visit the Toyota factory. The purpose, of course, was to test drive the Toyota 2000GT that was on display at the show. Two weeks later, I traveled to Toyota City with a reporter from the Asahi Evening News.
+The Toyota 2000GT, expected to make an appearance at the Japanese Grand Prix in May, gives every impression of being worthy of the title of Japan’s first true sports car.
 
-The first day was a factory tour, and on the second day we were allowed onto the test course.
+A few weeks after the 1965 Tokyo Motor Show, I had the opportunity to interview Taizo Ishida, chairman of Toyota Motor Company. During our conversation, I received an informal invitation to visit Toyota’s factory. The purpose, of course, was to drive the Toyota 2000GT that had made its public debut at the motor show. Two weeks later, accompanied by a reporter from the <i>Asahi Evening News</i>, I set out for Toyota City.
 
-The test course next to the factory is very nice, with two long high-speed straights, each with a banked curve at the end, and even hairpin and spoon curves on the inside, very similar to those at the Suzuka Circuit.
+The first day was devoted to touring the factory. It was not until the second that we took to the test course.
 
-<b><u>Exquisite European Style</b></u>
+The course, located beside the factory, is an excellent one. It has two long high-speed straights, each ending in a banked curve. The infield features a hairpin and even a spoon curve closely resembling those at Suzuka Circuit.
 
-After taking a few test rides around the course driven by a Toyota mechanic, I warmed up by taking a drive around the course in a Toyota Sports 800. The anticipated moment came right after that, when a pure white Toyota 2000GT was pulled out of the garage.
+<b><u>Purposeful European-Inspired Styling</b></u>
 
-Jaguar XKE, Ferrari GTO, Aston Martin, Corvette Mako Shark... European-style sophistication abounds in the sleek lines of the 2000GT. This is not an imitation, but a hybrid work that makes use of the best characteristics of good design. However, upon closer inspection, some parts of the interior and chassis were found to be somewhat rough in their finish. However, since this was one of the prototype cars, most of the build process must have been different from that of mass-produced cars. Once the car is mass-produced, this problem will naturally be solved.
+At first, I rode for several laps in a car driven by one of Toyota’s mechanics. After that, I completed several circuits in a Toyota Sports 800 as a warm-up. The moment I had been waiting for came immediately afterward, when a pure-white Toyota 2000GT was brought out of the garage.
 
-The first thing that reassured me when I got into the 2000GT was that my legs, which are much longer than most Japanese people's, fit comfortably in the driver's seat. The seat, pedals, shift lever, etc. are all positioned in an extremely user-friendly and efficient way. The steering column can be adjusted for length, which is probably a first for a Japanese sports car, and is particularly useful for a high-horsepower sports car. This can be counted as one of the distinctive features of the Toyota 2000GT.
+Jaguar XKE, Ferrari GTO, Aston Martin, Corvette Mako Shark--the design draws freely on the best qualities of these European-style sports cars. This is not imitation, but rather a skillful blending of good design principles.
 
-<b><u>A Car That Enjoys High-Performance Driving</b></u>
+On closer inspection, however, I noticed that some areas of the interior and chassis were finished rather roughly. Since a car of this type would initially be produced only in small numbers, much of the manufacturing process must have been different from that used for mass-produced cars. Once full production begins, however, such problems should naturally resolve themselves.
 
-The engine is Toyota's new inline six-cylinder, 2000cc, DOHC based on the mass-produced SOHC unit called the M type. The car I drove had 150 horsepower and normal tires and suspension, and although it wasn't particularly tuned up, it was easy to feel the ample horsepower hidden under the hood (I wasn't allowed to know details about the engine's structure).
+The first thing that reassured me when I sat down in the 2000GT was that my legs, considerably longer than those of the average Japanese driver, fit comfortably behind the wheel. The seat, pedals, and gear lever are exceptionally well positioned for easy and efficient operation. The steering column can also be adjusted for reach. This is probably a first for a Japanese sports car, and particularly useful in a high-powered model. It can be counted among the Toyota 2000GT’s distinctive features.
 
-Since it was a new car, I limited the revs to 4500rpm, which is much lower than the redline of 6000rpm. As a result, I didn't experience the maximum horsepower or top speed. I couldn't hope for an extreme acceleration test, either, and the narrow inner course makes it dangerous to take curves at high speeds anyway, so I drove at an average speed of 140km/h and a maximum of 160km/h. However, I think that if the engine is in good condition, it is quite possible to reach speeds of over 200km/h.
+<b><u>A Car for Enjoying Performance</b></u>
 
-The steering is a little stiff, but it is firm and sharp. The basic handling characteristic is that the car tends to understeer a little into the corners. On the other hand, the rear end tends to swing outwards at corner exits. This is probably because the car I tested is not a race car, but is equipped with normal tires and suspension.
+The engine is a DOHC version of Toyota's new 2000cc inline six, based on the production SOHC M-type engine. The car I drove developed 150ps and was fitted with standard tires and suspension, with no special tuning, yet it was clear that there was ample power under the hood. (I was not permitted to learn any details of the engine's construction.)
 
-However, like the Jaguar XKE, Porsche 911, Stingray, Cobra, etc., it is important to remember that this is a high-performance sports car. In other words, it is not the kind of car you can drive casually around town, but rather a "wild horse" that requires a certain level of skill to enjoy its high performance.
+Since the car was still new, I kept engine speed to 4500rpm, well below the 6000rpm redline. There was therefore no question of testing maximum power or top speed, much less acceleration at the limit. The inner course was also narrow and potentially dangerous when taking the curves at high speed, so I kept my average speed to around 140km/h and did not exceed 160km/h. Even so, I believe that once the engine is in a proper state of tune, the car should be capable of more than 200km/h.
 
-<b><u>You Won't Feel Tired Even at High Speeds</b></u>
+The steering is slightly heavy, but firm and precise. In corners, the handling tended somewhat toward understeer, though at the same time I could also feel the rear beginning to step outward. I suspect this was because the car was equipped with standard tires and suspension rather than being prepared to racing specification.
 
-The gears used in the test car were the standard ratios that will be fitted to production cars for road driving, and although they were well-chosen for sporty driving, it is certain that different ratios would have to be fitted for racing.
+It must be remembered, however, that like the Jaguar XKE, Porsche 911, Sting Ray, and Cobra, this is a high-performance sports car. In other words, it is not the sort of car to be driven casually around town, but rather a "wild horse" that requires a certain degree of skill if the driver is to enjoy its full performance.
 
-The transmission is a 5-speed with overdrive, which is effective in keeping the engine running smoothly at high speeds of over 140km/h.
+<b><u>No Fatigue Even at High Speed</b></u>
 
-The only complaint I had was that the shifting was stiff. Even after I got used to the car, the shifting was still hard. Not coincidentally, I also made mistakes when downshifting. Gear engagements are prone to slipping, so you have to be careful when going from fifth to fourth or even third gear.
+The gearing fitted was intended for road driving. Although the ratios were well chosen for sporting use, there is no doubt that they would have to be changed for racing.
 
-Also, while the power came on smoothly when I used full throttle coming out of most curves, I did feel a slight, subtle lag in the power when exiting the hairpin corner in second gear.
+The transmission is a 5-speed with an overdrive top gear. This is effective in keeping the engine running comfortably at high speeds of 140km/h and above.
 
-To vary the driving, I alternated between driving on the outer and inner perimeters, and I didn't feel tired even though I was driving at high speed. Overall, the Toyota 2000GT has very good handling, road holding, and speed performance.
+My only complaint was the stiffness of the gear change. Even after I had gotten used to the car, the shift remained just as stiff. It was also easy to select the wrong gear when slowing down, so particular care was needed when changing down from top into fourth or third.
 
-Naturally, there are a few areas that could use improvement, but given the track record of Toyota's engineers, I expect these will be rectified before the car goes on sale.
+On the other hand, when I pressed the accelerator fully while coming out of a curve, the power came in smoothly. I did, however, detect a slight but perceptible hesitation in power delivery when accelerating out of a hairpin in second gear.
 
-<b><u>Authentic Sports Car</b></u>
+To add some variety to the driving, I alternated between the outer and inner circuits, and despite driving at high speed, I felt no fatigue. My overall impression of the Toyota 2000GT was that its steering, road holding, and high-speed performance were all exceptionally good.
 
-When I participated in the first Japanese Grand Prix race held at Suzuka Circuit, I was keenly aware that Japanese cars had poor acceleration, poor steering, and were weak and too heavy. However, at the same time, I predicted that Japanese automakers would make rapid progress through research and development into the relationship between horsepower and overall performance.
+Naturally, there were two or three areas in which I felt improvements could be made. Judging from the past achievements of Toyota's engineers, however, I believe these points will be corrected before the car goes on sale.
 
-Over the past few years, these predictions have proven correct, and my expectations have been met, if not fully.
+<b><u>A True Sports Car</b></u>
 
-Due to production costs, in Japan, true sports cars that were suitable for racing were rarely made on a mass production basis. As far as I can remember, the Datsun Fairlady was the first real production sports car sold in Japan. This was followed by production sports cars like the Honda S600, then cars like the Bellett GT, Contessa 1300 Coupe, Toyota Sports 800, Nissan Silvia, Corona S, Skyline 2000GT, and Compagno Spider.
+When I competed in the first Japanese Grand Prix at Suzuka Circuit, I was struck by the poor acceleration and unresponsive steering of Japanese cars, along with their lack of power and excessive weight. At the same time, however, I predicted that Japan's automakers would soon make rapid advances in the research and development of greater power and performance.
 
-At the same time, many manufacturers began to offer high-performance engines for regular passenger cars as well. However, from every angle, the Toyota 2000GT appears to be the first full-fledged sports car made in Japan.
+Over the past several years, my prediction has proved correct. And although my expectations have not yet been completely fulfilled, they have nonetheless been largely met.
+
+Because of production costs, very few genuine sports cars with racing capabilities had previously been built on a production basis in Japan. As far as I can remember, the Datsun Fairlady was the first true production sports car to be sold on the Japanese market. It was followed by sports cars such as the Honda S600, and then by cars including the Bellett GT, Contessa 1300 Coupe, Toyota Sports 800, Nissan Silvia, Corona Sports, Skyline 2000GT, and Compagno Spider.
+
+At the same time, many manufacturers began offering high-performance engines in ordinary passenger cars. Yet, viewed from every angle, it would seem that the Toyota 2000GT is the first true sports car built in Japan.
 
 ---
 

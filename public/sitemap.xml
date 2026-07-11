@@ -203,9 +203,6 @@
     <loc>http://localhost:1313/nissan/bluebird/mf-tdr-nissan-bluebird-u-hardtop-1800sss-e-1971/</loc>
     <lastmod>2026-05-07T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mazda/cosmo-sport/mf-tdr-mazda-cosmo-sport/</loc>
-    <lastmod>2026-07-11T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/violet/as-gt-nissan-violet-hardtop-1600sss-mitsubishi-lancer-1600gsl-1973/</loc>
     <lastmod>2026-05-20T04:50:49-07:00</lastmod>
   </url><url>
@@ -238,9 +235,6 @@
   </url><url>
     <loc>http://localhost:1313/toyota/corona-mark-ii/mf-ri-toyota-corona-mark-ii-gss-1969/</loc>
     <lastmod>2025-11-23T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mazda/cosmo-sport/mf-rt-mazda-cosmo-sport/</loc>
-    <lastmod>2025-11-08T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/sunny/mf-rt-nissan-sunny-coupe-1200gl-1970/</loc>
     <lastmod>2025-11-06T04:50:49-07:00</lastmod>
@@ -287,8 +281,14 @@
     <loc>http://localhost:1313/toyota/crown/cg-rt-toyota-crown-hardtop-sl-1969/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mazda/cosmo-sport/mf-rt-mazda-cosmo-sport/</loc>
+    <lastmod>2025-11-08T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/isuzu/bellett/mm-tdr-isuzu-bellett-1600gtr-1969/</loc>
     <lastmod>2026-05-27T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mazda/cosmo-sport/mf-tdr-mazda-cosmo-sport/</loc>
+    <lastmod>2026-07-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/corolla/mf-bs-toyota-corolla-levin-1600-1972/</loc>
     <lastmod>2026-06-19T04:50:49-07:00</lastmod>
