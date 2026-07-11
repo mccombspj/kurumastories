@@ -127,7 +127,7 @@ The rotary engine's mechanism is remarkably simple, so it ought to prove even mo
 
 By the time we reached the end of the Third Keihin Expressway, we had decided that Chigasaki would be our next destination. Our impressions during the drive from Yokohama to Chigasaki were as follows.
 
-1. The driving position. It accommodates drivers of virtually any build, so even after many hours behind the wheel I felt no fatigue whatsoever. In this respect, it compares very favorably with cars such as the Jaguar, TR4, and Stingray.
+1. The driving position. It accommodates drivers of virtually any build, so even after many hours behind the wheel I felt no fatigue whatsoever. In this respect, it compares very favorably with cars like the Jaguar, TR4, and Stingray.
 
 2. The gear lever. Its position is excellent. As already mentioned, gear changes are exceptionally smooth, though I did occasionally encounter slight gear clash when making a hurried downshift from top gear into third.
 

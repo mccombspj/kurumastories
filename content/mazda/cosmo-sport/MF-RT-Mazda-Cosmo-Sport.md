@@ -3,7 +3,7 @@
 
 
 title = "Mazda Cosmo Sport (1967)"
-weight = 20
+weight = 22
 
 
 date = "2025-11-08T04:50:49-07:00"
@@ -25,7 +25,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> August 1967<br>
-<b>Author:</b> Kenichi Yamamoto, Moriyuki Watanabe, Osamu Hirao, Masashi Kondo, Kazuo Kumabe, Atsushi Watari, Kenji Higuchi, Kazuo Takada, Akio Miyamoto, Yasuhisa Minagawa, Saburo Araki, Yasuhei Oguchi, Mineo Yamamoto, Toshihide Hirata, Masataka Matsui, Minoru Onda, Motor Fan Editorial Staff (uncredited)
+<b>Authors (Roundtable):</b> Kenichi Yamamoto, Moriyuki Watanabe, Osamu Hirao, Masashi Kondo, Kazuo Kumabe, Atsushi Watari, Kenji Higuchi, Kazuo Takada, Akio Miyamoto, Yasuhisa Minagawa, Saburo Araki, Yasuhei Oguchi, Mineo Yamamoto, Toshihide Hirata, Masataka Matsui, Minoru Onda, Motor Fan Editorial Staff (uncredited)
 
 
 

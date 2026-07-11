@@ -33,7 +33,7 @@ draft = false
 
 <b><u>An Astonishingly Flexible Engine</b></u>
 
-There is something both exciting and faintly unsettling about testing a revolutionary mechanism for the first time. This was certainly the case with the rotary-piston engine. However, after approximately 600km behind the wheel of the Mazda Cosmo, it became clear that this remarkable powerplant combines outstanding high-speed performance with astonishing flexibility at low engine speeds. Even in crowded city traffic, it proves entirely practical and capable of everyday use.
+There is something both exciting and faintly unnerving about testing a revolutionary mechanism for the first time. This was certainly the case with the rotary-piston engine. However, after approximately 600km behind the wheel of the Mazda Cosmo, it became clear that this remarkable powerplant combines outstanding high-speed performance with astonishing flexibility at low engine speeds. Even in crowded city traffic, it proves entirely practical and capable of everyday use.
 
 If a driver were placed behind the wheel of the Cosmo without any prior knowledge of its mechanical layout, most would probably never suspect that it was powered by an entirely new type of engine. Even so, if asked how many cylinders it had, few would be able to answer with any confidence.
 
