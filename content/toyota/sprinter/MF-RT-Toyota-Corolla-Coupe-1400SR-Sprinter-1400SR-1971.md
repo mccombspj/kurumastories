@@ -62,13 +62,13 @@ draft = false
 
 <b>Magazine:</b> To begin with, we’d like to ask about the development aims behind the 1400SR, and the kind of car you had in mind.
 
-<b>Sasaki:</b> Last spring we carried out a model change for the Corolla, and in the autumn we introduced the TE series with a 1400cc engine. Now, as a further step, we’ve added new SL and SR versions to the Corolla/Sprinter line, powered by the 1407cc twin-carburetor TB engine.
+<b>Sasaki:</b> Last spring we carried out a model change for the Corolla, and in the autumn we introduced the 1400cc TE-series models. Now, as a further step, we’ve added new SL and SR versions to the Corolla/Sprinter line, powered by the twin-carburetor TB version of the 1407cc engine.
 
-The new SL replaces the previous single carburetor with a twin-carb setup, raising output to 95ps at 6000rpm. The SR uses this same engine, combined with either a 4-speed or 5-speed transmission. “SR” stands for Sports & Rally. 
+The new SL replaces the previous single carburetor with a twin-carb setup, raising output to 95ps at 6000rpm. In the SR, the same engine can be combined with either a 4-speed or 5-speed transmission. “SR” stands for Sports & Rally. 
 
-Within the Corolla/Sprinter range, the SL is, as the name suggests, the most sporting and luxurious model. The SR is essentially a version that emphasizes the “S” (sport) character more strongly, while keeping the “L” (luxury) element restrained.
+Within the Corolla/Sprinter range, the SL is, as the name suggests, the most sporting and luxurious model. The SR is essentially a version that places a stronger emphasis on the “S” (sport) character, while restraining the “L” (luxury) element.
 
-In terms of features, the 1400 twin-carb engine, 5-speed transmission, and disc brakes represent the “S” side. For this model, the suspension has been made firmer, and radial tires are fitted as standard. The interior is unified in a black color scheme, including the steering wheel, and the exterior uses SR-specific wheel caps, moldings, and badging to give it its own identity.
+The 1400 twin-carb engine, 5-speed transmission, and disc brakes are all part of the "S" character. In addition, the suspension has been made firmer for this model, and radial tires are fitted as standard. The interior is unified in a black color scheme, including the steering wheel, and the exterior uses SR-specific wheel caps, moldings, and badging to give it its own identity.
 
 The “L” element has been deliberately reduced in several areas. The SL uses heat-absorbing glass at the front, whereas the SR uses clear glass, and the amount of trim has been reduced. The console, radio, and rear window defogger have also been omitted. However, in consideration of rally use, laminated front glass and a rear defogger are available as options.
 
@@ -110,7 +110,7 @@ Roll itself is controlled by spring stiffness, but stroke—aside from cases of 
 
 <b>Sasaki:</b> The 5-speed transmission itself is the same as the Celica/Carina unit, but since we’ve adopted a 5-speed, we’ve raised the final drive ratio from 4.222 to 4.375. As a result, driving force in first through fourth gear is increased accordingly, while fifth is an overdrive—so engine speed is lower than in the top gear of a 4-speed.
 
-<b>Okazaki:</b> Rough roads in Japan tend to have many tight hairpin-type sections. So raising the final drive may actually be working against it. As it is, the ratios are too low--first gear tops out too quickly, and in second it doesn't quite extend properly.
+<b>Okazaki:</b> Rough roads in Japan tend to have many tight hairpin-type sections. So raising the final drive may actually be working against it. As it is, the ratios are too low--first gear tops out too quickly, and in second there isn't quite enough extension.
 
 People who drive cars like this SR tend to prefer the feeling of extension at the top end rather than just strong pull at low speeds. From the perspective of real-world rallying, ideally you’d want first to reach about 50km/h and second around 90km/h. Personally, I think a 4.111 final drive might suit first and second gear much better.
 
@@ -168,11 +168,11 @@ People who drive cars like this SR tend to prefer the feeling of extension at th
 
 <b>Magazine:</b> You do see that on some British cars.
 
-<b>Hirao:</b> Exactly--just mount the switch on the shift lever. I believe there were cars like that.
+<b>Hirao:</b> Exactly--just mount the switch on the shift lever. I think there are cars like that.
 
 <b>Sasaki:</b> It also comes down to what kind of preferences people have when they choose a car like the SR...
 
-<b>Hirao:</b> Still, there’s something appealing about having five gears. That much I understand.
+<b>Hirao:</b> There’s something appealing about having five gears. That much I understand.
 
 <b>Sasaki:</b> There does seem to be a strong element of people enjoying the shifting itself.
 
@@ -372,11 +372,11 @@ In the model driving test, since we used up to fifth gear, the driving felt a bi
 
 <b>Magazine:</b> Let's have the results for handling and stability.
 
-<b>Toba:</b> The minimum turning radius is 4.99m at the outer wheel, which is fairly typical--about what you would expect from the wheelbase.
+<b>Toba:</b> The minimum turning radius is 4.99m at the outer wheel, which is about what you would typically expect from the wheelbase.
 
 The overall steering gear ratio is 17.7. Stationary steering effort at full lock is a little on the heavy side. Around 360°, it's about 14-14.5kg, and at around 600°, roughly 17kg.
 
-In the understeer/oversteer test, there is mild understeer up to about 0.4-0.45g of lateral acceleration, but beyond that it shifts into fairly strong understeer. I think this may also have been influenced by the skid pad surface.
+In the understeer/oversteer test, there is mild understeer up to about 0.4-0.45g of lateral acceleration, but beyond that the understeer becomes considerably stronger. I think this may also have been influenced by the skid pad surface.
 
 Roll angle, by photographic measurement, comes out at 4.7°.
 
@@ -422,7 +422,7 @@ In particular, at higher speeds the front tends to go into full bump travel quit
 
 Also, the radial tires don’t seem suited to rough surfaces. They're really more of a paved-road type tire--sort of a compromise, depending on how you look at it.
 
-<b>Sasaki:</b> In that sense, the radial tire choice is primarily based on paved-road use being the standard. But tires are consumables, and if someone is going to enter rallies, they would change to a tire suited for that purpose.
+<b>Sasaki:</b> In that sense, the radial tire choice is primarily based on paved-road use being the standard. But tires can be replaced, and if someone is going to enter rallies, they would change to a tire suited for that purpose.
 
 <b>Okazaki:</b> I don’t think anyone would enter a rally with it as it is…
 
