@@ -55,95 +55,114 @@ draft = false
 
 
 
-<b><u>A Fusion of Glamor and Ferocity</b></u>
+<b><u>The Union of Elegance and Intensity</b></u>
 
-A gorgeous GT car on the highway, a fearsome competition machine on the circuit. These were the impressions that factory team drivers Yukio Fukuzawa and Yoshio Otsubo felt when they test-drove the recently released Toyota 2000GT.
+A graceful grand tourer on the highway. A fearless competition machine on the circuit. That was the impression left by the recently released Toyota 2000GT after factory drivers Yukio Fukuzawa and Yoshio Otsubo took it out on both road and track.
 
-<b><u>A Taste of the World's Finest GT Cars</b></u> (Yukio Fukuzawa)
+<b><u>The Character of a First-Class Grand Tourer</b></u>
 
-We factory drivers have many opportunities to drive hot-tuned cars, but surprisingly few opportunities to drive the street versions of production cars. This is certainly true of the Toyota 2000GT, a model that exists right under our noses in the racing world. That's why I was quite interested in this road test.
+<i>(Yukio Fukuzawa)</i>
 
-The car used for the test was white and nearly new, with only about 1,000km on the odometer. When I saw the 2000GT parked in the parking lot, the first thing that surprised me was how low it was. It was a familiar car to me, but seeing it parked among the other passenger cars really made that realization sink in. As far as I remember, the Toyota 2000GT is supposed to be the lowest-riding GT car of its kind.
+We factory drivers spend a lot of time behind the wheel of "hot" tuned machinery, but surprisingly little in production cars--the ordinary street versions. This was true even of the Toyota 2000GT, our own company's flagship. For that reason, I approached this road test with considerable interest.
 
-For example, compared to the Toyota 2000GT's 1160mm height, the height of the Jaguar E-type is 1220mm, and the Porsche 912 and 911 are 1320mm. In both cases, the 2000GT is significantly lower. Of course, this is only true among mass-produced vehicles.
+The test car was finished in white and, with only about 1,000km on the odometer, was still nearly new. The first thing that struck me when I saw it standing in the parking area was just how low it was. The 2000GT is a familiar sight to me, but seeing it parked among ordinary passenger cars made me realize all over again how exceptionally low its roofline is. As I recall, in fact, it is probably the lowest of any production GT car of its kind.
 
-The design was created by Satoru Nozaki of Toyota Motor Corporation's design department. Each part of the car is packed with unique and luxurious elements, such as a windshield that incorporates a cubic curve, a front grille based on Toyota's "T" motif, and a curvaceous tail that is hard to believe belongs to a mass-produced car.
+For example, compared with the Toyota 2000GT's overall height of 1160mm:
+Jaguar E-Type: 1220mm
+Porsche 912: 1320mm
+Porsche 911: 1320mm
 
-Though based on a fastback coupe shape, the overall lines are extremely original, with the razor-sharp edges that run from the front fenders to the rear fenders being the highlight of the car.
+All of them are taller. That comparison, of course, is limited to the production cars.
 
-Also, when seen from the side, the window line that rises up towards the rear of the car has been whispered at European and American car shows as being based on the motif of so-called "Asian eyes," and has become one of the car's major distinguishing features.
+The styling was the work of Toyota Motor Company's design department under Satoru Nozaki. The curved windshield formed with compound curves, the front grille based on Toyota's "T" motif, and the beautifully sculpted tail section—remarkably sophisticated for a production car—all contribute to a design that is both distinctive and luxurious.
 
-The first thing that catches your eye about the interior is the polished cherry wood dash panel. This is a thick veneer, not plywood, which gives it a luxurious feel. The interior is lined with black thick-pile carpeting, and the doors and ceiling are lined with black vinyl leather. Everything is top-notch.
+Although its basic form is that of a fastback coupe, its overall lines are strikingly original. To my eye, the defining feature is the "razor edge"—a crisp character line flowing from the front fender to the rear fender.
 
-Getting in and out of the cockpit is not easy. It requires a bit of technique. Just approach it sideways, sit your backside down in the seat first, then pull your feet in. Of course, this type of car is not designed for frequent ingress and egress. The important thing is to drive comfortably.
+Viewed from the side, the rising lower line of the side windows became such a talking point at European and American motor shows that some even suggested it had been inspired by the shape of "Oriental eyes." Whether or not that was really the intention, it has become one of the car's most distinctive styling features.
 
-The driving position is such that most people can find a comfortable posture, with a seat that can slide 140mm fore-and-aft, and a steering wheel that adjusts telescopically by 60mm. What I want to mention in particular is that the seatback has been designed with exceptional attention to ergonomics. I felt that this is a strength that has not been found in Japanese cars up until now.
+Inside, the first thing to catch the eye is the beautifully polished cherry-wood dashboard. The luxury lies not merely in its appearance, but in the fact that it is made from thick solid timber rather than laminated veneer.
 
-The gauges are arranged conventionally, but the water temperature gauge, oil temperature gauge, oil pressure gauge, ammeter, etc. in the center of the dash have the base of their needles at the side of the gauge, rather than at the bottom. This means that they move up and down instead of left and right, and when they read normal, the needles of each gauge line up in a straight line. This way, if any one of the gauges deviates from a straight line, it is immediately clear that the engine's condition is not normal.
+Black pile carpeting covers the floor, while the door panels and headliner are trimmed in black vinyl leather. In every respect, the interior can fairly be described as first-class.
 
-The main switches are located on the lower dash panel under the steering column. You can't see them well, so you have to feel around for them. The switch for the turn signals is unusual; you operate it by moving a lever sticking out of the panel up and down. 
+Getting in and out of the cockpit is not effortless. It takes a little practice. Once you learn to sit down first and then bring your legs inside, however, it presents no problems at all. Of course, this kind of car is not intended for frequent entry and exit. What really matters is that it should provide a comfortable driving environment.
+
+The driving position should satisfy almost anyone, thanks to a reclining seat with 140mm of fore-and-aft travel and a steering wheel adjustable through 60mm for reach. One feature that deserves special mention is the seatback, whose shape has clearly benefited from careful ergonomic study. It struck me as having received a level of attention not previously seen in a Japanese production car.
+
+The instruments are arranged so that the water temperature, oil temperature, oil pressure, and ammeter gauges all sweep vertically rather than horizontally. When the engine is operating normally, their needles line up almost perfectly in a straight horizontal row. If even one needle falls out of line, the driver can immediately tell that something is not right with the engine.
+
+The main switches are grouped beneath the steering wheel. Since they are difficult to see, they must largely be operated by feel. The turn-signal switch is also unusual, operating by moving a lever projecting from the instrument panel up or down.
 
 <b><u>Stable High-Speed Performance</b></u>
 
-Next, I inserted the key and started the engine. I was told that the engine had been broken in, but I still felt it was too early to rev this engine too much, too quickly.
+With that, I turned the key and started the engine. I had been told that the running-in period had already been completed, but I still couldn't help feeling that it would be rather hard on the engine to let it rev too freely.
 
-The engine was cold, so I let it warm up, and since it does not have a mechanical cooling fan, but rather an electric fan operated by the thermostat, it quickly reached operating temperature. It idled at 700-800 rpm. The DOHC valvetrain is extremely quiet. 
+Since the engine was still cold, I allowed it to warm up. Instead of a conventional cooling fan, however, it uses an electric fan that operates under thermostat control, so it reached operating temperature in no time at all. It settled into a smooth idle at 700-800rpm. The quietness of the DOHC engine is exceptional.
 
-I released the umbrella-type handbrake lever on the center console and set off for Fuji Speedway. 
+Releasing the handbrake lever mounted on the center console, I set off for Fuji Speedway.
 
-I was still worried about the engine not being fully run in. Also, I am not the type of person whose driving style is usually gentle to engines. For this reason, I decided to keep the engine speed below 6200rpm, well below the red zone of 7200rpm marked on the tachometer.
+Even so, I was still concerned that the engine might not yet be fully run in. Besides, it simply isn't in my nature to subject an engine to unnecessary punishment.
 
-However, on public roads, the only gear that can make full use of even this limited rev range is first gear. If you try to pull that many revs in any gear other than first, you'll be forced to back off to avoid exceeding the speed limit.
+For those reasons, I decided to keep the engine well below the red zone, which begins at 7200rpm, limiting myself to 6200rpm.
 
-Instead, I tried driving in each gear at the speed limit of 60km/h. At this speed, the engine was turning 3800rpm in second gear, 2800rpm in third gear, 2400rpm in fourth gear, and 2000rpm in fifth gear.
+In practice, though, only first gear allows the engine to be taken that high on public roads. In any of the higher gears, revving it that far would send the car well beyond legal speeds and almost certainly invite unwanted attention from the police. Instead, I tried driving in each gear at the 60km/h speed limit. At that speed, the engine turns 3800rpm in second, 2800rpm in third, 2400rpm in fourth, and just 2000rpm in fifth.
 
-The roadholding was very stable from low to high speeds. The suspension seems to use fairly soft springs, and the independent suspension and the good weight distribution (50% front and rear) seem to be a big plus.
+Road holding inspired complete confidence at all speeds, from low to high. The suspension seems to use fairly soft springs, yet the advantages of its independent layout, together with the excellent 50:50 front-to-rear weight distribution, seem to contribute greatly to the car's stability.
 
-The performance of the domestically produced Dunlop SP4 radial tires is quite good, and they seem to match the character of the Toyota 2000GT.
+The Japanese-built Dunlop SP4 radial-ply tires also perform extremely well. They seem perfectly matched to the character of the Toyota 2000GT.
 
-As we left Kozu on National Route 1 and headed towards Matsuda, and onto the winding mountain roads, the car really showed its true colors. The steering, with 2.5 turns from lock to lock, was very sharp, and it didn't lose stability even when we picked up speed. It felt like it had become an extension of the driver's body.
+Leaving National Route 1 at Kozu and heading toward Matsuda, the road soon climbed into a twisting mountain route. It was here that the car really came into its own. The steering, requiring just 2.5 turns from lock to lock, is delightfully quick, but never loses its reassuring stability as speed rises. It feels almost as though it has become an extension of the driver's own arms.
 
-Soon, Fuji Speedway would be approaching. (Yukio Fukuzawa, Racing Driver, Team Toyota)
+Before long, Fuji Speedway came into view.
 
-<b><u>Circuit Driving Ability</b></u> (Yoshio Otsubo)
+(Yukio Fukuzawa, Team Toyota racing driver)
 
-The Toyota 2000GT, long awaited by car enthusiasts, has finally been released. In my line of work, I have driven a Toyota 2000GT that was slightly modified for racing, but in a different sense, I have been looking forward to the release of this beautiful car as a production model.
+<b><u>Performance on the Circuit</b></u>
 
-It was just around the time of this release that my teammate Fukuzawa and I first tried driving the production car on both public roads and the circuit.
+<i>(Yoshio Otsubo)</i>
 
-I felt it was a shame to drive such a gorgeous car on a circuit in such a showroom-new condition. But to truly get to know this car, test drives like this are necessary, and it is also our duty as racing drivers to car fans.
+The Toyota 2000GT, long awaited by motoring enthusiasts, has finally gone on sale. By the nature of my profession, I had already driven Toyota 2000GTs modified somewhat for racing, but in a different sense, I had also been eagerly awaiting the day when this beautiful car would make its debut as a production model.
 
-On the day, we drove down the Tokaido Highway in clear weather toward Fuji Speedway. The cockpit was beautifully organized. The view through the windshield was something we had seen countless times before. However, on this day, everything looked fresh.
+It was at just such a moment that my teammate, Fukuzawa, and I had the opportunity to evaluate the car on both public roads and the circuit.
 
-We arrived at Fuji Speedway at 2:30pm. Starting from the Motor Fan/Auto Sport office building in Yotsuya, Tokyo, I drove 122.7km from the 3rd Keihin Expressway to the Yokohama Bypass, via Route 1 through Kozu and Matsuda, and Route 246 to Fuji Speedway. I used 17.3 liters of fuel during this trip, which works out to a fuel efficiency of 7.09km/liter. This includes the congested roads in Tokyo, and I drove at slightly high revs, so I'd say it's rather good for this type of car.
+Somehow, I felt almost sorry for putting such a beautiful car through its paces on a circuit in completely standard form. Yet to gain a true understanding of a car with genuine world-class performance, this sort of test is indispensable. As racing drivers, it is also part of our responsibility to carry out such tests on behalf of motoring enthusiasts.
 
-We immediately began preparations for the circuit run.
+That day, beneath clear skies, we headed straight for Fuji Speedway along the Tokaido Highway. The neatly laid-out cockpit was already familiar, as was the view through the windshield—something we had seen countless times before. Yet on this occasion, everything somehow seemed fresh.
 
-Tire pressure was set at 2.5kg/cm². Of course, the tires and all other equipment were stock. As for the engine speed, we decided to limit it to 6200rpm, except when checking the top speed, because this car had only been driven about 1,000km.
+At 2:30pm, we arrived at Fuji Speedway. Starting from the Motor Fan / Auto Sport offices in Yotsuya, Tokyo, we had followed the Third Keihin Expressway, the Yokohama Bypass, National Route 1 through Kozu and Matsuda, and then National Route 246 to the circuit, covering a total distance of 122.7km. Fuel consumption over the journey amounted to 17.3 liters, corresponding to 7.09km/l. Considering that the route included crowded Tokyo traffic and that we had driven at somewhat higher engine speeds than normal, this was a perfectly respectable figure for this kind of car.
 
-<b><u>Easily Reaches 200km/h</b></u>
+We began preparing for the circuit runs without delay.
 
-First, we did one test lap to check the gauges and other equipment. No abnormalities were found. Next, a reporter from Auto Sport magazine joined me for a few laps.
+The tire pressures were set at 2.5kg/cm², the standard specification for the production car. Since the car had covered only about 1,000km, I decided to limit engine speed to 6200rpm except when checking its maximum speed.
 
-What surprised me was how quiet the engine was. There was very little vibration even at high speeds. I was even able to talk to the reporter in the passenger seat with ease. This was amazing, especially considering that the car was traveling at over 200km/h with the windows open. Even when exceeding 200km/h on the 30-degree banking, the reporter calmly took notes on the readings on the gauges. This is a sure sign of how comfortable the car is.
+<b><u>An Easy 200km/h</b></u>
 
-When cornering, the car rolls a fair amount, but there's no excessive drift and it feels completely neutral. The brakes are all discs, which is reassuring.
+I began with a single lap to check the instruments and controls. Everything appeared normal. From the next lap onward, an Auto Sport reporter rode with me.
 
-Water temperature remained normal at 60°C, oil temperature reached 80°C (a little high), and the oil pressure was normal at 4kg. I decided to try to achieve top speed on the 30-degree bank. With the accelerator pressed to the floor, the tachometer needle pointed to 6600. That's 220km/h!
+The first thing that surprised me was how remarkably quiet the engine was. Even at high speeds, there was very little vibration. In fact, it was easy to carry on a conversation with the reporter beside me. Considering that we were travelling at more than 200km/h with the windows open, it was nothing short of astonishing. Even while negotiating the 30-degree banking at over 200km/h, the reporter calmly noted down the instrument readings as I called them out. Surely that says something about how comfortable the car is.
 
-The reporter and I rode together for three laps, and our average time was two minutes and 30 seconds, which surprised even me.
+Through the corners, the car rolled by just the right amount. There was no excessive drifting, and the handling remained completely neutral. The four-wheel disc brakes inspired tremendous confidence, fully demonstrating their effectiveness.
 
-As I know from experience, by simply making modifications such as changing the ratios of the transmission and final gear, strengthening the suspension and fitting racing tires, and by using the full range of the engine up to its 7200rpm redline, you can knock another 14 seconds off the time.
+Water temperature: 60°C. Oil temperature: 80°C--slightly on the high side. Oil pressure: 4kg/cm².
 
-The Toyota 2000GT has the potential to rival any car in its category with the same engine displacement, both domestic and foreign. That's what I felt most strongly when driving it on the circuit.
+It was time to see what the car would do down the banking. I pressed the accelerator to the floor. The tachometer needle climbed to 6600rpm.
 
-The circuit driving distance, between Fukuzawa's and my turns at the wheel, was 70.7km. During this time, we consumed 16.3 liters of fuel. This means that the racing fuel consumption is about 4.3km/l. This is quite a good number for this type of car.
+...220km/h.
 
-Leaving Fuji in the evening glow behind, we exited the speedway, leaving behind a light exhaust note. With my teammate Fukuzawa at the wheel, we returned to Tokyo via the Third Keihin Highway through Fuji, Matsuda, Kozu, and Chigasaki back to Tokyo. I was able to fully enjoy the comfortable ride in the passenger seat.
+With the reporter alongside me, we completed about three laps, recording an average lap time of 2 minutes 30 seconds. Even I found that surprisingly quick.
 
-Traffic was backed up on the Yokohama Bypass, forcing us to drive slowly, but thanks to the electric cooling fan there was no need to worry about overheating, and we were able to get through the rush hour traffic without worry.
+With revised gearbox and final-drive ratios, slightly uprated suspension, and racing tires--only relatively minor modifications, in other words--I believe the car could comfortably be taken right up to the 7200rpm redline. Under those conditions, it should be possible to reduce the lap time by another 14 seconds or so.
 
-Although we were unable to gather much statistical data during our limited test time, this is in any case a very attractive car, and in every respect it can be said to be a car that truly lives up to its name as "Japan's first full-fledged grand touring car." (Yoshio Otsubo, Racing Driver, Team Toyota)
+The Toyota 2000GT has the ability to withstand comparison with any domestic or overseas car of similar displacement in its class. After driving it on the circuit, I became more convinced of that than ever.
+
+Between Fukuzawa and myself, we covered 70.7km on the circuit. During that time, the car consumed 16.3 liters of fuel, equivalent to approximately 4.3km/l under racing conditions. For this type of car, that is an impressive figure.
+
+Leaving Fuji Speedway behind in the evening glow, accompanied by the crisp note of the exhaust, we began the journey back to Tokyo. Fukuzawa took the wheel, following the route from Fuji through Matsuda, Kozu, Chigasaki, and the Third Keihin Expressway. Settling into the passenger seat, I was able to appreciate fully just how comfortable the ride really was.
+
+Traffic increased on the Yokohama Bypass, forcing us to crawl along at little more than walking pace. Thanks to the electrically driven cooling fan, however, there was never any concern about overheating, and we negotiated the rush-hour traffic without the slightest anxiety.
+
+The limited time available for the test did not allow us to gather all the data we would have liked. Even so, there is no question that this is a truly captivating automobile. In every respect, it fully deserves to be called Japan's first true grand touring car.
+
+(Yoshio Otsubo, Team Toyota racing driver)
 
 
 ---
