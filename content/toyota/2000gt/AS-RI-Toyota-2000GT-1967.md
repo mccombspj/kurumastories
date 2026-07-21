@@ -65,11 +65,11 @@ A graceful grand tourer on the highway. A fearless competition machine on the ci
 
 We factory drivers spend a lot of time behind the wheel of "hot" tuned machinery, but surprisingly little in production cars--the ordinary street versions. This was true even of the Toyota 2000GT, our own company's flagship. For that reason, I approached this road test with considerable interest.
 
-The test car was finished in white and, with only about 1,000km on the odometer, was still nearly new. The first thing that struck me when I saw it standing in the parking area was just how low it was. The 2000GT is a familiar sight to me, but seeing it parked among ordinary passenger cars made me realize all over again how exceptionally low its roofline is. As I recall, in fact, it is probably the lowest of any production GT car of its kind.
+The test car was finished in white and, with only about 1,000km on the odometer, was still nearly new. The first thing that struck me when I saw it standing in the parking area was just how low it was. The 2000GT is a familiar sight to me, but seeing it parked among ordinary passenger cars really brought home how exceptionally low its roofline is. As I recall, in fact, it is probably the lowest of any production GT car of its kind.
 
-For example, compared with the Toyota 2000GT's overall height of 1160mm:
-Jaguar E-Type: 1220mm
-Porsche 912: 1320mm
+For example, compared with the Toyota 2000GT's overall height of 1160mm:<br>
+Jaguar E-Type: 1220mm<br>
+Porsche 912: 1320mm<br>
 Porsche 911: 1320mm
 
 All of them are taller. That comparison, of course, is limited to the production cars.
@@ -78,7 +78,7 @@ The styling was the work of Toyota Motor Company's design department under Sator
 
 Although its basic form is that of a fastback coupe, its overall lines are strikingly original. To my eye, the defining feature is the "razor edge"—a crisp character line flowing from the front fender to the rear fender.
 
-Viewed from the side, the rising lower line of the side windows became such a talking point at European and American motor shows that some even suggested it had been inspired by the shape of "Oriental eyes." Whether or not that was really the intention, it has become one of the car's most distinctive styling features.
+Viewed from the side, the rising lower line of the side windows became such a talking point at European and American motor shows that some even suggested it was inspired by the shape of "Oriental eyes." Whether or not that was really the intention, it has become one of the car's most distinctive styling features.
 
 Inside, the first thing to catch the eye is the beautifully polished cherry-wood dashboard. The luxury lies not merely in its appearance, but in the fact that it is made from thick solid timber rather than laminated veneer.
 
