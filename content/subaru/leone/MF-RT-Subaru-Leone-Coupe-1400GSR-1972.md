@@ -94,7 +94,7 @@ Perhaps for that reason, some have criticized the car for not seeming very much 
 
 It's generally accepted that coupes sell in smaller numbers than sedans. In spite of that, you've chosen to launch only a coupe. Was there some special intention behind that decision? I can't help thinking that a sedan will eventually follow.
 
-<b>Nakajima:</b> One of our aims was to create, within the compact family-car class, something with the flavor of a specialty car--something that would appeal to younger buyers with sporting tastes, as well as customers who felt that conventional cars left something to be desired.
+<b>Nakajima:</b> One of our aims was to create, within the compact family-car class, something with the flavor of a specialty car--something that would appeal to younger buyers with sporting tastes, as well as customers who felt that typical cars left something to be desired.
 
 That does not mean we intend to offer only a specialty car. As far as sedans are concerned, the FF-1 series will continue to be developed and marketed just as before.
 
@@ -104,11 +104,11 @@ That does not mean we intend to offer only a specialty car. As far as sedans are
 
 <b>Oguchi:</b> The fact that there's no sedan version and only a coupe gave me the impression that Fuji Heavy Industries' tradition of individuality is reflected in this project as well.
 
-Until now, the accepted formula has always seemed to be sedan first, coupe afterward. Rather than establishing the sedan and then deriving a coupe from it, you've gone ahead and introduced the coupe first, saying in effect, "This is the car." I found that approach quite interesting.
+Until now, the accepted formula has always been: sedan first, coupe second. Rather than establishing the sedan and then deriving a coupe from it, you've gone ahead and introduced the coupe first, saying in effect, "This is the definitive version." I found that approach quite interesting.
 
-<b>Hoshijima:</b> I imagine the front-wheel-drive car Alfa Romeo is said to be developing will probably take the Leone Coupe and 1300G as reference points. Yet I have a feeling their version will end up being a far more distinctive automobile. That's the part I find somewhat disappointing.
+<b>Hoshijima:</b> I imagine the front-wheel-drive car Alfa Romeo is said to be developing will probably use the Leone Coupe and 1300G as reference points. Yet I have a feeling their car will end up being far more distinctive. That's the part I find somewhat disappointing.
 
-<b>Hirao:</b> I assume a great deal of study went into the decision of whether to proceed with a coupe or a sedan. Did you conduct market research as well?
+<b>Hirao:</b> I assume a great deal of study went into the decision of whether to go with a coupe or a sedan. Did you conduct market research as well?
 
 <b>Nakajima:</b> When we looked into it, we found that many people felt Subaru cars were excellent beneath the surface, but somehow lacking in styling appeal. So we decided to keep the substance much as it had been, while placing greater emphasis on style.
 
@@ -118,7 +118,7 @@ People buying their first car often make their decision after looking at the fro
 
 <b>Nakajima:</b> We devoted a great deal of study to the rear styling. The combination lamps, which we call the "cut-in" type, are swept over at an angle, and we emphasized the design by giving the rear fenders a raised, muscular appearance.
 
-<b>Magazine:</b> Among Japanese cars, the roof section gives the impression of being unusually small. I assume that's one of the styling features as well?
+<b>Magazine:</b> Among Japanese cars, the roof section gives the impression of being unusually small. Is that one of the styling features as well?
 
 <b>Hirao:</b> The upper section is short and the body sides are deep. That's the general trend these days.
 
@@ -138,13 +138,13 @@ The height of the side windows is also determined to a certain extent by the pac
 
 <b>Hoshijima:</b> The low roofline certainly looks attractive, but I wonder whether it was really necessary to sacrifice so much rear-seat headroom in the process. Giving priority to the front occupants is fine, but with an FF car, shouldn't one of the fundamental ideas be providing generous space in the rear as well?
 
-<b>Higuchi:</b> In a coupe like this, people generally spend only short periods in the back seat. From a practical standpoint, it might have been better to sacrifice some rear-seat cushion thickness in order to gain additional headroom.
+<b>Higuchi:</b> In a coupe like this, people generally spend only a short time in the back seat. From a practical standpoint, it might have been better to sacrifice some rear-seat cushion thickness in order to gain additional headroom.
 
 There's almost a kind of enthusiast's self-denial involved in insisting that a coupe's rear seat ought to be cramped. It seems to me you could lower the hip point by 3-5cm and improve matters considerably. Of course, I'm only judging from the outside and don't know what constraints may exist beneath the surface.
 
 <b>Murota:</b> The floor pressing imposes limits on how far we can lower things, and that's essentially where we reached the limit.
 
-As for rear-seat accommodation, compared with other cars it certainly isn't generous, but neither is it among the worst. It's cramped, yes, but I think we arrived at a fairly reasonable compromise.
+As for rear-seat accommodation, compared with other cars it certainly isn't generous, but neither is it among the worst. It's tight, yes, but I think we arrived at a fairly reasonable compromise.
 
 <b>Higuchi:</b> My point is that an FF layout ought to make that sort of improvement possible.
 
@@ -198,7 +198,7 @@ In addition, we've moved the brakes from their previous inboard location to outb
 
 <b>Takahashi:</b> Assembly efficiency is improved as well. Quite apart from the cost of the components themselves, installation becomes simpler. In addition, there are fewer maintenance items and no complicated adjustments to make. As a result, owners spend less time having their cars serviced and incur lower maintenance costs. Because there are fewer parts requiring adjustment, we also felt the design offered greater stability and safety as a mechanism.
 
-<b>Kageyama:</b> One of the distinguishing features of the FF-1 was the ability to adjust ride height freely. I take it that's no longer possible?
+<b>Kageyama:</b> One of the distinguishing features of the FF-1 was the ability to adjust the ride height as desired. I take it that's no longer possible?
 
 <b>Matsumoto:</b> That's correct. In practice, however, relatively few owners actually made use of that feature. Of course, it's preferable to have the capability if possible, but with the Leone we've prepared a range of variations, and we'd rather have customers choose the specification that best suits their needs.
 
@@ -222,9 +222,9 @@ In that respect, it's rather different from an ordinary strut suspension.
 
 <b>Magazine:</b> Let's move on to the performance results.
 
-<b>Furutani:</b> Standing-start acceleration figures were 0-50m in 4.9 seconds, 0-100m in 7.3 seconds, 0-200m in 11.6 seconds, and 0-400m in 17.6 seconds. In terms of elapsed time versus road speed, the car accelerated from 0-60km/h in 5.0 seconds, 0-80km/h in 7.3 seconds, and 0-100km/h in 10.6 seconds.
+<b>Furutani:</b> Standing-start acceleration figures were 0-50m in 4.9 seconds, 0-100m in 7.3 seconds, 0-200m in 11.6 seconds, and 0-400m in 17.6 seconds. In terms of time to speed, the car accelerated from 0-60km/h in 5.0 seconds, 0-80km/h in 7.3 seconds, and 0-100km/h in 10.6 seconds.
 
-On the test day we were running into a strong southerly wind of between 8-13.5m/sec, so the 17.6-second 0-400m figure is probably not as representative as it might be. For this car, I don't think it's an especially good result.
+On the day of the test, we were running into a strong southerly wind of between 8-13.5m/sec, so the 17.6-second 0-400m figure is probably not entirely representative. For this car, I don't think it's an especially good result.
 
 <b>Magazine:</b> The engine is essentially an enlarged version of the unit used in the 1300G, isn't it? When the 1300 was developed, was a future 1400cc version already being considered?
 
@@ -280,21 +280,21 @@ For the Leone Coupe, we wanted to extend cruising range further, so capacity was
 
 <b>Hirao:</b> It's very quiet at high speed.
 
-<b>Hoshijima:</b> My impression was that, aside from cars powered by rotary engines, it may be the quietest I've driven.
+<b>Hoshijima:</b> My impression was that, aside from rotary-engine cars, it may be the quietest I've driven.
 
-<b>Oguchi:</b> There are virtually no pronounced peaks in the noise curve, and it's quiet at speed as well. The slight rise at 120km/h--is that gear noise?
+<b>Oguchi:</b> There are virtually no pronounced peaks in the noise curve, and it's quiet at steady speeds as well. The slight rise at 120km/h--is that gear noise?
 
-<b>Hoshijima:</b> My impression comes from the GL, but what I noticed more was a slight booming sound around 60km/h.
+<b>Hoshijima:</b> This was my impression from the GL, but what I noticed more was a slight booming sound around 60km/h.
 
-<b>Magazine:</b> From outside the car, it doesn't strike one as being especially quiet.
+<b>Magazine:</b> From outside the car, it doesn't seem to be especially quiet.
 
 <b>Higuchi:</b> It has that distinctive Subaru sound. Personally, it's a sound I rather like.
 
-<b>Matsumoto:</b> We concentrated on preventing engine-compartment noise from entering the cabin. Rubber isolation was used wherever necessary in the transmission paths, and we made every effort to reduce structure-borne noise rather than merely airborne noise.
+<b>Matsumoto:</b> We concentrated on preventing engine-compartment noise from entering the cabin. Rubber isolation was used wherever necessary in the transmission paths, and we made every effort to reduce noise transmitted through the structure rather than merely airborne noise.
 
 Even components in the engine-control system were mounted at points on the body structure with high mechanical impedance.
 
-One area where the Leone Coupe is improved over the FF-1 is wind noise. We put considerable effort into door rigidity and the compliance of the surrounding structure.
+One area where the Leone Coupe is improved over the FF-1 is wind noise. We put considerable effort into door rigidity and the flexibility of the surrounding structure.
 
 <b>Oguchi:</b> Some time ago I rode in an FF-1 with Professor Kageyama, and we found ourselves discussing why there seemed to be so much wind noise. What struck me most about the Leone Coupe was how much that particular aspect had improved.
 
@@ -346,7 +346,7 @@ We conducted hands-off stability testing up to 108km/h, and the results indicate
 
 <b>Matsumoto:</b> The steering ratio has definitely been increased. To compensate, however, we've reduced the steering-wheel diameter, so the two changes more or less cancel each other out.
 
-<b>Takahashi:</b> Changing from the center-pivot arrangement inevitably affects steering feel, so we also took the steering ratio into account. One of our goals was to ensure that existing FF-1 owners would not find the car feeling radically different.
+<b>Takahashi:</b> Changing from the center-pivot arrangement inevitably affects steering feel, so we also took the steering ratio into account. One of our goals was to ensure that existing FF-1 owners would not find the car radically different in feel.
 
 <b>Okazaki:</b> I think the overall character has become more subdued than that of the FF-1. By subdued, I don't mean dull. Steering response remains sharp, there's very little phase lag, and the car reacts promptly to inputs. My impression is that it's an unusually straightforward FF car.
 
@@ -374,7 +374,7 @@ Having driven it at Suzuka, I'd say that compared with something like the Honda 
 
 <b>Okazaki:</b> With the Leone Coupe, many of the extreme traits we tend to associate with FF cars have been greatly subdued. Yet once you begin driving at speeds where genuinely sporting motoring becomes possible, the fundamental FF characteristics are still very much there.
 
-Lift off the throttle and the car tucks neatly into the corner. Throw it sharply into a hairpin on dirt, and it will rotate readily enough to put itself into a full spin.
+Lift off the throttle and the car tucks neatly into the corner. Throw it sharply into a hairpin on dirt, and it will rotate readily enough to go into a full spin.
 
 In that sense, the behavior of something like the Mini Cooper is perhaps less simply "interesting" than actually quite extreme. For an ordinary passenger car, I feel the Leone's balance is about right.
 
@@ -390,7 +390,7 @@ The braking system uses front discs and rear leading-trailing drums, assisted by
 
 Pedal effort required to achieve 0.6g deceleration was 19kg in bench testing. At that point, pedal travel was a rather long 84mm. On the road, however, the figure dropped to a very light 11kg.
 
-Front-to-rear brake-force distribution was 85:15, indicating a strong front bias. Side-to-side balance was generally good, although the right front brake produced a somewhat larger contribution.
+Front-to-rear brake-force distribution was 85:15, indicating a strong front bias. Side-to-side balance was generally good, although the right front brake provided a somewhat larger contribution.
 
 The parking brake acts on the front discs. Achieving 0.2g deceleration required an operating force of 28kg. That's a fairly high figure for a parking brake acting on disc brakes.
 
