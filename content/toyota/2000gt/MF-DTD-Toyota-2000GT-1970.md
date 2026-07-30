@@ -67,7 +67,7 @@ Human charm is such a vague and elusive concept that it's almost impossible to p
 
 By contrast, what is lacking in charm is the kind of person who doesn't know where they themselves stand.
 
-Knowing oneself is the source of balance. At least, this is what I believe, despite my own limited knowledge and shallow ability.
+Knowing oneself is the source of balance. At least, this is what I believe, despite my own limited knowledge and shallow insight.
 
 For example, no matter how hard one may work to polish their muscular, well-built body, if they are empty inside, they will have no charm. And if one dresses up in Parisian fashion and wears high heels to go mountain climbing, it will only bring about ridicule.
 
