@@ -99,9 +99,9 @@ While driving, I could feel envious eyes on the car from the outside almost cons
 
 And then there's the performance. There are no faults here either. In fact, far from having faults, it revs freely and pulls strongly. Acceleration is very good. Toyota's pride and joy, the Toyoglide automatic transmission, is fully capable of bringing out this performance. By comparison, the automatic in the Jaguar XJ6 I'm driving now isn't even in the same league. 
 
-It was able to withstand traffic jams without a whimper, and even on the Tomei Expressway, where strong acceleration is a must, it let the engine rev freely to demonstrate its full performance, without holding anything back. If I had to find faults, I could only say that the gear ratios for second and third gear are too close together (Editor's note: the ratios are 1.479 for second, 1.000 for third). This isn't a problem on the highway, but on city streets, pacing the flow of traffic, the frequent up-down, up-down is annoyingly busy. And of course, making the second gear ratio a little higher would further improve the acceleration. Even so, this is a simple matter, and it's obviously something they could easily improve. As it is, it is already at a high level.
+It was able to withstand traffic jams without a whimper, and even on the Tomei Expressway, where strong acceleration is a must, it let the engine rev freely to demonstrate its full performance, holding nothing back. If I had to find faults, I could only say that the gear ratios for second and third gear are too close together (Editor's note: the ratios are 1.479 for second, 1.000 for third). This isn't a problem on the highway, but on city streets, pacing the flow of traffic, the frequent up-down, up-down is annoyingly busy. And of course, making the second gear ratio a little higher would further improve the acceleration. Even so, this is a simple matter, and it's obviously something they could easily improve. As it is, it is already at a high level.
 
-Then there’s the use of retractable headlamps, unprecedented in a domestic car. And the interior, unified in black with dignified, weighty trim, thoughtful touches for the passenger (the grab bar, the footrest), and so on. Even the instruments are angled for easy viewing by the driver, and the brakes are discs on all four wheels. All of this proudly expresses the image of an “expensive machine costing over 2.4 million yen."
+Then there’s the use of retractable headlamps, unprecedented in a domestic car. And the interior, unified in black with dignified, substantial trim, thoughtful touches for the passenger (the grab bar, the footrest), and so on. Even the instruments are angled for easy viewing by the driver, and the brakes are discs on all four wheels. All of this proudly expresses the image of an “expensive machine costing over 2.4 million yen."
 
 At first glance, and even after a short drive, I would have to say the car is flawless.
 
@@ -109,7 +109,7 @@ And yet... it just didn't click. The more I drove it, and kept driving it, tryin
 
 Well, first of all, I have to say that the suspension is absolutely useless. As the miles rolled up--300km, 500km, 1,000km--I began to feel fatigue, and the urge to stop and get out of the car kept rising. Yes, this car had about 6,000km on it, and it had just been driven quite hard (it wasn't a brand-new car; Toyota Motor Sales loaned it to us, and since there had been no time to service it before our drive, we used it as-is). Still, even allowing for these unfavorable conditions, it felt as if the shock absorbers were broken: far too stiff, and mismatched with the engine. To put it bluntly, it felt as if a high-level racing engine had been put into a chassis fit for a truck.
 
-The steering was also terrible, in similar proportion to the poor suspension. I've put up with stiff steering in plenty of race cars, and I wouldn't have objected if the steering was only a little stiff. But this steering--on the highway it shimmies, and on winding roads it stiffens up intolerably. My supposedly strong upper arms began to ache, as though knots were forming in them. 
+The steering was also terrible, in similar proportion to the poor suspension. I've put up with stiff steering in plenty of race cars, and I wouldn't have objected if the steering was only a little stiff. But this steering--on the highway it shimmies, and on winding roads it weights up intolerably. My supposedly strong upper arms began to ache, as though knots were forming in them. 
 
 At times I felt like saying, “Enough,” and retiring on my own. The poor compliance, the high-effort steering, and on top of that, the strong understeer. Understeer seems to be a general tendency in Toyota cars, but even if this one was out of adjustment, the 2000GT’s understeer was so bad it made me want to use the silly expression, “the front end drifts.” In hard cornering, the car hopped and skipped outward and wouldn't stay planted. For a driver, nothing demands more attention than a front end that keeps moving off your intended line.
 
@@ -123,7 +123,7 @@ Making the car an "easy drive," rather than relentlessly pursuing the highest st
 
 No, let's stop there. A schoolboy taking a swing at a grand <i>yokozuna</i> is pointless. Let's calmly return to the topic of why I didn't like the car.
 
-If we compare a car's suspension to a role in the human body, I would say that it corresponds to our legs. It is said that when a person begins to decline, it starts with the legs. Legs are fundamentally important to human beings. And I believe the same holds true for cars. Separate from the engine, the suspension is the basic life of the car.
+If we compare a car's suspension to a role in the human body, I would say that it corresponds to our legs. It is said that when a person begins to decline, it starts with the legs. Legs are fundamentally important to human beings. And I believe the same holds true for cars. Apart from the engine, the suspension is the basic life of the car.
 
 Japan’s roads are notorious worldwide for their poor conditions, and the era of highways has only just begun here. But for Toyota, a top manufacturer, it shouldn’t be impossible to adopt suspension truly suited for highway use even before the general public is accustomed to highway travel. The 2000GT's monthly sales are only one or two units (122 units sold in Japan and 108 more overseas, from the model's launch until the end of November), and production is entrusted to Yamaha, so it is being made in a state of almost handcrafted construction. Wouldn't it be better to use this opportunity to take care with the details and design a chassis more fitting for speeding down the highway? After all, this is not only a car, it's a symbol.
 
@@ -153,9 +153,9 @@ To put it another way, if we were to compare her to a woman, she would be like a
 
 It is a terrible metaphor, and it lowers my dignity a little to use it, but no matter how much I try to dismiss  the image, it sticks stubbornly in my mind.  At the beginning I spoke about the charm of human beings. So what, then, is the "charm" of a car? 
 
-I think this is also about "balance." Unlike humans, cars do not have the multifaceted layers of body, mind, and spirit. 
+I think this is also about "balance." 
 
-Even so, a car has three essential elements: engine, suspension, and body design. The balance between these elements, which we'd call "setting" in racing terms, is the crucial point that makes a driver feel affection for a machine.
+Unlike humans, cars do not have the multifaceted layers of body, mind, and spirit. Even so, a car has three essential elements: engine, suspension, and body design. The balance between these elements, which we'd call "setting" in racing terms, is the crucial point that makes a driver feel affection for a machine.
 
 Of course, each person, with their own character, forms their own image of a car, and that image itself becomes a major factor within the balance.
 
@@ -167,7 +167,7 @@ Even a family car of about 1000cc can be something you grow passionately fond of
 
 This is why the most important elements of design, the things that make you nod your head in approval, are the ones you can’t see. The precision of the setting, the balance between engine and suspension, these are the things that you quietly, deeply agree with.
 
-The Toyota 2000GT Toyoglide: it calls to mind the image of a slender modern woman, wearing the very latest fashions, clacking through Ginza in traditional <i>geta</i> sandals.
+The Toyota 2000GT Toyoglide: it calls to mind the image of a slender modern woman, wearing the very latest fashion, clacking through Ginza in traditional <i>geta</i> sandals.
 
 I think that anyone, not only myself--once they have driven this car--will stop gazing at it with simple envy. Instead, they will start to look at the Toyota 2000GT as it races stylishly past and think, with a sense of sympathy, "She must be having a hard time!"
 
