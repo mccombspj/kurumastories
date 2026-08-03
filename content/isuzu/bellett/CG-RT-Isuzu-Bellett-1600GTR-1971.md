@@ -37,7 +37,7 @@ draft = false
 
 <b><u>Road testing the Isuzu Bellett 1600GTR</b></u>
 
-A full road test of the Bellett 1600GTR has long remained unfinished business for us. At the time of its debut in the autumn of 1969, the editor had only recently broken his left leg, and hesitated at the prospect of operating the GTR's heavy clutch for extended periods with a plaster cast still on. The task of writing a brief road impression was therefore entrusted to other members of the editorial staff.
+A full road test of the Bellett 1600GTR has long remained unfinished business for us. At the time of its debut in the autumn of 1969, the editor had only recently broken his left leg, and hesitated at the prospect of operating the GTR's heavy clutch for extended periods with a plaster cast still on. We therefore settled for publishing a brief road impression by the editorial staff. 
 
 From that time until now, however, there has been a steady stream of letters from devoted Bellett enthusiasts urging us to conduct a proper test of the GTR. Their number reached a peak after we left the Bellett 1600GTR out of our comparison test of 1.6-liter sports coupes in the August 1970 issue of Car Graphic. We had done so for a variety of reasons, but the result was a desk piled high with indignant letters.
 

@@ -36,7 +36,7 @@ There is, however, a substantial difference in price. The GTO MR costs 1.125 mil
 
 <b>Celica GT:</b> Among Toyota's engines, this 115ps DOHC unit is truly outstanding. From a smooth idle of roughly 800rpm to the beginning of the red zone at 7000rpm, it revs with exceptional smoothness, and even at high engine speeds very little vibration is transmitted to the body.
 
-Around 4000rpm, some exhaust resonance becomes noticeable within the cabin, but mechanical noise is remarkably subdued for a twin-cam engine. At Yatabe, the Celica recorded a maximum speed of 176.78km/h over the measured 1km straight, corresponding to 5900rpm in fifth gear.
+Around 4000rpm, some exhaust resonance becomes noticeable inside the cabin, but mechanical noise is remarkably subdued for a twin-cam engine. At Yatabe, the Celica recorded a maximum speed of 176.78km/h over the measured 1km straight, corresponding to 5900rpm in fifth gear.
 
 Evidence of the engine's ample power relative to the car's weight is provided by the fact that it was able to reach 173.81km/h even in direct fourth gear. At that speed the engine was turning 6750rpm, slightly above its 6400rpm power peak but still comfortably within the yellow zone.
 
@@ -108,9 +108,9 @@ In the 0-100-0 fade test, pedal effort increased from an initial 16kg to 26kg by
 
 Understeer is held to moderate levels, and the car responds eagerly to even small steering inputs. The penalty is that steering effort during low-speed maneuvers--parking, for example--is disproportionately heavy for a car of this weight.
 
-The effect of the torque rod added to the rear axle is unmistakable. On the Galant AII GS, severe rear-axle tramp during hard starts was a persistent problem, but on the GTO MR it is entirely absent. Instead, the car launches with only slight wheelspin before surging forward with remarkable vigor.
+The effect of the torque rod added to the rear axle is unmistakable. On the Galant AII GS, severe rear-axle tramp during hard starts was a persistent problem, but on the GTO MR it is entirely absent. Instead, the car launches with only slight wheelspin before surging forward vigorously.
 
-The same advantage appears when accelerating hard out of tight corners on uneven surfaces. Power is transmitted to the road with little waste, and the rear axle remains well controlled. Cornering stability is excellent. Even if the throttle is lifted in a fast bend, the car's overall attitude changes very little, the only effect being a slight reduction in understeer.
+The same advantage is apparent when accelerating hard out of tight corners on uneven surfaces. Power is transmitted to the road with little waste, and the rear axle remains well controlled. Cornering stability is excellent. Even if the throttle is lifted in a fast bend, the car's overall attitude changes very little, the only effect being a slight reduction in understeer.
 
 It is the sort of handling that inspires confidence when pressing on along a winding road.
 
