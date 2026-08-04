@@ -130,23 +130,23 @@ On the other hand, the Celica's ride comfort is superior, and as an overall driv
 
 <b><u>Interior and Equipment</b></u>
 
-The front seats in both cars are fully reclining units with integrated headrests, and comfort in both is excellent. Driving position differs little between them, though the Celica places the driver in a noticeably more sporting posture, either because the cowl is higher or the seating position lower.
+The front seats in both cars are fully reclining with integrated headrests, and comfort in both is excellent. Driving position differs little between them, though the Celica gives the driver a noticeably more sporting feeling, either because the cowl is higher or the seating position lower.
 
 The central sections of the seat upholstery--the areas that actually support the body--are trimmed in knitted vinyl leather in the Celica and fabric in the GTO.
 
-The rear-seat cushions, like those of an Alfa Romeo, are deeply recessed in both cars. Even so, the Celica provides the more comfortable seating position. The reason is simple: the backrest is reclined at a more relaxed angle, allowing occupants to sit in a more natural posture. In either case, however, four adults can be accommodated without undue difficulty.
+The rear-seat cushions, like those of an Alfa Romeo, are deeply recessed in both cars. Even so, the Celica provides the more comfortable seating position. The reason is simple: the backrest is reclined at a more relaxed angle, allowing occupants to sit in a more natural posture. In either case, however, four adults can be accommodated without too much difficulty.
 
-Instrumentation is comprehensive in both cars, and the GTO even includes an oil-temperature gauge. Taken as a whole, however, the Celica's dashboard is more attractive and better organized. The Galant's instrument panel is somewhat busy, making it harder to take in at a glance.
+Instrumentation is comprehensive in both cars, and the GTO even includes an oil-temperature gauge. Overall, though, the Celica's dashboard is more attractive and better organized. The Galant's instrument panel is somewhat busy, making it harder to take in at a glance.
 
-From a functional standpoint, the principal weakness of the GTO is its horn button, which is located in the center of the steering wheel. The Celica's arrangement, with horn buttons positioned at the bases of the three T-shaped spokes and operable without removing one's hands from the wheel, is decidedly preferable.
+From a functional standpoint, the main weakness of the GTO is its horn button, which is located in the center of the steering wheel. The Celica's arrangement, with horn buttons positioned at the bases of the three T-shaped spokes and operable without removing one's hands from the wheel, is decidedly preferable.
 
 The GTO does have the advantage when it comes to the headlamp and wiper controls, both of which are conveniently close to hand. In the Celica, they are mounted farther away on the dashboard.
 
 The Celica is equipped with an AM/FM radio as standard equipment, whereas the GTO offers only AM reception.
 
-Generally speaking, the Celica possesses the more attractive interior design and more complete equipment specification.
+Generally speaking, the Celica has the more attractive interior design and more complete equipment specification.
 
-In conclusion, these two cars are so similar in performance and design that it is difficult to identify a truly decisive factor that would determine the choice between them.
+In conclusion, these two cars are so similar in performance and design that it is difficult to identify a truly decisive factor in choosing between them.
 
 If forced to draw a distinction, we would say that the GTO holds the advantage in both handling and performance, making it the more natural choice for "drivers." The Celica, on the other hand, combines elegant styling with a fully equipped interior, qualities likely to appeal more strongly to "cruisers."
 

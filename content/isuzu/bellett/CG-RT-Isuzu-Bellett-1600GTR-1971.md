@@ -29,10 +29,7 @@ draft = false
 
 
 
-<b>Summary:</b> The ultimate Bellett GT. In exchange for a stiff ride at low speeds and excessive noise at high speeds, the performance and maneuverability are the best in the class, the steering is unmatched in its quickness, the power-off oversteer from the rear swing axle is moderately suppressed, it is extremely fast and exciting to drive on winding roads, and even with limited space in the back seat, which effectively makes it a 2+2, it is a very good car. The poor ventilation and heating system shows the age of the design. 
-
-
-
+<b>Summary:</b> The ultimate Bellett GT. The ride is excessively firm at low speeds and noise becomes excessive at high speeds, but performance and handling are the best in its class. The steering is exceptionally quick and precise. Power-off oversteer, inherent in the swing-axle rear suspension, is kept within reasonable bounds, making the car exceptionally fast and exhilarating on winding roads. Rear-seat space is limited, making it effectively a 2+2. The inadequate ventilation and heating system betray the age of the design.
 
 
 <b><u>Road testing the Isuzu Bellett 1600GTR</b></u>

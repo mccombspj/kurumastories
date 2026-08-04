@@ -16,7 +16,7 @@ draft = false
 <b>Date:</b> May 1973<br>
 <b>Author:</b> "C/G Test Group" (uncredited)
 
-<b>Summary:</b> The "Ska G-R" has a completely redesigned body. It is fitted with a semi-racing engine inherited from the previous model, but despite the attractive specs, there is nothing particularly impressive about the performance in stock form. The controls are heavy and the handling is crude, but it has a fairly high level of balance and a solid ride. The four-wheel disc brakes require a lot of pedal effort despite servo assist. It has poor fuel economy, is noisy overall, is expensive, and is aimed at wealthy enthusiasts.
+<b>Summary:</b> The "Ska G-R" returns with a completely redesigned body. It retains the semi-racing engine inherited from the previous model. Despite its enticing specifications, the stock car's performance leaves much to be desired. The controls are heavy, and while its handling lacks subtlety, it nevertheless achieves a high standard of overall balance. The ride is solid and composed. The four-wheel servo-assisted disc brakes require heavy pedal effort, fuel economy is poor, the car is generally noisy, and it is high-priced, aimed at wealthy enthusiasts.
 
 
 <b><u>Road testing the Skyline 2000GT-R Hardtop</b></u>
@@ -110,7 +110,7 @@ While hardly changing the throttle opening, one need only unwind the steering sl
 
 Unlike the previous model, however, the GT-R now retains the standard Skyline's steering ratio of four turns from lock to lock, together with its large 40cm steering wheel. As a result, if excessive power is applied in a tight second-gear corner, the driver's hands become extremely busy.
 
-Iin downhill corners, the rear no longer develops the light feeling familiar from the standard GT, an improvement that can be credited to the new rear anti-roll bar. Perhaps for this reason, the rear tires seem to offer markedly greater grip than in the previous GT-R. 
+In downhill corners, the rear no longer develops the light feeling familiar from the standard GT, an improvement that can be credited to the new rear anti-roll bar. Perhaps for this reason, the rear tires seem to offer markedly greater grip than in the previous GT-R. 
 
 Even so, the handling never becomes burdened by excessive understeer.
 
@@ -140,7 +140,7 @@ Contrary to what its specifications might suggest, accommodation—particularly 
 
 The chassis is naturally on the firm side, being tuned for high-speed driving. Yet thanks to its substantial body and long wheelbase, the GT-R always conveys a reassuring sense of solidity. Even when crossing raised pavement markers, no harsh jolts or abrupt kicks are transmitted through the chassis.
 
-The fixed-back full bucket seats, with their integrated headrests, wrap completely around the driver. When pressing on along a winding road, they provide such effective lateral support that a seatbelt is hardly needed simply to keep the body in place. Their virtues extend beyond support alone, however; they also absorb road shocks exceptionally well.
+The fixed-back full bucket seats, with their integrated headrests, wrap completely around the driver. When pressing on along a winding road, they provide such effective lateral support that the seatbelt is hardly needed to keep the body in place. Their virtues extend beyond support alone, however; they also absorb road shocks exceptionally well.
 
 The favorable impression of the car's accommodation owes much to the rigidity of the body itself. The previous GT-R rode only slightly more firmly than this new model, yet there was always a sense that its body lacked stiffness, with squeaks and creaks constantly making themselves heard over uneven roads. The present model represents a substantial improvement in this respect. Apart from the inevitable increase in mechanical noise resulting from the omission of sound insulation, the body itself remains commendably free of rattles and creaks.
 
@@ -152,7 +152,7 @@ Anyone prepared to spend a considerable sum on this car would be well advised no
 
 Other equipment fitted to the standard model but omitted from the GT-R includes the radio, rear-window defroster, clock, tilting steering column, and anti-glare rear-view mirror.
 
-Fuel consumption proved uniformly poor, entirely in keeping with the car's specifications and performance. It deteriorated particularly badly when the engine was used as intended in the upper reaches of the rev range.
+Fuel consumption proved consistently poor, in keeping with the car's specifications and performance. It deteriorated particularly badly when the engine was used as intended in the upper reaches of the rev range.
 
 A full day's hard driving through the mountains of Izu and Hakone returned an average of only 4.47km/l, using premium gasoline. The Yatabe test session, including maximum-speed testing, averaged 4.92km/l, again reflecting sustained operation at high engine speeds. Likewise, heavy city traffic—particularly under the congested conditions encountered during this test—produced just 3.64km/l, as the low gears had to be used almost continuously.
 
