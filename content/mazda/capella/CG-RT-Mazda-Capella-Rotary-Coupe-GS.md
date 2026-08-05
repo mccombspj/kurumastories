@@ -31,7 +31,7 @@ draft = false
 
 
 
-<b>Summary:</b> Exceptionally smooth and powerful rotary engine, conversation possible while cruising at 160km/h, strong mid-range torque makes it easy to drive in urban areas, maneuverability and ride comfort both at a high level. Lots of nose dive during hard braking, early rear wheel lock, effective ventilation.
+<b>Summary:</b> Exceptionally smooth and powerful rotary engine. Normal conversation possible during sustained 160km/h cruising. Strong mid-range torque makes it easy to drive even in city traffic. Both handling and ride are of a high standard. Pronounced nose dive under hard braking; rear wheels prone to early lock-up. Effective ventilation.
 
 
 
@@ -43,104 +43,217 @@ draft = false
 
 
 
-C/G took notice of the future potential of rotary piston engines early on, and we purchased a Familia Rotary Coupe as soon as it was released, in July 1968. <!--more-->Since then, we have been conducting a long-term test of the car for about 47,000km, over the course of two years, and have been publishing reports from time to time. During our time with the car, the only serious engine trouble was when the oil seal (corresponding to the oil scraper ring of a reciprocating engine) of the No. 2 rotor wore out at about 35,000km, which caused excessive oil consumption (250km/liter), and this seal had to be replaced. After that, the oil consumption recovered to about 1,000km/liter, and the car still had plenty of working life left, but the time for the vehicle inspection was approaching. While we were wondering what we should do, the Capella was released onto the market, so we decided to purchase the latest in Mazda's "rotaryization" once again.
+Car Graphic recognized the potential of the rotary engine from an early stage. When the Familia Rotary Coupe went on sale in July 1968, we purchased one immediately and, over the following two years, conducted a long-term test covering approximately 47,000km, publishing periodic reports in these pages.
+
+During that time, the only major engine-related trouble occurred at around 35,000km, when the oil seals on the No. 2 rotor (equivalent to the oil scraper rings in a reciprocating engine) wore excessively, resulting in abnormally high oil consumption—approximately 250km per liter. Replacing the two seals proved to be the only repair required. Oil consumption subsequently returned to roughly 1,000km per liter, and the car still had ample useful life remaining. Just as we were debating what to do with it before its compulsory inspection came due, however, the Capella was introduced, giving us the opportunity to evaluate Mazda's latest stage of "Rotaryization."
+
+Our C/G Capella is the Coupe GS, the highest-performance—and, at 845,000 yen, the most expensive—model in the range. Our preference had been for the dark green body color, but none of the first batch delivered to dealers was finished in that shade. (C/G's taste in colors, like the manufacturers' predictions of market demand, seldom seems to coincide with that of the general public.) Instead, the Capella delivered to the C/G office on the evening of July 22 wore a trendy orange.
+
+Without question, the feature of greatest interest in this car is its rotary engine, so we will begin with a brief outline. The two-rotor rotary engine, designated the 12A by Mazda, is slightly larger than the Familia's 10A unit, with a chamber displacement of 573cc. This increase was achieved simply by widening the rotor housing by 10mm. The radius of the trochoid therefore remains unchanged, allowing the same machining equipment used for the Familia (and the Cosmo) to be retained. For comparison, the main specifications of the Capella Rotary and the earlier models are shown below.
+
+<table style="border-collapse: collapse; width: 100%; border: 1px solid #333333; font-size: 0.85em;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #333333; padding: 6px; text-align: left;"></th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Displacement</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Compression</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Output</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Torque</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Weight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Cosmo</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">491 x 2</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">9.4</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">128/7000</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">14.2/5500</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">960kg</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Familia</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">491 x 2</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">9.4</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">100/7000</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">13.5/3500</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">825kg</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Capella</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">573 x 2</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">9.4</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">120/6500</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">16.0/3500</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">960kg</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Luce</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">665 x 2</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">9.1</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">126/6000</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">17.5/3500</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1185kg</td>
+    </tr>
+  </tbody>
+</table>
+
+Only three days separated the arrival of the car and our scheduled tests at Yatabe. During that time it was necessary to complete the initial running-in period (the handbook recommends just 1,000km—a welcome contrast to a reciprocating engine) and have the first service carried out. Members of the staff took turns driving the car day and night to complete the running-in, and by the time it reached Yatabe the odometer had only just passed 1,700km.
+
+There was naturally some concern about subjecting what was, for all practical purposes, a brand-new car to the rigors of maximum-speed testing—particularly as we intended to keep it in long-term service as our everyday transport. In the event, however, the Capella recorded outstanding performance figures, coming remarkably close to the manufacturer's published claims.
+
+Let us begin with the figures. C/G's maximum-speed test is a demanding one. The car is driven flat out continuously around the Yatabe course, with average speeds measured over both the 1km straight and the 5.5km high-speed circuit. (The maximum speeds published by manufacturers are generally either figures achieved only momentarily over a distance of a few meters, or values calculated on paper.)
+
+The Capella recorded a consistent average of 187.5km/h over the 1km section and 186.6km/h around the 5.5km circuit. This makes it the fastest Japanese production passenger car C/G has tested to date, while even among GT cars, only the earlier Fairlady 2000—which pursued outright performance at the expense of almost everything else—has proved faster. Consider the following figures, all obtained from Car Graphic's own tests.
+
+<table style="border-collapse: collapse; width: 100%; border: 1px solid #333333; font-size: 0.85em;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #333333; padding: 6px; text-align: left;"></th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">0-400m</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">0-100km/h</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">0-160km/h</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Max Speed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Capella Rotary</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">16.8</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">10.6</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">30.1</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">187.5</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Familia Rotary</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">17.2</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">10.9</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">33.4</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">184.0</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Skyline 2000GT</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">17.6</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">11.2</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">38.4</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">172.4</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Skyline 2000GT-R</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">16.4</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">9.2</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">-</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">179.6</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Fairlady 2000</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">15.8</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">8.7</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">23.4</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">190.0</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Fairlady Z432</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">16.6</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">10.0</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">29.6</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">175.6</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Corona Mark II GSS</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">16.6</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">10.0</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">29.6</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">184.7</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Galant AII GS</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">17.2</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">11.7</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">35.3</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">173.1</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Honda 1300 Coupe 9</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">17.5</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">11.3</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">35.5</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">171.4</td>
+    </tr>
+  </tbody>
+</table>
 
+Reviewing this table, the results recorded by the GT-R and Z432 are unusually poor and clearly fall short of their true capabilities. (In the GT-R's case, clutch slip during testing was partly to blame.) This perhaps illustrates just how difficult it is to keep a semi-racing engine—with twin overhead camshafts, three carburetors, and four valves per cylinder—in perfect adjustment.
 
+By contrast, the completely stock Capella and Familia Coupe (both Car Graphic long-term test cars) were driven straight to Yatabe without any special preparation and simply recorded speeds very close to their catalog claims—190km/h and 180km/h respectively. Surely this says something about the rotary engine's advantage over the reciprocating engine, with its inherently simpler construction.
 
-The C/G Capella is a Coupe GS, the highest-performance model (and also the most expensive, at 845,000 yen) in the series. Our preference for the paint color was deep green, but this was not among the first batch that arrived at the dealership (C/G's color preferences rarely match the manufacturer's demand forecast, which means that our tastes do not seem to be in line with those of the general public), and the Capella that was delivered to the C/G office on the evening of July 22nd was a trendy bright orange.
+Even by international standards, there are few practical cars in the 2-liter class capable of matching such performance. The Alfa Romeo 1750 GTV and BMW 2002 come fairly close, but it is only when one gets to the Porsche 911 that the Capella is clearly outpaced. (The 911 is essentially a two-seater, and needless to say, costs several times as much.)
 
+The tachometer's yellow zone extends from 6500-7000rpm, with the red zone beginning at 7000rpm and continuing to 8000rpm. Overall gearing is, if anything, slightly on the low side for the engine's output and the car's weight. For example, at Yatabe, the maximum speed of 187.5km/h (the speedometer, optimistic as ever, had run completely off the scale and was indicating something in the region of 215km/h) corresponded to approximately 6750rpm, right in the middle of the yellow zone.
 
+A few weeks after the Yatabe tests, when the odometer had reached 4,300km, we took the Capella to FISCO circuit. Once again the speedometer needle swept off the end of the scale on the right-hand circuit's main straight, and it became necessary to lift off the throttle halfway through the banking.
 
-Without a doubt, the most interesting thing about this car is its rotary engine, so let's start by outlining its design. The 12A type rotary engine is slightly larger than the 10A type used in the Familia Rotary and Cosmo, with a single chamber volume of 573cc (compared to the 10A's 491cc). This was achieved by increasing the width of the rotor housing by 10mm, so that the trochoid radius is the same, and so it can be manufactured using the same machine tooling as the Familia (or Cosmo). The Capella's 12A rotary generates an output of 120ps/6500rpm and a maximum torque of 16.0kgm/3500rpm, while the 10A generates 100ps/7000rpm and 13.5kgm/3500rpm in the Familia, or 128ps/7000rpm and 14.2kgm/5500rpm in the Cosmo.  
+We have remarked more than once on the rotary engine's delightfully free-revving character, yet even after stepping out of the finest reciprocating-engined cars—for example, a Porsche or Honda's 1300—the Capella still leaves a fresh impression. The fuel cut-off fitted to the Familia Rotary (which operates at 7000 ± 200rpm) has been omitted from the Capella, leaving the prevention of over-revving entirely to the driver's self-control. In practice, a rotary engine—with no valve gear to suffer damage and excellent intake and exhaust efficiency—will spin to nearly 8000rpm in second gear without the slightest sign of distress.
 
+The Capella Rotary enjoys two decisive advantages over a reciprocating engine.
 
+The first is its exceptional flexibility, something quite unusual for a power unit of this performance level. Throttle response is crisp throughout an extraordinarily wide speed range. Most impressive of all is its eagerness at high engine speeds. Power does not fall away even beyond 6000rpm, and even in fourth gear, pressing the accelerator still produces a clear response.
 
-There were only three days between delivery of the car and the scheduled test at Yatabe, during which time we had to complete the running-in period (according to the handbook, 1,000km is sufficient, which is much shorter than a reciprocating engine) and have the car undergo its first service. The staff took turns running the car in day and night, but by the time we brought the car to Yatabe, it had still only done about 1,700km. We were a little apprehensive about conducting a rigorous top speed test on this essentially new car (especially considering that we would be using it as our own car for a long time to come), but in the end we were able to record excellent power performance almost matching the catalog values.
+At the other end of the scale, its low-speed performance in everyday driving is just as impressive. Top gear can comfortably be taken as low as 1000rpm (approximately 28km/h), and even in city traffic with a 50km/h speed limit, one can use third and top gear almost half and half. Thanks chiefly to its generous power reserves and outstanding flexibility, the need to shift down is far less frequent than in a reciprocating engine of comparable performance. Even an inexperienced driver would find the Capella remarkably easy to drive.
 
+Nothing illustrates the engine's excellent characteristics more clearly than the in-gear acceleration figures. In third gear, for example, the time required to accelerate through each successive 40km/h increment—from 20km/h all the way to 120km/h—varies by less than a second, ranging from 6.8 to 7.7 seconds. The same consistency is evident in top gear: 40–80km/h takes 10.6 seconds, while 100–140km/h requires 11.7 seconds.
 
+Of all the cars Car Graphic has tested, only two have surpassed the Capella's third- and fourth-gear overtaking performance: the Corona Mark II GSS, which has a clear advantage due to its considerably greater output and torque (140ps, 17.0kgm, 7.50kg per horsepower), and the Fairlady Z432 (160ps, 18.0kgm, 6.50kg per horsepower). Both, moreover, are equipped with 5-speed gearboxes, so their third and fourth gears have slightly lower overall gearing than the same gears in the Capella. The improvement in torque over the Familia Rotary is likewise unmistakable.
 
-First, let's look at the numbers. The C/G top speed test is a tough one, with the car running continuously flat-out on the Yatabe course, measuring the average speed on the 1km straight section and the 5.5km circuit (the top speeds announced by manufacturers are either instantaneous figures achieved for only a few moments, or figures calculated on paper). The Capella recorded a consistent average speed of 187.5km/h over the 1km straight section, and 186.6km/h over the 5.5km circuit. It is the fastest domestic practical car that C/G has ever tested, and even if we include GT cars, the only domestic car faster than the Capella is the old Fairlady 2000, which sacrificed everything else for performance. 
+The rotary engine's second great virtue is its smoothness and quietness compared with a reciprocating engine. At 150km/h (approximately 5000rpm), engine vibration is almost completely absent. At that speed, the loudest sound comes not from the engine but from the wind passing over the body, and even then it remains possible to carry on a normal conversation with one's passenger.
 
+Earlier rotary engines, including that of the Familia, were accompanied by a characteristic deep-throated roar under hard acceleration. In the Capella, however, Mazda has adopted a three-port exhaust arrangement with progressively opening ports, successfully subduing the exhaust's original sound. As a result, exhaust noise is exceptionally quiet, both inside and outside the car.
 
+It is on expressways such as the Tomei and Meishin that the Capella truly comes into its own. If the law permitted, 160km/h would present no difficulty as a sustained cruising speed. Admittedly, there are many foreign cars capable of cruising even faster. Yet even where such speeds are possible, the human nervous system can seldom endure the intense noise or vibration—more often both—for any great length of time. The Capella is different. It can sustain such speeds without appreciable strain on either the car or its occupants.
 
-Looking back at our past tests, the top speed data we obtained for the Skyline 2000GT-R (179.6km/h) and Z432 (175.6km/h) were particularly poor results, far below the cars' true potential. In the GT-R's case, this was due to the test car experiencing clutch slip during testing, but it is also evidence of the extreme difficulty in keeping a twin-cam, triple-carburetor, four-valve semi-racing engine in a perfect state of tune. In contrast, the stock Capella and Familia Coupe (both C/G long-term test cars) were brought to Yatabe without any special attention, and achieved speeds close to the catalog values (190km/h and 180km/h, respectively). This demonstrates one aspect of the superiority of the rotary engine, with its simple structure, over reciprocating engines. Internationally, the only 2000cc class practical cars that were this fast in our tests were the Alfa Romeo 1750GTV and the BMW 2002, and only the Porsche 911 significantly surpassed the Capella (the 911 is essentially a two-seater and, needless to say, costs several times more).
+The 4-speed gearbox has well-chosen ratios. Third gear, in particular, pulls effortlessly to 140km/h, making it tremendously effective for high-speed overtaking. As noted earlier, the engine's exceptionally flexible power characteristics give each gear an unusually wide operating range, and for that reason a 5-speed gearbox is hardly necessary. For export markets, however, where opportunities for prolonged high-speed running are more common, a slightly taller final-drive ratio would probably be advantageous.
 
+Where the rotary engine does fall short of a good reciprocating engine is in its relatively modest torque at very low engine speeds. To compensate, first gear has been given a slightly lower overall ratio than that of the 1.6-liter reciprocating-engine Capella, making standing starts easier. The other shortcoming appears during trailing throttle—that is, when the engine is under braking. As the speed falls to around 1500-1800rpm, the engine's running becomes slightly uneven. Under power, however, it remains perfectly smooth.
 
+Right from new, the gearshift is light and positive, although throws are somewhat longer than in the Familia Rotary. On our test car, the synchronizers for second and third gear were also rather weak, producing gear clash even during unhurried shifts.
 
-The Capella's rev counter has a yellow zone from 6500 to 7000rpm and a red zone from 7000 to 8000rpm. The overall gear ratios are slightly over-geared for the power and weight of the car. In other words, the top speed of 187.5km/h at Yatabe (the car's speedometer was completely over-scaled and showed 215km/h at this speed) was equivalent to about 6750rpm, still within the yellow zone. A few weeks after the Yatabe test, when the odometer had reached 4,300km, we tried to match this speed on the FISCO circuit, but at the end of the straight on the right-hand course, we ran out of space and had to ease off the throttle halfway around the banking. 
+The brakes are remarkably powerful for the light pedal effort required and are equal to the Capella's high performance. In our repeated 0-100-0 fade test, pedal effort increased only from an initial 12kg to 15.5kg on the tenth stop, demonstrating excellent resistance to fade. During the Yatabe tests, the brake pads appeared to have not yet been fully bedded in, as they exhibited slight vibration under heavy braking from high speeds. However, this disappeared with continued use.
 
+One discovery made during our time at FISCO was just how quickly the Capella could shed speed. Before the hairpins, braking was so effective that there was little need to supplement it with third-gear engine braking—of which the rotary provides little anyway. Instead, it was entirely possible to remain in top gear under braking and shift directly into second.
 
+Heavy braking from lower speeds, however, requires some caution. Nose dive is pronounced, and the rear wheels have a tendency to lock prematurely. In hard stops from 50km/h, increasing pedal effort actually tended to lengthen the stopping distance. (Peak deceleration is an instantaneous maximum and does not necessarily correspond to the shortest stopping distance.) At a pedal effort of 25kg, all four wheels locked and slid, inevitably increasing stopping distance. A pressure-control valve (PCV) in the rear brake circuit would seem to be desirable.
 
-We've mentioned many times how the rotary engine revs up nicely, but even if we are coming from a car with a good reciprocating engine such as a Porsche or Honda 1300, the Capella still leaves us feeling refreshed and impressed every time. The Familia Rotary doesn't have a fuel cut-off (which acts at 7000rpm, plus or minus 200rpm, in the Capella), so the only way to prevent over-revving is through the driver's self-control. In fact, the rotary engine, which has no valve gearing to crash and good intake and exhaust efficiency, can rev up to nearly 8000rpm in second gear without any stress.
+Fuel economy must, of course, be considered in relation to the car's performance. Even under steady-speed conditions, however, the Capella consumes slightly more fuel than the Fairlady Z432. Over the course of our 4,300km test, commuting through the morning and evening rush hours returned 5.8-6.2km/l, while 100km/h expressway cruising yielded only 9.0-9.8km/l. The overall average worked out to 7.07km/l.
 
+These figures can hardly be called economical, but in exchange for such outstanding performance, they are perhaps a price one must be prepared to pay. The fuel tank is generously sized, holding 65 liters. One consolation is that, despite its 9.4:1 compression ratio, the engine is specified to run on regular-grade fuel. Even when gasoline eventually becomes fully unleaded, Mazda expects little reduction in output. Toyo Kogyo also reports that a thermal reactor using a comparatively inexpensive catalyst has already enabled one of its cars to satisfy US Federal emissions standards, suggesting that the Capella should have little difficulty meeting Japan's increasingly stringent exhaust-emissions regulations as well.
 
+During the 4,300km test, we added 3.5 liters of oil. Oil consumption worked out to 1,230km/l, which is normal for a rotary engine.
 
-The Capella Rotary has two absolute advantages over a reciprocating engine. First, it is exceptionally flexible for such a high-performance power unit, and the throttle responds sharply over a wide range of revolutions. Particularly noticeable is the increase in power at high speeds, with no loss of power even at over 6000rpm, and the decisive response even in fourth gear when the throttle is opened. On the other hand, performance in the low-speed range used in daily driving is also excellent. Top gear can be maintained down to 1000rpm (about 28km/h), and even in the city where the speed limit is 50km/h, third and top gears can be used half and half. Mainly due to the power margin and flexibility, there is no need to downshift compared to a reciprocating engine with similar performance. Because of this, even beginners will find it extremely easy to drive. 
+The Capella's suspension, with its live rear axle located by coil springs, four trailing links, and a Panhard rod, represents a considerable advance over the Familia Rotary's leaf-spring arrangement, both in handling and ride. Radial tires are standard equipment on the Capella GS, and our test car was fitted with 155SR-13 Bridgestone Radial 11 tires.
 
+The steering, requiring 3¾ turns from lock to lock, remains distinctly family-car-like in its lack of response, even on radial tires. Only after raising tire pressures from the recommended 1.7/1.7kg/cm² (for high-speed driving) to 2.3/2.5kg/cm² did it reach a level we would consider satisfactory.
 
+In the brief road impression published in our July issue, we wrote: "The cornering limit is quite high for a live-axle car, but breakaway comes suddenly and with little warning, while the slow steering makes corrections difficult." At that time the tires were inflated to the standard pressures. After further testing at Yatabe and FISCO with higher pressures, however, we have revised that opinion somewhat. The car remains decidedly biased toward understeer, yet its handling is in fact quite good.
 
-The overtaking data clearly shows the good power characteristics of the Capella. For example, in third gear, the times required to accelerate in 40km/h increments, whether from 20 to 60km/h or 80 to 120km/h, are all within one second of each other (between 6.8 and 7.7 seconds). The same goes for top gear: 40 to 80km/h takes 10.6 seconds; 100 to 140km/h, 11.7 seconds. The only two cars C/G has tested that were faster than the Capella in overtaking acceleration in third and fourth gear were the Corona Mark II GSS (140ps, 17.0kgm, 7.5kg/ps) and the Z432 (160ps, 18.0kgm, 7.5kg/ps), which have much more power and torque. Moreover, because both have 5-speed gearboxes, their third and fourth gears have slightly shorter ratios than the Capella's third and fourth gears. The overall increase in torque is also noticeable compared to the Familia Rotary.
+The proof lies in the fact that one member of our staff lapped FISCO's 6km course in 2m 50s. Even so, the combination of 155-section tires on 4J rims is unquestionably inadequate for a car of this performance. After only a few laps at high speed, the shoulders of the tires showed severe wear. The softly sprung suspension, tuned primarily for ride comfort, allows considerable body roll, and with so much power available, there is frequent wheelspin in tight corners. Consequently, rear-tire wear proved noticeably greater than at the front.
 
+The manufacturer is well aware of this shortcoming and tells us that 4½J rims will soon become standard equipment. In our view, however, 5½J or 6J rims fitted with 165HR-14 tires would be ideal, and we are considering making the conversion ourselves. Increasing wheel diameter by one inch would also raise the overall gearing, with corresponding benefits for fuel economy, and we think 14-inch wheels would look better in proportion to the body. Of course, tire wear should also be greatly reduced.
 
+High-speed directional stability is exceptionally good, and the Capella is considerably less affected by crosswinds than the Familia. Ride quality is excellent over every kind of road surface. Most notably, rear-seat comfort has been greatly improved over that of the Familia. Over isolated bumps such as manhole covers at speed, the sharp upward kicks—which were quite pronounced in the Familia—have been reduced dramatically. Road noise and vibration are also well suppressed, and even on rough surfaces the harsher characteristics of the radial tires are seldom noticeable.
 
-The second advantage is that the engine is absolutely smoother and quieter than a reciprocating engine. At 150km/h (about 5000rpm), there is almost no engine vibration. At this speed, the loudest noise is not the engine, but the sound of the wind rushing over the body, and even that is quiet enough to have a normal conversation with the person next to you. Rotary engines up to the Familia's 10A have had a unique, powerful roar, especially when accelerating rapidly, but the Capella's exhaust port has been modified to have three holes that are exposed gradually as the rotor spins, successfully suppressing the original exhaust noise, so the exhaust is extremely quiet inside and outside the car.
+Despite its compact external dimensions, the interior provides ample room for four adults to travel comfortably over long distances. The rear seat, in particular, is considerably more spacious than that of the Familia. Even with a tall driver at the wheel, a passenger behind still enjoys adequate knee- and headroom. The center rear cushion is comfortably soft, although its relatively high position limits headroom somewhat for taller occupants.
 
+The driver's seat offers generous fore-and-aft travel. Adjusted all the way back, even a driver 178cm tall will find it impossible to fully depress the clutch. The controls are well arranged, and the instruments are easy to read. The only exception is the headlamp switch, which is tucked behind the wiper and turn-signal stalks, making it awkward to reach. We promptly lengthened the lever by some 60mm, after which it became far easier to operate.
 
+The GS even comes standard with an 8-track stereo—although, surprisingly, the radio itself is not equipped with push-button tuning.
 
-On expressways like the Tomei and Meishin, the Capella really proves its true worth. If the law allows, 160km/h is a perfectly reasonable cruising speed. Of course, there are many cars abroad that have a faster cruising speed. However, even if it is mechanically possible, the human nerves cannot endure such speeds if they are accompanied by tremendous noise or vibration (usually both) for long periods of time. In the Capella, however, high-speed cruising is possible without any apparent stress on either the car or its occupants. 
+Ventilation is excellent. The absence of vent windows is no handicap whatsoever.
 
+Fresh air flows naturally through the cabin once the car is moving, while a three-speed blower provides ample forced ventilation when required. This makes the Capella one of the few cars in which it is genuinely possible to cruise at high speed on a hot day with the windows fully closed.
 
+Regrettably, interior materials and finish are a step backward from those of the Familia Rotary. The check-patterned cloth upholstery of the earlier car has given way to non-breathable vinyl, while inexpensive one-piece molded plastic appears throughout the cabin. Within the first week of use, the right-hand door window developed a tendency to come out of its guide. (If opened while travelling at high speed, wind pressure would bow the glass enough that it could no longer be closed.) The inside door handle also became loose. When we investigated, we found that it was secured to its shaft by only a single screw.
 
-The four-speed gearbox has a good gear ratio distribution. In particular, third gear, which can easily extend up to 140km/h, feels extremely powerful for overtaking at high speeds. As mentioned above, due to the flexible power characteristics, each gear has a wide usable range, so there is no need for a five-speed gearbox. However, for overseas markets where there are more opportunities to drive at high speeds, it would be advantageous to make the final gear ratio a bit lower.
-
-
-
-The disadvantage of the rotary engine compared to a good reciprocating engine is that it has weak torque at very low revolutions, so the first gear ratio has been made a little shorter than that of the reciprocating Capella 1600 to make standing starts easier. Another disadvantage is that when the engine speed drops to about 1500 to 1800rpm on a trailing throttle (foot off the gas, engine braking applied), the revolutions become a little uneven (although if you keep your foot gently on the throttle, it remains completely smooth).
-
-
-
-Shifting has felt light and precise from the time the car was new, which is appreciated, but the gear lever's throw is longer than that in the Familia Rotary, and our car's second and third gear synchros are weak, so the gears are noisy during changes, even when shifting less than quickly.
-
-
-
-The brakes work incredibly well with only light pedal pressure, which is suitable for the Capella's high speed potential. In the 0-100-0 fade test, the pedal pressure increased from 10kg on the first stop to 15.5kg on the tenth, so it can be said that the brakes have high fade resistance. During the Yatabe test, the brake pads vibrated slightly when braking suddenly from high speed, probably because the pads had not yet been broken in, but this phenomenon disappeared naturally as the brakes were used. We noticed while driving on the FISCO circuit that it is possible to scrub speed in a very short distance by stepping on the brakes while in top gear and shifting down to second gear directly, without using engine braking in third gear (the rotary engine is not very effective at engine braking anyway). However, caution is required when braking suddenly from a relatively low speed. This is because the amount of nose dive is large and the rear wheels lock early. As a result, there was a tendency for the braking distance to increase when the pedal force was increased. With a pedal force of 25kg, all four wheels locked and the vehicle slid, and the braking distance naturally increased. This indicates the need for a proportioning control valve in the rear wheel brake circuit, which the Capella does not have. 
-
-
-
-The Capella's fuel economy must be viewed in relation to its performance, but we were still a bit surprised when, measured at a constant speed, the Capella consumed slightly more fuel than the Z432. Over the 4,300km test distance, the data showed that the average fuel economy was 5.8 to 6.2km/l during morning and evening rush hour commutes, and 9.0 to 9.9km/l when cruising at 100km/h on the highway, for a total average of 7.1km/l. This is by no means a good result, but in exchange for such excellent power performance, it is something one must put up with. The fuel tank is large, holding 65 liters. The only consolation is that even with a compression ratio of 9.4, the rotary engine only requires regular gasoline, and even if gasoline becomes completely unleaded in the future, the output will not be affected much, which is an advantage. Toyo Kogyo also has test cars equipped with a thermal reactor as a relatively low-cost catalyst, which has already passed federal emissions standards and is said to be suitable for stricter exhaust gas regulations in Japan. Oil was topped up by 3.5 liters over 4,300km. The consumption of 1,230km/liter is standard for a rotary engine.
-
-
-
-The Capella's suspension, with coil springs, four links and a Panhard rod suspending the rigid rear axle, is a big improvement over the leaf-sprung Familia Rotary in both handling and ride comfort. Radial tires are standard in the Capella GS, and ours came with 155SR-13 Bridgestone 11s. The steering, with 3.4 turns from lock to lock, is sluggish even for a pure family car, even with radials, and it was only when the recommended tire pressure of 1.7kg/1.7kg was increased to 2.3kg/2.5kg that its response reached a satisfactory level. 
-
-
-
-In the July issue, when we published a brief road impression of the Capella, we noted, "the cornering limits are quite high for a car with a rigid axle, but the brakes lock suddenly and unpredictably, and the sluggish steering makes it difficult to make corrections when this happens." At the time, the tire pressures were left at the standard setting, but after driving the Capella at Yatabe and FISCO with higher tire pressures, our opinion was somewhat revised. There is still a lot of understeer, but the maneuverability is quite good. As proof of this, one of our staff members drove the 6km course at FISCO in 2 minutes, 50 seconds. However, the 155-width tires on 4J rims are simply inadequate for the performance of this car, and their edges were worn down severely after just a few laps at high speed. The soft suspension which prioritizes ride comfort allows large roll angles, and because there is a lot of power, there is a lot of wheelspin in tight corners. Therefore, the wear was worse on the rear wheels. 
-
-
-
-The manufacturer is aware of this issue, and 4.5J rims will soon become standard equipment. In our opinion, 165HR-14 radials on 5J rims would be ideal, so we are considering modifying the car ourselves. Increasing the size by one inch will increase the overall gear ratio, which is also desirable in terms of fuel efficiency, and we think 14-inch wheels are a better match for the car's body in terms of styling. Of course, tire wear should also be much less.
-
-
-
-Straight-line stability is very good, and crosswinds are much less of a problem than in the Familia. The ride is very comfortable on all road surfaces. Compared to the Familia, ride comfort in the rear seats has been significantly improved. When going over a single irregularity at high speed, such as a manhole cover, the sharp downward drops experienced in the Familia have become much gentler. Noise and vibration from the road surface are also well insulated, and the roughness of the radial tires is hardly noticeable even on uneven road surfaces. 
-
-
-
-Despite its compact exterior dimensions, the Capella's interior space is large enough for four adults to go on long-distance tours with ease. Compared to the Familia, the rear seats are particularly spacious, and even if the front seat is positioned for a tall driver, the passenger behind him has adequate knee and headroom. The cushion in the center of the rear seat is soft, but high, so headroom may be insufficient for tall people. The driver's seat has ample fore-and-aft adjustment, and when slid all the way back, even a driver who is 178cm tall cannot fully depress the clutch. The controls are well laid out and the instruments are easy to see. The only exception is the light switch, which is difficult to reach because it is behind the wiper/blinker stalk. The GS is equipped with an 8-track stereo as standard. In exchange, the radio is not a push-button type.
-
-
-
-The ventilation is extremely good, so the lack of a triangular window is not a handicap at all. Fresh air flows naturally once the car is moving, or you can force it in with a three-speed blower, making the Capella one of the few cars you can drive at high speeds with the windows closed on a hot day.
-
-
-
-Unfortunately, the interior materials and finishes are a step below those of the Familia Rotary. For example, the checkered woven seat fabric of the Familia has been replaced by non-breathable vinyl, and cheap, one-piece plastic moldings are everywhere. During the first week, the right door window started to come off its track easily (if you open the window at highway speeds, the wind pressure makes it impossible to close), and the inside door handle became loose, and upon investigation, we discovered that it was only attached to its mounting by a single screw. 
-
-
-
-Admittedly, there are areas of the Capella that need improvement, but owners who enjoy and appreciate the excellent dynamic performance will likely overlook some of the minor shortcomings. Overall, in terms of performance, livability, ease of use, and price, we would say that the Capella is one of the most significant cars of this year.
-
+Certainly, there remain several areas in which the Capella could be improved. Yet owners are likely to overlook a few minor shortcomings in return for its outstanding performance. Overall, taking its performance, accommodation, ease of use, and price into consideration, one is tempted to call the Capella this year's "Car of the Year."
 
 <b><u>Postscript: Story Photos</b></u>
 
