@@ -39,9 +39,9 @@ draft = false
 
 With that goal in mind, we assembled a special project team. In that sense, the Capella was a car developed through the combined efforts of the entire company.
 
-We devoted a great deal of thought to creating a well-balanced automobile. As a result, we may have ended up with a car that leaned somewhat toward the soft-riding side. I believe that had its own merits, but subsequent market research showed that roughly half of rotary-engine buyers wanted something with a harder, more sporting character.
+We devoted a great deal of thought to creating a well-balanced car. As a result, we may have ended up with a car that leaned somewhat toward the soft-riding side. I believe this had its own merits, but subsequent market research showed that roughly half of rotary-engine buyers wanted something with a harder, more sporting character.
 
-We felt the Capella range ought to include a model that would answer that demand. That led to the GS II, a car intended to serve both as the flagship of the series and as its more performance-oriented model.
+We felt the Capella range ought to include a model that would answer that demand. That led to the GS II, a car intended to serve both as the flagship of the series and also the more performance-oriented model.
 
 The primary objective was to increase engine output. At the same time, our surveys showed that between 60-70% of respondents felt that a hard-driving car ought to have a 5-speed transmission. Personally, I had long wanted to see a rotary engine paired with a 5-speed gearbox brought to market, so we decided to introduce one.
 
@@ -127,9 +127,9 @@ The reason we deliberately chose 4.111 instead is that, having gone to the troub
 
 <b>Narue:</b> I'd be interested to hear just how much benefit there really is. (laughs)
 
-<b>Watanabe:</b> With a 3.90 final drive, if you're driving around town in top gear and your speed drops to around 30km/h, acceleration from there is a little lacking.
+<b>Watanabe:</b> With a 3.90 final drive, if you're driving around town in top gear and your speed drops to around 30km/h, acceleration from that point is a little lacking.
 
-A 4.111 ratio improves that situation. But if you simply use a 4-speed transmission, it becomes difficult to have it both ways. With a 5-speed, you can.
+A 4.111 ratio improves that situation. But if the transmission has only four speeds, it becomes difficult to have it both ways. With a 5-speed, you can.
 
 <b>Okazaki:</b> Do you really think the sort of person who drives this kind of hard-edged car is going to be that "lazy"?
 
@@ -165,7 +165,7 @@ That said, we've recently been working on ways to make a rotary compatible with 
 
 <b>Magazine:</b> One distinctive aspect of the styling is that it’s a hardtop with a center pillar...
 
-<b>Watanabe:</b> In other words, it's what you might call a pillared hardtop. When we were developing it, the American MVSS regulations were beginning to focus on rollover protection. We felt that without a center pillar we could run into difficulties exporting to the United States. At the time, we simply weren’t confident that a true hardtop could meet the crash requirements then being discussed.
+<b>Watanabe:</b> Put another way, you might it call a pillared hardtop. When we were developing it, the American MVSS regulations were beginning to focus on rollover protection. We felt that without a center pillar we could run into difficulties exporting to the United States. At the time, we simply weren’t confident that a true hardtop could meet the crash requirements then being discussed.
 
 Later, thinking in America began to change, and technically it’s no longer necessary to have a pillar, but...
 
@@ -187,21 +187,21 @@ Since this was being launched as part of the company's 50th anniversary program,
 
 We were also hearing complaints that the taillamps were too small. We wanted to increase their size, but with the existing body shape there was no room to make them any larger. So we experimented with a variety of sketches in search of a slightly different image, and eventually concluded that a hexagonal shape was probably the most appropriate solution.
 
-<b>Hoshijima:</b> What I dislike about the GS II's styling is all the badges. There are RE emblems and GS II emblems stuck all over the car.
+<b>Hoshijima:</b> What I dislike about the GS II's styling is all the badges. There are "RE" and "GS II" emblems stuck all over the car.
 
 <b>Oda:</b> That's actually something we've reflected on ourselves. In the end, though, the GS II was conceived very much around creating a strongly sporting image.
 
 <b>Hirao:</b> It feels like a case of "full decoration." If someone wants all those extras, just make them available and let them add them if they want.
 
-<b>Oda:</b> I agree. Ideally, these are the kinds of things that should be available only for those customers who actually want them.
+<b>Oda:</b> I agree. Ideally, these are the kinds of things that should be available only for those customers who really want them.
 
-<b>Watanabe:</b> It's a difficult issue. In that respect, the Luce was a very clean, uncluttered car. But then it was criticized quite strongly for not having anything.
+<b>Watanabe:</b> It's a difficult issue. In that respect, the Luce was a very clean, uncluttered car. But at the time it was criticized quite strongly for not having enough.
 
-The designers put up considerable resistance to adding all these items to the GS II. Perhaps we've swung the pendulum a little too far in the other direction this time.
+The designers put up considerable resistance to adding all these things to the GS II. Perhaps we've swung the pendulum a little too far in the other direction this time.
 
 <b>Magazine:</b> Speaking of colors, you've chosen a rather unusual shade of purple.
 
-<b>Watanabe:</b> This purple is the GS II's symbolic color--its image color.
+<b>Watanabe:</b> This purple is the symbol of the GS II--its image color.
 
 It's said that this sort of color may become fashionable in the future, and part of our thinking was to get ahead of the trend a little by adopting it as the car's signature color.
 
