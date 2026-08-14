@@ -35,7 +35,7 @@ Our honest opinion, after testing the 1400GX, is that we find it hard to underst
 
 Let's begin by comparing the specs of the two cars. The 1400GX's engine is a SOHC 1428cc unit, compared to the 1200GX's OHV 1171cc. Their respective outputs are 95ps/6400rpm and 83ps/6400rpm, with 12.2kgm/4000rpm and 10.0kgm/4400rpm of torque. Vehicle weight is 820kg for the 1400GX and 705kg for the 1200GX, giving them respective power-to-weight ratios of 8.63kg/ps and 8.49kg/ps. 
 
-The first thing that stands out is the 1400GX's weight, which has increased by no less than 115kg. The second is that, despite the 12ps increase in output, its power-to-weight ratio is actually slightly worse. 
+The first thing that stands out is the 1400GX's weight, which has increased by no less than 115kg. The second is that, despite the 12ps increase in output, its power-to-weight ratio is actually slightly inferior. 
 
 The overall gear ratio is practically the same for both cars. Consequently, the road speed per 1000rpm in top gear is 26.4km/h for the 1200GX and 26.6km/h for the 1400GX. Along with the engine swap, the Bluebird's 4-speed gearbox has also been retained (which results in a large floor hump and a cramped left footwell). When the engine is revved up to 6800rpm, where the redline begins, the maximum speeds in each gear are the same as the 1200GX: 49km/h in first, 82km/h in second, and 128km/h in third. However, the larger absolute torque does give the 1400GX a slight advantage in acceleration, with a 0-400m time of 17.4 seconds (compared to 17.8 seconds for the 1200GX, as recorded in C/G issue 112).
 
