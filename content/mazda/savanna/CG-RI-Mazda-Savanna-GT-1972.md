@@ -53,9 +53,7 @@ We tested the GS II in C/G No. 125, where we noted that its handling was markedl
 
 Nor was this an isolated case. When we tested the 5-speed Capella Rotary GS II in C/G No. 133, it reached a maximum speed of only 181.82km/h, well short of the 187.5km/h recorded by C/G's own long-term Capella GS, a very early 4-speed model. From experiences such as these, we had begun to believe that, partly because recent Mazda rotary engines had been developed with greater emphasis on low- and medium-speed drivability than on high-speed performance, and partly because of emissions-control measures, the remarkable performance they once delivered could no longer be expected. 
 
-But that was not the case. Driving the Savanna GT, we were able—for the first time in quite a while—to experience the exhilarating acceleration characteristic of a rotary engine. The tachometer's yellow zone begins at 6500rpm and extends to 7000rpm, yet during fast hill climbs or overtaking it is easy to over-rev the engine inadvertently in second or third gear. Throughout the rev range it is both exceptionally powerful and quiet. (Note that, according to the owner's handbook, exceeding 7000rpm invalidates the warranty.)
-
-We carried out no performance measurements on this occasion, so the reader must accept our subjective impressions, but the increase in torque from 13.7kgm to 16.0kgm is unmistakable, particularly at higher engine speeds. According to the manufacturer's published figures, top speed has increased by 10km/h over the GS II to 190km/h, while the standing 400m time (with two occupants) is an astonishing 15.6 seconds. Clearly, this improvement reflects not only the more powerful engine but also the closer indirect ratios of the new 5-speed gearbox. A comparison of the GS II's 4-speed and the GT's 5-speed ratios is given below. Both retain the same 3.700 final-drive ratio and the same Z78-13 4PR tires.
+However, when driving the Savanna GT, we were able—for the first time in quite a while—to experience the exhilarating acceleration characteristic of a rotary engine. The tachometer's yellow zone begins at 6500rpm and extends to 7000rpm, yet during fast hill climbs or overtaking it is easy to over-rev the engine inadvertently in second or third gear. Throughout the rev range it is both exceptionally powerful and quiet. (Note that, according to the owner's handbook, exceeding 7000rpm invalidates the warranty.)
 
 We did not conduct any instrumented tests this time, so the reader must accept our subjective impressions, but the increase in torque from 13.7kgm to 16.0kgm is unmistakably felt at higher speeds. According to the manufacturer's published figures, the top speed has increased by 10km/h over the GS II, at 190km/h, while the 0-400m time (with two occupants) is an almost unbelievable 15.6 seconds. Clearly, this improvement reflects not only the increase in power but also the closer indirect ratios of the new 5-speed gearbox. A comparison of the GS II's 4-speed and the GT's 5-speed ratios is below. The final-drive ratio remains unchanged at 3.70, and both cars use the same Z78-13 4PR tires.
 
@@ -72,7 +70,7 @@ We did not conduct any instrumented tests this time, so the reader must accept o
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #333333; padding: 5px; font-weight: bold;">GS II</td>
+      <td style="border: 1px solid #333333; padding: 5px;">GS II</td>
       <td style="border: 1px solid #333333; padding: 5px; text-align: center;">3.737</td>
       <td style="border: 1px solid #333333; padding: 5px; text-align: center;">2.202</td>
       <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1.435</td>
@@ -80,7 +78,7 @@ We did not conduct any instrumented tests this time, so the reader must accept o
       <td style="border: 1px solid #333333; padding: 5px; text-align: center;">-</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #333333; padding: 5px; font-weight: bold;">GT</td>
+      <td style="border: 1px solid #333333; padding: 5px;">GT</td>
       <td style="border: 1px solid #333333; padding: 5px; text-align: center;">3.683</td>
       <td style="border: 1px solid #333333; padding: 5px; text-align: center;">2.263</td>
       <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1.397</td>
