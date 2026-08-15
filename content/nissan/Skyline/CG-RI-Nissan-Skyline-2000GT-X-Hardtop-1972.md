@@ -57,7 +57,7 @@ Ride comfort is excellent regardless of road surface or speed, thanks to the lon
 
 Finally, a word on fuel consumption. Over our 350km test, which included a round trip to Hakone on the Tomei Expressway as well as city driving, the GT-X returned 7.9km/l, the best result of any Skyline 2000GT tested by C/G. Part of this improvement is undoubtedly due to the overdrive gear, which was used about equally with fourth during expressway cruising, though the very lean carburetor setting likely had a greater effect. Even so, the 50-liter fuel tank shared with the 1500 and 1800 models is too small for a car intended as a long-distance tourer. Oil consumption during the test was nil.
 
-In conclusion, we are obliged to say that the 10ps increase over the standard 2000GT (120ps) is effectively offset by the taller overall gearing, with the result that acceleration actually feels slightly inferior. The GT-X is well suited to drivers who value quiet, refined high-speed cruising. Those seeking a sportier style of driving will find the standard 4-speed gearbox a better choice.
+In conclusion, we must say that the 10ps increase over the standard 2000GT (120ps) is effectively offset by the taller overall gearing, with the result that acceleration actually feels slightly inferior. The GT-X is well suited to drivers who value quiet, refined high-speed cruising. Those seeking a sportier style of driving will find the standard 4-speed gearbox a better choice.
 
 
 ---
