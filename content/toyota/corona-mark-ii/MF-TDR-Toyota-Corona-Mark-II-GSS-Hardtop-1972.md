@@ -145,21 +145,21 @@ In this respect, it is clear that Toyota intends the 2-liter Mark II to compete 
 
 Those were my first impressions before driving the car.
 
-As a result, I approached the Mark II not as an evolution of the previous model, but as an entirely new car belonging to a different category altogether. After completing the test, my impressions remained much the same.
+As a result, I approached the Mark II not as an evolution of the previous model, but as an entirely new car belonging to a different category. After completing the test, my impression remained much the same.
 
-The car has unquestionably moved upmarket. As a status symbol, it already belongs among the most prestigious automobiles available within the 5-number class.
+The car has unquestionably moved upmarket. As a status symbol, it already belongs among the most prestigious cars in the 5-number class.
 
-Indeed, one senses throughout the entire range an unmistakably mature character.
+Indeed, one senses an unmistakably mature character throughout the entire range.
 
 <b><u>A "Cool" Super Sports Model</b></u>
 
 The car I tested was the hottest model in the Mark II range: the Hardtop 2000GSS.
 
-By "hot," I am referring, of course, to its catalog specifications as a GSS ("Grand Super Sports") model. A five-passenger coupe equipped with a 2000cc DOHC engine, five-speed transmission, 145ps, and a claimed top speed of 195km/h is hardly commonplace. Even among European cars, only a handful of high-speed touring GTs offer comparable credentials. One suspects there are enthusiasts around the world who would salivate at the sight of those figures alone.
+By "hot," I am referring, of course, to its catalog designation as a GSS ("Grand Super Sports") model. A five-passenger coupe equipped with a 2000cc DOHC engine, 5-speed transmission, 145ps, and a claimed top speed of 195km/h is hardly commonplace. Even among European cars, only a handful of high-speed touring GTs offer comparable credentials. One suspects there are enthusiasts around the world who would salivate upon seeing the specifications alone.
 
-It has been some time since production of the Toyota 2000GT came to an end, and the 1900GSS never quite succeeded in filling the void it left behind. The new 2000GSS, however, seems to have been developed with that point very much in mind.
+It has been some time since production of the Toyota 2000GT ended, and the 1900GSS never quite succeeded in filling the void it left behind. The new 2000GSS seems to have been developed with that point very much in mind.
 
-The difference is that, because it is based on the mass-produced Mark II, it lacks the flamboyance of a true exotic GT. Instead, it openly embraces the role of a wolf in sheep's clothing. The subdued paint colors reinforce this impression, and while many sporting models advertise their intentions with elaborate decoration, Toyota has gone in the opposite direction, even eliminating the dummy air scoops previously applied to the bodysides.
+The difference is that, because it is based on the mass-produced Mark II, it lacks the extravagance of a true exotic GT. Instead, it openly embraces the role of a wolf in sheep's clothing. The subdued paint colors reinforce this impression, and while many sporting models advertise their intentions with elaborate decoration, Toyota has gone in the opposite direction, even eliminating the dummy air scoops previously applied to the bodysides.
 
 As a result, identifying a GSS in traffic has become more difficult than ever--a development that will likely appeal to mature enthusiasts. It may well be the "coolest" super sports model yet produced.
 

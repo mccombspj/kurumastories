@@ -38,71 +38,133 @@ draft = false
 
 
 
-Why they had to go to the trouble of extending the wheelbase to fit that big, sleepy L20 six-cylinder unit in there is beyond our understanding. This is our honest first impression after testing the Bluebird U 2000GT-X. As explained in detail in this month's new model introduction, this new Bluebird U GT is based on the body of the Bluebird U that was introduced in August 1971, with an extended nose just like the Skyline GT, and a six-cylinder engine crammed into an engine bay originally intended for a four-cylinder engine. 
+Why anyone would go to the trouble of stretching the wheelbase simply to install the large, sleepy L20 six-cylinder engine is beyond our understanding. After covering 530km in the newly introduced Bluebird U 2000GT, just announced on 29 August, this was our honest first impression.
 
+As explained in detail in this month's New Models section, the new Bluebird U GT is based on the Bluebird U introduced in August 1971. Like the Skyline GT, its nose has been extended and an inline six squeezed into an engine bay originally designed for a four-cylinder engine.
 
+Having previously tested several 1.6- and 1.8-liter four-cylinder Bluebird Us, we never felt that the car needed a six-cylinder engine. If there was any justification for it, it lay in marketing rather than engineering. If Nissan simply looked at the popularity of the so-called "Ska-G" and decided to produce a similar Bluebird, then it can only be described as product planning that was facile, lacking in conviction, and utterly stale.
 
-Based on our experience of testing several 1.6-liter and 1.8-liter Bluebird Us, it didn't seem necessary to equip the car with a six-cylinder engine.  If there was a reason for this, it would be Nissan's usual commercial policy of installing engines from high-end models that have already proven their worth into top-of-the-line compact cars (the Skyline and Laurel are good examples of this). But if their goal was to bank on the popularity of the so-called "Sky G" and create a Bluebird based on the same formula, it would have been a very easy, predictable, and extremely stale product plan. However, what was somewhat reassuring when we actually drove it was that it has a more balanced chassis than any L20-equipped car we have ever experienced. On the other hand, the power performance was once again disappointing.
+What reassured us somewhat once we actually drove the car was that it had the best-balanced chassis of any L20-powered model we have experienced. On the other hand, its performance once again proved disappointing.
 
+Our test car was the Hardtop 2000GT-X, the most expensive of the four Bluebird U GT models, priced at 1,028,500 yen in Tokyo. It was fitted with the optional 175/70HR-14 radial tires (Bridgestone RD102 Wide 70 on this particular car). 6.45S-14-4PR cross-ply tires are standard, and both are mounted on 4.5-inch rims.
 
+The first thing one notices from the driver's seat is the restricted visibility. The Bluebird U has always placed the driver in a low seating position, with the cowl, steering wheel, and beltline all relatively high, forcing a rather unnatural driving posture—like reclining in a Western-style bathtub with one's neck stretched upward. On this six-cylinder version, the raised hood only makes matters worse.
 
-<!--more-->The model we tested was the hardtop 2000GT-X, which is the most expensive of the four Bluebird U GT models, with a Tokyo price of 1,028,500 yen. The wheels were fitted with optional 175HR-14 radial tires (Bridgestone RD102 Wide 70s, in this case), the standard tires are 6.45S-14-4PR bias-ply, and the rim width is 4.5 inches for both.
+Because the nose extends more than 20cm farther ahead of the cowl than on the four-cylinder model, and because its central bulge is more pronounced than necessary, a relaxed driving position leaves one unable to see not only the road immediately ahead, but even the small marker projection at the tip of the left front fender. The windshield is also vertically shallow, rearward visibility is less than adequate, and with the interior finished almost entirely in black, it feels psychologically very confined.
 
+The L20 six-cylinder engine—shared with the Cedric/Gloria GX, Fairlady Z, Skyline GT-X, and Laurel SGX—has a bore and stroke of 78 × 69.7mm and a displacement of 1998cc. With twin SU carburetors and a compression ratio of 8.6, it develops 125ps/6000rpm (A 130ps premium-fuel version is available in other models, but not in the Bluebird U.) In the mild early-September weather, the engine naturally came to life with a single twist of the key, settling immediately into a smooth idle at 750-850rpm.
 
+Pressing the light but extremely long-travel clutch, then engaging first gear with a shift lever whose throws are likewise excessively long—particularly fore and aft—and moving away, one is reminded immediately of the Skyline, and of the Laurel as well.
 
-The first thing you notice when you sit in the driver's seat is the narrowness of the field of view. The Bluebird U series has a low seating position, and the scuttle, steering wheel, and beltline are relatively high, forcing you into an unnatural driving position, like lying down in a Western-style bathtub and craning your neck to see out. In addition, the six-cylinder version also has a raised engine hood that obstructs the field of view. The scuttle is about 20cm further forward than in the four-cylinder model. The top of the instrument panel is long, and it curves toward the driver more than necessary in the middle, so from a relaxed driving position you can't see the road directly in front of you, let alone the small marker protrusion on the tip of the left front fender. The rear window is also narrow vertically, so rear visibility is poor, and on top of that, the interior is mostly black, making it feel extremely cramped psychologically.
+One thing we have noticed every time we drive a car powered by this L-series engine is that it continues to become more refined, little by little. That was true of every recent L14, L16, and L18 four-cylinder we have driven, and the same holds for this six-cylinder. Below 3000rpm it is more than adequately quiet, smooth, and flexible. Using only up to about 3000rpm in each gear is enough to stay ahead of city traffic, and once in fourth the car can simply be left there. Indeed, above 40km/h even fifth gear (1300rpm) can be used frequently.
 
+Since the engine develops more than 14kgm—some 80% of its maximum torque—from 1000rpm all the way to 5800rpm, there is no particular range where it really comes on strong. Instead, it delivers much the same power everywhere. As a result, even on the expressway there is rarely any need to leave fifth gear.
 
+These admirable qualities, however, are limited to the low- and medium-speed ranges. Beyond 4500rpm the engine becomes every bit as rough and noisy as before, to a degree that is quite unacceptable for a six-cylinder. Particularly objectionable is the metallic, resonant vibration that reaches the occupants' ears, suggesting a lack of rigidity throughout the entire powertrain, from the engine itself to the gearbox.
 
-The L20 six-cylinder, 78x69.7mm, 1998cc engine, which is shared with the GX models of the Cedric and Gloria, the Fairlady Z, Skyline GT-X, and Laurel SGX, is equipped with twin SU carburetors and produces 125ps at 6000rpm from a compression ratio of 8.6 (the premium gasoline version produces 130ps, but this is not available in the Bluebird U). As you would expect in the mild, early September weather of our test, it always started on the first twist of the key, and it idles quietly at 750-850rpm. When you step on the light but extremely long-travel clutch, and push the shift lever, which has a too-long stroke (especially from front to back), into first gear and start driving, the immediate impression is that it feels just like a Skyline or Laurel. 
+The tachometer's yellow zone begins at 6000rpm, with the red zone at 6300rpm, but these markings are entirely unrealistic. In practical use, it is best to keep the engine below about 5000rpm. Physically, the engine will rev to 6500rpm, but doing so requires overcoming considerable psychological resistance, and there is no increase in top-end performance to make it worthwhile. It is far wiser simply to shift up before the engine becomes objectionably noisy.
 
+The proof lies in the measured performance. Even when revved to the limit, every figure proved disappointing for a sporting 2-liter car. Our test results, obtained with an accurate fifth-wheel speedometer and stopwatch, were as follows:
 
+<table style="border-collapse: collapse; width: 100%; max-width: 400px; border: 1px solid #333333; font-size: 0.85em;">
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: left;">Top speed (over 1km straight)</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">161.87km/h</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: left;">0-400m</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">18.34s</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: left;">0-1000m</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">34.60s</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: left;">0-100km/h</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">14.03s</td>
+    </tr>
+  </tbody>
+</table>
 
-This is something we always feel when we drive cars with this engine, but the L-series is definitely becoming more refined, little by little. All the four-cylinder L14/16/18 engines we've driven recently have demonstrated this, and the six-cylinder engine is no different. At low speeds below 3000rpm, it's quiet, smooth, and sufficiently tenacious. If you can keep it going up to 3000rpm in each gear, you can easily lead the flow of city traffic, and once you've shifted into fourth gear, you can keep going from there. In fact, at speeds above 40km/h, you can often use fifth gear (1300rpm). Since this engine produces more than 14kgm, or 80% of its maximum torque, over a wide range from 1000rpm to 5800rpm, it doesn't have a specific range where it is particularly punchy, but rather, it gives the same power everywhere. So, even on the highway, you can keep it in fifth gear unless you have a particular reason not to. However, this desirable quality is limited to the low and medium engine speed range, and once it exceeds 4500rpm, it becomes as rough and noisy as before, which is unbecoming of a six-cylinder engine. The metallic and harsh chattering sound that reaches the ears of those inside the car seems to indicate a problem with the rigidity of the entire powertrain, from the engine to the gearbox. 
+If the engine was not in perfect tune during our test, then perhaps somewhat better figures might have been achieved with more careful adjustment. Even so, the improvement hardly would have mattered. For comparison, the results recorded by C/G last year for the Bluebird U 1600 SSS-E were a top speed of 172.41km/h, 17.5 seconds for 0-400m, 33.0 seconds for 0-1000m, and 12.35 seconds from 0-100km/h—all significantly better than those of this new 2-liter model.
 
+When revved up to 6300rpm, the measured maximum speeds in each gear were 49km/h in first, 78km/h in second, 123km/h in third, and 159km/h in fourth. In fifth, the engine ran out of breath at 5600rpm. At that point, the ridiculously optimistic speedometer was indicating 186km/h, so in that sense at least the car exceeded its catalog maximum speed of 180km/h.
 
+For reference, an indicated 100km/h on the speedometer (91km/h actual) corresponds to 3500rpm in fourth and 3100rpm in fifth, while an indicated 120km/h (107km/h actual) corresponds to 4200rpm in fourth and 3700rpm in fifth. In practical terms, about 120km/h in fifth gear is the upper limit of comfortable cruising. At that speed, the only sound reaching the occupants is the distant murmur of the exhaust. Mechanical engine noise, gearbox whine, and tire noise are almost completely shut out, while wind noise around the body is nearly nonexistent.
 
-The scale on the rev counter shows the yellow zone from 6000rpm, and the red zone from 6300rpm, but this is completely unrealistic, and in practice it should be kept around 5000rpm at most. Although the engine itself can physically run to 6500rpm, it requires overcoming a lot of psychological discomfort to do so, and there is no actual top-end power to show for it. It is much smarter to shift up and accelerate in the next higher gear before it becomes noisy. As proof of this, the measured power performance data obtained by running the engine at full throttle up to the redline are all at a disappointing level for a 2-liter class sports car. The test results, measured using an accurate fifth-wheel speedometer, are a maximum speed of 161.9km/h, a 0-100km/h time of 14.0 seconds, and 0-400m and 0-1000m times of 18.3 and 34.6 seconds, respectively.
+Turning next to the handling, our experience with previous C/G tests has been that fitting the L20 engine, which weighs over 50kg more than the four-cylinder unit, largely determines the car's basic handling character. The result has invariably been lifeless steering and excessive understeer. Both seem to be the consequence of hanging a large weight over the nose.
 
+The Bluebird U GT is no exception in this regard. Pleasingly, however, it has progressed to the point where it displays the most confidence-inspiring behavior of any similar Nissan model. The main reason would appear to be that it has the widest front track of the Bluebird U series, the Skyline GT, and the Laurel. A comparison of the wheelbase, front and rear track, overall length, width, and height of the three models is below:
 
+<table style="border-collapse: collapse; width: 100%; border: 1px solid #333333; font-size: 0.85em;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #333333; padding: 6px; text-align: left;"><i>(All hardtops)</i></th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Wheelbase</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Tread, F/R</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Length</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Width</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Height</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Bluebird U (4-cyl)</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">2500mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1310/1320mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">4215mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1600mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1395mm</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Bluebird U (6-cyl)</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">2650mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1365/1320mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">4420mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1615mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1380mm</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Skyline GT-X</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">2610mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1350/1330mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">4460mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1625mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1385mm</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Laurel 2000SGX</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">2670mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1350/1330mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">4500mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1680mm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1405mm</td>
+    </tr>
+  </tbody>
+</table>
 
-The engine was not in perfect condition at the time of testing, and it likely would have performed better with some adjustments, but in any case, it wouldn't change the overall conclusion. For reference, the test results of the Bluebird U 1600 SSS-E tested by C/G last year showed a top speed of 172.4km/h, a 0-100km/h time of 12.4 seconds, and 0-400m and 0-1000m times of 17.5 and 33.0 seconds, respectively, all of which are much faster than the new 2-liter version. When pulled up to 6300rpm, the actual measured speeds in each gear were 49km/h in first gear, 78km/h in second, 123km/h in third, and 159kmh in fourth. In fifth gear, the top speed was reached at 5600rpm, and at this time, the ridiculously optimistic on-board speedometer was pointing to 186km/h, so in that sense, it exceeded the catalog top speed (180km/h). 
+As these figures show, the six-cylinder Bluebird U has a front track 55mm wider than that of the four-cylinder model, and still 15mm wider than those of the Skyline and Laurel. At the same time, its body is somewhat smaller than the Skyline GT's, while its wheelbase is 40mm longer. The result is presumably a chassis with somewhat greater inherent stability. This becomes readily apparent on winding roads with a succession of medium-speed corners.
 
+The recirculating-ball steering, with its variable ratio of 19:1 to 22.5:1, requires more than four turns from lock to lock. At low speeds it is simply light and feels rather insubstantial, but as speed increases it inspires steadily greater confidence. Although it still has some 100mm of free play at the rim in the straight-ahead position, once that free play is taken up, the front wheels respond faithfully to further movement of the steering wheel, producing a natural and predictable response from the car. The steering wheel itself sits somewhat high in relation to the driving position, but is appropriately small in diameter and comfortable to grip. Even through a succession of bends the driver's hands never become particularly busy, while steering effort remains light regardless of speed.
 
+The car maintains fairly strong understeer through corners. Ultimately, the rear wheels will break away first, but only if deliberately provoked; during our test we experienced it only once, under full power in second gear through a very tight bend. In ordinary medium-speed corners, even at full throttle in third gear, simply turning the steering a little further than it was turned initially is enough to pass through with surprising ease. Body roll is naturally quite pronounced, but unlike the Skyline and Laurel, the nose does not continue to push wider no matter how much the steering wheel is turned. It can therefore be considered a fundamentally safe-handling car. As mentioned earlier, however, the poor visibility spoils what is otherwise an excellent chassis. In particular, the inability to judge the road surface immediately ahead makes the car more difficult to drive.
 
-Incidentally, 100km/h on the speedometer (actual speed, 91km/h) corresponds to 3500rpm in fourth gear and 3100rpm in fifth, and 120km/h (actual speed, 107km/h) corresponds to 3700rpm and 4200rpm, respectively. In practice, 120km/h in fifth gear is probably the limit for comfortable cruising. At this speed, all you can hear from inside the car is a distant, faint exhaust sound. The mechanical noise of the engine, the roar of the gears, and the whir of the tires are almost completely shut out, and the wind noise from the body is also so small that it is almost nonexistent.
+The car's good handling is helped considerably by its tires. The optional Bridgestone RD201 Wide 70 radials (175/70HR-14) fitted to our test car supported it well despite the 4.5-inch rims being rather undersized for a car of this weight, maintaining their grip even during fairly hard cornering without rolling over. Absolute grip was not especially high by radial-tire standards, and there was still some uncertainty on wet roads, but they provided a compliant ride overall (our test was conducted with the recommended high-speed tire pressures of 2.0kg/cm² front and rear), and their subdued squeal seemed well matched to the character of the chassis. It would be most interesting to see how the Bluebird U GT behaves on its standard 6.45S-14-4PR cross-ply tires.
 
+Among the Bluebird U GT models, only the flagship GT-X equipped with the 5-speed gearbox (like our test car) receives the so-called "hard" suspension. Spring rates are 2.17kg/mm at the front, 10.6kg/mm at the right rear, and 10.7kg/mm at the left rear, representing increases of 17% at the front and an average of 15% at the rear over the standard model. The rear dampers have also been stiffened, with compression damping (at 0.3m/sec) increased to 59kg and rebound damping to 90kg, increases of 36% and 40% respectively. (The front dampers are the same for all models.) The front stabilizer bar is likewise larger in diameter, measuring 21mm compared with 19mm on the standard model.
 
+Despite being called "hard," however, the ride is in fact extremely soft. Only when crossing abrupt changes in the pavement does the car exhibit pronounced vertical movement. At higher speeds, it even seemed somewhat underdamped.
 
-Next, regarding maneuverability, in C/G's previous experience of cars with the L20 type engine, the basic handling characteristics of the car were mostly determined by the L20 itself, which is more than 50kg heavier than the four-cylinder L-series types, and usually manifested as extremely imprecise steering and excessive understeer. This is all probably the result of hanging a large weight on the nose, and of course, the Bluebird U GT is no exception, but what is pleasing is that it has reached a level where it exhibits the most sure-footed behavior among its kind of Nissan cars. One possible reason for this is that it has the widest front tread among the Bluebird U, Skyline, and Laurel series. If we compare the wheelbase, front and rear tread, overall length, overall height, etc. of each, the front track of the six-cylinder Bluebird is 55mm wider than the four-cylinder version, and 15mm wider than the Skyline/Laurel. The body is slightly smaller than the Skyline GT, and the wheelbase is 40mm longer, which probably makes for a chassis that sits in a somewhat more stable position, as is evident when driving on a winding road with a series of medium-speed corners. 
+Apart from the unpleasantly springy feel of the brake pedal, the brakes themselves are excellent. The servo is powerful, and braking action is always satisfyingly smooth and progressive. Changes in attitude are very slight, and even under panic braking the rear wheels show almost no tendency to lock. We were unable to make a detailed assessment of fade resistance, but the brakes' performance remained consistent after repeated applications on a fairly long downhill descent, so they should prove entirely adequate in normal use. The flashing parking-brake warning lamp, reminiscent of those found on some European cars, is something of a distraction.
 
+The interior equipment is much the same as that of other high-priced domestic cars. In addition to a full complement of instruments, including a tachometer and oil-pressure gauge, the front of the center console houses an AM/FM radio and cassette player. Under the right-hand side of the dashboard are controls for the remote adjustment of both fender mirrors. A heated rear window is, of course, standard equipment, all side windows are electrically operated, and with the lights switched on, each of the control knobs glows with a soft green illumination. The overhead console is no longer particularly novel, but we were impressed to find that even the "GT-X" emblem above the glovebox side was illuminated.
 
+That a practical engine of only about 2 liters has no need for six cylinders is demonstrated by the many excellent four-cylinder engines available today (for example, those from BMW). There is little point in making that argument here, however. The Bluebird U 2000GT exists for those who, for reasons which are not easy to explain, simply desire the L20 engine. Viewed in that light, the Bluebird U 2000GT represents a better buy than either the Skyline GT or the six-cylinder Laurel, mainly because of its superior overall balance.
 
-The recirculating-ball steering, which has a ratio of 19.0-22.5:1, has more than four turns from lock to lock, and at low speeds it seems light and imprecise, but as the speed increases it becomes more assured. It still leaves around 10cm of play at the wheel rim when going straight, but once the play ends, the more you turn the steering wheel, the more responsive it becomes, eliciting straightforward reactions from the car. The steering wheel, which is a little too high for the ideal seating position, is just the right size and is comfortable to hold, so it doesn't feel too busy even when you're racing through a series of corners. Regardless of the speed, the steering never requires too much effort.
+Of course, it is not agile enough to invite enthusiastic driving. Rather, its strength is in making effortless progress by taking advantage of its quiet low-speed manners and generous torque. For that reason, C/G's own recommendation would be the version equipped with the optional 3-speed automatic transmission (an extra 35,000 yen, and fitted with the standard suspension rather than the GT-X's "hard" specification). The optional wide radial tires are, of course, also recommended.
 
-
-
-Cornering is characterized by fairly strong understeer. Eventually, the rear wheels break away gently, but only if you deliberately provoke them, and during the test we were only able to experience this in a tight bend at full throttle in second gear. Even using full throttle in third gear in a normal medium-speed corner, you can easily get through it by just feeding in a little more steering angle. The nose is quite heavy, but unlike the Skyline and Laurel, it doesn't reach the point where the nose pushes wide no matter how much you turn the steering wheel, so it can be said that the car's handling is basically safe. However, the poor visibility mentioned earlier had the effect of spoiling the benefits of the chassis, and it was difficult to get a sense of the road surface directly ahead, making it difficult to drive.
-
-
-
-The good handling is also helped by the tires. The Bridgestone RD102 Wide 70 175/70HR-14 tires that were installed on the test car as optional equipment supported the car well, despite the rim size of 4.5 inches, which is really too small for the weight, and they gripped the road surface without buckling even during very hard cornering. The absolute grip value is not that high for a radial tire, and wet road surfaces were a concern, but the ride was generally soft (the specified high-speed air pressure of 2.0/2.0kg/cm² was used during the test), the noise level was low, and they seemed to be well suited to this chassis. It would be very interesting to see how the Bluebird U GT behaves with the standard 6.45S-14-4PR bias-ply tires.
-
-
-
-Even within the Bluebird U GT range, only the highest-performance GT-X with 5-speed gearbox (like the test car) has the so-called "hard" suspension, with spring rates of 2.2kg/mm for the front wheels and 10.7kg/mm for the rear wheels, which are 17% stronger than the standard type at the front and 15% stronger at the rear. The rear dampers are also 59kg on the compression side and 90kg on the rebound side, which is 36% and 40% tighter, respectively, than other Bluebird U GTs (the front dampers are the same for all models). The diameter of the stabilizer is also 21mm for the GT-X, compared to the standard 19mm. However, even with this "hard" suspension, the ride is actually very soft, and you only feel sharp up and down movements when passing over pronounced bumps in the pavement, and at high speeds, the strength of the dampers actually seems insufficient.
-
-
-
-Apart from the unpleasantly elastic pedal feel, the brakes are effective, the servo is powerful, and they work smoothly. There is very little nose dive, and the rear wheels hardly lock up even during panic stops. We weren't able to conduct our usual fade resistance test, but the brakes worked consistently even on a fairly long downhill stretch, so it should be sufficient for practical purposes. The handbrake warning light, which flashes on and off like in some European cars, is a bit of an eyesore.
-
-
-
-The interior equipment is pretty much what you would expect from a high-end Japanese car. In addition to the standard gauges including a rev counter and oil pressure gauge, the front end of the center console has an AM/FM radio and cassette tape player, and there are even knobs to remotely control the left and right fender mirrors at the bottom right of the dash. A heated rear window is of course standard equipment. All the side windows are electric, and when the lights are turned on, the switch knobs also glow a soft green. There is an overhead console, which is not uncommon these days, but we were impressed that even the GT-X emblem on the glove box lid was illuminated at night.
-
-
-
-There are many excellent four-cylinder engines (e.g., BMW's) which show that six cylinders are not necessary for a practical engine of only about 2 liters, but there is no point in saying that here. For people who want the L20 engine for some reason, the Bluebird U 2000GT is a better buy than the Skyline GT or the six-cylinder Laurel, mainly in terms of its overall balance. Of course, it is not light enough for truly sporty driving, but its strengths are its quietness at low speeds and its ample torque, so the best choice in C/G's view is the 3-speed automatic transmission model (35,000 yen extra, with the standard suspension specification), and of course it is preferable to add the optional wide radials. The overall average fuel economy during this test was 8.4km/l (on regular gasoline), and 10.8km/l when driving on the Tomei Expressway, mostly in fifth gear, occasionally dropping to fourth gear, at around 100km/h. 
+Average fuel consumption over the course of our test was 8.44km/l on regular gasoline. On the Tomei Expressway, cruising at around 100km/h almost entirely in fifth gear, with only occasional downshifts to fourth, consumption improved to 10.79km/l.
 
 
 <b><u>Postscript: Story Photos</b></u>
