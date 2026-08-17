@@ -125,28 +125,70 @@ draft = false
 
 
 
-In the April issue, we reported on the Corona Mark II 2000GSS with simple measurements taken at the Murayama test course and handling impressions from the winding roads of Okutama. This time, we took the Corona Mark II GSS to the Yatabe test course to measure its top speed and standing-start acceleration. We also brought three other cars to Yatabe at the same time: a BMW 2002tii, a Corolla Levin 1600, and  Capella GS-II. As a result, we had four cars with catalog top speeds of around 190km/h gathered together. The GSS had the highest power output of the four, but at the same time, it was handicapped by the largest exterior dimensions and the heaviest weight. 
+In the April issue we published a report on the Corona Mark II 2000 GSS covering brief performance measurements at the Murayama Test Course along with handling tests on the winding roads of Okutama. This time we brought the car to the Yatabe Test Course to measure its maximum speed and its standing-start acceleration over both time and distance. We also brought three other cars to Yatabe: the BMW 2002tii, Toyota Corolla Levin 1600, and Mazda Capella GS-II. As a result, four cars in the "190km/h catalog top speed" class ended up gathered there together.
 
-When comparing the main specifications of the new Mark II 2000GSS with the previous Mark II 1900GSS, the new model has an engine displacement of 1968cc, a power output of 145ps/6400rpm and 18.0kgm/5200rpm, a curb weight of 1105kg, and a power-to-weight ratio of 7.62kg/ps. The figures for the previous GSS are 1858cc, 140ps/6400rpm, 17.0kgm/5200rpm, 1050kg, and 7.50kg/ps, respectively. As you can see, the new car's power-to-weight ratio is slightly inferior to the old car. 
+Of the four, the Mark II GSS boasts the highest engine output, but at the same time it carries the handicap of pulling along the largest body and the greatest weight.
 
-On the other hand, the ratios of the 5-speed fully synchronized gearbox are not that different between the old and new models. The new GSS's gear ratios are 3.055 / 1.879 / 1.296 / 1.000 / 0.858, while those of the old GSS are 3.074 / 1.838 / 1.256 / 1.000 / 0.856. The final drive ratio of their differentials, which are both limited-slip, is also the same at 4.375, and the tire size is the same, at 165R-14 (the test car had Bridgestone Radial 20s), so the gearing of both cars can be said to be nearly identical.  
+Comparing the main specifications of the GSS—the hottest version of the Mark II, powered by a DOHC four-cylinder engine—with those of the previous Mark II GSS, we find the following:
 
-The test car was the same car reported on in the April issue and the hottest model in the series: the premium-gasoline version with a high compression ratio of 9.4. The catalog boasts a top speed of 195km/h (the regular-gasoline model has a compression ratio of 8.5, so it has 140ps/6400rpm, 17.2kgm/5200rpm, and a catalog top speed of 190km/h).
+<table style="border-collapse: collapse; width: 100%; border: 1px solid #333333; font-size: 0.85em;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #333333; padding: 6px; text-align: left;"></th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Displacement</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Output</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Torque</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Weight</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">Ps/kg</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px; font-weight: bold;">New</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1968cc</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">145ps/6400rpm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">18.0kgm/5200rpm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1105kg</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">7.62ks/ps</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px; font-weight: bold;">Old</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1858cc</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">140ps/6400rpm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">17.0kgm/5200rpm</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1050kg</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">7.50kg/ps</td>
+    </tr>
+  </tbody>
+</table>
 
-Unfortunately, running the Mark II 2000GSS at Yatabe resulted in performance far below the catalog figures. Looking first at top speed, when the engine is pulled up to 7000rpm, where the red zone begins, the speedometer indicates 60km/h in first gear, 100km/h in second gear, and 150km/h in third gear, but in direct fourth gear, even at full throttle, the rev counter only reaches 6500rpm. It is actually faster when shifted up to fifth gear. In fifth, the revs reach 6000rpm for a moment, and the speedometer needle touches 192km/h. (The calculated speed at 6000rpm in fifth gear is 177km/h, so the speedometer over-reads by about 10%). In the end, the actual top speed measured by stopwatch was 175.8km/h on the 1km straight section, and 172km/h over the 5.5km course.  
+As the figures show, the new model is slightly inferior to its predecessor in terms of power-to-weight ratio.
 
-This is slower than the top speed of the previous 1900GSS, which reached 184.7km/h over the 5.5km course in our road test (C/G, January 1970). The new twin-cam engine lost power after the peak output speed of 6400rpm, and felt most powerful around 6000rpm. However, it should be noted that at the time we were testing the new GSS, the wind at Yatabe had gotten quite strong, reaching maximum gusts of 14m/s. As a result, this figure, which was the slowest of the four cars we brought for testing, should be taken with a grain of salt. 
+At the same time, there is little difference between the ratios of the fully synchronized 5-speed gearbox (new: 3.055–1.879–1.296–1.000–0.858; old: 3.074–1.838–1.256–1.000–0.856). Both cars' limited-slip differentials also share the same 4.375 final-drive ratio, and tire size remains unchanged at 165HR-14 (our test car was fitted with Bridgestone Radial 20 tires). It is therefore fair to say that the overall gearing of the two models is virtually identical.
 
-Standing-start acceleration was also the slowest of the four. The slipping clutch we reported in the April issue had been repaired, but even though there was no handicap from that, the GSS was slower than the other three cars. Using 7000rpm as the shift point in each gear, the best times were 0-400m in 17.0 seconds and 0-1000m in 32.0 seconds (the old GSS's times were 16.6 seconds and 29.9 seconds, respectively). The smooth but slow, passenger-car-like clutch and the fairly large shift lever stroke were probably factors that contributed to the slower acceleration times. 
+Our test car was the same high-compression (9.4:1) premium-fuel example featured in the April issue, with a catalog top speed of 195km/h. (The regular-fuel version, with its lower 8.5:1 compression ratio, produces 140ps/6400rpm and 17.2kgm/5200rpm, with a claimed top speed of 190km/h.)
 
-While the power drops at the top end, the low-speed performance is good, as is the case with most Japanese high-performance engines. If you feel like it, you can accelerate smoothly and reliably from just under 50km/h (about 1600rpm) in fourth gear and just under 60km/h (about 1800rpm) in fifth gear.
+The results of giving the Mark II 2000 GSS a full workout at Yatabe were, unfortunately, disappointing. Its performance fell well short of the catalog figures.
 
-Regarding handling, this second test only confirmed our impressions from the April issue. In other words, the relatively precise but heavy, slow, and busy-feeling steering and the tendency for early final oversteer mean that the handling is not well-suited to high-speed driving on winding roads. Another weakness became clear during the test due to the strong winds. Despite its heavy weight, the Mark II is not very resistant to crosswinds, and its large body is blown around quite significantly, although not as suddenly as in a lighter car. To make matters worse, the Mark II does not have the quick steering needed to immediately correct this tendency.
+Starting with maximum speed: if each gear is taken to the 7000rpm red line, the optimistic speedometer indicates 60km/h in first, 100km/h in second, and 150km/h in third. Yet even at full throttle in direct fourth gear, the tachometer would climb no higher than 6500rpm (with the speedometer indicating 180km/h). Shifting into fifth actually produced a higher speed. In fifth, the engine briefly reached 6000rpm, and the speedometer needle climbed to 192km/h. (Since the calculated speed at 6000rpm in fifth is 177km/h, the speedometer was reading just under 10% high.) 
 
-Finally, the fuel economy was 6.37km/l over the full test distance, which included the crowded National Route 6 and high-speed driving at Yatabe, and 6.15km/l on the same Route 6 and in Tokyo. Of course, the gasoline used was high octane.
+In the end, our stopwatch measurements showed averages of only 175.18km/h over the 1km straight and 172.02km/h over the 5.5km circuit. (By comparison, the previous 1900 GSS recorded 184.70km/h over the 5.5km course in C/G's January 1970 test.) This twin-cam engine appears to lose power once past its 6400rpm power peak, and in practice felt strongest at around 6000rpm.
 
-To put it bluntly, one could say that there is no real need for the GSS with its twin cam engine to exist in the large and heavy Mark II series. If you want to drive fast with a sports-car feel, there's the Corolla Levin; if you want a car that creates a sporty mood, there's the Celica GT; and if this car isn't targeting the hard-edged character of the Skyline GT-R and is simply meant to rival the SOHC Skyline GT, then the Mark II GSL, with its SOHC twin-SU engine, is already sufficient. Only those who are in love with the styling of the Mark II, and who won't be satisfied unless they open the hood to see the crackle-black-finished twin cams, would find it worth spending 1.15 million yen on this car.
+By the time we got to testing the Mark II, the wind had become much stronger, reaching as much as 14m/sec. Since these figures were at the tail end of the four cars tested that day, they should perhaps be considered with some allowance for the headwind.
 
+Standing-start acceleration was likewise the slowest of the four. The clutch slip noted in our April report had been corrected, so that handicap was no longer present. Even so, taking each of the lower three gears to 7000rpm produced best times of 0-400m in 17.0 seconds and 0-1000m in 32.0 seconds. (The previous GSS recorded 16.6 and 29.9 seconds respectively.) The passenger-car-like clutch, with its smooth engagement but rather leisurely take-up, along with the floor-mounted shift lever's fairly long stroke, must surely have contributed to the disappointing acceleration times.
+
+While power falls away at the top end, like many Japanese high-performance engines, low-speed performance is good. If one is so inclined, it will accelerate smoothly and confidently from just under 50km/h in fourth gear (approximately 1600rpm), or from just under 60km/h in fifth (approximately 1800rpm).
+
+As for the handling, our impressions from the April issue were simply confirmed. The steering is reasonably precise, but heavy and busy, while the car also displays a tendency toward final oversteer that arrives relatively early. The conclusion, therefore, remains unchanged: this is not a car whose handling is well suited to fast driving on winding roads.
+
+One further point became apparent during the test in the strong winds. Despite its considerable weight, the Mark II is not especially resistant to crosswinds. Its large body is blown noticeably off course—if not quite as suddenly as in a lighter car. Worse still, the Mark II's steering is not quick enough to correct such deviations in an instant.
+
+Finally, fuel consumption worked out to 6.37km/l during our full-throttle testing at Yatabe and in heavy traffic on National Route 6, and 6.15km/l over a combination of Route 6 and city driving in Tokyo. Premium-grade fuel was, of course, used throughout.
+
+To put it bluntly, one could argue that there is no real need for a twin-cam GSS version in the large and heavy Mark II range. Those looking for genuine sports-car performance already have the Corolla Levin, while those wanting a little more style have the Celica GT. Nor does the Mark II have the uncompromising character of the Skyline GT-R. If its purpose is simply to compete with the SOHC Skyline GT, then the Mark II GSL—with its SOHC engine and twin SU carburetors—is surely already sufficient.
+
+Only those who have fallen in love with the Mark II's styling, and who cannot be satisfied unless opening the hood reveals Toyota's crackle-finished twin-cam engine, are likely to find this car worth its 1,150,000 yen asking price.
 
 ---
 

@@ -42,7 +42,7 @@ From among the additions to the range, we selected what appeared to be the most 
 
 As readers will already know, Toyota introduced a complete redesign of the Mark II on January 29.
 
-Five months later, on June 26, Toyota expanded the New Mark II-L lineup with a new luxury personal car powered by the 1988cc M-B six-cylinder OHC engine, equipped with SU-type twin carburetors and a Porsche-type five-speed transmission.
+Five months later, on June 26, Toyota expanded the New Mark II-L lineup with a new luxury personal car powered by the 1988cc M-B six-cylinder OHC engine, equipped with SU-type twin carburetors and a Porsche-type 5-speed transmission.
 
 The new additions comprise six models across the sedan and hardtop ranges. Including regular-fuel versions, the total comes to 12 variants, bringing the New Mark II series to an astonishing 54 models in all.
 
