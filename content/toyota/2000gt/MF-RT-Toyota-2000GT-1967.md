@@ -440,12 +440,15 @@ For that reason, with safety regulations set to become stricter next year, the i
 
 <b>Magazine:</b> Are there any plans to introduce a 2+2 version later on, like the Jaguar E-Type?
 
-<b>Kono:</b> We’ve conducted various studies on the market potential for a 2+2 in the US as well. Jaguar, it seems, intended for that version to sell quite well, but in reality it hasn’t been very popular, and there have even been reports of the 2+2 being discounted by 300 dollars recently.
+<b>Kono:</b> We’ve conducted various studies on the market potential for a 2+2 in the US as well. Jaguar, it seems, intended for that version to sell quite well, but in reality it hasn’t been very popular, and there have even been reports of the 2+2 being discounted by $300 recently.
 
 As for our own policy, we intend for this car to remain strictly a two-seater, and at present we are not considering a 2+2 version.
 
 <b>Magazine:</b> Thank you all very much for your time.
 
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-RT-Toyota-2000GT-1967-Gallery" >}}
 
 ---
 
