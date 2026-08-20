@@ -182,13 +182,13 @@ While power falls away at the top end, like many Japanese high-performance engin
 
 As for the handling, our impressions from the April issue were simply confirmed. The steering is reasonably precise, but heavy and busy, while the car also displays a tendency toward final oversteer that arrives relatively early. The conclusion, therefore, remains unchanged: this is not a car whose handling is well suited to fast driving on winding roads.
 
-One further point became apparent during the test in the strong winds. Despite its considerable weight, the Mark II is not especially resistant to crosswinds. Its large body is blown noticeably off course—if not quite as suddenly as in a lighter car. Worse still, the Mark II's steering is not quick enough to correct such deviations in an instant.
+One further point became apparent during the test in the strong winds. Despite its considerable weight, the Mark II is not especially resistant to crosswinds. Its large body is blown noticeably off course—if not quite as suddenly as in a lighter car. To make matters worse, the Mark II's steering is not quick enough to correct such deviations in an instant.
 
 Finally, fuel consumption worked out to 6.37km/l during our full-throttle testing at Yatabe and in heavy traffic on National Route 6, and 6.15km/l over a combination of Route 6 and city driving in Tokyo. Premium-grade fuel was, of course, used throughout.
 
 To put it bluntly, one could argue that there is no real need for a twin-cam GSS version in the large and heavy Mark II range. Those looking for genuine sports-car performance already have the Corolla Levin, while those wanting a little more style have the Celica GT. Nor does the Mark II have the uncompromising character of the Skyline GT-R. If its purpose is simply to compete with the SOHC Skyline GT, then the Mark II GSL—with its SOHC engine and twin SU carburetors—is surely already sufficient.
 
-Only those who have fallen in love with the Mark II's styling, and who cannot be satisfied unless opening the hood reveals Toyota's crackle-finished twin-cam engine, are likely to find this car worth its 1,150,000 yen asking price.
+Only those who have fallen in love with the Mark II's styling, and who cannot be satisfied unless opening the hood reveals Toyota's crackle-finished twin-cam engine, are likely to find it worth spending 1,150,000 yen on this car.
 
 ---
 

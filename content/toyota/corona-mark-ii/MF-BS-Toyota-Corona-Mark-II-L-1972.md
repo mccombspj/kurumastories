@@ -80,13 +80,13 @@ Another point raised by virtually everyone concerned the three-point seatbelt.
 
 "In a serious accident, that could mean a neck injury."
 
-"It's advertised as a one-action seatbelt, but that one action is not easy, whether fastening or releasing."
+"It's advertised as a one-action seatbelt, but that one action is not easy, whether fastening or releasing it."
 
-There was also considerable discussion of the merits of the 5-speed transmission and the revised suspension, among other topics, but readers are referred to the individual reports that follow for the details.
+There was also considerable discussion of the merits of the 5-speed transmission and the revised suspension, among other topics, but for those details readers are referred to the individual reports that follow.
 
 One final note: for this test, Shigeki Asaoka, our regular contributor for comfort and accommodation evaluations, was away on a trip to Europe. Substituting for him was Motor Fan staff writer Tadao Suzuki.
 
-<b><u>Power Performance: A Successful Emphasis on Stability</b></u> <i>(Osamu Mochizuki)</i>
+<b><u>Performance: A Successful Emphasis on Stability</b></u> <i>(Osamu Mochizuki)</i>
 
 With the addition of Toyota's 125ps inline-six OHC engine to the Mark II-L series, the evolution of the model's engine lineup appears, for the moment at least, to have reached its peak.
 
@@ -122,23 +122,23 @@ There is, admittedly, a certain degree of sluggishness in some aspects of its be
 
 <b><u>Handling and Stability: Excellent Straight-Line and Hands-Off Stability</b></u> <i>(Katsuzo Kageyama)</i>
 
-In a car of this size, the cabin naturally feels spacious and relaxed. There is ample room in every direction, and nothing about the dimensions feels restrictive. One complaint, however: once the three-point seatbelt is fastened, some of the controls become difficult to reach.
+In a car of this size, the cabin naturally feels spacious and relaxed. There is plenty of room in every direction, and nothing about the dimensions feels restrictive. One complaint, however: once the three-point seatbelt is fastened, some of the controls become difficult to reach.
 
-The accelerator pedal is on the heavy side, perhaps as a result of the twin carburetors. The clutch pedal is similarly heavy, however, so the overall driving feel is consistent rather than awkward.
+The accelerator pedal is on the heavy side, perhaps as a result of the twin carburetors. But since the clutch pedal is similarly heavy, so the overall driving feel is consistent rather than awkward.
 
 The Porsche-type 5-speed gearbox has a generally satisfying action, but first gear and reverse proved troublesome. Perhaps because the transmission was still new, both were reluctant to engage. In the city, I frequently found myself pulling away in second gear, while selecting reverse often required considerable effort. This, however, is unlikely to be representative of the gearbox in its fully broken-in state.
 
 The combination of a relatively long wheelbase and wide, low-profile radial tires appears to have paid dividends. On the road, the car displays excellent straight-line stability, something that becomes particularly evident on the expressway. Its hands-off stability is equally impressive. Above all, the Mark II feels remarkably settled. Predictably, it also exhibits a pronounced tendency toward understeer.
 
-Toyota describes the suspension as a "firmer suspension" in its catalog, and it is true that expansion joints and pavement seams are transmitted rather clearly to the occupants. Yet "firmer" is a relative term, referring to other Mark II models. By absolute standards, this is not an especially firm suspension. It remains unmistakably an L-series setup, with ride comfort as the primary objective. Nor would I describe body roll as particularly well-restrained.
+Toyota describes the suspension as a "firmer suspension" in its catalog, and it is true that expansion joints and pavement seams are transmitted rather clearly to the occupants. But "firmer" is a relative term, referring to other Mark II models. By absolute standards, this is not an especially firm suspension. It remains unmistakably an L-series setup, with ride comfort as the primary objective. Nor would I describe body roll as particularly well-restrained.
 
 The first thing that struck me after setting off was the steering.
 
 In fact, I turned to my passenger and asked, "This doesn't have power steering, does it?"
 
-The steering ratio appears to be quite high, and as the wheel is turned there is very little sense of effort building through the rim. More accurately, there is little change in effort. If the steering were simply light, the driver could compensate by adjusting his inputs. Instead, it has a vague, floating quality, almost as though one were stirring a vat of oil. The result is a distinctly unsettling lack of confidence.
+The steering ratio appears to be quite high, and as the wheel is turned there is very little sense of effort building through the rim. More accurately, there is little change in effort. If the steering were simply light, the driver could compensate by adjusting his inputs. Instead, it has a vague, floating feeling, almost as though one were stirring a vat of oil. The result is a distinctly unsettling lack of confidence.
 
-The car's excellent straight-line stability on the expressway goes a long way toward masking this trait. During overtaking maneuvers, however, the lack of steering feel becomes more noticeable. On winding roads, where one begins to increase the pace and turn the steering from side to side, the sensation becomes more pronounced still.
+The car's excellent straight-line stability on the expressway goes a long way toward masking this trait. During overtaking maneuvers, however, the lack of steering feel becomes more noticeable. On winding roads, when one starts increasing the pace and turning the steering from side to side, the sensation becomes more pronounced still.
 
 There is a clear mismatch between the car's sporting credentials--twin carburetors and a 5-speed transmission--and the character of its steering. Yet the contradiction disappears if one views the Mark II for what it really is: a luxury personal car aimed at the well-heeled middle-aged gentleman who wants to enjoy just a touch of sporting flavor as part of the package.
 
@@ -256,11 +256,11 @@ This may not reflect particularly well on me, but the other day I was pulled ove
 
 The cause was a failed overtaking maneuver. Traffic was flowing at between 100-120km/h. I intended to pass two or three cars, but the line of traffic turned out to be longer than expected, and when I pressed the accelerator a little harder, I got caught.
 
-There is a reason for telling this story. A truly good automobile today must excel both at high-speed expressway cruising--around 100km/h--and at low- and medium-speed driving in city traffic. Without both qualities, it cannot be considered a first-rate product.
+There is a reason for telling this story. A truly good automobile today must excel both at high-speed expressway cruising--around 100km/h--and at low- and medium-speed driving in city traffic. Without both qualities, it cannot be considered a superior product.
 
 In that respect, the test car was entirely satisfactory on the highway.
 
-In urban driving, however, its responses felt rather lethargic. More than once I found myself thinking, "This car does weigh 1,140kg, after all."
+In city driving, however, its responses felt rather sluggish. More than once I found myself thinking, "After all, this car does weigh 1,140kg."
 
 Still, if this sort of character is what the mainstream Toyota buyer likes, there is little point in outsiders complaining about it.
 
@@ -286,7 +286,7 @@ The center console feels flimsy and flexes at the slightest touch, while the woo
 
 A genuinely fine product is not defined merely by appearances.
 
-<i>"The power windows are convenient, but their operation feels a little sluggish." —Kageyama</i>
+<i>"The power windows are convenient, but their operation feels a little slow." —Kageyama</i>
 
 <i>"It's the kind of car I'd like to own at least once." —Oguchi</i>
 

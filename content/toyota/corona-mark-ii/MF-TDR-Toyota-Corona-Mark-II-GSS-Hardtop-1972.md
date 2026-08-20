@@ -207,7 +207,7 @@ The same is true when downshifting from 5th to 4th. Rather than forcing the leve
 
 Porsche itself adopted this Alfa-style 5-speed shift pattern for 1972, and aside from the absence of a centering spring in the Porsche installation, the feel is remarkably similar.
 
-Porsche-type servo synchronizers have now become fairly common, but compared with the 5-speed transmissions previously fitted to the Mark II, Toyota 2000GT, and 1600GT, this new unit represents a substantial advance. The synchronizers are far stronger and the shift feel markedly improved.
+Porsche-type servo synchronizers have now become fairly common, but compared with the 5-speed transmissions previously fitted to the Mark II, Toyota 2000GT, and 1600GT, this new one represents a substantial advance. The synchronizers are far stronger and the shift feel markedly improved.
 
 One characteristic of this design, however, is the pronounced mechanical resistance felt during shifts. The lever must be moved positively through that resistance and firmly engaged in the selected gear.
 
@@ -219,7 +219,7 @@ One point should be noted, however. On the test car, the synchronizing effect oc
 
 Vibration transmitted through the transmission mounting and driveline has also been very effectively suppressed, while noise levels at high engine speeds have been reduced substantially.
 
-The other area of major significance to the GSS is the revised suspension.
+The other area of major significance in the GSS is the revised suspension.
 
 At the front, Toyota has retained the double-wishbone layout rather than adopting the increasingly fashionable MacPherson struts. At the rear, however, the changes are substantial. Previous Mark II and GSS models combined a leaf-sprung live axle with torque rods, but the entire Mark II range now uses a coil-sprung four-link layout located laterally by a Panhard rod.
 
@@ -231,7 +231,7 @@ Rear-wheel grip has improved significantly compared with the previous model, and
 
 However, this means that the front end has become the limiting factor, and the handling balance now tends toward fairly pronounced understeer. The longer wheelbase is partly responsible, but the new GSS is also equipped with a limited-slip differential as standard equipment, something not seen since the 1600GT. This too acts to resist turn-in during cornering.
 
-Furthermore, the variable-ratio steering now ranges from 20.0-23.5:1, and in a car of this type the response inevitably feels somewhat delayed.
+Furthermore, the variable-ratio steering now ranges from 20.0-23.5:1, and in a car like this the response inevitably feels somewhat delayed.
 
 The combined effect of these changes is that one cannot expect particularly sharp handling.
 
