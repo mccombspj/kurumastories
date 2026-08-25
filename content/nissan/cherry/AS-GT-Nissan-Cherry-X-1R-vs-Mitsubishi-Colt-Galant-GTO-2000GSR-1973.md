@@ -19,11 +19,11 @@ draft = false
 
 Our editorial staff swapped their pens for steering wheels, and set out to experience—and verify firsthand—the sporting character of the Cherry X-1R and the Galant GTO 2000GSR.
 
-Two machines, both wearing boldly aggressive overfenders and looking every bit the part of modern sport models, were taken to Tsukuba Circuit and driven to their limits. Making full use of whatever driving technique (!?) we could muster, we threw them onto the course and attacked corner after corner… and the result, well…
+Two machines, both wearing boldly aggressive overfenders and looking very much the part of modern sport models, were taken to Tsukuba Circuit and driven to their limits. Making full use of whatever driving technique (!?) we could muster, we threw them onto the course and attacked corner after corner… and the result, well…
 
 <b><u>Editors' Comprehensive (?) Test Drive: Cherry X-1R vs. Galant GTO 2000GSR</b></u>
 
-Lately, many newly announced domestic models have been arriving under the looming specter of tightening emissions regulations. Even so, manufacturers continue to include sporty versions in their lineups—models clearly aimed at younger drivers with an interest in motorsport.
+Lately, many newly announced domestic models have been arriving under the looming specter of tightening emissions regulations. Even so, manufacturers continue to include sporty versions in their lineups—models clearly aimed at younger drivers with an interest in motorsports.
 
 At the Auto Sport editorial department, we decided to put these sport-oriented machines to a more serious test than usual. Our goal: to explore their inherent potential--not just as road cars, but as bases for racing and rally competition--through comprehensive evaluation on the track.
 
@@ -33,11 +33,11 @@ Before getting into that, let’s briefly outline the profiles of each car.
 
 Released nationwide on March 9, the Cherry Coupe X-1R is based on the Coupe X-1. It retains the well-regarded A12-type OHV engine in completely stock form, an engine already known for its willingness to rev. Instead, the focus has been on reducing weight by stripping away non-essential equipment, while significantly strengthening the chassis--particularly the suspension--to create a more purpose-built sporting model.
 
-That suspension development has been carried out with considerable thoroughness. In addition to adopting 13-inch low-profile radial tires, the spring rates and damper settings have been substantially increased. A stabilizer bar has been added, brake disc size enlarged, driveshaft diameter increased, and even the wheel bearings upgraded to angular ball types. Attention has clearly been paid to fine details throughout.
+That suspension development has been carried out with considerable thoroughness. In addition to adopting 13-inch low-profile radial tires, the spring rates and damper settings have been substantially increased. A stabilizer bar has been added, brake disc size enlarged, driveshaft diameter increased, and even the wheel bearings upgraded to angular ball types. Attention has clearly been paid to small details throughout.
 
 Vehicle weight is listed at 645kg, which--on paper--makes it 45kg lighter than the 690kg X-1L. However, this figure represents the homologated weight, achieved under specific conditions: 12-inch standard tires fitted, and with all non-essential equipment such as the heater removed. In reality, the car is likely 10-15kg heavier. The fact that homologation was obtained in this stripped-down form--while production is said to be limited to around 100 units per month--invites speculation. Could this be a homologation special, developed with an eye toward Nissan’s rumored entry into the European touring car racing series? If that rumor proves true, it would certainly be welcome news for enthusiasts. But even if not, it’s an interesting line of thought.
 
-Taking a slightly more skeptical view, one might also question the overfenders—arguably the X-1R’s most distinctive visual feature (officially referred to as "soft guards" by the manufacturer, and indeed made from a pliable urethane material). In reality, the original wheel arches themselves have not been cut, meaning that wider wheels cannot actually be fitted. According to catalog data, the tread width remains unchanged, with overall width increased by 60mm solely due to these overfenders. This, too, could be interpreted as a provisional measure for homologation purposes. Then again, it may simply reflect the current trend toward overfenders, and nothing more…
+Taking a slightly more skeptical view, one might also question the overfenders—arguably the X-1R’s most distinctive visual feature (officially referred to as "soft guards" by the manufacturer, and indeed made from a pliable urethane material). In reality, the wheel arches themselves have not been cut, meaning that wider wheels cannot actually be fitted. According to catalog data, the tread width remains unchanged, with overall width increased by 60mm solely due to these overfenders. This, too, could be interpreted as a provisional measure for homologation purposes. Then again, it may simply reflect the current trend toward overfenders, and nothing more…
 
 Turning to the GTO, this series has been upgraded to the 2-liter class, and the twin-cam GTO MR has been discontinued. Taking its place as the new top-of-the-line model is the Galant GTO 2000GSR.
 
@@ -63,17 +63,17 @@ With that, let’s begin the report with the Cherry.
 
 The Cherry has been regarded as a capable performer since the appearance of the X-1. Yet when it came time for this circuit impression test, even the more experienced members of the editorial team hesitated. Unfamiliar with front-wheel-drive behavior, they found themselves unusually hesitant--"You go first." "No, you go ahead." An unexpected display of politeness ensued.
 
-Following Editor-in-Chief Usui’s instruction--"This is not a timed attack, only a circuit impression. Do not push beyond your limits"--everyone complied faithfully, resulting in what looked almost like a driving school session.
+Following Editor-in-Chief Usui’s instruction--"This is not a time attack, only a circuit impression. Do not push beyond your limits"--everyone complied faithfully, resulting in what looked almost like a driving school session.
 
-The only exception was photographer Yokomachi, a veteran Subaru FF-1 user. "I don’t really feel any FF traits here," he remarked casually. "It doesn’t have that strong tuck-in like the Subaru. Feels just like an FR car." He then proceeded to record a best lap of 1 minute 26.8 seconds.
+The only exception was photographer Yokomachi, a veteran Subaru FF-1 user. "I don’t really feel any FF traits here," he remarked casually. "It doesn’t have that strong tuck-in like the Subaru. It feels just like an FR car." He then proceeded to record a best lap of 1 minute 26.8 seconds.
 
 In absolute terms, this is far slower than production racing times in the same class, and roughly comparable to 360cc-category cars. Even so, the fact that he achieved a 26-second lap on only his second flying lap suggests that the Cherry is by no means difficult to drive. The slower times recorded by others likely reflect an overly cautious approach--drivers too conscious of the FF layout, braking conservatively into corners and failing to carry sufficient speed.
 
 On the road to the circuit, city driving impressions had already suggested a firmly set-up chassis. Veteran rally reporter Inoue even commented, "I was surprised by how stiff it is. You could almost take this straight into rallying as-is." That impression proved accurate on track as well.
 
-Ride height remains unchanged from standard, and with a relatively high seating position, body roll appears more pronounced than it actually is, occasionally creating a slight sense of unease on turn-in.
+Ride height remains unchanged from standard, and with a relatively high seating position, body roll seems more pronounced than it actually is, occasionally creating a slight sense of unease on turn-in.
 
-The A12 OHV engine, already known for being unusually strong-revving for a mass-produced unit, exhibits the same characteristics here. The tachometer needle sweeps easily past the 6800rpm redline and will happily continue toward 8000rpm if allowed to. As noted in the profile, the engine itself is untouched in X-1R specification. However, with further weight reduction over the X-1, the car possesses more than enough performance for spirited driving.
+The A12 OHV engine, already known for being unusually strong-revving for a mass-produced unit, exhibits the same characteristics here. The tachometer needle sweeps easily past the 6800rpm redline and will happily continue toward 8000rpm if allowed to. As noted in the profile, the engine itself is untouched in X-1R specification. However, with further weight reduction over the X-1, the car has more than enough performance for spirited driving.
 
 The combination of light body weight and sharp steering response, along with 4.5J steel wheels and 165/70HR13 tires, further defines the car’s character--light, alert, and distinctly reactive.
 
@@ -91,7 +91,7 @@ In summary, the Cherry Coupe X-1R--equipped with a suspension specification comp
 
 Switching from the Cherry to the Galant, the first thing that stands out is the level of equipment. Compared to the Cherry’s sparsely appointed dashboard—lacking even a radio—the top-grade Galant GTO 2000GSR clearly reflects its position in the lineup. The cabin, unified in black with a strong GT atmosphere, is matched with a low seating position that provides ample headroom. By contrast, the Cherry’s more upright driving position means that your helmet often contacts the roof--making the difference in class immediately apparent.
 
-To be honest, the editorial staff did not have particularly high expectations for the Galant. Although it had been given a 2-liter engine in what was originally a 1.6-liter body, this was assumed to be nothing more than a necessary displacement increase to compensate for power losses caused by emissions regulations. The catalog itself explicitly described it as an emissions-controlled model. On paper, we thought it would handle steady high-speed cruising on expressways without issue—but there seemed little chance it would withstand repeated circuit abuse. That was the assumption.
+To be honest, the editorial staff did not have particularly high expectations for the Galant. Although it has been given a 2-liter engine in what was originally a 1.6-liter body, this was assumed to be nothing more than a necessary displacement increase to compensate for power losses caused by emissions regulations. The catalog itself explicitly described it as an emissions-controlled model. On paper, we thought it would handle steady high-speed cruising on expressways without issue—but there seemed little chance it would withstand repeated circuit abuse. That was the assumption.
 
 However, that prediction was quickly overturned once driving began.
 
