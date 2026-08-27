@@ -109,7 +109,7 @@ Finally, a word about fuel consumption. One of the commonly cited drawbacks of t
 
 Even so, despite its relatively high 9.4:1 compression ratio, the rotary engine runs perfectly well on regular-grade gasoline, which should somewhat offset its higher fuel consumption. Oil consumption amounted to 1 liter over approximately 300km, including the testing at Yatabe.
 
-With acceleration comparable to that of a 2-liter sports car, an exceptionally small 4.1m turning circle, and a rotary engine that is easier to use at low speeds than the average reciprocating engine, the Rotary Coupe is an ideal city runabout for modern metropolitan traffic. As for its other specialty, grand touring on expressways, our conclusion is that it needs a chassis worthy of the superb rotary engine—even if that should result in a higher price.
+With acceleration comparable to that of a 2-liter sports car, an exceptionally small 4.1m turning circle, and a rotary engine that is easier to use at low speeds than the average reciprocating engine, the Rotary Coupe is an ideal city runabout for modern metropolitan traffic. As for its other specialty, grand touring on expressways, our conclusion is that it needs a chassis worthy of the superb rotary engine—even if that results in a higher price.
 
 <b><u>Postscript: Story Photos</b></u>
 
