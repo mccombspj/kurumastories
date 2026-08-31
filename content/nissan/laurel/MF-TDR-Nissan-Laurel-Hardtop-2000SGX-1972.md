@@ -69,31 +69,31 @@ Length, 4500mm (4420mm); width, 1680mm (1625mm); height, 1405mm (1390mm); wheelb
 
 These are the main dimensions of the new Laurel Hardtop SGX and one of its strongest rivals, the Toyota Mark II Hardtop L. (Figures in parentheses are for the Mark II.)
 
-With the exception of tread width, the Laurel is larger in every dimension. The SGX I tested was equipped with Nissan's six-cylinder L20 engine, but even the four-cylinder 1800cc Laurel Hardtop shares the same body and dimensions, differing only slightly in overall width at 1670mm. Taken as a whole, the Laurel has grown noticeably larger than the Mark II.
+With the exception of tread width, the Laurel is larger in every dimension. The SGX I tested was equipped with Nissan's six-cylinder L20 engine, but even the four-cylinder 1800cc Laurel Hardtop shares the same body and dimensions, differing only slightly in overall width at 1670mm. In general, the Laurel has become noticeably larger than the Mark II.
 
 Judging by the numbers alone, it is even a size larger than the Skyline 2000GT sedan, despite using the same L20 engine.
 
 Weight has increased accordingly. The SGX tips the scales at 1205kg unloaded, with 660kg on the front axle and 545kg on the rear. The Mark II Hardtop L, by comparison, weighs 1120kg, with 640kg on the front axle and 480kg on the rear. The new Laurel is more than 100kg heavier than the Skyline Hardtop 2000GT-X.
 
-In other words, the new Laurel series has moved considerably closer to the Cedric and Gloria in both size and market position.
+In other words, the new Laurel series has moved much closer to the Cedric and Gloria in both size and market position.
 
-One suspects that Nissan intends for the Laurel to become its standard-bearer in the 2-liter class, while the Cedric and Gloria will eventually move further upmarket as 2600cc or even 3-liter cars once anticipated revisions to Japan's tax structure come into effect.
+One suspects that Nissan intends for the Laurel to become its standard-bearer in the 2-liter class, while the Cedric and Gloria will eventually move further upmarket as 2600cc or even 3-liter cars once the expected changes to Japan's tax structure come into effect.
 
-The original Laurel was conceived before the Nissan-Prince merger had been completed, and was developed as a senior brother to the upcoming-generation Bluebird, reaching production ahead of the Bluebird itself.
+The original Laurel was conceived before the Nissan-Prince merger was completed, and was developed as a senior brother to the upcoming-generation Bluebird, reaching production ahead of the Bluebird itself.
 
-After the merger brought the Skyline series into the Nissan family, however, the Laurel was hastily fitted with Prince-derived G18 and G20 engines. The result was a car that found itself caught somewhere between the Bluebird and the Skyline, never quite establishing a clear identity of its own.
+After the merger brought the Skyline series into the Nissan family, however, the Laurel was hastily fitted with Prince-derived G18 and G20 engines. The result was a car that found itself caught somewhere between the Bluebird and the Skyline, and never quite established a clear identity of its own.
 
-What will happen when the Skyline undergoes its next model change remains to be seen. For the moment, however, the new Laurel's place in the Nissan lineup has been clearly defined: a step above the Skyline, yet below the Cedric and Gloria.
+What will happen when the Skyline undergoes its next model change remains to be seen. For the moment, however, the new Laurel's place in the Nissan lineup has been clearly defined: a step above the Skyline, but below the Cedric and Gloria.
 
 If I were responsible for Nissan's product planning, however, I suspect I would be rather troubled by the question of what to do with the next Skyline series.
 
-After all, Nissan's lineup already stretches from the Cherry, Sunny, Bluebird, and Bluebird U through to the Cedric, Gloria, and President. Trying to position the Skyline somewhere within that range, using the components already available, would almost inevitably bring one right back to where the new Laurel now stands.
+After all, Nissan's lineup already stretches from the Cherry, Sunny, Bluebird, and Bluebird U through to the Cedric, Gloria, and President. Trying to position the Skyline somewhere within that range, using already-available components, would almost inevitably bring one right back to where the new Laurel stands now.
 
 For that reason alone, the much-rumored new Skyline said to be arriving this autumn should prove extremely interesting.
 
 To tell the truth, I was more than a little disappointed when I first saw the new Laurel.
 
-As I have already suggested, given the need to define the next Skyline series, I had expected the Laurel to evolve into something quite different--perhaps a true specialty car in the manner of the Celica, with styling bold enough to set it completely apart.
+As I have already suggested, given the need to define the next Skyline series, I had expected the Laurel to evolve into something very different--perhaps a true specialty car in the manner of the Celica, with styling bold enough to set it completely apart.
 
 I imagined something aimed at buyers a little older than the Celica's audience, yet still young at heart. A car available with either four- or six-cylinder 2-liter engines, perhaps even offering the powerplant from the 240Z. A genuinely sporting coupe, in a 2+2 or even a 2+3 configuration.
 
@@ -111,15 +111,15 @@ Output is rated at 130ps/6000rpm, with maximum torque of 17.5kgm/4400rpm, on the
 
 The organ-type accelerator pedal feels somewhat heavy. Not only is pedal effort greater than expected, but the throttle response itself is surprisingly subdued.
 
-The engine climbs smoothly to its torque peak at 4400rpm, but beyond that point it suddenly begins to feel lethargic. Past 5000rpm, mechanical noises--apparently from the valve train--begin to intrude.
+The engine climbs smoothly to its torque peak at 4400rpm, but beyond that point it suddenly begins to feel lethargic. Past 5000rpm, mechanical noise--apparently from the valvetrain--begins to intrude.
 
-Admittedly, the test car was still new, and one hesitates to subject a car in such condition to undue abuse. Even so, I never felt inclined to pull the engine all the way to its 6000rpm power peak.
+Admittedly, the test car was still in new condition, and one hesitates to subject such a car to undue abuse. Even so, I never felt inclined to pull the engine all the way to its 6000rpm power peak.
 
 In fact, I tried it only once.
 
 When the Skyline 2000GT equipped with the L20 engine first appeared, I remember being genuinely impressed. Here, I thought, was an affordable sports sedan. Even with its single-carburetor 105ps specification, it was an exciting car.
 
-Despite being very much a street version, that Skyline 2000GT would dispatch the standing 400m in comfortably under 17 seconds, and run from 0-100km/h in well under 10 seconds. At the time, it left a tremendous impression on me.
+Despite being very much a street version, that Skyline 2000GT would dispatch 0-400m in comfortably under 17 seconds, and run from 0-100km/h in well under 10 seconds. At the time, it left a tremendous impression on me.
 
 A full four years have passed since then.
 
@@ -133,19 +133,19 @@ It is difficult to imagine any of these color combinations suiting the current S
 
 Whether one regards that as a virtue or a fault, does it not reveal something fundamental about the character of the new Laurel Hardtop? It is an interesting question.
 
-The front seats incorporate integrated headrests. The lower portion of the seatback and the rear half of the cushion are trimmed in a stylish tricot cloth. Both width and depth have been increased.
+The front seats incorporate integrated headrests. The lower portion of the seatback and the rear half of the cushion are trimmed in a stylish tricot cloth. Both width and length have been increased.
 
-I would not go quite so far as agreeing with the catalog's claims regarding lateral support, but the shape and firmness of the seats are fully satisfactory. The SGX also features an armrest cleverly integrated into the door trim, while map pockets are fitted to the backs of the front seats.
+I would not go quite so far as agreeing with the catalog's claims regarding lateral support, but the shape and firmness of the seats are fully satisfactory. The SGX also features an armrest cleverly integrated into the door panel, while map pockets are fitted to the backs of the front seats.
 
-Rear-seat accommodation is generous as well. In particular, there is ample fore-and-aft room, allowing rear passengers to sit without worrying about their knees touching the front seatbacks.
+Rear-seat accommodation is generous as well. In particular, there is ample fore-and-aft room, allowing rear passengers to sit without worrying about their knees contacting the front seatbacks.
 
 At first, I found the instrument panel's angled layout somewhat unusual, but legibility is actually quite good.
 
-The one exception is the clock after dark. Its illumination is dim, and the numerals, markings, and hands are all difficult to read. If an instrument cannot be checked with a quick glance, it becomes a matter of safety.
+The one exception is the clock after dark. Its illumination is dim, and the numerals, markings, and hands are all difficult to read. If an instrument cannot be checked with a quick glance, it becomes a safety issue.
 
 After all, one well-known author is said to have been involved in an accident because his attention was diverted by the controls of an air conditioner.
 
-The under-dash handbrake lever is less satisfactory. It uses a roller-lock, continuously adjustable mechanism, but the lever is so far away that operating it requires the driver to shift their position awkwardly in their seat. Even releasing it fully requires a surprising amount of effort before the warning lamp goes out.
+The under-dash handbrake lever is less satisfactory. It uses a roller-lock, continuously adjustable mechanism, but the lever is so far away that operating it requires the driver to shift position awkwardly in the seat. Even releasing it fully requires a surprising amount of effort before the warning lamp goes out.
 
 The truly serious flaw, however, is the seat belt.
 

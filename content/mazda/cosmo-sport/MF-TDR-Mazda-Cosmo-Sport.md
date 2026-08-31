@@ -33,7 +33,7 @@ draft = false
 
 <b><u>Driving the Mazda Cosmo Sport</b></u>
 
-The revolutionary rotary-piston engine has at last been successfully brought to practical fruition after six years of research and development by Toyo Kogyo. Installed in the sleek Cosmo Sport, it has now finally entered production.
+The revolutionary rotary-piston engine has been successfully brought into practical use at last, following six years of research and development by Toyo Kogyo. Installed in the sleek Cosmo Sport, production has now finally begun.
 
 For this article, we invited six specialists from various fields to drive the car and give us their impressions of the rotary engine's uniquely sharp acceleration and remarkable smoothness, as well as their overall impressions of the Cosmo as a sports car.
 
@@ -43,19 +43,19 @@ For this article, we invited six specialists from various fields to drive the ca
 
 <b><u>The Car We Waited So Long For</b></u>
 
-There can hardly have been another car that was promoted so extensively, and for so long, before its release. At last, the car we had waited and waited for has finally appeared.
+There can hardly have been another car that was promoted so extensively, and for so long, before its release. At last, the car we have waited and waited for has finally appeared.
 
-"You certainly kept us waiting a long time," I said, with a mixture of longing, expectation, excitement, and just a touch of resentment. The reply came without the slightest embarrassment, and with every sign of confidence: "Thank you for the wait--all six years of it." That alone was enough to put my mind at ease.
+"You certainly kept us waiting a long time," I said, feeling a mix of longing, expectation, excitement, and just a touch of resentment. "Sorry to have kept you waiting—for six years," came the reply, without the slightest embarrassment, and with every sign of confidence. That was enough to put my mind at ease.
 
 Then, as I heard one story after another of the hardships it had endured during those six years, I could only repeat, with sympathy and admiration, "I see, I see. You certainly had a difficult time. And yet you've grown up so splendidly."
 
-But sentimentality has no place in a road test, so I made a conscious effort to remain calm as I climbed aboard, casting the same slightly critical eye over the car as always.
+But sentimentality has no place in a road test, so I made a conscious effort to remain objective as I climbed aboard, casting the same slightly critical eye over the car as always.
 
-The Cosmo is an exceptionally low car, and the driver's eyepoint is correspondingly low, but because the hood is also low, forward visibility is good. After sliding the seat into a position that placed my feet comfortably on the pedals, I noticed that the gear lever was a little too close, requiring me to bend my left elbow quite sharply.
+The Cosmo is an exceptionally low car, with a low driver's eyepoint, but because the hood is also low, forward visibility is good. After sliding the seat into a position that placed my feet comfortably on the pedals, I noticed that the gear lever was a little too close, requiring me to bend my left elbow quite sharply.
 
-One distinctive feature is the adjustable steering wheel, but changing its position does nothing to alter the relationship with the gear lever.
+One distinctive feature is the adjustable steering wheel, but changing its position does nothing to alter one's relationship to the gear lever.
 
-I started the engine, but there was nothing particularly unusual about its sound. Vibration seemed slight. I selected a gear, then reached to release the parking brake--and was somewhat startled.
+I started the engine, and found nothing particularly unusual about its sound. Vibration was only slight. I put it into gear, then reached to release the parking brake--and was somewhat startled.
 
 The brake lever is so massive that it seems out of place in the stylish interior. It felt as though I were gripping the brake lever of a large truck, or perhaps that of a winch used on a construction site.
 
@@ -65,23 +65,23 @@ The first thing I noticed after setting off was the remarkable initial accelerat
 
 The gear change is smooth as well, making for simply exhilarating acceleration.
 
-Once in top gear, I slowed down and was astonished by how well the engine pulled from low speeds. The car will keep running down to around 30km/h, and if the accelerator is pressed from there, it surges forward in one strong sweep of acceleration.
+Once in top gear, I slowed back down and was astonished by how well the engine could pull from low speeds. The car will keep running down to around 30km/h, and if the accelerator is pressed from there, it surges forward in one strong sweep of acceleration.
 
 This was a revelation. No conventional piston engine has offered anything quite like it. With maximum power at 7000rpm and maximum torque at 3500rpm, this can only be the result of exceptional engine flexibility.
 
 Here we find one of the great distinguishing characteristics of the rotary-engined car.
 
-While traveling at high speed, I suddenly closed the throttle and once again found myself thinking, "What's this?" There seemed to be remarkably little engine braking.
+While traveling at high speed, I closed the throttle abruptly and once again found myself thinking, "What's this?" There seemed to be remarkably little engine braking.
 
 Rather like a car with a two-stroke engine, the Cosmo simply glides along when the throttle is closed. Yet, as one would expect, engine vibration and noise are remarkably low. It is both exceptionally quiet and exceptionally smooth.
 
-As I increased speed, a tremendous rush of wind noise suddenly began around the left-hand quarter window at about 70km/h. Closing the quarter window stopped it, but opening it caused the noise to return.
+As I increased speed, a tremendous rush of wind noise suddenly appeared around the left-hand quarter window at about 70km/h. Closing the quarter window stopped it, but opening it caused the noise to return.
 
 When I tried changing lanes at high speed, the steering felt extremely light, giving the car a slightly unsettled feeling. I experienced this two or three times, but there was no opportunity to investigate it fully on public roads.
 
 <b><u>To Have Come This Far...</b></u>
 
-Admittedly, the wind was extremely strong that day, and our route was on an elevated expressway, so both the wind noise and the slight wavering of the steering may have been due to those conditions.
+Admittedly, the wind was extremely strong that day, and our route was on an elevated expressway, so both the wind noise and the slight wavering of the steering may have been due to the conditions.
 
 It is difficult to reach any firm conclusions from such a short drive, but as a car, the Cosmo may have two or three minor points open to criticism. As for the rotary engine itself, however, it deserves virtually nothing but praise. In fact, I had never expected it to be this good.
 
@@ -89,13 +89,13 @@ The manufacturer also appears to have complete confidence on the question of dur
 
 I have the deepest respect for Toyo Kogyo's achievement in developing the rotary engine to such an impressive level.
 
-Even so, I do not believe that every problem has been 100% solved. Looking at it with a slightly more critical eye, one might ask, for example, about fuel economy. Conventional wisdom has always regarded durability as the great question surrounding the rotary engine, but perhaps that hurdle has already been overcome, leaving difficulties in a more practical and equally important area such as fuel consumption.
+Even so, I do not believe that every problem has been 100% solved. Looking at it with a slightly more critical eye, one might ask, for example, about fuel economy. Conventional wisdom has always regarded durability as the great question surrounding the rotary engine, but perhaps that hurdle has already been overcome, leaving difficulties in more practical and equally important areas such as fuel consumption.
 
 This is no more than irresponsible armchair speculation arising from a simple question in the author's mind, and I sincerely hope that my suspicions prove misplaced...
 
 Through Toyo Kogyo's extraordinary efforts, the much-discussed rotary engine has, for the time being, achieved success. It has reached such a degree of refinement that no shortcomings could be found during a brief test drive.
 
-Production is now a reality. This is probably the most advanced rotary engine anywhere in the world today. Yet it has only just emerged from the experimental research stage and has not yet fully become an "engine of today." It remains, for now, an "engine of tomorrow."
+Production is now a reality. This is probably the most advanced rotary engine anywhere in the world today. Yet it has only just emerged from the experimental research stage and has not yet fully become an "engine of today." For now, it remains an "engine of tomorrow."
 
 Whether it can eventually be installed in passenger cars produced by the tens of thousands each month, and thereby become fully an "engine of today," is something that only the future will decide. Indeed, the real challenge may only now be beginning.
 
@@ -107,13 +107,13 @@ Whether it can eventually be installed in passenger cars produced by the tens of
 
 <b><u>The Noise Has Disappeared</b></u>
 
-It was quite some time ago, I think, that I first felt that I wanted to drive the Cosmo. Back when five or so prototypes had been built, I was given a ride around the small test course at the Hiroshima factory while being told, "President Matsuda himself sometimes drives one of these prototypes between Hiroshima and Tokyo."
+It has been quite some time, I think, since I first felt that I wanted to drive the Cosmo. Back when five or so prototypes had been built, I was given a ride around the small test course at the Hiroshima factory while being told, "President Matsuda himself sometimes drives one of these prototypes between Hiroshima and Tokyo."
 
-The body styling was almost identical to that of the car I drove this time, but as we turned laps of the test course at an average speed of 80km/h, the thing that concerned me most was the sound of the engine.
+The body styling was almost identical to that of the car I drove this time, but as we turned laps of the test course at an average speed of 80km/h, what struck me most was the sound of the engine.
 
-The question that remained in my mind from then until now was simply this: does a rotary engine really have to make so much noise in order to run?
+The question that remained in my mind from then until now was, "does a rotary engine really have to make so much noise?"
 
-Three years have passed since then, and when I drove the car this time, all that noise had completely disappeared. When I mentioned this to Kaoru Natsukawa, who was riding with me, it seemed that I was the only one who remembered it that way.
+Three years have passed since then, and when I drove the car this time, all the noise had completely disappeared. When I mentioned this to Kaoru Natsukawa, who was riding with me, it seemed I was alone in thinking so.
 
 The Cosmos displayed at the Tokyo Motor Show over the past two or three years benefited from the experience gained with several dozen evaluation cars, and Toyo Kogyo seems to have listened openly to the various requests and comments from their drivers. This perhaps reflected both the caution and the confidence with which the company approached the development of this revolutionary engine.
 
@@ -131,9 +131,9 @@ Since my impressions are based on no more than a round trip along the expressway
 
 My main interest, naturally, was in the rotary engine. What would it feel like to drive a car powered by this new kind of engine, with a piston moving in a circular motion, completely unlike the reciprocating pistons of a conventional engine?
 
-Natsukawa drove to Haneda while I rode as a passenger, and I drove on the return journey. Taking both experiences together, my impression--much as it was with a Luce I drove previously--is that Toyo Kogyo's cars have a distinctly family-car character.
+Natsukawa drove to Haneda while I rode as a passenger, and I drove on the return trip. Taking both experiences together, my impression--much as it was with a Luce I drove previously--is that Toyo Kogyo's cars have a distinctly family-car character.
 
-You simply slip into the car, take hold of the wheel, press the accelerator, and drive away. It may sound unremarkable, but there is something strikingly effortless and natural about the whole experience. This rotary-engined car, too, has the reassuring familiarity of an entirely conventional model, and is immediately easy to feel comfortable with.
+You simply get into the car, grab hold of the wheel, press the accelerator, and drive away. It may sound unremarkable, but there is something strikingly effortless and natural about the whole experience. This rotary-engined car, too, has the reassuring familiarity of a conventional car, and is immediately easy to feel comfortable with.
 
 Press the accelerator, and through the sole of your foot you can feel the rotary's smoothness, distinctly different from that of a reciprocating engine.
 
@@ -367,7 +367,7 @@ The first thing that impressed me when I sat in the driver's seat was how though
 
 For example, the water-temperature and oil-temperature gauges are grouped together at the upper right, while the tachometer and speedometer are positioned where they can be read with exceptional ease.
 
-By contrast, an item like the clock is placed at the far left. The overall layout is clearly determined by the relative importance of each instrument. The driving position is excellent, visibility is expansive, and the provision of a footrest is the kind of thoughtful touch that almost makes one envious of the designers.
+By contrast, items like the clock are placed at the far left. The overall layout is clearly determined by the relative importance of each instrument. The driving position is excellent, visibility is expansive, and the provision of a footrest is the kind of thoughtful touch that almost makes one envious of the designers.
 
 <b><u>A Sports Car That Whispers</b></u>
 
