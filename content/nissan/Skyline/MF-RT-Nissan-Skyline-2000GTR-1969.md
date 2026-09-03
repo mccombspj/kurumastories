@@ -45,7 +45,7 @@ The bore and stroke remain the same as the R380 at 82mm × 62.8mm, but the compr
 
 <b>Okamoto:</b> A prototype, by definition, is a kind of testbed that is ultimately intended to lead to mass production, so naturally that was part of the plan from the beginning.
 
-<b>Hirao:</b> Then I suppose you’ve fulfilled that promise. Around the time the car was completed, I remember hearing discussions along the lines of, “What if it can’t be brought into production within two or three years?” It seems that issue has been resolved (laughs). Also, the way it’s described as having reduced performance--rather than saying the performance was lowered, it might be more accurate to say it has been adapted for general driving use. In that sense, even the term “detuned” feels a bit off. Perhaps something like “adaptive tuning” would be a better way to put it.
+<b>Hirao:</b> Then I suppose you’ve fulfilled that promise. Around the time the car was completed, I remember hearing discussions along the lines of, “What if it can’t be brought into production within two or three years?” It seems that issue has been resolved (laughs). Also, the way it’s described as having reduced performance--rather than saying the performance was lowered, it might be more accurate to say it has been adapted for general driving use. In that sense, even the term “detuned” doesn't seem quite right. Perhaps something like “adaptive tuning” would be a better way to put it.
 
 <b>Magazine:</b> You mentioned earlier that this is a sports car that prioritizes performance over styling, but it does seem to have been developed with racing quite strongly in mind…
 
@@ -65,9 +65,9 @@ The bore and stroke remain the same as the R380 at 82mm × 62.8mm, but the compr
 
 <b>Okamoto:</b> That may also have to do with the difference between carburetors and fuel injection. The Skyline uses triple carburetors, and a single-stage setup at that, so trying to achieve the ideal fuel ratio between maximum and minimum engine speeds becomes an issue. With carburetors alone, it’s difficult to fully cover such a wide operating range.
 
-<b>Narue:</b> When a machine is made as a commercial product, ease of use--also in terms of its image--becomes very important from a sales standpoint. Saying that it can run slowly in top gear is a simple way of expressing that, and it certainly adds to the car’s appeal.
+<b>Narue:</b> When a machine is commercialized, ease of use--also in terms of its image--becomes very important from a sales standpoint. Saying that it can run slowly in top gear is a simple way of expressing that, and it certainly adds to the car’s appeal.
 
-<b>Watari:</b> In practice, if you’re just trundling along in top gear, you’ll eventually have to shift down anyway. In those situations, it’s better to use one gear lower—you can accelerate without shifting. But the question is which approach people prefer.
+<b>Watari:</b> In practice, if you’re just ambling along in top gear, you’ll eventually have to shift down anyway. In those situations, it’s better to use one gear lower—you can accelerate without shifting. But the question is which approach people prefer.
 
 <b>Narue:</b> Ideally, the owner’s manual should probably state that it’s better to drop down a gear in those cases…
 
@@ -153,7 +153,7 @@ In terms of time to speed, it took 2.9 seconds to reach 40km/h, 4.4 seconds to r
 
 <b>Hirao:</b> Well, in this day and age, we have to talk about speed in terms of safety anyway (laughs).
 
-<b>Magazine:</b> This 0–400 m time of 15.6 seconds--is it repeatable in the company's in-house testing?
+<b>Magazine:</b> This 0–400m time of 15.6 seconds--is it repeatable in the company's in-house testing?
 
 <b>Tanaka:</b> Yes, the 15-second range is achievable consistently.
 
@@ -183,7 +183,7 @@ In terms of time to speed, it took 2.9 seconds to reach 40km/h, 4.4 seconds to r
 
 <b>Watari:</b> I think there could be a way to hold the hips in place without raising the sides so much, but it might make getting in and out trickier.
 
-<b>Tanaka:</b> We focused more on supporting the body once seated than on ease of entry. The current shape is actually lower than our original plan, to make getting in and out easier. Ideally we’d make the side bolsters even higher.
+<b>Tanaka:</b> We focused more on supporting the body once seated than on ease of entry. The current shape is actually lower than we originally planned, to make getting in and out easier. Ideally we’d make the side bolsters even higher.
 
 <b>Hoshijima:</b> I think it would be nice to have support around the driver’s knees too.
 
@@ -203,9 +203,9 @@ In terms of interior noise, it was measured at 67 phons from 40-50km/h, 68 phons
 
 <b>Watari:</b> One notable feature of the interior noise is that, unlike in ordinary cars, the relationship to speed is relatively flat. So even if it seems loud at low speeds, it gives the impression of becoming quieter as speed increases. There are some peaks here and there, though, and at 40km/h in top gear it's a bit noisy for relaxed city driving.
 
-<b>Magazine:</b> For a car like this, we wouldn’t expect many complaints about sound or ride quality, but how did it feel during the test drive?
+<b>Magazine:</b> For a car like this, we wouldn’t expect many complaints about noise or ride quality, but how did it feel during the test drive?
 
-<b>Kumabe:</b> Considering why this car was built, a little extra noise is acceptable. In fact, by reducing sound insulation to save weight, the slightly louder sound could even be seen as a point of pride.
+<b>Kumabe:</b> Considering why this car was built, a little extra noise is acceptable. In fact, with the sound insulation being reduced to save weight, the slightly louder sound could even be seen as a point of pride.
 
 <b>Tanaka:</b> I wouldn’t say we're proud of it (laughs). I think it’s quieter than a Porsche, and among this type of car, it’s actually on the quieter side.
 
