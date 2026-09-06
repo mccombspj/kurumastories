@@ -71,7 +71,7 @@ Perhaps the changes were judged too modest to justify gathering the press for a 
 
 In any case, the most noteworthy development was the addition of 5-speed transmission models. Beyond that, the revisions amounted mainly to refreshed front-end styling and changes to various badges and emblems.
 
-The positioning of the 5-speed models within the lineup is as follows: the 14L Series has gained the SL-5, while the 16L Series received the GS-5 sedan and the GL-5 and GS-5 hardtops. All went on sale September 1.
+The positioning of the 5-speed models within the lineup is as follows: the 14L series has gained the SL-5, while the 16L series received the GS-5 sedan and the GL-5 and GS-5 hardtops. All went on sale September 1.
 
 These additions further strengthened the breadth of the Galant range. With 14L and 16L sedans and hardtops, plus the GTO, FTO, and Estate V, Mitsubishi now offered a complete model line, and cumulative sales have reportedly surpassed 300,000 units.
 

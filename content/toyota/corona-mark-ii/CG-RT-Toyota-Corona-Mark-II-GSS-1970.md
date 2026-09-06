@@ -16,14 +16,15 @@ draft = false
 <b>Date:</b> January 1970<br>
 <b>Author:</b> "C/G Test Group" (uncredited)
 
-<b>Summary:</b> 140ps twin-cam engine, smooth and relatively quiet up to 7000+rpm, extremely high cruising speed, good flexibility at low rpm, sturdy 5-speed gearbox that is comfortable to use even in the city, radial tires give great cornering power, comfortable bucket seats, slightly rough ride from the rear suspension.
+<b>Summary:</b> 140ps twin-cam engine, smooth and relatively quiet beyond 7000rpm. Extremely high cruising speed. Pulls well at low engine speeds, easy to use around town. Pleasant 5-speed gearbox. Radial tires provide high cornering power. Comfortable bucket seats. Rear-seat ride somewhat harsh.
+
 
 
 <b><u>Road testing the Toyota Corona Mark II GSS</b></u>
 
 The twin-cam engine version of the Corona Mark II, which has long been awaited by many, has now made its debut under the name 1900 Hardtop GSS (Grand Super Sports), and went on sale on October 15 at a price of 1,055,000 yen (Tokyo). C/G promptly undertook a test covering approximately 700km of driving, including accurate top-speed measurements at the Yatabe Test Course as well as handling tests at the Japan Auto Sports Center. Our test report follows.
 
-The GSS (internal designation RT75-M) combines a body essentially identical to that of the existing 1900 Hardtop SL (RT72-S) with a new DOHC 1858cc engine, making it the hottest Mark II yet. It can fairly be described as carrying on the revered lineage of the Toyota 1600GT (RT55/55-M), which dominated touring-car racing through the first half of 1969.
+The GSS (internal designation RT75-M) combines a body essentially identical to that of the existing 1900 Hardtop SL (RT72-S) with a new DOHC 1858cc engine, making it the hottest Mark II yet. It can fairly be described as carrying on the illustrious tradition of the Toyota 1600GT (RT55/55-M), which dominated touring-car racing through the first half of 1969.
 
 Before turning to the road test, let us begin by outlining the differences between the Mark II GSS and the conventional SL. The new 10R engine uses the same 1858cc cylinder block as the 1900SL's 8R-B, with almost no modifications (four new 5mm water holes were added to improve cooling around the exhaust valves in the cylinder head, and the oil level gauge was moved to the other side as it interfered with the twin Solex carburetors). The cylinder head is an all-new DOHC design made of die-cast aluminum alloy that incorporates a great deal of experience gained from the RT55's 9R engine (which was, of course, also DOHC). 
 
