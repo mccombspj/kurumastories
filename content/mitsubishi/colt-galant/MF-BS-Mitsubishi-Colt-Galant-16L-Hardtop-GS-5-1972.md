@@ -123,7 +123,7 @@ The Galant's quick steering and sharp responses make it fully capable of genuine
 
 <b><u>Handling and Stability: Excellent Directional Stability and Straight-Line Tracking</b></u> <i>(Katsuzo Kageyama)</i>
 
-The 5-speed transmission is the headline feature of this model, but one detail immediately stands out when compared with the existing 4-speed version. Although both belong to the 16L Series, the shift pattern places reverse gear in the complete opposite position. One can understand that this was dictated by the internal design of the transmission, but from the driver's perspective it is something that ought to be standardized as soon as possible.
+The 5-speed transmission is the headline feature of this model, but one detail immediately stands out when compared with the existing 4-speed version. Although both belong to the 16L series, the shift pattern places reverse gear in the complete opposite position. One can understand that this was dictated by the internal design of the transmission, but from the driver's perspective it is something that ought to be standardized as soon as possible.
 
 The reverse-lockout mechanism, which requires the shift lever to be pushed down before engaging reverse, also proved troublesome. Perhaps the transmission was simply too new to have loosened up, but selecting reverse required an inordinate amount of effort every time.
 
@@ -131,13 +131,13 @@ I have commented on the tilt steering wheel before, but its greatest virtue seem
 
 The various switches and controls are thoughtfully arranged and easy to operate. My only complaints concern the somewhat heavy window regulators and the fact that both the speedometer and tachometer are rectangular rather than round. From a functional standpoint, this is difficult to rationalize.
 
-The steering initially feels surprisingly light, enough to raise doubts about high-speed stability. Yet once out on the expressway and changing lanes at speed, it inspires complete confidence. On the winding roads around Hakone, the steering gains reassuring weight as cornering forces build, making the car exceptionally easy to place. Steering effort and self-centering characteristics are excellent at both low and high speeds, while friction within the steering system is minimal.
+The steering initially feels surprisingly light, enough to raise doubts about high-speed stability. Yet once out on the expressway and changing lanes at speed, it inspires complete confidence. On the winding roads around Hakone, the steering builds reassuring weight as cornering forces build, making the car exceptionally easy to place. Steering effort and self-centering characteristics are excellent at both low and high speeds, while friction in the steering is minimal.
 
 Hands-off stability at high speed is superb, and the car settles cleanly without any tendency to wander. Body roll is relatively well controlled, and the Galant feels remarkably well-developed and easy to drive overall.
 
-The hardtop body style itself gives a clue to this car's intended character. Surrounded by a richly appointed interior, it is designed for drivers who want to enjoy a luxurious mood, seasoned with a touch of style and just a hint of sporting flavor.
+The hardtop body style itself gives a clue to this car's intended character. Surrounded by a richly appointed interior, it is designed for drivers who want to enjoy a luxurious mood, with an added touch of style and just a hint of sporting flavor.
 
-Its pronounced understeer, excellent directional stability, strong straight-line tracking, and light steering around center all suit that mission perfectly. Judged against what the car appears to be trying to achieve, there is very little to criticize.
+Its pronounced understeer, excellent directional stability, strong straight-line tracking, and light steering around the straight-ahead all suit that mission perfectly. Judged against what the car appears to be trying to achieve, there is very little to criticize.
 
 If one were determined to find fault, it would be that the front tires squeal too easily in corners. This is related to the car's strong understeer, and anyone intending to drive more aggressively would naturally want to pay careful attention to tire selection.
 
@@ -151,21 +151,21 @@ A 5-speed craze is sweeping through the Japanese auto industry, and the Galant h
 
 The Galant, powered by Mitsubishi's free-revving Saturn engine, has long ranked among the easiest domestic cars to drive. The GS-5 pairs that familiar hardtop GS package with a newly introduced 5-speed transmission.
 
-This gearbox employs closely spaced third, fourth, and fifth gears, combined with a final-drive ratio of 4.222. As a result, it offers more finely graduated gearing at higher speeds than the previous 4-speed unit. Fifth gear is an overdrive ratio (0.854:1), which should bring benefits in both cruising refinement and fuel economy.
+This gearbox uses closely spaced third, fourth, and fifth gears, combined with a final-drive ratio of 4.222. As a result, it offers more finely graduated gearing at higher speeds than the previous 4-speed unit. Fifth gear is an overdrive ratio (0.854:1), which should bring benefits in both cruising refinement and fuel economy.
 
 Even so, the appeal of the 5-speed seems to be as much a matter of atmosphere as of function.
 
-Previous GS models used twin SU carburetors, but the GS-5 adopts twin Stromberg carburetors instead. The change was presumably made in the interest of reducing exhaust emissions. If cleaner emissions can be achieved without sacrificing output, so much the better. Still, I could not help feeling that a degree of sharpness had been lost. Even so, the engine remains as eager to rev as ever, and whether it is paired with a 4-speed or a 5-speed transmission hardly seems to matter.
+Previous GS models used twin SU carburetors, but the GS-5 uses twin Stromberg carburetors instead. The change was presumably made in the interest of reducing exhaust emissions. If cleaner emissions can be achieved without sacrificing output, so much the better. Still, I could not help feeling that a degree of sharpness had been lost. Even so, the engine remains as eager to rev as always, and whether it is paired with a 4-speed or a 5-speed transmission hardly seems to matter.
 
 Nor has it become any quieter.
 
 From around 3500rpm onward, it takes on a distinct high-pitched note. It is a sound with plenty of character--perhaps rather more character than necessary.
 
-Even with the accompanying noise, the GS-5 comes alive on winding roads, where its ease of control and well-judged balance are immediately apparent. Yet one wonders whether the chassis is a little too soft for a car bearing the "Grand Sport" designation.
+Even with the accompanying noise, the GS-5 comes alive on winding roads, where its ease of control and well-judged balance are immediately apparent. Yet one wonders whether the chassis is a little too soft for a car bearing the name "Grand Sport."
 
 Comfort is certainly good, but a car of this type ought to inspire confidence through a firmer suspension setup. If it could achieve that without sacrificing ride quality, so much the better.
 
-The sleek hardtop profile inevitably imposes limitations on interior space. Yet given Japanese traffic conditions and the average physique of Japanese drivers, this size is probably a reasonable compromise. Indeed, its manageable dimensions undoubtedly contribute to the car's ease of use.
+The sleek hardtop profile inevitably places limits on interior space. Yet given Japanese traffic conditions and the average physique of Japanese drivers, this size is probably a reasonable compromise. Indeed, its manageable dimensions undoubtedly contribute to the car's ease of use.
 
 That said, rear-seat headroom remains insufficient. At a time when newer hardtops and coupes are showing considerable ingenuity in accommodating rear passengers, one would like to see the Galant do the same.
 
@@ -229,15 +229,15 @@ One final consideration concerns ownership costs. Because the 1600cc engine fall
 
 <b><u>Product Appeal: I Cannot Agree with the Philosophy of the 5-Speed</b></u> <i>(Kensuke Ishizu)</i>
 
-I own and regularly drive a Mercedes-Benz 250CE. Naturally, it is equipped with an automatic transmission. My long-held belief is that automobiles ought to be automatic.
+I own and regularly drive a Mercedes-Benz 250CE. Naturally, it is equipped with an automatic transmission. My long-held belief is that cars ought to be automatic.
 
 That is not to say I fail to understand the appeal of shifting gears for one's own enjoyment. Recently, however, Japanese manufacturers have been adding 5-speed transmissions to their lineups almost indiscriminately.
 
 The Galant has now joined the trend.
 
-After driving it, I found myself pondering the purpose and rationale behind the move to 5-speeds, yet I remain unconvinced.
+After driving it, I found myself thinking about the purpose and rationale behind the move to 5-speeds, but I remain unconvinced.
 
-Mitsubishi promotes the advantages of the 5-speed by claiming that it lowers engine speed during high-speed driving, improves fuel economy, and provides a quieter driving experience.
+Mitsubishi promotes the advantages of the 5-speed by claiming that it lowers engine speed during high-speed driving, improves fuel economy, and is quieter.
 
 To my mind, however, this amounts to little more than a deception of the customer.
 
@@ -245,7 +245,7 @@ Manufacturers speak of "high-speed driving" and "expressway cruising," but does 
 
 Even on the Tomei or Meishin Expressways, the legal speed limit remains 100km/h. As I mentioned in the September issue of this magazine, I myself was caught speeding by an unmarked police car on the Tomei. At 100km/h, can one honestly speak of "high speed?" To me, the term does not truly begin to apply until somewhere around 200km/h.
 
-I recently returned from driving on Germany's Autobahn and Italy's Autostrada del Sole. Traffic there flowed comfortably at 130-150km/h. On the Autobahn, I cruised at 200km/h in a Mercedes-Benz 280. That was possible because three conditions existed: first, the cars themselves possessed the necessary performance; second, the roads were smooth and free of significant irregularities; and third, driver discipline was rigorously observed.
+I recently returned from driving on Germany's Autobahn and Italy's Autostrada del Sole. Traffic there flowed comfortably at 130-150km/h. On the Autobahn, I cruised at 200km/h in a Mercedes-Benz 280. That was possible because three conditions existed: first, the cars themselves had the necessary performance; second, the roads were smooth and free of significant irregularities; and third, driver discipline was rigorously observed.
 
 Unfortunately, Japan still lacks all three of those conditions, and is likely to continue lacking them for some time. Several of my reservations regarding the very existence of 5-speed passenger cars stem from precisely these domestic realities.
 
@@ -255,7 +255,7 @@ But this sort of cosmetic touch-up is little more than applying false eyelashes.
 
 Too often today, excessive attention is devoted to outward appearance while the substance underneath remains unchanged.
 
-Nor do I find much appeal in the notion that an owner should derive a sense of superiority merely from being able to say, "Mine is the latest." Such satisfaction strikes me as rather petty.
+Nor do I find the idea very appealing that an owner should derive a sense of superiority merely from being able to say, "Mine is the newest." Such satisfaction strikes me as quite petty.
 
 We often hear that consumer power is becoming increasingly influential, and that manufacturers must build products according to consumer preferences. I disagree. If companies wait for consumers to tell them what they want before creating products, genuine progress becomes impossible.
 
@@ -263,7 +263,7 @@ What matters is that manufacturers approach their work seriously, honestly, and 
 
 In conclusion, I believe the GS-5 is, as a sporting sedan, a fundamentally well-developed automobile.
 
-The one question that remained with me throughout the test was the value of the 5-speed transmission itself. Given the convictions I expressed at the outset, I simply cannot endorse the philosophy behind the 5-speed passenger car. For that reason, my assessment of the car's product appeal was rather strict.
+The one question that remained with me throughout the test was the value of the 5-speed transmission itself. Given the convictions I expressed at the outset, I simply cannot endorse the philosophy behind the 5-speed passenger car. For that reason, I was rather strict in my assessment of the car's product appeal.
 
 <i>"An honor student lacking a distinct personality—though, if one point deserves recognition, it is the serious commitment to emissions reduction in the engine." — Oguchi</i>
 
