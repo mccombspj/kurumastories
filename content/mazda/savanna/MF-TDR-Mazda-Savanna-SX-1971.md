@@ -56,7 +56,7 @@ The basic coupe body is cleanly styled and free from obvious faults, but the col
 
 The other feature I wish Mazda had simplified, along with the dummy grille, is the decorative panel surrounding the taillights. I would prefer either to see it removed altogether or, at the very least, left unpainted. As it is, it calls to mind a lizard that has just lost its tail.
 
-The Coupe SX sells for exactly the same price as the equivalent RX sedan. In a market where a stylish body normally commands a substantial premium, this strikes me as a refreshingly straightforward approach.
+The Coupe SX sells for exactly the same price as the equivalent RX sedan. In a market where a stylish body normally commands a substantial premium, this strikes me as a refreshingly honest approach.
 
 Note: George Barris is an American custom-car designer based in Hollywood. Known for his extensive use of scoops and ducts, he has exerted considerable influence even on Detroit styling.
 

@@ -263,7 +263,7 @@ draft = false
 
 
 
-Just after we had fully enjoyed testing the Works Rally Lancer for our Road Test (see the August issue), Mitsubishi released a hot twin-carb Lancer onto the market. Without hesitation, we contacted Mitsubishi and arranged to borrow a pale metallic green Lancer 1600GSR. 
+Just after we had fully enjoyed testing the Works Rally Lancer for our Road Test (see the August issue), Mitsubishi released a hot twin-carb Lancer onto the market. Without delay, we contacted Mitsubishi and arranged to borrow a pale metallic green Lancer 1600GSR. 
 
 In an era flooded with over-decorated domestic cars, the Lancer’s neat, understated bodywork is immediately refreshing. Against the early-autumn landscapes of Izu and Hakone, the Lancer fits perfectly; it is light and sprightly, reminiscent of an Escort in its agility.
 

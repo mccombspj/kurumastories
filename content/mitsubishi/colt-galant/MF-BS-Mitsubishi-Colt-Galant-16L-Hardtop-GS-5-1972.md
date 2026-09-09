@@ -91,7 +91,7 @@ Professor Kageyama, who evaluated handling and stability, also remarked:
 
 Associate Professor Oguchi, responsible for the safety evaluation, was equally complimentary:
 
-"Above all, the car combines a natural, straightforward driving feel with a welcome sense of strength. These qualities may not contribute directly to safety, but they certainly encourage safe driving in a subtle and reassuring way."
+"Above all, the car combines a natural, honest driving feel with a welcome sense of strength. These qualities may not contribute directly to safety, but they certainly encourage safe driving in a subtle and reassuring way."
 
 The details of those impressions are best explored in the reports from each of our specialists that follow.
 
@@ -189,7 +189,7 @@ The steering wheel itself is relatively thin-rimmed, evidently to reduce rotatio
 
 That reservation aside, the steering system is admirable in the way it incorporates a variable-ratio mechanism without introducing any sense of artificiality. Steering effort while stationary may seem a little heavy for a variable-ratio setup, but if the goal was to optimize steering feel while underway, then perhaps this is the ideal compromise.
 
-In any case, the car combines a natural, straightforward driving character with a reassuring sense of strength. While these qualities do not contribute directly to safety, they nevertheless promote safe driving in a subtle but meaningful way.
+In any case, the car combines a natural, honest driving character with a reassuring sense of strength. While these qualities do not contribute directly to safety, they nevertheless promote safe driving in a subtle but meaningful way.
 
 Another aspect of the car's ease of operation is the quality of its braking performance.
 
