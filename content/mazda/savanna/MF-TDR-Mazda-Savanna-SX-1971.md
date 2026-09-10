@@ -58,17 +58,17 @@ The other feature I wish Mazda had simplified, along with the dummy grille, is t
 
 The Coupe SX sells for exactly the same price as the equivalent RX sedan. In a market where a stylish body normally commands a substantial premium, this strikes me as a refreshingly honest approach.
 
-Note: George Barris is an American custom-car designer based in Hollywood. Known for his extensive use of scoops and ducts, he has exerted considerable influence even on Detroit styling.
+(Note: George Barris is an American custom-car designer based in Hollywood. Known for his extensive use of scoops and ducts, he has exerted considerable influence even on Detroit styling.)
 
 Black is not always beautiful. The interior of our Espas Blue Coupe SX was finished entirely in black, apart from the subdued reddish tone of the thin, semi-carpet material known as "Arachne." I find the T-shaped dashboard of the Familia Presto Rotary considerably more distinctive.
 
-By comparison, the Savanna's dashboard has ended up looking rather conventional. Removing the chrome-effect surrounds from the two large gauges directly ahead of the driver was undoubtedly the right decision. On the SX, even the eyeball vents are finished in matte black.
+By comparison, the Savanna's dashboard has ended up looking rather plain. Removing the chrome-effect surrounds from the two large gauges directly ahead of the driver was undoubtedly the right decision. On the SX, even the eyeball vents are finished in matte black.
 
-On the other hand, chrome-effect trim has descended in force upon the auxiliary gauges, radio, and heater and ventilation controls in the center console, cluttering the otherwise functional layout. Personally, I feel the half-console used in the sedan models would have been more appropriate. The unfinished appearance of the stereo mounting panel at the base of the coupe's center console is particularly disappointing.
+On the other hand, chrome-effect trim has descended in force upon the auxiliary gauges, radio, and heater and ventilation controls in the center console, cluttering the otherwise functional design. Personally, I feel the half-console used in the sedan models would have been more appropriate. The unfinished appearance of the stereo mounting panel at the base of the coupe's center console is particularly disappointing.
 
-Mazda's arrangement of the lighting controls is one that any road tester, East or West, is sure to praise. The main lighting switch, together with the column-mounted stalk on the right that operates the headlamp dimmer, passing flasher, and wiper and washer functions, represents an exceptionally well-judged layout. Designers who insist on scattering switches across the dashboard for appearance's sake rather than functionality should take note.
+Mazda's arrangement of the lighting controls is one that any road tester, East or West, is sure to praise. The main lighting switch, together with the column-mounted stalk on the right that operates the headlamp dimmer, passing flasher, and wiper and washer functions, is an exceptionally well-judged layout. Designers who insist on scattering switches across the dashboard for appearance's sake rather than functionality should take note.
 
-The three-spoke plastic steering wheel has a decidedly inexpensive-looking rim, and I would have preferred it to be somewhat thicker in section. The horn buttons, recessed into the spokes, are well positioned, but they protrude too far. On several occasions I sounded the horn unintentionally simply through normal hand movements.
+The three-spoke plastic steering wheel has a decidedly cheap-looking rim, and I would have preferred it to be somewhat thicker. The horn buttons, recessed into the spokes, are well positioned, but they protrude too far. On several occasions I sounded the horn unintentionally simply through normal hand movements.
 
 Because the front wheel housings do not intrude into the passenger compartment, and because the body itself is relatively wide, there is generous foot room, allowing both legs to be stretched out comfortably. The seats are semi-bucket types with integrated head restraints. Personally, I still prefer adjustable head restraints. (At 176cm tall, an integral design tends either to press against my shoulders or end up serving only as a neck rest.) The seats are upholstered in vinyl, though buyers in this class are unlikely to complain. Even so, it is regrettable that cloth upholstery has disappeared altogether, even on the GS. (It survives only on the sedan GR.)
 
@@ -76,7 +76,7 @@ Because the front wheel housings do not intrude into the passenger compartment, 
 
 I've gone on at some length about minor complaints, but in truth, our drive began after dark, so the interior barely attracted my attention at all. As a car embodying what I call "unpretentious comfort," the Savanna satisfies those requirements more than adequately, while the performance of the revised twin-rotor 10A engine completely offsets any dissatisfaction one might feel over its equipment.
 
-As its designation suggests, this engine belongs to the Familia/Presto series, but detailed revisions to the intake, exhaust, and ignition systems have raised output to 105ps at 7000rpm and torque to 13.7kgm at 3500rpm.
+As its designation suggests, this engine belongs to the Familia/Presto series, but detail revisions to the intake, exhaust, and ignition systems have raised output to 105ps at 7000rpm and torque to 13.7kgm at 3500rpm.
 
 Like the Capella, it uses Mazda's honeycomb-shaped exhaust ports. Together with a larger-diameter exhaust system and the replacement of the three-stage silencer with a two-stage design, the high-pitched edge has disappeared from the exhaust note, leaving a far more pleasing sound. The progress Mazda has made with the rotary engine is remarkable. New apex seal materials and chrome-plated corner seals, among other improvements, are said to have further enhanced the durability for which Mazda's rotary engines have already earned an international reputation.
 
