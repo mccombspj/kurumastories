@@ -29,107 +29,113 @@ draft = false
 
 
 
-The Fairlady, the "giant of GT car racing," has undergone a full model change for the first time in seven years. How will the new high-performance Fairlady Z432 respond in city driving and at the Suzuka Circuit? The driver is Takatoshi Teranishi.
+<b><u>Takatoshi Teranishi Takes on Suzuka in the Fairlady Z432!</b></u>
 
-<b><u>Dynamic Driver and Machine</b></u>
+The Fairlady, the "champion of GT racing," has undergone its first model change in seven years. How will the hard-edged Z432 version of the new Fairlady respond on city streets and at Suzuka Circuit? The man at the wheel is “Tiger” Takatoshi Teranishi.
 
-"Wow, what an easy car to drive!" That was Takatoshi Teranishi's first impression from behind the wheel of the Fairlady Z432. Teranishi was driving the car for the first time on November 21st, in front of the Nissan Gallery in Osaka where he works.
+<b><u>A Dynamic Man and a Formidable Machine</b></u>
 
-The Fairlady Z432, equipped with the same S20 engine as the Skyline 2000GT-R, is the hottest mass-produced model in the new Fairlady Z line, which was recently introduced as the first full model change for the Fairlady in seven years. There is also a race-spec "Z432R," but this is essentially a made-to-order competition model.
+“Wow, this is an easy car to drive!”—that was Takatoshi Teranishi’s first impression. Teranishi first drove the Fairlady Z432 on November 21, in front of the Nissan Gallery in Osaka, where he works.
 
-The Fairlady Z, with a design based on experience in motorsports such as circuit racing and rallies, is more than just a luxury coupe. So, to see how much performance this new sports car could exhibit in its stock form, we decided to put its capabilities to the test at Suzuka Circuit. The person in charge of bringing out that performance was Takatoshi Teranishi.
+Powered by the S20 engine of the Skyline 2000GT-R, the Fairlady Z432 is the hottest production model in the new Fairlady range, which recently underwent its first full model change in seven years. There is also a racing version, the “Z432R,” but this is virtually built to order.
 
-Teranishi, born in September 1933, is now 36 years old. His driving style can be summed up in one word: dynamic. His drifting technique, which makes full use of countersteering, is among the best in the Japanese racing world. In 1968, he won many races in a white, blue-striped Fairlady 2000 (SR311) and dominated the All Japan Championship in the GT-II class.
+The Fairlady Z was designed from the outset with motorsports such as racing and rallying in mind. It is no mere "luxury coupe." So, we decided to take this new sports car to Suzuka Circuit and see just how much performance it could deliver in completely standard form. The man chosen to bring out that performance was Takatoshi Teranishi.
 
-Furthermore, he has a natural instinct for racing and a strong determination to win. In August of last year, he recorded an official lap time of 2 minutes and 37.2 seconds at Suzuka, and in October of the same year at Fuji (NET Speed Cup), he recorded a time of 2 minutes and 9.5 seconds during the race, which was an amazing time for a Fairlady, surpassing Nissan's factory drivers. It was around this time that he earned the nickname "Crazy Teranishi."
+Takatoshi Teranishi, born in September 1933, is 36 years old. His driving style can be summed up in one word: dynamic. His drifting technique, making full use of countersteer, is among the best in Japanese racing. In 1968, driving a Fairlady 2000 (SR311) with a white body and blue stripes, he won race after race to capture the GT-II class All-Japan Championship.
 
-As readers are well aware, he currently works as a sports consultant at the Nissan Gallery in Osaka, where he gives advice to customers about participating in motorsports, and also competes in races with a Skyline GT-R and a Fairlady 2000.
+Then there are his natural instinct for racing and his tenacity when victory is at stake—qualities that put him in a class of his own. At Suzuka in August two years ago, he recorded an official lap time of 2 minutes 37.2 seconds, and at Fuji that October, in the NET Speed Cup, he recorded 2 minutes 9.5 seconds during the race. For a Fairlady, these were astonishing times, surpassing even those of the factory drivers. It was around this time that he acquired the nickname “Crazy Teranishi.”
 
-Then we have the Fairlady Z432 itself. The old Fairlady has been the backbone of domestic sports car racing since the current Nissan Sports Club Chairman Hara Masaru won the Japanese Grand Prix in 1963. In the Z432, the Fairlady is equipped with the GT-R's inline six, DOHC, four-valve-per-cylinder, 160ps power plant.  Moreover, compared to the old model's front double wishbone, leaf spring rear suspension, the new model has been transformed by a four-wheel independent suspension, with struts and coil springs for all four wheels.
+Today, as readers will know, Teranishi works as a sports consultant at the aforementioned Nissan Gallery in Osaka, advising customers on motorsports-related matters, while continuing to compete in races with the Skyline GT-R and Fairlady 2000.
 
-The monocoque body that encases these features has a style that combines boldness and elegance, and the fastback tail has been cleanly cut off to reduce air resistance.
+And then there is the Fairlady Z432. Ever since Genichiro Tahara, now chairman of the Nissan Sports Car Club, drove the original Fairlady to victory in the first Japan Grand Prix in 1963, the model has formed the backbone of sports driving in Japan. Now it has been fitted with the GT-R’s formidable 160ps powerplant—an inline six-cylinder, DOHC engine with four valves per cylinder. The suspension, too, has been "transformed": where the old model used double wishbones at the front and leaf springs at the rear, the new car has independent strut suspension with coil springs at all four wheels.
 
-<b><u>Perfect City Running</b></u>
+All this is wrapped in a monocoque body with styling that combines a purposeful look with elegance. The fastback tail is sharply cut off, a shape intended to reduce aerodynamic drag.
 
-We met Teranishi at Nissan Gallery and started off for Suzuka Circuit. The Z432's clutch and steering had just the right amount of weight, and the sporting mood of the cockpit was superb. Teranishi was surprised at how spacious the interior was compared to the previous Fairlady. The foot space was quite large, and because it is a fastback, there was ample luggage space behind the seats.
+<b><u>Impeccable Around Town</b></u>
 
-"The visibility is expansive both in front and behind," offered Teranishi. The windscreen and rear liftgate window are quite large. The steering wheel is made of wood, and it is 38cm in diameter, a size smaller than the GT-R's 40.3cm, and the horn button is in the center pad. 
+Teranishi set off for Suzuka Circuit in the Z432. The clutch and steering have just the right amount of weight, giving the car a suitably sporting feel. Compared with the old model, Teranishi was surprised by the spaciousness of the interior. There is ample foot room, and thanks to the fastback body, there is plenty of luggage space behind the seats as well.
 
-Beyond that, two large gauges stand out in the depths of the thick crash pad. The speedometer on the right goes up to 240km/h, while the tachometer on the left has a yellow zone from 7000 to 7800rpm and a red zone above that, reading up to 10000rpm. 
+“And the visibility is excellent, both front and rear.” Both the windshield and the glass in the tailgate are quite large. The wood-grain steering wheel, at 38cm in diameter, is a size smaller than the GT-R’s 40.3cm wheel, with the horn button only in the center. 
 
-There are three small gauges lined up on top of the center console. The two on the right are split into upper and lower sections, housing four gauges: temperature, oil pressure, ammeter, and fuel, while the leftmost one is a clock with a stopwatch. Below that are map lights, heater controls, and a car stereo, and to the rear of the wooden shift lever are the choke and hand throttle levers, with the switches for the rear window defogger, parking lights, and so on just behind. All of these are labeled, so it's unlikely that you'll use the wrong control.
+Beyond it, two large gauges stand out in the depths of the thick crash pad. On the right is a speedometer reading to 240km/h, with a trip meter; on the left is a tachometer reading to 10000rpm, with a yellow zone from 7000-7800rpm and the red zone above that.
 
-We got onto the Hanshin Expressway from Osaka. Since it was rush hour, we continued to drive slowly all the way to the Toyonaka interchange on the Meishin Expressway. Probably because of the good carburetor settings, the torque is strong at low- and mid-range engine speeds, so the Z432 is easy to drive even in this kind of traffic. The flywheel seems to be larger than the GT-R's, which is nice under these conditions. The exhaust note is quieter, too.
+Three smaller gauges are arranged above the center console. The two on the right are divided into upper and lower sections, housing four readings: water temperature, oil pressure, ammeter, and fuel level. At the far left is a clock incorporating a stopwatch. Below these are the map light, heater controls, and a stereo car radio. Ahead of the wood-grain gearshift lever are the choke and hand-throttle levers, while behind it are the heated rear-window switch, parking-light switch, and other controls. All of these are labeled with pictograms, making it unlikely that any of the controls will be operated by mistake.
 
-On the Meishin Expressway, the Z432 carved effortlessly left and right through the shallow curves, and before I knew it, we had arrived at the Ekimae Interchange. The brakes are discs at the front and leading/trailing drums at the rear, and they are servo-assisted, so they were reliable and stopped the car firmly with normal pressure.
+We joined the Hanshin Expressway. It was rush hour, and the slow crawl continued all the way to the Toyonaka interchange of the Meishin Expressway.
 
-The turn-signal lever on the right side of the steering column doubles as the headlight dimmer switch, and at its tip is a push button for the hazard lights. The lever on the left side of the column headlight and wiper switches, and on its tip is a push button for the windshield washer. This is extremely convenient. In this type of car, where the driving position tends to be low with the driver's arms outstretched, it is often difficult to reach these kinds of secondary controls, but in this car, their layout has been well considered.
+“Maybe it’s because the carburetors are so well set up, but there’s plenty of low- and mid-range torque, so even in traffic like this it’s easy to drive. I wonder if they made the flywheel heavier, too. Compared with the GT-R, it’s outstanding. The exhaust note is quieter as well,” Teranishi observed.
 
-We got off at the Higashi Interchange and onto Route 1 heading for Suzuka. Along the way, the ride ofen picked up the evenly-spaced joints in the pavement. However, Teranishi commented, "compared to the previous Fairlady, it's no problem. It's only a little stiffer than the Bluebird. It's good that it's more comfortable, but with the rear coil springs, I wonder how it will perform on the circuit..." The ride comfort makes him look worried.
+Once on the Meishin Expressway, Teranishi guided the Z432 right and left, and in what seemed no time at all we had reached the Ritto interchange. The brakes use discs at the front and leading-trailing drums at the rear, with servo assistance. They proved highly dependable, providing firm braking with normal pedal pressure.
 
-<b><u>Lap Time is 2 Minutes, 55 Seconds</b></u>
+The turn-signal lever on the right side of the steering column also incorporates the headlight dimmer switch, with a push button for flashing the headlights at its tip. The lever on the left combines the parking-light and headlight switches, the wiper switch, and, at its outer end, a push button for the windshield washer. This arrangement is extremely easy to use. In a car of this type, where the seat is set back and the driver adopts a straight-arm driving position, reaching the switches can often be a problem, but in this respect the Z432 has been particularly well thought out.
 
-During the Suzuka session, Teranishi donned his racing suit and set the tire pressures to 2.8kg front, 2.5kg rear. The tires were Bridgestone Super Speed S, a low-profile high-speed bias-ply tire, rather than radial. The size was 6.95-14-4PR. 
+From the Ritto interchange we turned onto National Route 1 and headed for Suzuka. Along the way, the suspension picked up the regularly spaced joints in the pavement quite noticeably. Teranishi, however, said, “Compared with the old Fairlady, it’s so much better there’s really no comparison. It’s only a little firmer than a Bluebird. A soft ride is fine, but with coil springs at the rear, I wonder how it's going to be on the circuit....” Despite the good ride, he looked almost concerned.
 
-Standard Fairlady models such as the Z and Z-L (with single OHC) use the same type of tire, but the size is 6.45-14-4PR, with a narrower tread width. 
+<b><u>A 2 Minute 55 Second Lap!</b></u>
 
-When it comes to tires, the term "high speed" refers to the ability to run continuously at speeds of 175km/h or more, and for these tires, the maximum permissible speed is 200 to 210km/h. The tread pattern was previously only used in Mercedes-Benz products, so in this sense it can be said to have been developed specifically for the Z432. The wheels are 5J steel rims for the 2.0-liter Fairlady Z models, and 5J magnesium rims for the Z432. 
+Morning at Suzuka. Teranishi put on his racing suit and set the Fairlady’s tire pressures to 2.8kg/cm² at the front and 2.5kg/cm² at the rear. The tires were Bridgestone "Super Speed 5s." Rather than radials, these are of conventional bias-ply construction, but are tubeless, low-profile high-speed tires. The size was 6.95H-14-4PR.
 
-Teranishi removed the carpets and mats from the floor, exposing the metal underneath, and checked the position of the footrest with his left foot. He adjusted the leather seat and the three-point seatbelt for the ideal driving position. However, the somewhat long shift lever was a bit difficult to reach when shifting into first gear, as was the ignition key. Since the car had already been warmed up from a practice run, the DOHC engine started with a single twist of the key. The same eccentric engine sounds as the Skyline GT-R, with its passionate-sounding Solex carburetors and busy mechanical noise from the camshafts, flowed through the paddock at Suzuka.
+The standard models, such as the Z and Z-L (with their SOHC engines), use the same type of tire, but these are called "Super Speed 2" and are sized 6.45H-14, with a somewhat narrower tread and smaller overall diameter. The "H" denotes high speed, with a permissible speed range from 175km/h up to 200-210km/h. The tread pattern had previously been used only on tires supplied to Mercedes-Benz, so in this sense it could fairly be said to have been newly developed for the Fairlady Z432. The Z and Z-L use 4.5J steel wheels, while the Z432 has 5.5J magnesium wheels.
 
-After speaking with the circuit attendants who had gathered around the Z432 when they saw Teranishi appear, he headed out of the gate and onto the course as we watched from the stands. Teranishi dashed towards the first corner, leaving behind a dry exhaust roar that resonated in my stomach. He shifted up from first, to second, to third gears at exactly 7000rpm. 
+Teranishi went a step further, removing the felt and mats from the floor and leaving the bare sheet metal exposed. As if to make certain, he pressed his left foot against the footrest. Seated in the perforated leather seat with the three-point belt firmly fastened, he had an ideal driving position. The somewhat long gearshift lever, however, was difficult to reach when shifted into first, as it moved too far away. He turned the ignition key, which incorporates a steering lock. With the engine already warmed up, a single touch of the starter brought the DOHC engine back to life.
 
-The gearbox is the same Porsche-type unit used in the old Fairlady 2000 and Skyline GT-R, and the final drive ratio remains the same at 4.44. No full-throttle driving will be done for the first two laps, in order to check the matching of these gears to the course.
+The sound of air being drawn into the Solex carburetors, the mechanical whir of the camshafts and drive chain—the same eccentric engine noises familiar from the Skyline GT-R—flowed through the paddock at Suzuka Circuit.
 
-For the third lap, the Z432 raced in front of the stands at full throttle. Just before the first corner, it was at 6600rpm and 200km/h. Here, Teranishi shifted down from fifth to fourth. For the second and third compound corners, he was in third gear at 6000rpm and then entered the S-bends at full throttle. Around this section, Teranishi kept the car sliding sideways, using his trademark four-wheel drifting technique. The tires scream under the extreme load, and the car's body rolls to an unexpected degree. However, the tires grip the road firmly and do not seem to want to let go. Still, compared to the Skyline GT-R, it seems like the car has a lot of body roll. At Icha Curve, with the car in third gear at 6000rpm, one rear tire drops slightly off the track, kicking up a cloud of dust.
+Leaving behind the circuit workers who had spotted Teranishi and gathered around the Z432, he drove through the gate and onto the course. With a heavy, dry exhaust note that seemed to reverberate in the pit of the stomach, Teranishi began his dash toward the first corner. From first to second and then third, he shifted up each time the tachometer needle reached exactly 7000rpm.
 
-In the next two turns, the cornering appeared to become awkward. This was because the limited-slip differential was not working effectively and the tires stuck to the road more than expected, so the tail did not slide. The tires started to slide more from the next corner, but Teranishi said later, "if we want to use this car in a race, we'll need to install a stronger differential lock first."
+The gearbox is the same Porsche-type 5-speed used in the old Fairlady 2000 and the Skyline GT-R, with exactly the same ratios. The final-drive ratio also remains 4.444. For the first two laps, Teranishi did not run at full speed, using them instead to see how well these ratios worked together.
 
-At the Spoon and 130R corners after the intersection, he clipped the inside and drifted with all four wheels, skillfully alternating between half throttle and full throttle while grasping the flow of the course. 
+From the third lap onward, Teranishi came charging down the straight in front of the grandstand at full throttle. Just before the first corner, the engine was turning 6600rpm at 200km/h. Here he shifted down from fifth to fourth. The second and third compound corners were taken in third at 6000rpm, then he plunged into the S-bends at full throttle. Through this section, Teranishi used his specialty, a four-wheel-drift, to keep the body sliding sideways.
 
-On the straightaway, the throttle was clearly fully open, and the tachometer rose from 6000 to 6800rpm. At the center of the grandstand, near the pits, the tachometer reached 7000rpm, and finally it was time to shift into fifth gear. 
+The tires shrieked under the extreme load, and the body was rolling more than expected. Yet the tires gripped the surface firmly and showed no inclination to let go. Compared with the Skyline GT-R, there seems to be noticeably more roll. At the Degner Curve, still at 6000rpm in third, the Z432 ran all the way to the outside, dropping its tires briefly onto the grass and throwing up a cloud of dust.
 
-In this way, Takatoshi Teranishi completed about ten early morning laps of the Suzuka Circuit in the Fairlady Z432. When driving at full speed, his lap times ranged from 2 minutes and 55.7 seconds to 2 minutes 56.4 seconds, with little variation between laps. 
+At the Hairpin, Teranishi made a couple of rather awkward attempts at cornering. This was because the limited-slip differential was not locking strongly enough and, at the same time, the tires were gripping the road more firmly than expected, preventing the tail from coming around. From the next lap onward the tires began to slide, but Teranishi commented, “For racing, it will need a stronger limited-slip differential.”
 
-However, when Teranishi returned to the paddock and heard these results, he said with a confused expression, "That's surprising. It has torque at low- and mid-range engine speeds, but it doesn't grow any faster above 7000rpm or more." He seemed to expect slower times. However, when Seiichi Suzuki of SCCN drove a Skyline GT-R on this circuit in March last year, the lap time was about three minutes, so the Z432's time was about four to five seconds faster. 
+Through Spoon Corner, and again through the 130R beyond the grade-separated crossing, Teranishi held a four-wheel drift while clipping the inside. Sensing the way the car was moving, he skillfully alternated between half and full throttle. From 130R through the final corner and onto the straight, the accelerator remained all the way down, and the tachometer needle rapidly climbed from 6000 to 6800rpm. Near the middle of the grandstand, around the beginning of the pits, it reached 7000rpm, and there he shifted into fifth.
 
-The tires had clearly been used very hard, with the treads wearing down at sharp angles. At one point the smell of burning rubber could be detected on the sidelines of the track, so it's no wonder.
+In this way, Takatoshi Teranishi drove the Fairlady Z432 for about ten laps of Suzuka Circuit in the early morning. During his flat-out laps, the times ranged from 2 minutes 55.7 seconds to 2 minutes 56.4 seconds, a variation of less than one second.
+
+When he heard the times, however, Teranishi looked momentarily puzzled. "That’s a little surprising. It has plenty of low- and mid-range torque, but once you get above 7000rpm, it stops pulling." Even so, when SCCN driver Seiichi Suzuki drove a standard Skyline GT-R around this circuit in March of the previous year, his lap times had been around three minutes, so the Z432 was four to five seconds faster.
+
+The tires had taken quite a lot of punishment, and the tread blocks showed a sharply angled pattern of wear. This was hardly surprising: at times, the smell of burning rubber could be detected even from the side of the track.
 
 <b><u>From Prototype to Production GT Car</b></u>
 
-So, how did the Z432 feel? In Teranishi's own words:
+So, how did it feel?
 
-"The steering is very good. The gear ratio is just right, and can be used for racing just as it is. I thought there would be understeer because of the heavy front end, but the balance remained fully neutral. The seat also feels like it can be used for racing."
+“The steering is very good. The ratio is just right, and even the steering wheel could be used for racing just as it is. Judging from the front-heavy styling, I had expected there to be understeer, but it remained neutral. The seat feels suitable for racing as well.”
 
-And the engine power?
+—What about the engine power?
 
-"It certainly has power. Its cornering performance is good and you don't feel the sensation of speed, so you have to be careful not to get going too fast. The engine is much easier to use than in the GT-R."
+“There’s plenty of power. The cornering is so good that you don’t have much sense of speed, so you have to be careful not to carry too much speed. Compared with the GT-R, the engine is much easier to use.”
 
-What about the suspension?
+—How about the suspension?
 
-"After feeling how comfortable the ride was, I decided to test the limits of its capabilities at Suzuka, but the independent rear suspension was firm and stable." 
+“The ride was so good that I decided to push it hard, but the independent rear suspension was firm and had plenty of stability under load.”
 
-Was there anything that made it difficult for you to run at Suzuka?
+—Was there anything that made it difficult to drive?
 
-"Well, the accelerator was too far forward in relation to the brake pedal, which made heel-and-toeing difficult. The emergency flashlight fell off its mounting and rolled around the interior of the car. Engine response became slow at high rpm." 
+“Let’s see. The accelerator pedal is set too far forward compared with the brake pedal, which makes heel-and-toe difficult. The emergency flashlight fell out of its holder and rolled around inside the car. And at high engine speeds, the response became sluggish.”
 
-So, overall? 
+—And overall?
 
-"It's much better than the previous Fairlady. If we had time to keep pushing, we should be able to turn 2 minute and 50 second laps. However, I'm personally not satisfied with the style and finish..." 
+“It's a huge improvement over the previous Fairlady. Even as it is, I think it would do a 2 minute 50 second lap if driven absolutely flat out. Personally, though, I’m still not entirely satisfied with the styling and finish....”
 
-These were Teranishi's impressions of the Z432.
+Those were Teranishi’s impressions of the Fairlady Z432.
 
-As expected, the Fairlady Z exhibited the fruits of seven years of technological advancement. It showed extremely flexible performance in city driving, and on the circuit it showed ample power and solid roadholding ability. 
+Certainly, the Fairlady Z shows the results of seven years of technical progress. In ordinary road driving it displayed extremely flexible performance, while on the circuit it demonstrated ample power and sure-footed roadholding.
 
-What kind of ripples will this have on the world of motorsports in the future? One indicator of this is the racing version of the Z432, the Z432R. The R features an FRP bonnet and FRP air deflectors on the underside of the engine bay and on the tail. With these in place, the drag coefficient is said to be better than the Porsche 911's.
+What kind of impact will it have on the motor sport world in the years ahead?
 
-In addition, it is equipped with an oil cooler, has many of the interior parts removed, and has the ignition key placed next to the shift lever, making it possible to participate in races straight from the factory. The weight of the Z432 is 1040kg, but there are plans to reduce it to 960kg in the future. Furthermore, if the official weight required for homologation and the domestic competition vehicle regulations are taken into account, it should be possible to reduce the vehicle weight to about 800kg.
+One indication may be found in the Z432’s racing version, the “Z432R.” On the R, the hood is made of FRP, while FRP aerodynamic panels are fitted beneath the engine compartment and at the tail. With these fitted, its coefficient of drag is said to be better than that of the Porsche 911.
 
-Teranishi mused, "If we put a higher gear on this transmission and add the injection system that comes with the GT-R, is it possible we could break the 2 minute 25 second mark at Suzuka?" 2 minutes, 25 seconds! Converted to Fuji Speedway times, that means it may be possible to break the two minute mark in the near future.
+It also comes with an oil cooler from the outset, has its interior trim removed, and the ignition key relocated beside the gearshift lever. In other words, its specification is such that it can enter competition virtually as-is. The Z432 weighs 1040kg, but the R is reduced to 960kg. Taking into account the homologated weight required for approval and the domestic competition regulations, it is said that the car can be lightened still further to approximately 800kg.
 
-At the time of the third Japanese Grand Prix, in 1966, the first Prince R380 was said to be unable to break the two minute mark. However, thanks to the experience gained through the car, the same level of performance is now being replicated in production GT cars.
+Teranishi commented, “If you gave this a higher-geared transmission and fitted the fuel injection used on the GT-R, wouldn’t it break 2 minutes 25 seconds at Suzuka?”—2 minutes 25 seconds! Converted to Fuji Speedway times, that would mean comfortably breaking 2 minutes 5 seconds. In the near future, it might even break the two-minute barrier.
 
-A car that perfectly combines racing experience and marketability: this was the conclusion that Takatoshi Teranishi reached after thoroughly examining the Z432. 
+At the time of the third Japan Grand Prix in 1966, it was said that the original Prince R380 might—or might not—be capable of breaking two minutes at Fuji. Yet the technical achievements of that prototype have now borne fruit, to the point where a production GT car is about to reproduce a similar level of performance.
+
+A car in which racing experience and production-car practicality have been superbly combined—that was the conclusion Takatoshi Teranishi drew from the Fairlady Z432.
 
 ---
 
