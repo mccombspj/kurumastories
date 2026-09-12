@@ -60,155 +60,79 @@ draft = false
 
 
 
-A powerful front-wheel drive car with a taste of international rally cars... that's what the Subaru 1000 Sports Sedan is all about. With 67 horsepower, disc brakes, and radial tires, the front-wheel drive mechanism made it a real force on rough roads and highways.
+<b><u>The Flavor of an International Rally Car</b></u>
 
+A powerful front-wheel-drive car—that is the character of the Subaru 1000 Sports Sedan. 67ps, disc brakes, and radial tires. Combined with its front-wheel-drive mechanism, these features demonstrated their true strength on both rough roads and the highway.
 
+<b><u>A Sports Version for International Rallying</b></u>
 
-<b><u>Sports Version for International Rallies</b></u>
+It was still in the heat of summer. I remember international rally driver Erik Carlsson, then visiting Japan, trying the Subaru 1000 and telling us this:
 
+“I’d like another 20 horsepower. And if the suspension were strengthened and disc brakes fitted, I think it would be a car capable of competing on equal terms in Europe’s international rallies.”
 
+By the time autumn was well along, the long-awaited Subaru 1000 Sports Sedan had gone on sale. It had 67ps, 12ps more than the standard sedan. Strengthened suspension. Radial tires. Disc brakes at the front. The power was still a little short of Carlsson’s prescription, but here at last was a sports sedan approaching the sort of car he had described for taking on international rallies.
 
-It was still the height of summer when Erik Carlsson, an international rally driver who had come to Japan, drove a Subaru 1000 and made the following remarks:
+I said the power was still a little short, but if the car were tuned as a works machine, finding another 10ps or so should be easy enough. International rallies these days are contested by Group 5 Special Touring Cars and Group 6 prototypes, and if the Subaru 1000 Sports Sedan were modified to Group 5 specification, I believe it could hold its own internationally as a competition model.
 
+That is my conclusion after driving the Subaru 1000 Sports Sedan.
 
+The test car was a two-door model in “Beach White”—all Sports Sedans are two-doors. It had covered 3691.7km and was only just run in.
 
-"I would like to add 20 more horsepower, strengthen the suspension, and install disc brakes. Do that, and this car will be able to compete on an equal footing in international rallies in Europe."
+After checking everything over in the underground parking garage of the Subaru Building in Shinjuku, Tokyo, I drove up to street level. Quietness is one of the Subaru 1000's strong points, but in Sports form its sound is altogether more powerful: on the underground ramp, the low, heavy exhaust note reverberated from all sides, giving the car a distinctly wild character.
 
+I filled the tank and set the trip recorder to zero. The idle was steady at about 900rpm. As I discovered later, however, after hard driving the idle became somewhat rough, the needle wavering unsteadily between 600-700rpm. I was told that this is unavoidable in a car with SU-type variable-venturi carburetors and nothing much to worry about.
 
+I use a standard Subaru 1000 for my everyday transportation. On settling into the driver’s seat, the first thing I noticed was that the seat had been improved. It is firmer around the edges and softer in the center, so that the body sinks slightly into it, producing much the same effect as a bucket seat. Seats are always a problem in a grand touring car. The firm support needed for sporting driving and a comfortable reclining mechanism are conflicting requirements from a design standpoint. In this respect, the Subaru 1000 Sports seat deserves a passing grade.
 
-As last autumn drew to a close, the long-awaited Subaru 1000 Sports Sedan was released. It had 67 horsepower, 12 more than the standard sedan. Reinforced suspension. Radial tires. Front disc brakes. Although it needed a little more horsepower, this was a sports sedan that was close to the car Carlsson had imagined that could be used in international rallies.
+The dashboard has the same general feel as in the sedan, though the gauges are different. From left to right are the speedometer, with trip recorder; tachometer; and a combination gauge for fuel level, water temperature, and the various warning lights. All are set beneath a padded hood and positioned for easy reading. The switches are the same as on the sedan and appear to be scattered about almost at random, but when used while driving, they prove surprisingly convenient.
 
+The one real nuisance is the supposedly non-reflective glass over the gauges. “Non-reflective” merely means that the surface has a frosted-glass finish, and light still reflects from it in a diffuse glow. As a result, while driving there is always some part of the gauges that cannot be seen—a so-called blind spot. It is particularly bad when driving away from the setting sun. This is one thing I would definitely like to see corrected. Surely it could be solved quite easily by giving the glass a steeper angle, or something along those lines.
 
+<b><u>Showing Its Strength on Rough Roads</b></u>
 
-Actually, while I say that it could use a little more horsepower, if it is tuned up as a works car, finding another 10 horsepower should be easy. Recently, international rallies have been contested with Group 5 special touring cars or Group 6 prototypes, so if the Subaru 1000 Sports Sedan were converted to Group 5 spec, it could be fully capable of competing internationally as a competition model.
+<b>Astonishing Power:</b> Performance can be summed up in one word: astonishing. The power is such that it is hard to believe this is only a one-liter car. Above 4000rpm in particular, the engine is exceptionally strong, and in first or second, unless you keep an eye on the tachometer, the needle will quickly leap into the red zone.
 
+With 67ps against a vehicle weight of 705kg, the weight-to-power ratio is about 10.5kg/ps. This is no different from a 1.6-liter-class sports sedan. For comparison, the Bellett 1600GT has a weight-to-power ratio of 10.7kg/ps.
 
+Since both the transmission ratios and final-drive ratio are exactly the same as on the standard sedan, the higher engine speed translates directly into a higher maximum speed. The catalog figure is 150km/h, but an acquaintance of mine who tested the car tells me that it exceeded 160km/h. He was delighted: “A one-liter car that can do 100mph!”
 
-That's my conclusion after test driving the Subaru 1000 Sports Sedan.
+The torque curve can hardly be called flat. According to the manufacturer’s chart, torque first reaches 7kgm at around 2200–2300rpm, then falls off somewhat before rising again to its maximum of 8.2kgm/4600rpm. In other words, there are two peaks in the torque curve, and this can be clearly felt while driving. If the engine speed is allowed to fall below 2000rpm in third before accelerating to overtake, there is a moment’s hesitation; once past 4000rpm, however, the car accelerates sharply and in one rush reaches 7000rpm, the upper limit of the yellow zone. The owner’s manual says, “Do not use top gear at 2000rpm.” The same applies in third: for quick acceleration, it seems there is no getting around a downshift into second.
 
+The red zone begins at 7000rpm, but as an experiment I kept the accelerator down, and valve surge did not occur until the engine was approaching 8000rpm. Only as it tried to go beyond 8000rpm did I finally feel the power fall off sharply.
 
+<b>The Strength of Front-Wheel Drive:</b> In low-speed driving around Tokyo, the advantages of front-wheel drive are hardly noticeable, but once the road turns to steep mountain curves and gradients, its strengths suddenly come to the fore. The steering response is particularly impressive when driving fast over a winding gravel road. The Bridgestone radial tires fitted to the car had been inflated to slightly higher pressures for highway driving, to 1.9kg/cm² at the front and 1.2kg/cm² at the rear, so on gravel the car bounced about quite a bit. Even so, its good roadholding was not lost, and it faithfully held the intended line.
 
-But let's start from the beginning. The test vehicle was a "Beach White" Sports Sedan and was a two-door, as are all Sports Sedans. It had a mileage of 3,691km and had just completed the break-in period.
+My own Subaru 1000 is fitted with Michelin X tires, and by comparison I feel that the Michelin X still has a slight advantage. There is a subtle difference in stability at the instant the wheels come back down under power after leaving the ground. The Michelin X reliably regains its grip the moment it touches down and faithfully points the car in the direction the steering is turned, whereas the Bridgestone radial, manufactured under Pirelli patents, is slightly loose at the moment of contact, with a small loss of directional stability. As a result, constant steering corrections were necessary on rough, winding mountain roads. However, this would probably be greatly improved by setting the tire pressures correctly.
 
+The dampers, on the other hand, still feel too soft. I am told that the torsion-bar springs are 0.5mm larger in diameter than those of the standard model, but the dampers have not been stiffened to match them, and this seems to spoil the otherwise excellent roadholding somewhat.
 
+One characteristic of front-wheel-drive cars particularly worth noting is that, so long as power is being applied and the tires do not lose contact with the road, the car will go where the driver intends. Put another way, tires for a front-wheel-drive car should be chosen to provide the best possible contact with the road. In this sense, there is real value in the Subaru 1000 Sports being the first Japanese car to come standard with radial tires. Unless the driving is exceptionally hard, the Bridgestone radials demonstrate their advantages more than adequately.
 
-After a brief inspection in the underground parking lot of the Subaru Building in Shinjuku, Tokyo, we headed up to ground level. The Subaru 1000 is known for its quietness, but the Sports Sedan version makes quite a loud noise, and the low, heavy exhaust sound reverberated all around us on the underground rampway, giving us a sense of wildness.
+It is generally said that “front-wheel-drive cars are poor on uphill grades.” In actual driving, however, they are much easier to get up steep grades with rough surfaces than rear-wheel-drive cars. Particularly with a powerful car, front-wheel drive has the advantage in straight-line stability while climbing. With delicate control of clutch engagement and accelerator, the Subaru 1000 Sports will climb even a breathtakingly steep slope along exactly the course the driver intends. And considering what it would be like to climb a muddy slope in a rear-wheel-drive car after the frost has thawed, how welcome a powerful front-wheel-drive car can be!
 
+<b><u>Outstanding High-Speed Stability</b></u>
 
+<b>Some Objections to the Shift Lever:</b> One of the pleasures of sporting driving is changing gears. But I have some objections to the Subaru 1000 Sports in this respect. Every time a quick shift is made, there is a loud clunk, no matter which gear is selected. At first I thought the synchromesh might be weak, but that is not the case. According to the manufacturer, in order to eliminate vibration of the lever while driving, the lever itself is fixed to the body, with rubber inserted in the linkage to the transmission. The noise is caused by movement between this rubber and a pin fitted to the linkage. The feel of the gear change, therefore, can be described as "Porsche-type" if one is being charitable; if not, it is simply vague and rubbery. A shift lever that vibrates constantly while driving is certainly unpleasant, but one that does not engage with a positive "click" can hardly be called sporting either. This may well be largely a matter of personal preference, but at the very least I would like something done about the clunking noise.
 
-I filled up the tank with fuel and set the trip recorder to zero. The idle speed was stable at about 900rpm. I found out later that after a hard run, the idle becomes a little rough, and at one point, the needle was swinging unsteadily between 600-700rpm. This is unavoidable to some extent in cars with SU-type variable venturi carburetors, so I was not overly concerned.
+For those who prefer a more positive shift, there is apparently a floor-shift kit developed by Itochu, the Subaru distributor. This one is said to trade the noise for some vibration, but to engage with a positive click like that of a British sports car. At 38,000 yen including installation, it may prove surprisingly popular.
 
+The gear noise that was said to be bothersome in the standard Subaru 1000 is effectively shut out by the console box housing the floor-shift mechanism and is almost impossible to hear. Or perhaps, even if it can be heard, it is simply drowned out by that powerful exhaust note....
 
+<b>Excellent High-Speed Stability:</b> Having finished with the rough roads around Lake Sayama in Saitama Prefecture, the Subaru 1000 Sports Sedan entered the Chuo Expressway from Hachioji. This newly opened section (18.1km between Chofu and Hachioji) only came into service at the end of last year. Just after the toll gate, I stopped the car and carefully checked the tires for embedded stones and damage. On the smooth pavement, the Bridgestone radials produce little tread noise and run extremely smoothly. Acceleration is superb: taking the engine to 7000rpm in each gear gives 43km/h in first, 73km/h in second, and 105km/h in third. Among one-liter sports sedans, this is a very fast car even by international standards, fully on par with cars such as the NSU 1000TTS.
 
-I should mention that I drive a standard Subaru 1000 as my daily transportation. The first thing I noticed when I sat in the Sports Sedan's driver seat is that the seat has been improved. It is firm around the edges and soft in the middle, and when you sit down, your body sinks into it slightly, providing the same effect as a bucket seat. Seats are always a problem in grand touring cars, because stable support for sporty driving and a soft reclined position are conflicting design goals. In this respect, the seats in the Subaru 1000 Sports Sedan can be given a passing grade.
+High-speed stability is likewise outstanding, thanks in part to the car’s front-wheel drive and the low unsprung weight of its suspension.
 
+Wind noise from around the rain gutters was quite pronounced. Above 120km/h, the door frames began to vibrate.
 
+Braking from high speeds is greatly improved over the standard sedan. The front disc brakes show no change in effectiveness or pedal effort even after repeated high-speed stops. In a car with this level of performance, however, one would like to see disc brakes at the rear as well.
 
-The dashboard has the same feel as the sedan, but the gauges are different. From the left, there is a speedometer (with trip recorder), a tachometer, and a combination gauge with fuel, water temperature, and various warning lights, all of which are covered by a soft visor and placed in an easy-to-read position. The switches are also the same as in the sedan, and seem to be scattered in random places, but in actual driving, they are surprisingly easy to use.
+At 100km/h in top gear, the tachometer reads 4500rpm. This is only 68% of the engine speed at maximum power. In other words, the car can cruise on the highway without the slightest sense of strain. Press the accelerator from this speed, moreover, and it accelerates so strongly one could imagine it were in third gear. Above 140km/h, however, acceleration naturally begins to fall off, and a long straight is needed to reach the maximum speed of 150km/h.
 
+<b>Points of Concern:</b> Among the smaller details, I was bothered by the position of the horn button. When the left hand is on the shift lever and the right is holding the steering wheel, there is no free hand to press the button in the center of the three-spoke wheel if the horn is suddenly needed. Yet on a winding mountain road, situations like this occur quite often. I would like to see this problem solved somehow—either by relocating the horn button, incorporating horn buttons into the spokes as on the Alfa GTV, or providing a separate switch as on the Honda S800.
 
+Another inconvenience I encountered while driving was the fine-adjustment knob for the reclining seat. After leaving the city for the suburbs, I decided it was time to stretch out a little and reached for the adjustment knob. But there was so little space between the seat and the door that, although I could just fit my hand in, I could not turn the knob. This is also something I would like to see corrected.
 
-However, one problem is the "non-reflective" glass of the gauges. Even though it is called non-reflective, this is only because the surface of the glass is frosted; it still reflects light dimly. Therefore, there are always bright spots that block your view of the gauges while driving. This is especially bad when driving with the sun setting behind you. I hope they can do something about this. I think it would be an easy solution if they made the glass more steeply inclined.
-
-
-
-<b><u>Rough Road Strength</b></u>
-
-
-
-In terms of power, the way the 1000 Sports Sedan performed was simply amazing. In fact, the power was so great that it was hard to believe it was a one-liter car. The power was especially outstanding from around 4000rpm upwards, and if I wasn't careful in low or second gear, the needle would quickly jump into the red zone.
-
-
-
-With 67 horsepower and a vehicle weight of 705 kg, the weight per horsepower is about 10.5 kg. This is about the same as a 1.6 liter class sports sedan. By comparison, the weight per horsepower of the Bellett 1600GT is 10.7 kg.
-
-
-
-The transmission gear ratios and final gear ratio are exactly the same as those of the normal 1000 sedan, so the top speed increases because the engine's maximum rotation speed is higher. The catalog lists a top speed of 150km/h, but when a friend of mine took the test car for a drive, he was able to exceed 160km/h, and came back thrilled, saying, "I hit 100mph in a one-liter car!"
-
-
-
-The torque curve is not exactly flat. Looking at the manufacturer's chart, it shows a torque figure of 7kgm at 2200-2300rpm, followed by a slight drop, and then the maximum torque of 8.2kgm at 4600rpm. In other words, there are two torque peaks, and this could be clearly felt while driving. When I let the engine speed drop below 2000rpm in third gear, and then started accelerating to overtake the car ahead, the engine hesitated for a moment, then accelerated rapidly after exceeding 4000rpm, and reached the red zone of 7000rpm all at once. The instruction manual says, "Please do not drive in top gear under 2000rpm." The same can be said for third gear, and it seems that you should not hesitate to drop to second gear in order to achieve quick overtaking acceleration.
-
-
-
-The redline starts at 7000rpm, but if you keep the accelerator pedal pressed, valve surge doesn't occur until you approach 8000rpm. When you try to exceed 8000rpm, you finally feel a sudden drop in power. 
-
-
-
-When it comes to handling behavior, when driving at low speeds in the city, the advantages of the Subaru's front-wheel-drive layout are hardly noticeable.
-
-
-
-I can't explain why, but whenever I get to the steep curves and slopes of mountain roads, that is when I really feel the advantages of front-wheel drive come into play. This is true of both the tested Sports Sedan and my own 1000 sedan. The steering response is excellent, especially when I'm driving at high speed on a winding gravel road. The Bridgestone radial tires on the test car were inflated to slightly high pressures, 1.9kg/cm² in the front and 1.2kg/cm² in the rear, for highway use, so they bounced around on the gravel road. But the excellent road holding was retained, and the car faithfully maintained the intended line.
-
-
-
-However, I have Michelin Xs on my personal 1000, and compared to the test car's Bridgestones, the Michelin X seems to have an edge. I felt a subtle difference in stability in moments when the front wheels became airborne and returned to the ground with power still applied. The Michelin Xs regain grip the moment they touch the ground, and faithfully point the car in the direction the steering wheel was turned, but the Bridgestone radials (with a tread pattern licensed from Pirelli)  loosen up a little when they touch down, causing the car to lose a certain amount of directional stability, which required constant steering corrections on bumpy, winding mountain roads. Most likely, this could be greatly improved with the right tire pressure.
-
-
-
-However, the car's dampers also felt too soft. The diameter of the torsion bar springs is apparently 0.5mm thicker than the standard model, but the dampers are not stiff enough to match, so the excellent road holding was somewhat spoiled by the resulting pitching.
-
-
-
-What is particularly noteworthy about front-wheel drive vehicles is that as long as the power is kept applied and the tires do not lose grip on the road, the car will keep moving forward according to the driver's will. Therefore, the tires for front-wheel drive vehicles must have as much grip as possible. In that sense, it is valuable that the Subaru 1000 Sports Sedan was the first Japanese-made car to come standard with radial tires. Unless you are driving extremely hard, the Bridgestone radial tires will perform more than sufficiently.
-
-
-
-It is a common belief that "front-wheel drive cars are weak on uphill slopes." However, in actual driving, it is much easier to climb steep uphill slopes on rough roads than in rear-wheel drive cars. In particular, for powerful cars, front-wheel drive has the advantage of straight-line stability while climbing. If you delicately handle the clutch engagement and accelerator pedal, the Subaru 1000 Sports Sedan will climb even the steepest slopes, following your intended course. Especially when you think about climbing a muddy slope in a rear-wheel drive car after the frost has melted, you will be grateful for the capability of a powerful front-wheel drive car.
-
-
-
-<b><u>Excellent High-Speed Stability</b></u>
-
-
-
-Besides the damping, the second problem in terms of driving feel is the gear change. A person who enjoys sports driving generally enjoys shifting gears; however, I have some objections to the Subaru 1000 Sports Sedan's gear change. Every time you make a quick shift, there is a loud thumping sound no matter what position you are in. I thought maybe the synchro was weak, but that's not the case. According to the manufacturer's explanation, in order to eliminate the vibration of the lever while driving, the lever is fixed to the body and a thick rubber bushing is inserted in the transmission linkage. The sound is caused by the rubber and the pin attached to the linkage moving. So, the feel of the gear change can be called, at best, "Porsche-type," and at worst, floppy. It is certainly not pleasant to have the shift lever tingling with fine vibrations while driving, but it is hard to call it sporty if it doesn't "click" into place. I suppose this may be a matter of personal preference, but I would like them to at least do something about the thumping sound.
-
-
-
-For those who prefer a more "clicky" feel, there is a short shift kit developed by Subaru dealer Itochu. This one vibrates but makes no noise, and it clicks into place like a British sports car. It costs 38,000 yen including installation, so it may actually become quite popular. 
-
-
-
-The gear noise that can be a nuisance in the standard Subaru 1000 is well blocked by the Sport Sedan's console box that houses the floor shift mechanism, making it almost inaudible. Or, even if you can hear it, it may be drowned out by the Sports Sedan's loud exhaust noise...
-
-
-
-Having finished driving on the rough roads around Lake Sayama in Saitama Prefecture, we entered the Chuo Expressway (18.1 km between Chofu and Hachioji), which just opened at the end of last year, from Hachioji. As we passed through the gate, we stopped the car and thoroughly checked the tires for pebbles and scratches. On smooth roads, the Bridgestone radials ran extremely smoothly with very little tread noise. Acceleration was absolutely superb, and when pushed to 7000rpm in each gear, the car reached a top speed of 43km/h in first gear, 73km/h in second gear, and 105km/h in third gear. Among 1000cc-class sports sedans, it is one of the fastest cars in the world, and is on par with the NSU 1000TTS.
-
-
-
-Stability at high speeds is also outstanding, thanks to the fact that it is a front-wheel drive vehicle and the light unsprung weight of the suspension.
-
-
-
-However, there was a lot of wind noise coming from the rain gutters, and when the speed exceeded 120km/h, the door frame started to vibrate.
-
-
-
-Braking from high speed is much improved compared to the normal sedan. The front disc brakes are consistent in both effectiveness and pressure even when braking at high speed repeatedly. For a car like this, I would have preferred discs on the rear wheels as well.
-
-
-
-In top gear at 100km/h, the rev counter reads 4500rpm, which is just 68% of the maximum power output, meaning you can cruise on the highway without any mechanical or psychological stress. Furthermore, when you step on the accelerator at this speed, the car accelerates as if it were in third gear. However, once the car exceeds 140km/h, the acceleration slows down, and it takes a long straight to reach the maximum speed of 150km/h.
-
-
-
-<b><u>Final Points</b></u>
-
-
-
-The position of the horn button is a minor issue. It is located in the middle of the three-spoke steering wheel, and when you need to sound the horn while holding the gear lever with your left hand, and the steering wheel with your right hand, you don't have a free hand to press the button. On winding mountain roads, this exact sort of situation happens surprisingly often. I hope they can solve this problem by incorporating the button into the spokes like the Alfa GTV, or by making it a separate switch like the Honda S800.
-
-
-
-Another problem I had while driving was the fine adjustment knob for the reclining seat. When I drove out of the city and into the suburbs, I tried to stretch my arm and reach for the adjustment knob, but the space between the knob and the door was too narrow, and I couldn't turn it even though I could just fit my hand in the gap. This is another thing I'd like to see solved.
-
-
-
-Lastly, over 172km of driving, the 1000 Sports Sedan consumed 19.5 liters of fuel, which works out to 9km/l. 
+Fuel consumption was 19.5 liters over 172km—in other words, approximately 9km/l.
 
 ---
 
