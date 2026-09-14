@@ -49,7 +49,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> June 1965<br>
-<b>Authors (Roundtable):</b> Tatsuo Hasegawa, Shozo Sato, Kazuo Kumabe, Osamu Hirao, Mineo Yamamoto, Masatoshi Yoshida, Yasuhei Oguchi, Atsushi Watari, Kenji Higuchi, Taizo Tateishi, Masashi Kondo, Kenzaburo Ishikawa, Tenji Kobayashi, Motor Fan Editorial Staff (uncredited)
+<b>Authors (Roundtable):</b> Tatsuo Hasegawa, Shozo Sato, Kazuo Kumabe, Osamu Hirao, Mineo Yamamoto, Masatoshi Yoshida, Yasuhei Oguchi, Atsushi Watari, Kenji Higuchi, Taizo Tateishi, Masaichi Kondo, Kenzaburo Ishikawa, Tenji Kobayashi, Motor Fan Editorial Staff (uncredited)
 
 
 

@@ -14,7 +14,7 @@ draft = false
 <b>Publication:</b> Motor Fan<br>
 <b>Format:</b> Road Test<br>
 <b>Date:</b> January 1969<br>
-<b>Authors (Roundtable):</b> Jiro Tanaka, Shinichiro Sakurai, Hiroshi Hoshijima, Kenji Higuchi, Masashi Kondo, Nobuo Shibata, Yasuhei Oguchi, Kenichi Goto, Kenzaburo Ishikawa, Kazuo Kumabe, Yasunobu Tomizuka, Taizo Tateishi, Osamu Hirao, Akio Miyamoto, Minoru Onda, Toshihide Hirata, Motor Fan Editorial Staff (uncredited)
+<b>Authors (Roundtable):</b> Jiro Tanaka, Shinichiro Sakurai, Hiroshi Hoshijima, Kenji Higuchi, Masaichi Kondo, Nobuo Shibata, Yasuhei Oguchi, Kenichi Goto, Kenzaburo Ishikawa, Kazuo Kumabe, Yasunobu Tomizuka, Taizo Tateishi, Osamu Hirao, Akio Miyamoto, Minoru Onda, Toshihide Hirata, Motor Fan Editorial Staff (uncredited)
 
 
 <b><u>Aiming for a True "GT Car"</b></u>

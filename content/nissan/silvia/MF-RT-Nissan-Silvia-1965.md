@@ -98,7 +98,7 @@ draft = false
 
 
 
-<b>Publication:</b> Motor Fan<br><b>Format:</b> Road Test<br><b>Date:</b> July 1965<br><b>Authors (Roundtable):</b> Teiichi Hara, Motoo Harada, Osamu Hirao, Hiromichi Nakamura, Kenzaburo Ishikawa, Kazuo Kumabe, Masashi Kondo, Kazumi Yotsumoto, Mineo Yamamoto, Yasuhei Oguchi, Atsushi Watari, Naoyuki Yamada, Taizo Tateishi, Akio Miyamoto, Kenji Higuchi
+<b>Publication:</b> Motor Fan<br><b>Format:</b> Road Test<br><b>Date:</b> July 1965<br><b>Authors (Roundtable):</b> Teiichi Hara, Motoo Harada, Osamu Hirao, Hiromichi Nakamura, Kenzaburo Ishikawa, Kazuo Kumabe, Masaichi Kondo, Kazumi Yotsumoto, Mineo Yamamoto, Yasuhei Oguchi, Atsushi Watari, Naoyuki Yamada, Taizo Tateishi, Akio Miyamoto, Kenji Higuchi
 
 
 

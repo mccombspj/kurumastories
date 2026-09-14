@@ -62,7 +62,7 @@ draft = false
 
 <b><u>Have Domestic Cars Reached International Standards? Round 4: Between "Sporty" and "Sports"</b></u>
 
-Two 1.3-liter front-wheel-drive machines, each boasting its own distinctive mechanical layout. And yet, between them, one can clearly feel a gap in history and tradition that can hardly be captured in words.
+Two 1.3-liter front-wheel-drive machines, each boasting its own distinctive mechanical layout. And yet, between them, one can clearly feel a gap in history and tradition that cannot quite be captured in words.
 
 <b><u>Prologue: A 1.3-Liter FF That Punches Above Its Class</b></u>
 
