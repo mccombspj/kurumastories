@@ -173,7 +173,7 @@ Later, thinking in America began to change, and technically it’s no longer nec
 
 <b>Watanabe:</b> With pillarless hardtops, there are also issues like wind noise at high speed, and in those days very few were completely watertight during a car wash.
 
-Since this was being launched as part of the company's 50th anniversary program, we felt strongly that we didn't want to force the issue and end up producing a car full of quirks.
+Since this was being launched as part of the company's 50th anniversary program, we felt strongly that we didn't want to force the issue and end up putting out a car that wasn't quite right.
 
 <b>Magazine:</b> If you think of it as a two-door, though, it works well enough...
 
@@ -349,13 +349,13 @@ Steering effort at a standstill increases in proportion to steering angle up to 
 
 The roll angle is 4.3°, or 4.4° by photographic measurement. Considering the lower center of gravity and stiffer spring rates, that seems a little on the high side. However, tire pressures were only 1.5kg/cm², so that may have had some influence.
 
-Understeer/oversteer characteristics are about average for this class up to roughly 0.4g of lateral acceleration, with a moderate degree of understeer. Beyond that point, however, understeer increases sharply. The skid pad at Yatabe has a relatively low coefficient of friction, but among the cars we've tested so far, many have shown a similarly abrupt rise beginning around 0.45g.
+Understeer/oversteer characteristics are about average for this class up to roughly 0.4g of lateral acceleration, with a moderate degree of understeer. Beyond that point, however, understeer increases sharply. The skid pad at Yatabe has a relatively low coefficient of friction, and among the cars we've tested so far, many have shown a similarly abrupt rise beginning around 0.45g.
 
 Steering holding effort measures 2.5kg at 0.2g of lateral acceleration and nearly 4kg at 0.5g, increasing gradually between those points.
 
 Steering effort was also measured during slalom testing: it is 2kg at 0.1g lateral acceleration and about 3.6kg at 0.3g. The figure remains about the same even near 0.5g.
 
-As for free-release directional stability with hands off the wheel, the car settles well at lower speeds. At around 100km/h, however, convergence becomes somewhat weaker, requiring roughly three seconds for oscillations to die down.
+As for free-release directional stability with hands off the wheel, the car settles well at lower speeds. At around 100km/h, however, convergence becomes somewhat weaker, requiring roughly three seconds for oscillations to settle down.
 
 <b>Watanabe:</b> Regarding the roll angle, our own figures show about 3.5° with four occupants aboard.
 
@@ -425,13 +425,13 @@ In the fade test, pedal effort was approximately 11kg on the first stop and show
 
 <b>Magazine:</b> About the lack of squeal...
 
-<b>Watanabe:</b> The trouble with brakes is that you never know when they're going to squeal. I don't think there's any pad in existence that can guarantee absolute silence under all conditions. The rigidity of the disc itself also matters, as does the rigidity of the caliper mounting. With brakes, you often don't know whether they'll squeal until you've actually built the system.
+<b>Watanabe:</b> The trouble with brakes is that you never know when they're going to produce squeal. I don't think there's any pad in existence that can guarantee absolute silence under all conditions. The rigidity of the disc itself also matters, as does the rigidity of the caliper mounting. With brakes, you often don't know whether they'll squeal until you've actually built the system.
 
 <b>Watari:</b> The disc and caliper often end up with very similar vibration frequencies. When they line up just right, that's when you get noise.
 
 <b>Watanabe:</b> If you try to eliminate squeal through the pad material alone, you're in for a difficult job.
 
-Adding a servo tends to make it easier to produce a brake system that doesn't squeal. That's because you can get away with using a somewhat lower coefficient of friction.
+Adding a servo tends to make it easier to create a brake system that doesn't squeal. That's because you can get away with using a somewhat lower coefficient of friction.
 
 <b><u>Spare Tire Placement Raises Concerns</b></u>
 
@@ -449,7 +449,7 @@ The thing that stood out most, however, was the spare tire sitting right in the 
 
 <b>Watanabe:</b> There really wasn't anywhere else to put it. On the reciprocating-engine model, the spare tire is mounted underneath the floor together with the fuel tank. At the time, rear-end collision concerns weren't nearly as prominent as they are today, and in Europe there was strong emphasis on maximizing trunk floor space, which is why we adopted that arrangement.
 
-With the rotary model, however, we increased fuel capacity to 65 liters, and the exhaust system also required a larger muffler. As a result, the spare tire was inevitably pushed up into the trunk. Honestly, if anyone has a clever solution, we would very much like to hear it.
+With the rotary model, however, we increased fuel capacity to 65 liters, and the exhaust system also required a larger muffler. As a result, the spare tire was inevitably pushed up into the trunk. Honestly, if anyone has a clever solution for this, we would very much like to hear it.
 
 <b>Watari:</b> Leave out the spare tire altogether and just include two or three cans of tire sealant. (laughs)
 
@@ -507,7 +507,7 @@ I've finally been trained. (laughs)
 
 <b>Magazine:</b> Before we finish, could you tell us about production plans?
 
-<b>Watanabe:</b> Including both export and domestic sales, we're planning for between 8,000-10,000 rotary-powered Capellas per month. Of those, domestic sales should account for around 4,000-4,500 units. Within that figure, we're expecting the GS II to represent roughly 1,500 cars.
+<b>Watanabe:</b> Including both export and domestic sales, we're planning for between 8,000-10,000 rotary-powered Capellas per month. Of those, domestic sales should account for around 4,000-4,500 units. Within that figure, we're expecting roughly 1,500 to be GS IIs.
 
 Fortunately, Capella exports are growing very rapidly at the moment. We're establishing a network on the East Coast of the United States this autumn, so I think exports will probably reach about twice their present level.
 

@@ -65,7 +65,7 @@
     <loc>http://localhost:1313/nissan/laurel/cg-ri-nissan-laurel-hardtop-2000gx-2000sgx-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/prince/skyline-sports/mf-rt-prince-skyline-sports-1962/</loc>
+    <loc>http://localhost:1313/prince/skyline_sports/mf-rt-prince-skyline-sports-1962/</loc>
     <lastmod>2026-09-14T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/savanna/mf-tdr-mazda-savanna-sx-1971/</loc>
@@ -560,7 +560,7 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/prince/skyline-sports/</loc>
+    <loc>http://localhost:1313/prince/skyline_sports/</loc>
     <lastmod>2026-09-14T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/prince/</loc>

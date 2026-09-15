@@ -139,7 +139,7 @@ From a design standpoint, I think a little more thought could be given to such t
 
 Mr. Hirao also mentioned the acceleration performance. We have tested the performance of a number of foreign sports cars, and when we compared the results, we found that the Skyline Sports is by no means inferior to its foreign counterparts.
 
-<b>Nakamura:</b> From among the considerable number of foreign cars that we have tested in-house or encountered while assisting with Ministry of Transport testing, we made a comparison of the performance of several so-called sports-like cars in roughly the same category as the Skyline Sports. These included the Volkswagen Karmann Ghia, Fiat 1500, MGA 1600, and Abarth 1600 and 850S. Comparing top-gear acceleration, the Skyline Sports gives the best performance of the group.
+<b>Nakamura:</b> From among the considerable number of foreign cars that we have tested in-house or encountered while assisting with Ministry of Transport testing, we made a comparison of the performance of several so-called semi-sports cars in roughly the same category as the Skyline Sports. These included the Volkswagen Karmann Ghia, Fiat 1500, MGA 1600, and Abarth 1600 and 850S. Comparing top-gear acceleration, the Skyline Sports gives the best performance of the group.
 
 In standing-start acceleration through the gears, it is also quicker than the Fiat 1500 and MGA, and gives approximately the same performance as the Abarth 1600. Its standing quarter-mile time of around 20 seconds is also among the best. We compared not only our own test results but also data published by foreign magazines such as The Motor and The Autocar, and in acceleration from 0–80km/h, 0-400m, and maximum speed, the Skyline Sports likewise ranks among the better cars in the semi-sports category.
 
@@ -253,7 +253,7 @@ I think this is partly because the steering wheel itself is lighter and the stee
 
 <b>Kondo:</b> When I drove over Otarumi Pass the other day, the steering was so well judged that I could handle it with one hand. I thought it was very good indeed.
 
-<b>Hirao:</b> Gear ratio also has something to do with that, but I prefer the steering of this Sports to the Gloria's myself.
+<b>Hirao:</b> The steering gear ratio also has something to do with that, but I prefer the steering of this Sports to the Gloria's myself.
 
 <b>Watari:</b> You say the center of gravity has been lowered on this Sports. By about how many millimeters?
 
@@ -376,6 +376,10 @@ Normally, a cowhide is split lengthwise along the back, and each half is known a
 <b>Hirao:</b> But if you're prepared to spend the money, couldn't you make something better than leather? The trouble is trying to imitate the character of leather with something cheap. Instead, make something that's actually better than leather. (laughs)
 
 <b>Magazine:</b> I suppose that when it comes to the feel in the hand and the impression on the eye, a substitute simply won't do. Well, I think we'll leave it there. Thank you very much.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-RT-Prince-Skyline-Sports-1962-Gallery" >}}
 
 ---
 

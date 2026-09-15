@@ -64,13 +64,13 @@ draft = false
 
 <b>Tanaka:</b> Naturally, a carmaker's products have to match their brand image. For example, we design the Skyline around a sporting image, while the Cherry is aimed at a somewhat younger market.
 
-In the Laurel's case, the previous model was similar to the Bluebird in both size and styling, and in that sense its identity as a Laurel was somewhat indistinct. We had marketed it as a high-grade owner-driver's car, but some time has passed since its introduction, and the number of competitors in the class has increased. This time, we wanted to define that character much more clearly, so we've made some fairly extensive changes.
+In the Laurel's case, the previous model was similar to the Bluebird in both size and styling, and in that sense its identity as a Laurel was somewhat indistinct. We have marketed it as a high-grade owner-driver's car, but some time has passed since its introduction, and the number of competitors in the class has increased. This time, we wanted to define that character much more clearly, so we've made some fairly extensive changes.
 
 Specifically, overall length has increased by 195mm and width by 65mm. In terms of size, it now sits between the Skyline and Bluebird U on one side and the Cedric/Gloria on the other. It's a size that doesn't really exist elsewhere in the current Japanese market, and we wanted to express the idea of the ultimate owner-driver's car through its dimensions.
 
 As for the engine, we chose what we consider the best powerplant available under the current regulations: a 2-liter six-cylinder. Alongside that, the lineup also includes the existing 1.8-liter and 2-liter four-cylinder engines, a total of three engine choices.
 
-Given the character of the car, the styling has been made somewhat elegant--perhaps even a little opulent--rather than projecting an overtly sporting image.
+Given the character of the car, the styling has been made rather elegant--perhaps even a little opulent--instead of projecting an overtly sporting image.
 
 And because this is an owner-driver's car, we wanted the interior to be as impressive as possible. We've devoted a great deal of effort and expense to the cabin, particularly the seats and interior trim.
 
@@ -82,7 +82,7 @@ Those four areas are the key elements behind the new Laurel's upgraded image.
 
 <b>Magazine:</b> You mentioned that the interior has been made more luxurious. Is there a tendency for buyers in this class to be especially attracted to that? Looking at the market research...
 
-<b>Omura:</b> That tendency seems to be growing stronger recently. With this Laurel in particular, we wanted an interior worthy of a luxury car in both name and reality. To achieve that, we tried a number of new approaches aimed at combining safety with a sense of luxury.
+<b>Omura:</b> That tendency seems to be growing stronger recently. With this Laurel in particular, we wanted an interior worthy of a luxury car, both in name and in practice. To achieve that, we tried a number of new approaches aimed at combining safety with a sense of luxury.
 
 For example, the door trim panels are molded as single pieces, there's an overhead console with the sun visors integrated into it, and the seats feature built-in headrests. The steering wheel is made from genuine wood.
 
@@ -156,7 +156,7 @@ As a result, we’ve ended up hearing both kinds of opinions. We take that as co
 
 <b>Hoshijima:</b> It’s not so much initial pickup--it feels more like it reaches its limit fairly early in the upper range.
 
-<b>Hirao:</b> So it’s a "let’s take it easy" kind of engine. (laughs)
+<b>Hirao:</b> So it’s a "let’s live slowly" kind of engine. (laughs)
 
 <b>Terashima:</b> Compared with the Skyline GT in the same class, this car is slightly heavier, and the sound has also been tuned to be quieter. I think those factors are affecting the subjective feel. In terms of raw data, they are almost identical.
 
@@ -176,7 +176,7 @@ The four-cylinder is also quieter in terms of sound, while the six-cylinder has 
 
 <b>Hirao:</b> I think this connects to what we were saying earlier about throttle response. For example, on a slight incline at around 50km/h in top gear, you floor the accelerator to try to overtake another car--but it doesn’t really surge forward.
 
-Then, if you ease off slightly after a moment, it actually starts to pick up better. That makes you wonder whether there’s a point where torque "flattens out" when the throttle is fully open.
+Then, if you ease off slightly after a moment, it actually starts to pick up better. That makes you wonder whether there’s a point where torque hits a "flat spot" when the throttle is fully open.
 
 In other words, instead of torque increasing proportionally with throttle input, there seems to be a point where it levels off a bit at full opening.
 
@@ -202,7 +202,7 @@ Compared with the previous Laurel, the overall gear ratios are slightly shorter.
 
 <b>Hirao:</b> Everyone says having a 5-speed is "cool", but wouldn't a 6-speed be even cooler, then? (laughs)
 
-<b>Hoshijima:</b> The 5-speed in this car isn’t really what you'd call "cool." There’s no real reason to use fifth, and no real reason to drop back to fourth either. (laughs)
+<b>Hoshijima:</b> The 5-speed in this car isn’t really what you'd call "cool." There’s no real reason to put it in fifth, and no real reason to drop back to fourth either. (laughs)
 
 <b>Omura:</b> Even among 5-speed gearboxes, there are different types--some where top gear is 1:1 and it’s a close-ratio setup, and others like this where top gear is an overdrive. The character varies quite a bit.
 
