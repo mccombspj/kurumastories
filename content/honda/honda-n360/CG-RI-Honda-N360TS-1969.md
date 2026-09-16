@@ -8,6 +8,8 @@
 
 title = "Honda N360TS (1969)"
 
+weight = 20
+
 
 
 
