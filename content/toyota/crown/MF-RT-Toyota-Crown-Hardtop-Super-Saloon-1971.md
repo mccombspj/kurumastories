@@ -65,29 +65,29 @@ draft = false
 
 <b>Magazine:</b> To begin with, we’d like to start by asking about the overall outline of development for the new Toyota Crown.
 
-<b>Komuro:</b> The previous Crown underwent a model change in September of 1967. That puts this latest model's release roughly three and a half years later. By conventional thinking, that’s a relatively short lifecycle between full model changes. However, it’s not that the previous model had lost its appeal or reached the end of its useful life, forcing us into a redesign.
+<b>Komuro:</b> The previous Crown underwent a model change in September of 1967. That places this latest model's release roughly three and a half years later. By conventional thinking, that’s a relatively short lifecycle between full model changes. However, it’s not that the previous model had lost its appeal or reached the end of its useful life, forcing us into a redesign.
 
 Rather, with market liberalization on the horizon, we felt it was important to further elevate the car while its existing appeal was still intact. At the same time, we wanted to draw out even greater attractiveness from the car as a whole—that was the thinking behind this model change.
 
 In that sense, we aimed to create something that could stand on an international level. With that in mind, development proceeded with five main points as our foundation:
 
-1. As a full model change, to completely renew both exterior and interior design.
+1. To completely renew both exterior and interior design, in keeping with a full model change.
 2. To incorporate additional considerations in the area of safety.
 3. To re-examine the drivetrain and chassis, increasing margins of strength and rigidity, while also improving feel and overall performance.
-4. To enhance high-speed capability. Since the engine remains within the 2000cc class, this wasn’t about raising absolute top speed, but rather improving performance under sustained high-speed driving, such as on the Tomei Expressway.
+4. To enhance capability at high speeds. Since the engine remains in the 2000cc class, this wasn’t about raising absolute top speed, but rather improving performance under sustained high-speed driving, such as on the Tomei Expressway.
 5. To broaden the appeal of the Crown range so that it can be used by a wider range of customers, by offering a more extensive lineup tailored to diverse user needs.
 
 Those were the key points guiding the project.
 
-<b>Magazine:</b> Styling is widely seen as the central highlight this time. Could you tell us how that particular design direction was decided?
+<b>Magazine:</b> Styling is widely seen as the central highlight this time. Could you tell us how this particular design direction was decided?
 
 <b>Komuro:</b> Up to now, the Crown has tended to be viewed primarily as a car for corporate use or taxis. There’s been a general perception that its user base is limited to those areas. Meanwhile, private owners have been moving steadily into cars like the Toyota Mark II, but not making the step up to the Crown. There seems to be a kind of divide there.
 
 In response, we introduced things like the “white Crown” and hardtop models as a way of appealing more directly to private owners. That led us to question whether the Crown’s image should simply be an extension of what it has always been, or whether it ought to take a form that speaks more clearly to that private owner demographic. That became the fundamental starting point for the design.
 
-With that in mind, a number of proposals were developed. Among them, we selected the one that felt the most fresh—the one that represented the greatest departure in image from previous models. As a result, the overall character has changed quite noticeably, but we believe that shift has been successful in its own way.
+With that in mind, a number of proposals were developed. Among them, we selected the one that felt the most fresh—the one that represented the greatest departure in image from previous models. As a result, the overall character has changed quite noticeably, but we believe the change has been successful in its own way.
 
-<b>Magazine:</b> What were your first impressions when you saw the styling?
+<b>Magazine:</b> What were everyone's first impressions when you saw the styling?
 
 <b>Hirao:</b> The area above the rear wheels seems very broad. There’s nothing there—it gives the impression of an empty space, almost as if something is missing.
 
@@ -99,17 +99,17 @@ I can’t help but feel it might benefit from some kind of accent…
 
 <b>Komuro:</b> That’s certainly part of it. In terms of styling, the hardtop version seems to be receiving better feedback than the sedan.
 
-The previous hardtop's relatively spacious rear seating has been well regarded, so this time as well we made a point of not compromising rear-seat comfort.
+The previous hardtop's relatively spacious rear seating has been well regarded, so we again made a point of not compromising rear-seat comfort this time.
 
 <b>Hirao:</b> That’s certainly a positive. Still, from an exterior standpoint, that area does stand out to me.
 
 <b><u>Body Colors—Could Patterns Work?</b></u>
 
-<b>Hirao:</b> Even the color-keyed bumpers don’t quite sit right with me. Maybe it’s something you get used to over time, but…
+<b>Hirao:</b> Even the color-keyed bumpers don’t quite sit right with me. Maybe it’s something you get used to in time, but…
 
 <b>Komuro:</b> If you chrome them, they end up looking more conventional—but the surface area is simply too large.
 
-<b>Hirao:</b> Whether it’s good or not aside, it’s certainly a sales point.
+<b>Hirao:</b> Setting aside whether it’s good or not, it’s certainly a selling point.
 
 As for colors, you sometimes see things tied to a particular "image color"—“Minobe is blue, Hatano is orange,” that sort of idea. With the Crown, are you continuing with white as the signature color?
 
@@ -119,13 +119,13 @@ As for colors, you sometimes see things tied to a particular "image color"—“
 
 <b>Komuro:</b> The percentage of white cars certainly went up. But lately, I get the sense that colorful cars are increasing again. Buyers are starting to choose according to their own preferences.
 
-<b>Hirao:</b> No “patterned” finishes, then? (laughs)
+<b>Hirao:</b> So there are no “patterned” finishes, then? (laughs)
 
 <b>Komuro:</b> You mean not just two-tone, but actual patterns?
 
-<b>Hirao:</b> I was reading something by a female writer who said, “Automotive styling is a form of costume.” Looking at it that way, you start to wonder why everything is plain. Since there are people who see it like that, I think there might be room to try something patterned.
+<b>Hirao:</b> I was reading something by a female writer who said, “Automotive styling is a form of costume.” Looking at it that way, you start to wonder why everything is in plain color. Since there are people who see it like that, I think there might be room to try something patterned.
 
-<b>Kunieda:</b> We once had Peter Max do a body paint design. It was very much in a pop-art style. We thought it might appeal to younger buyers, but it turned out that going that far was a bit too much.
+<b>Kunieda:</b> We once had Peter Max do a body paint design. It was very much in a pop-art style. We thought it might appeal to younger buyers, but going that far turned out to be a bit too much.
 
 <b>Hirao:</b> You wouldn’t want something like a kimono hem pattern, though. (laughs) It would have to be just right—something that fits.
 
