@@ -83,6 +83,9 @@
     <loc>http://localhost:1313/nissan/cherry/cg-rt-nissan-cherry-coupe-x-1-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corona/mf-rt-toyota-corona-hardtop-1600s-1965/</loc>
+    <lastmod>2026-09-18T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/honda/honda-n360/mt-rt-honda-n360-1967/</loc>
     <lastmod>2026-09-16T04:50:49-07:00</lastmod>
   </url><url>
@@ -566,13 +569,19 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corona/</loc>
+    <lastmod>2026-09-18T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/</loc>
+    <lastmod>2026-09-18T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-09-18T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/honda/honda-n360/</loc>
     <lastmod>2026-09-16T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/</loc>
-    <lastmod>2026-09-16T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-09-16T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/prince/skyline_sports/</loc>
@@ -582,9 +591,6 @@
     <lastmod>2026-09-14T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/2000gt/</loc>
-    <lastmod>2026-07-30T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/</loc>
     <lastmod>2026-07-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/savanna/</loc>
@@ -616,9 +622,6 @@
   </url><url>
     <loc>http://localhost:1313/toyota/celica/</loc>
     <lastmod>2026-07-01T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/corona/</loc>
-    <lastmod>2026-06-29T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/</loc>
     <lastmod>2026-06-28T04:50:49-07:00</lastmod>
