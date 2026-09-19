@@ -52,72 +52,85 @@ draft = false
 
 
 
-<b><u>2,000km of Endurance Touring</b></u> 
+<b><u>2,000km of Heavy Touring</b></u> 
 
 
 
-We passed through the Bandai-Azuma Skyline early in the morning. Although it was early summer, the weather had been unusually cold, and there was still snow remaining here and there. The Honda S600's headlights are impressively bright, as they meet U.S. Highway Patrol standards... here is the story of 2,000km of grand touring in Honda's new S600 Coupe.
+We passed through the Bandai-Azuma Skyline in the early morning. Although it was early summer, the weather had been unusually cold, and patches of lingering snow could be seen here and there.
 
-<b><u>A Cute Fastback</b></u>
-
-Last year, when the Honda S600 won the Nurburgring 500km race, it also won the distinction of beating Marcos in the GT category. Along with the Marcos, almost all the cars competing in this category were of the fashionable fastback style, and in this company, the Honda S600, the only one with a hardtop, looked conspicuously "cute." At the same time, although I shouldn't say this about Honda, which is considered the most avant-garde manufacturer in Japan, it also gave off an impression of naivety and a little lack of class, like a girl who has just come to Tokyo from the countryside. Thinking about it later, I wondered if this was because, these days, with the fastback style and slightly flipped-up tail being new and trendy, the style of the hardtop gave off an old-fashioned feeling, like arriving in a bowler hat.
-
-The Honda S600 Coupe was released in April of this year. There was a bit of a gap between its announcement and its actual launch, and it’s said that this was because Honda originally intended to turn the two-seat convertible into a 2+2 or 2+1 three-seater. In fact, if you slide the front seats forward a little, it does seem like it would be relatively easy to accommodate another person in a back seat. However, the Ministry of Transport has strict certification standards, and it seems that a back seat was not approved in the end. Considering that the Fairlady was initially a three-seater, then changed to a two-seater, perhaps it was fortunate that the officials in charge of certification did not go along with the idea.
-
-In any case, I think the styling has definitely improved in the transformation. Although the Coupe weighs 10kg more than the convertible, it has lower air resistance and greatly improved body rigidity. Aside from the fastback-style body, it is almost identical to the open-top S600, but its selling points as a practical and business car, which Honda emphasizes heavily in its advertising, are a much more natural fit for this Coupe version.
-
-On an early summer morning, we left Tokyo in the S600 Coupe for an endurance touring test of about 2,000km, totaling more than 15 hours of continuous driving. The driver was Nobuo Koga, and the co-driver was your author (Hoshijima).
-
-<b><u>Departure For the Endurance Touring Test</b></u>
-
-The course covered three days of driving, with the following itinerary. Day One would take us from Tokyo through Fukushima, the Bandai-Azuma Skyline, Aizu-Wakamatsu, Niigata, Nagaoka, Naoetsu, Nagano, Matsumoto, and Shiojiri, stopping at Shimosuwa for an overnight stay. Total distance: 833km. Day Two would take us out of Shimosuwa to Shiojiri, Toki, Ogaki (via the Meishin Expressway), Kyoto (for the Hiei Hill Climb, Otsu (on the Meishin Expressway again), Ritto, and Kameyama for the second night. Total distance: 454km. Day Three would take us through Kameyama to Suzuka Circuit (for competition-style driving), then back to Tokyo via National Route 1. Including city driving within Tokyo after returning, the total driving distance was 2,008.5km.
-
-Even though it was early summer, the temperature was at record-breaking lows, and there was even snow remaining on the Bandai Azuma Skyline. With no heater, it was downright cold. We left Tokyo at midnight, and it rained as far as Koriyama. Of course, a heater is available as an option, but the test car was in completely standard trim, with no windshield washer, no heater, and no radio. Just recently, there was the story of how the Bluebird that competed in the Safari Rally was forced to carry bumper overriders and other equipment that is commonly considered to be standard equipment in Japan, but is usually optional overseas, and that because of this (plus the fact that the homologation model was the Deluxe version),  it was at a considerable disadvantage in terms of weight. In this sense, the fact that the Honda S600 treats equipment that is typically considered standard as optional is, in many ways, a very sound philosophy. After all, anything not essential to driving can simply be ordered and installed as desired. 
-
-<b><u>For Business or Sports</b></u>
-
-In the end, this shows that the Honda Coupe's selling point is not necessarily that its closed roof makes it a "practical car" or "business car," as claimed in its advertising, but that it can also become a sports car and run wild when the time is right. Since last year, in the Sunday races held at the Suzuka Circuit, the Honda Coupe has been outperforming cars with twice its 606cc displacement.
-
-Having received homologation as a touring car (two-seaters under 700cc can qualify for the Touring category as long as more than 1000 units are sold per year), the open-top Honda S600 can already be used as a business car on weekdays and a strong contender in races on Sundays. The Honda Coupe will probably also be certified in the Touring class soon. Apart from being more comfortable as a practical car, none of its sports-car characteristics have been lost.
+The Honda S600’s headlights have a well-established reputation for brightness—and understandably so, as they meet standards specified by the American Highway Patrol...
 
 
-<b><u>Practicality Has Improved Dramatically</b></u>
+<b><u>A "Cute" Fastback</b></u>
 
-There is no doubt that the S600 convertible is light and nimble, and I certainly understand the joy of driving with the top open. However, the sounds made by the convertible top while driving are not very pleasant, and although this may be a personal opinion, I'm not fond of the way the metal fittings on the inside of the top can feel oppressively close to the driver and passenger. Also, in Japan, where the humidity and dust are high, convertible tops seem to wear out quickly. There's also the risk of nasty pranksters cutting the top.
+When the Honda S600 won last year’s Nürburgring 500km race, defeating the Marcos in the GT class, almost every car in the field was of the fastback style currently in fashion. Standing all by itself, meanwhile, was the Honda S600 with its hardtop, looking decidedly "cute." At the same time—although this is not the sort of thing one should say of Honda, which might be considered the most avant-garde carmaker in Japan—it also gave an impression of naivety and a slight lack of sophistication, like a country girl making her first trip to Tokyo.
 
-The Coupe's cargo area offers the convenience of being able to load and unload luggage without opening the trunk, and its spaciousness (the spare tire is under the floor, the gas tank is on the side, and the trunk space is flat) is enhanced by the fact that the passenger seat back can be folded forward, so even very long items can be loaded inside. Rear visibility has improved over the convertible, and by opening the hinged rear quarter glass, cowl ventilator, and windows, ventilation is excellent. In terms of all-weather capability and overall practicality, it can be said that the Coupe is a great improvement.
+Thinking about it later, I wondered whether this was because, now that we have come to see the fastback with its slightly upswept tail as the latest style, the hardtop’s shape had begun to suggest the old-fashioned look of a bowler hat.
 
-The fact that I didn't feel tired even while riding or driving for long periods of time is probably due to the near-ideal angle, depth, and firmness of the seats. There were some pretty poor roads around the Fukushima-Niigata border and the coast, but the seats never once caused the unpleasant sensation of being bounced off the cushion. However, I do think it would be better if headrests for long-distance touring were offered as an option. In Japan, you don't hear much about touring in sports cars. However, I hear that in Europe, most GT cars, except for special racing versions, are generally recognized as being suitable for long-distance, high-speed touring. I think that such an era will come soon to Japan. It could be said that the role of the Honda Coupe is to pave the way for such an era.
+The Honda Coupe went on sale in April of this year. There was a bit of a gap between its announcement and its release, and it was said that Honda may originally have intended to turn the convertible two-seater into a 2+2, or perhaps a 2+1 three-seater. In fact, with the front seat moved forward slightly, it seems that accommodating one person in the rear would be relatively easy. In Japan, however, Ministry of Transport certification standards are strict, and apparently the rear seat was ultimately not approved.
 
-<b><u>High Noise Level, But Pleasant Sounds</b></u>
+One can only hope that the officials responsible for certification were not thinking something along the lines of, "Even the Fairlady had to be changed from a three-seater to a two-seater..."
 
-The interior noise level is somewhat high for a touring car (as measured at the Watari Institute, University of Tokyo), but is normal for a sports car. The exterior noise level is on the high side even among domestic sports cars, but the tone is good. Of course, the volume of a sound can still be perceived as too loud even if its tone is pleasant, so you may need to be careful in residential areas late at night.
+I think the styling has certainly improved. Although the Coupe weighs 10kg more than the convertible, it has less aerodynamic drag, and body rigidity is considerably greater. Apart from its fastback body, it is almost identical to the open-top S600, but it is with the Coupe that Honda's description of the car as a practical vehicle—even a business car—becomes truly appropriate for the first time.
 
-Some people feel that the pedals are positioned a little too far to the right, and others say that for racing or sports driving, the accelerator pedal doesn't extend far enough down to allow heel-and-toe. But the former is largely a matter of preference, and as for the latter, anyone serious enough to enter a race surely wouldn't hesitate to add a small extension plate to make heel-and-toeing easier.
+On an early summer day, we set out from Tokyo on a demanding touring test of approximately 2000km, including more than 15 hours of continuous driving. Nobuo Koga was the driver, with your author (Hoshijima) serving as co-driver.
 
-<b><u>One Honda S600, Two Engines</b></u>
+<b><u>Departing on a Heavy Touring Test</b></u>
 
-No one who has driven a Honda S600 will laugh if I say that this car has two engines. It can cruise quite comfortably in top gear at 2000rpm (just over 30km/h), but once you exceed 5000rpm, it's as if an entirely different engine comes to life. It's as if it transforms from a business car into a sports car, making you think, "Is this really all coming from one 606cc engine?" It only begins to make sense when you consider the Honda 7 Formula car, which competes in the top ranks overseas. Of course, nothing in this car is transferred directly from formula racing machines. However, the needle roller bearings which minimize friction loss to obtain more power at high speeds, the double overhead camshafts that create an ideal combustion chamber, and the use of four carbs, which may seem extravagant by normal standards, all reflect what Honda has learned from developing cars for formula racing.
+Our route on the first day was from Tokyo to Fukushima via National Route 4, then onto the Bandai-Azuma Skyline through Aizuwakamatsu, Niigata, Nagaoka, Naoetsu, Nagano, Matsumoto, Shiojiri, and Shimosuwa, where we stopped for the night: 833km. On the second day we covered 454km, from Shimosuwa through Shiojiri, Toki, and Ogaki, then via the Meishin Expressway to Kyoto (for the Mt. Hiei Hill Climb), continuing through Otsu and back onto the Meishin Expressway to Ritto and Kameyama, where we again stopped for the night. On the third day we drove from Kameyama to Suzuka Circuit (for some sporting driving), then returned to Tokyo via National Route 1. Including the driving we did within Tokyo after our return, the total distance covered was 2008.5km.
 
-The fact that the same car that we drove on rough roads could also be driven at a fast cruise on the Meishin Expressway, happily climb the hills of Mount Hiei, and be driven in a sporty manner on the Suzuka Circuit clearly demonstrates that the 57ps/8500rpm engine is by no means a peaky unit suited only to high-speed driving.
+Although it was early summer, the temperatures were at record-breaking lows, and there was even snow still lying along the Bandai-Azuma Skyline. It was cold enough to make us wish for a heater. We had left Tokyo at midnight, and it rained all the way to Koriyama.
 
-The water temperature never rose above 80°C, either on the hill climb of Mt. Hiei or on the Meishin Expressway. At the Suzuka track, the car exceeded 150km/h on the straightaway in front of the grandstand, with a lap time of just over 3 minutes, 23 seconds. Preparations for the timed laps were minimal. The car used street tires, Dunlop Dunsafes, the air cleaner was left in place, the spark plugs were changed from  NGK D8E to D9, and the tire pressure was increased from 1.4kg/cm² to 1.7kg/cm² at both the front and rear.
+A heater is, of course, available as an option, but our test car was completely standard, without even a windshield washer, heater, or radio. It was only recently that the Bluebird, competing in the Safari Rally, found itself at a considerable weight disadvantage because the homologation model was the Deluxe specification: it therefore had to carry bumper overriders and various other items that would normally be considered optional overseas. The fact that the Honda S600 makes all such equipment optional—even things that might be considered necessities by Japanese standards—is, in many ways, a sound philosophy in its own right. After all, anything not essential to driving can simply be ordered and installed by the individual owner.
 
-<b><u>Fuel Consumption is 15km Per Liter</b></u>
+<b><u>Business Car or Sports Car?</b></u>
 
-The brakes presented absolutely no problems. They are Alfin drums front and rear and are well-known for being fade-resistant. However, in a recent race at Funabashi Circuit, the brakes of the participating S600s did seem to worsen in the second half. On the other hand, that course is widely recognized for being so demanding that no matter what car you bring, the standard specification won't be enough to handle it.
+In the end, this also shows that the Honda Coupe is not necessarily limited to the role of the “practical car, business car” emphasized as one of its selling points. When the time is right, it has the potential to become a sports car and run wild. Since last year, the Honda S600, despite its mere 606cc capacity, has been cutting down cars with twice its displacement in the Sunday races held at Suzuka Circuit.
 
-Overall fuel consumption was 14.6km/l, excluding the laps at Suzuka. On the return journey along the Tokaido line, the figure was 15.5km/l.
+With the S600 now homologated as a touring car (two-seaters of 700cc or less can qualify for the touring category as long as more than 1,000 are sold annually), an S600 owner can use his car for business during the week and, on Sundays, compete in races under favorable conditions. The Honda Coupe, too, will probably soon qualify as a touring car. As it turns out, apart from its improved accommodation as a practical car, it has lost none of its character as a sports car.
 
-As for practical troubles while driving, there were only a few minor issues. The fuel gauge would sometimes read incorrectly, the hood lock popped open once, the turn signal lever didn't return properly a few times, and the handbrake warning light wouldn't go out. More significant, though still not serious, was that when driving through puddles, even the powerful wipers couldn't remove mud that splashed onto the windshield, which was a pain.
+<b><u>Practicality Greatly Improved</b></u>
+
+The convertible is certainly light and nimble, and I can understand the pleasure of being able to drive it with the top open. But the flapping noise made by the top while driving is not particularly pleasant, and although this may be a matter of personal opinion, I am not very fond of the way the framework inside the top gives both driver and passenger a closed-in feeling. Moreover, in Japan’s humid and dusty climate, the top seems to deteriorate rather quickly. There is also the possibility of it being slashed by some particularly nasty prankster.
+
+The Coupe offers the convenience of allowing luggage to be loaded and unloaded without opening the trunk, as well as a generous amount of luggage space (helped by placing the spare tire under the floor and the fuel tank to one side, leaving the trunk floor flat). Fold the passenger-seat backrest forward, moreover, and even fairly long objects can be carried. Rearward visibility has also improved, and ventilation is excellent if the rear quarter windows are snapped outward and the cowl ventilator or side windows are opened. Whether one calls it all-weather capability or simply practicality, there is no question that it has been greatly improved.
+
+Even after many hours in the car, whether as passenger or driver, there is no sense of fatigue, probably because the angle, depth, and firmness of the seats are close to ideal. There were some very poor roads along the Fukushima–Niigata prefectural border and near the coast, but never once was I tossed up out of the seat. For a long tour, however, I think a headrest would be desirable. I only hope one is available as an option.
+
+In Japan, one seldom seems to hear of people touring in sports cars. In Europe, however, I am told that, apart from specialized racing versions, almost all GT cars are generally regarded as suitable for touring. No doubt such a time will eventually come to Japan as well, and it could even be said that one of the roles of the Honda Coupe is to help usher it in.
+
+<b><u>Loud, but Pleasant in Tone</b></u>
+
+Interior noise is somewhat high for a touring car (according to measurements by the University of Tokyo’s Watari Laboratory), but is at a normal level for a sports car. Exterior noise, too, is somewhat on the high side even among Japanese sports cars, but its tone is pleasant. This is not to say, of course, that noise can be as loud as one likes so long as it sounds good. Some restraint may be called for in residential areas late at night.
+
+Some people feel that the pedals are positioned a little too far to the right, while others say that for racing use the accelerator pedal is too short at the bottom to permit heel-and-toe operation. The former is a matter of personal preference, and as for the latter, anyone going so far as to enter a race should hardly begrudge the trouble of adding a small extension to the pedal to make it easier to use.
+
+<b><u>Two Engines in One Honda S600</b></u>
+
+I do not think anyone would laugh if I wrote that the Honda S600 has two engines. On the one hand, it will run quite comfortably at 2000rpm in top gear (a little over 30km/h), yet once the engine passes about 5000rpm, it is as though an entirely different engine suddenly comes to life. It is almost like a transformation from business car to sports car. Can this really be the work of a single engine of only 606cc? Only when one thinks of Honda’s Formula cars, which compete at the forefront of international racing, does it begin to make sense.
+
+There may be nothing transferred directly from a Formula racing machine. Yet the use of needle roller bearings to reduce friction losses to the absolute minimum to extract greater power from a limited capacity; double overhead camshafts to provide an ideal combustion chamber; and four carburetors—an extravagance by normal standards—for response and the ability to keep pace at high engine speeds: these, I believe, reflect a Honda philosophy derived from its Formula racing machines.
+
+The fact that the same car could be driven over rough roads, taken onto the Meishin Expressway, enjoyed in the Mt. Hiei Hill Climb, and then driven hard at Suzuka clearly demonstrates that its 57ps/8500rpm engine is by no means devoted solely to high-speed performance.
+
+Neither during the Mt. Hiei Hill Climb nor on the Meishin Expressway did the water temperature rise above 80°C. At Suzuka, the car exceeded 150km/h on the straight in front of the grandstand and recorded a lap of just over 3 minutes 23 seconds. The tires were Dunlop Dun-Safes, the air cleaners were left in place, and the only changes made were to replace the NGK D8E plugs with No. 9s and raise the tire pressures from 1.4 to 1.7kg/cm² front and rear.
+
+<b><u>Fuel Consumption: 15km/l</b></u>
+
+There were absolutely no problems with the brakes. The S600 uses Alfin drums, which have an established reputation for resisting fade. However, in a race held recently at Funabashi Circuit, braking effectiveness did apparently begin to fall off during the latter half. On that course, though, the brakes are used so frequently that no matter what car you bring, it is certain to be too much for the standard specification.
+
+Fuel consumption, excluding the running at Suzuka Circuit, was 14.6km/l. On the return journey along the Tokaido, it was 15.5km/l.
+
+The only troubles encountered while driving were a fuel gauge that occasionally became temperamental, a hood lock that once popped open, a turn-signal lever that failed to return properly several times, and a handbrake warning light that refused to go out. More bothersome than any of these, however, was the car’s tendency to splash mud onto its own windshield when driving through puddles. The wipers are powerful enough that this presents no real problem, but it is still a weakness.
 
 <b><u>Cornering and Acceleration Tests</b></u>
 
-After returning to Tokyo, cornering tests (by the Kondo Laboratory at the University of Tokyo) and standing-start acceleration tests (by the Hirao Laboratory at the Tokyo Institute of Technology) were conducted on the Murayama test course. The average recorded 0-400m acceleration time was 18.7 seconds, and the cornering tests revealed a tendency for fairly strong understeer right up to the limit.
+After returning to Tokyo, we conducted cornering tests at the Murayama test course (with the Kondo Laboratory of the Tokyo Institute of Technology) and standing-start acceleration tests (with the Hirao Laboratory of the University of Tokyo). The recorded 0-400m time was 18.7 seconds, while the results of the cornering tests showed a fairly pronounced tendency toward understeer right up to the limit.
 
-Comparing the standing-start acceleration data with that of the Toyota Sports 800, the results are somewhat disappointing. Even allowing for the difference in displacement, one might have expected the Honda's 57ps/8500rpm engine to show a greater advantage, although this is perhaps asking too much. At 730kg, the Honda Coupe's weight must be regarded as a little on the heavy side. Of course, given Honda's expertise in developing formula cars, making it lighter would present no great difficulty. 
+Comparing the standing-start acceleration figures with those of the Toyota Sports 800, the results are somewhat disappointing. Of course, there is a difference in engine capacity, and perhaps this is asking too much of Honda’s 57ps/8500rpm engine. Even so, the Honda Coupe’s weight of 730kg must be considered a little on the heavy side.
 
-However, as long as they are selling it as a business car with a two-year or 50,000km warranty, some increase in weight may be unavoidable. For a sports car, it is almost too practical: easy to drive, comfortable, and thoroughly user-friendly. 
+For Honda, with its experience in developing Formula racing machines, reducing the weight would surely present no great difficulty. But as long as one of the Coupe’s selling points is that it is a business car guaranteed for two years or 50,000km, perhaps this is unavoidable. After all, for a sports car, it is almost unbelievably practical, while also being easy to drive and comfortable.
+
 
 ---
 

@@ -128,7 +128,7 @@ Another point is our adoption of a dry-sump system. Of course it brings the usua
 
 <b>Yamamoto:</b> When the car is hit by a crosswind, is the center of pressure located toward the front?
 
-<b>Mabuchi:</b> We positioned it slightly forward of the center. When we tested the car in America, there was even a surprising result: it was less affected by wind than the Chrysler we were driving alongside it.
+<b>Mabuchi:</b> We positioned it slightly forward of the center. When we tested the car in America, there was a surprising result: it was less affected by wind than the Chrysler we were driving alongside.
 
 <b>Yamamoto:</b> That must have been a tough target to achieve, especially at those speeds.
 
@@ -136,7 +136,7 @@ Another point is our adoption of a dry-sump system. Of course it brings the usua
 
 <b>Higuchi:</b> In an FF car, when you’re pushed off course by a crosswind, is the steering and throttle response the same as in a conventional FR car? Or is there any special technique required?
 
-<b>Mabuchi:</b> We designed it so that even when hit by wind, the change in behavior is very small, so I don’t think there’s anything special about it being an FF. Also, we focused on minimizing the difference between power-on and power-off conditions, so we believe ordinary corrective inputs are sufficient.
+<b>Mabuchi:</b> We designed it so that even when hit by wind, the change in behavior is very small, so I don’t think there’s anything special about it being an FF. Also, we focused on minimizing the difference between power-on and power-off conditions, so we believe ordinary corrective inputs are enough.
 
 <b>Higuchi:</b> So you’re saying that even if a crosswind disturbs the car, you don’t need to pay special attention to your driving inputs to stay safe.
 
@@ -162,7 +162,7 @@ But does that mean the first lateral force is completely unavoidable? I believe 
 
 <b>Higuchi:</b> I felt that if you set the seat so the pedals are easy to reach, the seatback ends up leaning away from the driver’s back. In other words, the relationship between pedals, seat, and steering wheel feels a bit off.
 
-<b>Watari:</b> It also seems like the right foot tends to bump against the wheelhouse. I haven’t driven it for long, but I suspect that would get tiring.
+<b>Watari:</b> It also seems like the right foot tends to bump against the wheelhouse. I haven’t driven it for long periods, but I suspect that would get tiresome.
 
 <b>Hoshijima:</b> I drove it for quite a distance and didn’t feel fatigued. What did concern me, though, was the angle of the seatback in its most upright setting. If it were made less reclined, closer to vertical, I think the seat would suit a wider range of driving positions.
 
