@@ -139,11 +139,11 @@ All of the variations correspond to models in the sedan range. The 1500 with the
 
 <b>Tanaka:</b> The cash retail price in Tokyo is 758,000 yen for the Corona Hardtop (RT50), 813,000 yen for the Toyoglide-equipped model (RT50C), and 848,000 yen for the Hardtop 1600S (RT51).
 
-The RT51 is available with optional disc brakes at the front and leading-trailing drums at the rear, at an additional cost of 20,000 yen. Compared with a Deluxe sedan fitted with separate seats, therefore, the S costs 180,000 yen more, while the other models cost 90,000 yen more.
+The RT51 is available with optional disc brakes at the front and leading-trailing drums at the rear, at an additional cost of 20,000 yen. So compared with a Deluxe sedan fitted with separate seats, the S costs 180,000 yen more, while the other models cost 90,000 yen more.
 
 <b>Magazine:</b> What was the thinking behind providing a corresponding Hardtop model for each of the sedan versions?
 
-<b>Tajima:</b> The four-door sedan of course sees some personal use, but we also have to consider family use, use as a company car, and various other purposes, so we provided a range of variations to suit the different preferences involved. The Hardtop, however, is a coupe, so naturally it places greater emphasis on personal use, with priority given to the front-seat occupants. However, not everyone who buys one will necessarily be interested in sporting driving. For that reason, the Hardtop series also includes a 3-speed model and a Toyoglide model. We have also made the rear seat spacious enough for people of average Japanese height to ride in reasonable comfort.
+<b>Tajima:</b> With the four-door sedan, there is of course some personal use, but we also have to consider family use, use as a company car, and various other purposes, so we provided a range of variations to suit the different preferences involved. The Hardtop is a coupe, so naturally it places greater emphasis on personal use, with priority given to the front-seat occupants. However, that does not mean everyone who buys one will necessarily be interested in sporting driving. For that reason, the Hardtop series also includes a 3-speed model and a Toyoglide model. We have also made the rear seat spacious enough for people of average Japanese height to ride in reasonable comfort.
 
 <b>Magazine:</b> What sort of production volume are you planning?
 
