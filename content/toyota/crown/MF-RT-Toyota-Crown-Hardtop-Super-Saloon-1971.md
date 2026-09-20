@@ -153,27 +153,27 @@ Vinyl leather tops started out in a single color--black--but now we’re seeing 
 
 <b>Magazine:</b> The overall dimensions have grown, haven’t they?
 
-<b>Komuro:</b> Up to now, the overall length sat comfortably within the 4.7m bracket, with some room to spare. This time, the length has increased to fully occupy that limit.
+<b>Komuro:</b> Up to now, the overall length was comfortably within the 4.7m limit, with some room to spare. This time, the length has increased to fully occupy that limit.
 
 <b>Hirao:</b> Has the height been reduced?
 
-<b>Shindo:</b> The sedan now stands at 1420mm overall, which is 25mm lower than before. The hardtop is about 10mm lower. What’s been taken off the top has essentially been redistributed downward. At the same time, we’ve worked to ensure that practical interior dimensions--seat positioning, headroom, and so on--are reduced as little as possible.
+<b>Shindo:</b> The sedan's height is now 1420mm overall, which is 25mm lower than before. The hardtop is about 10mm lower. What’s been taken off the top has essentially been redistributed downward. At the same time, we’ve worked to ensure that practical interior dimensions--seat positioning, headroom, and so on--are reduced as little as possible.
 
 <b>Magazine:</b> Does the styling make the car look larger?
 
-<b>Hirao:</b> If anything, it felt smaller to me.
+<b>Hirao:</b> If anything, it seemed smaller to me.
 
-<b>Komuro:</b> That’s something we’ve heard both ways--it can look larger or smaller depending on the angle. From the rear, in particular, many people say it appears more compact. That’s partly due to the more rounded shape. From the front, on the other hand, the "face" is quite pronounced, so it can give the impression of greater width.
+<b>Komuro:</b> That’s something we’ve heard both ways--it can look larger or smaller depending on the angle. From the rear, in particular, many people say it looks smaller. That’s partly due to the more rounded shape. From the front, on the other hand, the "face" is quite pronounced, so it can give the impression of greater width.
 
 <b>Magazine:</b> What are your thoughts on the stepped hood design?
 
 <b>Hirao:</b> With that shape, it’s hard to see over to the left side.
 
-<b>Hoshijima:</b> It’s certainly unique--interesting, even--but it also feels like part of Toyota’s tradition. There’s always something that strikes you as slightly unusual at first glance. It might improve with familiarity, but initially it does feel a bit odd. The old Crown’s fenders, or the earlier Corona’s front end--there’s always been something like that. It almost makes you wonder if those elements are deliberately introduced.
+<b>Hoshijima:</b> It’s certainly unique--interesting, even--but it also feels like part of a Toyota tradition. There’s always something that strikes you as slightly unusual at first glance. It might improve with familiarity, but initially it does feel a bit odd. The old Crown’s fenders, or the earlier Corona’s front end--there’s always been something like that. It almost makes you wonder if those elements are deliberately introduced.
 
-<b>Komuro:</b> It’s not so much deliberate as a desire to create some kind of defining feature, something that leaves an impression.
+<b>Komuro:</b> It’s not so much deliberate as a desire to create some kind of defining feature, something that makes an impression.
 
-<b>Hoshijima:</b> As a whole, the styling is quite good, I think. But when you actually drive the car, while it may be safer in an external sense, from the driver’s seat the visibility can be a bit troublesome. The rounded-off corners make it harder to judge the car’s width.
+<b>Hoshijima:</b> Overall, the styling is quite good, I think. But when you actually drive the car, while it may be safer in an external sense, from the driver’s seat the visibility can be a bit problematic. The rounded-off corners make it harder to judge the car’s width.
 
 <b>Hirao:</b> You get used to that soon enough, though.
 
@@ -199,7 +199,7 @@ There’s also some concern about the color-keyed bumpers--what happens if they 
 
 As for the brakes, all but the standard model now use front discs. The brake booster has been enlarged to 9in, allowing it to assist both front and rear, improving overall braking performance. The suspension remains fundamentally the same, but we’ve made detail refinements to increase strength margins. In particular, for the brake lines, we’ve paid careful attention to routing--ensuring they don’t interfere with other components--and added protection against corrosion and stone damage.
 
-<b>Hirao:</b> The brakes are definitely better. But I imagine there will be some complaints about the pedal layout. The brake pedal sits up quite high.
+<b>Hirao:</b> The brakes are definitely better. But I imagine there will be some complaints about the pedal layout. The brake pedal is set quite high.
 
 <b>Higuchi:</b> It does feel like an American car that way, doesn’t it?
 
@@ -211,9 +211,9 @@ As for the brakes, all but the standard model now use front discs. The brake boo
 
 <b>Hirao:</b> That’s certainly how American cars tend to be.
 
-<b>Komuro:</b> With the brake pedal, there’s also the need to align it with the clutch. Generally speaking, if you shorten the clutch stroke, the leverage ratio decreases and the pedal becomes heavier. So a certain amount of travel is retained, and in relation to that, the brake pedal follows…
+<b>Komuro:</b> With the brake pedal, there’s also the need to align it with the clutch. Generally speaking, if you shorten the clutch stroke, the leverage ratio decreases and the pedal becomes heavier. So we retain a certain amount of travel, and the brake pedal follows in relation to that...
 
-<b>Hirao:</b> But the clutch is operated with the left foot, and the brake with the right. So the relationship that really matters is between the accelerator and the brake. There’s no real necessity to align the clutch and brake pedal faces. I’ve always wondered why that’s done. It’s a bit forced, considering they’re used by different feet.
+<b>Hirao:</b> But the clutch is operated with the left foot, and the brake with the right. So the relationship that really matters is between the accelerator and the brake. There’s no real need to line up the clutch and brake pedal faces. I’ve always wondered why that's done. It’s a bit forced, considering they’re used by different feet.
 
 <b>Komuro:</b> On the other hand, if the pedals aren’t aligned, we tend to hear complaints from users asking, “Why is there a step between them?”
 
@@ -239,7 +239,7 @@ That 0-400m figure is exactly the same as the previous Crown Hardtop SL, but the
 
 <b>Hoshijima:</b> Possibly the intake system.
 
-<b>Magazine:</b> Since it’s meant to be a car for owner-drivers, there’s a view that compared with the 1.5- to 1.9-liter class, unless the driver has a rather calm disposition, it can feel a bit "sluggish"…
+<b>Magazine:</b> Since it’s meant to be a car for owner-drivers, there’s a view that compared with the 1.5- to 1.9-liter class, unless the driver has quite a calm disposition, it can feel a little "sluggish"…
 
 <b>Okazaki:</b> Those acceleration figures are a little hard to believe, to be honest.
 
@@ -249,19 +249,19 @@ That 0-400m figure is exactly the same as the previous Crown Hardtop SL, but the
 
 <b>Komuro:</b> I don’t think it’s simply a matter of the twin carbs. We are working to lighten it somewhat.
 
-<b>Okazaki:</b> When accelerating from something like a highway toll gate, it does feel a bit "lazy."
+<b>Okazaki:</b> When accelerating from something like a highway toll gate, it does feel a bit "sluggish."
 
-<b>Hoshijima:</b> Even in city driving, when you’re mixing it up with other cars, the torque-converter version can feel a bit dicey.
+<b>Hoshijima:</b> Even in city driving, with the torque-converter version, it can feel a little dicey when you’re mixing it up with other cars.
 
 <b>Hirao:</b> The reason a torque-converter car feels "sluggish" is delayed throttle input. To achieve the same acceleration, you need to press the pedal about 0.3 seconds earlier.
 
-<b>Hoshijima:</b> Even among torque-converter cars, something like the Corona class gives a greater sense of reassurance.
+<b>Hoshijima:</b> Even among torque-converter cars, something in the Corona class gives a more reassuring feeling.
 
 <b>Hirao:</b> The one I drove in particular had very poor response.
 
-Perhaps it’s due to the car’s weight. Also, when a driver wants to increase speed, the force applied by the foot typically increases by only about 100-200g. But with this accelerator, that amount of force isn’t enough to make it budge. (laughs)
+Perhaps it’s due to the car’s weight. Also, when a driver wants to increase speed, the force applied by the foot typically increases by only about 100-200g. But with this accelerator, that amount of force isn’t enough to get it to budge. (laughs)
 
-You have to really stamp on it--then it responds. And in that moment, you lose a fraction of a second.
+You have to really step on it--then it responds. And in that moment, you lose a fraction of a second.
 
 <b>Okazaki:</b> At the end of the day, perhaps that’s just how a 2-liter class car is--it can’t be helped.
 
@@ -271,7 +271,7 @@ You have to really stamp on it--then it responds. And in that moment, you lose a
 
 <b>Komuro:</b> On the other hand, once you’ve driven a 2-liter class car, it isn't easy to go back. There is a clear difference.
 
-<b>Hirao:</b> In the end, once you learn the technique that suits the car, it stops feeling stressful.
+<b>Hirao:</b> In the end, once you learn the technique that suits the car, that anxious feeling goes away.
 
 <b>Hoshijima:</b> So compared with the image of American cars, the key difference here is in the level of power.
 
@@ -309,7 +309,7 @@ In the hands-off directional stability test, the overall characteristics haven�
 
 <b>Fu:</b> In that sense, for Japanese drivers it gives a rather "good feel."
 
-<b>Komuro:</b> In Japan, a certain amount of self-centering "return" in the steering is expected, but in America that return isn’t regarded as particularly important. The lighter it is, the better.
+<b>Komuro:</b> In Japan, a certain amount of self-centering "return" in the steering is expected, but in America that return isn’t regarded as particularly important. It's simply: the lighter, the better.
 
 <b>Hirao:</b> So this is what you might call a more European kind of power steering.
 
@@ -321,7 +321,7 @@ In the hands-off directional stability test, the overall characteristics haven�
 
 <b>Ishikawa:</b> However, if you’re not used to it, the steering return after entering a corner does tend to feel slightly delayed.
 
-<b>Hirao:</b> If the “power feel” is barely noticeable, then that’s almost by accident, isn’t it? (laughs) But since it’s a power-assisted system anyway, that's unavoidable. Still, I’m not sure you can necessarily say that achieving that same kind of feel is always ideal.
+<b>Hirao:</b> If the “power feel” is barely noticeable, then that’s almost by accident, isn’t it? (laughs) With an unassisted system, there's no other way for it to be, but I’m not sure you can necessarily say that achieving that same kind of feel with power steering is always desirable.
 
 <b>Magazine:</b> Please give us the weight, alignment, and brake data.
 

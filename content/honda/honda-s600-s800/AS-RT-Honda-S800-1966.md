@@ -50,94 +50,96 @@ draft = false
 
 
 
-<b><u>A 30-Hour Nonstop Run in the Honda S800</b></u>
+<b><u>30-Hour Nonstop Run</b></u>
 
-It has been said that with the change from the S600 to the S800, the Honda Sports has finally matured into a true grand touring car. To put that claim to the test, we subjected the S800 to 1,300km of hard driving, and conducted instrumented tests to measure its performance.
+It is said that only with the evolution from the S600 to the S800 has the Honda Sports matured into a true <i>gran turismo</i>. We put that character to the test over 1,300km of hard driving, while also conducting acceleration tests and other measurements.
 
+<b><u>A Bad Feeling</b></u>
 
-<b><u>I Have a Bad Feeling</b></u>
+It was in early March that we set out to test the Honda S800. A cold wave had just swept in, and we heard that snow had piled up on the Hakone Shindo road, forcing it to close to traffic the night before. Whenever part of the Tokaido or one of the mountain passes is closed, all the vehicles that have been held up—especially the big trucks—set off together the following morning. The highways then invariably become hopelessly backed up. Thinking about all this before we left, I somehow had a bad feeling.
 
-We had arranged to test drive the Honda S800 in early March. A cold wave had just hit, causing snow to pile up on the Hakone Shindo road, and traffic was halted the night before our drive. When traffic is shut down on parts of the Tokaido road and mountain passes, all the cars that are held up, especially large trucks, tend to start driving again at the same time the following day. This usually causes huge traffic jams on the highway. Thinking about this before our departure, I already had a bad feeling.
+The S800 supplied by Honda, however, was tied to a fixed schedule, and there was no way to change the date, so in the end we decided to leave Tokyo around midnight, when the roads would be relatively empty. Our original plan was to head west from Tokyo, turn around at the 1,000km point, and cover the full 2,000km without stopping. Assuming an average cruising speed of 45-50km/h, this would take between 40 and 44 hours. We calculated that if we left at night, we could be back in Tokyo two days later.
 
-However, the S800 provided by Honda Motor was tied to a schedule, and the date could not be changed, so we decided to leave Tokyo in the middle of the night when the roads were less crowded. The original plan was to drive west from Tokyo, turn around at the 1,000km mark, and cover a total of 2,000km non-stop. Assuming an average cruising speed of 45-50km/h, it would take 40 to 44 hours. We calculated that if we left at night, we could return to Tokyo the day after next.
+We actually started at 11:00pm on the 12th, but discovered that the tachograph and Halda Speedpilot we had fitted were not working properly, and quickly had to turn back. After fixing them up, we set off again—an embarrassing false start for us. By then it was already after midnight, and the effects of our inadequate preparation continued to plague us to the very end, preventing us from logging satisfactory records—something we regretted greatly. We started again at 12:55am on the 13th, but the tachograph stubbornly refused to operate until 7:00 that morning.
 
-In reality, the drive was supposed to start at 11:00pm on the 12th, but after noticing a problem with the Halda tachograph and speed pilot instruments, we had to turn back, fix them up, and then set off again. ­­­­­­­­­­It was a pity that these problems persisted and we were unable to get satisfactory instrumented test results. We restarted at 12:55am on the 13th, but the tachograph did not start working until 7:00am.
+<b><u>Crawling Along</b></u>
 
-<b><u>Driving at a Crawl</b></u>
+To make matters worse, my bad feeling turned out to be correct.
 
-What's more, my bad feeling turned out to be correct.
+Not long after passing Numazu, around Senbon Matsubara, we found ourselves crawling forward inch by inch. The traffic between Fuji and Shimizu and around the Utsunoya Pass was equally bad, and just as we were finally able to breathe a sigh of relief and resume a normal pace, two trucks collided on the far side of the Oi River, one of them overturning and completely blocking the road. We were forced to make a long detour through Shimada and cross the bridge farther upstream. We ran into still more traffic in Hamamatsu, and by the time we reached the drive-in at Nishi-Hamana, we were beginning to feel tired. The distance from Tokyo to Nishi-Hamana, including our driving within Tokyo, was less than 300km. We had expected to cover it comfortably in six hours. Our original plan was to arrive at 5:00am; in reality, it was 8:30am. We were already three and a half hours behind schedule.
 
-Shortly after passing Numazu, the traffic slowed to a crawl from Senbon Matsubara. The traffic was also heavy between Fuji and Shimizu, and at Utsunoya Pass, and just as we finally felt some relief and started to move at normal speed, we found that a truck had collided with another car passing the Oigawa River, and one of the vehicles overturned,  completely blocking the road. We had to take a long detour through Shimada City and cross a bridge upstream. We also encountered traffic jams in Hamamatsu, and by the time we arrived at the Nishihama Drive-In I was exhausted. The distance between Tokyo and Nishihama is a little under 300km, including the driving within Tokyo. According to the plan, we should have gotten there in an easy six hours. The original plan was to arrive at 5:00am, but it actually ended up being 8:30am, so we were already three and a half hours behind schedule.
+Over breakfast there, we reconsidered our plans. In the end, we abandoned the 2,000km nonstop run and decided instead to take the Meishin Expressway, do some hill-climbing around the far side of Mt. Rokko, then continue via the Hanna Highway and the newly opened Meihan Highway to Kameyama. From there we would stop at Suzuka Circuit before heading straight back to Tokyo. The revised route would cover about 1,200km in all.
 
-We reconsidered our plan while having breakfast. As a result, we decided to abandon the 2,000km non-stop route. Instead, we would take the Meishin Expressway, do a hill climb in the Ura-Rokkō area, continue through the newly built Hanshin–Nara National Route and Meihan National Route, head out to Kameyama, stop by Suzuka Circuit, and then return directly to Tokyo. The revised total distance was about 1,200km.
+Even after that, we repeatedly encountered traffic around Toyohashi and before Okazaki. It was noon by the time we entered Nagoya, and a little before 1:00pm when we reached the Komaki interchange.
 
-After starting off again, we encountered repeated traffic jams around Toyohashi and just before Okazaki, and we didn't enter Nagoya city until noon, and arrived at the Komaki interchange just before 1:00pm.
+We stopped briefly at the rest area at Yoro to check the car, then set off to cover the Meishin Expressway in one stretch. Near Yokaichi, however, the left front tire suffered a puncture. We quickly replaced it with the spare wheel, but at the Otsu interchange we pulled into a service garage to have the flat tire repaired. We found that a nail had left the tube perforated with a row of holes like sewing-machine stitches, making it difficult to repair, so we decided to replace the tube instead. But the garage had neither a 6.15-13 tube nor even a 6.00-13, so in the end we had to drive into Otsu in search of a replacement. That cost us another full hour.
 
-We took a short break at the rest area in Yoro for an inspection. We then continued on the Meishin Expressway, but near Yokaichi, the left front tire suffered a puncture. We quickly replaced it with the spare, but decided to take it to a service center at the Otsu interchange to have the flat tire repaired. The tube had been split by a nail, leaving a series of holes like a perforated edge, and we realized it would be difficult to repair. We decided to replace the tube entirely, but neither 6.15-13 or even 6.00-13 size tubes were available, so we ended up driving to Otsu city in search of a replacement tube. Here too, we lost one full hour of driving time.
+This road test really was plagued by bad luck.
 
-Retelling the story, it occurs to me that this really was an ill-fated test drive.
+<b><u>High-Speed Driving</b></u>
 
-<b><u>High-Speed Drive</b></u>
+From the Nishinomiya interchange we joined National Route 2, then turned off at Ashiya toward the Royu Road. Of all the roads we drove during our test of the Honda S800, I think the network of "driveways" around Mt. Rokko, beginning with the Royu Road, was the setting best suited to this car.
 
-With our tire problems resolved, from the Nishinomiya interchange, we took National Route 2 and headed towards Aoyo Road. Of all the routes we tried with the Honda S800, the one that suited this car best was the series of scenic toll roads, or driveways, around Mount Rokko, starting from the Aoyo Road.
+Our route took us along the Royu Road to Arima Onsen, then alongside the Kobe Electric Railway’s Shinyu Line to the foot of the climb up the northern side of Mt. Rokko. From there we entered the Ura-Rokko Driveway, passing below Kinenhidai and the Rokko-san Hotel, then continued onto the Nishi-Rokko Driveway. Near the Forest Botanical Garden we took the Oku-Futatabi Driveway and then the Futatabi-san Driveway, which brought us out near Motomachi in central Kobe. There were too many toll gates to allow an uninterrupted run, but from 4:00pm until a little after 5:00pm, just when the pleasure-driving crowd had begun to thin out, we were able to drive to our hearts’ content. Everywhere around Mt. Rokko there is one sharp, tire-squealing curve after another, making it an ideal place to put one’s driving technique to work. In summer, however, I am told that the volume of traffic, together with cyclists and hikers, makes it impossible to drive as freely as one would like.
 
-The route went from the Aoyo Road through Arima Onsen, following the Kobe Electric Railway Shingu Line to the entrance of the Ura-Rokko climbing trail. From there we entered the Ura-Rokko Driveway, passed below Kinenhidai, continued on to the Rokko Mountain Hotel, then linked up with the Nishi-Rokko Driveway. Near the Forest Botanical Garden we joined the Oku-Futatabi Driveway and the Futatabi Mountain Driveway. The end point was near Motomachi in Kobe City. There were so many toll gates that it was impossible to keep going indefinitely, but I was able to enjoy the route to my heart's content between 4:00pm and 5:00pm, when the usual driving crowd had thinned out. The area around Mount Rokko is full of sharp, tire-squealing curves, making it the perfect place to show off your driving technique. However, I've heard that in the summer, traffic, cyclists, and hikers make it difficult to drive as hard as you'd like.
+Considering how difficult it is to find a suitable hill-climb course around Tokyo, drivers in this area are fortunate indeed. On the other hand, almost all these driveways charge tolls, so spending half a day driving around can become fairly expensive. From around Futatabi-san Park, the view down over the port of Kobe, caught in the setting sun, was magnificent.
 
-Considering how difficult it is to find hill climbing courses in the Tokyo area, drivers in this area are quite fortunate. However, almost all the driveways are toll roads, so if you drive around for half a day, it can get quite expensive. As we stopped to rest near Futabayama Park, looking down at Kobe port, the view was magnificent as the sun was setting.
+<b><u>1,300km on the Road</b></u>
 
-<b><u>Mileage: 1,300km</b></u>
+Night fell while we were driving from Kobe to Osaka. From Taisho Bridge, near the southern end of Osaka, we continued through Uehommachi 6-chome, Kawachi, and Hiraoka before joining the Hanna Road, then took the Meihan Road from Tenri through to Kameyama. The Meihan Road opened this year and is currently toll-free; the road itself is excellent, and the quality of the pavement is first-rate.
 
-Night fell while driving between Kobe and Osaka. From Taisho Bridge near the southern tip of Osaka, we passed through Uehonmachi 6-chome  and Kawachi-Hiraoka, then entered the Hanna Expressway, continuing from Tenri onto the Meihan Road to Kameyama. The Meihan Road opened this year and is currently toll-free. The road conditions are excellent, and the quality of the pavement is top-notch.
+After stopping briefly at Suzuka Circuit, we made another short stop at Hamamatsu to refuel, finally arriving back in Tokyo at 6:20am on the 14th. From our restart at Akasaka in Tokyo, 29 hours 25 minutes had elapsed. We had covered a total of 1,298.3km, for an overall average speed of 44km/h. The total time spent stopped for refueling, servicing, repairs, meals, and so forth was 2 hours 20 minutes.
 
-After stopping by Suzuka Circuit, we took a short break in Hamamatsu to refuel, and arrived back in Tokyo at 6:20am on the 14th. From our start at Akasaka in Tokyo, the drive had taken 29 hours and 25 minutes, covering a total distance of 1,298.3km at an average speed of 44 km/h. The total time spent stopped for refueling, maintenance, repairs, meals, etc. was 2 hours and 20 minutes.
+We consumed 120.2 liters of high-octane gasoline, for an overall fuel consumption of 10.7km/l over the entire run.
 
-The amount of high-octane gasoline consumed was 120.2 liters, and the total fuel economy for the trip was an average of 10.7km/l.
+In addition, we added half a liter of oil on three occasions, for a total of 1.5 liters. The only troubles were with the tachograph and Speedpilot—neither of which had anything to do with the Honda S800 itself—and the puncture on the Meishin. There was not even any need to add coolant.
 
-In addition, I refilled the oil three times, 0.5 liters at a time, for a total of 1.5 liters. The only troubles we had were with the tachograph and speed ​pilot instruments, which had nothing to do with the Honda S800 itself, and the flat tire on the expressway. We didn't need to refill the coolant either.
+<b><u>Less Weight per Horsepower</b></u>
 
-<b><u>Lighter Weight Per Horsepower</b></u>
+Now we come to the road impressions themselves. Auto Sport has already featured a test-run report on the Honda S800 in its April issue, in which the preparation of the car, its mechanical details, the differences from the S600, and so forth were discussed so thoroughly that there is very little to add here. To describe the Honda S800 very simply, then, it might be summed up as the S600 with its body left almost unchanged, fitted with a larger-capacity 800cc engine and 6.15-13 low-section tires.
 
-Now, I would like to move on to the main road impressions. The April issue of Auto Sport has already featured a detailed description and test drive of the Honda S800, so the vehicle's layout and mechanisms, as well as its differences from the S600, have been thoroughly covered, and there is little need to repeat them here. So, to briefly describe the Honda S800, it retains almost the same body as the S600, but with a larger-capacity 800cc engine under the hood and 6.15-13 low-profile tires on its wheels--that's essentially it.
+Externally, the main changes are a new radiator grille, with a black-painted mesh set off by cross-shaped chrome moldings; a bulge in the engine hood around the air-cleaner area; and a completely redesigned rear grille incorporating combination lamps. The bumpers, too, project farther outward than those of the S600 and have been made more substantial. Yellow has also been added to the existing range of body colors.
 
-In terms of the exterior, the radiator grille has been redesigned with a black-painted mesh and a cross-shaped chrome molding, a hood bulge has been added near the air cleaner, and the rear grille has been completely redesigned with the adoption of combination lamps. The bumper also has a larger protrusion in the front and larger taillight lenses than the S600, giving it a sturdier appearance. Yellow has been added to the palette of body colors, and our test car was painted this color.
+Mention yellow and one immediately pictures the unpleasant color of a taxi, but the actual car looks remarkably bright and cheerful. It has an appealing character of its own, quite different from the yellow seen on Porsches.
 
-When you think of yellow used for a car, the unpleasant image of a taxi immediately comes to mind, but the actual color is very bright, and has a pleasant character that is different from the shade used on Porsches.
+The stronger-looking cross motif at the front now incorporates horizontally elongated turn-signal lamps, while the round tail lamps have likewise been replaced by somewhat larger horizontal ones. The way the white reversing lamp has been neatly incorporated within each of these through a clever arrangement is a particularly good idea.
 
-The stronger-looking cross-shaped front end now features horizontal turn signal lamps, and the tail lamps have been changed from round  units to slightly larger horizontal ones. The clever integration of white cutouts for the backup lamps is a great idea.
+Apart from the engine, the chassis can be considered virtually identical to that of the S600. Overall length, width, and height are 3335 × 1400 × 1200mm (1195mm for the Coupe). The 35mm increase in overall length compared with the S600 is due to the bumper changes mentioned above. Weight is also slightly heavier, at 720kg (735kg for the Coupe). Even so, the weight per horsepower is much lighter than in the S600.
 
-Apart from the engine, the chassis is almost the same as the S600, and its overall length, width, and height are 3335 x 1400 x 1200mm (1195 mm for the coupe). The overall length is 35 mm longer than the S600 due to the bumper improvements mentioned earlier. The weight is also slightly heavier at 720 kg (735 kg for the coupe). Even so, the weight per horsepower is much lighter than that of the S600.
+<b><u>A More Powerful Engine</b></u>
 
-<b><u>Powerful Engine</b></u>
+The engine is, of course, an enlarged version of the S600 unit. Both bore and stroke have been increased by about 5mm, from 54.5 × 65mm to 60 × 70mm. Total displacement is now 791cc. Maximum output has increased from 57ps/8500rpm to 70ps/8000rpm, while maximum torque has risen from 5.2kgm/5500rpm to 6.7kgm/6000rpm. This brings the weight per horsepower down from 12.6kg/ps to 10.3kg/ps.
 
-The engine is, of course, an enlarged version of the S600's unit, and the previous bore and stroke of 55 x 65mm have been increased to 60 x 70mm, about 5mm each. Total displacement is now 791cc. Maximum output has increased from 57ps/8500rpm to 70ps/8000rpm, and torque has increased from 5.2kgm/5500rpm to 6.7kgm/6000rpm. As a result, the weight per horsepower has improved from 12.6kg/ps to 10.3kg/ps.
+From the outside, the cylinder block appears to be dimensionally identical to that of the S600. The S600 engine itself has undergone considerable improvement since its introduction. For example, the cylinder liners, originally separate individual pieces, were later paired into single units to increase rigidity, and the S800 should, of course, represent the most highly developed version. The compression ratio is 9.2. The four Keihin Seiki variable-venturi carburetors have also been increased from 26mm to 32mm in bore diameter.
 
-From the outside, the cylinder block looks almost exactly the same as the S600's. The S600's engine has been improved considerably since it was first released, for example, by combining the original separate cylinder liners into two siamesed units to increase rigidity, and the S800's engine represents the most advanced state of these improvements. The compression ratio is 9.2. The four Keihin Seiki variable venturi carburetors have had their bore diameter increased from 26mm to 32mm. With the increased power and torque, the gear ratios of the transmission have been made taller at 3.20 / 1.98 / 1.29 / 0.91 (the S600 was 3.89 /1.98 / 1.43 / 1.09). The overall reduction ratio has also been lowered from 5.9 to 5.8. As you can see from the figures, the gear ratios are now slightly closer to each other. A 5-speed transmission is again available as an option, just as it was on the S600.
+With the increase in power and torque, the transmission ratios are now 3.20 / 1.98 / 1.29 / 0.91, compared with 3.89 / 2.19 / 1.43 / 1.09 for the S600. The overall reduction ratio has also been lowered from 5.9 to 5.8. As the figures indicate, the ratios are now slightly closer from one gear to the next. As on the S600, a 5-speed transmission is available as an option.
 
 The propeller shaft also appears to have been made slightly thicker.
 
 <b><u>Smooth Acceleration</b></u>
 
-What struck me most when I drove the S800 was how much extra margin, or flexibility, the engine seemed to have. I once wrote that the S600 felt like it had "two engines," with one character at low rpm and another, completely different one at high rpm, but the S800 delivers power evenly from low to high speeds. The revs rise smoothly, with more than 6.0kgm of torque available from 2500rpm to 8000rpm. Although the torque peak is 500rpm higher than before, maximum horsepower is reached 500rpm lower. In practice, it delivers excellent acceleration from anywhere above 2500rpm, and although we did not reach the catalog top speed of 160km/h, it pulled easily to 7700-7800rpm in top gear. Our test car was a convertible, but I think that the coupe would likely have an advantage in top speed due to its lower air resistance, if not acceleration due to the weight of the car.
+What struck me on driving the car was that the engine now has much more in reserve. I once wrote that the S600 seemed to have "two engines," but in the S800 there is no unevenness in character from low to high speeds; the revs rise smoothly, demonstrating that more than 6.0kgm of torque is available from 2500-8000rpm. Although the torque peak occurs 500rpm higher, maximum output is, conversely, developed 500rpm lower. In fact, from anywhere above 2500rpm, acceleration is excellent. We did not reach its maximum speed of 160km/h, but in top gear it would run quite easily to 7700-7800rpm. The car we tested was the convertible, but with the Coupe, leaving acceleration aside because of its greater weight, its lower aerodynamic drag should give it an advantage in maximum speed.
 
-The 0-400m acceleration test was conducted at the Honda test course in Arakawa, Saitama, but we were not able to match the figures listed in the catalog data, and our best time was 17.5 seconds. It is generally impossible for a new car to show its full potential in 0-400m acceleration, and the best times tend to be recorded when the engine and drivetrain are well broken in.
+We conducted the 0-400m acceleration test at Honda’s test course on the Arakawa in Saitama Prefecture, but were unable to match the catalog figure; our best time was 17.49 seconds. In any case, asking a brand-new car to give its best in a 0-400m run is rather unreasonable. The best times are generally recorded only after the drivetrain is properly run in.
 
-It's a great relief that the gearbox is now fully synchronized, so you can shift into low gear anytime.
+The gearbox is now fully synchronized, and the ability to select first gear at any speed is certainly welcome.
 
-<b><u>The Pleasure of Grand Touring</b></u>
+<b><u>The Pleasures of Grand Touring</b></u>
 
-The recorded lap times of S600s competing at Suzuka Circuit have gotten significantly faster over the past year, and many drivers can now post times under 3 minutes 10 seconds even with a stock car, provided the suspension is stiffened up a bit. Naturally, that raises the question of how the S800 would perform, and judging  from the feel at the driver's seat, shaving an additional seven to ten seconds off these lap times seems entirely possible.
+Lap times at Suzuka Circuit in the S600 have improved considerably over the past year, and recently many drivers have been able to record times of under 3 minutes 10 seconds even with a stock car, using only a stiffer suspension. The question, then, is what the S800 might do, and it seems likely that it could cut another seven to ten seconds from those times.
 
-In other words, it is likely that by simply strengthening the S800's suspension, breaking the 3-minute mark at Suzuka is well within reach.
+With the S800, breaking the three-minute mark with nothing more than a stiffer suspension should not be an exceptionally difficult feat.
 
-The increased power and torque raise exit speeds out of corners, and the maximum speeds are higher on the straight from Spoon Curve to the 150R, and from the final corner to the first corner. In addition, the wider tires contribute to greater cornering stability. All of these factors combined would have a significant effect on lap times.
+There are several reasons for this: the increase in power and torque means greater speed coming out of the corners; speeds are higher along the straight from Spoon Curve to the 150R, and along the straight from the final corner to the first; and the wider tires provide greater stability in cornering. All of these should make a substantial difference.
 
-Even in the mountains around Rokko, there were two or three moments when I wondered if the S600 would have hung on as well. The increased tire contact area and greater driving force available when cornering make the S800 not only more enjoyable to drive, but safer as well.
+Even in the mountains around Rokko, there were two or three occasions when I found myself wondering how the S600 would have managed. The greater tire contact area, together with the increased driving force available during cornering, seems to have made sporting driving in the S800 not only more enjoyable, but safer as well.
 
-At the same time, the engine's greater power reserves and generally lower revolutions not only increase durability, but also reduce noise and vibration, and combined with the improvements in ride comfort, these factors all make it easier to use this car as a business vehicle. 
+At the same time, the greater reserve of the engine means that it generally operates at lower speeds. Besides improving durability, this also reduces vibration and noise and benefits ride comfort, making the car easier to use as a business car.
 
-Sitting in the driver's seat, you can see that the previous polished instrument panel has been replaced with a matte black finish. At first glance, it looks less flashy, which some may consider a downside, but on a long drive, you'll realize that this small improvement goes a long way in reducing driver fatigue.
+Sitting in the driver’s seat, one notices that the previously polished instrument panel has been changed to a matte-black finish. At first glance it may seem less striking, but after a long drive one realizes how much small improvements such as this can help reduce driver fatigue.
 
-It's been about three years since the Honda Sports series was released, and it has matured remarkably. That was my honest impression after the test drive. The Honda S800's excellence, which was a sharp contrast to the bad feeling I had before setting off, seemed to be the saving grace of this grand touring trip.
+It has been a little over three years since the Honda Sports first went on sale, and my honest impression after this test was how much the car has matured in that time. In the end, the excellence of the Honda S800—quite the opposite of the bad feeling I had before setting off—seems to have saved this grand tour.
+
 
 ---
 
