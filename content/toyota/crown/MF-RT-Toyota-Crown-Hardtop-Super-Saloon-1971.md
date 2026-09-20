@@ -281,11 +281,11 @@ You have to really step on it--then it responds. And in that moment, you lose a 
 
 <b>Tateishi:</b> In terms of suspension vibration frequencies, the sprung mass shows 1.25Hz at the front and 1.4Hz at the rear. Unsprung mass is 13.7Hz at the front and 12.0Hz at the rear.
 
-Interior noise levels were 55 phons at 40km/h, 61 at 60km/h, 65 at 80km/h, 79 at 100km/h, and 72.5 at 120km/h. Exterior noise was measured at 73 phons at a steady 50km/h, and 78.5 phons under acceleration.
+Interior noise levels were 55 phons at 40km/h, 61 at 60km/h, 65 at 80km/h, 70 at 100km/h, and 72.5 at 120km/h. Exterior noise was measured at 73 phons at a steady 50km/h, and 78.5 phons under acceleration.
 
 <b>Watari:</b> The Crown has long been one of the quieter domestic cars. This time as well, the figures are extremely low. However, the road surface this time was considerably better than the usual Murayama course. If we convert the results, they would chart a roughly straight line connecting about 58 phons at 40km/h to 75 phons at 120km/h. Also, the absence of pronounced peaks along the curve probably contributes to the subjective impression of quietness. Exterior noise is also lower than the general average.
 
-As for ride vibration, the sprung frequency remains the same as before--1.25 cps in bouncing and around 1.4 cps in pitching--so it still has that soft ride quality. If anything, it might even be slightly more emphasized in that direction.
+As for ride vibration, the sprung frequency remains the same as before--1.25 cps in bouncing and around 1.4 cps in pitching--so it still has that soft ride quality. If anything, it might go even further in that direction.
 
 <b>Tateishi:</b> When I sat in the rear seat, I felt that some wind noise was coming in around the rear window frame area.
 
@@ -301,7 +301,7 @@ As for ride vibration, the sprung frequency remains the same as before--1.25 cps
 
 Understeer characteristics are also unchanged from the previous Crown; it maintains understeer even at high speeds.
 
-Roll angle came out at 6.1 degrees.
+Roll angle came out at 6.1°.
 
 In the hands-off directional stability test, the overall characteristics haven’t changed, but convergence behavior was very good.
 
