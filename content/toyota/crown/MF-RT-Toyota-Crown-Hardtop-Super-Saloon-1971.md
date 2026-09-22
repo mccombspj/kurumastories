@@ -323,27 +323,27 @@ In the hands-off directional stability test, the overall characteristics haven�
 
 <b>Hirao:</b> If the “power feel” is barely noticeable, then that’s almost by accident, isn’t it? (laughs) With an unassisted system, there's no other way for it to be, but I’m not sure you can necessarily say that achieving that same kind of feel with power steering is always desirable.
 
-<b>Magazine:</b> Please give us the weight, alignment, and brake data.
+<b>Magazine:</b> Let's have the data on weight, alignment, and braking.
 
 <b>Ishikawa:</b> Vehicle weight is 1386kg, about 40kg heavier than before. Front-to-rear weight distribution is 55:45, and it hardly changes even with a full load.
 
 Weight per unit area is 174kg/m², which is fairly high, and power-to-weight ratio is 68ps/ton, which is not particularly high.
 
-As for brakes, pedal effort for 0.6g deceleration is very light--about 15kg in bench tests, and around 19kg from 50km/h on the road.
+As for brakes, pedal effort for 0.6g deceleration is very light--about 15kg in bench testing, and around 19kg from 50km/h on the road.
 
 Front-to-rear brake force distribution is 7:3. Rear brake proportioning begins to take effect at around 15kg of pedal effort, corresponding to roughly 0.45-0.5g deceleration on the road. The servo rest point is around 25kg, so the booster continues working fairly deep into the pedal range.
 
 In general, operating forces are on the light side for this class, but the accelerator pedal requires about 4kg under acceleration, and around 1kg at a steady 50km/h, which feels slightly heavy.
 
-<b>Okazaki:</b> In terms of the balance between pedal offset and weight--that of the brake versus the accelerator--it was difficult to control smoothly because you had to lift your heel off the floor to brake.
+<b>Okazaki:</b> Regarding the balance between pedal offset and weight--that of the brake versus the accelerator--smooth control was difficult because you have to lift your heel off the floor to brake.
 
 <b>Ishikawa:</b> The lateral spacing between accelerator and brake pedals is normally 110-120mm, but here it’s 140mm. The height difference is also as much as 70mm.
 
-<b>Hirao:</b> So in effect, it's still the "heavy pedal layout," just with the brake pedal made lighter. (laughs)
+<b>Hirao:</b> So in effect, it's still the "heavy pedal layout," only the brake pedal has been made lighter. (laughs)
 
 <b>Komuro:</b> Since there were no issues with the driving position up to now, we carried it over as it was…
 
-<b>Hoshijima:</b> It may be that because the brake has become lighter, the weight of the accelerator now stands out more. I think the angle also plays a part--the foot doesn’t quite meet the accelerator surface naturally.
+<b>Hoshijima:</b> It may be that because the brake has become lighter, the weight of the accelerator is more noticeable. I think the angle of the accelerator also plays a part--the foot doesn’t quite meet its surface naturally.
 
 <b><u>A Machine Full of “Helpful” Mechanisms</b></u>
 
@@ -365,7 +365,7 @@ In terms of solid angle, the total visible range is 2.64 steradians. That puts i
 
 <b>Komuro:</b> But if you suddenly get splashed with mud, you can’t activate them instantly…
 
-<b>Hirao:</b> In that case, you just deploy them ahead of time. (laughs)
+<b>Hirao:</b> In that case, you just put them out in advance. (laughs)
 
 <b>Magazine:</b> Next, please give us the dimensional data.
 
@@ -381,11 +381,11 @@ Trunk space is also unchanged, but the spare tire is now mounted vertically.
 
 This is a higher-grade model called the Super Saloon, so a great deal of attention has been paid to small details. It comes with a door buzzer, vacuum-type auto-locks, and a timer-equipped defogger—there are almost too many “helpful” devices fitted.
 
-The seatbelt retractor system is very good, but when you tilt the seatback to get in and out of the rear, there is no preset to return to its original position, so you have to readjust it again each time. That’s a slight drawback.
+The seatbelt retractor system is very good, but when you tilt the seatback to get in and out of the rear, there is no preset to return to its original position, so you have to readjust it again each time. That’s a slight inconvenience.
 
 The gear lever stroke is about 30mm longer than the previous Crown overall.
 
-The instrument panel has no warning lamps at all—it’s fully gauge-based. There isn’t even an ignition warning lamp, so there’s no direct warning if the engine stalls. Of course, you can tell by looking at the ammeter…
+The instrument panel has no warning lamps at all—it’s an all-gauge layout. There isn’t even an ignition warning lamp, so there’s no direct warning if the engine stalls. Of course, you can tell by looking at the ammeter…
 
 <b>Ishikawa:</b> If you turn the key off and rotate it a little too far to the left, the trunk pops open. I did that a few times myself. (laughs)
 
@@ -393,7 +393,7 @@ The instrument panel has no warning lamps at all—it’s fully gauge-based. The
 
 <b>Hoshijima:</b> When something is “too helpful,” there are cases where it actually becomes inconvenient. (laughs)
 
-For example, when sitting in the rear of the hardtop, you can’t reach the inner door handle easily. That position might need reconsideration.
+For example, when sitting in the rear of the hardtop, you can’t reach the inner door handle easily. That position might need to be reconsidered.
 
 <b>Hirao:</b> The door lock position is awkward on the sedan too. And it’s heavy. I think it could be moved further forward.
 

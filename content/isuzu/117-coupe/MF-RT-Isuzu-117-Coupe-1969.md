@@ -83,7 +83,7 @@ Because it is a car in a completely new category, there was no existing model to
 
 We undertook extensive preparations, including worker training. In addition, rather than adopting the foreign-style so-called "custom" approach, we chose a production method that achieves higher productivity and more uniform build quality.
 
-On the technical side, the engine is a newly developed 1.6-liter four-cylinder DOHC unit producing 120ps. This is the result of engine development work that was already been underway before this car. It delivers not only high-speed performance but also plenty of torque at low speeds, and as you will notice when you drive it, it is extremely easy to handle even in city traffic.
+On the technical side, the engine is a newly developed 1.6-liter four-cylinder DOHC unit producing 120ps. This is the result of engine development work that had already been underway before this car. It delivers not only high-speed performance but also plenty of torque at low speeds, and as you will notice when driving it, it is extremely easy to handle even in city traffic.
 
 We had set a target top speed of 200km/h, but for the domestic standard specification we lowered the final gear ratio to 4.10, so its top speed is 190km/h. We specified low-profile high-speed tires, ventilated wheel discs, and power disc brakes to ensure high-speed drivability and stability.
 
@@ -149,7 +149,7 @@ As for future tuning, the engine has already been tuned to a considerable degree
 
 <b>Tsukagawa:</b> 6400rpm. The allowable rotational speed for the valve train is approximately 7500rpm.
 
-<b>Hoshijima:</b> You mentioned that the cylinder block has been strengthened. Does it remain largely common with that of the Bellett GT?
+<b>Hoshijima:</b> You mentioned that the cylinder block has been strengthened. Does it remain largely the same as that of the Bellett GT?
 
 <b>Tsukagawa:</b> The block is almost the same. In other words, it was reinforced in order to accommodate the DOHC layout and the higher engine speeds.
 
@@ -167,7 +167,7 @@ The third was reliability and durability. Building on our experience with the G1
 
 Thorough durability testing was conducted at the Yatabe test course, and we are confident in this respect as well. In terms of specifications, the engine is an oversquare design with an 82mm bore and 75mm stroke. Displacement is 1584cc, the compression ratio is 10.3, maximum output is 120ps at 6400rpm, and maximum torque is 14.5kgm at 5000rpm. As you can see from the torque curve, torque levels below 2000rpm are higher than those of most domestic or imported cars.
 
-The engine's service weight is 160kg, which makes it relatively light for an engine of this type.
+The engine's service weight is 160kg, which makes it relatively light for this type of engine.
 
 <b><u>Styling That Makes the Most of Authentic Italian Elegance</b></u>
 
@@ -311,9 +311,9 @@ Interior noise was measured from 40km/h to 140km/h. The results were 65 phons at
 
 Exterior noise was measured using the method specified by JIS. With the car in second gear, we measured two conditions: steady cruising at 55km/h, and full-throttle acceleration from 50km/h. The steady 50km/h run produced 76 phons, and the full-throttle acceleration run produced 82 phons.
 
-<b>Watari:</b> From the ride measurements, this car feels like an ordinary passenger car, but from the noise measurements, it feels like a very fast car. It sounds contradictory… (laughs)
+<b>Watari:</b> From the ride measurements, this car feels like a normal passenger car, but from the noise measurements, it feels like a high-speed car. It sounds contradictory… (laughs)
 
-<b>Hirao:</b> That’s exactly what was being aimed for. (laughs)
+<b>Hirao:</b> That's exactly what they were aiming for. (laughs)
 
 <b>Watari:</b> I think it’s about right for a car of this class. How do the noise figures compare with Isuzu’s internal data?
 
@@ -335,9 +335,9 @@ Once the Tomei Expressway is fully open, it will become common to drive at 100�
 
 <b>Watari:</b> To be frank about my impression of this car: the styling is good, the way it feels to drive is good, and as I just mentioned, the ride comfort is good too. But as a commercial product, I felt it was unclear what the "focus" or core identity of the car was. Then again, perhaps it isn’t appropriate to talk too much about where noise fits in with a car like this. Given that the vehicle weight is about one ton, I feel that a substantial portion of that weight is being used for noise control.
 
-<b>Yamamoto:</b> While driving it is extremely good, but when stopped, the sound at idle is quite loud, and the vibration seems to be transmitted into the cabin quite noticeably. Is the idle speed around 700 rpm?
+<b>Yamamoto:</b> While driving it is extremely good, but when stopped, the sound at idle is quite loud, and the vibration seems to be transmitted into the cabin quite noticeably. Is the idle speed around 700rpm?
 
-<b>Kaneshige:</b> It’s 800 rpm.
+<b>Kaneshige:</b> It’s 800rpm.
 
 <b>Hirao:</b> That’s true. The idle feel isn’t very good. I wonder if it would help to use a larger flywheel…
 
@@ -367,7 +367,7 @@ Finally, for hands-off directional stability, we were able to collect data up to
 
 <b>Magazine:</b> To those who actually drove the car, how did the steering feel?
 
-<b>Miyamoto:</b> I didn’t find it particularly light. It felt somewhat heavy, but as a car capable of nearly 200km/h, I thought that level of weight was appropriate. For a high-speed car like that, it has no particular quirks, and I think you could drive it confidently even through narrow streets in town.
+<b>Miyamoto:</b> I didn’t find it particularly light. It felt somewhat heavy, but as a car capable of nearly 200km/h, I thought that level of weight was appropriate. For a high-speed car like this, it has no particular quirks, and I think you could drive it confidently even through narrow streets in town.
 
 <b>Hoshijima:</b> From my impression, the roll rate is surprisingly small, but the degree of understeer seems quite strong. Would it be possible to allow a bit more roll and thereby reduce the understeer a little?
 
