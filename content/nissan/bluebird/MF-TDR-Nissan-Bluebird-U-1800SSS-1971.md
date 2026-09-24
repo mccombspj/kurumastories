@@ -2,7 +2,7 @@
 
 
 
-title = "Nissan Bluebird 1800SSS (1971)"
+title = "Nissan Bluebird U 1800SSS (1971)"
 
 weight = 16
 
