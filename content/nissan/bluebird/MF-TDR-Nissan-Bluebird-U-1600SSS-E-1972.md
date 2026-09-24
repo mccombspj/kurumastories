@@ -153,6 +153,10 @@ In its performance, handling, and passenger comfort, the 5-speed 1600SSS-E sedan
 
 What pleased me more than anything about the 1600SSS-E was that I could sense an "engineering personality" in the car.
 
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-TDR-Nissan-Bluebird-U-1600SSS-E-Gallery" >}}
+
 ---
 
 <div class="breadcrumbs-footer">
