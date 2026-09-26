@@ -87,17 +87,17 @@ In the end, however, we found that even for the sedan, demand for stronger perfo
 
 <b><u>Aiming for Wider Adoption of the Rotary</b></u>
 
-<b>Higuchi:</b> Merely having greater power feels somewhat unsatisfying. Rather than that, if you were to mount the air cleaner to the side and lower the front end--in the manner of a Porsche--creating a sedan with very low frontal height and reduced air resistance, like those seen at Italian shows, wouldn't that allow the unique advantages of the rotary engine to stand out more clearly?
+<b>Higuchi:</b> Greater power alone seems somewhat unsatisfying. Rather, if you were to mount the air cleaner to the side and lower the front end--in the manner of a Porsche--creating a sedan with very low frontal height and reduced air resistance, like those seen at Italian shows, wouldn't that allow the unique advantages of the rotary engine to stand out more clearly?
 
-<b>Minagawa:</b> Our primary objective at present is to promote the wider adoption of the rotary. In particular, reducing cost is a major point. Once this car has fulfilled that role of popularization, we would like to produce a car that expresses the rotary’s distinctive character more strongly, as you suggest.
+<b>Minagawa:</b> Our primary objective for now is to promote the wider adoption of the rotary. In particular, reducing cost is a major point. Once this car has fulfilled that role of popularization, we would like to produce a car that expresses the rotary’s distinctive character more strongly, as you suggest.
 
-<b>Higuchi:</b> I had hoped that you might first introduce a sedan that could only be realized with a rotary engine, and then pursue broader adoption from there.
+<b>Higuchi:</b> I had hoped that you might start by introducing a sedan that could only be realized because of the rotary engine, and then pursue broader adoption from there.
 
 <b>Minagawa:</b> If we had begun with a high-grade sedan, it would have been difficult to expect mass production and large sales volumes. The Cosmo represented a stage with an experimental element, intended to introduce the market to the rotary engine. The Rotary Coupe strengthened the practical side of the equation somewhat, and with this Rotary SS, the policy is to move further toward wider adoption.
 
-<b>Hirao:</b> I understand that reasoning. Certainly, we have entered an era in which even a small car is expected to run as fast as a large one. A larger car may offer greater comfort and space, while a smaller car may feel somewhat confined inside. But in terms of speed, there should no longer be a distinction.
+<b>Hirao:</b> I understand that reasoning. Certainly, we have entered an era in which even a small car is expected to be as fast as a large one. A larger car may offer greater comfort and space, while a smaller car may feel somewhat tight inside. But in terms of speed, there should no longer be a distinction.
 
-At present, smaller cars still tend to have lower maximum speeds, and so a high top speed is associated with the image of a high-grade car. In reality, however, 100mph--160km/h--ought to be attainable whether the car is small or large. In that sense, although the Rotary SS is modest in size, the fact that it can sustain 100mph in regular use carries considerable significance.
+At present, smaller cars still tend to have lower maximum speeds, and so a high top speed is associated with the image of a high-grade car. In reality, however, 100mph--160km/h--ought to be attainable whether the car is small or large. In that sense, although the Rotary SS is small in size, the fact that it can sustain 100mph in regular use is quite significant.
 
 <b>Higuchi:</b> You describe this car as a product meant to promote wider adoption of the rotary, but if one looks at the figures from a user's perspective, it is undeniably more expensive than the reciprocating version. A 100,000-yen increase over the Familia's optional higher-output reciprocating engine seems somewhat removed from the idea of popularization, doesn't it?
 
