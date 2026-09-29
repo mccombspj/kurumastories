@@ -123,7 +123,7 @@ There are also questions of production efficiency and contribution to the compan
 
 <b>Yamamoto:</b> If regulations are to be imposed, we would prefer that NOx be fully addressed as well, including for reciprocating engines. In that case, the rotary would be at an advantage.
 
-<b>Higuchi:</b> If appealing to safety is not an attractive selling point, and if even speed ceases to be persuasive, then perhaps it would be worthwhile to move ahead of the trend and advertise that this is a car with comprehensive emissions countermeasures and no pollution concerns.
+<b>Higuchi:</b> If appealing to safety is not an attractive selling point, and if even speed stops being persuasive, then perhaps it would be worthwhile to move ahead of the trend and advertise that this is a car with comprehensive emissions countermeasures and no pollution concerns.
 
 <b>Watanabe:</b> That might make us the most unpopular child in the industry. (Laughs.)
 
@@ -155,7 +155,7 @@ Although the engine is said to be identical to that in the Rotary Coupe, increas
 
 <b><u>Is Strong High-Speed Acceleration Necessary?</b></u>
 
-<b>Hirao:</b> I sometimes think that, in various respects, it might be preferable for a car to accelerate strongly at low speeds but then lose that urgency quite suddenly as speed rises. That could be achieved by combining a powerful engine with a body style that generates substantial aerodynamic drag.
+<b>Hirao:</b> I sometimes think that, in some respects, it might be preferable for a car to accelerate strongly at low speeds but then lose that acceleration quite suddenly as speed rises. That could be achieved by combining a powerful engine with a body style that generates substantial aerodynamic drag.
 
 <b>Takada:</b> Are you thinking of something like a speed limiter?
 
@@ -163,13 +163,13 @@ Although the engine is said to be identical to that in the Rotary Coupe, increas
 
 <b>Watanabe:</b> That runs counter to the efforts of those working on aerodynamics.
 
-<b>Hirao:</b> From the standpoint of safety, I believe the idea is worthwhile, even if it contradicts the aerodynamicists.
+<b>Hirao:</b> From the standpoint of safety, I think it's a worthwhile idea, even if it contradicts the aerodynamicists.
 
 <b>Higuchi:</b> For the average driver, I suspect that around 100km/h is about the upper limit for truly safe travel. If aerodynamic resistance were to serve as an indicator, sound might be the most effective signal. With present designs, wind noise becomes pronounced at 70-80km/h, which is fatiguing. It would be better if the car only became noisy from around 100km/h.
 
 <b>Hirao:</b> One could, for example, select door-seal rubber of an appropriate softness so that at high speeds it would suddenly produce a louder wind noise.
 
-<b>Higuchi:</b> It's an unpleasant sensation to restrain a car that is capable of greater speed. If the car became noisy even though it could go faster, prompting the driver to hold back, that may be preferable. Those who insist on speed could still press on, noise notwithstanding.
+<b>Higuchi:</b> It's an unpleasant sensation to restrain a car that is capable of going faster. If the car became noisy even though it could still go faster, prompting the driver to hold back, that may be preferable. Those who insist on speed could keep going despite the noise.
 
 <b>Watari:</b> Still, I think 100km/h is too low to define as a safe speed. Around the world, “high speed” increasingly means something closer to 140km/h.
 
@@ -177,7 +177,7 @@ Although the engine is said to be identical to that in the Rotary Coupe, increas
 
 <b>Watanabe:</b> Those ideas are almost the reverse of the difficulties we face. Professor Hirao suggested raising drag abruptly; in fact, if we were to leave the underbody rough and uneven, resistance would suddenly increase around 140–150km/h. At present, however, we are doing the opposite, fitting airflow covers underneath to prevent precisely that. As for door seals, we are troubled in the other direction: at high speeds the doors and glass are pulled outward, producing a whistling noise. Our concern is how to prevent that suction effect.
 
-<b>Watari:</b> Yes, recent cars have improved greatly, but if they become noisy between 100-120km/h, that is still not satisfactory. If such sounds emerged at somewhat higher speeds, they could serve as a kind of warning. As it stands, noise tends to appear already at speeds that are perfectly usable.
+<b>Watari:</b> Yes, recent cars have improved greatly, but if they become noisy between 100-120km/h, that is still not satisfactory. If such sounds emerged at somewhat higher speeds, they could serve as a kind of warning. As it is, noise tends to appear already at speeds that are perfectly usable.
 
 <b>Magazine:</b> Since the subject of sound has come up, let's now present the noise data from the Watari Laboratory.
 

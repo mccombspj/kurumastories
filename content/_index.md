@@ -9,6 +9,7 @@ title: "Welcome to Kuruma Stories"
 <h2 style="text-align: center;">Explore stories by manufacturer:</h2><br>
 
 <ul style="list-style-type: none; padding-left: 0; text-align: center;">
+  <li><a href="/daihatsu/">Daihatsu</a></li><br>
   <li><a href="/honda/">Honda</a></li><br>
   <li><a href="/isuzu/">Isuzu</a></li><br>
   <li><a href="/mazda/">Mazda</a></li><br>

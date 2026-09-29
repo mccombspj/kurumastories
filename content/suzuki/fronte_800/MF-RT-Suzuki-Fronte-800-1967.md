@@ -386,7 +386,7 @@ It has been said that the car is somewhat expensive for an 800cc passenger car, 
   <span><b>Navigation:</b></span>
   <a href="/">Home</a>
   <span>·</span>
-  <a href="/prince/">Prince</a>
+  <a href="/suzuki/">Suzuki</a>
   <span>·</span>
-  <a href="/prince/skyline_sports/">Skyline Sports</a>
+  <a href="/suzuki/fronte_800/">Fronte 800</a>
 </div>

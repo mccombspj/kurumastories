@@ -282,7 +282,7 @@ What distinguishes the Galant, in my view, is the balance it achieves between pr
 
 <b><u>How to Read the Bubble Index</b></u>
 
-![Nissan Fairlady Z-L Bubble Index](/images/MF-BS-Mitsubishi-Colt-Galant-GTO-17X-II-1972a.jpg)
+![Mitsubishi Colt Galant GTO 17X-II Bubble Index](/images/MF-BS-Mitsubishi-Colt-Galant-GTO-17X-II-1972a.jpg)
 
 The purpose of this comprehensive road test is to evaluate a car's overall capabilities through six principal categories: performance, handling and stability, comfort and accommodation, safety, economy, and product appeal.
 
