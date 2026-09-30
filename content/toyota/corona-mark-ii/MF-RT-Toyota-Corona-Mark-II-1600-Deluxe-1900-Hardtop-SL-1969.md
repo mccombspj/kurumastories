@@ -74,7 +74,7 @@ The SL version is specially tuned, with the aim of providing performance appropr
 
 <b>Amano:</b> Yes, the flowing line at the rear of the hardtop was an area where we devoted considerable effort from a design standpoint. We were also concerned whether it could be pressed successfully, but it turned out almost exactly as we had originally envisioned. When one contemplates it carefully, however, it does give something of an impression of human shapeliness. (laughs)
 
-<b>Hirao:</b> To me, it seems less like a Corona Mark II and more like a Corolla Mark II. In terms of overall shape, it's like a Corolla that's grown larger.
+<b>Hirao:</b> To me, it seems less like a Corona Mark II and more like a Corolla Mark II. In terms of overall shape, it's like a larger Corolla.
 
 <b><u>A Body That Retains the Corona Character</b></u>
 
@@ -82,25 +82,25 @@ The SL version is specially tuned, with the aim of providing performance appropr
 
 <b>Magazine:</b> In bringing together the sedan’s styling, what aspects proved most difficult? For example, the provision of the air duct behind the rear side glass?
 
-<b>Amano:</b> Fundamentally, it was a question of how to refine the Arrow Line theme. The previous Corona received considerable comment regarding its front-end treatment. At the same time, since this was to be positioned as the Corona’s senior counterpart, we didn't want to stray too far from the established Corona lineage. We also expended considerable effort on the treatment of the rear lamps.
+<b>Amano:</b> Fundamentally, it was a question of how to refine the Arrow Line theme. There were quite a lot of comments regarding the previous Corona's front-end treatment. At the same time, since this was to be positioned as the Corona’s senior counterpart, we didn't want to stray too far from the established Corona lineage. We also expended considerable effort on the treatment of the rear lamps.
 
 <b>Hirao:</b> The sedan is a semi-fastback, so it does somewhat resemble the Corolla in that regard.
 
 <b>Amano:</b> That may be so.
 
-<b>Miyamoto:</b> The nose is shaped something like a <i>shogi</i> piece, but that makes forward visibility quite good. In addition, high-grade models such as the 1900SL use a recirculating-ball steering system with a variable ratio, which will make it easier for women to drive--and men as well, of course. Even when I first drove it, it gave a familiar impression, like a car I'd known for a long time. In terms of performance, I believe it has a character that will fully satisfy the demands of expressway driving.
+<b>Miyamoto:</b> The nose is shaped something like a <i>shogi</i> piece, but that makes forward visibility quite good. In addition, high-grade models such as the 1900SL use a recirculating-ball steering system with a variable ratio, which will make it easier for women to drive--and men as well, of course. Even when I first drove it, it gave a familiar impression, like a car I'd known for a long time. In terms of performance, I think it has a character that will fully satisfy the demands of expressway driving.
 
 <b>Magazine:</b> Returning to design, the front grille is now made of resin. Presumably this involved considerations for both weight reduction and styling?
 
-<b>Amano:</b> In the past we used die-cast components. These are well suited to producing a deeply sculpted appearance, but we moved to pressed parts for their lighter weight and lower cost. However, pressed parts tend to appear flat and make it difficult to achieve depth. For last year’s Crown, we adopted resin, and we decided to follow the same direction with the Corona Mark II.
+<b>Amano:</b> In the past we used die-cast components. These are well suited to producing a deeply sculpted appearance, but we moved to pressed parts for their lighter weight and lower cost. However, pressed parts tend to look flat and make it difficult to achieve depth. For last year’s Crown, we adopted resin, and we decided to follow the same direction with the Corona Mark II.
 
 Recently the quality of resin materials has improved, so we took the step of using it more extensively. The grille on the Corona Mark II is larger than that of the Crown--approximately 1m 35cm across--and reaching the point where this was practical required quite a lot of testing.
 
-<b>Sakakibara:</b> We conducted full-scale tests regarding expansion and contraction, resistance to twisting, and whether it might become prone to cracking over time. We built dedicated testing equipment for this purpose, and in the end, it turned out to be sufficiently durable.
+<b>Sakakibara:</b> We conducted full-scale tests for expansion and contraction, resistance to twisting, and whether it might become prone to cracking over time. We built dedicated test equipment for this purpose, and in the end, it turned out to be sufficiently durable.
 
-<b>Higuchi:</b> With some model changes, the character of the car is altered so completely that existing users are confused. In extreme cases, they may even abandon the model altogether. With the Mark II, however, you have handled that skillfully. It seems that previous Corona owners could move to this without resistance.
+<b>Higuchi:</b> With some model changes, the character of the car is changed so completely that existing users are confused. In extreme cases, they may even abandon the model altogether. With the Mark II, however, you have handled that skillfully. It seems that previous Corona owners could move to this without resistance.
 
-That said, from a styling standpoint, the sedan may make younger drivers hesitate a bit. They will likely choose the hardtop.
+That said, from a styling standpoint, the sedan might make younger drivers hesitate a bit. They will probably choose the hardtop.
 
 <b>Magazine:</b> Regarding the press dies, presumably none of the previous Corona’s tooling was reused, and that everything is new?
 

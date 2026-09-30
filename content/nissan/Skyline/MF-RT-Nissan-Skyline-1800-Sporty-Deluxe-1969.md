@@ -1,6 +1,6 @@
 +++
 
-title = "Nissan Skyline 1800 (1970)"
+title = "Nissan Skyline 1800 Sporty Deluxe (1970)"
 weight = 60
 
 date = "2025-12-11T04:50:49-07:00"
@@ -193,7 +193,7 @@ For an 1800cc engine, these results were considerably better than I had original
 
 <b>Tonoi:</b> From actual vehicle test data, the 1800cc seems to be slightly better than the 1500cc at medium and high speeds. It’s probably because of the taller gearing and the surplus torque, so the matching works out well in that range.
 
-<b>Goto:</b> The difference is about 0.2–0.3 km per liter.
+<b>Goto:</b> The difference is about 0.2–0.3km/l.
 
 <b>Higuchi:</b> In that case, no one will want to buy the 1500cc anymore.
 
@@ -235,13 +235,13 @@ To test hands-off directional stability, we conducted the free-release test up t
 
 Also, when I drove fast over roads with a series of bumps, rather than gravel, the rear wheels lost contact with the road a little. I managed to settle it down by adjusting the tire pressure, but I think the rear wheels' grip on dirt or rough surfaces is weaker than usual for a touring sedan. On paved roads, however, it's quite good. 
 
-In terms of the design, a small leaf spring has been added to the rear differential to prevent axle wind-up and to absorb noise. I wondered if this might somehow have a negative effect when driving over rough roads with a series of bumps. 
+In terms of the design, small tension leaves have been added to prevent axle wind-up and to absorb noise. I wondered if this might somehow have a negative effect when driving over rough roads with a series of bumps. 
 
 <b>Sakurai:</b> Compared with other cars of this type, I don't think the rear wheels have particularly poor road contact or roadholding. 
 
 The goal wasn’t to make the car excel on rough terrain, but rather to enhance safety at high speeds on expressways. Accidents at high speed are very dangerous, so the focus was on high-speed safety.
 
-Regarding the differential tension spring, I don't think it has any adverse effect on roadholding. We took this into consideration, along with ride comfort, suspension effectiveness, and stability, before setting it up in this way. We did it mainly for noise reasons, but we didn't neglect to check those other factors. 
+Regarding the tension leaves, I don't think these have any adverse effect on roadholding. We took this into consideration, along with ride comfort, suspension effectiveness, and stability, before setting it up in this way. We did it mainly for noise reasons, but we didn't neglect to check those other factors. 
 
 <b>Magazine:</b> Regarding the steering, the data shows that it’s light at low speeds and heavier at high speeds. What do you think about that?
 
