@@ -49,7 +49,7 @@ The post-drive discussion revealed a curious split in opinion regarding the Levi
 
 Take Asaoka, for example:
 
-"It's difficult to evaluate. If one judges it as a car for motorsport, it deserves full marks. If one judges it as an ordinary touring car, the verdict is almost the exact opposite."
+"It's difficult to evaluate. If one judges it as a car for motorsport, it deserves top marks. If one judges it as an ordinary touring car, the verdict is almost the exact opposite."
 
 The Levin's character proved distinctive enough to spark considerable debate. Should it be evaluated according to the same standards applied to ordinary passenger cars, or should it be judged in light of its intended purpose as a competition-oriented machine?
 
@@ -63,21 +63,21 @@ Taken as a whole, the Levin can perhaps best be summarized this way: powerful wh
 
 For a fuller picture, we invite readers to continue on to the individual reports from each of our six specialists.
 
-<b><u>Performance: A Tame Panther</b></u> <i>(Osamu Mochizuki)</i>
+<b><u>Performance: A Tame Black Panther</b></u> <i>(Osamu Mochizuki)</i>
 
 A car with a personality as distinctive as the Levin's is not easy to evaluate. Change the point of view, and the verdict can change dramatically.
 
-According to Toyota's press materials, the Levin and Trueno are high-performance versions of the Corolla and Sprinter, powered by the 1600cc DOHC 2T-G engine. Planned production is just 500 units per month. Judging from those numbers alone, it seems fair to conclude that Toyota has aimed the car at a limited group of enthusiasts whose primary interest is spirited driving.
+According to Toyota's press materials, the Levin and Trueno are high-performance versions of the Corolla and Sprinter, powered by the 1600cc DOHC 2T-G engine. Planned production is just 500 units per month. Judging by those numbers alone, it seems fair to conclude that Toyota has aimed the car at a limited group of enthusiasts interested primarily in hard driving.
 
-A 1600cc, 115ps engine installed in a lightweight body originally designed for the 1200cc class ought to evoke more than the familiar image of a "wolf in sheep's clothing." Something closer to a panther would seem appropriate. Yet this particular panther proves surprisingly docile and easy to handle.
+A 1600cc, 115ps engine installed in a lightweight body originally designed for the 1200cc class ought to evoke more than the familiar image of a "wolf in sheep's clothing." Something closer to a black panther would seem appropriate. Yet this particular panther proves surprisingly docile and easy to handle.
 
-Looking solely at the numbers, the Levin's performance is beyond reproach. It sprints from 0-100km/h in well under 11 seconds, and continues on to around 170km/h with impressive urgency. In other words, whenever the throttle is held wide open, the car feels thoroughly alive. Its power-to-weight ratio of 7.4kg/ps is put to full use.
+Looking solely at the numbers, the Levin's performance is beyond reproach. It sprints from 0-100km/h in well under 11 seconds, and continues on to around 170km/h with impressive urgency. In other words, when the throttle is held wide open, the car feels completely alive. Its power-to-weight ratio of 7.4kg/ps is put to full use.
 
-Once attention shifts to its mid-range characteristics, however, the more subdued side of its personality begins to emerge.
+When one turns to its mid-range characteristics, however, the more subdued side of its personality begins to emerge.
 
 A glance at the torque curve reveals a pronounced drop-off below 3000rpm.
 
-Whether that trait is interpreted as easy drivability or as a lack of responsiveness becomes the central question in assessing the car. The effect is most noticeable in the ranges of 40-55km/h in third gear and 50-80km/h in fourth--precisely the speeds most frequently encountered in everyday city driving.
+Whether one interprets that trait as easy drivability or as a lack of responsiveness becomes the central question in assessing the car. The effect is most noticeable in the ranges of 40-55km/h in third gear and 50-80km/h in fourth--exactly the speeds most frequently encountered in everyday city driving.
 
 There is no question that the Levin is dramatically quicker than an ordinary family sedan. Yet neither does it deliver the sort of overwhelming surge of acceleration one might expect from its specifications.
 
