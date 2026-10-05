@@ -77,7 +77,7 @@ A hemispherical combustion chamber, a relatively low compression ratio of 8.3:1,
 
 Response is somewhat leisurely, but this is an engine that continues to accelerate strongly and consistently. The wagon weighs 1045kg against the Hardtop’s 1015kg, putting it at a 30kg disadvantage, yet up through the middle-speed range there is little to separate them. Indeed, partly because the wagon produces less running noise than the Hardtop, it actually gives the impression of being the smoother-running car.
 
-All models in the Skyline series apart from the Standard and Van are equipped with disc brakes. Since the Wagon’s equipment specification follows that of the 1600 Sedan Sporty GL, it naturally has disc brakes as well. We are told that a 4.5-inch Master-Vac servo is used, but the pedal feel leaves something to be desired. Pedal effort is light and easy to manage up to the servo’s reaction point, but quite a lot of pedal travel is required before the brakes begin to take firm effect.
+All models in the Skyline series apart from the Standard and Van are equipped with disc brakes. Since the Wagon’s equipment specification follows that of the 1600 Sedan Sporty GL, it naturally has disc brakes as well. We are told that a 4.5-inch Master-Vac servo is used, but the pedal feel leaves something to be desired. Pedal effort is light and easy to manage up to the servo’s reaction point, but quite a lot of pedal travel is required before the brakes really begin to bite.
 
 Although this car has appeared as a full-fledged sporting wagon, viewed in overall terms I think it is fair to conclude that its performance has reached a level appropriate to its class and character.
 
