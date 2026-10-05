@@ -62,9 +62,9 @@ draft = false
 
 <b><u>Road testing the Subaru Leone Coupe 1400RX</b></u>
 
-Although longtime Subaru enthusiasts lament its move toward the mainstream, sales of the Leone are reported to be strong. Last October, just before the Tokyo Motor Show, Fuji Heavy Industries added a hotter, more sporting model, the “RX,” to the Leone range, and released it for sale on December 1. 
+Despite longtime Subaru enthusiasts lamenting its move toward the mainstream, sales of the Leone are reported to be strong. Last October, just before the Tokyo Motor Show, Fuji Heavy Industries added a hotter, more sporting model, the “RX,” to the Leone range, and released it for sale on December 1. 
 
-Compared with the previously range-topping Coupe GSR, the differences are: 1) four-wheel disc brakes, currently unique among Japanese production cars; 2) a close-ratio 5-speed gearbox; 3) an uprated  suspension stabilizer bar; 4) radial tires increased in size to 155SR-13; 5) a quicker steering ratio; and 6) generally simplified equipment, though with some features unique to the RX. In short, this is a practical specification aimed at the enthusiastic driver. The GSR costs 719,000 yen, while the RX is 734,000 yen; the functional upgrades have been offset by simplifying the equipment, resulting in a difference of only 15,000 yen.
+Compared with the previous top model, the Coupe GSR, the differences are: 1) four-wheel disc brakes, currently unique among Japanese production cars; 2) a close-ratio 5-speed gearbox; 3) an uprated  suspension stabilizer bar; 4) radial tires increased in size to 155SR-13; 5) a quicker steering ratio; and 6) generally simplified equipment, though with some features unique to the RX. In short, this is a practical specification aimed at the enthusiastic driver. The GSR costs 719,000 yen, while the RX is 734,000 yen; the functional upgrades have been offset by simplifying the equipment, resulting in a difference of only 15,000 yen.
 
 Before this, in the spring of last year, the Super Touring (ST) was introduced, with the 93ps engine fitted in the 4-door sedan. At the same time, the suspension of the sporting models was also uprated, and the Leone range now has the following three suspension specifications:
 
