@@ -152,7 +152,7 @@ In width and track as well, the Savanna succeeded in breaking through the conven
 
 Every Mazda passenger car from the Chantez to the Capella, with the exception of the made-to-order Cosmo, uses the same type of MacPherson-strut front suspension. At the rear, however, an interesting progression can be seen. Having successfully used a four-link arrangement with a Panhard rod on the Capella, Mazda’s engineers returned to leaf springs for the Savanna. Their reasoning was that excellent handling could be achieved as long as the axle was firmly located; on the Savanna they used a system called “bias-mounted dampers.” The same arrangement has also been carried over to the Chantez.
 
-This introduction has become rather long. What I wanted to explain is that the new Luce represents the accumulation and further development of all these currents of thought and technical trends. The test car was the Hardtop GS II, the high-performance model combining the 130ps engine with a 5-speed gearbox.
+This introduction has become rather lengthy. What I wanted to explain is that the new Luce represents the accumulation and further development of all these currents of thought and technical trends. The test car was the Hardtop GS II, the high-performance model combining the 130ps engine with a 5-speed gearbox.
 
 <b><u>Powerful Impression Throughout</b></u>
 
