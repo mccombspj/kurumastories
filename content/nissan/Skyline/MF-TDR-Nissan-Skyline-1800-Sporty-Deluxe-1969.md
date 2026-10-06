@@ -27,17 +27,17 @@ There is consequently no problem at all with the balance between engine and chas
 
 The body shell of the Skyline 1800 is completely unchanged from that of the 1500 series. The only changes are a more luxurious treatment of the front grille and rear-end finish.
 
-The basic interior design also follows that of the 1500 series, with changes limited to a wood-grain finish for the switch panel on the dashboard and completely revised, more luxurious door trim.
+The basic interior design is also that of the 1500 series, with changes limited to a wood-grain finish for the switch panel on the dashboard and more luxurious door trim.
 
 The car I drove was the Sporty Deluxe, but despite the name, the only difference from the standard Deluxe model is its 4-speed floor-shift transmission.
 
-This follows the same approach as the 1500 series, but if a car is to bear the name “Sporty,” I would have liked to see some of that character reflected in the interior as well.
+This is the same approach used for the 1500 series, but if a car is to be named “Sporty,” I would have liked to see some of that character reflected in the interior as well.
 
 Of course, in a car like this, where the price must be kept as low as possible, one cannot expect the comprehensive treatment given to the Skyline GT. But I would at least have liked an instrument panel that satisfied the “image and function of a sporty car.”
 
-In terms of its performance on the road, this car is certainly “sporty,” and in that respect there is no cause for complaint. But along with these unseen qualities, those which can actually be seen are also an important consideration for the buyer when choosing a model.
+In terms of its performance on the road, this car is certainly “sporty,” and in that respect there are no complaints. But along with these unseen qualities, those which are actually visible are also an important consideration for the buyer when choosing a model.
 
-Leaving aside this question of whether it is “sporty,” however, the dashboard design itself is excellent, both functionally and visually. Skillful interior design, particularly around the dashboard, was one of the distinguishing features of the old Prince cars, and that tradition can be said to live on in the Prince-derived models even now, after the merger with Nissan.
+Leaving aside this question of whether it is “sporty,” however, the dashboard design itself is excellent, both functionally and visually. Skillful interior design, especially around the dashboard, was one of the strong points of the old Prince cars, and that tradition can be said to live on in today's Prince-derived models, even after the merger with Nissan.
 
 <b><u>Spacious Interior With Plenty of Room</b></u>
 
@@ -47,11 +47,11 @@ They are particularly good from an ergonomic standpoint. The way they support th
 
 Nor could I find anything to criticize in the driving position.
 
-The slightly low seating position for this type of car is also pleasing.
+The slightly low seating position, for this kind of car, is also pleasing.
 
-The ergonomically well-designed seats and completely natural driving position meant that during some 300km and ten hours of testing, I never once found myself shifting position in the seat, nor did I feel fatigued.
+The ergonomically well-designed seats and natural driving position meant that during some 300km and ten hours of testing, I never once found myself changing positions in the seat, nor did I feel fatigued.
 
-The rear seat is somewhat intruded upon by the wheel housings, but there is plenty of hip room, and even three adults can sit across without difficulty. Shoulder room, of course, is more than sufficient.
+The rear seat is somewhat intruded upon by the wheel housings, but there is plenty of hip room, and three adults can sit across without difficulty. Shoulder room, of course, is more than sufficient.
 
 There is also plenty of foot room. The front seats provide 160mm of fore-and-aft adjustment, but even with them moved fully back, there is still space between the rear passengers’ knees and the seatbacks.
 
@@ -77,7 +77,7 @@ While the engine may not satisfy everyone at low revs, I doubt that anyone will 
 
 The catalog gives a 0-400m acceleration time of 18.0 seconds with a full load of passengers, which from my impressions seems entirely achievable. With the driver alone, a time of under 17.5 seconds would not appear difficult either.
 
-I was not able to attempt the claimed maximum speed of 165km/h, either, but it should be well within the car’s capabilities.
+I was not able to attempt the claimed maximum speed of 165km/h, but it too should be well within the car’s capabilities.
 
 The engine gives its best response between roughly 2000-5000rpm, and acceleration up to around 110km/h in third and 140km/h in top is excellent.
 
@@ -97,15 +97,15 @@ The synchromesh is also quite powerful, allowing quick gear changes under all co
 
 <b><u>Effective Tension Leaves</b></u>
 
-The suspension is basically the same in layout as that of the 1500 series, with independent strut-type suspension at the front and a rigid rear axle carried on semi-elliptic leaf springs.
+The suspension is basically the same in layout as that of the 1500 series, with independent strut-type suspension at the front and a rigid rear axle on semi-elliptic leaf springs.
 
 The springs and shock absorbers are also the same as on the 1500 series, as is the use of tension leaves on the rear leaf springs.
 
-These tension leaves appear to be notably effective in controlling bump and rebound. For example, when encountering an obstruction at high speed, they absorb the resulting movement almost immediately, while also reducing wind-up motion under sudden acceleration and allowing the car to accelerate smoothly.
+These tension leaves appear to be quite effective in controlling bump and rebound. For example, when encountering an obstruction at high speed, they absorb the resulting movement almost immediately, while also reducing wind-up motion under sudden acceleration and allowing the car to accelerate smoothly.
 
-This should naturally have a beneficial effect on handling and maneuverability as well.
+This should naturally have a beneficial effect on the car's handling and dynamic behavior as well.
 
-On the other hand, when traveling at high speed over an irregular surface such as a gravel road, the tension leaves seem to work to some disadvantage, tending to reduce tire adhesion. As a result, on gravel, raising the speed even a little caused the tail to move from side to side, considerably reducing the sense of stability.
+On the other hand, when traveling at high speed over an irregular surface such as a gravel road, the tension leaves seem to work to some disadvantage, reducing tire adhesion. On gravel, raising the speed even a little caused the tail to move from side to side, considerably reducing the sense of stability.
 
 To reduce this instability on irregular surfaces, I tried lowering the tire pressures, and this proved quite effective.
 
@@ -117,13 +117,13 @@ Now that most major roads are paved, it may well be better to produce a car with
 
 <b><u>Tubeless Tires Do Not Match the Car</b></u>
 
-The steering characteristics show relatively mild understeer for a car of this type, giving it what can generally be considered very easy handling.
+The handling shows relatively mild understeer for a car of this type, giving it what can generally be considered very easy handling.
 
-The transition to final oversteer is also smooth, and even when the tail begins to slide there is plenty of time to correct it. The standard 6.15-14-4PR tubeless low-profile tires, however, are not really adequate for the car’s excellent capabilities. Anyone who wishes to make use of the car’s full potential should naturally specify the 165SR-14 radials available as a factory option.
+The transition to final oversteer is also smooth, and even when the tail begins to slide there is plenty of time to correct it. The standard 6.15-14-4PR tubeless low-profile tires, however, are not really adequate for the car’s excellent capabilities. Anyone wanting to make full use of the car’s potential should naturally specify the 165SR-14 radials available as a factory option.
 
 With the standard tires, the capabilities of the Skyline 1800’s suspension and the power of its engine cannot be fully exploited.
 
-For less-than-serious sporting driving, of course, the standard tires can be considered adequate....
+For casual sporting driving, of course, the standard tires can be considered adequate....
 
 The Skyline 1800 also appears to have good stability. By stability I mean the ability of a car, when disturbed by an external force, to return naturally to its original steady state. The importance of this becomes apparent in situations such as being suddenly pushed sideways by a crosswind at high speed, or having to make a sudden steering maneuver while traveling at speed.
 

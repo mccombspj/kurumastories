@@ -163,7 +163,7 @@ draft = false
 
 Following the merger of Nissan and Prince, there was considerable concern regarding the fate of the Skyline, a comparatively low-volume model. The announcement of the fully redesigned Nissan Skyline--there is no trace of the Prince emblem anywhere on the car--has at least gone some way toward reassuring the marque’s enthusiasts. For the time being, however, only the 1500cc Skyline has been released, while the much-discussed (?) 2000GT, according to those connected with the project, is not expected to appear until sometime this autumn.
 
-The car tested over a distance of 750km was the newly added Sporting Deluxe model (694,000 yen), one of four sedan variants now included in the Skyline range. In truth, though, the "sporting" designation is little more than a matter of atmosphere, for there are no changes to either engine or chassis. The model merely adds a 4-speed floor-shift gearbox, separate front seats, front disc brakes, and 4.5J rims fitted with 6.15-14 low-profile tires as standard equipment.
+The car tested over a distance of 750km was the newly added Sporty Deluxe model (694,000 yen), one of four sedan variants now included in the Skyline range. In truth, though, the "sporty" designation is little more than a matter of atmosphere, for there are no changes to either engine or chassis. The model merely adds a 4-speed floor-shift gearbox, separate front seats, front disc brakes, and 4.5J rims fitted with 6.15-14 low-profile tires as standard equipment.
 
 Dimensionally, the new Skyline is appreciably larger than the previous model. Wheelbase has increased by 100mm, overall length by 135mm, and width by no less than 100mm, while overall height has conversely been reduced by 20mm. Visually, the car appears distinctly larger in scale.
 
@@ -289,7 +289,7 @@ On expressways as well, airflow is initially quite strong, but as cabin pressure
 
 Apparently, no car yet exists with a ventilation system sufficiently effective to permit fully closed-window high-speed driving on a hot day.
 
-Taken as a whole, however, the new Skyline represents a substantial improvement over its predecessor in nearly every respect. For those who find the Bluebird 1300 somewhat inadequate, yet have no need for a car as large as the Laurel, it should prove a very appealing five-passenger family sedan.
+Taken as a whole, however, the new Skyline represents a substantial improvement over its predecessor in nearly every respect. For those who find the Bluebird 1300 somewhat inadequate, yet have no need for a car as large as the Laurel, it should be a very appealing five-passenger family sedan.
 
 <b><u>Postscript: Story Photos</b></u>
 
