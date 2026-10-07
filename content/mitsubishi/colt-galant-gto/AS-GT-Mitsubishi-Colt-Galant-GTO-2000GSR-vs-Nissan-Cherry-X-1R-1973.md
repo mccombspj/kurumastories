@@ -11,7 +11,7 @@ draft = false
 
 ![Mitsubishi Colt Galant GTO 2000GSR vs Nissan Cherry X-1R](/images/AS-GT-Nissan-Cherry-X-1R-Mitsubishi-Galant-GTO-2000GSR-1973.jpg)
 
-<b>Publication:</b> Car Graphic<br>
+<b>Publication:</b> Auto Sport<br>
 <b>Format:</b> Group Test<br>
 <b>Date:</b> May 1973<br>
 <b>Author:</b> Auto Test Editorial Staff (uncredited)

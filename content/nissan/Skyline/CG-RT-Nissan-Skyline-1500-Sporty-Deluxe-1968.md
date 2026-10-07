@@ -181,7 +181,7 @@ As a family car, the engine is tuned somewhat on the high-speed side. Below 2000
 
 Accordingly, third gear tends to be used almost as frequently as top gear in city driving. It is often tempting to shift unnecessarily, simply because the gearbox itself is such a pleasure to use. Although the ratios are not quite as closely spaced as those of the Laurel, they are very well matched to the engine’s characteristics, with exceptionally smooth progression from one gear to the next during acceleration.
 
-The gear lever is positioned closer to hand than in the Laurel, stands nearly vertical, and operates with comparatively short, positive movements. The synchromesh is powerful enough that even rapid shifts during acceleration testing produce no gear clash whatsoever. Gear noise is almost entirely absent, and it is particularly noteworthy that third gear is nearly as quiet as direct top.
+The gear lever is positioned closer to hand than in the Laurel, stands nearly vertical, and operates with relatively short, positive movements. The synchromesh is powerful enough that even quick shifts during acceleration testing produce no gear clash whatsoever. Gear noise is almost entirely absent, and it is particularly noteworthy that third gear is nearly as quiet as direct top.
 
 Indeed, this gearbox must be counted among the Skyline’s best features.
 
@@ -193,17 +193,17 @@ At 150km/h, engine speed is approximately 5700rpm, leaving a useful margin below
 
 Vehicle weight during testing, including two occupants, measuring equipment, and approximately half a tank of fuel, was 1210kg.
 
-In a family car of this kind, 0-400m acceleration figures are largely academic, but the Skyline recorded 19.4 seconds averaged over two runs in opposite directions. Clutch pedal effort, at 10kg, is entirely normal, while pedal travel is by no means excessive. Engagement is exceptionally smooth and should present no difficulty even for inexperienced drivers.
+In a family car like this, 0-400m acceleration figures are largely academic, but the Skyline recorded 19.4 seconds averaged over two runs in opposite directions. Clutch pedal effort, at 10kg, is normal, while pedal travel is by no means excessive. Engagement is exceptionally smooth and should present no difficulty even for inexperienced drivers.
 
 Moreover, repeated racing starts produced no sign whatsoever of excessive clutch slip or overheating.
 
-Now that expressway networks are steadily being completed throughout Japan, a car lacking the ability to cruise comfortably and safely at 100km/h can hardly be considered acceptable in modern life, even in the case of an affordable family car. In this respect as well, the Skyline deserves a rating comfortably above average.
+Now that expressway networks are steadily being completed throughout Japan, a car lacking the ability to cruise comfortably and safely at 100km/h can hardly be considered adequate for modern life, even in the case of an affordable family car. In this respect as well, the Skyline rates well above average.
 
 At 100km/h the engine is turning approximately 3900rpm, yet engine noise remains subdued enough not to become objectionable. Directional stability is exceptionally good, while wind noise--provided the windows are fully closed, a point we will return to later--is extremely low. Acceleration in top gear naturally begins to weaken somewhat beyond 100km/h, yet the engine still responds clearly when the throttle is opened further.
 
 Exhaust noise, already low by the generally quiet standards of Japanese cars, is especially subdued in the Skyline. Particularly commendable is the complete absence of the booming resonance from the exhaust system noticeable in the Laurel. Engine mounting, too, is superior to that of the Laurel, and the intrusion of vibration and noise into the cabin is kept to an exceptionally low level.
 
-As traffic grows faster and more congested, both in city driving and on the highway, brisk acceleration increasingly becomes an important element of active safety. In this regard, the Skyline’s third gear displays particularly sharp acceleration across a remarkably wide speed range, and the figures clearly indicate that third deserves frequent use.
+As traffic grows faster and more congested, both in city driving and on the highway, brisk acceleration increasingly becomes an important element of active safety. In this regard, the Skyline’s third gear shows particularly sharp acceleration across a remarkably wide speed range, and the figures clearly indicate that third deserves frequent use.
 
 For example, in the 50-70km/h acceleration test representative of overtaking in city traffic, the Skyline required 7.8 seconds in top gear but only 4.8 seconds in third. Similarly, for the 80-100km/h acceleration commonly encountered on expressways, third gear recorded an exceptionally brisk 5.8 seconds compared with 9.8 seconds in top.
 
@@ -275,7 +275,7 @@ There are, on the other hand, many areas in which the Skyline has improved over 
 
 Considerable attention also appears to have been paid to interior safety. Thick padding has been fitted to the backs of the front seats so that rear passengers are better protected if they are thrown forward in an accident.
 
-The front seats are equipped as standard with two-point seatbelts, while fixed, non-adjustable headrests are available as an option. The true effectiveness of the headrests can hardly be judged short of experiencing an actual rear-end collision, but at the very least, they allow passengers to recline the seat, fasten the belt, and travel in remarkable comfort while resting or sleeping.
+The front seats are equipped as standard with two-point seatbelts, while fixed, non-adjustable headrests are available as an option. The true effectiveness of the headrests can hardly be judged without experiencing an actual rear-end collision, but at the very least, they allow passengers to recline the seat, fasten the belt, and travel in remarkable comfort while resting or sleeping.
 
 There is, however, a drawback: once the headrests are fitted, it becomes very difficult for front-seat occupants to reach the rear doors or operate the rear side windows.
 
