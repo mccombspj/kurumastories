@@ -29,6 +29,8 @@ draft = false
 
 
 
+<b><u>Road-testing the Mazda Familia Rotary Coupe</b></u>
+
 <b>Summary:</b> Car Graphic purchased the Mazda Familia Rotary Coupe as soon as it was released, and immediately began our customary long-term practical testing. Our magazine has already purchased the Toyota Corolla, Bluebird 1300, Lotus Europa, and Nissan Laurel one after the other, and is conducting controlled tests from a strictly objective standpoint while also putting them to use in daily life. The Familia Rotary Coupe is our fifth attempt to evaluate a new model through this method of long-term practical testing.
 
 
