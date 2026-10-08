@@ -52,7 +52,7 @@ draft = false
 <b>Author:</b> Shuzo Araki
 
 
-<b><u>A Flexible Engine, a Supple Ride</b></u>
+<b><u>Flexible Engine, Supple Ride</b></u>
 
 A quiet, spacious interior. Light, effortless controls. Already a pure family sedan, the Florian, has gained a new 1800cc engine that further strengthens its character.
 

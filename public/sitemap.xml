@@ -227,6 +227,9 @@
     <loc>http://localhost:1313/nissan/bluebird/mf-tdr-nissan-bluebird-u-hardtop-1800sss-e-1971/</loc>
     <lastmod>2026-05-07T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mazda/familia/cg-ri-mazda-familia-rotary-ss-1969/</loc>
+    <lastmod>2026-10-07T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/violet/as-gt-nissan-violet-hardtop-1600sss-mitsubishi-lancer-1600gsl-1973/</loc>
     <lastmod>2026-05-20T04:50:49-07:00</lastmod>
   </url><url>
@@ -235,9 +238,6 @@
   </url><url>
     <loc>http://localhost:1313/nissan/cherry/mf-bs-nissan-cherry-coupe-1200-x-1-1971/</loc>
     <lastmod>2026-03-20T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mazda/familia/cg-ri-mazda-familia-rotary-ss-1969/</loc>
-    <lastmod>2026-02-24T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/familia/mf-tdr-mazda-familia-rotary-ss-1969/</loc>
     <lastmod>2026-02-24T04:50:49-07:00</lastmod>
@@ -599,13 +599,19 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mazda/familia/</loc>
+    <lastmod>2026-10-07T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mazda/</loc>
+    <lastmod>2026-10-07T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-10-07T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-800/</loc>
     <lastmod>2026-10-05T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/</loc>
-    <lastmod>2026-10-05T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-10-05T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/subaru/leone/</loc>
@@ -615,9 +621,6 @@
     <lastmod>2026-10-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/luce-rotary-coupe/</loc>
-    <lastmod>2026-10-02T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mazda/</loc>
     <lastmod>2026-10-02T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/</loc>
@@ -742,9 +745,6 @@
   </url><url>
     <loc>http://localhost:1313/honda/honda-z/</loc>
     <lastmod>2026-03-19T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mazda/familia/</loc>
-    <lastmod>2026-02-24T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/117-coupe/</loc>
     <lastmod>2026-01-29T04:50:49-07:00</lastmod>
