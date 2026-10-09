@@ -590,6 +590,9 @@
     <loc>http://localhost:1313/nissan/skyline/mf-bs-nissan-skyline-1800-wagon-sporty-gl-1972/</loc>
     <lastmod>2026-10-01T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/skyline/cg-ri-nissan-skyline-2000gt-x-hardtop-1973/</loc>
+    <lastmod>2026-10-08T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/skyline/as-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -606,6 +609,12 @@
     <lastmod>2026-10-08T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/</loc>
+    <lastmod>2026-10-08T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/skyline/</loc>
+    <lastmod>2026-10-08T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/</loc>
     <lastmod>2026-10-08T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -631,12 +640,6 @@
   </url><url>
     <loc>http://localhost:1313/mazda/luce-rotary-coupe/</loc>
     <lastmod>2026-10-02T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/skyline/</loc>
-    <lastmod>2026-10-01T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/</loc>
-    <lastmod>2026-10-01T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/daihatsu/compagno/</loc>
     <lastmod>2026-09-28T04:50:49-07:00</lastmod>
