@@ -28,8 +28,36 @@ The engine is shared with the Cedric GX and Fairlady Z. In premium-fuel specific
 
 The optional 5-speed gearbox is based on that of the GT-R, with only the first- and second-gear ratios made substantially lower. Fifth gear is, of course, an overdrive ratio. Since the final-drive ratio remains unchanged at 3.90, the overall gearing is considerably taller than before. The gear ratios are as follows:
 
-GT-X 5-speed: 3.321 – 2.077 – 1.308 – 1.000 – 0.864<br>
-GT 4-speed: 3.592 – 2.246 – 1.415 – 1.000
+<table style="border-collapse: collapse; width: 100%; border: 1px solid #333333; font-size: 0.85em;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #333333; padding: 6px; text-align: left;">Model</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">1st</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">2nd</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">3rd</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">4th</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: center;">5th</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px">GT-X 5-speed</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">3.321</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">2.077</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1.308</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1.000</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">0.864</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">GT 4-speed</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">3.592</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">2.246</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1.415</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">1.000</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: center;">-</td>
+    </tr>
+  </tbody>
+</table>
 
 Having missed the opportunity to drive the Hardtop 2000GT-X when it was first introduced, we took this opportunity to evaluate the combination of the twin-SU engine and the new 5-speed gearbox.
 
