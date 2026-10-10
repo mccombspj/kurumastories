@@ -207,13 +207,13 @@ Judged strictly in terms of its market appeal, there are any number of points I 
 
 <b><u>How to Read the Bubble Index</b></u>
 
-![Nissan Skyline 2000GT Bubble Index](/images/MF-BS-Nissan-Skyline-1800-Wagon-Sporty-GL-1972a.jpg)
+![Nissan Skyline 1800 Wagon Sporty GL Bubble Index](/images/MF-BS-Nissan-Skyline-1800-Wagon-Sporty-GL-1972a.jpg)
 
-Every car has what might be called character. It can be said that this character emerges from a combination of factors such as performance and functionality, intended use, vehicle class, and design philosophy. However, not all aspects of the car's character are clearly revealed to the user. The purpose of this series is to unravel the character of a car by evaluating six important aspects of its performance. 
+The purpose of this comprehensive road test is to evaluate a car’s overall capabilities through six principal categories: performance, handling and stability, comfort and accommodation, safety, economy, and product appeal.
 
-The size of the circle at each vertex of the index represents a rating of the attribute indicated there, and by comparing the six circles, one can also get a sense of the balance among them. In the case of the Skyline 2000GT, it received a particularly high rating for economy, but this is because it is a 2000cc class car priced at 860,000 yen, making it exceptionally economical within the context of its class. Otherwise, apart from some issues with handling stability, the six performance areas all received good scores and were well-aligned, making it a well-balanced model overall.
+The evaluation method is what we call the “Bubble Session.” Borrowing an approach from systems engineering, six specialists from different fields gather around a hexagonal table–the “bubble” referring to a honeycomb cell–and discuss the car from their respective viewpoints.
 
-We have explained our methodology for this test series, but our hope is that, using these tests as reference material, the final judgment will be made by the readers themselves.
+The black circles shown within the six evaluation fields indicate the rating assigned in each category. A car whose circles are relatively equal in size may be regarded as a well-balanced design, whereas one with larger disparities can be said to have a stronger individual character.
 
 <b><u>Postscript: Story Photos</b></u>
 

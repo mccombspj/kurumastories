@@ -31,25 +31,25 @@ draft = false
 
 The Sunny Coupe--long popular among younger drivers as a light, lively coupe--has now been reborn. Its 1171cc engine has been strengthened to produce 68ps, and the front styling carries a hint of Mustang influence. For the MF Comprehensive Road Test, we have chosen to examine the top-of-the-line model, the "GL..."
 
-The date was January 6. Appearing at the very beginning of the New Year--when the traditional pine decorations had scarcely been taken down--the Sunny 1200 made its debut with timing best described as "unorthodox."
+The date was January 6. Appearing at the very beginning of the New Year--when the traditional pine decorations had barely been taken down--the Sunny 1200 made its debut with timing best described as "unorthodox."
 
 Rumors had been circulating since the previous spring: would this be a full model change, or merely a power increase? In the end, the matter was provisionally settled with the announcement that a 1200 series would be added to the Sunny line.
 
-Yet this may be only the opening move. If the Sunny has fired the first shot, its rival Toyota will surely have something in store for the Corolla. Depending on how that response unfolds, further developments may well follow. Already, it seems, this year’s “SC battle” has begun in earnest.
+Yet this may be only the opening move. If the Sunny has fired the first shot, its rival Toyota will surely have something in store for the Corolla. Depending on the response, further developments may well follow. Already, it seems, this year’s “SC battle” has begun in earnest.
 
-It was exactly four years ago, in January, that the Sunny first appeared amid great fanfare. At the time, it seemed as though Nissan Motor might lead the coming age of the 1000cc family car, and the launch began with remarkable momentum. Yet some six months later, in the autumn, its rival--the Corolla--entered the fray with an 1100cc engine and seized the upper hand.
+It was exactly four years ago, in January, that the Sunny first appeared amid great fanfare. At the time, it seemed as though Nissan Motor might lead the coming age of the 1000cc family car, and the launch began with strong momentum. Yet some six months later, in the autumn, its rival--the Corolla--entered the fray with an 1100cc engine and seized the upper hand.
 
-The Sunny itself has always possessed a unique character and style, making it a distinctive presence on the market. Nevertheless, it continually found itself facing a competitor that emphasized its extra 100cc in advertising, offered products keenly attuned to user tastes, and backed them with formidable sales power. As a result, the Sunny remained in the position of having to relinquish first place. And that situation proved both deep-rooted and long-lasting.
+The Sunny has always had a unique character and style, making it a distinctive presence on the market. But it continually faced a competitor that emphasized "an extra 100cc" in advertising, offered products keenly attuned to user tastes, and backed them with formidable sales power. As a result, the Sunny was forced to relinquish the first-place position. And that situation proved both deep-rooted and long-lasting.
 
 For that reason, the Sunny 1200 may be said to have been designed with its rival Corolla directly in its sights—calculated and engineered from every angle with that competitor in mind. From the moment we first saw it at the new-model announcement, that sense was unmistakable.
 
-This intention is easily read from the principal points Nissan itself emphasized:
+This intention is easily read from the main points Nissan itself emphasized:
 1. a spacious, dynamic style expressing a sense of richness;
 2. the widest and most luxurious interior in this class;
 3. a top speed of 150km/h and a 0–400m acceleration time of 18.6 seconds;
 4. comfortable ride and high-speed stability achieved through a distinctive suspension system.
 
-Overtake--overtake--and press even beyond the boundaries of this class… otherwise, “you’ll be overtaken again.”
+Overtake--overtake--and push even beyond the boundaries of this class… otherwise, “you’ll be overtaken again.”
 
 The engine tells the same story. Where the previous 1000cc model produced 56ps at 6000rpm (60ps in the coupe version), the new 1200 raises the output of both versions to 68ps at 6000rpm.
 
@@ -57,19 +57,19 @@ The engine tells the same story. Where the previous 1000cc model produced 56ps a
 
 The Bubble Index comprehensive road test group turned its attention to the new Sunny 1200 without delay. For the test car, we chose the 1200 Coupe--the version expected to attract the most interest in this class. To provide a point of comparison, we chose a 1200 four-door with full automatic transmission to serve as the accompanying car. An automatic in the 1200 class, and a three-speed at that--this naturally stirred our curiosity. Both cars were in the top-grade GL specification.
 
-As usual, Sanbon took the wheel of the coupe, with Oguchi and Sano manning the test instruments. In the accompanying full-automatic sedan were Sasaki (your author) and Okubo. We set off from the Tomei Expressway at Seta. Since the new model had only just been officially announced, the two machines--both painted a shade of golden-brown--attracted considerable attention even before we reached the tollgate. (This color is likely to become a trend; in Europe it is already fashionable as a sporty hue, and at last autumn’s Tokyo Motor Show several manufacturers displayed cars in similar tones.) In the Sunny 1200 lineup, this color is called Sunflower Gold. Its hue leans slightly more reddish than the similar shade used on the Bluebird, which is called Safari Brown. The distinction is presumably a marketing tactic, but a rather confusing one.
+As usual, Sanbon took the wheel of the coupe, with Oguchi and Sano manning the test instruments. In the accompanying full-automatic sedan were Sasaki (your author) and Okubo. We set off from the Tomei Expressway at Seta. Since the new model had only just been officially announced, the two machines--both painted a shade of golden-brown--attracted considerable attention even before we reached the tollgate. (This color is likely to become a trend; in Europe it is already fashionable as a sporty hue, and at last autumn’s Tokyo Motor Show several manufacturers displayed cars in similar colors.) In the Sunny 1200 lineup, this color is called Sunflower Gold. Its hue leans slightly more reddish than the similar shade used on the Bluebird, which is called Safari Brown. The distinction is presumably a marketing tactic, but a rather confusing one.
 
-Viewed running on the main lane of the Tomei Expressway, the Sunny certainly appears to have grown larger. Not only the coupe, but the entire 1200 series shows that, where the Sunny 1000's design relied heavily on straight lines, the new model's body is clearly treated with softer curves. When our accompanying car pulls out to pass and we glimpse its front from the coupe’s rear window, the impression of size is unmistakable.
+Viewed running on the main lane of the Tomei Expressway, the Sunny certainly appears to have grown larger. Not only the coupe, but the entire 1200 series shows that, where the Sunny 1000's design relied heavily on straight lines, the new model's body is clearly treated with softer curves. When our accompanying car pulled out to pass and we glimpsed its front from the coupe’s rear window, the impression of size was unmistakable.
 
-“You can clearly see that the width has increased, and it does seem bigger overall. But the treatment of the radiator grille is a bit overdone--that's a mistake. It’s molded in plastic as a single unit, but was that central section really necessary? It comes across as a fussy bit of decoration,” one of the group commented.
+“You can clearly see that the width has increased, and it does seem bigger overall. But the treatment of the radiator grille is a bit overdone--that's a mistake. It’s molded in plastic as a single unit, but is that center section really necessary? It comes across as a fussy bit of decoration,” one of the group commented.
 
 We stopped at the Ebina Service Area, gathering around the cars for a closer look. Opinions varied considerably, making a consensus difficult.
 
-“Personally, I preferred the straighter lines of the 1000. By adding curves and borrowing cues from the Corolla and Subaru, it seems to have lost some of its individual character.”
+“Personally, I preferred the straight lines of the 1000. By adding curves and borrowing cues from the Corolla and Subaru, it seems to have lost some of its individual character.”
 
-“No, at least with the coupe, the Sunny 1000 was almost aggressively sporty. It seemed to be aimed at young drivers--or perhaps even children. This new model has a more substantial, larger-car atmosphere. Judging from how it feels to drive at speed, you can trust it on the highway, and the usable interior space is not just a marketing claim,” another voice observed.
+“No, at least with the coupe, the Sunny 1000 was almost aggressively sporty. It seemed to be aimed at young drivers--or maybe even children. This new model has a more substantial, larger-car atmosphere. Judging from how it feels to drive at speed, it's trustworthy on the highway, and the usable interior space is not just a marketing claim,” another voice observed.
 
-Yet other complaints were heard as well—
+Yet complaints were heard as well.
 
 “Why is it that Japanese cars lack the boldness to commit to a design? Shape it decisively--cut the form cleanly, then bring it together as a whole. That kind of clarity is missing. Instead, it feels as though bits of clay have been added little by little and then shaved down with a spatula, the shape emerging piece by piece. It’s all too fussy,” remarked Oguchi and Sasaki.
 
@@ -85,21 +85,21 @@ The revised course offered a longer measured section, and with greater distance 
 
 <b><u>Strikingly Powerful Performance</b></u>
 
-When it came to running performance, the main focus of interest during the Sunny 1200 test drive was its lively 68ps output. The Sunny 1000 had also been regarded as a car that “ran well”--a nimble, responsive machine, if not a powerful one. The 1000cc Coupe GL weighed 675kg, but the 1200 Coupe GL adds only 25kg, bringing the total to exactly 700kg. The question, then, was what kind of performance its 68ps and 700kg would deliver.
+When it came to running performance, the main point of interest during the Sunny 1200 test drive was its lively 68ps output. The Sunny 1000 had also been regarded as a car that “ran well”--a nimble, responsive machine, if not a powerful one. The 1000cc Coupe GL weighed 675kg, but the 1200 Coupe GL adds only 25kg, bringing the total to exactly 700kg. The question, then, was what kind of performance its 68ps and 700kg would deliver.
 
-At 100km/h on the main expressway lane, the car ran with remarkable ease--so much so that the engine’s smoothness could almost be described as silky.
+At 100km/h on the main expressway lane, the car ran remarkably easily--so much so that the engine’s smoothness could almost be described as "silky."
 
-“It feels quite powerful,” one member observed. “And yet it doesn’t feel as though it's being limited by the gearing. Perhaps it would be going too far to say there’s lots of power in reserve, but its response certainly doesn’t give the impression of being thin or merely superficial.”
+“It feels quite powerful,” one member observed. “And yet it doesn’t feel as though it's being limited by the gearing. Perhaps it would be going too far to say there’s a lot of power in reserve, but its response certainly doesn’t give the impression of being thin or merely superficial.”
 
 “No, it’s clearly the real thing,” another replied. “It isn’t just quick on its feet--it runs strongly and has real stamina. You could almost say it already feels like a more mature car than others in this class.”
 
-“Running like this, even with three people aboard, even though it’s only a 1200--in this sense, it surpasses the old Bluebird 1200 (310 series), or even the 1300 (410 series). Not just in the way it runs, but in its overall character as well.”
+“Running like this, even with three people aboard, even though it’s only 1200cc--in this sense, it surpasses the old Bluebird 1200 (310 series), or even the 1300 (410 series). Not just in the way it runs, but in its overall character as well.”
 
 There was, however, one point worth noting about the test car: the clutch seemed to have a slight delay in its return action. In effect, its feel has been made rather soft.
 
 “Until now the Sunny’s clutch engagement has always felt quite sharp, hasn’t it? If you let it out too quickly the car would either hop forward like a startled rabbit or stall altogether. Now it engages more softly, which makes it better suited to beginners. Even someone with little experience can get in and drive it without anxiety. But that also means the old fun of keeping its youthful, mischievous nature in check has disappeared,” remarked Sanbon.
 
-“There may be cost-reduction considerations involved,” added Oguchi, “but I’d like to see them spend a little more on the clutch. Increase the pressure on the plate, for example, or make the engagement more definite. Considering the amount of power available, the response off the line feels somewhat weak.”
+“There may be cost-reduction considerations involved,” added Oguchi, “but I’d like to see them spend a little more on the clutch. Increase the pressure on the plate, for example, or make the engagement more definite. Considering the amount of power, the response off the line feels somewhat weak.”
 
 Standing-start acceleration from 0-100km/h was measured at 16.2 seconds. For comparison, the accompanying full-automatic car required 27.4 seconds to reach 100km/h in "D."
 

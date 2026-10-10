@@ -524,6 +524,9 @@
     <loc>http://localhost:1313/toyota/celica/cg-gt-nissan-bluebird-u-1600-sss-e-vs-toyota-celica-gtv-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/subaru/leone/mf-bs-subaru-leone-sedan-1400gl-1972/</loc>
+    <lastmod>2026-10-09T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/toyota/corona-mark-ii/mf-tdr-toyota-corona-mark-ii-gss-hardtop-1972/</loc>
     <lastmod>2026-06-24T04:50:49-07:00</lastmod>
   </url><url>
@@ -605,6 +608,15 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/subaru/leone/</loc>
+    <lastmod>2026-10-09T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/subaru/</loc>
+    <lastmod>2026-10-09T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-10-09T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/isuzu/florian/</loc>
     <lastmod>2026-10-08T04:50:49-07:00</lastmod>
   </url><url>
@@ -615,9 +627,6 @@
     <lastmod>2026-10-08T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/</loc>
-    <lastmod>2026-10-08T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-10-08T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/familia/</loc>
@@ -631,12 +640,6 @@
   </url><url>
     <loc>http://localhost:1313/mitsubishi/</loc>
     <lastmod>2026-10-05T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/subaru/leone/</loc>
-    <lastmod>2026-10-04T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/subaru/</loc>
-    <lastmod>2026-10-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/luce-rotary-coupe/</loc>
     <lastmod>2026-10-02T04:50:49-07:00</lastmod>

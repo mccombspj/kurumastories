@@ -1,0 +1,261 @@
++++
+
+title = "Nissan Cedric 2600GX (1972)"
+weight = 94
+
+date = "2026-10-10T04:50:49-07:00"
+
+draft = false
+
++++
+
+![Nissan Cedric 2600GX](/images/MF-BS-Nissan-Cedric-2600GX-1972.jpg)
+
+<b>Publication:</b> Motor Fan<br>
+<b>Format:</b> "Bubble Index" Road Test<br>
+<b>Date:</b> February 1972<br>
+<b>Authors:</b> Osamu Mochizuki, Katsuzo Kageyama, Shigeki Asaoka, Yasuhei Oguchi, Reiko Ikuuchi, Kensuke Ishizu
+
+
+<b><u>The Feel of All-Power Assistance</b></u>
+
+Power and comfort alike are accomplished in every respect. Behind them lies the “big thinking” of a big car.
+
+<b><u>Power Steering Takes Some Getting Used To</b></u>
+
+Following Toyota’s Crown 2600 series, Nissan has now introduced its own 2600GX series of Cedric and Gloria models, fitted with a 2600cc engine. The approach is the same as with the Crown: essentially, the L26 engine has simply been installed in the existing 2000cc body.
+
+This engine is a scaled-up version of the L20 used in the 2000cc models, with both bore and stroke increased.
+
+Ordinarily, most Nissan models bearing the “GX” designation are equipped with twin carburetors, but the Cedric/Gloria 2600 series uses a single 2-barrel carburetor.
+
+All models are also designed to run on regular gasoline. With a compression ratio of 8.6, the engine develops a maximum output of 140ps/5200rpm and maximum torque of 22.0kgm/4000rpm.
+
+Until now, the cars tested in these pages have often been in the neighborhood of 1500cc. As a result, when considering such matters as performance, ride comfort, handling and stability, we may at times have made criticisms or demands from an idealized standpoint of how a car ought to be, exceeding what could reasonably be expected of a particular test car—whether because of the manufacturer’s product policy or simply its physical limitations.
+
+This month’s test car, however, was the Cedric 2600GX, which by Japanese standards falls into the top class of passenger cars—and, moreover, it was equipped with Nissan Full Automatic transmission. Normally, after completing the test and returning to our base at “Fantasy” (a drive-in on Tamagawa-dori near the Tokyo Interchange of the Tomei Expressway), all sorts of observations emerge naturally during the ensuing meeting, without anyone in particular setting the discussion in motion. This time, however, things were a bit different.
+
+Whether in ride comfort or performance, there were no particular complaints or demands to make, and each of our specialists expressed a general degree of satisfaction.
+
+As the conversation gradually got under way, however, the subject of the power steering began to emerge. This was probably because there were fairly strong winds on the day of the test, and on the Tomei we were repeatedly buffeted by crosswinds and had to correct our course. The fact that we were not used to power steering, and as a result found it somewhat disconcerting on the bends in the Hakone mountains, may also have helped bring the subject up.
+
+This subject is covered in detail later, in the "Handling & Stability" section, but in brief the point is this: the driver perceives the amount of steering lock differently in a car with power assistance and one without it.
+
+In an ordinary car without power assistance, the driver can perceive the steering angle through the steering effort—the torque input—whereas in a power-assisted car, the steering angle is perceived through the resulting movement of the car.
+
+Other matters discussed included whether Japanese drivers demand too much of their cars, and whether it might not be time for cars with principles and convictions of their own to appear, rather than cars that simply kneel before every demand made by the customer.
+
+As usual, the test route was a round trip from the Tomei Expressway’s Tokyo Interchange to Gotemba Interchange, over the Otome Pass and along the Hakone Turnpike.
+
+<b><u>Performance: Restrained Characteristics</b></u> <i>(Osamu Mochizuki)</i>
+
+The L26 engine fitted to the 2600 series has a bore and stroke of 83 × 79mm. This is an enlarged version of the 2-liter L20 engine, whose bore and stroke are 78 × 69.7mm, giving a displacement of 2565cc.
+
+Output has risen by 25ps, from 115ps/5600rpm in the 2000cc engine to 140ps/5200rpm. With a curb weight of 1375kg, however, the changes in the engine’s power and torque characteristics seem to have a greater effect than the increase in maximum output itself.
+
+At 2500rpm, for example, the L20 develops 55ps, whereas the L26 produces 73ps—an increase of approximately 33%. As for torque, at 1000rpm the L20 develops 13.5kgm versus the L26’s 18kgm, representing almost exactly the same rate of increase.
+
+The difference becomes even more striking when maximum torque is considered. The L20 reaches its maximum of 16.5kgm at 3600rpm, whereas the L26 is already producing 17kgm at just 800rpm—idle speed. It is this kind of power characteristic that is largely responsible for the good response at normal road speeds, as well as the quietness that comes from being able to use low engine speeds.
+
+The test car was fitted with an automatic transmission known as Nissan Full Automatic, combining a 3-speed planetary gearbox with a torque converter. Upshifts were smooth and almost entirely free of shock, while kickdown was quick and worked faultlessly. There was little creeping when stationary, and taken as a whole, this was a remarkably easy automatic car to use.
+
+For a 2600cc car with 140ps, however, its performance is rather subdued. Even allowing for the automatic transmission, one cannot help feeling that it leaves something to be desired. When starting normally in the "D" range, top gear is engaged at around 45km/h. On either side of this point—that is, from 20-40km/h in 2nd and from 50-80km/h in top—the response is reasonably good.
+
+But if one is expecting the sort of response appropriate to a 2.6-liter car, one would like it to hold 2nd gear all the way to 90km/h when the throttle is pressed right to the floor.
+
+Ordinarily, with a torque-converter automatic, setting aside the theoretical efficiency of power transmission through the torque converter, the car’s performance tends to feel reduced by about 20% compared to that of a manual-transmission model. In the Cedric 2600, moreover, torque falls off rapidly beyond 4000rpm, and combined with an engine characteristic that offers little extension at higher revs, this means that even though the final-drive ratio has been lengthened, from the 2-liter model’s 4.375 to 4.111, acceleration begins to flatten out relatively early even when each gear is held to its limit. In terms of performance, the overall impression is of extreme restraint.
+
+The speedometer in our test car was also somewhat optimistic, apparently showing an error of more than 10% above 100km/h. Taking this into account, acceleration seems to become particularly sluggish beyond 120km/h.
+
+<i>“The combination of 2.6 liters and AT is appealing. With this, I don’t think anyone would have any complaints about acceleration.” — Oguchi
+
+“AT cars below 2000cc simply lack sufficient power. Perhaps it is the 2600cc AT that can truly be called a proper automatic.” — Ishizu</i>
+
+<b><u>Handling & Stability: Power Steering That Is Easy to Control</b></u> <i>(Katsuzo Kageyama)</i>
+
+Luxurious seats, elegant upholstery, a spacious interior.... Starting out like this, I seem to be writing the copy for a catalog.
+
+And indeed, that is just how it is. As I drove along, I said to my passenger, “A car like this naturally puts you in a relaxed, unhurried frame of mind. You lose any desire to dart about in traffic like a purse-snatcher.”
+
+The luxurious interior goes without saying, but the various controls, beginning with the light switch, are extremely easy to operate. I was a little confused, however, by the four power-window switches arranged in an unlabeled row on the inside of the right-hand door. The fender mirrors, which can be adjusted freely from the driver’s seat, are a welcome feature.
+
+With a car this heavy, power steering is only natural. U-turns and steering at a standstill are accomplished with remarkable ease, so that one is hardly aware of the car’s weight. Indeed, the steering is considerably lighter than that of a 1000cc-class car.
+
+The steering-gear ratio, however, is very large at 19.8, and in this respect there is still something distinctly characteristic of a large car. This is not the sort of power steering often found on American cars, where the wheel can be spun around with one finger.
+
+When the wheel is moved slightly from side to side while driving straight ahead, there is a soft, progressive sense of resistance. At the relatively low levels of lateral acceleration encountered when making small steering corrections on an expressway or during an ordinary lane change, changes in steering effort can be clearly felt, making the car easy to control.
+
+However, when cornering fairly hard on a winding road, to the point that the tires begin to squeal, there is little change in steering effort. Here, after all, the usual characteristics of power steering begin to make themselves felt.
+
+I had the impression that understeer was fairly strong. When the wheel was turned suddenly, yaw response also seemed somewhat slow. Roll could by no means be called excessive, but compared with recent sporty small cars, it does seem somewhat on the large side. Given the aims of this car, however, that can hardly be considered a drawback.
+
+I also tested its hands-off directional stability, and for a power-steering car its convergence is unusually good. In general, many cars with power steering do not have particularly good hands-off directional stability, and with American cars it is quite common for the car to diverge from its course rather than converge. In this respect, considerable care has clearly gone into the Cedric’s development.
+
+In the end, the distinguishing feature of this car’s handling and stability is its power steering—and one senses that this is not a system designed simply to make the steering as light as possible. Rather, it has been developed with careful attention to making the car easy to control.
+
+<i>“The steering feel is rather like that of an American car, and steering effort tends to be a little too light. For such a heavy car, it is also affected surprisingly strongly by crosswinds.” — Mochizuki</i>
+
+<b><u>Interior & Comfort: The Philosophy of “Beat the Benz!”</b></u> <i>(Shigeki Asaoka)</i>
+
+Following the Crown 2600, a Cedric/Gloria series has now appeared with a 2600cc engine installed in the 2000cc body.
+
+When I previously tested the Crown 2600, I gave much thought to what had prompted the creation of a car in this class, but never arrived at an answer. Then, while I was still pondering the question, Nissan hurriedly brought the Cedric/Gloria 2600 into the fray. At last, I arrived at my own conclusion.
+
+There are many reasons, and listing them one by one would take too long, but in brief, I wonder if the thinking behind these cars was not simply: "Beat Mercedes-Benz!"
+
+Mercedes-Benz enjoys great popularity as a prestige car, not only in its native Germany but around the world. Even in Japan, despite its very high price, there is demand for some 1,700 cars a year. This is a market that Toyota and Nissan can hardly afford to overlook.
+
+The new Cedric/Gloria has enjoyed a strong reputation ever since its introduction, not least for its elegant body styling, and in the 2000cc class it has put the Crown, until then the leader in sales, in a difficult position.
+
+The Cedric 2600 we tested this time was a 4-door sedan equipped with AT. This automatic seems to be a considerable improvement over the Borg-Warner unit Nissan used previously. There is little shock during shifts, and operation is smooth; aided by the light power steering, it makes for relaxed and enjoyable driving.
+
+The instrument panel is molded in one piece from plastic, but the arrangement of the instruments and switches is straightforward, without any strangely contrived touches, and makes a good impression.
+
+As with the 2000cc series, this car is also equipped with a number of unique and useful conveniences. These include fender mirrors that can be adjusted from the driver’s seat, and a release lever that allows the trunk to be opened without removing the ignition key while the engine is running.
+
+There is also a three-stage intermittent wiper system. This is particularly useful in light rain or just after the rain has stopped. As befits a "Brougham," the seats are of high-quality materials and finish, with an appropriately refined appearance, although they feel somewhat firm.
+
+What a car of this kind requires above all else is refinement; good performance and suspension are simply taken for granted. Japan, with relatively little historical familiarity with the automobile, is particularly weak when it comes to imparting this kind of refinement to a car. It is an area in which I would like to see the manufacturers study even harder.
+
+<i>“There is rather too much wind noise.” — Kageyama
+
+“Wouldn’t air conditioning be more desirable than power windows?” — Oguchi
+
+“Ride comfort is good. There is relatively little kickback through the steering, too.” — Mochizuki
+
+“There are too many different colors in the interior—even though the contrasts between them are subtle—and it makes the cabin feel unsettled.” — Ikuuchi</i>
+
+<b><u>Safety: The Problem Lies in the "Software"</b></u> <i>(Yasuhei Oguchi)</i>
+
+Safety has recently begun to emerge as a selling point. Only a few years ago, it would have been difficult to imagine automotive safety measures being featured in advertising to the extent that they are today.
+
+Safety is certainly important—indeed, it is obviously indispensable. Yet when I see today’s catalogs and advertisements listing dozens of individual safety features, I cannot help wondering whether they are aimed less at achieving genuine safety in our automotive society than at making an impression through the media itself.
+
+A car that does not move is little more than a piece of industrial craftsmanship. It is only when the human being and the road—the environment—are added that an accident can occur. If that is so, safety can only be expected to be truly effective when it is considered as a single system.
+
+Thus, even if improvements to a car's safety are pursued thoroughly at the engineering stage, if the result is an overload of information for the person at the wheel, might this not actually prove detrimental from the standpoint of overall safety? What matters is how each one of us understands automotive safety—in other words, finding the “point where human and automotive thinking meet.” Is that not the key to a safe automotive society?
+
+We have already covered this model in these pages in its 2000cc form, and as there appear to be no particular changes in its safety provisions, I have inevitably had to approach the question of safety in somewhat abstract terms this time. In a car of this class, the margin of safety in a collision and similar situations is quite large. An additional strength is that it imparts a certain “margin” of composure to the person at the wheel.
+
+Judging from the catalog, I am also pleased to see that the car’s safety features have not been turned into selling points, but have instead remained matters to be pursued at the engineering stage, without burdening the driver with the negative effects of information overload. This is an attitude toward publicity that is particularly desirable in smaller cars.
+
+The reason is that we should not forget that although the driver’s state of mind is fundamentally a "software" problem, it is also influenced to a considerable degree by the atmosphere created by the machine itself. Psychological instability in the driver can become a decisive external disturbance, causing the car’s behavior to slip, almost without the driver realizing it, into an unsafe state.
+
+As far as clean exhaust emissions are concerned, the provision of regular-gasoline models, the use of a carburetor with an idle limiter, and a closed-type blow-by gas recirculation system, among other measures, have brought the car to a reasonable level in terms of the relationship between engineering and economy.
+
+Yet even this clean engine involves a "software" problem. Exhaust concentrations, for example, can change according to the way the car is maintained and serviced. By chance, at the end of this test we took the car to a newly established free inspection station near the Tokyo Interchange of the expressway and had it checked. The CO reading was 6.2%. We immediately had it adjusted, but the reality is that without proper maintenance, even an idle limiter cannot be made fully effective. This is something each of us should keep firmly in mind.
+
+<i>“I am entirely in favor of the interior adjustment mechanism for the fender mirrors.” — Ikuuchi
+
+“With servo assistance (boost ratio 5.4:1), both braking power and brake feel are extremely good. There is no cause for anxiety even under full braking.” — Mochizuki</i>
+
+<b><u>Economy: Are Taxes the Villain?</b></u> <i>(Reiko Ikuuchi)</i>
+
+The Tokyo showroom price of the Cedric 2600GX AT tested this time is 1,614,000 yen. To put it plainly, this is cheap. For comparison, the President ranges from a minimum of 1,910,000 yen for the 3-liter Brougham to a maximum of 2,750,000 yen for the 4-liter L.
+
+Compared with the equivalent Cedric 2000GX, it costs 219,000 yen more, but the 2600 is subject to a considerably higher commodity-tax rate (15% for the 2000cc model and 30% for the 2600cc), so even allowing for that, the price seems quite generous. I wrote much the same thing when we tested the Crown 2600.
+
+But what about that worrisome "3" registration? Let us see what differences there are between a 3-number and a 5-number registration.
+
+<table style="border-collapse: collapse; width: 100%; border: 1px solid #333333; font-size: 0.85em;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #333333; padding: 6px; text-align: left;">Expense</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: right; width: 20%;">3-number</th>
+      <th style="border: 1px solid #333333; padding: 6px; text-align: right; width: 20%;">5-number</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Automobile tax (1 year)</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: right;">54,000 yen</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: right;">24,000 yen</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Vehicle insurance (1 year, 1 million yen coverage)</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: right;">47,840 yen</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: right;">42,720 yen</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Liability insurance (1 year, 10 million yen coverage)</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: right;">23,520 yen</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: right;">23,340 yen</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333333; padding: 5px;">Property-damage insurance (1 year, 1 million yen coverage)</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: right;">9,270 yen</td>
+      <td style="border: 1px solid #333333; padding: 5px; text-align: right;">8,040 yen</td>
+    </tr>
+  </tbody>
+</table>
+
+Registration fees, compulsory automobile liability insurance and passenger injury insurance all cost about the same. In other words, the only item that is substantially more expensive is the automobile tax. In the end, then, are taxes the villain?
+
+I don't know whether this is to keep buyers from being put off by the 3-number registration or not, but dealers make almost no distinction between the 2000cc and 2600cc models.
+
+The delivery charge at the time of purchase, the fee for obtaining the garage certificate on the buyer’s behalf, engine-adjustment charges and regular servicing costs are all the same. Most parts are common to the two models as well.
+
+What about fuel economy? Since we have no test results for a 2000cc AT under identical conditions, I compared the catalog figures. Against 12km/l for the 2600cc AT, the 2000cc AT gives 13km/l—a difference of less than 10%. There are no figures for oil consumption, either. But since both engines have a 4-liter oil capacity, an oil change costs the same in either case.
+
+What about road tolls? Here there is a considerable difference—sometimes as much as double—on roads operated by the Japan Highway Public Corporation, including the Tomei and Meishin Expressways. On ordinary toll roads where charges are based on weight, 1.5 tons is generally the dividing line, so the 2600 remains within the same category. Ferry charges are determined by overall length, so the registration plate makes no difference.
+
+Finally, there is the residual value when the car is traded in. Naturally, this is not yet known for the Cedric/Gloria 2600, so I looked into the Crown 2600 instead. With the qualification that “this is only a calculated figure,” I was told that a car after 13 months of use retains 66.3% of its value. That is not a bad figure. Incidentally, the Crown 2600 is said to be selling at about 130 cars a month, just as projected.
+
+<i>“I hope the 2000cc barrier will soon be removed.” — Oguchi</i>
+
+<b><u>Product Appeal: One Direction for the Automatic Car</b></u> <i>(Kensuke Ishizu)</i>
+
+“Does it have good pickup?” “How fast will it go?”—whenever the subject turns to cars, people almost invariably ask questions like these. But what does it really matter if a car is quick off the line, or has a higher top speed than other cars? If that is where one finds the sense of superiority that comes from car ownership, then it is the thinking of an underdeveloped country. Surely human beings ought to seek their sense of superiority elsewhere.
+
+Clothing has three different uses according to "TPO"—time, place and occasion. 1. Daily wear: ordinary clothing, combining the functionality needed for work with a degree of courtesy toward others. 2. Formal wear: here, rather than functionality, importance is placed on certain rules of appearance and on dignity. 3. Sportswear: this is more purely functional, with considerations of propriety or dignity set aside. It does not matter if it gets dirty.
+
+The same is true of cars. 1. would be a car such as the Fiat 500; 2. would be an AT car (even if we cannot quite call it “formal”); and 3. would be something like the Fairlady. Here too, it is desirable to have the good sense to understand these three different ways of using a car according to its purpose.
+
+The Japanese way of using cars somehow gives the impression of trying to wear one suit for every occasion. Surely it is about time we moved beyond that stage.
+
+Unfortunately, I cannot help being disappointed by the Japanese AT cars we have had until now. They simply lack sufficient power. So when it comes to cars of 2000cc or less, I can understand the use of a manual transmission as a means of compensating for that lack of power.
+
+But considering the fundamental purpose of a car, shouldn't an automatic transmission really be the natural choice? In that sense, I think the growing number of 2600cc AT cars clearly indicates one direction the automatic car can take. The automatic models from Mercedes-Benz, Ford and BMW are also generally of about this displacement.
+
+If 2600cc-class AT cars become widespread in Japan, perhaps such matters as economy, performance and accommodation can, to some extent, be set aside. Or rather, they seem to belong on a different plane from safety and product appeal.
+
+After all, anyone in a position to drive a 2600cc AT is unlikely to be greatly concerned with running costs; performance among such cars will be much of a muchness, and there is little likelihood of their having poor ride comfort.
+
+Safety, on the other hand, is a prerequisite in any discussion of any car. Product appeal, meanwhile, is judged differently even for the same product, according to the consumer’s own reasons for buying that particular car.
+
+I gave this 2600cc AT car the score shown below because, as a car for daily use, it demonstrates one direction such a car can take. If possible, however, I would like to try a somewhat simpler 2600 AT, while retaining the power equipment.
+
+<i>“Rather than a car for the gentleman riding in the rear seat, this is a car for the owner-driver in front.” — Kageyama
+
+“I would like to see a touch more sternness in the body design.” — Oguchi
+
+“If the burden of heavy taxes attached to 3-number cars were removed, today’s 2000cc owners would come rushing to buy them.” — Ikuuchi</i>
+
+<b><u>How to Read the Bubble Index</b></u>
+
+![Nissan Cedric 2600GX Bubble Index](/images/MF-BS-Nissan-Cedric-2600GX-1972a.jpg)
+
+The purpose of this comprehensive road test is to evaluate a car’s overall capabilities through six principal categories: performance, handling and stability, comfort and accommodation, safety, economy, and product appeal.
+
+The evaluation method is what we call the “Bubble Session.” Borrowing an approach from systems engineering, six specialists from different fields gather around a hexagonal table–the “bubble” referring to a honeycomb cell–and discuss the car from their respective viewpoints.
+
+The black circles shown within the six evaluation fields indicate the rating assigned in each category. A car whose circles are relatively equal in size may be regarded as a well-balanced design, whereas one with larger disparities can be said to have a stronger individual character.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-BS-Nissan-Cedric-2600GX-1972-Gallery" >}}
+
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/nissan/">Nissan</a>
+  <span>·</span>
+  <a href="/nissan/cedric/">Cedric</a>
+</div>
+
+
+
