@@ -86,35 +86,35 @@ After completing the drive, the group gathered again at our base, the Fantasy Dr
 
 Remarks like these soon began to circulate around the table.
 
-In any case, the six specialists were unanimous on one point: this is not a car meant for scurrying through tough traffic conditions, darting here and there among the bustle of everyday drivers. For that reason, it may be beside the point to dwell on quarter-mile times or cornering performance. Indeed, the results of the instrumented performance tests showed nothing more than ordinary figures.
+In any case, the six specialists were unanimous on one point: this is not a car meant for scurrying through tough traffic conditions, darting around in the bustle of everyday drivers. For that reason, it may be beside the point to dwell on quarter-mile times or cornering performance. Indeed, the instrumented performance-test results showed nothing more than ordinary figures.
 
-One comment summed up the impression neatly: “When you sit in the driver’s seat of this car, you feel remarkably calm. Your mind relaxes, and the funny speed contests you see taking place between other cars outside the window begin to seem rather foolish.”
+One comment summed up the impression neatly: “When you sit in the driver’s seat of this car, you feel calm. Your mind relaxes, and the funny speed contests you see taking place between other cars outside the window begin to look rather foolish.”
 
-<b><u>Power Performance: Quiet and Average in Character</b></u> <i>(Osamu Mochizuki)</i>
+<b><u>Performance: Quiet and Average in Character</b></u> <i>(Osamu Mochizuki)</i>
 
 It is well known that new models brought to market are the result of careful demographic research conducted by the manufacturers. The Nissan Gloria we test-drove this month displayed very mild and thoroughly average driving characteristics. This may well reflect the fact that owners of 2-liter sedans generally prefer exactly that sort of behavior, something the manufacturer seems to have grasped early on.
 
-Although the exterior has changed completely, the powertrain remains the same as before. The engine is the familiar L20 unit that has already established a solid reputation in the Cedric series. In its standard form this engine has a compression ratio of 9.5 and produces a maximum output of 130ps at 6000rpm. There is also a regular-fuel specification, like that of our test cars, in which the compression ratio is reduced to 8.6 and maximum output lowered slightly to 125ps at 6000rpm.
+Although the exterior has changed completely, the powertrain remains the same as before. The engine is the familiar L20 unit that has already established a solid reputation in the Cedric series. In its standard form this engine has a compression ratio of 9.5 and produces a maximum output of 130ps/6000rpm. There is also a regular-fuel specification, as in our test cars, in which the compression ratio is reduced to 8.6 and maximum output lowered slightly to 125ps/6000rpm.
 
-This inline six-cylinder engine, with a single overhead camshaft, oversquare dimensions, and twin SU carburetors, possesses a number of pleasing qualities. It runs smoothly, produces little mechanical noise, and revs willingly at higher engine speeds.
+This inline six-cylinder engine, with a single overhead camshaft, oversquare dimensions, and twin SU carburetors, has a number of pleasing qualities. It runs smoothly, produces little mechanical noise, and revs willingly at higher engine speeds.
 
-However, when combined with a vehicle whose weight reaches 1625kg when fully loaded (curb weight, 1350kg), the engine’s performance inevitably becomes somewhat subdued. As can be seen from the test data for acceleration from 0–100km/h and for hill-climbing performance, the figures are generally in line with the standard level for a 2-liter sedan. If judged in terms of acceleration alone, it would probably rank somewhere in the middle of the 1.5-liter sedan class.
+However, when combined with a vehicle whose weight reaches 1625kg when fully loaded (curb weight, 1350kg), the engine’s performance inevitably becomes rather subdued. As can be seen from the test data for acceleration from 0–100km/h and for hill-climbing performance, the figures are about at the standard level for a 2-liter sedan. Judged in terms of acceleration alone, it probably ranks somewhere around the middle of the 1.5-liter sedan class.
 
-Of course, Japanese passenger cars in the 1.5-liter category are often endowed with performance that seems almost excessive for their intended purpose, which partly explains such a comparison. In actual use, the Gloria GX (with 4-speed floor shift) proves capable of coping quite satisfactorily with a wide range of conditions, whether on city streets, highways, or mountain roads.
+Of course, Japanese passenger cars in the 1.5-liter category are often endowed with performance that seems almost excessive for their intended purpose, which partly explains the comparison. In actual use, the Gloria GX (with 4-speed floor shift) copes quite satisfactorily with a wide range of conditions, whether on city streets, highways, or mountain roads.
 
-Maximum torque of 17.5kgm is produced at 4400rpm. Accordingly, when the throttle is opened from lower engine speeds, one notices the acceleration beginning to become stronger from around 4000rpm. The torque curve is somewhat peaky for a six-cylinder engine, but it already produces about 15kgm at 2000rpm, so response at low speeds presents no particular problem.
+Maximum torque of 17.5kgm is produced at 4400rpm. Accordingly, when the throttle is opened from lower engine speeds, one notices the acceleration beginning to grow stronger from around 4000rpm. The torque curve is somewhat peaky for a six-cylinder engine, but since it is already producing about 15kgm at 2000rpm, response at low speeds presents no particular problem.
 
-The top speed with the high-octane 130ps specification is given as 170km/h. According to the performance curve, the 125ps regular-fuel version would reach approximately 167km/h. Under favorable conditions, such speeds should be readily attainable. In practice as well, the car’s extension at higher speeds felt smooth and unstrained, aided in part by the effect of its clean, streamlined body shell.
+The top speed with the high-octane 130ps specification is given as 170km/h. According to the performance curve, the 125ps regular-fuel version would reach approximately 167km/h. Under favorable conditions, such speeds should be readily attainable. In practice as well, the car’s extension at higher speeds felt smooth and unstrained, helped in part by the effect of its clean, streamlined body shell.
 
-<i>“Since this is a heavily equipped car, it would be nice to have a little more reserve power. If Nissan installed the 2400cc engine used in export models, the difference would probably be quite noticeable.” —Oguchi</i>
+<i>“Since this is a heavily equipped car, it would be nice to have a little more reserve power. If Nissan installed the 2400cc engine used in export models, it would probably make a quite noticeable difference.” —Oguchi</i>
 
 <b><u>Handling and Stability: Everything Moves at an Unhurried Pace</b></u> <i>(Katsuzo Kageyama)</i>
 
 Since this car is clearly intended as an “elegant, high-grade owner’s car,” any discussion of its qualities must be approached with that purpose firmly in mind. Otherwise one might arrive at rather misguided conclusions.
 
-The adoption of power steering is only natural for a car of this class. Indeed, it is around the steering itself that many of this car’s characteristics become most apparent.
+The use of power steering is only natural for a car of this class. Indeed, it is around the steering itself that many of this car’s characteristics become most apparent.
 
-The steering wheel is extremely light. Even when turning the wheel while stationary, the effort required is minimal. With steering this light, one need not break into a sweat when maneuvering into a garage or edging the car into a tight parking space. It would be perfectly suited to a well-dressed woman driving with graceful ease.
+The steering wheel is extremely light. Even when turning the wheel while stationary, the effort required is minimal. With steering this light, one need not work up a sweat when maneuvering into a garage or edging the car into a tight parking space. It would be perfectly suited to a well-dressed woman driving with effortless grace.
 
 Among power-assisted systems there are many unpleasant examples in which the wheel feels heavy when initially starting to turn, and then suddenly becomes light as more lock is applied. In this car, however, the power steering remains smooth throughout its movement, and there is no sense of awkwardness at all. It can only be described as excellent.
 
@@ -128,7 +128,7 @@ As for its cornering characteristics, the car displays a fairly strong tendency 
 
 The Talbot-type fender mirrors, which can be adjusted from inside the cabin, are very convenient. Unfortunately, the frames are quite thick, leaving the reflective surface itself rather small and somewhat limiting their usefulness.
 
-The turn-signal lever is positioned too close to the steering wheel. Several times, the hand resting on the wheel brushed against it inadvertently, unintentionally operating the indicators.
+The turn-signal lever is positioned too close to the steering wheel. Several times, a hand resting on the wheel brushed against it by mistake, unintentionally switching on the indicators.
 
 The 4-speed floor-mounted shift lever also has a fairly long throw. Because of this, the position of first gear is rather far away, making it somewhat difficult to engage. Driving with the optional three-point seatbelt fastened would likely make the operation even more awkward.
 
@@ -144,15 +144,15 @@ It has been some time since the Gloria and Cedric last underwent a model change.
 
 In that sense, the relationship between the two models now resembles the example of Austin and Morris under BLMC, since they share so many common components. Even so, this Gloria--whether in hardtop or sedan form--gives an impression rather similar to the Crown before its most recent model change.
 
-Before beginning this report, I should mention that during the test drive I did not attempt any hard driving. That is simply because I did not consider this to be the sort of car in which sporting performance is expected.
+Before beginning this report, I should mention that during the test drive I did not attempt any hard driving. That is simply because I did not consider this to be the kind of car in which one expects sporting performance.
 
-The sedan we drove was equipped with a 4-speed floor shift. One feature I particularly appreciated was the clutch spring (the one on the clutch-facing side). Its strength is very well judged, making for a notably pleasant driving feel.
+The sedan we drove was equipped with a 4-speed floor shift. One feature I particularly appreciated was the clutch spring (the one on the clutch-facing side). Its strength is very well judged, giving it a notably pleasant feel while driving.
 
 In the hands of an experienced driver, it would probably be possible to shift gears more smoothly than in the automatic version--and without slipping the clutch unnecessarily. Still, it might have been better if the shift lever itself were slightly longer.
 
-The calm, restrained interior makes a favorable impression. Some materials used in the cabin--such as the jersey fabric upholstery--are quite rich. However, the overall effect tends somewhat toward a taste that feels a bit elderly. Something with a slightly more modern sensibility might have been preferable.
+The calm, restrained interior makes a favorable impression. Some materials used in the cabin--such as the jersey fabric upholstery--are quite rich. However, the overall effect tends somewhat toward a taste that feels a bit elderly. Something with slightly more modern sensibilities might have been preferable.
 
-In addition to the usual reclining mechanism, the seats are equipped with a height adjustment that allows the cushion to be raised. As a result, the seatback angle, fore-and-aft position, and height can all be altered freely. This means that drivers of virtually any build should be able to find a driving position that suits their preference.
+In addition to the usual reclining mechanism, the seats are equipped with a height adjustment that allows the cushion to be raised. As a result, the seatback angle, fore-and-aft position, and height can all be changed freely. This means that drivers of virtually any build should be able to find a driving position that suits their preference.
 
 Power steering is also standard equipment on the GX and GL models, which is certainly welcome. At the same time, it does not suffer from the overly vague and unreliable feel sometimes associated with American cars; the steering effort required to maintain a straight line is quite appropriate.
 

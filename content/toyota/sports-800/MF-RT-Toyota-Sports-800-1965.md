@@ -57,7 +57,7 @@ draft = false
 
 
 
-<b><u>Even Though It is Small...</b></u>
+<b><u>It May Be Small, But...</b></u>
 
 <b>Magazine:</b> With the release of the Toyota Sports 800, Toyota has finally entered the sports car segment. Could you please explain the aims and thinking that went into designing this car?
 
@@ -87,11 +87,11 @@ So, with this car, we decided on a removable roof.  When the roof is attached, a
 
 <b>Sato:</b> Two years ago, we built a prototype car, the Publica Sports, which can be said to be the predecessor of this car. It used a canopy-type roof where the entire upper part of the body slides back and forth. Toyota's request to Kanto Jidosha Co., Ltd. was to make a commercially available sports car that was not too different from the Publica Sports.
 
-Regarding the problem of air resistance, we conducted wind tunnel tests using both the prototype and the commercially available car, and the results for the new car were somewhat better. We also applied tape strips to the body and observed how the wind flowed over the car while driving. Because of the canopy-style roof, the prototype had guide rails along the sides of its body. These disturbed the air flow, and since the production car has adopted normal doors, it has actually improved in this area.
+As for the problem of air resistance, we conducted wind tunnel tests using both the prototype and the commercially available car, and the results for the new car were somewhat better. We also applied tape strips to the body and observed how the wind flowed over the car while driving. Because of the canopy-style roof, the prototype had guide rails along the sides of its body. These disturbed the air flow, and since the production car has adopted normal doors, it has actually improved in this area.
 
-Also, Chief Engineer Hasegawa requested that we make the body surfaces as smooth as possible. A streamlined shape, in other words. He asked us to avoid any unevenness, so we struggled with the placement of the headlamps and taillamps, in particular. We couldn't simply mount them on a vertical surface as usual, so we spent a lot of time before arriving at the current design.
+Also, Chief Engineer Hasegawa requested that we make the body surfaces as smooth as possible. A streamlined shape, in other words. He asked us to avoid any unevenness, so we struggled with the placement of the headlamps and taillamps, in particular. We couldn't simply mount them on a vertical surface as usual, so we spent a lot of time on it before arriving at the current design.
 
-Also, in terms of the aerodynamic shape, we found that the shoulders of the bonnet needed to be made a little larger and rounder than on the prototype, so we rounded them further. I think cars with a cross section this round are quite rare.
+Also, in terms of the aerodynamic shape, we found that the shoulders of the hood needed to be made a little larger and rounder than on the prototype, so we rounded them further. I think cars with a cross section this round are quite rare.
 
 In terms of weight reduction, we designed the body so that there was almost no wasted space, with not even 1cm to spare. It is unlikely that the front or rear overhangs could possibly be shortened any further. In any case, we made the body as close-coupled as we could without encroaching on interior space. In fact, the interior space is quite comfortable.
 
@@ -99,7 +99,7 @@ Also, as we discovered later, there are FIA ​​standards that require a minim
 
 <b><u>Bore Diameter Increased by 5mm</b></u>
 
-<b>Magazine:</b> In terms of the technical content, what are the most important features of this car?
+<b>Magazine:</b> In terms of the mechanicals, what are the most important features of this car?
 
 <b>Hasegawa:</b> Starting with the engine, the Publica's 700cc engine had a bore of 78mm, but we enlarged it to 83mm, giving it a total displacement of 790cc. As a result of the bore-up, the cylinder head, piston rings, and other components have been changed.
 
@@ -305,13 +305,13 @@ The interior dimensions are short in length and low in height, but since it has 
 
 The driving position is very spacious, as the small-diameter steering wheel is angled toward the horizontal and low to the seat cushion, and there is ample space between the seat back and the pedals. As a result,  it is easy to relax in a sporty driving posture with your arms stretched out and your body leaned back. The reach to the switches and knobs is also very good, with the ones that are often used while driving grouped close to the driver.
 
-However, the handbrake lever is too close, so it is difficult to apply force to it. It is particularly difficult to use when turning right at high speed, so I think it should be moved a little further forward. The brake and accelerator pedals are positioned close to each other, so heel-and-toe is easy.
+However, the handbrake lever is too close, so it is difficult to apply force to it. It is especially difficult to use when turning right at high speed, so I think it should be moved a little further forward. The brake and accelerator pedals are positioned close to each other, so heel-and-toe is easy.
 
 In terms of equipment, the monocoque body uses curved glass on all four sides, which I think contributes to the high overall rigidity. The rear quarter panel vents mentioned earlier certainly seem to be effective in extracting cabin air. However, the triangular windows are fixed, there are no sun visors, and I could not see any ventilators at floor level, so I expect it will get hot in the summer.
 
 The gauges are nicely separated, good-sized, and well-placed, but I would have liked a clock. The safety belts include shoulder-type anchors, the assist grip is solid, and the crash pad is thick, so I thought the attention to safety was impressive.
 
-<b>Kobayashi:</b> Thank you very much for these many valuable opinions. We will continue researching and improving the car, and hope to make it a car that will please many people. 
+<b>Kobayashi:</b> Thank you very much for these many valuable opinions. We will continue researching and improving the car, and hope to make it a car that many people will enjoy. 
 
 We have a monthly production capacity of about 300 to 500 units, so we would like to sell it not only to young people, but also as a business car for gentlemen drivers who are still young at heart.
 
