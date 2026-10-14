@@ -65,19 +65,19 @@ draft = false
 
 <b><u>A "Semi-Sports" Car</b></u>
 
-<b>Tanaka:</b> This sports car was planned around three main objectives. First, with automobiles becoming as widespread as they have today, the sedan tends to become a car used mainly for "business"—for work, in other words—and we believe there is a need for a car intended simply for the enjoyment of driving. In that sense, one of our objectives was to create what might be called a "leisure car."
+<b>Tanaka:</b> This sports car was planned around three main objectives. First, as automobiles have become increasingly widespread, the sedan has come to be a car used mainly for "business"—or for work, in other words—and we believe there is a need for a car intended simply for the enjoyment of driving. In that sense, one of our objectives was to create what might be called a "leisure car."
 
 Second, although the styling of Japanese automobiles has been improving year by year, we believe that further progress in this area requires stimulation from outside. With that in mind, we turned to Italy, by far our senior in the field of body design, in the hope that it would provide the stimulus for our next leap forward.
 
 The third objective concerns exports. As you know, since the introduction of compact cars in America, exports to the United States—including those of European cars—have declined considerably. Even so, there are some types that have managed to survive quite well.
 
-Looking at these, one type is the car thoroughly dedicated to the role of a "second car"—the Volkswagen and the Renault Dauphine, for example. These are relatively small, genuinely practical models. The other type that continues to find strong demand is the sports car. We therefore decided to build a sports car as a means of expanding our exports.
+Looking at these, one type is the car dedicated to the role of a "second car"—the Volkswagen and the Renault Dauphine, for example. These are relatively small, genuinely practical models. The other type that continues to find strong demand is the sports car. We therefore decided to build a sports car as a means of expanding our exports.
 
 Sports cars in general are said to fall into three categories.
 
 The first is the semi-sports car, the second the pure sports car, and the third the racing car. The Skyline Sports belongs to the first of these categories: the semi-sports car.
 
-Given Japan's road conditions and the fact that automobiles have not yet become thoroughly widespread here, such a car must still be capable of being used for business to some extent, while there is little need for extremely high speeds. So, we felt that what might be called "a car for enjoying a sporting atmosphere" would be the most appropriate approach, and planned the car accordingly. Among foreign cars, it falls into roughly the same category as the MGA, Fiat 1500, Renault Floride, and Karmann Ghia.
+Given Japan's road conditions and the fact that cars have not yet become thoroughly widespread here, such a car must still be capable of being used for business to some extent, while there is little need for extremely high speeds. So, we felt that what might be called "a car for enjoying a sporting atmosphere" would be the most appropriate approach, and planned the car accordingly. Among foreign cars, it falls into roughly the same category as the MGA, Fiat 1500, Renault Floride, and Karmann Ghia.
 
 Planning for this car began exactly two years ago, in March 1960. In June of that year, we commissioned the famous Italian car designer Giovanni Michelotti to design it. The car was completed five months later and exhibited at the Turin Motor Show in November. It was then brought back to Japan and shown to you in March of last year.
 
