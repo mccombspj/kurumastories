@@ -92,13 +92,13 @@ The 240Z, on the other hand, has an exceptionally flat low-speed torque curve an
 
 <b>Hirao:</b> The redline starts at 6500rpm, doesn't it? So it will rev fairly high.
 
-<b>Takei:</b> It can be run to around 7000rpm without any trouble.
+<b>Takei:</b> It can be taken to around 7000rpm without any trouble.
 
 <b>Watari:</b> In that respect, it felt like a very usable sports car.
 
 <b>Okazaki:</b> I think the power is entirely adequate. My only reservation is the feel of the engine in the upper rev range.
 
-I've always had the impression that Nissan's L-series engines aren't especially happy at high rpm. If it could spin a little more smoothly, from a subjective standpoint, I'd have no complaints at all.
+I've always had the impression that Nissan's L-series engines aren't particularly happy at high rpm. If it could spin a little more smoothly, from a subjective standpoint, I'd have no complaints at all.
 
 <b>Oguchi:</b> With a Mercedes engine, to put it somewhat dramatically, the tachometer needle seems to start climbing before your foot has even finished pressing the accelerator.
 
