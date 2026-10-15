@@ -1,0 +1,191 @@
++++
+
+
+
+title = "Mazda Cosmo Sport (1967)"
+weight = 40
+
+
+date = "2026-10-15T04:50:49-07:00"
+
+
+
+draft = false
+
+
+
++++
+
+
+
+![Mazda Cosmo Sport](/images/CG-RT-Mazda-Cosmo-Sport-1967.jpg)
+
+
+
+<b>Publication:</b> Car Graphic<br>
+<b>Format:</b> Road Test<br>
+<b>Date:</b> September 1967<br>
+<b>Author:</b> Junji Shirai, Nobuo Koga
+
+
+
+
+
+<b><u>Mazda Cosmo Sport: 1,000km Endurance and Circuit Test</b></u>
+
+As we raced down National Route 113 toward the Sea of Japan, over mud, gravel, and rocks, the dark mass of Oguni Pass—which we had only just crossed, with considerable difficulty—was beginning to brighten faintly behind us. It was 3:50am on July 12, exactly 12 hours since we had left Tokyo, and the trip recorder showed that we had covered 534km.
+
+Almost everything written about the Mazda Cosmo Sport had been filled with favorable commentary and praise, but there was one point common to nearly all of it: lingering doubts about the durability of its rotary engine. There was another point in common as well. These doubts were not based on anything concrete, but arose simply from uneasiness toward an unfamiliar new product. “Time” would eventually provide the answer, but if we wanted to know sooner, there was nothing else to do but put the car to the test.
+
+I therefore devised a severe test program: 1,000km of nonstop running, and at high speed, followed by a circuit run. With the cooperation of Nobuo Koga—then busy preparing to compete in the 84-hour endurance race (Marathon de la Route) at the Nürburgring in August—I set out to find an answer to this pressing question.
+
+<b><u>Escaping Tokyo's Rush Hour</b></u>
+
+At 3:50pm on July 11, the Cosmo Sport left the offices of Nigensha in Kudan, Tokyo, and headed north on National Route 4, loaded down with two 25-liter reserve fuel tanks, four 1-liter cans of replacement oil, tools, food, clothing, and camera equipment. About the only special preparations made for this 1,000km run were ample provisions and nutritional supplements for the crew; rather hard on the car perhaps, but it remained completely in standard specification.
+
+It was rush hour, and from Ueno through Senju we spent more time stopped than moving. There had been some concern about the rotary engine's low-speed torque, and we had wondered whether it might prove troublesome in Tokyo traffic, but as long as the car was moving, it surprised us by pulling along quite happily even below 1000rpm. Once stopped, however, the clutch could not be engaged at idle as with a reciprocating engine; the engine had to be brought up to at least 1500-2000rpm. 
+
+The carburetor on the test car was not quite in proper tune, and a slight hesitation could be felt under acceleration. Once, while inching through Tokyo traffic in low gear at 1000rpm, the engine simply stopped unexpectedly. This may possibly have been caused by a fouled plug.
+
+Three hours after our departure we had covered 120km, for an average of 40km/h. Despite the considerable amount of low-speed running, both water and oil temperatures remained completely normal. For a time we could barely manage 60km/h, though occasionally there were stretches where 80km/h was possible, and gradually we began to raise our average speed. 
+
+We had to reach Fuji Speedway by 8:30am the following morning, but at this point we were still traveling in the opposite direction. Thanks to its relatively flat torque curve and 110ps output, overtaking was extremely easy despite the car's substantial weight. We could tuck in closely behind the car ahead and, the moment an opportunity appeared, accelerate and be past it within a few seconds. It was a practical demonstration that a car with performance in reserve is a safer car.
+
+Beyond Koriyama the roads began to clear, allowing us to increase our speed, and the severe test finally began in earnest. We repeatedly ran the engine to 7000rpm in first and second, braked hard, and immediately went back to full throttle. The first thing this revealed was that the braking performance was somewhat inadequate for the car's weight—or perhaps for its acceleration.
+
+There was no sign of fade whatsoever, but with no servo assistance and drums at the rear, the initial press of the pedal gives a momentary feeling of rather little happening, which instinctively makes one press harder. Brakes that become more effective in proportion to pedal effort are desirable, but under repeated braking from high speed, the effort becomes physically tiring after a while. Even so, bringing a mass of iron weighing more than 1 ton to rest from over 100km/h is no easy matter.
+
+<b><u>Inadequate Lighting</b></u>
+
+The overcast sky brought an early dusk, and by the time we reached Koriyama it was completely dark, with patches of wet pavement lit up by the headlights of passing cars. After six hours we had covered 300km, raising our average speed to 50km/h.
+
+What struck us particularly about the lighting was the inadequate illumination provided by the headlights. It was insufficient for a car capable of nearly 200km/h—though it might be more accurate to say that the illumination is improperly directed. The rear overhang is unusually long, and since the luggage compartment is located within this overhang, a full load tends to raise the front of the car (the weight distribution is light at the front even when empty). As a result, even the low beam approaches the angle of the high beam, leaving the road immediately ahead poorly illuminated at low speeds. At high speeds, when the high beam is used, the main beam disappears into the darkness overhead and badly dazzles oncoming drivers. (This long overhang later proved to be the source of virtually all the Cosmo's weaknesses.)
+
+Among the various instruments, what bothered us about the interior lighting was that the tachometer was the dimmest, while the radio dial stood out the most. Adjusting the illumination control does nothing to alter the relative brightness. This is probably because the speedometer has windows for the trip recorder and odometer, through which additional light escapes, making the tachometer appear relatively dark. Although covering 1,000km in a single day may not yet be commonplace in Japan, exports must also be considered, and more attention should be paid to night driving, which is unavoidable in this sort of grand touring.
+
+There is one other point. The adjustable map lamp mounted on the instrument panel appears at first glance to have been well thought out, but in practical terms it is useless. To begin with, its angle of illumination is wrong. Even when the navigator spreads out a map, the light comes from ahead at an almost horizontal angle even at its best position, and therefore does not illuminate the map effectively. Moreover, when one's focus alternates between the map and approaching road signs ahead, the intense beam from the lens flickers across one's field of vision directly in front of the eyes and becomes a major distraction. Nor is this lamp of any use as an interior light; a separate lamp is needed somewhere around the center of the rear portion of the roof, where it could softly illuminate the entire cabin.
+
+<b><u>Soft Suspension</b></u>
+
+In Sendai, after taking a detour around the ruins of Aoba Castle and making a broad left turn, we entered National Route 48. The streetcar tracks were in poor condition, and when we drove into them at speed, the softness of the suspension, which until then had called little attention to itself, suddenly became conspicuous. Thanks to the low unsprung weight of the de Dion layout, it is very rare for the rear axle to oscillate enough to impair directional stability, but the long leaf springs with their considerable travel, together with the relatively soft dampers, allow the tail to undulate considerably. Here again the long overhang proves troublesome: the movement of the tail affects the nose as well, forcing us to slow down over the trackwork.
+
+Whatever the case on paved roads, we began to wonder how it would fare on the rough road over the Sekiyama Pass ahead. Sure enough, on the pass road, churned up by heavy vehicles with exposed rocks, the rear frequently bottomed, and on tight corners where rain gullies had left the surface ridged like a plowed field, the car pitched violently enough to scrape its underside. Yet thanks to the independent front suspension and de Dion rear, all four wheels maintain a firm grip on the road, and as long as the speed is kept within what these surface conditions allow, the car's directional stability is unaffected. Mere stiffness is not all that is required of a sports-car suspension, but given the performance of this car, a somewhat firmer setting would nevertheless be ideal.
+
+The occasional oncoming cars had disappeared altogether by around midnight. Threading our way between the dark, looming mountains and cornering right and left, over and over, we raced down into Tendo, then headed south in one sweep, passing through Kaminoyama at 12:50am. At Akayu we turned right and headed back into the mountains. At last the car was beginning to point in the direction of FISCO.
+
+According to the police in Akayu, National Route 113 over the Oguni Pass was “a pretty good road,” but it proved to be every bit as bad as Route 48. There were several sections under construction, and apparently it had rained during the day; the clay surface was so slippery that it felt as if it had been coated with grease. 
+
+We climbed almost entirely in second gear, but on sharp corners, when road speed fell and the engine dropped below 1000rpm, even this engine naturally ran out of breath, requiring a double-clutched shift into first for a quick exit. With the heavy load on board, it was especially crucial to downshift early on steep climbs. Even so, near the top of the pass, whenever a short straight appeared, the reserve of power immediately made itself felt and the car would accelerate instantly. The strength of the body is remarkable. It is like being inside a safe, without so much as a single creak. One can readily understand the 940kg curb weight.
+
+No sooner had we crossed the pass and begun the descent than we came upon a section that had been temporarily repaired after a landslide. The road was so badly torn up that it was difficult even to decide where one might get through. Finally making up our minds, we steered away from the shoulder and drove into the mud. There was a scraping sound—<i>gari!</i>—from beneath the center of the floor, and the car stopped. Its belly had grounded on a large ridge projecting from the surface. Trying to rock it free in first gear was useless; the rear wheels simply spun. Even climbing onto the bumper and rocking the car, Safari Rally-style, accomplished nothing with the underside firmly hung up. Here again the long overhang and the weight of the luggage carried inside it were working against us.
+
+After we unloaded the two 25-liter fuel cans, the tail finally lifted enough for us to force the car free. Covered in mud, the two of us took a short rest, eating oranges to quench our thirst. When we switched off the lights, the surroundings were utterly black. Fog slowly drifting up from the Sea of Japan side enveloped everything, leaving us in zero visibility. Listening intently into the black depths of the valley, one could almost imagine hearing a somber symphony. At this hour, with everyone else sound asleep, we had been the only ones toiling away deep in the mountains.
+
+Breaking the silence, the rotary engine once again sent its twenty-first-century exhaust note into the darkness, and we set off again to do battle with the rough road.
+
+<b><u>A Problematic Interior</b></u>
+
+More than 12 hours after leaving Tokyo, we finally reached the coast of the Sea of Japan, as mentioned at the beginning. We immediately turned south along National Route 7 and increased our speed. By the time the pale dawn light revealed the coastline and rows of pines beneath the heavy skies characteristic of Japan's western seaboard, I at last began to feel sleepy. Leaving everything to Koga, I slept for about two and a half hours.
+
+The Cosmo's seats recline to nearly 45°, making it possible to take a nap during a nonstop long-distance run like this, but they do not suit my build (185cm tall, 75kg), and there is no escaping a certain cramped feeling. The wool fabric covering most of the seats is soft and pleasant to the touch, and it breathes well. But if anything, it is rather too soft, and it retains a little too much warmth in summer. The seats themselves are also soft overall and do not provide enough support during hard cornering. The center of the seat cushion, where one's posterior rests, has been made thin to gain interior height, but it is too thin; after sitting on it for 1,000km, even I began to feel pain in the muscles of my backside.
+
+Adequate ventilation is indispensable in a car with such a small cabin, and the Cosmo's system is extremely well designed. Even with the windows completely closed, above 60km/h a gentle breeze enters through the inlets at one's feet, flows rearward through the cabin, and is discharged through circular openings in the rear quarter panels. Apart from providing ventilation, this has another advantage: any unpleasant odors are promptly expelled from the car, considerably reducing the psychological burden on the occupants.
+
+There is one curious point, however. Fine adjustment of the airflow is possible only on the outlet side, whereas surely the reverse would be more logical. The foot-level inlets can only be fully open or fully closed, and in actual use it seemed to us that fine adjustment was needed on the inlet side instead. 
+
+As welcome as this ventilation system is, it also has a weakness. Almost none of the incoming air reaches the face; it simply flows past from about chest level downward. According to Koga, when engaged in sport one is at one's best with just a light sweat on the neck, and to refresh oneself by directing a little cool air to the head, this ventilation system is no use at all: one has to lower the window by 5mm-1cm.
+
+Two more things had bothered us continuously since setting out: the lack of storage space for small articles and the absence of a grab handle. The Cosmo has neither.
+
+Even without undertaking a journey like this, during a drive one soon finds oneself wanting somewhere to put small objects, yet there is nowhere in the Cosmo's cabin apart from the shelf behind the seats. The top of the transmission tunnel behind the shift lever, where one would normally expect to find something, is simply covered by a rounded panel, and is too low even to serve as an elbow rest. The doors, despite being quite thick, have no map pockets either. Consequently, as navigator I found myself with record sheets, maps, and a ballpoint pen piled on my lap, while stopwatches and cameras hung from my neck. There was not even anywhere to put the wrappers from chewing gum and chocolates eaten while driving, and in the end we had to improvise a wastebasket from a paper bag.
+
+The absence of a grab handle was equally troublesome. Under sudden hard braking or when being tossed side to side during cornering, there is nothing but the three-point seat belt to support the navigator. Even when trying simply to pull oneself upright, there is nothing ahead to grab onto, making it a surprisingly difficult task. The armrest on the door can serve the purpose to some extent, but then there is a danger of accidentally pulling the door handle. As a result, the most effective handhold for the navigator turns out, remarkably enough, to be the handbrake lever sprouting from the left side of the transmission tunnel.
+
+Unless these two points are improved promptly, the Cosmo is likely to become unpopular with its passengers.
+
+<b><u>Average Speed Rises to 70km/h</b></u>
+
+At Niigata, National Route 7 becomes Route 8, and once again a level paved road stretches out straight ahead. Despite all the hard driving through the mountains, the Cosmo's rotary engine remained in perfect form, as though nothing had happened at all; press the accelerator, and it would immediately launch into a furious dash. It showed absolutely no sign of flagging.
+
+At exactly 6:00am, I woke from a light sleep and immediately checked the trip recorder. It read 705km. In the 2 hours and 20 minutes since I had fallen asleep, we had covered 161km—a fast pace averaging close to 70km/h. As for Koga, despite having driven continuously for more than 14 hours since our departure, he was whistling cheerfully. “I'm finally beginning to get into my stride,” he said. He, too, seemed the very picture of endurance.
+
+For this 1,000km test, our basic rule was to allow a 100% margin of safety and complete the run without an accident under any circumstances. Koga's driving was ideally suited to this plan: extremely safe, yet very fast. This was the first time I had accompanied him on a long-distance drive, but from the moment I got into the car I was able to carry out my duties as navigator with complete confidence. 
+
+He seemed particularly attentive to the constantly changing condition of the road surface; no matter how small the disturbance, he would reduce speed to the appropriate level before crossing it, then accelerate again. This is especially important when driving the Cosmo at high speed on public roads, since it has a slight tendency toward bump steer—a change in direction when the wheels are deflected by a surface irregularity.
+
+<b><u>A Tough Engine</b></u>
+
+Now, with 300km remaining to FISCO, I took over the wheel from Koga on the outskirts of Takada. During the brief stop, we transferred the remaining 25 liters of reserve gasoline into the fuel tank. (The other 25-liter can had already been emptied into the tank when we became stuck in the mud at the Oguni Pass. We made effective use of even the shortest stops.) With this, the long rear overhang had become considerably lighter, and we expected some change in the car's handling characteristics.
+
+The newly paved National Route 8 stretches straight toward Nagano. At 6:18am, I brought the rotary engine up to 3000rpm and engaged the clutch; pressing the accelerator farther, the sudden acceleration pushed my back into the seat, and in no time at all we had reached 100km/h.
+
+From Naoetsu, National Route 18 runs south with Lake Nojiri on the left, then at Mure climbs onto a bypass along the embankment of the Chikuma River to skirt around Nagano. There was almost no traffic on the highway in the early morning, making it possible to maintain a fast pace safely, though from time to time we encountered farmers slowly making their way to the fields on tractors towing small trailers.
+
+These move at a crawling pace and sometimes make abrupt U-turns, so whenever one comes into view there is nothing to do but slow down. It is at moments like these that the heavy body and soft brakes seem particularly regrettable. “If only it were 200kg lighter”—how many times had we said that to each other?
+
+“It's just right for me,” Koga had said of the reclining seat (he is 160cm tall and weighs 60kg), before settling down and falling asleep. Taking care to disturb him as little as possible, yet without reducing the pace, I drove on through Koshoku, Ueda, and Komoro, and once again entered the gravel-and-volcanic-ash surface of the Saku-Koshu road. Unfortunately, low-hanging rain clouds completely hid the Yatsugatake mountain range from view. Across gently sloping pastureland, a broad gravel road ran straight ahead, and we covered it at a fast pace with frequent gear changes.
+
+The engine continued to spin cheerfully all the while, but unlike a reciprocating engine, it has no valve gear or various other gearing, nor is there any knocking whatsoever, so one simply cannot get any sense of whether the engine is being overworked.
+
+One thing that had bothered me about the gearshift was that, despite the short lever, its stroke was quite long, so that the movement from second to third (or vice versa) required a particularly large swing. This serves no useful purpose and merely hinders quick shifting. The gearbox also had a tendency to become reluctant to go into second if first was held all the way to the red zone, but apart from this the synchromesh worked well, and the spacing of the ratios was ideally suited to high-speed touring on ordinary roads and easy to use.
+
+Near Nirasaki, at the end of the Saku-Koshu road, the surface became asphalt and our pace increased, but unfortunately a light rain began to fall. Thinking that we might well have rain at FISCO, I entered a blind, tight corner in the usual slow-in, fast-out manner. The moment I pressed the throttle a little harder, the tail began to slide and the steering became rather busy. The standard tires are Bridgestones with a new tread pattern, but even so, they seem weak on wet roads. For a car with this kind of performance, the optional radials would provide greater security. Perhaps radials should even be standard equipment.
+
+From Kofu we turned off to the right onto National Route 137, passing through Fuji-Yoshida, already busy with sightseers, at 11:10am. Though I was anxious to reach FISCO by noon, I restrained my impatience and carefully negotiated the last stretch of bad road near Subashiri—that dreadful volcanic-ash road that anyone going to FISCO must inevitably deal with. 
+
+We arrived at FISCO's main gate at 12:18pm. Including every stop along the way, 20 hours and 28 minutes had elapsed since our departure the previous day; we had covered 998km at an average speed of 48.7km/h. From the FISCO Drivers' Salon, three men from Toyo Kogyo's Rotary Engine Research Department, headed by Test Section Chief Takada, together with Mr. Yamashiro of the Tokyo branch, came rushing out as though they had been waiting impatiently for us. A complete inspection and preparation of the car for its circuit running began immediately.
+
+<b><u>Like a Fish Returned to Water</b></u>
+
+On a weekday FISCO is deserted and completely quiet. Unfortunately the sky was overcast, with rain clouds threatening to burst at any moment sweeping up from below the hairpin. Koga and I sat down to rest on solid ground for the first time in many hours. Realizing that we had eaten nothing like a proper meal since our late dinner the previous night, we suddenly felt hungry and began stuffing ourselves.
+
+After washing off the sweat and doing a light warm-up with calisthenics and jumping rope, we went to the garage. The Cosmo, which had become so covered in mud as to be hardly recognizable, had been thoroughly washed, and its tires had been changed to Bridgestone radials. We checked the oil after the 1,000km run and found that the level had not gone down at all. Consequently, the only preparations made for running at FISCO were to fit the radial tires (2kg/cm² front, 2.2kg/cm² rear), replace the standard No. 8 spark plugs with No. 9 plugs, and put in 20 liters of racing gasoline.
+
+Before taking to FISCO, we confirmed that our aim was not to examine the Cosmo's performance as a race car, but strictly to assess, from the standpoint of a grand touring car, the aspects of its high-speed performance that could not be tested on public roads. More specifically, our approach was to corner within the tires' limits of adhesion to the surface. Deliberately inducing a slide and then countersteering to recover from it would already be a matter of driving technique, rather than an evaluation of the car's capabilities.
+
+On foot, the course is nothing more than a vast expanse of asphalt, but once we put on our helmets and drive the Cosmo onto it, it seems to take on an irresistible sense of direction, drawing us with tremendous force toward the far distance, hazy in the mist. “Pit after three laps. We'll re-tighten the wheels.” With these instructions from the mechanic, we tightened our belts once more, and at last the circuit run began.
+
+Running each gear to 7000rpm, we shifted into top at the end of the straight and entered the banking near its lower edge. The Cosmo faithfully followed the undulations of the track surface, pitching violently up and down. Since this was not racing suspension, that much was only to be expected, but with each vertical movement the car also shifted slightly from its line. This was clearly pronounced bump steer. Koga worked the steering wheel sharply from side to side to correct it, but maintaining a straight course was far from easy.
+
+We came out of the S-bends in third gear and entered the hairpin at over 140km/h, braking hard with heel-and-toe while shifting down to second, then accelerating from 60km/h and "drifting" out of the corner. From there it was full throttle around the final corner and onto the straight, shifting into top and continuing to accelerate. By the time we came around after one lap, our unexpected appearance on the circuit had everyone present watching us, stopwatches in hand.
+
+At the end of the straight the speedometer showed slightly more than 200km/h, although one must allow for an error of around 10%. At that point the tachometer was reading slightly below 7000rpm, whereas the performance curve indicates 7300rpm at 200km/h. We were told, however, that the tachometer itself also has some error at the upper end.
+
+Even so, the way this rotary engine gains revs is extraordinary. It seems to go on climbing without limit. Its low, heavy note takes on a metallic quality above 5000rpm, and by around 7000 it sounds almost like a turbine. 
+
+The long rear overhang is a thoroughly unwelcome presence on FISCO's banking. Combined with the soft suspension, the large movements of the tail cause one's helmet to bang hard against the roof, no matter how tightly the belt is fastened. Normally, maximum speed on the banking is reached nearer the exit than the entrance, but because of this excessive movement, even if the Cosmo enters at 200km/h, it has to be slowed to 140km/h by around the end of the banking.
+
+Moreover, since the gear ratios are not suited to FISCO, even at full throttle through the right-hand curve at the exit of the S-bends, the tachometer needle falls steadily. Roll is slight, but the Bridgestone radial tires grip too well, biting into the surface and generating tremendous side forces. The limit of adhesion is high, but once it is exceeded, the tail suddenly breaks away and the steering becomes very busy. That the handling is almost neutral despite the light front-end weight distribution is probably due to these tires.
+
+“I haven't driven FISCO for a while, so I'm not really in top form,” Koga remarked, yet he handled the Cosmo freely, driving with an intensity that would have been unthinkable during our 1,000km on public roads. As though responding in kind, the Cosmo's engine ran with a healthy roar. Both man and machine were like fish returned to water.
+
+“If the gear ratios were matched to FISCO, the suspension stiffened, and another 200kg taken out of the body, it would easily lap in the 2-minute-10-second range. Then it would be a strong contender in the 2-liter class.”
+
+“That would make racing interesting again.”
+
+After completing 18 laps talking like this, the scheduled hour had passed in no time, and the test was over. Back in the pits, the Cosmo's engine came quietly to a stop, as though nothing at all had happened. Even immediately after such hard running, the radial tires showed very little heat buildup.
+
+<b><u>A Promising Future</b></u>
+
+From the results of 1,000km on public roads and 108km of circuit running, one general conclusion can be drawn. While the rotary engine itself inspires absolute confidence, the other parts of the car—the suspension, brakes, auxiliary equipment, overall layout, and smaller details—have not yet reached a level equal to the futuristic performance of the rotary engine.
+
+Or, looked at another way, it might be said that the rotary engine stands far above the reasonably well-developed level attained by the car's other components. 
+
+To put it yet another way, perhaps our own thinking is simply too backward in the face of a technology as revolutionary as the rotary engine, causing us to become disproportionately conscious of the weaknesses of conventional mechanisms.
+
+In any event, if rotary-engined cars are to make “exceptional” progress in the years ahead, it will be absolutely essential for all aspects of automotive technology to advance in balance with one another.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "CG-RT-Mazda-Cosmo-Sport-1967-Gallery" >}}
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/mazda/">Mazda</a>
+  <span>·</span>
+  <a href="/mazda/cosmo-sport/">Cosmo Sport</a>
+</div>

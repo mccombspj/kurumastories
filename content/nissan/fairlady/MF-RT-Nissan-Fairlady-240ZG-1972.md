@@ -156,7 +156,7 @@ It felt rather unsettled.
 
 And with a ZG, drivers naturally tend to travel faster than they would in an ordinary car. When you're cruising at 130-150km/h and suddenly encounter a strong crosswind, it's bound to get your attention.
 
-<b>Oguchi:</b> I drove it in that same strong wind and even tried a hands-off test up to around 160km/h. The car didn't seem to deviate from its line all that much.
+<b>Oguchi:</b> I drove it in that same strong wind and even tried a hands-off test up to around 160km/h. The car didn't seem to deviate from its course all that much.
 
 My impression was actually that it handled crosswinds quite well.
 
@@ -268,7 +268,7 @@ Japanese drivers also still seem to have a strong preference for the traditional
 
 <b>Hirao:</b> That's certainly true.
 
-<b>Takei:</b> Which makes it difficult for many people to appreciate the particular character of Porsche-type synchromesh.
+<b>Takei:</b> Which makes it difficult for many people to appreciate the unique character of Porsche-type synchromesh.
 
 And because this design goes into gear so easily, the rate of damage tends to be quite high. For those reasons, we've aimed for something of a compromise between the two.
 
@@ -312,7 +312,7 @@ As for noise, the absolute values in fifth gear are close to the lower limit of 
 
 On the other hand, C-weighted readings are normally about 20 phons higher than A-weighted values, but this car's figures are somewhat higher than that. I suspect there's a certain amount of high-frequency harshness present.
 
-As for running flat-out in Europe, I don't think there's much point in worrying about noise and vibration at those speeds. It's more important to make the car quiet at the speeds typically encountered in America.
+When it comes to running flat-out in Europe, I don't think there's much point in worrying about noise and vibration at those speeds. It's more important to make the car quiet at the speeds typically encountered in America.
 
 <b>Ishikawa (Yasuo):</b> In practice, that's exactly what we've done.
 

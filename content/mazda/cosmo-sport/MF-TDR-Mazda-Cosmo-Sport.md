@@ -51,7 +51,7 @@ Then, as I heard one story after another of the hardships it had endured during 
 
 But sentimentality has no place in a road test, so I made a conscious effort to remain objective as I climbed aboard, casting the same critical eye over the car as always.
 
-The Cosmo is an exceptionally low car, with a low driver's eyepoint, but because the hood is also low, it offers good forward visibility. After sliding the seat into a position that placed my feet comfortably on the pedals, I noticed that the gear lever was a little too close, requiring me to bend my left elbow quite sharply.
+The Cosmo is an exceptionally low car, with a low driver's eyepoint. But because the hood is also low, it offers good forward visibility. After sliding the seat into a position that placed my feet comfortably on the pedals, I noticed that the gear lever was a little too close, requiring me to bend my left elbow quite sharply.
 
 One distinctive feature is the adjustable steering wheel, but changing its position does nothing to alter one's relationship to the gear lever.
 
@@ -65,7 +65,7 @@ The first thing I noticed after setting off was the remarkable initial accelerat
 
 The gear change is smooth as well, making for simply exhilarating acceleration.
 
-Once in top gear, I slowed back down and was astonished by how well the engine could pull from low speeds. The car will keep running down to around 30km/h, and if the accelerator is pressed from there, it surges forward in one strong sweep of acceleration.
+Once in top gear, I slowed down gradually and was astonished by how well the engine could pull from low speeds. The car will keep running down to around 30km/h, and if the accelerator is pressed from there, it surges forward in one strong sweep of acceleration.
 
 This was a revelation. No conventional piston engine offers anything quite like it. With maximum power at 7000rpm and maximum torque at 3500rpm, this can only be the result of exceptional engine flexibility.
 
@@ -73,9 +73,9 @@ Here we find one of the great distinguishing characteristics of the rotary-engin
 
 While traveling at high speed, I closed the throttle abruptly and again found myself thinking, "What's this?" There seemed to be remarkably little engine braking.
 
-Rather like a car with a two-stroke engine, the Cosmo simply coasts along when the throttle is closed. Yet, as one would expect, engine vibration and noise are remarkably low. It is both exceptionally quiet and exceptionally smooth.
+Like a car with a two-stroke engine, the Cosmo simply coasts along when the throttle is closed. Yet, as one would expect, engine vibration and noise are remarkably low. It is both exceptionally quiet and exceptionally smooth.
 
-As I increased speed, a tremendous rush of wind noise suddenly began around the left-hand quarter window at about 70km/h. Closing the quarter window stopped it, but opening it caused the noise to return.
+As I increased speed, a tremendous rush of wind noise suddenly came in around the left-hand quarter window at about 70km/h. Closing the quarter window stopped it, but opening it caused the noise to return.
 
 When I tried changing lanes at high speed, the steering felt extremely light, giving the car a slightly unsettled feeling. I experienced this two or three times, but there was no opportunity to investigate it fully on public roads.
 
@@ -109,7 +109,7 @@ Whether it can eventually be installed in passenger cars produced by the tens of
 
 It has been quite some time, I think, since I first felt that I wanted to drive the Cosmo. Back when five or so prototypes had been built, I was given a ride around the small test course at the Hiroshima factory while being told, "President Matsuda himself sometimes drives one of these prototypes between Hiroshima and Tokyo."
 
-The body styling was almost identical to that of the car I drove this time, but as we turned laps of the test course at an average speed of 80km/h, what struck me most was the sound of the engine.
+The body styling was almost identical to that of the car I drove this time, but as we turned laps of the test course at an average speed of 80km/h, what struck me most was the noise from the engine.
 
 The question that remained in my mind from then until now was, "does a rotary engine really have to make so much noise?"
 
@@ -131,7 +131,7 @@ Since my impressions are based on no more than a round trip along the expressway
 
 My main interest, naturally, was in the rotary engine. What would it feel like to drive a car powered by this new kind of engine, with a piston moving in a circular motion, completely unlike the reciprocating pistons of a conventional engine?
 
-Natsukawa drove to Haneda while I rode as a passenger, and I drove on the return trip. Taking both experiences together, my impression--much as it was with a Luce I drove previously--is that Toyo Kogyo's cars have a distinctly family-car character.
+Natsukawa drove to Haneda while I rode as a passenger, and I drove on the return trip. Taking both experiences together, my impression--much as it was with a Luce I drove previously--is that Toyo Kogyo's cars have a distinctly family-car-like character.
 
 You simply get into the car, grab hold of the wheel, press the accelerator, and drive away. It may sound unremarkable, but there is something strikingly effortless and natural about the whole experience. This rotary-engined car, too, has the reassuring familiarity of a conventional car, and is immediately easy to feel comfortable with.
 
