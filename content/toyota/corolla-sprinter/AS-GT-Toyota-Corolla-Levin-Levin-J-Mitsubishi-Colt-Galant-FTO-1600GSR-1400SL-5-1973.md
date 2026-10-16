@@ -228,5 +228,5 @@ Watching the test cars spin again and again at various points around the circuit
   <span>·</span>
   <a href="/toyota/">Toyota</a>
   <span>·</span>
-  <a href="/toyota/corolla/">Corolla</a>
+  <a href="/toyota/corolla-sprinter/">Corolla / Sprinter</a>
 </div>

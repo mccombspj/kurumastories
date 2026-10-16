@@ -154,5 +154,5 @@ Its base price of 813,000 yen is not inexpensive, and once practical options suc
   <span>·</span>
   <a href="/toyota/">Toyota</a>
   <span>·</span>
-  <a href="/toyota/corolla/">Corolla</a>
+  <a href="/toyota/corolla-sprinter/">Corolla / Sprinter</a>
 </div>

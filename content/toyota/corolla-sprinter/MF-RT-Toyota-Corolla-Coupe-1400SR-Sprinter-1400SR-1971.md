@@ -10,7 +10,7 @@ title = "Toyota Corolla Coupe 1400SR and Sprinter 1400SR (1971)"
 
 
 
-weight = 1
+weight = 2
 
 
 
@@ -548,5 +548,5 @@ Overall, rather than being a car intended for actual rally use, the SR feels mor
   <span>·</span>
   <a href="/toyota/">Toyota</a>
   <span>·</span>
-  <a href="/toyota/sprinter/">Sprinter</a>
+  <a href="/toyota/corolla-sprinter/">Corolla / Sprinter</a>
 </div>

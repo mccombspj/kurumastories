@@ -71,7 +71,7 @@ Perhaps the changes were judged too modest to justify gathering the press for a 
 
 In any case, the most noteworthy development was the addition of 5-speed transmission models. Beyond that, the revisions amounted mainly to refreshed front-end styling and changes to various badges and emblems.
 
-The positioning of the 5-speed models within the lineup is as follows: the 14L series has gained the SL-5, while the 16L series received the GS-5 sedan and the GL-5 and GS-5 hardtops. All went on sale September 1.
+The positioning of the 5-speed models within the lineup is as follows: the 14L series has gained the SL-5, while the 16L series added the GS-5 sedan and the GL-5 and GS-5 hardtops. All went on sale September 1.
 
 These additions further strengthened the breadth of the Galant range. With 14L and 16L sedans and hardtops, plus the GTO, FTO, and Estate V, Mitsubishi now offered a complete model line, and cumulative sales have reportedly surpassed 300,000 units.
 
@@ -83,17 +83,17 @@ For reference, our support car on this test was a Galant 14L SL-5 (1439cc, 92ps,
 
 At the same time, the 5-speed gearbox proves useful in city driving as well.
 
-"You can practically leave it in fifth all the time." — Mochizuki
+"You can practically leave it in fifth all the time," noted Mochizuki.
 
 Professor Kageyama, who evaluated handling and stability, also remarked:
 
-"At first the steering felt surprisingly light, and I worried the car might wander at high speed. In fact, its hands-off stability was excellent. In corners, the steering loaded up reassuringly in your hands, making the car easy to place."
+"At first the steering felt surprisingly light, and I worried the car might wander at high speed. In fact, its hands-off stability was excellent. In corners, the steering weights up reassuringly in your hands, making the car easy to place."
 
 Associate Professor Oguchi, responsible for the safety evaluation, was equally complimentary:
 
 "Above all, the car combines a natural, honest driving feel with a welcome sense of strength. These qualities may not contribute directly to safety, but they certainly encourage safe driving in a subtle and reassuring way."
 
-The details of those impressions are best explored in the reports from each of our specialists that follow.
+The details of those impressions are covered in the reports from each of our specialists that follow.
 
 One final note: because Shigeki Asaoka, our regular contributor for the Ride and Comfort category, was once again traveling overseas, his place was taken by Motor Fan staff writer Tadao Suzuki for this test.
 
@@ -109,11 +109,11 @@ Broadly speaking, current 5-speed transmissions fall into three types. Some reta
 
 The Galant L's 5-speed gearbox belongs to the third category, although its ratios suggest a compromise between the latter two approaches. To compare the new gearbox accurately with the old 4-speed, it is useful to normalize the ratios by treating 5th gear in the new transmission as 1.000 and expressing the remaining gears relative to it. On that basis, the new gearbox becomes: 1.000 in fifth, 1.171 in fourth, 2.289 in third; and 3.791 in first. Expressed on the same scale, the old 4-speed's top gear would be 1.078, followed by 1.555 in third, 2.365 in second, and 3.802 in first. Viewed this way, the 5-speed's ratios provide closer spacing and should offer both better acceleration and improved ability to maintain speed through the gears.
 
-The 4G32 1600cc engine has long enjoyed a reputation for excellent responsiveness, and the addition of a fifth gear makes its performance all the more impressive. The car delivers acceleration comparable to that of sports sedans two classes above it. In particular, the overall ratio of 4.222 in fourth gear is exceptionally well judged. It provides strong response across a remarkably broad speed range, from 20km/h all the way to 160km/h. It feels very much like a dedicated gear for the enthusiast driver.
+The 4G32 1600cc engine has long enjoyed a reputation for excellent response, and the addition of a fifth gear makes its performance all the more impressive. The car delivers acceleration comparable to that of sports sedans two classes above it. In particular, the overall ratio of 4.222 in fourth gear is exceptionally well judged. It provides strong response across a remarkably broad speed range, from 20km/h all the way to 160km/h. It feels very much like a dedicated gear for the enthusiast driver.
 
 Fifth gear, with its overall ratio of 3.606, has a more relaxed character. At 1500rpm the car is already traveling at 40km/h, yet the engine remains perfectly smooth. It is entirely possible to leave the car in fifth while driving around town, enjoying a level of refinement comparable to that of an ordinary family sedan.
 
-The Galant's quick steering and sharp responses make it fully capable of genuinely sporting driving. At the same time, its broad torque curve and suspension tuning--which sacrifices little in ride comfort--allow it to serve equally well as a family car. That breadth of capability may well be this car's defining virtue.
+The Galant's quick steering and sharp responses make it fully capable of genuinely sporting driving. At the same time, its broad torque curve and suspension tuning, which sacrifices little in ride comfort, allow it to serve equally well as a family car. That breadth of capability may well be this car's defining virtue.
 
 <i>"It's a 5-speed you can actually use in city driving. On the highway, I almost found myself wishing for a sixth gear." — Kageyama</i>
 
@@ -131,11 +131,11 @@ I have commented on the tilt steering wheel before, but its greatest virtue seem
 
 The various switches and controls are thoughtfully arranged and easy to operate. My only complaints concern the somewhat heavy window regulators and the fact that both the speedometer and tachometer are rectangular rather than round. From a functional standpoint, this is difficult to rationalize.
 
-The steering initially feels surprisingly light, enough to raise doubts about high-speed stability. Yet once out on the expressway and changing lanes at speed, it inspires complete confidence. On the winding roads around Hakone, the steering builds reassuring weight as cornering forces build, making the car exceptionally easy to place. Steering effort and self-centering characteristics are excellent at both low and high speeds, while friction in the steering is minimal.
+The steering initially feels surprisingly light, enough to raise doubts about high-speed stability. Yet once out on the expressway and changing lanes at speed, it inspires complete confidence. On the winding roads around Hakone, the steering builds reassuring weight as cornering forces increase, making the car exceptionally easy to place. Steering effort and self-centering characteristics are excellent at both low and high speeds, while friction in the steering is minimal.
 
 Hands-off stability at high speed is superb, and the car settles cleanly without any tendency to wander. Body roll is relatively well controlled, and the Galant feels remarkably well-developed and easy to drive overall.
 
-The hardtop body style itself gives a clue to this car's intended character. Surrounded by a richly appointed interior, it is designed for drivers who want to enjoy a luxurious mood, with an added touch of style and just a hint of sporting flavor.
+The hardtop body style itself gives a clue to this car's intended character. Complemented by a richly appointed interior, it is designed for drivers who want to enjoy a luxurious mood, with an added touch of style and just a hint of sporting flavor.
 
 Its pronounced understeer, excellent directional stability, strong straight-line tracking, and light steering around the straight-ahead all suit that mission perfectly. Judged against what the car appears to be trying to achieve, there is very little to criticize.
 

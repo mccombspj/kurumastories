@@ -4,7 +4,7 @@
 
 title = "Toyota Sprinter 1400SR vs. Mitsubishi Colt Galant FTO GIII (1972)"
 
-weight = 1
+weight = 10
 
 
 
@@ -280,5 +280,5 @@ The SR is, in every respect, a tougher, harder-edged machine. The FTO, by contra
   <span>·</span>
   <a href="/toyota/">Toyota</a>
   <span>·</span>
-  <a href="/toyota/sprinter/">Sprinter</a>
+  <a href="/toyota/corolla-sprinter/">Corolla / Sprinter</a>
 </div>

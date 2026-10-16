@@ -292,5 +292,5 @@ The black circles shown within the six evaluation fields indicate the rating ass
   <span>·</span>
   <a href="/toyota/">Toyota</a>
   <span>·</span>
-  <a href="/toyota/corolla/">Corolla</a>
+  <a href="/toyota/corolla-sprinter/">Corolla / Sprinter</a>
 </div>

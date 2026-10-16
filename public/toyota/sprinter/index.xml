@@ -9,13 +9,6 @@
     <lastBuildDate>Sun, 19 Apr 2026 04:50:49 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/toyota/sprinter/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Toyota Corolla Coupe 1400SR and Sprinter 1400SR (1971)</title>
-      <link>http://localhost:1313/toyota/sprinter/mf-rt-toyota-corolla-coupe-1400sr-sprinter-1400sr-1971/</link>
-      <pubDate>Sun, 19 Apr 2026 04:50:49 -0700</pubDate>
-      <guid>http://localhost:1313/toyota/sprinter/mf-rt-toyota-corolla-coupe-1400sr-sprinter-1400sr-1971/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/MF-RT-Toyota-Corolla-Coupe-1400SR-Sprinter-1400SR-1971.jpg&#34; alt=&#34;Toyota Sprinter 1400SR&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Publication:&lt;/b&gt; Motor Fan&lt;br&gt;&#xA;&lt;b&gt;Format:&lt;/b&gt; Road Test&lt;br&gt;&#xA;&lt;b&gt;Date:&lt;/b&gt; July 1971&lt;br&gt;&#xA;&lt;b&gt;Authors (Roundtable):&lt;/b&gt; Shiro Sasaki, Atsushi Watari, Shoichi Nishiyama, Osamu Hirao, Hiroshi Okazaki, Takahiko Kinoshita, Katsuzo Kageyama, Fumio Agetsuma, Kunitaka Furutani, Yasuhei Oguchi, Kenzaburo Ishikawa, Takeshi Toba, Minoru Onda, Kenichiro Noda, Motor Fan Editorial Staff (uncredited)&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;&lt;u&gt;Is the Gear Ratio Too Low?&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Magazine:&lt;/b&gt; To begin with, we’d like to ask about the development aims behind the 1400SR, and the kind of car you had in mind.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Toyota Sprinter 1400SR (1971)</title>
       <link>http://localhost:1313/toyota/sprinter/mf-rtd-toyota-sprinter-sr-1971/</link>
       <pubDate>Tue, 25 Nov 2025 04:50:49 -0700</pubDate>
@@ -28,6 +21,13 @@
       <pubDate>Sat, 11 Oct 2025 04:50:49 -0700</pubDate>
       <guid>http://localhost:1313/toyota/sprinter/cg-gt-toyota-sprinter-sr-vs-mitsubishi-colt-galant-fto-giii-1972/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/CG-GT-Toyota-Sprinter-SR-1972.jpg&#34; alt=&#34;Toyota Sprinter SR&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Publication:&lt;/b&gt; Car Graphic&lt;br&gt;&#xA;&lt;b&gt;Format:&lt;/b&gt; Group Test&lt;br&gt;&#xA;&lt;b&gt;Date:&lt;/b&gt; February 1972&lt;br&gt;&#xA;&lt;b&gt;Author:&lt;/b&gt; &amp;ldquo;C/G Test Group&amp;rdquo; (uncredited)&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;&lt;u&gt;Comparison test: Toyota Sprinter SR vs. Mitsubishi Galant FTO GIII&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;&#xA;&lt;p&gt;This month we conducted a comparison test between two 1400cc sporting coupes&amp;ndash;the Sprinter SR and the Galant FTO GIII&amp;ndash;under a wide variety of conditions, including testing at Yatabe. Before examining the results, however, it is worth explaining why these two were selected from among the many cars in the class.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Toyota Corolla Coupe 1400SR and Sprinter 1400SR (1971)</title>
+      <link>http://localhost:1313/toyota/sprinter/mf-rt-toyota-corolla-coupe-1400sr-sprinter-1400sr-1971/</link>
+      <pubDate>Sun, 19 Apr 2026 04:50:49 -0700</pubDate>
+      <guid>http://localhost:1313/toyota/sprinter/mf-rt-toyota-corolla-coupe-1400sr-sprinter-1400sr-1971/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/MF-RT-Toyota-Corolla-Coupe-1400SR-Sprinter-1400SR-1971.jpg&#34; alt=&#34;Toyota Sprinter 1400SR&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Publication:&lt;/b&gt; Motor Fan&lt;br&gt;&#xA;&lt;b&gt;Format:&lt;/b&gt; Road Test&lt;br&gt;&#xA;&lt;b&gt;Date:&lt;/b&gt; July 1971&lt;br&gt;&#xA;&lt;b&gt;Authors (Roundtable):&lt;/b&gt; Shiro Sasaki, Atsushi Watari, Shoichi Nishiyama, Osamu Hirao, Hiroshi Okazaki, Takahiko Kinoshita, Katsuzo Kageyama, Fumio Agetsuma, Kunitaka Furutani, Yasuhei Oguchi, Kenzaburo Ishikawa, Takeshi Toba, Minoru Onda, Kenichiro Noda, Motor Fan Editorial Staff (uncredited)&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;&lt;u&gt;Is the Gear Ratio Too Low?&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Magazine:&lt;/b&gt; To begin with, we’d like to ask about the development aims behind the 1400SR, and the kind of car you had in mind.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

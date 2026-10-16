@@ -10,7 +10,7 @@ title = "Toyota Sprinter 1400SR (1971)"
 
 
 
-weight = 1
+weight = 9
 
 
 
@@ -140,5 +140,5 @@ With the introduction of this SR, we can expect other manufacturers to also intr
   <span>·</span>
   <a href="/toyota/">Toyota</a>
   <span>·</span>
-  <a href="/toyota/sprinter/">Sprinter</a>
+  <a href="/toyota/corolla-sprinter/">Corolla / Sprinter</a>
 </div>

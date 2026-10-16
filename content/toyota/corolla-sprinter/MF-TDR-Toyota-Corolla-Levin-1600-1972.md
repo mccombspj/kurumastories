@@ -123,5 +123,5 @@ If the lessons learned from this specification are eventually carried over to th
   <span>·</span>
   <a href="/toyota/">Toyota</a>
   <span>·</span>
-  <a href="/toyota/corolla/">Corolla</a>
+  <a href="/toyota/corolla-sprinter/">Corolla / Sprinter</a>
 </div>
