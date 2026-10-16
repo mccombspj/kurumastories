@@ -14,11 +14,11 @@
     <loc>http://localhost:1313/mitsubishi/colt-galant-fto/mf-tdr-mitsubishi-colt-galant-fto-giii-1971/</loc>
     <lastmod>2026-04-29T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corolla-sprinter/mf-rt-toyota-corolla-sprinter-1968/</loc>
+    <lastmod>2026-04-28T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/laurel/mf-rt-nissan-laurel-deluxe-b-1968/</loc>
     <lastmod>2026-04-24T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/sprinter/mf-rt-toyota-corolla-coupe-1400sr-sprinter-1400sr-1971/</loc>
-    <lastmod>2026-04-19T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-800/mf-tdr-mitsubishi-colt-1100f-ss-1969/</loc>
     <lastmod>2026-03-10T04:50:49-07:00</lastmod>
@@ -29,9 +29,6 @@
     <loc>http://localhost:1313/nissan/laurel/mf-rtd-nissan-laurel-hardtop-2000gx-1971/</loc>
     <lastmod>2025-11-26T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/sprinter/mf-rtd-toyota-sprinter-sr-1971/</loc>
-    <lastmod>2025-11-25T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/bluebird/as-gt-nissan-bluebird-1600sss-vs-toyota-1600gt-1967/</loc>
     <lastmod>2025-11-03T04:50:49-07:00</lastmod>
   </url><url>
@@ -41,14 +38,17 @@
     <loc>http://localhost:1313/mitsubishi/lancer/cg-rt-mitsubishi-lancer-1400sl-5-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/sprinter/cg-gt-toyota-sprinter-sr-vs-mitsubishi-colt-galant-fto-giii-1972/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+    <loc>http://localhost:1313/toyota/corolla-sprinter/mf-tdr-toyota-corolla-sr-sprinter-sr-publica-sr-1971---copy/</loc>
+    <lastmod>2026-10-16T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/lancer/as-gt-nissan-violet-hardtop-1600sss-mitsubishi-lancer-1600gsl-1973/</loc>
     <lastmod>2026-05-20T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/subaru/leone/mf-tdr-subaru-leone-coupe-1400gsr-1971/</loc>
     <lastmod>2026-05-06T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/corolla-sprinter/mf-rt-toyota-corolla-coupe-1400sr-sprinter-1400sr-1971/</loc>
+    <lastmod>2026-04-19T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/laurel/mf-gt-nissan-laurel-2000gl-bmw-2002ti-1971/</loc>
     <lastmod>2026-04-05T04:50:49-07:00</lastmod>
@@ -101,6 +101,9 @@
     <loc>http://localhost:1313/nissan/cherry/cg-rt-nissan-cherry-coupe-x-1-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corolla-sprinter/mf-rtd-toyota-sprinter-sr-1971/</loc>
+    <lastmod>2025-11-25T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/toyota/corona/mf-rt-toyota-corona-hardtop-1600s-1965/</loc>
     <lastmod>2026-09-18T04:50:49-07:00</lastmod>
   </url><url>
@@ -112,9 +115,6 @@
   </url><url>
     <loc>http://localhost:1313/mazda/savanna/mf-tdr-mazda-savanna-gs-ii-1971/</loc>
     <lastmod>2026-05-09T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/corolla/mf-rt-toyota-corolla-sprinter-1968/</loc>
-    <lastmod>2026-04-28T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/honda-z/mf-bs-honda-z-gs-1971/</loc>
     <lastmod>2026-03-19T04:50:49-07:00</lastmod>
@@ -200,6 +200,9 @@
     <loc>http://localhost:1313/toyota/carina/cg-ri-toyota-carina-1600st-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corolla-sprinter/cg-gt-toyota-sprinter-sr-vs-mitsubishi-colt-galant-fto-giii-1972/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/honda/honda-1300/mf-rt-honda-1300-77-custom-99s-1969/</loc>
     <lastmod>2026-02-09T04:50:49-07:00</lastmod>
   </url><url>
@@ -209,7 +212,7 @@
     <loc>http://localhost:1313/honda/honda-1300/mm-tdr-honda-1300-99s-1969/</loc>
     <lastmod>2026-05-29T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/corolla/mf-tdr-toyota-corolla-levin-1600-1972/</loc>
+    <loc>http://localhost:1313/toyota/corolla-sprinter/mf-tdr-toyota-corolla-levin-1600-1972/</loc>
     <lastmod>2026-07-08T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-galant-fto/as-gt-mitsubishi-colt-galant-fto-1600gsr-1400sl-5-toyota-corolla-levin-levin-j-1973/</loc>
@@ -308,7 +311,7 @@
     <loc>http://localhost:1313/toyota/celica/cg-ri-toyota-celica-1600gt-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/corolla/cg-rt-toyota-corolla-levin-1600-1972/</loc>
+    <loc>http://localhost:1313/toyota/corolla-sprinter/cg-rt-toyota-corolla-levin-1600-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/crown/cg-rt-toyota-crown-hardtop-sl-1969/</loc>
@@ -326,7 +329,7 @@
     <loc>http://localhost:1313/mazda/cosmo-sport/mf-tdr-mazda-cosmo-sport/</loc>
     <lastmod>2026-07-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/corolla/mf-bs-toyota-corolla-levin-1600-1972/</loc>
+    <loc>http://localhost:1313/toyota/corolla-sprinter/mf-bs-toyota-corolla-levin-1600-1972/</loc>
     <lastmod>2026-06-19T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/luce-rotary-coupe/mm-tdr-mazda-luce-rotary-coupe-1969/</loc>
@@ -362,7 +365,7 @@
     <loc>http://localhost:1313/subaru/1000/mm-tdr-subaru-ff-1-super-touring-1969/</loc>
     <lastmod>2026-06-02T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/corolla/as-gt-toyota-corolla-levin-levin-j-mitsubishi-colt-galant-fto-1600gsr-1400sl-5-1973/</loc>
+    <loc>http://localhost:1313/toyota/corolla-sprinter/as-gt-toyota-corolla-levin-levin-j-mitsubishi-colt-galant-fto-1600gsr-1400sl-5-1973/</loc>
     <lastmod>2026-05-02T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/crown/mf-tdr-toyota-crown-hardtop-super-deluxe-1969/</loc>
@@ -620,19 +623,22 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corolla-sprinter/</loc>
+    <lastmod>2026-10-16T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/</loc>
+    <lastmod>2026-10-16T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-10-16T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mazda/cosmo-sport/</loc>
     <lastmod>2026-10-15T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/</loc>
     <lastmod>2026-10-15T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-10-15T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/toyota/corona-mark-ii/</loc>
-    <lastmod>2026-10-12T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/</loc>
     <lastmod>2026-10-12T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/sports-800/</loc>
@@ -713,9 +719,6 @@
     <loc>http://localhost:1313/nissan/fairlady/</loc>
     <lastmod>2026-07-23T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/toyota/corolla/</loc>
-    <lastmod>2026-07-08T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/sunny/</loc>
     <lastmod>2026-07-02T04:50:49-07:00</lastmod>
   </url><url>
@@ -760,9 +763,6 @@
   </url><url>
     <loc>http://localhost:1313/toyota/crown/</loc>
     <lastmod>2026-04-23T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/sprinter/</loc>
-    <lastmod>2026-04-19T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/gloria/</loc>
     <lastmod>2026-04-01T04:50:49-07:00</lastmod>
