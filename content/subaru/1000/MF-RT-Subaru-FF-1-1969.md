@@ -61,387 +61,381 @@ draft = false
 
 
 
-<b><u>Adapted for the High-Speed Era</b></u>
+<b><u>A Car Adapted to High-Speed Driving</b></u>
 
-<b>Magazine:</b> To get started, could you tell us about the development aims and overall outline of this new Subaru FF-1?
+<b>Magazine:</b> First, could you tell us about the aims behind the development of the new Subaru FF-1, and give us an outline of the car?
 
-<b>Yamamoto:</b> It has now been twelve years since we entered the market with the Subaru 360. In that time we introduced the Subaru 1000, and thanks to your continued support, it has been on sale for nearly three years. Throughout that period, we have received a great deal of advice and guidance from the distinguished experts present here, and our engineering staff has devoted every effort, examining every possible angle, to improving performance and creating a car that represents even the smallest step forward. The FF-1 is the result of those efforts.
+<b>Yamamoto:</b> It is now 12 years since we entered the market with the Subaru 360, and during that time we introduced the Subaru 1000. Thanks to your support, it has now been on the market for about three years. During that period, we have received a great deal of advice and guidance from all of you, and our engineering staff have devoted their combined efforts, from every possible angle, to improving performance and creating a car that represents even a small step forward. The result is the FF-1 we have here today.
 
-<b>Magazine:</b> And the name, FF-1?
+<b>Magazine:</b> What is the significance of the FF-1 name?
 
-<b>Yamamoto:</b> We have increased the displacement from 1000cc to 1100cc. However, as there may be further variations in the future, we chose the name “FF-1” rather than tying it directly to engine size. In that sense, the name goes beyond simple cubic capacity.
+<b>Yamamoto:</b> We have increased the engine displacement from 1000cc to 1100cc, but there is the possibility that we will add further variations in the future. So rather than tying the name to a particular displacement, we decided to call it the FF-1.
 
-<b>Magazine:</b> Can you tell us a bit about performance, from the technical side?
+<b>Magazine:</b> Perhaps someone from the engineering side could say a few words about its performance.
 
-<b>Honda:</b> From the standpoint of power performance, we had previously thought that 1000cc was sufficient. However, with the recent development of expressways in particular, it has become necessary to adapt the engine--and indeed all systems of the vehicle--to sustained high-speed driving. For that reason, we increased displacement to 1100cc.
+<b>Honda:</b> In terms of performance, we had previously considered 1000cc quite sufficient. Recently, however, particularly with the development of expressways, it has become necessary for the engine and all the other systems of the car to be suited to higher-speed driving. That is why we increased the displacement to 1100cc.
 
-In other words, our aim was to create a car that is safer, faster, and more spacious. The automobile of the future cannot be merely fast. Safety must always be the primary consideration. With that in mind, our desire was to create a car with an entirely "new car feeling." This is how the Subaru FF-1 came about.
+In other words, our aim was to make a car that was safer, faster, and roomier. From now on, simply being fast is no longer enough. Safety must always be regarded as the first priority. With that in mind, what we wanted to create was a car with an entirely new kind of “car feeling.”
 
-<b>Magazine:</b> What sort of mechanism does the engine use?
+The result is the Subaru FF-1.
 
-<b>Honda:</b> Displacement has been increased by approximately 11 percent, from 977cc to 1088cc. It is a horizontally opposed four-cylinder, water-cooled, four-cycle unit. There are two types: the EA61 for the sedan and van models, and the EA61S for the Sports Sedan.
+<b>Magazine:</b> What kind of engine does it use?
 
-One point I would especially like to emphasize is that many components are shared between the Subaru 1000 engine and this new FF-1 engine. This commonality is highly advantageous, both from a service standpoint and in terms of production efficiency.
+<b>Honda:</b> We increased the displacement by about 11%, from the previous 977cc to 1088cc. It is a water-cooled, horizontally opposed four-stroke four-cylinder. There are two versions: the sedan and van models use the EA61, while the Sports Sedan is fitted with the EA61S.
 
-<b>Magazine:</b> And the power output?
+One point I would particularly like to mention is that the Subaru 1000 engine and this FF-1 engine have a large number of components in common. I think this degree of parts commonality is extremely advantageous both from the standpoint of servicing and of production.
 
-<b>Honda:</b> The bore and stroke measure 76 x 60mm, an oversquare configuration. Its three defining characteristics are light weight, compact dimensions, and high output.
+<b>Magazine:</b> And what about the power output?
 
-We have used aluminum alloy extensively, and by integrating the engine, transmission, and differential into a single unit structure, we have achieved a very compact package. As for output, a newly designed combustion chamber with greater resistance to knocking allows the engine to deliver flexible performance from low to high speeds.
+<b>Honda:</b> The bore and stroke are 76 × 60mm, making it an oversquare design, and it has three main characteristics: light weight, compact dimensions, and high output.
 
-Furthermore, the inherently well-balanced horizontally opposed layout, combined with our dual-radiator system that eliminates the need for a cooling fan, contributes greatly to quiet operation. 
+Aluminum alloy is used extensively, and the engine, transmission, and differential are combined into a single compact unit. As for the high output, we have designed a new combustion chamber with a high mechanical octane rating, giving the engine flexible performance from low to high speeds.
 
-These features are all part of an FF system entirely of our own development. It is something we take pride in, and something not easily imitated by other manufacturers.
+The well-balanced horizontally opposed engine, along with the use of a dual-radiator system that requires no cooling fan, has also made the engine quieter.
 
-As indicated in the catalog figures, we have raised maximum output from the previous 55ps by 7ps, to 62ps--an increase roughly 12 percent. The Sports Sedan produces 77ps at 7000rpm. In preparation for the high-speed era, we have increased horsepower by 12 to 15 percent across the model line, while also refining low- and mid-range torque characteristics, acceleration performance, and the engine’s willingness to rev. Efforts to improve performance have been made down to the smallest details.
+Our FF system has been developed entirely on our own, and we take pride in the fact that it is something that cannot be imitated by other manufacturers.
 
-For example, at around 45km/h in top gear the engine turns approximately 2000rpm, and top-gear acceleration has improved by about 10 percent. We believe this nearly achieves the characteristics we targeted.
+As the catalog figures show, we have increased the previous maximum output of 55ps by 7ps, or about 12%, to 62ps, while the Sports Sedan produces 77ps/7000rpm. In preparation for the era of high-speed driving, we have increased power by 12-15%, but we have also made detail improvements to low- and medium-speed torque characteristics, acceleration, the way the engine extends as the revs rise, and other areas.
 
-<b>Magazine:</b> Thank you. With so many distinctive features, the car has drawn attention even abroad. Professor Hirao, what are your impressions?
+At around 45km/h, for example, the engine is turning at approximately 2000rpm, and top-gear acceleration has improved by about 10%. I think we can say that we have largely achieved the objectives we set for ourselves.
 
-<b>Hirao:</b> As we have just heard, to run comfortably on the expressways, it is necessary to make many careful improvements. The first thing that struck me was how remarkably quiet the engine is. Even as the revs rise beyond 7000rpm, it remains well balanced. And perhaps because there is no cooling fan, the quietness is maintained as speed increases.
+<b>Magazine:</b> Thank you. With so many distinctive features, this car has drawn attention even overseas. Professor Hirao, what are your impressions?
 
-<b>Higuchi:</b> I imagine there are many people who are fond of Subaru, and the reason is not only the front-wheel-drive layout. There are numerous features not seen on other cars, and I believe these are part of its appeal.
+<b>Hirao:</b> If a car is to be driven on expressways, then, as we've just heard, a great deal of effort has to go into improving it in various ways. The first thing I noticed was just how quiet the engine is. Even as the revs rise past 7000rpm, it remains very well balanced, and perhaps because there is no cooling fan, it remains quiet as well.
 
-For example, the standard model produces 62ps at 6000rpm, with maximum torque of 8.7kgm at 3200rpm, and a top speed of 145km/h. The Sports Sedan reaches 160km/h. These figures suggest more than sufficient capability for the high-speed era. To achieve such performance from 1100cc--it would be difficult to ask for more.
+<b>Higuchi:</b> I think there are many people who are fond of Subarus, and the reason isn't simply its front-wheel drive. They have a number of other characteristics that you don't find in other cars, and I think those are part of the appeal.
 
-<b>Magazine:</b> We understand that considerable attention has been given to safety equipment. Could you explain the details?
+For example, the standard model produces 62ps/6000rpm, with maximum torque of 8.7kgm/3200rpm and a top speed of 145km/h, while the Sports Sedan can reach 160km/h. Those figures give it plenty of performance for the era of high-speed driving. Considering that this performance comes from only 1100cc, I don't think there is much more one could ask for.
 
-<b>Murota:</b> Yes, we paid particular attention to safety measures and made numerous improvements. 
+<b>Magazine:</b> We believe you've made a number of changes to the safety equipment. Could you tell us specifically what has been done?
 
-First, regarding what might be called primary safety, there is the inherent safety of front-wheel drive: the excellent stability and controllability of the FF layout. The benefits of systems that use the same front wheels to steer and pull the car forward are recognized worldwide, and it connects directly to safety in the expressway era.
+<b>Murota:</b> Yes, we paid particular attention to safety and made a variety of improvements.
 
-Secondly, as a matter of secondary safety, we have revised both interior and exterior design elements and modified various mechanical parts to improve overall safety. Items that appeared visually hazardous have had their protrusions removed and replaced with rounded forms. The fuel tank has been repositioned and the design of the instrument panel has been improved with safety in mind. The seats, which had drawn some criticism in the past, have been completely redesigned.
+First, there is what we might call primary safety: the inherent safety of front-wheel drive, or in other words, its excellent handling and stability. The principle of steering with the same front wheels that pull the car forward enjoys an established reputation throughout the world, and it contributes directly to safety in the highway era.
 
-Additionally, the sedan’s rear-pillar ventilation system extracts cabin air from beneath the rear glass and routes it through the rear pillars, which also contributes to a demisting effect for the rear window.
+Then, as secondary safety measures, we changed the interior and exterior design and various items of equipment in order to improve safety.
 
-The key, incidentally, is of the reversible type—symmetrical top and bottom—so it may be inserted in either direction.
+For example, anything with a shape that looked obviously hazardous was redesigned to eliminate projections and give it a rounded form. We also made safety-related improvements to such things as the position of the fuel tank and the instrument panel. The seats, which had drawn some criticism in the past, have also been completely redesigned.
 
-<b>Yamamoto (Mineo):</b> The opening mechanism for the triangular vent window is interesting, isn’t it?
+On the sedan, the ventilation outlets in the rear pillars draw air from the passenger compartment below the rear window and discharge it through the rear pillars. This can also be expected to provide a demisting effect for the rear window.
 
-<b>Hirao:</b> Some people say it’s difficult to operate…
+The key, incidentally, is reversible. It is symmetrical top and bottom, so it can be inserted with either side up.
 
-<b>Yamamoto (Mineo):</b> It's small, but once you get used to it, it’s fairly easy to use, don’t you think?
+<b>Yamamoto (Mineo):</b> The way the vent windows open is interesting.
 
-<b>Hirao:</b> The door lock button, however, is positioned toward the rear, which makes it rather awkward to reach. If one is driving with it locked and the car were to overturn, for example, and especially if wearing a seatbelt, it might be difficult to release it oneself. It's possible that someone who could otherwise survive might not simply because the door cannot be opened. It could also happen that rescuers arrive and are unable to open the door. In that sense, wouldn't it be better to place it somewhere more convenient? With a two-door model, it would likely be even more difficult to operate.
+<b>Hirao:</b> Some people say they're difficult to open, though...
 
-<b>Murota:</b> In the case of the two-door, there may indeed be an issue. We are studying the matter.
+<b>Yamamoto (Mineo):</b> Once you get used to them, even though the handles are small, they're easy enough to operate, aren't they?
 
-<b>Hirao:</b> That aside, when driving on the expressway, one wears a seatbelt. In that case, is the door lock even necessary?
+<b>Hirao:</b> The door-lock button is another matter. Because it's positioned so far back, it's rather difficult to operate. Suppose you're driving with the doors locked and the car overturns. If you're wearing a seat belt, you probably wouldn't be able to reach back and release the lock yourself. It's possible that someone who could otherwise survive might not simply because they couldn't open the door. Or someone might come to the rescue and be unable to open the door from outside. In that sense, couldn't the button be put somewhere a little easier to reach? I imagine it would be even more difficult with the two-door model.
 
-<b>Murota:</b> Wouldn't it be safer to have it locked?
+<b>Murota:</b> With the two-door there may indeed be something of a problem. We're looking into various possibilities.
 
-<b>Hirao:</b> Would it? I rather think it may be safer not to lock it on the expressway… In any case, whether it's safer to lock or not lock the doors at high speed is an issue for the entire industry.
+<b>Hirao:</b> That said, when you're driving on an expressway you're wearing a seat belt, so perhaps there's no need to lock the doors. What do you think?
 
-<b>Magazine:</b> It is certainly a question that applies more generally.
+<b>Murota:</b> Wouldn't it be safer to have them locked?
 
-<b>Hirao:</b> If the seatbelt were to fail, then surely the occupant would not survive in any case. This is something that ought to be thoroughly studied by the Safety Committee of the Automobile Manufacturers Association.
+<b>Hirao:</b> I'm not so sure. I think it may actually be safer not to lock the doors on an expressway... In any case, whether it is safer to drive on an expressway with the doors locked or unlocked is an important question for the entire automotive industry.
 
-<b><u>Overtaking Acceleration Much Improved</b></u>
+<b>Magazine:</b> That's really a question that applies to cars in general, isn't it?
 
-<b>Magazine:</b> Let's present the results of the performance tests.
+<b>Hirao:</b> If an accident is severe enough to break the seat belt, then surely the occupant would not survive in any case. This is something the Automobile Manufacturers Association's safety committee ought to investigate thoroughly.
 
-<b>Furutani:</b> Starting with the four-door Deluxe: the test car had covered only 3,507km. Unloaded vehicle weight was 700kg; with three occupants and instruments totaling 179.5kg, the test weight came to 879.5kg.
+<b><u>Passing Acceleration Considerably Improved</b></u>
 
-First, the standing-start acceleration results. The car reached 50m in 5.5 seconds, 100m in 7.7 seconds, 200m in 12.1 seconds, and 400m in 19.2 seconds. In terms of time to speed, the results were 0-20km/h in 1.8 seconds, 0-40km/h in 3.8 seconds, 0-60km/h in 6.4 seconds, 0-80km/h in 10.1 seconds, and 0-100km/h in 15.4 seconds.
+<b>Magazine:</b> Could we have the results of the performance tests?
 
-Turning to the FF-1 Sports, vehicle weight was 705kg; again, three occupants plus instruments added 179.5kg, giving it a test weight of 884.5kg. 
+<b>Furutani:</b> I'll begin with the four-door Deluxe. The car had covered 3,507km, so it had not been driven very far. Vehicle weight was 700kg, and three people and the instruments added another 179.5kg, giving a test weight of 879.5kg.
 
-In standing-start acceleration, the car reached 50m in 4.7 seconds, 100m in 7.2 seconds, 200m in 11.2 seconds, and 400m in 17.8 seconds. In terms of time to speed, it accelerated from 0-20km/h in 1.6 seconds, 0-40km/h in 3.7 seconds, 0-60km/h in 6.0 seconds, 0-80km/h in 8.8 seconds, and 0-100km/h in 13.2 seconds.
+First, in standing-start acceleration, it reached 50m in 5.5 seconds, 100m in 7.7 seconds, 200m in 12.1 seconds, and 400m in 19.2 seconds. In terms of time to speed, the results were 0-20km/h in 1.8 seconds, 0-40km/h in 3.8 seconds, 0-60km/h in 6.4 seconds, 0-80km/h in 10.1 seconds, and 0-100km/h in 15.4 seconds.
 
-For overtaking acceleration, starting in third gear from an indicated 30km/h (actual speed, 27.7km/h), the car reached 40km/h in 3.3 seconds, 60km/h in 6.3 seconds, 80km/h in 10.7 seconds, and 100km/h in 15.3 seconds. When starting in top gear, from an indicated 40km/h (actual speed 37.5km/h), it reached 50km/h in 5.1 seconds, 60km/h in 8.7 seconds, 80km/h in 16.2 seconds, and 100km/h in 23.1 seconds.
+Next, the FF-1 Sports. Vehicle weight was 705kg, and with the same 179.5kg for three people and the instruments, test weight was 884.5kg.
 
-For comparison with the previous Subaru 1000 SS, that car recorded 18.2 seconds for the 0-400m run, so the FF-1 Sports is 0.4 seconds quicker. 
+In the standing 400m, it reached 50m in 4.7 seconds, 100m in 7.2 seconds, 200m in 11.2 seconds, and 400m in 17.8 seconds. In terms of time to speed, it accelerated from 0-20km/h in 1.6 seconds, 0-40km/h in 3.7 seconds, 0-60km/h in 6.0 seconds, 0-80km/h in 8.8 seconds, and 0-100km/h in 13.2 seconds.
 
-Compared with other cars in the same class, the Corolla Sprinter recorded 4.5 seconds for 0–50m, while this FF-1 is very slightly behind at 4.7 seconds.
+For overtaking acceleration, starting in third gear at an indicated 30km/h (actual speed, 27.7km/h), it reached 40km/h in 3.3 seconds, 60km/h in 7.3 seconds, 80km/h in 10.7 seconds, and 100km/h in 15.3 seconds.
 
-<b>Hirao:</b> That is likely because it is front-wheel drive; the front wheels slip more easily under hard acceleration. The gear ratios have also changed. On a higher-grip surface, the results might have been better.
+In top gear from an indicated 40km/h (actual speed, 37.5km/h), it reached 50km/h in 5.1 seconds, 60km/h in 8.7 seconds, 80km/h in 16.2 seconds, and 100km/h in 23.1 seconds.
+
+The previous Subaru 1000 SS covered 0-400m in 18.2 seconds, so the FF-1 Sports is 0.4 seconds quicker.
+
+Compared with other cars in the class, the Corolla Sprinter covered 0-50m in 4.5 seconds, against 4.7 seconds for the FF-1, so the Subaru is slightly slower.
+
+<b>Hirao:</b> That's probably because it's front-wheel drive and the front wheels spin at the start. The gear ratios are different as well, so I think you would have obtained a better result on a surface with more grip.
 
 <b>Honda:</b> The gear ratios are 3.540 for first, 2.235 for second, 1.542 for third, and 1.033 for fourth.
 
-<b>Hirao:</b> The Murayama test course has become rather worn, and the coefficient of friction is lower than it used to be. That would explain why the results fall slightly short of the catalog figures.
+<b>Hirao:</b> The surface of the Murayama test course has become quite worn, and its coefficient of friction has fallen considerably. That's why the result came out somewhat below the catalog figure.
 
-<b>Furutani:</b> At the section of Murayama that we use for acceleration testing, the starting area is asphalt that transitions to concrete from the middle of the course onward, so initial tire bite is less than ideal.
+<b>Furutani:</b> At Murayama, the starting area is asphalt, changing to concrete farther down the course, so you can't necessarily count on very good tire grip at the start.
 
-At launch, the clutch felt somewhat soft. Perhaps this is intended to prevent novices from stalling, but in any case, that was the impression it gave.
+The clutch also felt a little soft when starting off. I suppose that helps prevent a novice from stalling the engine when pulling away, but in any case, the clutch did feel soft. Perhaps the light weight of the car contributes as well, but acceleration is very good, and passing acceleration in particular seems to have improved considerably over the previous 1000cc model.
 
-That said, perhaps owing also to the car’s light weight, acceleration is very good. Overtaking acceleration in particular is considerably improved over the previous 1000cc model.
+The problem is that in second gear, by the time you reach 70km/h, you're already into the yellow zone. In third, you're in the yellow zone at 100km/h, and by 110km/h you're already into the red. Now that we've entered the high-speed era, I thought it would have been better if the gears could be held a little longer.
 
-One concern, however: in second gear, the engine enters the yellow zone at 70km/h. In third, the yellow zone is reached at 100km/h, and by 110km/h it is already in the red. Now that we have entered the high-speed era, it might have been better to allow a little more margin in the gearing.
+There's one other point I wondered about. You said that torque between 1500-2500rpm has been greatly improved—by as much as 16%. But doesn't that conflict with the handbook's instruction not to use top gear below 2000rpm?
 
-Another point: it is said that torque between 1500-2500rpm has improved by as much as 16 percent. Yet the handbook states that top gear should not be used below 2000rpm. Isn't that something of a contradiction?
+<b>Honda:</b> The explanation I gave earlier concerned the sedan engine.
 
-<b>Honda:</b> My explanation earlier referred to the sedan engine.
+<b>Furutani:</b> I see. So at 45km/h you shouldn't be driving in top gear; you should use third instead.
 
-<b>Furutani:</b> I see. So at 45km/h one should not actually use top gear, but remain in third.
+<b>Yamamoto:</b> When you need acceleration, that is.
 
-<b>Yamamoto:</b> When acceleration is required, yes.
+<b>Furutani:</b> In actual driving, I also had the impression that the gap between third and top is wider than the gap between second and third.
 
-<b>Furutani:</b> In actual use, it feels as though the gap between third and top is wider than that between second and third.
+<b>Hirao:</b> I agree. You ought to be able to hold third gear with confidence.... If you extend it just a little and immediately find yourself in the yellow zone, that's rather troublesome.
 
-<b>Hirao:</b> I agree. One should be able to pull confidently in third. It's bothersome for it to enter the yellow zone so quickly.
+<b>Hoshijima:</b> At 110km/h it's in the red zone, and at 100km/h it's in the yellow.
 
-<b>Hoshijima:</b> Yes. The red zone begins at 110km/h, and the yellow at 100km/h.
+<b>Honda:</b> At 7000rpm you're doing 110km/h, so the engine is fully usable up to that point. As for the clutch, the sedan and Sports both use the same unit.
 
-<b>Honda:</b> The car reaches 7000rpm at 110km/h, so it is fully usable up to that point. As for the clutch, both the sedan and the Sports use the same unit.
+<b>Furutani:</b> For the Sports, I think it would be better if the clutch were made a little stronger.
 
-<b>Furutani:</b> In the case of the Sports, I would prefer it to feel a little firmer.
+<b><u>An Advantage in Cornering</b></u>
 
-<b><u>Strong Points in Cornering</b></u>
+<b>Magazine:</b> Could we have the suspension vibration and noise data from the Watari laboratory?
 
-<b>Magazine:</b> Now we'd like to hear the vibration and noise data measured by the Watari Laboratory.
+<b>Tateishi:</b> Here are the suspension vibration and noise results, starting with the Sports. The sprung-mass frequency was 1.5cps at both front and rear, and the unsprung frequency was 15.0cps at both ends. As for interior noise, it was 66 phons at 40km/h, 69 phons at 50km/h, 70 phons at 60km/h, 71 phons at 70km/h, 74 phons at 80km/h, 75 phons at 90km/h, 76 phons at 100km/h, 77 phons at 110km/h, and 81 phons at 120km/h.
 
-<b>Tateishi:</b> Starting with the Sports model, the sprung-mass natural suspension frequency is 1.5cps, front and rear. The unsprung frequency is 15.0cps, again both front and rear.
+Exterior noise at a steady 50km/h was 72 phons, while under acceleration it was 83 phons. One other figure: at idle, interior noise in the Sports was 52 phons, and 73 phons on the C scale.
 
-The recorded interior noise levels were 66 phons at 40km/h, 69 at 50km/h, 70 at 60km/h, 71 at 70km/h, 74 at 80km/h, 75 at 90km/h, 76 at 100km/h, 77 at 110km/h, and 81 at 120km/h. Exterior noise at a steady 50km/h was 72 phons while under acceleration it reached 83 phons. At idle, the Sports registered 52 phons inside the cabin, and 73 phons outside the vehicle.
+Next, the sedan. The sprung-mass frequency was 1.4cps at both front and rear, and the unsprung frequency was 15.0cps. Interior noise in the sedan was 65 phons at 40km/h, 67 phons at 50km/h, 68 phons at 60km/h, 70 phons at 70km/h, 73 phons at 80km/h, 74 phons at 90km/h, 76 phons at 100km/h, 78 phons at 110km/h, and 79 phons at 120km/h.
 
-Turning to the Sedan, the sprung frequency is 1.4cps front and rear, with the unsprung frequency again at 15.0cps.
+For exterior noise, the figure at a steady 50km/h was 68 phons, and under acceleration it was 75 phons.
 
-Interior noise levels for the Sedan were 65 phons at 40km/h, 67 at 50km/h, 68 at 60km/h, 70 at 70km/h, 73 at 80km/h, 74 at 90km/h, 76 at 100km/h, 78 at 110km/h, and 79 at 120km/h. Exterior noise at a steady 50km/h was 68 phons, and 75 phons during acceleration. At idle, interior noise measured 45 phons on the A scale and 68 phons on the C scale.
+At idle, interior noise was 45 phons on the A scale and 68 phons on the C scale.
 
-As mentioned earlier, interior noise levels are generally within the normal range. As for exterior noise, we would prefer it to be kept within 80 phons if possible.
+Noise came up earlier, and the interior noise figures are about average. If possible, though, we'd like to see exterior noise kept down to around 80 phons.
 
-Regarding noise, vibration and ride comfort in the Sports model, the frequencies are about the same as those recorded previously for the 1000cc version. The Sedan, however, shows considerable improvement compared with the Sports. Its interior noise curve rises smoothly and progressively in a straight line, which is highly commendable. Compared with previous data, both low- and high-speed noise levels are reduced by 2 to 3 phons. Exterior noise has also become quieter.
+As for the vibration and ride of the Sports, the frequencies are the same as those we measured on the previous 1000cc model. The sedan, however, has improved considerably compared with the Sports. Its interior noise also rises in a smooth, almost straight-line curve, which I think is very good. Compared with our previous data, it is 2-3 phons quieter at both low and high speeds. I think we can also say that exterior noise has been reduced.
 
-There was, however, some opinion that the exterior sound has a rather spirited character…
+As for the Sports, there was some comment about the rather "spirited" exhaust note...
 
-<b>Hirao:</b> Something to make one’s girlfriend say, “How dashing!” perhaps? (laughs)
+<b>Hirao:</b> Something to make your girlfriend say, “How cool!”, perhaps. (laughs)
 
-<b>Yamamoto:</b> No, not quite like that. The idea is more that when one hears that sound, one feels, “I would like to drive that car.” For the Sports model, much like a GT, we felt that a certain spirited note might indeed be appropriate.
+<b>Yamamoto:</b> No, it's not quite like that. We want people to hear the sound and think, “I'd like to drive that car!” We thought that, like a GT, the Sports ought to have a suitably spirited note...
 
-<b>Tateishi:</b> I've also heard that intake noise has been reduced. Has the air cleaner been changed as well?
+<b>Tateishi:</b> I also heard that the intake noise has been reduced. Did you change the air cleaner as well?
 
-<b>Honda:</b> Yes, both the Sports and the Sedan have revised air cleaners. The Sports is fitted with a duct to suppress intake noise. On the Sedan, the duct has been made longer.
+<b>Honda:</b> The air cleaners have been changed on both the Sports and the sedan. The Sports has a duct to suppress intake noise, while on the sedan we've made the duct somewhat longer.
 
-<b>Magazine:</b> How about ride comfort? We understand the springs themselves have not changed…
+<b>Magazine:</b> And how is the ride? You said the springs haven't changed...
 
-<b>Kimura:</b> Compared with the Sedan, the Sports has firmer settings.
+<b>Kimura:</b> The Sports is set up stiffer than the sedan.
 
-<b>Hirao:</b> The steering system is the same as before, I assume?
+<b>Hirao:</b> The steering is the same as before, isn't it?
 
-<b>Kimura:</b> That's right, there have been no changes. The Sports is equipped with radial tires--how did you find the ride?
+<b>Kimura:</b> Yes, we haven't changed it. The Sports is fitted with radial tires, though. How did you find the ride?
 
-<b>Hirao:</b> When I drove the Sports, it felt somewhat firm, and I assumed this was due to the springs. But it was the tires, then.
+<b>Hirao:</b> When I drove the Sports, it felt somewhat firm, so I wondered whether it was the springs. But it was the tires after all.
 
-<b>Oguchi:</b> At idle, I was struck by how quiet it was. Were the engine mounts changed--perhaps the type of rubber?
+<b>Oguchi:</b> I thought the car was very quiet at idle. Did you change the rubber in the engine mounts or anything like that?
 
-<b>Kimura:</b> The rear engine mount has been revised, yes.
+<b>Kimura:</b> We've changed the rear engine mount.
 
-<b>Magazine:</b> Professor Miyamoto, what were your impressions in terms of ride comfort?
+<b>Magazine:</b> Professor Miyamoto, what did you think of the ride?
 
-<b>Miyamoto:</b> Regarding the Sports model, I found its cornering to be very good. It left a strong impression of stability. Even someone accustomed to rear-wheel-drive characteristics would not feel apprehensive stepping straight into this FF car.
+<b>Miyamoto:</b> One thing I noticed in the Sports was that it corners extremely well. I was left with a strong impression of its stability. Even someone accustomed to an FR car could step straight into this FF car without finding it frightening.
 
-At the same time, I have one request. It seems to me that it is necessary to explain more clearly why the FF system has been adopted. People who are knowledgeable about automobile structures and mechanisms tend to appreciate FF, but the general public does not approach unfamiliar concepts so easily. Its advantages ought to be presented more distinctly.
+There is one thing I would like to see, though. I think Subaru needs to explain more clearly why it uses front-wheel drive. People who are knowledgeable about automotive construction and engineering are attracted to FF, but the ordinary buyer does not approach unfamiliar concepts so easily. I think you should present its advantages much more clearly.
 
-In addition, ordinary buyers tend to gravitate towards vehicles sold in large, impressive showrooms by dealers with extensive sales networks. Speaking frankly, a more revolutionary body style--something capable of rivaling foreign cars--might be desirable in this case. As it is, the styling gives a somewhat conventional impression.
+After all, ordinary buyers tend to buy whatever is sold by the companies with extensive dealer networks and big showrooms. If I could ask for still more, I would like to see a more innovative body style, something capable of competing with foreign cars. My impression is that the styling of this car is rather conventional.
 
-<b>Higuchi:</b> Even the name "FF-1" is insufficient. Unless "Front Drive" is boldly displayed alongside it, the meaning is not immediately understood.
+<b>Higuchi:</b> The FF-1 name isn't enough, either. You need to display “Front Drive” prominently on the back before people will really understand what it is.
 
-<b>Hirao:</b> Like the badges that call attention to an air-conditioned model.
+<b>Hirao:</b> Like the labels that say “Air Conditioned.”
 
-<b>Higuchi:</b> Exactly--and using that label consistently. Same as with “BW Automatic.” Owners derive a certain sense of superiority from such distinctions.
+<b>Higuchi:</b> And never peel the label off. Just like “BW Automatic.” Buyers like having something like that to feel a sense of superiority.
 
-<b>Miyamoto:</b> Recently, smaller American cars have begun entering the market. Having driven them, I find myself thinking about the earlier discussion of speed and yellow and red zones. Perhaps, instead of concerning ourselves with such matters, the maximum speed could be limited to around 130km/h, and in exchange a torque converter could be fitted, allowing more relaxed driving.
+<b>Miyamoto:</b> Recently, smaller American cars have gradually begun coming into Japan. One thing that occurred to me after driving them relates to our earlier discussion about watching the yellow zone and red zone. One way of eliminating that sort of concern might be to limit the top speed to around 130km/h, and instead, fit something like a torque converter so that the car can be driven in a more relaxed manner. And since the road tax is the same whether the displacement is 1100cc or 1500cc, why not simply add another two cylinders, using the same pistons, and give it better acceleration?
 
-Since the road tax is the same whether the displacement is 1100cc or 1500cc, one might even consider retaining the present piston size but adding two more cylinders to improve acceleration. What do you think of that idea?
+<b>Hirao:</b> I think Miyamoto's point about 130km/h is an important one. I'll give you my view first: I think a car's maximum speed should be somewhere between 160 and 200km/h. These days you often hear people saying that if you're going to drive at 100km/h, there's no need for a car capable of 160km/h. But with a 10m/sec headwind, that alone erases 35km/h. Add an uphill grade, and a car capable of only around 130km/h simply won't be enough if you want to be able to maintain 100km/h under all conditions.
 
-<b>Hirao:</b> Regarding Professor Miyamoto’s suggestion of 130km/h, I consider this a serious matter. To state my own view, I believe maximum speed should lie somewhere between 160 and 200km/h.
+Another point is that when entering an expressway from an on-ramp, there are situations in which it can be quite dangerous unless the car is capable of around 160km/h. Some people say that cars capable of such speeds cause accidents, but do we have any accident statistics broken down by maximum speed? If statistics showed that cars capable of 200km/h have a high accident rate and cars capable of only 130km/h have a low one, that would be another matter. As far as I've been able to determine, there are no such statistics in Japan. They do have them in America, and the results are the opposite: the higher a car's maximum speed, the lower its accident rate.
 
-These days it is often said that if the speed on the highway is 100km/h, there is no need for a car to be capable of 160km/h. But if one is driving into a 10m/s headwind, that alone effectively erases 35km/h. And on an incline, if one wishes to maintain 100km/h, a car that can only reach 130km/h on a flat road simply will not suffice.
+In other words, there is no evidence to support the idea that limiting speed will reduce accidents. If anything, there is evidence pointing the other way. This is a matter of great consequence affecting cars throughout Japan, so I don't think we should be advocating one way or the other without proper statistical evidence. Subaru ought first to establish the accident rate for the Subaru 1000, and then determine the accident rate for the Sports. If the results show that the Sports has an unusually high accident rate, then we can say that a car like that shouldn't be built.
 
-Another point concerns merging from expressway ramps. Unless the car is capable of approximately 160km/h at its maximum, such situations can become dangerous.
+I telephoned the Prime Minister's Office and asked for accident rates by make and model, or, failing that, accident statistics classified by maximum speed. I was told that in Japan we simply don't have the data from which such figures could be produced.
 
-Some argue that cars capable of these kinds of speeds are precisely what cause accidents. But is there statistical evidence correlating accident rates with maximum speed? If statistics were to show that cars capable of 200km/h have higher accident rates than those limited to 130km/h, that would be another matter.
+If we're going to have this sort of debate, the first thing we need is the data. The Automobile Manufacturers Association ought to press for such accident statistics. If, for example, we could say, “Here's the accident rate for the Corolla, and Subaru's is higher,” then we could tell Subaru that it needs to work more seriously on safety. Conversely, if Subaru's rate were lower, there would be nothing wrong with making a point of advertising it as a safe car.
 
-However, as far as I have been able to determine, no such statistics exist in Japan. In America, however, there are such figures, and they show the opposite result. The higher the maximum speed of the car, the lower the accident rate.
+<b>Miyamoto:</b> What Hirao has just said is entirely reasonable. I myself am always saying that even if a car is capable of 150km/h, on an expressway you should keep it down to 100km/h.
 
-In other words, there is no evidence whatsoever to suggest that simply lowering maximum speeds will reduce accidents. In fact, the available data suggests the opposite. This is a matter of great consequence for determining the direction of Japan’s entire automobile industry, and we should not advocate one way or the other without proper statistical material.
+<b>Hirao:</b> Take a kitchen knife. A knife needs to be sharp. But you shouldn't advertise it by saying, “This knife will cut through a person beautifully.” The same applies to a car: it needs to be capable of speed. There has been something of that knife-advertising mentality in the automobile industry when it boasts, “This car will do 150km/h.” What it should say instead is, “This car is capable of 150km/h, but it is extremely safe when driven at 100km/h, so please drive it at 100km/h.”
 
-What Subaru should do first is clearly establish the accident rate of the 1000, and then determine the rate for the Sports model. If the results show that the Sports has an excessively high accident rate, then one could say that it would be better if such a car were not built.
+<b>Miyamoto:</b> Even with a knife, a sharp one is safer to use.
 
-I telephoned the Prime Minister’s Office and asked for accident rates by vehicle type and model--or, failing that, accident statistics categorized by maximum vehicle speed. I was told that in Japan there are no data available that would permit such analysis.
+<b>Hirao:</b> Exactly. Yet what people are proposing is like saying that we should immediately blunt the blade. And if you ask whether a blunt kitchen knife can't kill someone, of course it still can. A person can be killed with a fountain pen. In the same way, if you make a car that can't exceed 100km/h, does that mean there will be no speeding? Of course there still will be.
 
-If we are to have this discussion, then those materials must first be compiled. The industry association should make clear that such accident statistics are necessary. For example, what is the accident rate of the Corolla? If the Subaru’s rate were higher, one could urge Subaru to undertake serious safety research. Conversely, if it were lower, there would be every reason to advertise it as a safe car.
+<b>Yamamoto (Mineo):</b> Part of the problem is that people are going along with the line taken up by the mass media and certain politicians. I'd like to see Motor Fan do more to educate people on this point.
 
-<b>Miyamoto:</b> What Mr. Hirao has just said is entirely reasonable. I myself often say on the expressway that even if a car is capable of 150km/h, one should keep it to 100km/h.
+<b>Hirao:</b> This Subaru FF-1 claims 160km/h as well, after all.
 
-<b>Hirao:</b> A kitchen knife must, after all, be sharp. But one must not advertise it by saying, “With this knife, you can cut someone very effectively.” A car, too, must have speed capability. There has been a tendency in the industry to boast, “This car will do 150km/h,” in much the same way.
+<b>Higuchi:</b> So the sharper the car, the safer it is.
 
-What we should be saying is this: “Yes, it will reach 150km/h. This makes it very safe if you drive at 100km/h—so please drive at 100.”
-
-<b>Miyamoto:</b> A knife that cuts well is, in fact, safer.
-
-<b>Hirao:</b> Exactly. To blunt the blade in the name of safety makes little sense. Can one not kill with a dull knife? Of course one can. One could even kill with a fountain pen. So if we build cars that cannot exceed 100km/h, will there be no speeding violations? Certainly there will be.
-
-<b>Yamamoto (Mineo):</b> There is also the matter of certain press commentary, and some politicians seizing upon it. I would hope that Motor Fan might help to enlighten public opinion on this point.
-
-<b>Hirao:</b> I see the Subaru FF-1's top speed is listed as 160km/h.
-
-<b>Higuchi:</b> In other words, the sharper the car, the safer it is.
-
-<b>Miyamoto:</b> On that point, I am in full agreement.
+<b>Miyamoto:</b> On that point, I quite agree.
 
 <b><u>Milder Understeer</b></u>
 
-<b>Magazine:</b> Now, let's hear Professor Saito's findings on handling and stability.
+<b>Magazine:</b> Professor Saito, could we have your report on the handling and stability?
 
-<b>Saito:</b> First, the practical minimum turning radius was measured at 5.3m on the outside and 2.9m on the inside. Comparing this with data previously measured at the Kondo Laboratory, it is roughly equivalent to larger cars in the 1500cc class. In particular, when compared with the previous Subaru 1000--which, of course, was also FF--even though vehicle length remains the same, the turning radius has increased by approximately 0.5m. I find this somewhat puzzling.
+<b>Saito:</b> First, the practical minimum turning radius. It was 5.3m at the outer wheel and 2.9m at the inner wheel. Comparing those figures with data previously measured by the Kondo laboratory, they're about the same as for cars in the 1500cc class. Comparing it specifically with the Subaru 1000, since both are front-wheel-drive cars, the overall length is certainly the same, but the turning radius has increased by about 0.5m. I wonder why that should be.
 
-As for understeer and oversteer, the earlier Subaru 1000 exhibited strong understeer in our tests. In the FF-1's case, however, the R/R₀ ratio has reduced to 1.45, compared with 1.7 for the previous model. Understeer has been lessened considerably, and can now be described as more moderate.
+Next, understeer and oversteer. The Subaru 1000 showed strong understeer, but this time the R/R₀ is 1.45, compared with 1.7 for the previous car, so I think we can say that the understeer has been considerably reduced and is now much milder.
 
-While accelerating gradually in a circle, the maximum steering effort was approximately 4kg. Drivers who tested the car report that it feels noticeably lighter. Compared with other cars in this class, it is certainly not on the heavy side.
+Maximum effort to hold the steering in a turn was about 4kg, and those who drove the car say that the steering has become considerably lighter. Compared with other cars in this class, it is not particularly heavy.
 
-Next, the roll angle during cornering measured 3.7°. Compared with others in this class, this is on the smaller side.
+Next, the roll angle during cornering was 3.7°. That's relatively small compared with other cars in the same class.
 
-In the stationary steering effort test, even when the wheel was turned through a full 360°, it never went off the scale; the maximum value recorded was 14kg. The previous 1000 model had already gone off-scale at 180° by exceeding 16kg, so this represents a marked improvement.
+In the stationary steering-effort test, even when we turned the wheel through 360°, the reading never went off the scale, with a maximum of 14kg. On the Subaru 1000, the reading went off the scale at 16kg after only 180°, so I think we can say that there has been a marked improvement.
 
-In the low-speed steering effort test, measured while cornering at a lateral acceleration of 0.25g, steering effort when entering the curve was 7kg, and 1.8kg when exiting. This, too, can be said to be a considerable improvement.
+In the low-speed steering-effort test, on entering a curve at 0.25g lateral acceleration, steering effort was 7kg, falling to 1.8kg when exiting. Here too, I think we can say that it has become considerably lighter.
 
-In slalom turns at higher speeds, again at 0.25g lateral acceleration, steering effort was approximately 2.2kg to the right and 2.5kg to the left. Compared with the previous figure of 3.3kg, this may even have become slightly too light.
+Then there is steering effort at high speed. Again at 0.25g, it was about 2.2kg to the right and 2.5kg to the left. The previous figure was 3.3kg, so I wonder whether the steering may actually have become a little too light.
 
-As for the standing-start acceleration test we conducted separately here, we did not push the car particularly hard, so the result was not outstanding: around 20 seconds for 0–400m. This is not much different from the 1000SS.
+As for our standing-start acceleration test, we didn't push particularly hard, so the time wasn't very good—around 20 seconds for 0–400m—but even so, I think we can say that it is not very different from the 1000 SS.
 
-Finally, in the free-release directional stability test, its character has changed slightly compared with the 1000. It is nothing serious, but it is marginally less stable than before. Taken as a whole, however, the results may still be described as good.
+Finally, in the hands-off directional-stability test, the characteristics have changed somewhat compared with the 1000. It isn't anything serious, but stability is slightly poorer than before. Overall, though, I think it can still be regarded as good.
 
-<b>Magazine:</b> We understand the steering has become considerably lighter. Is it rack-and-pinion?
+<b>Magazine:</b> We've heard that the steering has become considerably lighter. Is it rack and pinion?
 
-<b>Kimura:</b> Yes, that's correct.
+<b>Kimura:</b> Yes, it is.
 
-<b>Magazine:</b> Vehicle weight has increased by about 5kg--is that due primarily to the heavier engine?
+<b>Magazine:</b> The car is about 5kg heavier. Is that primarily due to the additional weight of the engine?
 
-<b>Kimura:</b> It's largely the engine, as well as additional safety-related components.
+<b>Kimura:</b> Mostly the engine and the additional safety-related components.
 
-<b>Hirao:</b> Wasn't the fuel tank located at the front before?
+<b>Hirao:</b> Was the fuel tank at the front before?
 
-<b>Murota:</b> No, it's beneath the rear seat.
+<b>Murota:</b> No, it's under the rear seat.
 
-<b>Magazine:</b> Mr. Hoshijima, how did you find the steering? Was it either too heavy or too light?
+<b>Magazine:</b> Mr. Hoshijima, what did you think of the steering? Did it feel heavy or light?
 
-<b>Hoshijima:</b> Compared with the earlier 1000, this car's steering feels lighter at high speed. On the Tomei Expressway in particular, it seemed light to me. Personally, I think steering ought to be a little heavier at high speed.
+<b>Hoshijima:</b> Compared with the previous 1000, the steering on this car seems to have become lighter at high speeds. I noticed it particularly on the Tomei Expressway. Personally, I think I'd rather have somewhat heavier steering at high speed.
 
-As for cornering, I found the feel much improved. Especially on downhill sections. Braking lightly before entering the corner, turning in, allowing the tail to move just slightly, then applying the throttle decisively... the sensation is more enjoyable than in the previous 1000.
+As for the cornering, though, I think it has taken on quite a good feel. One thing I particularly noticed was on downhill bends. You brake a little before the corner and turn in, let the tail swing out slightly, and then open the throttle hard. Driven through a corner that way, I found it more enjoyable than the previous 1000.
 
-<b>Hirao:</b> Perhaps a touch of character makes it more interesting.
+<b>Hirao:</b> Perhaps it's more interesting for a car to have a little individual character.
 
-<b>Higuchi:</b> The handbook for the Sports model seems preoccupied with servicing. It would be good if it also explained how to drive the car properly.
+<b>Higuchi:</b> The handbook for the Sports seems to be preoccupied with servicing. I'd like to see more written about how to drive the car.
 
-<b>Magazine:</b> You mean, not only general advice, but guidance on how to enjoy it as a sports car.
+<b>Magazine:</b> And not simply general driving instructions. It would be good to explain how to drive it in a way that lets you enjoy the Sports for what it is.
 
-<b>Hirao:</b> Maybe Hoshijima could write it...
+<b>Hirao:</b> Maybe we should get Hoshijima to write it....
 
-<b>Hoshijima:</b> It would not be inappropriate to emphasize that at higher speeds the car offers a distinctly different driving style.
+<b>Hoshijima:</b> I think you could emphasize that at higher speeds, the car can be driven in a very distinctive style.
 
-<b>Hirao:</b> A sort of guide to FF driving.
+<b>Hirao:</b> You could provide something like a guide to driving an FF car.
 
-<b>Higuchi:</b> You could omit some of the finer points of maintenance and instead add something about the pleasures unique to the Sports model.
+<b>Higuchi:</b> You could leave out some of the finer points of maintenance and instead add something explaining the enjoyable ways to drive the Sports.
 
-<b>Kimura:</b> When ordinary users have grown more accustomed to FF and begin to seek such enjoyment from the Sports model, we may well consider including such material. At present, however, it may be somewhat premature.
+<b>Kimura:</b> Once ordinary users have gotten used to front-wheel drive and begin wanting to explore these aspects of the Sports, I think we could include something like that. For now, though, I think it may still be a little too early for the general public.
 
-<b>Hirao:</b> How does it behave in crosswinds?
+<b>Hirao:</b> How is it in crosswinds?
 
-<b>Hoshijima:</b> To be honest, it is not especially strong against crosswinds. However, corrections are easy to make.
+<b>Hoshijima:</b> It's not particularly resistant to crosswinds. But I would say it's easy to correct.
 
-<b>Magazine:</b> Is that related to the body structure?
+<b>Magazine:</b> Do you think that has anything to do with the body construction?
 
-<b>Hirao:</b> It may also be due to the car’s light weight.
+<b>Hirao:</b> I imagine the light weight of the car has something to do with it...
 
-<b>Hoshijima:</b> On the Tomei Expressway I followed closely behind other cars, observing which of us would be deflected more. I would not say that this car is particularly less affected. So long as one keeps a hand on the wheel, though, it does not present a serious problem.
+<b>Hoshijima:</b> On the Tomei Expressway, I tried following the car in front of me very closely and watching with some interest to see which of us was being pushed around more by the crosswind. I didn't get the impression that this car was affected any less. But as long as you keep hold of the steering wheel, it doesn't become particularly unsettling.
 
-<b>Yamamoto:</b> So although one may feel it wandering somewhat, the actual effect is not excessive.
+<b>Yamamoto:</b> So even though you may feel that the car is being pushed around somewhat, the actual amount of deviation isn't all that great.
 
-<b>Magazine:</b> Next, let's please review the fuel economy test results.
+<b>Magazine:</b> Next, could we have the results of the fuel-consumption tests?
 
-<b>Oguchi:</b> For the Sports Sedan, in terms of steady-speed fuel economy, the best result of 22.4km/l was recorded at 40km/h. At 60km/h, the figure was 19.6km/l; at 80km/h, it was 16.2km/l, and at 100km/h, it was 12.2km/l.
+<b>Oguchi:</b> Beginning with the Sports Sedan, the best figure was 22.4km/l at the economical speed of 40km/h. It returned 19.6km/l at 60km/h, 16.2km/l at 80km/h, and 12.2km/l at 100km/h.
 
-In the same steady-speed testing, the Super Deluxe returned 25.4km/l at 30km/h, 24.4km/l at 40km/h, 22.0km/l at 60km/h, 18.5km/l at 80km/h, and 14.6km/l at 100km/h.
+Next, the steady-speed figures for the Super Deluxe were 25.4km/l at 30km/h, 24.4km/l at 40km/h, 22km/l at 60km/h, 18.5km/l at 80km/h, and 14.6km/l at 100km/h.
 
-Test conditions were favorable, and the weather was not overly hot.
+The conditions for these tests were favorable; it wasn't overly hot. We then wanted to see how these steady-speed fuel-consumption figures would translate into city driving, so we also measured fuel consumption under a simulated driving cycle. The difficulty with such a test is deciding on the pattern, since the results naturally vary according to where and how the car is driven. So, simply as one point of reference, we established a pattern representing driving in Tokyo: the car accelerates over a 400m section and then waits at a traffic signal, with stops of 15 and 30 seconds. The acceleration and deceleration conditions were also specified.
 
-To approximate urban use, we conducted a model driving-cycle test. Since results vary depending on route and driving style, we adopted a standardized Tokyo city pattern: accelerating over 400-meter sections, stopping for either 15 or 30 seconds as one would for traffic signals, and following fixed acceleration and deceleration parameters.
+With a prescribed maximum speed of 40km/h, the resulting average speed was 22.2km/h. The Super Deluxe returned 14.4km/l, while the Sports Sedan returned 9.1km/l. With the prescribed maximum speed raised to 60km/h, average speed was 25.6km/h, and the figures were 12.0km/l for the Super Deluxe and 7.6km/l for the Sports.
 
-With a target speed of 40km/h, and an average speed of 22.2km/h, the Super Deluxe returned 14.4km/l, while the Sports Sedan achieved 9.1km/l. When the target speed was 60km/h, with an average speed of 25.6km/h, the Super Deluxe returned 12.0km/l, while the Sports recorded 7.6km/l.
+What struck me from these results was that, since this is a high-speed type of car with considerable emphasis on performance, I had expected fuel economy to suffer. But that isn't the case; the results show that it is quite good in terms of economy as well.
 
-One might have expected that, as a high-speed-oriented car with strong power performance, fuel consumption would suffer. However, the actual figures are quite commendable.
+<b>Sakai:</b> In the 1000cc class, increasing displacement by 100cc doesn't necessarily mean that fuel economy will become worse. We put a great deal of effort into fuel economy.
 
-<b>Sakai:</b> In the 1000cc class, increasing displacement by 100cc does not necessarily worsen fuel consumption. We devoted considerable effort to achieving good economy.
+<b>Kimura:</b> As for the fuel filter, we've adopted a cartridge-type element, with replacement specified every 20,000km.
 
-<b>Kimura:</b> The fuel filter is of the cartridge type, with a replacement interval of 20,000km.
+<b>Magazine:</b> Next, could we have the brake-related data from the Ship Research Institute?
 
-<b>Magazine:</b> Next, let's hear the brake data from the Ship Research Institute, please.
+<b>Ishikawa:</b> Beginning with the weight measurements, the Motor Fan test car weighed 715kg with the spare tire and tools aboard and 36 liters of gasoline, so the tank was almost full. With two people in the front, weight distribution was 484kg over the front wheels and 231kg over the rear, with no significant difference between left and right.
 
-<b>Ishikawa:</b> Beginning with weight measurement, with the spare tire and tools on board and 36 liters of fuel, nearly a full tank, the vehicle's test weight was 715kg.
+That gives a front-to-rear distribution of 68:32. With one person in the front seat, 67% of the weight was on the front; with two people, 66%; and with the full load of five occupants, the distribution was 58:42.
 
-Weight distribution was 484kg front and 231kg rear, with no significant left-right imbalance. In percentage terms, that equates to 68:32. With one occupant in the front seat, the balance shifted to 67:33, with two occupants, it became 66:34, and with five occupants it was 58:42.
+As for wheel alignment, the front wheels have a somewhat large amount of toe-in, together with a small amount of camber.
 
-Regarding wheel alignment, with one occupant on board, the front wheels exhibit slightly pronounced toe-in and a small amount of camber. The rear wheels show zero toe-in and zero camber. With five occupants, front toe-in and camber both decrease, though the change in toe-in is substantial. The rear wheels show no significant change.
+At the rear, both toe-in and camber are zero. Those figures are with one occupant. With five people on board, front toe-in becomes considerably smaller and camber also decreases, although the change in toe-in is particularly large. At the rear, there was no change.
 
-Turning to the brakes, the system uses discs at the front and leading-trailing drums at the rear. The master cylinder is of the tandem type, providing a dual-circuit system for improved safety. The disc brakes are not servo-assisted.
+Next, brake data. There are disc brakes at the front and leading-trailing drums at the rear. The master cylinder is a tandem type, providing the additional safety of a dual-circuit system. There is no servo assistance for the front discs.
 
-Initial brake application begins at approximately 2.5kg pedal force for the front and 5.5kg for the rear. Pedal travel is only about 25-26mm, and the initial feel is somewhat firm. Brake force distribution is 85:15, strongly biased toward the front.
+The front brakes begin to take effect at a pedal effort of 2.5kg and the rears at 5.5kg. Pedal movement is only about 25-26mm, and it feels a little firm initially. Brake-force distribution is 85:15, with a strong bias toward the front.
 
-As for other control weights, the gear lever requires between 3kg and 4.5kg to engage each of the four forward gears and reverse. The clutch pedal requires only 10kg to depress fully, giving a light feel--20kg is more typical.
+As for the gear lever, it requires between 3kg and 4.5kg to engage each of the four forward gears and reverse. The clutch pedal requires only 10kg to depress fully, so it feels light. Around 20kg is typical.
 
-The accelerator pedal effort measures 1kg during acceleration and 0.5kg to hold a steady speed. This is also very light. The safety headrest lifts with 4kg effort--the lightest we've measured among recent cars.
+Accelerator-pedal effort is 1kg under acceleration and 0.5kg at low-speed constant running, and this is light as well. The car also has head restraints, and they require 4kg of effort to raise. That's among the lightest of the cars we've tested so far.
 
-<b>Magazine:</b> What is the standard angle of the seatback?
+What is the standard seat-back angle?
 
 <b>Murota:</b> Around 20°.
 
-<b><u>Seats and Handbrake - Character Reduced?</b></u>
+<b><u>Have the Seats and Handbrake Lost Their Distinctiveness?</b></u>
 
-<b>Magazine:</b> Dr. Hirata, could you provide your results on visibility measurements?
+<b>Magazine:</b> Professor Hirata, could we have the results of your visibility measurements?
 
-<b>Hirata:</b> We took measurements with the seat in three positions: fully forward, in the center of its slide travel, and fully rearward. With the seat in the center position, the eyepoint height from the ground to the lens was about 116cm. The distance from the windshield to the lens cap was 56.5cm, and from the lens cap to the center of the rearview mirror was 48.5cm.
+<b>Hirata:</b> We took visibility measurements with the seat in three positions. With the seat in its middle position, the height from the ground to the focal point of the lens—which corresponds roughly to eye level—was 116cm. The distance from the windshield to the front of the lens cap was 56.5cm, and to the center of the rear-view mirror it was 48.5cm.
 
-The forward visible range measured through the windshield was 35.5° to the right and 58.5° to the left, for a total horizontal range of 94°. The vertical visible range was 12° up and 16° down, for a total of 28°.
+The resulting forward field of vision was 35.5° to the right and 58.5° to the left, for a total of 94°. Vertically, it was 12° and 16°, totaling 28°. Through the rear window, the visible range was 14° to the right and 37° to the left, for a total of 51°. Vertically, it was 4° and 9°, for a total of 13°.
 
-The visible range through the rear window was 14° to the right and 37° to the left, for a horizontal total of 51°, and 4° up, 9° down, for a vertical total of 13°.
+As for the area swept by the wipers, it was 27° to the right and 41° to the left, for a total of 68°. With this method of measurement, the total blind area in the horizontal plane was 42.5°. Of that, the blind area at the front was 16°, mainly due to the front pillars: the right front pillar accounted for 9° and the left front pillar for 7°.
 
-Wiper coverage was 27° to the right and 41° to the left, for a total wiping range of 68°.
+Expressed in steradians, the forward field was 1.477, of which the windshield accounted for 0.645, while the area swept by the wipers was 0.354 and the rear window 0.199. The field visible in the rear-view mirror was 39°, or 0.149 steradians, which means that 74.9% of the rear-window area was visible.
 
-Dead angles in the horizontal plane totaled 42.5°. Of that, 16° is forward, mostly caused by the front pillars, of which 9° constitutes blind spots created by the pillars themselves. The front-left pillar accounts for 7°.
+<b>Magazine:</b> Next, could we have the results of the dimensional measurements?
 
-Expressed in steradians, the view to the front totals 1.477, of which the side windows account for 0.645, wiper coverage is 0.354, and the rear window is 0.199. The view through the rearview mirror spans 39°, which corresponds to a solid angle of 0.149 steradians, and 74.9% of the rear window is visible. 
+<b>Onda:</b> One major external difference is the addition of the ornamental grille. The interior, however, seems to have lost some of its distinctive character. Previously, the seat-slide mechanism was quite unusual, but this time it has a conventional inclined slide with 120mm of travel. I feel that the range has been made unnecessarily small.
 
-<b>Magazine:</b> Next, let's please hear the data on dimensions.
+The distance to the pedal toe board measures 180mm. Normally it's around 140-160mm, and even the Volkswagen, which is often criticized for its pedal arrangement, is only 170mm, so this seems rather unusual.
 
-<b>Onda:</b> From an exterior standpoint, the most obvious change is the addition of the ornamented grille. What seems to have lost some of its distinctive character, however, is the interior. Previously, the seat slides had a unique design, but now they use a standard sloping track with 120mm of travel. This feels a bit unnecessarily short.
+As for the seat-reclining angle, there are four positions, and the backrest reclines quite a long way. But I feel it could use a position one step closer to vertical than its most upright setting. 
 
-The distance to the pedal toe board measures 180mm. By comparison, the usual range is 140-160mm, and even Volkswagens, which are often cited for pedal placement issues, stop at 170mm, so this strikes me as somewhat unusual.
+The adjustment handle is very cleverly designed, and that's something users will likely appreciate.
 
-As for seatback angle, it adjusts in four steps. The seatback is quite reclined, and I feel one more step beyond the most upright setting, to bring it closer to vertical, would be useful. The adjustment handle is cleverly designed, which users will likely appreciate.
+Another point that isn't particularly promoted in the catalog or elsewhere: if the seat back can be removed, I'd like to see some explanation of how that feature can be put to use.
 
-Also, although it’s not actively promoted in the catalog, if the seatback can be removed, I’d like to see clear instructions on how to use that feature.
+There also seem to be quite a lot of exposed pipes visible inside the trunk. Couldn't something be done to make these hidden?
 
-In the trunk, a lot of exposed piping is quite noticeable. Couldn’t this be at least partially hidden?
+We conducted our dimensional measurements on the Super Deluxe. Since it's an FF car with a long wheelbase, the interior ought to be spacious, but with various things hanging down around the front beneath the dashboard, I felt that the impression of spaciousness was rather spoiled.
 
-We carried out the dimensional measurements on the Super Deluxe. Being a front-wheel-drive car with a long wheelbase, one would expect the interior to feel spacious, but with various items hung toward the front under the dashboard, the impression of spaciousness is somewhat diminished.
+Then there is the handbrake. The previous car had its own distinctive arrangement, but now it has been changed to a conventional type, so another characteristic Subaru feature has disappeared. Even the shape of the seats seems rather odd—in the Super Deluxe, particularly the shape of the cushion where it meets the outer edges of the body.
 
-Additionally, the handbrake has been changed from the previous unique design to a standard type, so some of Subaru’s distinctive character is lost. The seat cushions themselves, particularly where they extend to the outer edges of the body on the Super Deluxe, feel somewhat unusual.
+Next, the ventilators. I get the impression that you have to operate the three-way shutters every time you want to use them.
 
-Finally, regarding the ventilators, it seems that you must use the three-way shutters for every adjustment, which seems somewhat cumbersome.
+As for the brake and accelerator pedals, in terms of their dimensions and relationship to one another, I think there is still some room for improvement.
 
-<b>Higuchi:</b> I would like to make some final comments on safety. As was mentioned earlier, since the previous Subaru was introduced, the safety regulations have been revised. In light of that, I believe there is still room to add further safety equipment. For example, items such as a collapsible steering column could be adopted relatively easily and at modest cost.
+<b>Higuchi:</b> Finally, I'd like to say a few words about safety. We've already discussed safety to some extent, but since the previous Subaru appeared, the safety standards have changed. I think there are still quite a number of additional safety features that could be fitted. A collapsible steering column, for example, should be a relatively simple and inexpensive addition.
 
-The safety evaluation score was 81 out of a possible 100 points. That is a good result, but there remains room for additional fittings and improvements. For instance, covering the interior door handles with padding would further enhance safety.
+The car scored 81 points out of 100 in our evaluation, so it's one of the better results, but there is still plenty of room for adding equipment and making improvements. Even something as simple as covering the inside door handles with a soft material would make them safer, I think.
 
-As for service, the schedule is very comprehensive. The vehicle is checked at the first 1,000 km, again at 3,000 km, and at 5,000 km the oil is replaced, so there should be no cause for concern. Cars are now being used in a thoroughly practical manner, and driving distances have increased; for the majority of users, an oil change approximately once every six months is sufficient.
+As for servicing, the schedule is very comprehensive. The car is checked at the first 1,000km, again at 3,000km, and the oil is changed at 5,000km, so I don't think there should be any problems there. Cars are now being put to considerable practical use and covering greater distances, and for the great majority of users an oil change about once every six months should be sufficient.
 
-<b>Magazine:</b> One question regarding options: is an air conditioner available?
+<b>Magazine:</b> We'd like to ask about the optional equipment. Is air conditioning optional?
 
-<b>Yamamoto:</b> Yes, air conditioning is optional. In addition, various other items are available as options, including a car stereo.
+<b>Yamamoto:</b> Yes, an air conditioner is optional. We also offer various other options, including a car stereo.
 
-<b>Onda:</b> And the body colors, are they the same as before?
+<b>Onda:</b> What about the body colors? Are they the same as before?
 
-<b>Yamamoto:</b> The body colors are as listed in the catalog.
+<b>Yamamoto:</b> The body colors are available as shown in the catalog.
 
-<b>Magazine:</b> What are the production and export plans for this year?
+<b>Magazine:</b> What are your production and export plans for this year?
 
-<b>Yamamoto:</b> This year we plan to produce an average of 5,000 units per month. Even now, depending on the model, there are some for which supply does not fully meet demand. However, amid the intense competition among domestic manufacturers, we have not adopted a policy of simply increasing volume as much as possible. Instead, we are proceeding steadily with a target of 5,000 units per month. We will continue to develop the model range in accordance with our customers' needs.
+<b>Yamamoto:</b> This year we plan to produce 5,000 cars a month on average. Even now, there are some models for which we cannot fully meet demand, but amid the increasingly fierce competition among Japanese manufacturers, our policy is not simply to produce as many cars as possible. We're proceeding steadily with a target of 5,000 a month, and we'll develop the model range in accordance with the different types of customers we serve.
 
-As for exports, we are taking a cautious approach. We will be entering Australia, and from June, the United States. We intend to move forward by building a record of solid results step by step.
+We're also proceeding cautiously with exports. The car will be exported to Australia and to the United States, beginning in June. We intend to move forward while steadily building up experience.
 
-<b>Magazine:</b> That concludes the roundtable discussion on the Subaru FF-1. Thank you very much.
+<b>Magazine:</b> That concludes our roundtable discussion of the Subaru FF-1. Thank you all very much.
 
 <b><u>Postscript: Story Photos</b></u>
 

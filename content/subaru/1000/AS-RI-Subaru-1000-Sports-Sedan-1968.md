@@ -78,7 +78,7 @@ That is my conclusion after driving the Subaru 1000 Sports Sedan.
 
 The test car was a two-door model in “Beach White”—all Sports Sedans are two-doors. It had covered 3691.7km and was only just run in.
 
-After checking everything over in the underground parking garage of the Subaru Building in Shinjuku, Tokyo, I drove up to street level. Quietness is one of the Subaru 1000's strong points, but in Sports form its sound is altogether more powerful: on the underground ramp, the low, heavy exhaust note reverberated from all sides, giving the car a distinctly wild character.
+After checking everything over in the underground parking garage of the Subaru Building in Shinjuku, Tokyo, I drove up to street level. Quietness is one of the Subaru 1000's strong points, but in Sports form its sound is altogether more powerful: on the underground ramp, the low, heavy exhaust note reverberated from all sides, creating a distinctly wild atmosphere.
 
 I filled the tank and set the trip recorder to zero. The idle was steady at about 900rpm. As I discovered later, however, after hard driving the idle became somewhat rough, the needle wavering unsteadily between 600-700rpm. I was told that this is unavoidable in a car with SU-type variable-venturi carburetors and nothing much to worry about.
 
