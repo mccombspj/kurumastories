@@ -14,7 +14,7 @@ title: "Subaru Leone"
 
 
 
-<h2>Subaru Leone Stories</h2>
+<h2>Leone Stories</h2>
 
 
 
