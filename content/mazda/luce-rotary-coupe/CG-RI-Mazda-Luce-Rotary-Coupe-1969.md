@@ -88,7 +88,7 @@ As in all Toyo Kogyo rotary engines since the Cosmo, the induction and exhaust a
 
 Compared with the earlier Familia/Cosmo rotary units, the main changes are the adoption of a quieter chain-driven oil pump and a water-cooled oil cooler mounted directly above the engine, eliminating the need for external oil hoses.
 
-The powertrain layout closely resembles that of the NSU Ro80, with the engine suspended ahead of the front axle line, followed in sequence by the differential and 4-speed gearbox. The driveshafts employ Burfield constant-velocity joints both inboard and outboard, while the inner joints are designed to accommodate a limited degree of axial movement, thereby eliminating the undesirable sliding joints often found on powerful front-wheel-drive cars.
+The powertrain layout closely resembles that of the NSU Ro80, with the engine suspended ahead of the front axle line, followed in sequence by the differential and 4-speed gearbox. The driveshafts use Birfield-type constant-velocity joints both inboard and outboard, while the inner joints are designed to accommodate a limited degree of axial movement, thereby eliminating the undesirable sliding joints often found on powerful front-wheel-drive cars.
 
 As already mentioned, radial tires are fitted as standard equipment. Their size–165HR-15–is exceptionally large by the standards of Japanese passenger cars.
 
