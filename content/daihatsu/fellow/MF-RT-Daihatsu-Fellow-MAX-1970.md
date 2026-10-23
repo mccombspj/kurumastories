@@ -276,7 +276,7 @@ That is, I wonder whether it's really young people who are buying them. Of cours
 
 <b>Ono:</b> When we introduced this car, we were concerned about how the traditional “Daihatsu faithful” would react. It has been on sale for less than two months, but so far it seems to have been received surprisingly well by family buyers too.
 
-<b>Ishikawa:</b> I fully understand Mr. Hoshijima's point. But the suspension is only about 4% stiffer. In terms of frequency, I think the difference is only about 0.15Hz. So it really comes down to where we strike the balance between ride comfort, handling, and stability....
+<b>Ishikawa:</b> I fully understand Mr. Hoshijima's point. But the suspension is only about 4% stiffer. In terms of frequency, I think the difference is only about 0.15Hz. So it really comes down to where we strike the balance between ride comfort, handling, and stability...
 
 <b>Hoshijima:</b> The feel changes quite a lot depending on the tire pressures. I drove it with 1.8kg/cm² in front and 1.4kg/cm² at the rear, but the rear still felt rather harsh over bumps, so I lowered the pressure further. I didn't find the front too firm.
 

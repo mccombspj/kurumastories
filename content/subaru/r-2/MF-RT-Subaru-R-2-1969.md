@@ -222,7 +222,7 @@ But I have the feeling that the roll may build fairly quickly at first and then 
 
 <b>Saito:</b> Looking at the photographs, there does seem to be a bit of that tendency.
 
-<b>Hirao:</b> So the roll is relatively large at low g.... Perhaps at a certain point the rubber bushings come under full tension and stiffen, which would account for the curve straightening out.
+<b>Hirao:</b> So the roll is relatively large at low g... Perhaps at a certain point the rubber bushings come under full tension and stiffen, which would account for the curve straightening out.
 
 <b>Hoshijima:</b> Going back to the question of mud splash, you mentioned that the front wheels had been moved inward because of that...
 

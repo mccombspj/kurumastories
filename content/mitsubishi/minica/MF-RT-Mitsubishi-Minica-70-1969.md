@@ -109,11 +109,11 @@ We also have the 3-door Colt 11-F, but this particular type is a first in Japan,
 
 <b>Higuchi:</b> I enjoy leisure activities myself, so I'd like to have a light van, but the trouble is that everything you're carrying is completely exposed. You see people putting a cloth over their luggage for that reason, but this car has a cover neatly fitted over the top. And then there's the idea of “It's not a door, it's a flap.” You've really paid attention to the details.
 
-<b>Watari:</b> I think this is almost too luxurious for a kei car. Well, I understand the desire to make it as luxurious as possible, since that's what Japanese buyers like, but....
+<b>Watari:</b> I think this is almost too luxurious for a kei car. Well, I understand the desire to make it as luxurious as possible, since that's what Japanese buyers like, but...
 
 <b><u>A Choice of Air-Cooled or Water-Cooled Engines</b></u>
 
-<b>Magazine:</b> You've also increased the power of the engine....
+<b>Magazine:</b> You've also increased the power of the engine...
 
 <b>Imai:</b> We've been producing air-cooled two-stroke engines for about eight years now, and have built roughly 700,000 of them. Since the end of last year, we've also been producing a water-cooled two-stroke. With the Minica 70, both water-cooled and air-cooled engines are available. Previously, the water-cooled engine produced 23hp and the air-cooled engine 21hp, but with various improvements this time, we've increased the output of each by 5hp.
 

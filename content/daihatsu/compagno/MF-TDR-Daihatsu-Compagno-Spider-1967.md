@@ -158,7 +158,7 @@ Although I had already been driving hard for more than 100km, the fuel-gauge nee
 
 The oil-temperature gauge, too, always indicated around 90°C, with no change at all whether climbing, crawling through city traffic or running at high speed. Of course, there was the proper amount of oil in the engine and I had not been driving particularly hard, so there was no reason why the reading should have changed. But if the oil-temperature reading is not particularly necessary in ordinary driving, perhaps the relatively responsive water-temperature gauge should occupy the most easily-seen central position, instead of putting the oil-temperature gauge there together with the oil-pressure gauge.
 
-If I may make just one more complaint about the gauges, despite the trouble taken to use non-reflecting glass, I cannot help feeling that the bright chrome-plated metal gauge rings upset the balance of the whole arrangement. If these were also finished in matte black, the driver could drive without being bothered at all by reflections from the gauges....
+If I may make just one more complaint about the gauges, despite the trouble taken to use non-reflecting glass, I cannot help feeling that the bright chrome-plated metal gauge rings upset the balance of the whole arrangement. If these were also finished in matte black, the driver could drive without being bothered at all by reflections from the gauges...
 
 <b><u>It Can Be Made "Harder" with Optional Equipment</b></u>
 
@@ -176,7 +176,7 @@ But this is not a car intended to carry four people over long distances. Rather,
 
 <b><u>The Advantage of Seating Four</b></u>
 
-Surely, the fact that Daihatsu has made it possible to seat four people in a car with this amount of space and performance represents thoughtful consideration on the manufacturer’s part. Sporting cars have appeared one after another recently, yet most are two-seaters without even an occasional auxiliary seat, and there are strong calls for manufacturers to “at least make them 2+2s.” By comparison, Daihatsu’s approach is well suited to conditions in Japan, and one is inclined to think that the Spider deserves to sell better than it does....
+Surely, the fact that Daihatsu has made it possible to seat four people in a car with this amount of space and performance represents thoughtful consideration on the manufacturer’s part. Sporting cars have appeared one after another recently, yet most are two-seaters without even an occasional auxiliary seat, and there are strong calls for manufacturers to “at least make them 2+2s.” By comparison, Daihatsu’s approach is well suited to conditions in Japan, and one is inclined to think that the Spider deserves to sell better than it does...
 
 One thing that struck me during this test was that, more than two years after the Compagno first appeared, detail improvements have clearly been made throughout, even in areas that are not easily visible. Perhaps this reflects the recent rapid growth in the number of people attracted to this kind of sporting character, and the manufacturer’s efforts to make the car easier to use and more considerate of their needs.
 
