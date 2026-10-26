@@ -81,35 +81,35 @@ Closely spaced gear ratios with smooth progression from one gear to the next als
 
 <b><u>A Questionable Shift Pattern</b></u>
 
-The Sunny's 5-speed gearbox uses Porsche-type servo synchromesh. The Porsche type certainly provides powerful synchro action, but it also has some well-known quirks. Shift effort is generally on the heavy side (even disengaging a gear requires a fair amount of force), and because engagement lacks a crisp, positive feel, one's shifting tends to slow down overall. Under sporting driving conditions, this can sometimes upset the driver's rhythm.
+The Sunny's 5-speed gearbox uses Porsche-type servo synchromesh. The Porsche type certainly provides powerful synchro action, but it also has some well-known quirks. Shift effort is generally on the heavy side (even disengaging a gear requires a fair amount of force), and because engagement lacks a crisp, positive feel, one's shifting tends to become slower and more deliberate. Under sporting driving conditions, this can sometimes upset the driver's rhythm.
 
 For these reasons, I have never been especially fond of this type of gearbox. In the Sunny, however, the story is rather different.
 
 There is still the characteristic lack of crispness in the shift action, but effort is surprisingly light, and there is little resistance when pulling the lever out of gear. As a result, even when making rapid, repeated upshifts and downshifts, it rarely disrupts the rhythm of one's driving.
 
-Shift throws are also quite reasonable. The movement across the gate, however, is a little too long.
+Shift throws are also quite reasonable, although the movement across the gate is a little wide.
 
-The shift pattern is another matter. Every other domestic 5-speed gearbox places fifth gear at the upper right of the H-pattern and reverse at the lower right. The Sunny, by contrast, places reverse at the upper left and first gear at the lower left. This is the same layout commonly used in racing gearboxes. Once the car is moving, it works exceptionally well, but for a road car, where first gear is used frequently, I have some reservations.
+The shift pattern is another matter. Every other domestic 5-speed gearbox places fifth gear at the upper right of the H-pattern and reverse at the lower right. The Sunny, on the other hand, places reverse at the upper left and first gear at the lower left. The same layout is commonly used in racing gearboxes. Once the car is moving, this works extremely well, but for a road car, where first gear is used frequently, I have some reservations.
 
-In racing, fourth and fifth gears are used almost constantly, while first serves little purpose beyond the standing start. Naturally, then, it is more important to optimize the transition between fourth and fifth than between first and second. On the road, however, it is the opposite. The shift between first and second is one of the most frequently used, while changes between fourth and fifth are relatively infrequent. If that is the case, would it not be better for a road car to use a shift pattern that favors the first-to-second transition?
+In racing, fourth and fifth gears are used almost constantly, while first serves little purpose beyond the initial start. Naturally, then, the shift between fourth and fifth becomes more important than that between first and second. On the road, however, it is the opposite. The shift between first and second is one of the most frequently used, while changes between fourth and fifth are relatively infrequent. In that case, would it not be better for a road car to use a shift pattern that favors the first-to-second shift?
 
-Even if one were prepared to risk a speeding ticket on public roads, there are very few places where fifth gear can be used in the same way it is on a racing circuit. And even if such a road did exist, driving that way would hardly be permissible. 
+Even if one were prepared to risk a speeding ticket on public roads, there are very few places where fifth gear can be used in the same way it is on a racing circuit. And even if such a road did exist, driving that way is hardly approved of. 
 
-Likewise, even in rally-style driving on an empty mountain road, one would hardly ever use fourth gear, let alone fifth, whether climbing or descending.
+Likewise, even in rally-style driving on an empty mountain road, one would hardly ever use fourth gear, let alone fifth, whether driving uphill or downhill.
 
-First gear, on the other hand, comes into use surprisingly often.
+First gear, on the other hand, is used surprisingly often.
 
-During this test I covered a considerable distance on unpaved mountain roads. As mentioned earlier, the gear ratios themselves are excellent, but on the sharp hairpin bends so often encountered on this kind of road, there were many occasions that called for first gear. In such situations, however, pushing the lever to the left against the tension spring before making the shift tended to introduce a slight hesitation.
+During this test I covered a considerable distance on unpaved mountain roads. As mentioned earlier, the gear ratios themselves are excellent, but on the sharp hairpin bends often encountered on this kind of road, there were many situations that called for first gear. At those times, however, pushing the lever to the left against the return spring before making the shift introduced a slight delay.
 
-Admittedly, there are probably not many drivers who would begrudge the resulting fraction of a second--and the slight disruption of rhythm--when selecting first gear. Those who would are likely limited to the small number of people intending to use the car in rally competition. For that reason, I do not consider it a major criticism.
+Admittedly, there are probably not many drivers who would begrudge the resulting fraction of a second—and the slight disruption of rhythm—when shifting into first. Those who would are likely limited to the small number of people intending to use the car in rally competition. For that reason, I did not consider it a serious criticism.
 
-In everyday driving, however--particularly in crowded city traffic, where first gear is used frequently--I think this extra effort required to engage first is still a drawback.
+In everyday driving, however—particularly in crowded city traffic, where first gear is used frequently—I think this extra effort required to shift into first is a disadvantage.
 
-In addition, I cannot help questioning the wisdom of adopting a shift pattern that differs from every other domestic 5-speed gearbox. A driver accustomed to another 5-speed is almost certain to feel confused for a while after changing to the Sunny, and through force of habit, may well select a gear other than the one intended.
+In addition, I cannot help but question the wisdom of using a shift pattern that differs from every other domestic 5-speed gearbox. A driver who is used to another 5-speed is almost certain to feel confused for a while after changing to the Sunny, and through force of habit, may well select the wrong gear by mistake.
 
 For that reason, until this new shift pattern has become completely second nature, it deserves to be treated with due caution.
 
-I imagine that is the reason it is designed so that a buzzer sounds whenever reverse is selected...
+I imagine that is why it has been designed so that a buzzer sounds whenever reverse is selected...
 
 Even so, setting aside my reservations about the shift pattern, this 5-speed gearbox has a great deal to recommend it.
 

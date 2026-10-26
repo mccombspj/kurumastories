@@ -170,5 +170,5 @@ The front floor retains a transmission tunnel almost as large as that of a rear-
   <span>·</span>
   <a href="/mazda/">Mazda</a>
   <span>·</span>
-  <a href="/mazda/luce-rotary-coupe/">Luce Rotary Coupe</a>
+  <a href="/mazda/luce/">Luce</a>
 </div>

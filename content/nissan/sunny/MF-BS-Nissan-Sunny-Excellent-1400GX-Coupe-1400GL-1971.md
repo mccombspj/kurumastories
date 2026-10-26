@@ -61,7 +61,7 @@ On the other hand, several points were raised concerning expressway driving. Bet
 
 For further details, we invite you to read the individual reports from our specialists on the following pages.
 
-<b><u>Performance: A Remarkable Increase</b></u> <i>(Osamu Mochizuki)</i>
+<b><u>Performance: A Remarkable Advance</b></u> <i>(Osamu Mochizuki)</i>
 
 The Sunny series began at 1000cc and has now developed all the way to 1400cc. It is a typical example of the trend towards "deluxe-ification" in mass-market cars, but as far as performance is concerned, it offers more than enough for a car intended as everyday transportation.
 

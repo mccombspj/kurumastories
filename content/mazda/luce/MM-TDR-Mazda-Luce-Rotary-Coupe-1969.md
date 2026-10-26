@@ -178,5 +178,5 @@ Working with the same rotary-engine challenges, Mazda has raised its level of en
   <span>·</span>
   <a href="/mazda/">Mazda</a>
   <span>·</span>
-  <a href="/mazda/luce-rotary-coupe/">Luce Rotary Coupe</a>
+  <a href="/mazda/luce/">Luce</a>
 </div>

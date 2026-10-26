@@ -228,5 +228,5 @@ This time, my drive amounted to no more than a very brief road impression. The L
   <span>·</span>
   <a href="/mazda/">Mazda</a>
   <span>·</span>
-  <a href="/mazda/luce-rotary-coupe/">Luce Rotary Coupe</a>
+  <a href="/mazda/luce/">Luce</a>
 </div>

@@ -31,17 +31,17 @@ Ordinarily, most Nissan models bearing the “GX” designation are equipped wit
 
 All models are also designed to run on regular gasoline. With a compression ratio of 8.6, the engine develops a maximum output of 140ps/5200rpm and maximum torque of 22.0kgm/4000rpm.
 
-Until now, the cars tested in these pages have often been in the neighborhood of 1500cc. As a result, when considering such matters as performance, ride comfort, handling and stability, we may at times have made criticisms or demands from an idealized standpoint of how a car ought to be, exceeding what could reasonably be expected of a particular test car—whether because of the manufacturer’s product policy or simply its physical limitations.
+Up to now, the cars tested in these pages have often been in the neighborhood of 1500cc. As a result, when considering matters such as performance, ride comfort, handling and stability, we may at times have made criticisms or demands from an idealized standpoint of how a car ought to be, beyond what could reasonably be expected of the test car—whether because of the manufacturer’s product policy or simply its physical limitations.
 
-This month’s test car, however, was the Cedric 2600GX, which by Japanese standards falls into the top class of passenger cars—and, moreover, it was equipped with Nissan Full Automatic transmission. Normally, after completing the test and returning to our base at “Fantasy” (a drive-in on Tamagawa-dori near the Tokyo Interchange of the Tomei Expressway), all sorts of observations emerge naturally during the ensuing meeting, without anyone in particular setting the discussion in motion. This time, however, things were a bit different.
+This month’s test car, however, was the Cedric 2600GX, which by Japanese standards falls into the highest echelon of passenger cars—and, moreover, it was equipped with Nissan Full Automatic transmission. Normally, after completing the test and returning to our base at “Fantasy” (a drive-in on Tamagawa-dori near the Tokyo Interchange of the Tomei Expressway), all sorts of observations come out naturally during the meeting that follows, without any one person setting the discussion in motion. This time, however, things were a bit different.
 
-Whether in ride comfort or performance, there were no particular complaints or demands to make, and each of our specialists expressed a general degree of satisfaction.
+Whether in ride comfort or performance, there were no particular complaints or demands to make, and each of our specialists said that they were generally satisfied.
 
-As the conversation gradually got under way, however, the subject of the power steering began to emerge. This was probably because there were fairly strong winds on the day of the test, and on the Tomei we were repeatedly buffeted by crosswinds and had to correct our course. The fact that we were not used to power steering, and as a result found it somewhat disconcerting on the bends in the Hakone mountains, may also have helped bring the subject up.
+As the conversation slowly got under way, however, the subject of the power steering came up. This was probably because there were fairly strong winds on the day of the test, and on the Tomei we were repeatedly buffeted by crosswinds and had to make corrections. The fact that we were not used to power steering, and as a result found it somewhat disconcerting on the bends in the Hakone mountains, may also have helped bring the subject up.
 
 This subject is covered in detail later, in the "Handling & Stability" section, but in brief the point is this: the driver perceives the amount of steering lock differently in a car with power assistance and one without it.
 
-In an ordinary car without power assistance, the driver can perceive the steering angle through the steering effort—the torque input—whereas in a power-assisted car, the steering angle is perceived through the resulting movement of the car.
+In an ordinary car without power assistance, the driver can perceive the steering angle through the effort at the wheel—the torque input—whereas in a power-assisted car, the steering angle is perceived through the resulting movement of the car itself.
 
 Other matters discussed included whether Japanese drivers demand too much of their cars, and whether it might not be time for cars with principles and convictions of their own to appear, rather than cars that simply kneel before every demand made by the customer.
 

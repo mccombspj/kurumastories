@@ -348,7 +348,7 @@ As for the question of cost, it isn't particularly expensive either. The mountin
 
 <b>Magazine:</b> What were the results of the visibility measurements?
 
-<b>Hirata:</b> With the seat in its central position, the visible area through the windshield was 88°, and the vertical field of view was 32°. Through the rear window, the visible area was 46.5° and the vertical field 13.5°. The windshield-wiper coverage was 63%, although there is a fairly large unwiped area in the center.
+<b>Hirata:</b> With the seat in its central position, the visible area through the windshield was 88°, and the vertical field of view was 32°. Through the rear window, the visible area was 46.5° and the vertical field 13.5°. The windshield-wiper coverage was 63°, although there is a fairly large unwiped area in the center.
 
 My impression from taking the measurements was that the interior rearview mirror is a little small. I'd like it to be somewhat wider. As for the wipers, I think it might be better simply to make the right-hand wiper blade a little longer.
 

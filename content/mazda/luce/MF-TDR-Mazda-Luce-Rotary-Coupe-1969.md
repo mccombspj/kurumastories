@@ -201,5 +201,5 @@ Finally, I should add that on my round trip from Tokyo to Hakone, the tolls on t
   <span>·</span>
   <a href="/mazda/">Mazda</a>
   <span>·</span>
-  <a href="/mazda/luce-rotary-coupe/">Luce Rotary Coupe</a>
+  <a href="/mazda/luce/">Luce</a>
 </div>
