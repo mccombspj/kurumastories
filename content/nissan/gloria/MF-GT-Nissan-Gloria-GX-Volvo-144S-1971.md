@@ -72,7 +72,7 @@ Our "deliberately provocative" series of foreign-and-domestic tests, which began
 
 When looking at European cars, one cannot help but get the impression, based on their styling, that they are a bit delicate compared with domestic models. The Swedish-made Volvo 144S, however, is an exception. It is a car imbued with a sense of sturdiness and solidity.
 
-This is hardly surprising. Having been developed under the harsh conditions of Scandinavian snow and mud, it is a very tough car with formidable underlying strength.
+This is hardly surprising. Having been developed under the harsh conditions of Scandinavian snow and mud, it is a very tough car with great underlying strength.
 
 Meanwhile, the newly updated Gloria GX has just undergone a full model change. As is well known, it now shares its basic structure with the Cedric. Only minor changes have been made to the front and rear styling; fundamentally, their mechanicals are the same.
 
@@ -96,7 +96,7 @@ The Gloria, on the other hand, is elegant, dignified, and lavishly equipped--a c
 
 Both cars follow a straight-lined, notchback silhouette--exactly the shape that comes to mind when one imagines what a “car” ought to look like. If you asked a child to draw a car, chances are it would look very much like these.
 
-This basic shape is practical, rational, and unadventurous. It’s a thoroughly orthodox solution for making the most of interior space while keeping proportions sensible. And indeed, both cars boast interiors spacious enough to feel generous even for long trips, with correspondingly large trunks. To balance these proportions, the rear overhangs on both models are pronounced. At the height of the long-nose, short-deck craze, this might have seemed a little old-fashioned, but the “long-tail” design somehow lends the side profile a convincing sense of speed and flow.
+This basic shape is practical, rational, and unadventurous. It’s a thoroughly orthodox solution for making the most of interior space while keeping proportions sensible. And indeed, both cars boast interiors spacious enough to feel generous even for long trips, with large trunks to match. To balance these proportions, the rear overhangs on both models are large. At the height of the long-nose, short-deck craze, this might have seemed a little old-fashioned, but the “long-tail” design somehow lends the side profile a convincing sense of speed and flow.
 
 Both test cars were four-door sedans. The Volvo features an extra window between the rear door and quarter panel, a so-called "six-light" design. This, combined with a light-colored interior, makes the cabin feel remarkably airy and open--the generous glass area contributes a great deal to that impression.
 
@@ -106,11 +106,11 @@ Another curious point: the Gloria does not have front quarter windows, but the f
 
 In reality, visibility in the Gloria is probably better than in the Volvo. It may simply be that differences in cabin brightness create this perception.
 
-The Volvo’s styling, taken as a whole, can appear somewhat too simple. Compared with truly plain, boxy sedans like the Peugeot 404 or Fiat 124, it does have a slight custom-like character. However, when set against the Gloria, the Volvo's simplicity gives it a lighter presence, while the Gloria emphasizes a more substantial, executive feel.
+The Volvo’s styling, taken as a whole, can appear somewhat too simple, though compared with truly plain, boxy sedans like the Peugeot 404 or Fiat 124, it does have a slight "custom" character. When set against the Gloria, the Volvo's simplicity gives it a lighter presence, while the Gloria has a more substantial, executive feel.
 
-This difference is especially apparent at the front. The Volvo uses a two-headlamp layout, while the Gloria has a more typical four-headlamp arrangement. (These days, four lamps have become standard, though they once seemed rather novel.) The Volvo’s two-lamp setup somehow gives it the look of a smaller-displacement car--something in the 1000-1400cc class--despite its actual size and performance.
+This difference is especially apparent at the front. The Volvo uses a two-headlamp layout, while the Gloria has a more typical four-headlamp arrangement. (These days, four lamps have become almost standard, though they once seemed rather novel.) The Volvo’s two-lamp setup somehow gives it the look of a smaller-displacement car--something in the 1000-1400cc class--despite its actual size and performance.
 
-The Volvo’s body width is 173cm in standard form, which would normally qualify is as a "3-number" car in Japan. However, for the Japanese market, details such as recessed door handles and the omission of side moldings bring it down to 169.5 cm, just within “5-number” limits. Even so, despite being wider than the Gloria, it somehow appears narrower. This may be due in part to the headlamps being set inward, with parking lamps placed toward the outer edges, which visually reduce the car's width.
+The Volvo’s body width is 173cm in standard form, which would normally qualify is as a "3-number" car in Japan. However, for the Japanese market, details such as recessed door handles and the omission of side moldings bring it down to 169.5 cm, just within “5-number” limits. Even so, despite being wider than the Gloria, it somehow appears narrower. This may be due in part to the headlamps being set inward, with parking lamps placed toward the outer edges, which visually reduces the car's width.
 
 Looking at the Volvo as a whole, it is composed of sharp, well-defined lines. The hood, side fenders, and roof edges are formed with crisp angles and flat surfaces, almost like origami folds. This continues at the rear, with a cut-off tail that gives a clean, refreshing impression.
 
