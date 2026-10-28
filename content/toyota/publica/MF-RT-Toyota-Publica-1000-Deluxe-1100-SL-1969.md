@@ -6,7 +6,7 @@
 
 
 
-title = "Toyota Publica 1000 Deluxe and 1100 SL (1969)"
+title = "Toyota Publica 1000 Deluxe and 1100SL (1969)"
 weight = 10
 
 

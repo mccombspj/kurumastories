@@ -263,9 +263,6 @@
     <loc>http://localhost:1313/nissan/cherry/mf-bs-nissan-cherry-coupe-1200-x-1-1971/</loc>
     <lastmod>2026-03-20T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nissan/cherry/mf-bs-nissan-cherry-sedan-1200-gl-l-1972/</loc>
-    <lastmod>2026-03-20T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/mazda/familia/mf-tdr-mazda-familia-rotary-ss-1969/</loc>
     <lastmod>2026-02-24T04:50:49-07:00</lastmod>
   </url><url>
@@ -340,6 +337,9 @@
   </url><url>
     <loc>http://localhost:1313/isuzu/bellett/mm-tdr-isuzu-bellett-1600gtr-1969/</loc>
     <lastmod>2026-05-27T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/cherry/mf-bs-nissan-cherry-sedan-1200-gl-l-1972/</loc>
+    <lastmod>2026-10-27T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/savanna/mf-bs-mazda-savanna-gs-ii-re-matic-1972/</loc>
     <lastmod>2026-07-28T04:50:49-07:00</lastmod>
@@ -641,13 +641,19 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/cherry/</loc>
+    <lastmod>2026-10-27T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/</loc>
+    <lastmod>2026-10-27T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-10-27T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mazda/luce/</loc>
     <lastmod>2026-10-26T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/</loc>
-    <lastmod>2026-10-26T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-10-26T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/publica/</loc>
@@ -696,9 +702,6 @@
     <lastmod>2026-10-11T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/cedric/</loc>
-    <lastmod>2026-10-10T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/</loc>
     <lastmod>2026-10-10T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/subaru/leone/</loc>
@@ -793,9 +796,6 @@
   </url><url>
     <loc>http://localhost:1313/toyota/carina/</loc>
     <lastmod>2026-05-11T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/cherry/</loc>
-    <lastmod>2026-05-09T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/crown/</loc>
     <lastmod>2026-04-23T04:50:49-07:00</lastmod>
