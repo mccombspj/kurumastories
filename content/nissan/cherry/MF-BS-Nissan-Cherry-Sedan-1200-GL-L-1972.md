@@ -264,6 +264,9 @@ The aim of this comprehensive test series is to evaluate a car’s overall perfo
 
 Each category is represented by a circle, with the shaded (black) portion indicating the evaluation score. When the size of these filled circles is roughly equal, the car can be said to be well balanced across all areas. When they vary significantly, the result is a car with a more distinctive, individual character.
 
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-BS-Nissan-Cherry-Four-Door-1200-GL-L-1972-Gallery" >}}
 
 ---
 
