@@ -70,7 +70,7 @@ At the same time, the wide tread contributes to greater stability and provides t
 
 <b>Yashiro:</b> That's right. A mass-market car has to appeal to a very broad range of users, so we chose to use the proven suspension from the existing Galant--something with a solid track record that customers could trust.
 
-In a sense, we kept the underlying structure exactly as it was and simply changed the outer "costume." If you think of the car's body as a garment, we merely changed the clothes.
+In a sense, we kept the underlying structure exactly as it was and only changed the outer "costume." If you think of the car's body as a garment, we simply changed the clothes.
 
 We felt it was the responsibility of a manufacturer building mass-market cars to create something that customers could drive with complete confidence from the very first day.
 
@@ -88,7 +88,7 @@ From the standpoint of development, you could say we took an existing car and sh
 
 <b>Magazine:</b> There are cars with this fast-notch style in Europe as well, aren't there?
 
-<b>Yashiro:</b> In terms of its proportions, it's an American car. The costume it wears, however, is European fashion.
+<b>Yashiro:</b> In terms of its proportions, it's an American car. The clothes it wears, however, are European fashion.
 
 It's not that we set out to imitate a European car. When you shorten the rear of the body, you inevitably run into difficulties with the trunk opening. We solved that problem while also creating a fastback-like profile when viewed from the side.
 
@@ -108,7 +108,7 @@ You describe it as a purely Japanese design, and I think that was true of the Ga
 
 With the FTO, however, it feels as though that partnership has finally borne fruit--if I may put it in a positive sense.
 
-<b>Hirao:</b> I don't think it's been influenced nearly as much as people say. Still, it's advantageous for people to believe it has, so perhaps it ends up being presented that way whether it was intended or not.
+<b>Hirao:</b> I don't think it's been influenced nearly as much as people say. Still, it's advantageous for people to believe that it has, so perhaps it ends up being presented that way whether it was intentional or not.
 
 <b>Hoshijima:</b> At the very least, I think the rear styling is outstanding by domestic standards.
 
@@ -118,7 +118,7 @@ With the FTO, however, it feels as though that partnership has finally borne fru
 
 <b>Yashiro:</b> I think your observation is quite correct. The American flavor is certainly stronger than any European influence.
 
-What has happened, however, is that American cars themselves have become cleaner and have moved somewhat closer to European tastes. So perhaps the best description would be American-car proportions clothed in the cleaner styling of contemporary European cars.
+What has happened, however, is that American cars themselves have become cleaner and have moved somewhat closer to European tastes. So the best description may be American-car proportions clothed in the cleaner styling of contemporary European cars.
 
 The coordinated-options program is another of the car's distinguishing features. It's aimed particularly at GIII buyers.
 
@@ -262,7 +262,7 @@ When manufacturers publish only their most favorable numbers, ordinary drivers i
 
 Interior noise measured 63.5 phons at 40km/h, 68 phons at 60km/h, 71 phons at 80km/h, 76 phons at 100km/h, and 81 phons at 120km/h. Exterior noise measured 75 phons at a steady 50km/h and 83.5 phons during acceleration.
 
-I think it's fair to say that both the sprung- and unsprung-mass frequencies are comparatively low.
+I think it's fair to say that both the sprung- and unsprung-mass frequencies are relatively low.
 
 In a sense, this may be a car suited to the tastes of a more comfort-oriented owner.
 
