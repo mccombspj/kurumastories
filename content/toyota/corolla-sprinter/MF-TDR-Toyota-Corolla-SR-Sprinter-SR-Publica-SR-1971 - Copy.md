@@ -55,7 +55,7 @@ I suppose it’s a compromise that was reached after considering ride comfort, d
 
 <b>C:</b> I was also left with a strong impression that it’s an easy car to handle.
 
-<b>D:</b> The steering is about 3.3 turns lock to lock, but ideally I’d like less than three. On dirt, being able to apply opposite lock quickly is an important part of controlling the car.... I’d also like a little less play in the steering. That can be adjusted by the owner, of course, so it can be set to suit individual preference....
+<b>D:</b> The steering is about 3.3 turns lock to lock, but ideally I’d like less than three. On dirt, being able to apply opposite lock quickly is an important part of controlling the car... I’d also like a little less play in the steering. That can be adjusted by the owner, of course, so it can be set to suit individual preference...
 
 <b>B:</b> The ride is clearly firmer than the SL’s, but young people who enjoy sporting cars will probably prefer it that way.
 
@@ -103,7 +103,7 @@ There’s nothing wrong with expressing your own individuality that way.
 
 <b>D:</b> Black looks purposeful and has a sporting character, but it also makes the interior feel smaller. Sometimes it can even feel a bit oppressive. Personally, I’m not very fond of it.
 
-<b>A:</b> The driving position is good. There’s nothing objectionable about the shape of the seats either. For a small car, there’s also a reasonable amount of space for the left foot....
+<b>A:</b> The driving position is good. There’s nothing objectionable about the shape of the seats either. For a small car, there’s also a reasonable amount of space for the left foot...
 
 <b>D:</b> But in something like an SR, I’d like to see at least a footrest for the left foot. There’s certainly enough room to fit a narrow one.
 
@@ -121,7 +121,7 @@ For a car sold on its sporting character, that is an area that needs reconsidera
 
 <b>A:</b> The radio and rear defogger are optional, but both are actually necessities in a rally car. The radio in particular is indispensable for checking the time signals.
 
-<b>D:</b> According to the manufacturer, the radio was made optional so that the customer could choose between push-button and automatic-search types.... But I can’t help thinking it’s just a way of lowering the base price.
+<b>D:</b> According to the manufacturer, the radio was made optional so that the customer could choose between push-button and automatic-search types... But I can’t help thinking it’s just a way of lowering the base price.
 
 <b><u>Engine, Transmission, Brakes: What Does the New 5-Speed Gearbox Offer?</b></u>
 
@@ -139,7 +139,7 @@ The SR’s red zone starts at 6500rpm, but from around 5500 the "pickup" suddenl
 
 <b>D:</b> In a word, it feels heavy as it revs. It's a noisy engine, too.
 
-<b>A:</b> As far as engine noise is concerned, I think it’s about average for this class. You certainly couldn’t call it quiet, though....
+<b>A:</b> As far as engine noise is concerned, I think it’s about average for this class. You certainly couldn’t call it quiet, though...
 
 With an engine having these characteristics, the 4-speed gearbox, with more speed available in first and second gear, might actually be a better match.
 
@@ -203,7 +203,7 @@ Externally, the SR is distinguished from the SL by its broad side stripes, the S
 
 <b>D:</b> On dirt it’s easy to make the car slide, so under conditions where absolute speeds are low and there’s a succession of tight corners, I think it could actually be quite fast.
 
-<b>A:</b> On dirt, the fact that it reaches the reverse point easily at low speeds makes it suitable, in one sense, as a beginner’s car. It would still be dangerous in places where there’s more than enough power, of course, but on an uphill section where the car is relatively underpowered, you should be able to practice sliding without too much risk. The price makes it ideal as a beginner's car as well....
+<b>A:</b> On dirt, the fact that it reaches the reverse point easily at low speeds makes it suitable, in one sense, as a beginner’s car. It would still be dangerous in places where there’s more than enough power, of course, but on an uphill section where the car is relatively underpowered, you should be able to practice sliding without too much risk. The price makes it ideal as a beginner's car as well...
 
 <b>D:</b> For charging over rough roads, I’d still like somewhat higher damper rates. The front in particular feels a little weak in compression.
 
