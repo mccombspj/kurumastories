@@ -110,6 +110,9 @@
     <loc>http://localhost:1313/toyota/corolla-sprinter/mf-rtd-toyota-sprinter-sr-1971/</loc>
     <lastmod>2025-11-25T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/honda/honda-life/mf-bs-honda-life-touring-gs-1972/</loc>
+    <lastmod>2026-10-30T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/toyota/publica/mf-rt-toyota-publica-1000-deluxe-1100-sl-1969/</loc>
     <lastmod>2026-10-23T04:50:49-07:00</lastmod>
   </url><url>
@@ -653,13 +656,19 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/honda/honda-life/</loc>
+    <lastmod>2026-10-30T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/honda/</loc>
+    <lastmod>2026-10-30T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-10-30T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/toyota/publica/</loc>
     <lastmod>2026-10-29T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/</loc>
-    <lastmod>2026-10-29T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-10-29T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/cherry/</loc>
@@ -694,9 +703,6 @@
   </url><url>
     <loc>http://localhost:1313/mitsubishi/</loc>
     <lastmod>2026-10-17T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/honda/</loc>
-    <lastmod>2026-10-16T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/honda-z/</loc>
     <lastmod>2026-10-16T04:50:49-07:00</lastmod>
