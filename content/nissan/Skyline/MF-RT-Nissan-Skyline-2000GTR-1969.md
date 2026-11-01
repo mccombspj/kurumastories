@@ -353,11 +353,15 @@ Other options include a high-flow electromagnetic fuel pump and harder brake lin
 
 <b>Hirao:</b> I think achieving 200ps should be quite easy.
 
-<b>Magazine:</b> With an engine like this, one might hope for an even more overtly sporting style--a version like that would be great to see as well.
+<b>Magazine:</b> With an engine like this, one might hope for even more overtly sporting styling--a version like that would be great to see as well.
 
 <b>Tanaka:</b> That’s what some people say. On the other hand, there are also those who appreciate that, despite its high performance, it doesn't have an overly specialized appearance and can be used in everyday situations. It's a difficult balance to strike (laughs).
 
 <b>Magazine:</b> Thank you all for your time.
+
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MF-RT-Nissan-Skyline-2000GT-R-1969-Gallery" >}}
 
 ---
 

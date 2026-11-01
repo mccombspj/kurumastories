@@ -43,7 +43,7 @@ Looking at road conditions in Japan today, however, we have to contend with two 
 
 <b>Yamamoto:</b> The rotary engine is still in the process of development, so there are many things we'd like to do with it. In developing the engine for the Familia Rotary Coupe, we had two main considerations: the character of the car and the further development of the engine itself. As far as the car's character is concerned, the important thing was to provide high performance while ensuring trouble-free operation over a wide range of engine speeds. In other words, we wanted to make sure it was easy to drive at low and medium speeds.
 
-Another consideration was noise, particularly since the car might also be driven in the manner of an ordinary sedan. The rotary engine inherently has relatively few mechanical parts, so in that respect noise is less of a problem. But there are still auxiliary components and a gearbox, and we made considerable efforts to eliminate noise from those sources.
+Another consideration was noise, particularly since the car might also be driven in the manner of an ordinary sedan. The rotary engine inherently has relatively few mechanical parts, so in that respect noise is less of a problem. But there are still the auxiliary components and gearbox, and we made considerable efforts to eliminate noise from those sources.
 
 As for the engine itself, unlike the Cosmo, this is a car intended for mass production, so we also had to work toward reducing costs as much as possible. Where we could reduce the number of parts even further than we had with the Cosmo, we did so. We also tried to use shapes that would be easier to manufacture and less expensive materials wherever possible. Of course, durability was our foremost consideration. It was also necessary to incorporate the various developments and improvements we had made since the Cosmo.
 
@@ -51,7 +51,7 @@ As for the engine itself, unlike the Cosmo, this is a car intended for mass prod
 
 <b>Magazine:</b> In the Cosmo, the side housings were made of aluminum alloy with a carbon-steel coating applied by thermal spraying, whereas in the Rotary Coupe you've changed to special cast iron. You've also made changes to the oil seals and reduced the number of gears driving the distributor. But these changes don't mean that you've cut corners or simplified things at the expense of quality, do they?
 
-<b>Yamamoto:</b> As for reducing the number of parts, the fact is that we still haven't arrived at any fixed configuration that we can say represents the definitive rotary engine. Eliminating unnecessary parts without sacrificing function is something engineers are constantly striving to do. We may well reduce the number of parts still further in future rotary engines, but that doesn't mean we'll be sacrificing either performance or durability.
+<b>Yamamoto:</b> As for reducing the number of parts, the fact is that we still haven't arrived at any fixed configuration that we can say represents the definitive rotary engine. Eliminating unnecessary parts without sacrificing function is something engineers are constantly striving to do. We may well reduce the number of parts even further in future rotary engines, but that doesn't mean we'll be sacrificing either performance or durability.
 
 In the case of the Rotary Coupe, unlike the Cosmo, we weren't aiming for particularly extreme power output. We've modified the engine to suit a much broader range of uses.
 
