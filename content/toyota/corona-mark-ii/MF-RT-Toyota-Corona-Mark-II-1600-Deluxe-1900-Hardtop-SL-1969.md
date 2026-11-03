@@ -34,7 +34,7 @@ Thus, the central theme of development became not only styling, but also improvi
 
 <b>Higuchi:</b> How does this car relate to the existing Corona, and what are the origins of the name, "Mark II?"
 
-<b>Amano:</b> The Corona has knock-down production facilities in other countries, including Australia and Korea, and its styling has been very well received both domestically and overseas. It would be wasteful to discontinue it entirely. So we decided to freshen the existing Corona with a minor change, and position this as its larger, senior counterpart--hence the name Corona Mark II.
+<b>Amano:</b> The Corona has knock-down production facilities in other countries, including Australia and Korea, and its styling has been very well received both domestically and overseas. It would be a shame to discontinue it entirely. So we decided to freshen the existing Corona with a minor change, and position this as its larger, senior counterpart--hence the name Corona Mark II.
 
 In Japan, I believe this is the first time the “Mark II” designation has been used in this way, but it is quite common in Europe and America. We would like it to be understood as a car that is within the Corona lineage, but advanced one step further.
 

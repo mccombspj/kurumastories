@@ -221,6 +221,9 @@
     <loc>http://localhost:1313/mazda/familia/mf-rt-mazda-familia-rotary-coupe-1968/</loc>
     <lastmod>2026-10-31T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corona/mf-rt-toyota-corona-1600-deluxe-golden-series-1968/</loc>
+    <lastmod>2026-11-02T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/honda/honda-1300/mf-rt-honda-1300-77-custom-99s-1969/</loc>
     <lastmod>2026-02-09T04:50:49-07:00</lastmod>
   </url><url>
@@ -659,13 +662,19 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/toyota/corona/</loc>
+    <lastmod>2026-11-02T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/toyota/</loc>
+    <lastmod>2026-11-02T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-11-02T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mazda/familia/</loc>
     <lastmod>2026-10-31T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/</loc>
-    <lastmod>2026-10-31T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-10-31T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/honda-life/</loc>
@@ -675,9 +684,6 @@
     <lastmod>2026-10-30T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/publica/</loc>
-    <lastmod>2026-10-29T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/</loc>
     <lastmod>2026-10-29T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/cherry/</loc>
@@ -757,9 +763,6 @@
   </url><url>
     <loc>http://localhost:1313/suzuki/</loc>
     <lastmod>2026-09-23T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/toyota/corona/</loc>
-    <lastmod>2026-09-18T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/honda-n360/</loc>
     <lastmod>2026-09-16T04:50:49-07:00</lastmod>

@@ -127,9 +127,9 @@ draft = false
 
 <b>Tajima:</b> The Corona Hardtop series consists of two-door hardtop coupes based on the four-door sedan. Compared with the sedan, the body has been changed considerably.
 
-To describe these changes, below the beltline—that is, below the middle of the side of the body—the main difference is simply that it has two doors, and the floor section is the same as on the sedan. Above the beltline, however, the body has been changed to a coupe or hardtop form. The front and rear windows are consequently set at steeper angles, and since this is a hardtop, there is no center pillar. All of the side windows can also be lowered completely.
+To describe these changes, below the beltline—that is, below the middle of the side of the body—the main difference is simply that it has two doors, and the floor section is the same as on the sedan. Above the beltline, however, the body has been changed to a coupe or hardtop type. The front and rear windows are consequently set at steeper angles, and since this is a hardtop, there is no center pillar. All of the side windows can also be lowered completely.
 
-As for the interior equipment, on both the 1500 with the manual gearbox and the Toyoglide model, the area around the driver's seat is the same as on the Deluxe sedan. The front seats are also the fully reclining separate seats offered as an option on the Deluxe sedan, fitted here as standard equipment. The 1600cc RF51 model, however, was designed with sporting driving in mind, so the gauges have been changed to easy-to-read pointer-type dials, and a tachometer has also been added. Since the rear seat was designed to suit the coupe style, it seats only two even though it is a bench seat. Fold down the backrest, however, and the rear-seat area becomes a luggage area. In other words, the layout has been changed to place the main emphasis on the front seats.
+As for the interior equipment, on both the 1500 with the manual gearbox and the Toyoglide model, the area around the driver's seat is the same as on the Deluxe sedan. The front seats are also the fully reclining separate seats offered as an option on the Deluxe sedan, fitted here as standard equipment. The 1600cc RT51 model, however, was designed with sporting driving in mind, so the gauges have been changed to easy-to-read pointer-type dials, and a tachometer has also been added. Since the rear seat was designed to suit the coupe style, it seats only two even though it is a bench seat. Fold down the backrest, though, and the rear cabin becomes a luggage area. In other words, the layout has been changed to place the main emphasis on the front seats.
 
 All of the variations correspond to models in the sedan range. The 1500 with the 3-speed gearbox (RT50) corresponds to the Deluxe sedan, the Toyoglide model (RT50C) to the Toyoglide-equipped sedan, and the 1600S (RT51) to the 1600S sedan.
 
@@ -143,21 +143,21 @@ The RT51 is available with optional disc brakes at the front and leading-trailin
 
 <b>Magazine:</b> What was the thinking behind providing a corresponding Hardtop model for each of the sedan versions?
 
-<b>Tajima:</b> With the four-door sedan, there is of course some personal use, but we also have to consider family use, use as a company car, and various other purposes, so we provided a range of variations to suit the different preferences involved. The Hardtop is a coupe, so naturally it places greater emphasis on personal use, with priority given to the front-seat occupants. However, that does not mean everyone who buys one will necessarily be interested in sporting driving. For that reason, the Hardtop series also includes a 3-speed model and a Toyoglide model. We have also made the rear seat spacious enough for people of average Japanese height to ride in reasonable comfort.
+<b>Tajima:</b> With the four-door sedan, personal use is of course one consideration, but we also have to consider family use, use as a company car, and various other purposes, so we provide a range of variations to suit the different preferences involved. The Hardtop is a coupe, so naturally it places greater emphasis on personal use, with priority given to the front-seat occupants. However, that does not mean everyone who buys one will necessarily be interested in sporting driving. For that reason, the Hardtop series also includes a 3-speed model and a Toyoglide model. We have also made the rear seat spacious enough to be comfortable for people of average Japanese height to ride in.
 
 <b>Magazine:</b> What sort of production volume are you planning?
 
-<b>Tajima:</b> Since the emphasis is on personal use, the interior appointments and styling are more luxurious, and the price is also higher, so we do not expect the same quantities as the sedan. Still, we have prepared a mass-production line and the necessary facilities. In terms of volume, we anticipate production at a fraction of the sedan's level, with an initial plan of around 1,000 cars.
+<b>Tajima:</b> Since the emphasis is on personal use, the interior appointments and styling are more luxurious, and the price is also higher, so we do not expect to sell the same quantities as the sedan. Still, we have prepared a mass-production line and the necessary facilities. In terms of volume, we anticipate production at a fraction of the sedan's level, with an initial plan of around 1,000 cars.
 
 <b>Tanaka:</b> In terms of actual sales, we expect the 1500 with the manual gearbox (RT50) and the Toyoglide-equipped version (RT50C) to account for the majority. The Hardtop 1600S (RT51), however, is the highest-performance model in the entire Corona range, including the sedans, and since we regard it as a grand touring car, it is the model we have asked you to test this time.
 
 <b>Kumabe:</b> What kind of warranty do you provide on the Hardtop series?
 
-<b>Tajima:</b> The same as on other current Toyota models, of course. For one year or 20,000km, warranty claims will be handled without charge.
+<b>Tajima:</b> Of course, it is the same as on other current Toyota models. For one year or 20,000km, warranty claims will be handled without charge.
 
 <b>Hirao:</b> If you equip this car with the air conditioner offered as an option on the sedan, how much does that add to the price?
 
-<b>Ibaraki:</b> 145,000 yen. However, it cannot be equipped on the sporting 1600S.
+<b>Ibaraki:</b> 145,000 yen. However, it is not available on the sporting 1600S.
 
 <b><u>Hardtop-Type Body</b></u>
 
@@ -171,17 +171,17 @@ The RT51 is available with optional disc brakes at the front and leading-trailin
 
 <b>Kumabe:</b> Is there a significant difference in the body's resistance to deformation depending on whether the center pillar is there or not?
 
-<b>Kawase:</b> Since the floor is shared with the sedan, removing the center pillar does have an effect. However, with some modifications to the rear quarter panels, we were able to obtain rigidity equal to that of the sedan. The rear quarter windows do not simply lower straight down; they lower by rotating through an arc. For this reason, a U-section guide rail runs from the rear quarter panel along this arc and connects directly to the wheel housing, where it also serves as a reinforcing member.
+<b>Kawase:</b> Since the floor is shared with the sedan, removing the center pillar does have an effect. However, with some modifications to the rear quarter panels, we were able to achieve rigidity equal to that of the sedan. The rear quarter windows do not simply lower straight down; they lower by rotating through an arc. For this reason, a U-section guide rail runs from the rear quarter panel along this arc and connects directly to the wheel housing, where it also serves as a reinforcing member.
 
-<b>Tajima:</b> We actually investigated the strength and rigidity of the center pillar on the sedan. From those studies, we had already concluded that rigidity roughly equal to that of the sedan could be obtained by slightly increasing the rigidity of the side members, reinforcing the lower portions of the front pillars so that they could withstand the shocks of the doors opening and closing, reinforcing the roof, and—as on this car—using the channels that guide the windows as structural reinforcement. Also, the results of actual durability testing with this Hardtop showed no difference from the sedan.
+<b>Tajima:</b> We actually investigated the strength and rigidity of the center pillar on the sedan. From those studies, we had already concluded that rigidity roughly equal to that of the sedan could be achieved by slightly increasing the rigidity of the side members, reinforcing the lower portions of the front pillars so that they could withstand the shocks of the doors opening and closing, reinforcing the roof, and—as on this car—using the channels that guide the windows as structural reinforcement. Also, the results of actual durability testing with this Hardtop showed no difference from the sedan.
 
-<b>Yamamoto:</b> We already knew that the bending moment carried by the center pillar was surprisingly small, but this is the first Japanese production car to do away with it, isn't it? Even so, the additional reinforcement must inevitably make the car heavier.
+<b>Yamamoto:</b> We already knew that the bending moment carried by the center pillar was surprisingly small, but this is the first Japanese production car to have it removed, isn't it? Still, the additional reinforcement must inevitably make the car heavier.
 
-<b>Tajima:</b> Actually, the body itself weighs almost exactly the same as the sedan's. The 15kg increase in the quoted vehicle weight is due to the more luxurious equipment. And when we mention roof reinforcement, this is really only intended to keep the roof panel rigid. Also, simply as a result of adopting the coupe style, the roof area is smaller than on the sedan, and I think that alone contributes considerably to its rigidity.
+<b>Tajima:</b> Actually, the body itself weighs almost exactly the same as the sedan's. The 15kg increase in the quoted vehicle weight is due to the more luxurious equipment. Although we mentioned reinforcing the roof, this is really only intended to support the roof panel itself. Also, simply as a result of the coupe style, the roof area is smaller than on the sedan, and I think that alone contributes considerably to its rigidity.
 
 <b><u>As Quiet as the Sedan</b></u>
 
-<b>Yamamoto:</b> Still, until now, when we spoke of a hardtop in Japan, we only meant a car with a removable roof...
+<b>Yamamoto:</b> Still, until now, when we talked about hardtops in Japan, we only meant a car with a removable roof...
 
 <b>Tajima:</b> Here we are using the term in the American sense, meaning a hardtop without a center pillar.
 
@@ -197,7 +197,7 @@ The RT51 is available with optional disc brakes at the front and leading-trailin
 
 <b>Hirao:</b> For Japanese owner-drivers today, being able to say that a car can carry five people has a certain appeal.
 
-<b>Tajima:</b> If there were enough demand, it's not something we couldn't consider.
+<b>Tajima:</b> If there were enough demand, it's not that we couldn't consider it.
 
 <b>Watari:</b> Another thing: when the center pillar was removed, I expected the car to become noisier, but the noise level doesn't seem to be any different from the sedan.
 
@@ -213,13 +213,13 @@ The RT51 is available with optional disc brakes at the front and leading-trailin
 
 <b>Ibaraki:</b> Without the effect of the rain, I think it would be about the same as the 1600S sedan, or perhaps even slightly lower.
 
-<b>Watari:</b> One possibility is that, because there is no center pillar, the rubber at the joint between the two pieces of glass creaks and produces noise.
+<b>Watari:</b> One possibility is that, because there is no center pillar, the rubber at the joint between the two pieces of glass creaks and makes noise.
 
 <b>Hirao:</b> The sound of the rubber rubbing against the glass, you mean.
 
 <b>Watari:</b> It might help to fit something on the inside of the rubber that would produce a softer sound. Still, the Deluxe sedan is the quietest car in this class, so even at these figures you could hardly call this car noisy.
 
-<b>Kawahara:</b> With a hardtop, there are many occasions when you drive with both side windows all the way open. Even at 100km/h on the Meishin Expressway, the noise is not particularly bothersome, and the airflow strikes pleasantly just behind the driver's head. In that respect, I can say that it is extremely comfortable.
+<b>Kawahara:</b> With a hardtop, there are many times when you drive with both side windows all the way open. Even at 100km/h on the Meishin Expressway, the noise is not especially bothersome, and the airflow strikes pleasantly just behind the driver's head. In that respect, I can say that it is extremely comfortable.
 
 <b>Tajima:</b> Also, when measured on the C scale, this car actually gives lower readings than the sedan. Since the coupe layout has reduced the volume of the passenger compartment, from the standpoint of the body itself, it seems that the Hardtop actually has an advantage over the sedan in terms of noise.
 
@@ -267,7 +267,7 @@ According to the manufacturer's published figures, the 0-400m acceleration time 
 
 <b>Tajima:</b> When the opportunity arises, we'd like to consider whether to publish this data.
 
-<b>Oguchi:</b> Next, with the 1600S (RT51) fitted with the 4.111 final-drive ratio, the acceleration figures improve still further: 0-400m takes 17.4 seconds with two people plus the instruments aboard. With the 1500cc three-speed Hardtop (RT50), carrying its full complement of four occupants, the 0-400m time was 19.4 seconds.
+<b>Oguchi:</b> Next, with the 1600S (RT51) fitted with the 4.111 final-drive ratio, the acceleration figures improve still further: 0-400m takes 17.4 seconds with two people plus the instruments aboard. With the 1500cc three-speed Hardtop (RT50), carrying its full load of four occupants, the 0-400m time was 19.4 seconds.
 
 <b>Magazine:</b> How does a 0-400m time of 17.4 seconds compare with foreign cars?
 
@@ -279,11 +279,11 @@ According to the manufacturer's published figures, the 0-400m acceleration time 
 
 <b>Ibaraki:</b> In the Ministry of Transport certification test, the figures for the 1600S RT51 were 17.88km/l at 30km/h, 16.68km/l at 60km/h, 14.28km/l at 70km/h, 14.28km/l at 80km/h, 12.83km/l at 90km/h, and 11.76km/l at 100km/h. The running fuel-economy figure is the same as for the 1600S sedan (RT40S), at 16.72km/l.
 
-<b>Hirao:</b> In any case, the performance is good. Up to now, Japanese cars have been said to be imbalanced in terms of weight and power by international standards, but around this level I think the balance is becoming quite satisfactory. Acceleration is ample, and with a practical maximum speed of 160km/h, there should be no shortage of performance for highway driving even when the Tomei Expressway is completed. I think it would be quite adequate for American-style highway driving as well. It's economical, too... The question is the total weight in relation to the car's size...
+<b>Hirao:</b> In any case, the performance is good. Up to now, Japanese cars have been said to be unbalanced in terms of weight and power by international standards, but at this point I think the balance is becoming quite satisfactory. Acceleration is ample, and with a practical maximum speed of 160km/h, there should be no shortage of performance for highway driving even when the Tomei Expressway is completed. I think it would be quite adequate for American-style highway driving as well. It's economical, too... The question is the total weight in relation to the car's size...
 
-<b>Ishikawa:</b> The weight per unit of occupied area is 152kg/m². Compared with European cars, it does seem to be on the small side.
+<b>Ishikawa:</b> The weight per unit of occupied area is 152kg/m². Compared with European cars, the size does seem to be smaller.
 
-On the other hand, specific output per ton is high at 92ps/t, so it combines good acceleration with good fuel economy. I think it would be well received even if exported to markets like America.
+On the other hand, specific output per ton is high at 92ps/t, so it combines good acceleration with good fuel economy. I think it would be well received even if exported to places like America.
 
 <b>Watari:</b> We were talking about this the other day as well, but if you're going to export the car to somewhere like America, where it would be used as a second car, I think the 1600cc engine is the one that ought to be offered with Toyoglide...
 
@@ -311,9 +311,9 @@ As for wheel alignment, the front wheels have slight negative camber, and the si
 
 <b>Ishikawa:</b> In the brake test, the front brakes begin to take effect at a pedal effort of 5kg, and the rear brakes at 6kg, so the front comes in slightly earlier. From that point up to 0.6g deceleration, the pedal spring rate is 1.8kg/mm, which is somewhat on the firm side. In terms of braking force, the duo-servo drums on all four wheels are very light to use, requiring a pedal effort of only 20kg for 0.6g deceleration, and there was no left-to-right imbalance. At a pedal effort of around 22-23kg, the brake-force distribution is 68:32, giving a high-speed-oriented balance with greater braking force at the more heavily loaded front wheels. The parking brake is also light, and the ratchet action is good.
 
-There is one thing I would like to ask, though. This Hardtop is sporting in character as well as in appearance, and with a maximum speed of 174km/h (at Yatabe), its performance is high. What, then, was the thinking behind deliberately choosing duo-servo drums rather than fitting disc brakes as standard equipment?
+There is one thing I would like to ask, though. This Hardtop is sporting in character as well as in appearance, and with a maximum speed of 174km/h (at Yatabe), its performance is high. What, then, was the thinking behind deliberately specifying duo-servo drums rather than fitting disc brakes as standard equipment?
 
-<b>Tajima:</b> Disc brakes are standard equipment on the 1600S sedan, but perhaps because they were not used to the feel of discs, we had some customers who were involved in rear-end collisions. So, for this Hardtop, we made them optional and arranged things so that the car could be fitted with either type.
+<b>Tajima:</b> Disc brakes are standard equipment on the 1600S sedan, but perhaps because they were not used to the feel of discs, we had some customers who were involved in rear-end collisions. So, for this Hardtop, we made them optional and made it so that the car could be fitted with either type.
 
 <b>Kawahara:</b> In actual sales, though, fully 99% of the cars are being ordered with disc brakes.
 
@@ -329,7 +329,7 @@ There is one thing I would like to ask, though. This Hardtop is sporting in char
 
 <b>Hirao:</b> If it's only intended for competition use, I have some doubts about that.
 
-The amount of assistance from a servo varies with engine vacuum, so when you're trying to apply the brakes delicately, judging the braking force entirely through the feel in your foot, the servo can actually have disadvantages...
+The amount of assistance from a servo varies with engine vacuum, so when you're trying to apply the brakes delicately, judging the braking force entirely from the feel through your foot, the servo can actually have disadvantages...
 
 <b><u>Light Operating Efforts Throughout</b></u>
 
@@ -339,7 +339,7 @@ The amount of assistance from a servo varies with engine vacuum, so when you're 
 
 <b>Hirao:</b> In Japan, there are times when you have to close the window quickly—for example, when passing another car on a muddy road in the rain—so I think the front windows ought to require fewer turns.
 
-<b>Higuchi:</b> One other thing, though perhaps it's just me: when getting out of the car, I sometimes caught my pants pocket on the door-lock control. Some recent cars have it located under the armrest, and that arrangement avoids the problem.
+<b>Higuchi:</b> One other thing, though perhaps it's just me: when getting out of the car, I sometimes caught my pants pocket on the door lock. Some recent cars have it located under the armrest, and that arrangement avoids the problem.
 
 <b><u>Reduced Roll Rate</b></u>
 
@@ -347,7 +347,7 @@ The amount of assistance from a servo varies with engine vacuum, so when you're 
 
 <b>Akutsu:</b> First, we measured the turning radius. It was 5.18m at the outside and 2.73m at the inside. Next, we examined the relationship between understeer or oversteer and steering effort while gradually increasing speed in a constant 15m radius turn. The car understeered right to the limit. At that point, the radius of curvature was 24-25m and the steering effort was 3.2kg, which I think are appropriate figures for a sporting car like this. The degree of understeer was also appropriate, and we were able to continue the test up to around 40km/h. The roll rate was 5.7°, about the same as that of a normal passenger car. Stationary steering effort was 12-13kg, which puts it among the lighter cars.
 
-At low speeds, during the figure-eight test, steering effort on entering the turn was 6-7kg at a lateral acceleration of 0.25g, which I think is within a suitable range. At high speeds, in the slalom test, it was 2.2kg at a maximum lateral acceleration of 0.25g, again a good figure. The results were also well balanced between left and right.
+At low speeds, during the figure-eight test, steering effort on entering the turn was 6-7kg at a lateral acceleration of 0.25g, which I think is within an appropriate range. At high speeds, in the slalom test, it was 2.2kg at a maximum lateral acceleration of 0.25g, again a good figure. The results were also well balanced between left and right.
 
 Those were the results for this 1600S Hardtop, but if we look at the main figures from the four tests we have conducted on Corona models between 1960 and the present year, 1965, the roll rate has steadily declined from 8.5° to 7.4°, 6.3°, and now 5.7°, while the steering effort required to hold the car in a turn has increased from 1.3kg to 3.2kg. Steering effort in the slalom test has gone from 2.5kg to 3.0kg and then to 2.2kg. Looking at these changes, I was struck by how the character of the Corona has gradually evolved.
 
@@ -389,11 +389,11 @@ I don't think there would be any practical inconvenience if the opening angle we
 
 As for the interior dimensions, the front seats are roomier than in the sedan, although there is somewhat less fore-and-aft space in the rear. Even so, it is more spacious than a 2+2, and the rear passengers can sit quite comfortably. In particular, the ability to fold down the rear seat and use the area as luggage space is convenient for long-distance touring, and the operation itself is simple. I would, however, like to see straps provided to secure luggage. Also, this may be a matter of personal preference, but in Japan's humid climate, leather-covered seats can become unbearable. I would like to see cloth upholstery offered, even if only as an option.
 
-The driving position could be described as sporting, but if you position yourself with your arms extended fully to the steering wheel, some of the other controls, such as the floor-mounted gear lever, are a little too far away. There is also a rather large height difference between the brake and accelerator pedals, and they are spaced widely apart. I think this reflects the aim and character of the car: sporting in atmosphere, but with a rather American-style driving position, using a dished steering wheel that is easy to handle and returns well.
+The driving position could be described as sporting, but if you position yourself with your arms extended fully to the steering wheel, some of the other controls, such as the floor-mounted gear lever, are a little too far away. There is also a rather large height difference between the brake and accelerator pedals, and they are spaced widely apart. I think this reflects the aim and character of the car: sporting in mood, but with a rather American-style driving position, using a dished steering wheel that returns readily and is easy to handle.
 
 With the floor shift, I also thought the handbrake would be better placed in the center, to the driver's left, rather than using the umbrella-handle type.
 
-This is a minor point, but the reversing light is located below the bumper, so if it gets covered with mud there is a risk that it will stop being effective. I would like to see it moved above the bumper somehow.
+This is a minor point, but the reversing light is located below the bumper, so there is a risk that it will lose its effectiveness if it gets covered with mud. I would like to see it moved above the bumper somehow.
 
 <b>Hirao:</b> It's too bad that the 1600S can't be fitted with an air conditioner. You know, according to the FIA Sporting Code, "a GT is a car combining the highest performance with the highest comfort," while "a touring car combines the greatest economy with the highest comfort." (laughs) So even in a grand touring car, for the sake of that "highest comfort," an air conditioner is something you'd certainly like to have.
 
