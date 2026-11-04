@@ -33,17 +33,17 @@ draft = false
 
 <b>Magazine:</b> To begin, could we ask Mr. Shimizu to tell us about the development aims behind the Bellett 1600GTR?
 
-<b>Shimizu:</b> We introduced this car in the autumn, but there were some strong opinions at the time that a car like this would not sell very well. However, once we put it on sale, we received an unexpectedly favorable response from younger buyers, and we now feel it was worthwhile bringing it to market.
+<b>Shimizu:</b> We introduced this car in the autumn, but there were some strong opinions at the time that a car like this would not sell very well. However, once we put it on sale, we received an unexpectedly favorable response from young people, and we now feel it was worthwhile bringing it to market.
 
-Since we were aiming to produce a high-performance car, particular care was needed both in its engineering and in manufacturing, and we also realized that we had a great deal to learn in the area of safety. You have given us a valuable opportunity today, and I hope we can learn a great deal from your comments.
+Since we were aiming to produce a high-performance car, particular care was needed both in its engineering and in manufacturing, and we also realized that we had a great deal to learn in the area of safety. You have given us a valuable opportunity today, and I hope we can learn a great deal from your observations.
 
 As for the thinking behind its design, it has now been six years since we began producing the Bellett. From the outset, with the introduction of the GT and the use of a floor-mounted gearshift, we were aiming for a sporting character, and the range has developed through the 1300 and 1600 models. However, the performance of the GT models produced by other manufacturers has steadily improved, and we realized that if we continued as we were, we would begin to fall behind in performance. 
 
-As it happened, preparations for mass production of the 1600cc DOHC engine—following its use in the 117 Coupe—had been completed, and its cost had also come down. We therefore developed this car around that engine, aiming to make up for the shortcomings of the existing model in the process.
+As it happened, preparations for mass production of the 1600cc DOHC engine, following its use in the 117 Coupe, had been completed, and its cost had also come down. So we developed this car around that engine, making up for the shortcomings of the existing model in the process.
 
-At the same time, the driving skills of owners have also improved considerably in recent years, and there are now many people who can handle even a high-performance car like this quite safely. We wanted to produce something suited to these drivers. 
+These days, the driving skills of owners have also improved considerably, and there are now many people who can handle even a high-performance car like this quite safely. We wanted to produce something suited to these drivers. 
 
-The price is higher, of course, but a young person who buys a Bellett GT and then tunes it up can easily end up spending a million yen. So some buyers regard a car like this, which has already been tuned for higher performance, as very good value. That was another consideration we had in mind.
+The price is somewhat higher, of course, but a young person who buys a Bellett GT and then tunes it up can easily end up spending a million yen. For that reason, some buyers regard a car like this, which has already been tuned for higher performance, as very good value. That was another consideration we had in mind.
 
 <b>Hirao:</b> Is this the same engine as the Bellett R6, with only differences in tuning?
 
