@@ -33,17 +33,17 @@ draft = false
 
 <b>Magazine:</b> To begin, could we ask Mr. Shimizu to tell us about the development aims behind the Bellett 1600GTR?
 
-<b>Shimizu:</b> This car was released in the autumn, and at the time there were quite a few opinions suggesting that a car like this wouldn’t sell in large numbers. However, once it was introduced, it received unexpectedly strong support, particularly from younger buyers, so we feel it was worthwhile bringing it to market.
+<b>Shimizu:</b> We introduced this car in the autumn, but there were some strong opinions at the time that a car like this would not sell very well. However, once we put it on sale, we received an unexpectedly favorable response from younger buyers, and we now feel it was worthwhile bringing it to market.
 
-Because we set out to create a high-performance car, it required considerable care both technically and in terms of production, and from a safety standpoint as well, there was a great deal we had to study and learn. Since we’ve been given this opportunity today, I hope we can take the chance to learn from your comments.
+Since we were aiming to produce a high-performance car, particular care was needed both in its engineering and in manufacturing, and we also realized that we had a great deal to learn in the area of safety. You have given us a valuable opportunity today, and I hope we can learn a great deal from your comments.
 
-As for the aims of development, we have now been producing the Bellett for six years. The GT came first, followed by the move to a floor-mounted shift, and we proceeded with a focus on sportiness, expanding from 1300cc to 1600cc models. However, as the performance of GT cars from other manufacturers steadily improved, we felt that if things continued as they were, we would fall behind in terms of performance.
+As for the thinking behind its design, it has now been six years since we began producing the Bellett. From the outset, with the introduction of the GT and the use of a floor-mounted gearshift, we were aiming for a sporting character, and the range has developed through the 1300 and 1600 models. However, the performance of the GT models produced by other manufacturers has steadily improved, and we realized that if we continued as we were, we would begin to fall behind in performance. 
 
-By coincidence, the 1600cc DOHC engine—following its use in the 117 Coupe—was ready for mass production, and its cost had begun to come down. By fitting this engine, and aiming to fill in the gaps where the car had been lacking, we arrived at this model.
+As it happened, preparations for mass production of the 1600cc DOHC engine—following its use in the 117 Coupe—had been completed, and its cost had also come down. We therefore developed this car around that engine, aiming to make up for the shortcomings of the existing model in the process.
 
-At the same time, driver skill has improved considerably in recent years, and there are now many people who can handle a car of this level of performance safely. So part of our aim was to respond to those users.
+At the same time, the driving skills of owners have also improved considerably in recent years, and there are now many people who can handle even a high-performance car like this quite safely. We wanted to produce something suited to these drivers. 
 
-The price is, of course, somewhat higher, but among younger buyers who purchase a Bellett GT, it’s not uncommon to spend close to a million yen on tuning. From that perspective, there are those who see a car like this, already tuned from the outset, as representing good value, and that was also part of our thinking.
+The price is higher, of course, but a young person who buys a Bellett GT and then tunes it up can easily end up spending a million yen. So some buyers regard a car like this, which has already been tuned for higher performance, as very good value. That was another consideration we had in mind.
 
 <b>Hirao:</b> Is this the same engine as the Bellett R6, with only differences in tuning?
 
@@ -57,11 +57,11 @@ The price is, of course, somewhat higher, but among younger buyers who purchase 
 
 <b>Ueda:</b> I’ll briefly outline the main changes. Because of the DOHC engine, and the associated strengthening of the driveline, the weight is slightly higher than the GT. Curb weight increases from 940 to 970kg. Top speed is 190km/h. The tires are 165HR-13, and the fuel tank capacity has also been increased to 46 liters.
 
-In terms of design, at the front we’ve added an air scoop to the hood, and adopted black paint treatment at both front and rear. A stripe has been applied along the side of the body to enhance the overall mood. The bumper is split into two sections, with fog lamps mounted on the inner side. Capless disc wheels are also used on the standard GT, but here the rims are chrome-plated to give it further distinction.
+In terms of design, we’ve added an air scoop to the hood at the front, and a black paint treatment at both front and rear. A stripe has been applied along the side of the body to add the overall mood. The bumper is split into two sections, with fog lamps mounted on the inner side. Capless disc wheels are also used on the standard GT, but here the rims are chrome-plated to further set it apart.
 
-Inside, the seats are one-piece FRP molded units with integrated headrests, designed with ergonomics in mind to provide good support. The steering wheel is leather-wrapped, and we produced several prototypes, then selected the final design based on user feedback.
+Inside, the seats are one-piece FRP molded units with integrated headrests, designed with consideration of ergonomics to provide good support. The steering wheel is leather-wrapped, and we produced several prototypes, then selected the final design based on user feedback.
 
-As for other details, we’ve incorporated a day/night rearview mirror, a wooden shift knob for the gear lever, a clock with a second hand, a rear window defogger with printed heating element, high-speed wipers, and other small improvements. Needless to say, we have also adopted a collapsible steering column and flexible fender mirrors.
+As for other details, we’ve incorporated a day/night rearview mirror, a wooden shift knob for the gear lever, a clock with a second hand, a rear window defogger with printed heating element, high-speed wipers, and other small improvements. Of course, we have also adopted a collapsible steering column and flexible fender mirrors.
 
 In the chassis, the increase in engine torque required strengthening of the driveline. This includes revisions to the clutch and transmission, with a higher first-gear ratio, the adoption of a universal joint in the rear axle shaft, a limited-slip differential, and radial tires.
 
@@ -71,33 +71,33 @@ In the braking system, we’ve used a tandem master cylinder in combination with
 
 <b>Yamamoto:</b> Was this car developed as a successor to the existing Bellett? How does it compare in terms of structure, dimensions, and so on?
 
-<b>Ueda:</b> Rather than a successor, we see it more as a car to lead the model line. As for dimensions, the body shell itself is almost unchanged. However, with the adoption of capless disc wheels, the track has increased slightly—by 15mm at the front and 25mm at the rear.
+<b>Ueda:</b> Rather than a successor, we see it more as a car at the top of the model line. As for dimensions, the body shell itself is almost unchanged. However, with the use of capless disc wheels, the track has increased slightly—by 15mm at the front and 25mm at the rear.
 
 <b>Magazine:</b> Is the air scoop functional, or is it mainly for styling?
 
 <b>Ueda:</b> It allows hot air to be vented from that area, so it does contribute to cooling.
 
-<b>Toishi:</b> The air scoop serves both purposes--design and heat extraction. The right-hand side is functional and helps release heat, while the left is a dummy. Also, details like the matte-black bonnet and the black side stripes are all intended to give a sharper, more purposeful impression.
+<b>Toishi:</b> The air scoop serves both purposes—design and heat extraction. The right-hand side is functional and helps release heat; the one on the left is a dummy. Also, details like the matte-black hood and the black side stripes are all intended to give a sharper, more purposeful impression.
 
-<b>Hoshijima:</b> The matte finish on the bonnet has a functional effect as well.
+<b>Hoshijima:</b> The matte finish on the hood has a functional effect as well.
 
-<b>Suzuki:</b> Yes, very much so. If the bonnet is reflective, it can be fatiguiing for the eyes.
+<b>Suzuki:</b> Yes, very much so. If the hood is reflective, it can be fatiguing for the eyes.
 
 <b>Toishi:</b> It serves a similar purpose to painting the wiper arms black.
 
-<b>Miyamoto:</b> When driving toward the sun, it’s very effective. Like the anti-glare finish in front of an aircraft cockpit--it’s a good idea.
+<b>Miyamoto:</b> When driving toward the sun, it’s very effective. Like the anti-glare finish in front of the cockpit on an airplane--it’s a good idea.
 
-<b>Magazine:</b> How were the performance figures measured by the Hirao laboratory?
+<b>Magazine:</b> Could we have the performance figures measured by the Hirao laboratory?
 
 <b>Furutani:</b> Standing-start acceleration times were 0-50m in 4.4 seconds, 0-100m in 6.7 seconds, 0-200m in 10.4 seconds, and 0-400m in 16.4 seconds. This car uses the engine from the 117 Coupe, but with a slightly lower first-gear ratio. The 117’s 0-400m time is 16.7 seconds, so with this car being about 180kg lighter, along with the shorter gearing, the time improves by roughly 0.3 seconds.
 
 <b>Magazine:</b> Looking at the data, it seems there was almost no wheelspin.
 
-<b>Furutani:</b> There’s no slip even at launch. Perhaps it's due to the wider tires.
+<b>Furutani:</b> There’s no slip at launch. Perhaps it's due to the wider tires.
 
 <b>Toishi:</b> The quality of the radial tires is very good. Under braking as well, they hardly slip at all.
 
-<b>Magazine:</b> Let’s have the fuel economy results from the Oguchi laboratory.
+<b>Magazine:</b> Next, let’s have the fuel economy results from the Oguchi laboratory.
 
 <b>Sano:</b> In steady-speed fuel consumption tests, we recorded 17.2km/l at 30km/h, 17.1km/l at 60km/h, 15.4km/l at 80km/h, and 12.5km/l at 100km/h. Around 40, 50, and 60km/h the figures are very close, showing almost no variation, and overall the curve is quite flat. 
 
@@ -111,7 +111,7 @@ We conducted steady-speed testing with the 117 Coupe at the same time, and under
 
 Also, electronic fuel injection was originally developed in connection with exhaust-emissions measures for Volkswagen's exports to the US, so it's reasonable to expect improved fuel economy as well.
 
-Another point is drivability--the engine would operate more smoothly, with good response even at very low speeds, allowing for more precise control. And with exhaust emissions becoming an increasingly troublesome issue, especially for sports cars, this could also be a means of addressing that problem.
+Another point is drivability--the engine would operate more smoothly, with good response even at very low speeds, allowing for more precise control. And with exhaust emissions becoming an increasingly difficult issue, especially for sports cars, this could also be a way of addressing that problem.
 
 <b>Magazine:</b> Compared with the standard GT, the GTR’s suspension has been significantly strengthened. To be specific, how much higher are the spring rates?
 
@@ -133,37 +133,37 @@ Exterior noise measures 70.5 phons under steady running and 79 phons under accel
 
 Speaking just from my impression, the engine is rather noisy and vibratory at idle. Once underway, that harshness becomes less noticeable, but if you were to do long-distance driving on the expressway, it might become an issue.
 
-If you look at it from what you might call a "husband’s specification" standpoint, this car seems to have pronounced peaks in vibration and noise at low, medium, and high speeds alike--so that’s something to consider.
+If you look at it from the perspective of what you might call a "husband’s specification," this car seems to have pronounced peaks in vibration and noise at low, medium, and high speeds alike--so that’s something to consider.
 
-The idle vibration in particular is unpleasant. I assume the engine mountings have been made quite stiff—was there a reason for that? If they weren’t stiff, would there be problems with engine movement in operation?
+The idle vibration in particular is unpleasant. I assume the engine mountings have been made quite stiff—was there a reason for that? If they weren’t stiff, would there be problems with movement of the engine while driving?
 
-<b>Kaneshige:</b> It wasn’t treated as such a major issue. In a car like this, space around the engine becomes increasingly tight, so the mountings are set up to prevent interference between components while driving.
+<b>Kaneshige:</b> We don't regard it as such a serious problem. In a car like this, space around the engine becomes increasingly tight, so the mountings are set up to prevent interference between components while driving.
 
-If everything is too rigidly constrained, shocks can increase stress, so it becomes a balancing act. Whether one can simply say "that’s the nature of the car" is another matter, but since this is a GTR, compared with a normal sedan, some roughness at idle is probably unavoidable for the time being.
+If everything were too rigidly secured, shocks would increase stresses, so it becomes a balancing act. In the end, I don't know whether it's quite right to say that this is simply part of the character of the car, but it is a GT-R, after all, so its idle is bound to be rougher than that of a normal sedan. For the time being, I suppose we have to accept that criticism.
 
-<b>Hirao:</b> Well, that comes down to things like valve timing--you can’t really avoid it, especially if it’s designed to hold together up to 7000rpm.
+<b>Hirao:</b> Well, it comes down to things like valve timing--you can’t really avoid it, especially if it’s designed to hold together up to 7000rpm.
 
 <b>Kaneshige:</b> If you raise the idle speed, the vibration becomes easier to live with, but managing both vibration and noise in a car of this character is inherently difficult.
 
-<b>Higuchi:</b> My impression, looking at the engine bay, is that you’d have to give up on fitting air conditioning altogether.
+<b>Higuchi:</b> My impression, judging from the engine compartment, is that we'd have to give up on fitting an air conditioner. 
 
-If that’s the case, I get the feeling some users might go all the way—start with a 1600 GT, tune it, and even swap in a different engine. But that would drive the cost up, so if you can run a car with a properly tuned engine from the outset, that might be better. 
+In that case, I can imagine some owners going all the way--starting with a 1600GT, tuning it and even swapping the engine. But that would drive the cost up, so if you can have a car with a good engine already fitted from the outset, I think that would be the better choice. 
 
-But you can’t chase two goals at once--so does that mean abandoning the "husband’s specification" idea?
+But you can't have it both ways, so does that mean giving up on the "husband's specification"?
 
-<b>Kaneshige:</b> If you completely abandon it, things become clearer--but when it comes down to the final balance, it’s not so simple…
+<b>Kaneshige:</b> If we abandoned that idea altogether, things would certainly be more straightforward, but when it comes down to it, well...
 
 <b><u>Using Endurance Racing as a Development Ground</b></u>
 
-<b>Hirao:</b> In that sense, having an overdrive gear makes quite a difference. At 120km/h, the engine is turning at about 4000rpm. So if it could cruise normally at just under 3000rpm, that would be a significant improvement. The difference between 4000 and 3000rpm is considerable--having an overdrive gear really changes things in that respect.
+<b>Hirao:</b> In that sense, having an overdrive gear makes quite a difference. At 120km/h, the engine is turning at about 4000rpm. If it could cruise normally at just under 3000rpm, that would be a significant improvement. The difference between 4000 and 3000rpm is considerable--having an overdrive gear really changes things in that respect.
 
 <b>Hoshijima:</b> The first time I saw the Bellett GTR was back in 1968. It was entered in the Suzuka endurance race under the name “GTX.” After that, it appeared mainly in endurance racing, and I followed it with great interest--I had always thought it would be interesting to install the 117 engine in the Bellett.
 
 At first, though, it struggled to finish races; almost every time, something would go wrong and it would retire. But by 1969, its endurance was gradually improving, and by August it had achieved an overall victory. Not long after that, the production car was released in essentially the same form under the name GTR.
 
-I found it very interesting that endurance racing itself was used as a development test bed, and I think it also worked extremely well from a publicity standpoint.
+I found it very interesting that endurance racing itself was used as a development testing ground, and I think it also worked extremely well from a publicity standpoint.
 
-Having driven the production car, the first thing that struck me was how quiet it is. Below about 40km/h, however, it’s essentially at idle, so the noise at those speeds is no different than just after the engine is started—that’s unavoidable.
+Having driven the production car, the first thing that struck me was how quiet it is. Below about 40km/h, however, it’s essentially idling, so the noise at those speeds is no different than just after the engine is started—that’s unavoidable.
 
 But around 3000rpm, it’s remarkably quiet. And while there are moments around 120km/h when it feels a bit noisy, at both higher and lower speeds it becomes quiet again. In particular, the quietness at 130-140km/h is almost unmatched. The figure of 70 phons reflects that quite well.
 
@@ -171,7 +171,7 @@ But around 3000rpm, it’s remarkably quiet. And while there are moments around 
 
 <b>Hoshijima:</b> Comparing ride comfort with the 117 Coupe, I would say the 117 has the better ride in terms of suspension feel.
 
-Also, regarding the transmission—since Professor Hirao mentioned the benefits of overdrive—when driving on the Tomei or Meishin expressways at around 140km/h, there are many situations where you hesitate: should you shift down to third, or apply the brakes?
+Also, regarding the transmission—since Professor Hirao mentioned the benefits of overdrive—when driving on the Tomei or Meishin expressways at around 140km/h, there are many situations where you hesitate: should you downshift to third, or use the brakes?
 
 In practice, if you’re in fifth, it’s natural to drop to fourth in those situations. It’s not that I don’t trust the brakes or the tires, but I do feel that it's reasonable for a car like this to be offered with a 5-speed transmission.
 
@@ -185,7 +185,7 @@ In practice, if you’re in fifth, it’s natural to drop to fourth in those sit
 
 However, our countermeasures don't really show up in those noise peaks, as has been noted by many people. So I still feel that the car may be somewhat noisy overall.
 
-<b>Yamamoto:</b> In terms of vibration and noise, when I first drove it, I did notice something like idle-related noise. But when I had the chance to drive it over cobblestones, the car was extremely good. I’m not entirely sure why.
+<b>Yamamoto:</b> In terms of vibration and noise, when I first drove it, I did notice the idle-related noise. But when I had the chance to drive it over cobblestones, the car was extremely good. I’m not entirely sure why.
 
 <b>Miyamoto:</b> That may be due to the independent rear suspension. When the Bellett was first introduced, I drove it over some fairly rough roads, and even then I thought it performed quite well.
 

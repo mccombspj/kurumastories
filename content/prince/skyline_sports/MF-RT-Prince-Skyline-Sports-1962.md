@@ -121,7 +121,7 @@ Perhaps the car's most distinctive features are its seats and luxurious appointm
 
 <b>Hirao:</b> "Semi-sports car" is a very apt expression. There are undoubtedly various considerations involved, but I take it to mean a car in which one can enjoy the atmosphere of a sports car. That's why so much emphasis has been placed on the seats and appointments, and they certainly give the car an authentic European flavor. The fact that this is also the first sports car to be offered for general sale in Japan adds considerably to its appeal.
 
-In that sense, I think the car has been brought together very successfully. But if I may ask for a little more, I would like to see something done, even at the level of the transmission—perhaps changing the gear ratios—to give the car a somewhat more sporting character under acceleration. The engine may have been made capable of higher revs, but when it is extended through each gear, I would like to feel a little more urge toward the top of the range.
+In that sense, I think the car has been brought together very successfully. But if I may ask for a little more, I would like to see something done, even at the level of the transmission—perhaps changing the gear ratios—to give the car a somewhat more sporting character under acceleration. The engine may have been made capable of higher revs, but when it is extended through each gear, I would like to feel a little more pull toward the top of the range.
 
 The appointments, seats, and other aspects of the design are certainly excellent—indeed, they are worthy of particular attention. As for the steering, from what I experienced behind the wheel—and I imagine we'll discuss this later—I certainly felt that it had been given a sporting character.
 
