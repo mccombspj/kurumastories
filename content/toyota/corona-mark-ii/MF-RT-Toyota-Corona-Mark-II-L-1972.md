@@ -22,7 +22,7 @@ draft = false
 
 <b>Akiyama:</b> Broadly speaking, there were five.
 
-The first was to establish a clear position for the Mark II within the small-car class. We introduced the Mark II in September 1968, but competition in the compact-car class has been intense, with more and more similar cars appearing on the market. Even within Toyota's own lineup there is the Corona, and the Mark II's position had gradually become less distinct. At the same time, demand in the compact-car market has been tending increasingly toward more upmarket cars, so our aim was to transform the Mark II into a high-grade personal car.
+The first was to establish a clear position for the Mark II within the small-car class. We introduced the Mark II in September 1968, but competition in the compact-car class has been intense, with more and more similar cars appearing on the market. Even within Toyota's own lineup, there was the Corona, and the Mark II's position had gradually become less distinct. At the same time, demand in the compact-car market has been tending increasingly toward more upmarket cars, so our aim was to transform the Mark II into a high-grade personal car.
 
 The second was a thorough pursuit of reliability.
 
@@ -32,19 +32,19 @@ The fourth was improved performance and functionality.
 
 And the fifth was to improve the overall feel of the car—including vibration and noise—as well as its handling and stability.
 
-To explain these aims more specifically, on the first point, we wanted the interior and exterior to retain a sense of refinement, while being luxurious yet at the same time stylish. We also brought together high-grade functional components, our aim being to produce a genuinely distinctive car of a high standard.
+To explain these aims more specifically, on the first point, we wanted the interior and exterior to retain a sense of refinement, being luxurious yet at the same time stylish. We also brought together high-grade functional components, our aim being to produce a genuinely distinctive car of a high standard.
 
 As for the second point, reliability, this naturally applies to the engine, but we have also increased the strength of components such as the steering knuckles, while in the braking system the booster has been increased from 6 inches to 7.5 inches.
 
 We also paid considerable attention to the electrical wiring and piping. For example, the clamps securing the pipes are molded pieces, firmly fastened with bolts.
 
-As for adapting the car to the social environment, the third point, this includes such matters as safety, pollution control, and ease of driving. In safety, we made full use of the measures already available while also trying some new ideas. One is the ignition key with a safety lock. While this may not happen very often, it prevents the driver from removing the key while the car is moving and thereby locking the steering. The key cannot be removed unless a button is pressed, so the steering cannot be locked inadvertently.
+As for adapting the car to the social environment, the third point, this includes such matters as safety, pollution control, and ease of driving. In safety, we made full use of the measures already available while also trying some new ideas. One is the ignition key with a safety lock. While this may not happen very often, it prevents the driver from removing the key while the car is moving and thereby locking the steering. The key cannot be removed unless a button is pressed, so the steering cannot be locked by mistake.
 
 We have also fitted a seat-belt warning lamp to the instrument panel. Since the lamp would otherwise stay on whenever the belts were not being worn, we arranged for it to go out when the parking brake is released.
 
 On the pollution side, one of our basic considerations was the move to unleaded gasoline, so the engines were designed around the use of regular gasoline. The sporting models, however, are also available in high-octane specification. Following the same thinking, measures were also taken with the valve seats to make them suitable for unleaded fuel.
 
-With regard to "easy driving" as well, there is a growing desire to make driving easier and more effortless, as can be seen in the growing popularity of automatic transmissions. In addition, we made available as options power steering, which is still unusual in this class (on the six-cylinder models), and Auto Drive (on the four-cylinder GL and GSL, and the six-cylinder models).
+With regard to "easy driving" as well, there is a growing desire to make driving easier and more effortless, as can be seen in the growing popularity of automatic transmissions. In addition, we made options available such as power steering (on the six-cylinder models), which is still unusual in this class, and Auto Drive (on the four-cylinder GL and GSL, and the six-cylinder models).
 
 As for the fourth objective, improved performance and functionality, we fitted a 2000cc six-cylinder engine, while the existing 1900cc four-cylinder engine was also bored out to 2000cc for improved performance. The four-cylinder DOHC GSS is fitted with a newly developed Porsche-type 5-speed transmission.
 
