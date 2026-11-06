@@ -1,0 +1,320 @@
++++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+title = "Toyota Corona Hardtop 1600S (1965)"
+
+
+
+
+
+
+
+weight = 11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+date = "2026-11-05T04:50:49-07:00"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+draft = false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Toyota Corona Hardtop 1600S](/images/MF-TDR-Toyota-Corona-Hardtop-1600S-1965.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<b>Publication:</b> Motor Fan<br>
+<b>Format:</b> Test Drive Report<br>
+<b>Date:</b> September 1965<br>
+<b>Authors:</b> Kensuke Ishizu, Shigeo Ozeki, Taisuke Fujishima
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<b><u>Driving the Corona Hardtop</b></u>
+
+<!--more-->
+
+<b><u>"A Few of My Personal Impressions"</b></u>
+![Toyota Corona Hardtop 1600S](/images/MF-TDR-Toyota-Corona-Hardtop-1600S-1965a.jpg)<br>
+<i>Kensuke Ishizu</i>
+
+<b><u>A Test Drive That Went Wrong</b></u>
+
+I once wrote a test drive report on the Toyota Sports 800. I remember wondering why on earth Motor Fan had asked someone like me, being no automotive expert, to write such an article. Presumably, they simply wanted me to write whatever came to mind from the standpoint of a typical user, so I ended up producing a rather curious piece called “An Amateur’s View of Sports Cars.” But it seems that the world is not only filled with experts like Mr. Kobayashi and Mr. Shikiba, and that my amateur views struck a chord with quite a few people. And so, I have been asked to drive a Corona Hardtop, and to again write a report.
+
+After all, though I may be a complete amateur, I drive a car every day, so naturally I am interested in any car. Engine performance and top speed mean relatively little to me. I knew the experts would write about all the complicated matters, so once again my curiosity got the better of me, and I immediately set off on the test drive.
+
+Well, I certainly drove the car, and I would like to say that it was a fully enjoyable outing. Unfortunately, the whole thing was rather spoiled. There had apparently been an accident near the exit from the expressway at Haneda Airport, and I was directed onto a detour. After winding around unfamiliar streets, I came to a point where the road joined the expressway. Since I was entering the main lane, I carefully checked behind me to the right, where the view was quite clear, and slowly began to merge.
+
+That's when I was stopped—by the police. Failure to stop at a stop sign. My driving license was taken away in exchange for a pink slip. Quite embarrassing. There was a stop sign, so I could hardly complain. My enjoyable test drive had suddenly turned into a thoroughly depressing spectacle. I could only blame myself for getting so carried away, at my age, with the pleasure of driving an unfamiliar and enjoyable car.
+
+At that moment, I found myself remembering the traffic policemen in Britain. I once had to take a detour in London because of an accident. In such situations, the detour is clearly marked out, and policemen are stationed at various points to give courteous directions. Since drivers are traveling along unfamiliar roads, the policemen use large gestures to warn them at places such as merging points.
+
+Rather than waiting further down the road to catch motorists committing violations, they think first of warning drivers in advance and preventing accidents before they happen. If a driver has properly assessed the situation and made sure that it is safe to proceed, but has overlooked a sign, the policeman will simply offer a little good-humored warning and send him on his way. The driver is simply left to feel thoroughly ashamed of himself.
+
+This is fundamentally different from enforcement carried out merely to rack up violations, without any consideration of the circumstances. Perhaps I was only singing the familiar tune of a man making excuses for himself, but the difference struck me very deeply.
+
+Still, rules are rules, and one really ought not to break them, after all.
+
+<b><u>A Rather Impudent Car</b></u>
+
+I have wandered rather far from the subject, but to return to the car, the first thing I noticed when I reached for the door was how large it was. This made me a little apprehensive, as I remembered a Citroen DS19 I once drove whose large doors were so heavy that they were difficult to close properly. But one look at the door hinges put my mind at ease. They are sturdy, and it is immediately apparent that particular care has been taken here because of the hardtop layout.
+
+I engaged first gear and moved off quietly. Then, as is my habit, I shifted straight into second and let the engine rev. I glanced at the tachometer and was astonished to find that it had already passed 5000rpm. The standing-start acceleration figure of 17.7 seconds immediately came to mind, and my instinctive reaction was that this was a rather impudent little car.
+
+I have never owned a sedan that was not a hardtop. Nash, Ford, Taunus—all were hardtops. Since I do my own driving, I rarely use a car to carry other people. Occasionally, when I meet two or three friends and they ask for a ride somewhere nearby, one takes the passenger seat and the others must settle for the rear. Somehow I feel sorry for them, and when they thank me, I almost feel like apologizing.
+
+This is admittedly a selfish opinion arising from my own lifestyle, but I think of a car not as something for carrying other people, but as personal transportation. On the occasional Sunday, however, I take my wife along for a drive out toward the Fuji Five Lakes, attending to her wishes and keeping her in good spirits. I am so busy that I eat dinner away from home five days in a week, and I have come to accept the idea that this is the best way of making it up to her. As a result, I do not find these outings burdensome. If such a simple thing can make up for an entire week, so much the better, and a drive with just the two of us is far from unpleasant.
+
+My wife was beside me today, too, and in excellent spirits. She had opened both her own window and the rear side window all the way, fully enjoying the comfort of the hardtop. She switched on the radio and began dancing "the Swim" in her comfortable bucket seat. The European-style clock beneath the radio is rather smart.
+
+<b><u>An Astonishing Degree of Luxury</b></u>
+
+The breeze coming through along the side of the instrument panel was so pleasant that I began fiddling with everything around me like a child. And once I paid attention to it, I found myself wondering why this car had to be so extravagantly equipped.
+
+I find it difficult to understand why Japanese cars must have every gauge imaginable, along with a radio, heater, cigarette lighter, ventilation outlets, reclining seats and all the rest. Everything is provided, as though the manufacturers were competing to see just how much luxury they could cram in. As long as the engine and brakes perform well and the road-holding is good, I personally feel little need for anything more.
+
+People live in drafty homes full of unsealed gaps, which seem as though a strong wind could blow them away, and eat their <i>ochazuke</i> while strange, unpleasant smells drift through the air, yet indulge in luxuries such as television sets and stereos. At times I wonder whether such people really understand what it means to live well.
+
+I do not get into a car with driving itself as the objective. Rather, I see it as a tool of everyday life—sometimes simply to get myself from place to place safely, and sometimes to enjoy a drive in safety.
+
+Disc brakes are not only necessary so that one can tear along at over 100km/h. My view is that a car capable of more than 150km/h should be driven at a moderate speed, with plenty of performance in reserve. Disc brakes are simply a more effective means of ensuring safety under those conditions.
+
+<b><u>A Useful and Indispensable Tool</b></u>
+
+In any case, the point is simply that this car makes such efficient use of its 1600cc engine that it inspires confidence and puts the driver at ease. And for someone who uses a car as I do, I have always felt that the absence of a center pillar makes things particularly pleasant for those in the front seats, rather than those in the rear.
+
+For me, the Hardtop is a convenient means of scrubbing off the work week with my wife, but it is also an extremely useful tool, almost an essential weapon, for my daily commute and for rushing about Tokyo on business. I do not say this merely to flatter Toyota, but if I were to add this Corona Hardtop to the cars I currently own—a Cortina Lotus, an Alfa Romeo, a Taunus 20M and an Austin Cooper—I have a feeling that I might find myself driving the Hardtop almost exclusively, both for my daily work and for my Sunday drives.
+
+That is how well this car balances its performance, attractive appearance, ease of driving and unique hardtop comfort. It is, I think, a car that one can drive with complete peace of mind.
+
+<i>(Fashion Designer)</i>
+
+<b><u>Hardtops and Easy Driving</b></u>
+![Toyota Corona Hardtop 1600S](/images/MF-TDR-Toyota-Corona-Hardtop-1600S-1965b.jpg)<br>
+<i>Shigeo Ozeki</i>
+
+<b><u>In a Dream of Paris</b></u>
+
+One unusually fine Sunday in September, under a clear autumn sky, the "Blue Zone," where cars are normally parked eight rows deep, is completely empty. The only people are those beneath the awnings of the cafes on either side, gathering to enjoy the atmosphere.
+
+With little traffic on the streets, a Parisienne driving a boulevard coupe with a 75 registration number comes down the Champs-Élysées toward the Rond-Point, its convertible top down. The ivory-white bodywork blends beautifully with the sooty but dignified Parisian streetscape. The car continues on across the Seine from the Place de la Concorde, then disappears along the cobbled Boulevard Saint-Germain.
+
+Another boulevard coupe comes down the avenue. This time it is a Corona Hardtop—with Toyoglide, no less.
+
+Even in Paris, where so many cars have distinctive body styles, this one has a remarkably well-balanced appearance. It stops briefly in front of me. The metallic-silver paintwork is carefully finished. Even the controversial front grille, now painted black apart from its five chrome strips, has taken on an expression that should appeal to the connoisseur. I wish they had gone a step further and painted it all black.
+
+It moves away with little engine noise. The distinctive hardtop profile, with the rear quarter windows lowered, is beautiful. The slimmer taillight lenses give the rear a somewhat lighter appearance. Its turn signal flashing, the car rounds the corner beside a cafe and disappears. Where can it be going, I wonder?
+
+Letting my imagination run wild and picturing the RT50 driving through the streets of Paris, I find that it is by no means inferior to foreign cars. Indeed, it has become a car quite capable of standing proudly alongside them.
+
+By "boulevard coupe," I mean, broadly speaking, a sporting car suited to the atmosphere of cruising along a boulevard. The reason I deliberately chose the Toyoglide-equipped RT50-C for this flight of fancy is that the hardtop trend originated in America, where most cars like this are intended for "easy driving" with automatic transmissions. So, it only seemed natural to picture a Toyoglide on the streets of Paris.
+
+To my mind, the styling of the Hardtop series is particularly well suited to an automatic transmission. Power steering, power windows and the like seem to fit perfectly.
+
+It was with these rather vague ideas in mind that I recently had the opportunity to drive the Corona Hardtop 1600S, the highest-performance model in the series. The following are my impressions.
+
+<b><u>Frame Reinforcements Reduce Vibration</b></u>
+
+That morning, the newspaper had announced the end of the rainy season, and by the time I went to collect the Hardtop 1600S, the sun was already beating down. Wiping sweat from my brow, I thought, "A test drive on a day like this will be like taking a Turkish bath." But the moment I saw the Corona 1600S standing in the blazing sun, its Solar Red paintwork closer to crimson than ordinary red, I was seized by a desire to floor the throttle on Italy’s Autostrada del Sole or somewhere along the Riviera.
+
+The most noticeable differences from the Corona sedan series are the windshield and rear window, which are reclined by an additional 4°55′ and 15°58′ respectively, giving the body remarkably well-balanced proportions. The changes above the beltline, together with a 45mm reduction in overall height, provide a perfect example of just how much cleaner a car’s appearance can become through such changes.
+
+Opening the door, I found that the absence of a center pillar and the wider opening made getting in and out very easy. On the other hand, I had some concerns about structural rigidity. But the doors opened and closed without the unpleasant clattering sound often found in convertibles, and neither on the test course nor on rough roads did I notice any shaking of the doors or resonance caused by vibration. I understand that reinforcements have been added to the windshield pillars and roof side rails, and the care taken here is evident. These measures have brought a slight increase in weight, but in terms of balance, I felt that stability while driving, particularly when cornering, had improved.
+
+I settled into the carefully finished reclining bucket seat, which adjusts one notch forward and seven rearward. Even for someone of my small stature, the seat only felt right when slid all the way back. It has 120mm of fore-and-aft adjustment, but I think it would be better if the rails were mounted a little farther back.
+
+<b><u>A Wood-Rimmed Steering Wheel Would Be Welcome</b></u>
+
+Directly ahead are two black-faced round gauges in the center of the instrument panel, fitted only to the Hardtop 1600S.
+
+On the left is a speedometer scaled to 180km/h, and on the right a tachometer reading to 7000rpm. The engine develops its maximum output of 90ps at 5800rpm and maximum torque of 12.8mkg at 4200rpm.
+
+The needles of the speedometer and tachometer move clockwise, making them easy to read at high speeds. Next to them are combination gauges incorporating an ammeter and fuel level on one side, and an oil-pressure gauge and water-temperature gauge on the other. There are no warning lamps; instead, all the various conditions are indicated by needle positions. I think this suits the car's intended purpose and character. Because of the twin carburetors, a choke lever is also fitted under the dashboard.
+
+Next come the steering wheel and floor-mounted gear lever, both of which detract somewhat from the sporting atmosphere. Compared with the refined body styling, surely a wood-rimmed steering wheel would have been more appropriate? Admittedly, a wooden wheel may leave some doubts about its safety in an accident.
+
+The 4-speed gearbox is operated by a floor-mounted lever, but what bothers me is that, as in the standard Corona 1600S, the lever bends sharply toward the driver halfway along its length. Consequently, when selecting first or third gear, one has to push the round gear knob forward through a rather awkward motion. The gears engage smoothly enough, but the action reminds me of a truck's gear lever and rather spoils the mood.
+
+On the subject of "mood," I think the speedometer and rev counter mentioned earlier could also be made one size larger, with the part of the dashboard housing the gauges given its own distinct shape. That would surely make a striking impression.
+
+<b><u>Plenty of Luggage Space</b></u>
+
+On the left, beneath the lockable glove compartment, is a shelf fitted to all the new Corona models. This is extremely convenient for the owner-driver. In the Hardtop, a spacious, carpeted luggage area can also be created by folding the rear seat backrest forward, a feature that should prove useful on long journeys.
+
+As an aside, European manufacturers offer trunks and suitcases specially designed to fit the luggage compartments and spaces provided in their cars. Examples include the pair of suitcases for the Giulia GT and the three-suitcase set for the Facellia Spider. When Toyota starts offering the Corona Hardtop with its own specially designed suitcases, matched to the body color and interior trim, along with straps to secure them, the car will have become a fully-fledged grand tourer.
+
+There are large storage pockets in both front door panels, as well as on either side of the rear seat. It is also pleasing that the 1600S comes with seat belts for the driver and front passenger as standard equipment.
+
+<b><u>A Quiet and Powerful Car</b></u>
+
+Turning to the engine and chassis, these are the same as those of the S sedan. Opening the forward-hinged hood, the first things to catch the eye are the twin SU-type carburetors made by Aisan. The dual exhaust manifold, designed to minimize interference between exhaust pulses, and the twin tail mufflers further hint at the character of the newly designed 1587cc, 90ps engine.
+
+Time was short, so I set out on the test drive under sunshine that felt as strong as midsummer, with the temperature exceeding 30°C. The first thing I noticed was how little noise the car made. The Corona sedan series was already quiet, and according to the manufacturer's figures, the Hardtop produces a noise level of around 90 phons at 120km/h.
+
+Another advantage of the hardtop body is the excellent all-round visibility, with hardly any blind spots. With all the windows lowered, the interior is also remarkably cool and airy. The airflow is so well controlled that one's hair is seldom disturbed, which I found particularly pleasant.
+
+Poor road conditions prevented me from attempting acceleration or maximum-speed tests, but the manufacturer's claimed standing-start quarter-mile time of 17.7 seconds seemed entirely attainable.
+
+One small point that bothered me was the inside door handle. It points forward and can be operated from a natural position, but it comes into contact with the knee when cornering. I think it would be better if the handle could be positioned farther forward, or if another type of handle were devised.
+
+Those are my impressions, written as they occurred to me. In acceleration, running performance, and the finish of the body and interior, I came away feeling that the Corona Hardtop was at least up to the standard of foreign cars in the same class. Given the opportunity, I should very much like to own one and truly see what it can do.
+
+I should add that, unlike the boulevard coupe I pictured at the beginning, this car struck me in practice as something altogether more "powerful."
+
+<i>(President, Yamada Rinseikan)</i>
+
+<b><u>A Sports Car That Can Serve as One’s Only Car</b></u>
+![Toyota Corona Hardtop 1600S](/images/MF-TDR-Toyota-Corona-Hardtop-1600S-1965c.jpg)<br>
+<i>Taisuke Fujishima</i>
+
+With the arrival of summer, sports cars have become a more common sight on the streets. Some ten years ago, when I was driving an MG TD, there were only a handful of sports cars in all of Tokyo, and one almost felt obliged to apologize for driving one. Times have changed.
+
+That said, I have certain doubts about the present sports-car boom. Roads may have improved somewhat since the Olympics, but speed limits are still no more than 60km/h at best. Moreover, Japan’s climate is particularly unsuited to enjoying a sports car, with its frequent rain, strong winds and dust everywhere. There is little pleasure in driving when one must constantly worry about police checks or ending up covered in dust from head to toe.
+
+Even in the advanced countries of Western Europe, a sports car is a luxury. It is something for wealthy people to enjoy on holidays as a "second car." To own a sports car and nothing else is, after all, rather strange. With only one car, one must sometimes put on a necktie and drive one's sports car to a formal engagement. The sight of a man or woman "dressed up" for the occasion in an open sports car would be simply laughable.
+
+These were the thoughts that came to mind when I first saw the Corona Hardtop 1600S. Here is a sports-type car that has dressed itself up. It struck me as a "GT car in formal attire," designed with full consideration for Japanese national character and economic circumstances. This is a car that can serve as one’s only vehicle, looking equally appropriate whether its driver wears a sports shirt or a silk tie. I was impressed once again by Toyota’s almost animal instinct for understanding the Japanese character.
+
+<b><u>A Pioneering Hardtop</b></u>
+
+I have long been irritated by the tendency of Japanese cars to cling stubbornly to four-door layouts, despite their small size. For the owner-driver, the essential question is whether a car is convenient to drive, and there is no need for fussy little four-and-a-half-tatami cars built in the spirit of "even the smallest creature has its pride."
+
+The Corona Hardtop seems to have eliminated as much of this typically Japanese over-accommodation as possible. Who would have thought that something as simple as removing the center pillar could make a car feel so much more open and refreshing? It is something that cannot be appreciated without actually driving the car.
+
+Of course, I have ridden in American hardtops without center pillars, but there are not many examples among medium-sized cars in the 1600cc class. Unlike in a large car, the rear side windows can be opened without having to stretch, which is particularly convenient.
+
+The removal of the center pillar will surely prove to be a “Columbus’s egg” for the Japanese auto industry, and I expect similar cars to appear in rapid succession. I have always had great respect for Toyota’s pioneering spirit.
+
+<b><u>A Masculine Character</b></u>
+
+The test drive took me from the Gaien district to Haneda and back. The interior proved much roomier than I had imagined, and the bucket seats were generously sized. Of course, when one considers the usual, unreasonable practice of providing a bench seat for three people, there ought to be more than enough room for two.
+
+The floor-mounted gearshift operates a fully synchronized 4-speed gearbox, and its action is very light for this type of car. Since this car is intended to serve in both "dress-up" and "sporty" capacities, it would hardly do if the gearshift were so stiff that women found it difficult to use. In this respect, too, it passes the test.
+
+Watching the tachometer on the dashboard, I worked my way through the gears up to third. The engine seems happiest at around 3000rpm. When driving in Tokyo, there is little enjoyment to be gained from shifting into top. I took the engine up to 6000rpm in second gear and found that it pulled surprisingly well. Then came third, which left me feeling a little dissatisfied.
+
+The car has a somewhat heavy feel overall. It is difficult to say precisely where this feeling comes from, but I suspect the body may be rather heavy. The steering, too, feels slightly heavy, although this may have been because I was observing the speed limit, or perhaps because of the tire pressures.
+
+The exhaust note is not particularly loud. Whether this has anything to do with the exhaust pipe divided into twin outlets at its tip, I cannot say, but the sound is certainly pleasant.
+
+The ride gives an impression of solidity, although it is firm, and the car's stability through corners inspires confidence. The brakes are effective, as one would expect with front discs, though I felt that a little more pedal travel would have been welcome. I was surprised by the lightness of the clutch, and its engagement is excellent. Even under abrupt engine braking, there is very little loss of traction.
+
+In the end, I concluded that the new Corona's masculine character is both a strength and a weakness, at least in terms of the ride. If it is to be a GT car through and through, I would like a stronger impression of power; if it is also to serve as a family car, I would like somewhat more elegant lines...
+
+<b><u>Four Headlights Are Too Fussy</b></u>
+
+The turn signals, for example, are operated by the ring inside the steering wheel unique to the Corona, but I would personally prefer a GT car to have a separate turn-signal stalk. That would allow a more consistent grip on the wheel. Ideally, the driver should be able to keep the right hand at the top center of the steering wheel and the left hand on the gear lever.
+
+As for the dashboard, the speedometer and tachometer are both positioned where they are easy to read, but the oil-pressure and water-temperature gauges are grouped on one side, while the ammeter and fuel gauge are on the other. This may have been done for the sake of visual balance, but it makes them somewhat difficult to read.
+
+Turning to the exterior, the radiator grille is much more refined than that of the standard Corona, and the cleaner treatment of the taillights is also noticeable. Having gone this far in simplifying the design, however, I wish Toyota had adopted twin headlights, at least for the 1600S. Four headlights look rather too fussy for a GT car.
+
+In any case, this is a car in which one can travel in style, and it should appeal to young couples, married or not, and others who combine youth with a certain degree of sophistication.
+
+At the risk of repeating myself, I hope Toyota will continue to demonstrate its pioneering spirit and go on breaking one “Columbus’s egg” after another.
+
+<i>(Writer)</i>
+
+---
+
+<div class="breadcrumbs-footer">
+  <span><b>Navigation:</b></span>
+  <a href="/">Home</a>
+  <span>·</span>
+  <a href="/toyota/">Toyota</a>
+  <span>·</span>
+  <a href="/toyota/corona/">Corona</a>
+</div>
+

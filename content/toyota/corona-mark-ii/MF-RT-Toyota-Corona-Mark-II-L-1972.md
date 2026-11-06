@@ -80,19 +80,19 @@ Rather than being called the “Corona Mark II,” it is generally referred to s
 
 <b>Akiyama:</b> Because of the difference in the size of the cars, we have made some modifications. Specifically, the intake manifold and air cleaner have been moved inward toward the center, making the engine about 30mm narrower than in the Crown.
 
-The engine itself is almost the same, but with the character of the Mark II in mind, we improved its high-speed performance and also made some revisions to fuel economy and acceleration. This involved modifications to the intake and exhaust systems, the intake manifold, the cylinder head, and other areas, with the carburetor matched accordingly.
+The engine itself is almost the same, but with the character of the Mark II in mind, we improved its high-speed performance and also made some revisions related to fuel economy and acceleration. This involved modifications to the intake and exhaust systems, the intake manifold, the cylinder head, and other areas, with the carburetor matched accordingly.
 
-<b>Magazine:</b> Is the Mark II the only model in which measures have been taken at the valve seats for unleaded gasoline?
+<b>Magazine:</b> Is the Mark II the only model in which measures have been taken in the valve seats for unleaded gasoline?
 
 <b>Matsumoto:</b> I think there may still be some sporting versions of other models that are exceptions, but for the most part I believe we are using valve seats suitable for unleaded gasoline.
 
-<b>Akiyama:</b> This is also part of our effort to achieve harmony with the social environment....
+<b>Akiyama:</b> This is also part of our effort to achieve harmony with the social environment...
 
 <b>Magazine:</b> Leaving aside the L-series models, prices have remained unchanged, so in that respect you could say the new Mark II offers very good value.
 
 <b>Oguchi:</b> I think so. And it has more of a sense of aspiration than the Crown. Around this 2000cc class, there is a sort of empty pocket in the market—a conspicuous gap with very little in it. In that respect, I think this may be a segment that will grow from here on.
 
-<b>Kageyama:</b> There are quite a few interesting features on it, too. The Afterglow headlamp system is quite an elaborate idea, but even if they're only supposed to stay on for about 20 seconds, I'd be too nervous to go into the house until I'd made sure they really did turn off. (laughs)
+<b>Kageyama:</b> There are quite a few interesting features on it, too. The "Afterglow" headlamp system is quite an elaborate idea, but even if they're only supposed to stay on for about 20 seconds, I'd be too nervous to go into the house until I'd made sure they really did turn off. (laughs)
 
 <b>Higuchi:</b> You don't have to use that, do you?
 
@@ -102,7 +102,7 @@ The engine itself is almost the same, but with the character of the Mark II in m
 
 <b>Yoshii:</b> Once you try Auto Drive, you really become aware of just how hard your right foot is working to constantly operate the accelerator.
 
-<b>Higuchi:</b> I had thought, “the accelerator pedal isn't such a burden, is it?” But when I took my foot off it and rested it on the floor, I was surprised at just how much easier it was.
+<b>Higuchi:</b> I had initially thought, “It's only the accelerator pedal, isn't it?” But when I took my foot off it and rested it on the floor, I was surprised at just how much easier it was.
 
 <b>Hirao:</b> The only thing is, you need to leave plenty of distance between yourself and the car ahead. Making things easier means that your level of readiness drops by that much as well.
 
@@ -114,7 +114,7 @@ The engine itself is almost the same, but with the character of the Mark II in m
 
 <b>Koizumi:</b> 70,000 yen. My understanding is that it is being introduced progressively, beginning in the regions where it is considered necessary.
 
-<b>Hirao:</b> I certainly think safety devices are a good thing. But ideally, I think the best kind is one that is simply there without calling attention to itself, and saves you when the need arises.
+<b>Hirao:</b> I certainly think safety devices are a good thing. But ideally, I think the best kind is one that is simply there without calling attention to itself, and steps in to save you when the need arises.
 
 <b>Akiyama:</b> Perhaps so.
 
