@@ -59,6 +59,9 @@
     <loc>http://localhost:1313/mitsubishi/lancer/cg-fomd-mitsubishi-lancer-1600gsr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/isuzu/florian/mf-tdr-isuzu-florian-ts-1969/</loc>
+    <lastmod>2026-11-06T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/laurel/mf-tdr-nissan-laurel-hardtop-2000gx-1972/</loc>
     <lastmod>2026-06-26T04:50:49-07:00</lastmod>
   </url><url>
@@ -122,7 +125,7 @@
     <loc>http://localhost:1313/toyota/corona/mf-rt-toyota-corona-hardtop-1600s-1965/</loc>
     <lastmod>2026-09-18T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/honda/honda-n360/mt-rt-honda-n360-1967/</loc>
+    <loc>http://localhost:1313/honda/honda-n360-n600/mt-rt-honda-n360-1967/</loc>
     <lastmod>2026-09-16T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/isuzu/florian/mf-tdr-isuzu-florian-1800-touring-deluxe-1971/</loc>
@@ -236,6 +239,9 @@
     <loc>http://localhost:1313/honda/honda-1300/mm-tdr-honda-1300-99s-1969/</loc>
     <lastmod>2026-05-29T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/honda/honda-n360-n600/mf-tdr-honda-n600e-1968/</loc>
+    <lastmod>2026-11-07T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/toyota/corolla-sprinter/mf-tdr-toyota-corolla-levin-1600-1972/</loc>
     <lastmod>2026-07-08T04:50:49-07:00</lastmod>
   </url><url>
@@ -299,7 +305,7 @@
     <loc>http://localhost:1313/nissan/bluebird/cg-ri-nissan-bluebird-u-1800sss-e-1972/</loc>
     <lastmod>2025-12-04T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/honda/honda-n360/cg-ri-honda-n360ts-1969/</loc>
+    <loc>http://localhost:1313/honda/honda-n360-n600/cg-ri-honda-n360ts-1969/</loc>
     <lastmod>2025-12-02T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/honda-s600-s800/as-rt-honda-s800-1966/</loc>
@@ -668,19 +674,28 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/honda/honda-n360-n600/</loc>
+    <lastmod>2026-11-07T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/honda/</loc>
+    <lastmod>2026-11-07T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-11-07T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/isuzu/florian/</loc>
+    <lastmod>2026-11-06T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/isuzu/</loc>
+    <lastmod>2026-11-06T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/toyota/corona/</loc>
     <lastmod>2026-11-05T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/</loc>
     <lastmod>2026-11-05T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-11-05T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/honda/honda-life/</loc>
-    <lastmod>2026-11-04T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/honda/</loc>
     <lastmod>2026-11-04T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/familia/</loc>
@@ -743,12 +758,6 @@
     <loc>http://localhost:1313/subaru/leone/</loc>
     <lastmod>2026-10-09T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/isuzu/florian/</loc>
-    <lastmod>2026-10-08T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/isuzu/</loc>
-    <lastmod>2026-10-08T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/skyline/</loc>
     <lastmod>2026-10-08T04:50:49-07:00</lastmod>
   </url><url>
@@ -769,9 +778,6 @@
   </url><url>
     <loc>http://localhost:1313/suzuki/</loc>
     <lastmod>2026-09-23T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/honda/honda-n360/</loc>
-    <lastmod>2026-09-16T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/prince/skyline_sports/</loc>
     <lastmod>2026-09-14T04:50:49-07:00</lastmod>

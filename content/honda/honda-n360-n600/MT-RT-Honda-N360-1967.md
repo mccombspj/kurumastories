@@ -400,7 +400,7 @@ Overall, these provisions are roughly comparable with those found on cars in the
   <span>·</span>
   <a href="/honda/">Honda</a>
   <span>·</span>
-  <a href="/honda/honda-n360/">N360</a>
+  <a href="/honda/honda-n360-n600/">N360 / N600</a>
 </div>
 
 
