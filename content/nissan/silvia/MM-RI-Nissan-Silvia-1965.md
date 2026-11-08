@@ -98,7 +98,7 @@ draft = false
 
 
 
-<b>Publication:</b> Motor Magazine<br><b>Format:</b> Road Impression<br><b>Date:</b> April 1965<br><b>Author:</b> Hideo Aoki
+<b>Publication:</b> Motor Magazine<br><b>Format:</b> Road Impression<br><b>Date:</b> May 1965<br><b>Author:</b> Hideo Aoki
 
 
 
@@ -181,6 +181,9 @@ There is also something I have wished to see for many years. Imagine taking a ch
 
 This report has necessarily been based solely on high-speed testing at the Yatabe proving ground. Since I was unable to evaluate the Silvia as a car for everyday use, I realize that readers may find certain aspects of the report lacking. I hope, however, to have another opportunity to test the car more freely and report my findings when the time comes.
 
+<b><u>Postscript: Story Photos</b></u>
+
+{{< gallery "MM-RI-Nissan Silvia-1965-Gallery" >}}
 
 ---
 
