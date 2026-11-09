@@ -147,7 +147,7 @@ When running the engine continuously at high speeds, the absence of an oil-press
 
 Its acceleration all the way to 100mph is outstanding, but above 170km/h—as can only be expected from the performance curve—it no longer has the sense of continuing acceleration found in something like a Lotus Elan. Admittedly, the two cars were designed with different purposes in mind, so this cannot really be helped; but if this car were ever fitted with, say, a 2000cc-class twin-cam engine, it would be a formidable combination indeed. Perhaps that sort of thing should instead be expected of the open Fairlady 1500.
 
-For the Silvia, it might be better to fit the familiar Borg-Warner automatic transmission and give the engine a little more capacity. Those who want such improvements would probably go on to demand a power antenna and power windows, power steering and power brakes as well. Perhaps that would only be natural.
+For the Silvia, it might be better to fit the familiar Borg-Warner automatic transmission and give the engine a little more capacity. Those who want upgrades such as these would probably go on to demand a power antenna and power windows, power steering and power brakes as well. Perhaps that would only be natural.
 
 In any event, I can fairly say that I have never before driven a Japanese car that displayed such stable road behavior at high speeds above 100mph.
 
