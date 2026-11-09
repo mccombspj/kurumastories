@@ -107,7 +107,7 @@ draft = false
 
 Now, as I sit down to put together this test report on the Silvia, I feel that I have come to understand its “character” completely. That is because I have driven it to my heart's content through crowded city streets, over the rough and uneven roads of Chiba and Ibaraki Prefectures, and along the winding roads that follow the ridges of Hakone and Izu.
 
-I believe it is roads that change the performance and design of automobiles. When the Meishin Expressway opened, it took on something of the character of a joint test course for Japan's automobile manufacturers, and proved of considerable value particularly in the study of high-speed driving. But with its 100km/h speed limit, the Meishin is no longer of much use. We have already entered an age in which driving at 100mph is taken for granted.
+I believe it is roads that change the performance and design of automobiles. When the Meishin Expressway opened, it took on something of the character of a joint test course for Japan's car manufacturers, and proved of great value particularly in the study of high-speed driving. But with its 100km/h speed limit, the Meishin is no longer of much use. We have already entered an age in which driving at 100mph is taken for granted.
 
 The Silvia, whose catalog gives a maximum speed of 165km/h, demonstrated outstanding high-speed performance at the Yatabe Automotive High-Speed Test Course, designed for speeds of 190km/h, reaching just short of 180km/h. And rough, badly surfaced roads that a Fairlady 1500 would probably find impossible to manage present no difficulty at all for the Silvia.
 
@@ -117,11 +117,11 @@ With that, let us turn to the main part of my test report on the Silvia as a "10
 
 The Silvia's most distinctive feature is its servo synchromesh. This is an excellent synchromesh mechanism patented by Porsche of West Germany and made available for use in Nissan cars through a technical cooperation agreement. The transmission, with four forward speeds and one reverse, can be used entirely according to the driver's will. Upshifts and downshifts can be made freely and quickly; indeed, not once did I manage to make the gears protest.
 
-The short shift lever projecting from the floor is topped by a somewhat large knob. With this nearly vertical lever free to be manipulated as desired, one can readily select the appropriate gear at any speed from zero to 100mph. In particular, I found myself using first gear at least twice as often as I normally had before. Most of this additional use came in downshifting: shifting from second into first and using engine braking to scrub off speed proved extremely effective.
+The short shift lever projecting from the floor is topped by a somewhat large knob. With this nearly vertical lever free to be manipulated as desired, one can readily select the appropriate gear at any speed from zero to 100mph. In particular, I found myself using first gear at least twice as often as I do normally. Most of this additional use came in downshifting: shifting from second into first and using engine braking to scrub off speed proved extremely effective.
 
 If I had to find fault, the shift lever, positioned between the console and the armrest box, could be moved another 20-30mm forward. I am 170cm tall and drive with the driver's seat slid fully back and the backrest reclined one or two notches beyond its normal position, yet even then I felt that the lever should be a little farther forward, to place it more naturally within reach of the right hand from the steering wheel.
 
-The Silvia is a car in which one can drive in a relaxed posture, with the arms extended to hold both the steering wheel and the shift lever, and the legs also nearly straight to operate the pedals. This is less tiring and particularly well suited to long-distance driving.
+The Silvia is a car in which one can adopt a relaxed driving posture, with the arms extended to hold both the steering wheel and the shift lever, and the legs nearly straight out to operate the pedals. This is less tiring and particularly well suited to long-distance driving.
 
 Apart from the black vinyl leather covering the instrument panel, the interior trim and seats are all finished in white vinyl leather. They are prone to showing dirt. Unless cleaned at least once a month, they are likely to become noticeably dirty. I would also like to see headrests fitted to the tops of the seat backs.
 
@@ -131,7 +131,7 @@ When I tried a full-throttle run at the Yatabe High-Speed Test Course, the Silvi
 
 Incidentally, we also timed a full-throttle lap of this 5500m course with two stopwatches, completing it in exactly 1 minute 54 seconds. This works out to 48.245m per second, 2894.7m per minute, and 173.682km/h. In other words, we had averaged nearly 174km/h around this course, with its large banked curves at the north and south ends. In this case, the maximum speed on the straights could naturally be expected to reach 180km/h. I distinctly remember that on the straight the white needle was pointing to the line immediately before the 180 mark. At this speed, of course, the tachometer was into the red zone, and the engine must have been turning at around 6700rpm.
 
-In any case, this is an engine that picks up revs readily: in first and second, pressing the accelerator only lightly would send it spinning to around 7000rpm in an instant. I had ample opportunity to experience the capabilities of this highly oversquare, high-speed engine.
+In any case, this is an engine that revs up easily: in first and second, pressing the accelerator only lightly would send it spinning to around 7000rpm in an instant. I had ample opportunity to experience the capabilities of this highly oversquare, high-speed engine.
 
 At 170-180km/h—in other words, above 100mph—I would rate the Silvia's road behavior at no less than 80 points out of 100. Despite having a suspension supple enough to deal with rough roads so well, even at more than 100mph on newly laid concrete pavement there is no sense at all of the car lifting; if anything, it seems to settle down lower, and remains remarkably stable. This excellent high-speed stability is exactly what makes an average lap speed of approximately 174km/h possible.
 

@@ -110,6 +110,9 @@
     <loc>http://localhost:1313/nissan/cherry/cg-rt-nissan-cherry-coupe-x-1-1971/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/silvia/cg-rt-nissan-silvia-1965/</loc>
+    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/toyota/corolla-sprinter/mf-rtd-toyota-sprinter-sr-1971/</loc>
     <lastmod>2025-11-25T04:50:49-07:00</lastmod>
   </url><url>
@@ -206,9 +209,6 @@
     <loc>http://localhost:1313/mitsubishi/colt-galant-fto/cg-gt-mitsubishi-colt-galant-fto-giii-vs-toyota-sprinter-sr-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nissan/silvia/cg-rt-nissan-silvia-1965/</loc>
-    <lastmod>2025-10-11T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nissan/skyline/cg-rt-nissan-skyline-1500-sporty-deluxe-1968/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -229,6 +229,9 @@
   </url><url>
     <loc>http://localhost:1313/mazda/familia/mf-rt-mazda-familia-rotary-coupe-1968/</loc>
     <lastmod>2026-10-31T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/silvia/mm-ei-nissan-silvia-1965/</loc>
+    <lastmod>2026-11-08T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/toyota/corona/mf-rt-toyota-corona-1600-deluxe-golden-series-1968/</loc>
     <lastmod>2026-11-02T04:50:49-07:00</lastmod>
