@@ -22,7 +22,7 @@ title = "Nissan Silvia (1965)"
 
 
 
-weight = 10
+weight = 5
 
 
 
