@@ -198,33 +198,33 @@ First, I spoke with one salesman from the Toyopet dealer network, which handles 
 
 “What do you think of the introduction of the Carina GT?”
 
-“Oh, we welcome it wholeheartedly. Customers who favor the Carina almost always bring up the Celica and ask for a high-performance version. For buyers moving up from something like the old 1600GTs, it’s really just the right size and price.”
+“Oh, we welcome it wholeheartedly. Customers who favor the Carina almost always bring up the Celica and ask for a high-performance version. For buyers moving up from something like the old 1600GT, it’s really just the right size and price.”
 
 On the other hand, one representative customer offered the following view:
 
-“When the Celica and Carina first appeared, I thought they seemed just about ideal. But when it actually came time to make a decision, I found myself hesitating again. Considering practical uses like work or leisure, the Celica feels just a little too flashy. And yet, I still want a compact GT with sharp, purposeful performance. In that sense, the Carina GT strikes me as something like a sports car for ordinary adults.”
+“When the Celica and Carina first appeared, I thought they seemed just about perfect. But when it actually came time to make a decision, I found myself hesitating. Considering practical uses like work or leisure, the Celica feels just a little too flashy. But I still want a compact GT with sharp, purposeful performance. In that sense, the Carina GT strikes me as something like a sports car for regular adults.”
 
 These two opinions seem to align rather neatly with the true aim behind the Carina 1600GT’s introduction.
 
-The Celica GT captured the hearts of younger buyers so completely that, if anything, it ended up alienating more mature customers.
+The Celica GT captured the hearts of younger buyers so completely that, if anything, it ended up alienating older customers.
 
-That is often the nature of the sporty sedan. Many people are drawn precisely to the appeal of “a wolf in sheep’s clothing.” Among buyers who have already graduated from overtly aggressive performance cars, there is a renewed appreciation for high-performance machines that appear restrained at first glance.
+That is often where the sporting sedan comes in. Many people are drawn precisely to the appeal of “a wolf in sheep’s clothing.” Among buyers who have already graduated from overtly aggressive performance cars, there is a renewed appreciation for high-performance machines that appear subdued at first glance.
 
 As a matter of fact, throughout my own test drive, I found the side stripes and “GT” emblems on the Carina faintly embarrassing.
 
-For the sort of buyer likely to purchase a Carina GT, such childish ornamentation is unnecessary. As Gordini once understood, it would be preferable if such things were offered, at the very least, only as post-purchase options. The mature character embodied by cars like the Skyline 2000GT--which currently enjoys overwhelming popularity--demonstrates this clearly enough. If the Skyline GT wore stripes down its flanks, it would probably lose half its appeal.
+For the sort of buyer likely to purchase a Carina GT, such childish ornamentation is unnecessary. As Gordini once understood, it would be preferable to offer such things as post-purchase options, if they must be offered at all. The mature character embodied by cars like the Skyline 2000GT--which currently enjoys overwhelming popularity--demonstrates this clearly. If the Skyline GT wore stripes down its sides, it would probably lose half its appeal.
 
 The same can be said of the body style itself.
 
-Having gone to the trouble of offering an affordable GT aimed at adults, one cannot help wondering why Toyota did not make the basic model a four-door. Since it is not a hardtop, the two-door sedan currently occupies a rather awkward middle ground and lacks much real charm. At the very least, few people spending more than 800,000 yen are likely to want a car whose rear side windows are all but fixed shut.
+Having gone to the trouble of offering an affordable GT aimed at adults, one cannot help wondering why Toyota did not base it on the four-door model. Since it is not a hardtop, the two-door sedan currently occupies a rather awkward middle ground and lacks much real charm. At the very least, few people spending more than 800,000 yen are likely to want a car with rear side windows that are all but fixed shut.
 
 In that sense, if the Carina is truly to serve as a "GT for adults," then it is only natural that it should take the form of a four-door GT.
 
-Indeed, it could very well be the answer to the question of why someone would choose a Carina GT instead of simply buying a Celica GT.
+Indeed, this could very well be the answer to the question of why someone would choose a Carina GT instead of simply buying a Celica GT.
 
-The desire to drive something different from everyone else’s car may escalate endlessly, but in the end, the point of compromise tends to arrive at a fairly restrained car endowed with high performance.
+The desire to drive something different from everyone else’s car may escalate endlessly, but in the end, the point of compromise tends to arrive at a fairly understated car endowed with high performance.
 
-When that ideal is satisfied neither by the Corolla nor by the Corona Hardtop, the presently absent Carina four-door GT emerges as an extremely attractive proposition for mature buyers.
+When that ideal is satisfied neither by the Corolla nor by the Corona Hardtop, the currently absent Carina four-door GT emerges as an extremely attractive proposition for mature buyers.
 
 If Toyota were to build such a car, it would amount to a pairing not unlike Alfa Romeo’s GT and Berlina models.
 
@@ -234,19 +234,19 @@ To remain stubbornly attached to this half-hearted two-door format is to risk sq
 
 The test car was finished in a light blue body color described as "Mermaid Blue"--bright, certainly, but by no means flashy.
 
-Whether in city traffic, on the highway, or among tourist areas, it attracted remarkably little attention. In other words, unless they drew close, no one realized that it was in fact a high-performance car powered by a 115ps DOHC engine.
+Whether in city traffic, on the highway, or in tourist areas, it attracted remarkably little attention. In other words, unless they drew close, few realized that it was in fact a high-performance car powered by a 115ps DOHC engine.
 
-And yet, compared with the feeling one gets behind the wheel of the former top-grade Carina 1600ST, the difference here lay first and foremost in the driver’s own sense of psychological superiority.
+And yet, compared with the feeling one gets behind the wheel of the formerly top-grade Carina 1600ST, the difference lay primarily in the driver’s own sense of psychological superiority.
 
 That quiet confidence of “Mine is something different” is immensely satisfying to the driver.
 
-The 5-speed gearbox itself is unchanged from the ST, so in that respect there is nothing fundamentally new. One might imagine that pairing it with a 115ps DOHC engine producing 14.5kgm of torque would result in a hot-blooded machine. In reality, however, the sensation is better described as a cool, mature kind of reserve performance.
+The 5-speed gearbox itself is unchanged from the ST, so in that respect there is nothing fundamentally new. One might imagine that pairing it with a 115ps DOHC engine producing 14.5kgm of torque would result in a hot-blooded machine. In reality, however, the sensation is better described as a cool, mature kind of performance held in reserve.
 
-This is one of the characteristic qualities of Toyota’s DOHC cars: rather than feeling peaky or temperamental, their ample torque instead translates into practical ease of use. As a result, even the 5-speed gearbox can be operated with a certain casualness.
+This is one of the characteristic qualities of Toyota’s DOHC cars: rather than feeling peaky or temperamental, their plentiful torque instead translates into practical ease of use. As a result, even the 5-speed gearbox can be operated with a certain nonchalance.
 
 And when acceleration is desired, one squeeze of the throttle delivers a seemingly endless surge of speed.
 
-Sudden lurches or shrieking tire noises under acceleration are simply unnecessary for a car like this to feel fast.
+Sudden lurches or squealing tires under acceleration are simply unnecessary for a car like this to feel fast.
 
 The Carina 1600GT is not merely a sportier version of the standard Carina created through mechanical upgrades alone.
 
