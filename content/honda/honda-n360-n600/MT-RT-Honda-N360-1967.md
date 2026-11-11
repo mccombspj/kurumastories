@@ -58,34 +58,34 @@ draft = false
 
 
 
-
+=
 
 
 <b><u>Emphasis in the Design Was on Passenger Space</b></u>
 
 <b>Magazine:</b> First, could you tell us about the background to the development of the N360?
 
-<b>Nakamura:</b> Honda has already produced a number of four-wheeled vehicles, including sports cars, kei trucks, and light vans, but these were all, so to speak, vehicles of a rather specialized character. They had their strong points, but at the same time they also had their shortcomings. As a result, we felt that the time had come for us to turn our attention to a passenger car aimed at the general user, and development was begun on that basis.
+<b>Nakamura:</b> Honda has already produced a number of four-wheeled vehicles, including sports cars, kei trucks, and light vans, but these were all, so to speak, vehicles of a rather specialized character. They had their strong points, but they also had their limitations. As a result, we felt that the time had come for us to turn our attention to a passenger car aimed at the general user, and development was begun on that basis.
 
-Our aim was a distinctly Japanese type of car—the kei passenger car—but one incorporating technical features that would be fully competitive anywhere in the world. We began with the conviction that this could be achieved within the kei-car limits of 3m in overall length and 1.3m in overall width.
+Our aim was a distinctly Japanese type of car—the kei passenger car—but one incorporating technical features that would make it fully competitive anywhere in the world. We began with the conviction that this could be achieved within the kei-car limits of 3m in overall length and 1.3m in overall width.
 
-As a kei car, we wanted to make it as practical and economical as possible. Specifically, we felt that the first requirement was to improve passenger accommodation. So the primary aim in the design was to provide room for four adults and a reasonable amount of luggage, without making the occupants feel cramped. At the same time, a kei car that is simply slow would no longer be acceptable, so a certain level of performance was also necessary. Maintenance, safety, and all the other considerations that would apply to a normal passenger car were taken into account as well.
+As a kei car, we wanted to make it as practical and economical as possible. Specifically, we felt that the first requirement was to improve passenger accommodation. So the primary aim in the design was to provide room for four adults and a reasonable amount of luggage, without making the occupants feel cramped. At the same time, being a kei car is no longer an excuse for being slow, so a certain level of performance was also necessary. Maintenance, safety, and all the other considerations that would apply to a normal passenger car were taken into account as well.
 
-Of these, the greatest emphasis was placed on passenger accommodation. When we began the design, we set the entire powertrain aside and started by designing the passenger compartment itself. The compartment was laid out on the condition that none of the mechanical components would intrude into it or get in the way. Only after the passenger compartment had been established did we begin designing the mechanical parts. In this way, front-wheel drive became the inevitable result, rather than something we had set out from the beginning to adopt.
+Of these, the greatest emphasis was placed on passenger accommodation. When we began the design, we set the entire powertrain aside and started by designing the passenger compartment itself. The compartment was laid out on the condition that none of the mechanical components would intrude into it or get in the way. Only after the passenger compartment had been established did we begin designing the mechanical parts. In this way, front-wheel drive became the inevitable result, rather than something we had set out to use from the beginning.
 
-For a car like this, we have made no distinction between the usual Deluxe and Standard versions. Everything we regard as necessary is fitted as standard equipment. We consider such items as the windshield washer and heater indispensable to the car. Everything else is available from an extensive list of optional or variation parts, allowing the customer to equip the car in various ways according to their preferences.
+For a car like this, we have made no distinction between the usual Deluxe and Standard versions. Everything we regard as necessary is fitted as standard equipment. We consider items such as the windshield washer and heater indispensable to the car. Everything else is available from an extensive list of optional or variation parts, allowing the customer to equip the car in various ways according to their preferences.
 
 <b><u>An N600 for Export as Well</b></u>
 
 <b>Magazine:</b> We understand you also exhibited a model fitted with a 500cc engine at the recent Geneva Motor Show.
 
-<b>Nakamura:</b> Quite apart from whether or not we actually intended to sell that car, one reason for exhibiting it was that we wanted to see how people in Europe would respond to it. As expected, it attracted a variety of reactions. Among them, it has been reported that BMC Technical Director Alec Issigonis, well known as the designer of the Mini, said, "That is a complete copy of the Mini." What he actually said, however, was, "It looks very much like the Mini, but once you get inside, it is a completely different car." His remark was misreported.
+<b>Nakamura:</b> Setting aside whether or not we actually intended to sell that car, one reason for exhibiting it was that we wanted to see how people in Europe would respond to it. As expected, it attracted a variety of reactions. Among them, it has been reported that BMC Technical Director Alec Issigonis, well known as the designer of the Mini, said, "This is a complete copy of the Mini." What he actually said, however, was, "It looks very much like the Mini, but once you get inside, it is a completely different car." His remark was misreported.
 
 In any event, we feel that our purpose in exhibiting the car at the Geneva Motor Show was achieved. Incidentally, it now appears that this model will ultimately become the N600.
 
 <b>Magazine:</b> Please tell us about your choice of an air-cooled inline two-cylinder engine for the power unit.
 
-<b>Nakamura:</b> As I mentioned earlier, we first established the passenger compartment and then tried various ways of fitting the mechanical components into the space that remained. An air-cooled inline two-cylinder engine proved to be the most straightforward solution. It was the best arrangement not only in terms of space, but also in terms of transmitting power to the wheels and maintenance. There remained the problems of vibration and other considerations, but we were confident that these could be reduced to a level that would present no problems in practical use.
+<b>Nakamura:</b> As mentioned earlier, we first established the passenger compartment and then tried various ways of fitting the mechanical components into the remaining space. An air-cooled inline two-cylinder engine proved to be the simplest solution. It was the best arrangement not only in terms of space, but also in terms of transmitting power to the wheels and maintenance. There remained the problems of vibration and other considerations, but we were confident that these could be reduced to a level that would present no problems in practical use.
 
 <b>Hirao:</b> You said that you first established the passenger compartment and used what remained as engine space. But within the dimensional limits of a kei car, if you provided passenger space comparable to that of a compact car, wouldn’t there be no room left for the engine? Although you say "room for four adults," I assume you still had the kei-car dimensions very much in mind. However much priority you give to passenger space, it would hardly be possible to provide accommodation comparable to that of an 800cc-class passenger car.
 
@@ -93,17 +93,19 @@ In any event, we feel that our purpose in exhibiting the car at the Geneva Motor
 
 <b>Hirao:</b> In that case, setting the existing kei cars aside, roughly what size of car would you say the N360’s passenger accommodation can be compared with?
 
-<b>Hayano:</b> Among cars of a similar type, something like the Contessa 900 would be the closest comparison. In terms of passenger accommodation, it can be compared with a car of that size. The 140mm of seat travel is also something quite remarkable for a kei car, and we believe it allows drivers over a fairly wide range of body sizes to find a driving position that suits them properly.
+<b>Hayano:</b> Among cars of a similar type, something like the Contessa 900 would be the closest comparison. In terms of passenger accommodation, it can be compared with a car of that size. The 140mm of seat travel is also quite an unusual feature for a kei car, and we believe it allows drivers over a fairly wide range of body sizes to find a suitable driving position.
 
 <b><u>Passenger-Compartment Space and Seat Position</b></u>
 
-<b>Watari:</b> There’s no question that the interior gives the impression of being quite spacious, but various things protrude into the driver’s area, and once you actually get in, somehow it doesn’t feel as roomy as you might expect. In fact, I found it rather cramped. I’d also like the driver’s seat to be able to slide farther back when there’s no one in the rear. I had it all the way back, but there still wasn’t enough room for my legs. The shift lever was constantly touching the side of my knee. And that shift lever actually tends to slip out of gear rather easily, so I found myself holding it in place all the time. It really isn’t very satisfactory. There seems to be quite comfortable space for the rear-seat and front-seat passengers, but as far as the driver’s seat itself is concerned, I found it cramped.
+<b>Watari:</b> There’s no question that the interior gives the impression of being quite spacious, but various things protrude into the driver’s area, and once you actually get in, somehow it doesn’t feel as roomy as you expect. In fact, I found it rather cramped. 
 
-<b>Hirao:</b> I can easily understand what Professor Watari is saying. When you make the passenger compartment spacious, the front wheel housings protrude into the front-seat area. In other words, although the overall dimensions of the passenger compartment are large, in actual use it feels smaller than they would suggest. That’s a common characteristic in front-wheel-drive cars.
+I’d also like the driver’s seat to be able to slide farther back when there’s no one in the rear. I had it all the way back, but there still wasn’t enough room for my legs. The shift lever was constantly bumping the side of my knee. And that shift lever actually tends to slip out of gear rather easily, so I found myself holding it in place all the time. It really isn’t very satisfactory. There seems to be quite comfortable space for the rear-seat and front-seat passengers, but as far as the driver’s seat itself is concerned, I found it cramped.
+
+<b>Hirao:</b> I can easily understand what Professor Watari is saying. When you make the passenger compartment spacious, the front wheel housings protrude into the front-seat area. In other words, although the overall dimensions of the passenger compartment are large, in actual use it feels smaller than those dimensions suggest. That’s a common characteristic in front-wheel-drive cars.
 
 <b>Watari:</b> And yet this is the most important point when it comes to making use of space in a front-wheel-drive car. How you solve this problem is, I think, one of the key points in the design...
 
-<b>Hirao:</b> In other words, however spacious the passenger compartment may be overall, that doesn’t necessarily mean the driver will feel that they have been particularly well provided for. With a small front-wheel-drive car, that is certainly a difficult problem.
+<b>Hirao:</b> In other words, however spacious the passenger compartment may be overall, that doesn’t necessarily mean the driver will feel that they have been particularly well accommodated. With a small front-wheel-drive car, that is certainly a difficult problem.
 
 <b>Higuchi:</b> If you want to provide a full-size rear seat, with enough room for four adults to sit comfortably, while also giving the driver a feeling of spaciousness, wouldn’t it be better to provide a greater range of seat adjustment? In other words, there’s not much that can be done when four people are on board, but when the driver is alone, or only the front seats are occupied, the seat could be moved much farther back to provide lots of legroom. In that situation, it wouldn’t matter if there were no rear-seat legroom at all—if I may put it in extreme terms...
 
