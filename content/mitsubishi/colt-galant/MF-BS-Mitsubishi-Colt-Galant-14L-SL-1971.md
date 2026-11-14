@@ -75,7 +75,7 @@ As for the transmission and final-drive ratios, only the final-drive ratio has b
 
 The dashboard now features the currently fashionable rectangular instruments, with a woodgrain finish for the panel.
 
-Our test group—some of whose members drove the car that evening—then took the Galant over our customary route: from the Tokyo Interchange of the Tomei Expressway to the Gotemba Interchange, over the Otome Pass, along the Hakone Turnpike, back over the Otome Pass, and finally from the Gotemba Interchange to Tokyo.
+Our test group—some of whom drove the car that evening—then took the Galant over our customary route: from the Tokyo Interchange of the Tomei Expressway to the Gotemba Interchange, over the Otome Pass, along the Hakone Turnpike, back over the Otome Pass, and finally from the Gotemba Interchange to Tokyo.
 
 Returning to our base at "Fantasy," the drive-in on Tamagawa-dori near the entrance to the Tomei Expressway, the specialists exchanged their impressions of the car.
 
@@ -87,21 +87,21 @@ For further details, we invite readers to turn to the individual reports from ou
 
 <b><u>Performance: A Strong Performer in the 1400 Class</b></u> <i>(Osamu Mochizuki)</i>
 
-With its facelifted exterior and interior, the Galant 1400L has moved up a notch in stature compared with the previous 1300, and it has been given the performance appropriate to its higher standing.
+With its facelifted exterior and interior, the Galant 1400L has moved up a notch in stature compared with the previous 1300, and it has been given performance appropriate to its higher standing.
 
 At the heart of the car is the 4G33 Saturn engine, developing 92ps/6300rpm. Maximum torque of 12.5kgm is produced at 4000rpm, but its outstanding characteristic is the strong torque available over a wide range of engine speeds.
 
-Bore and stroke are 73×86mm, giving a total displacement of 1439cc, the largest in the 1400cc class. Thanks in part to this generous displacement, the car's performance is exceptionally smooth as well as powerful.
+Bore and stroke are 73×86mm, giving a total displacement of 1439cc, the largest in the 1400cc class. Thanks in part to this large displacement, the car's performance is exceptionally smooth as well as powerful.
 
-One of the distinctive features of its quiet performance is the final-drive ratio of 3.889, which can be considered relatively high-speed gearing for this class. This is a substantial change from the 4.222 ratio of the previous 1300, and has markedly improved the car's ability to stretch its legs at higher speeds. 
+One of the distinctive features of its quiet performance is the final-drive ratio of 3.889, which can be considered relatively high-speed gearing for this class. This is a substantial change from the 4.222 ratio of the previous 1300, and has improved the car's ability to stretch its legs at higher speeds. 
 
-At the same time, the lower engine speeds have brought a noticeable reduction in noise. The body styling was already relatively free of wind noise, but with the engine turning only around 3500rpm at 100km/h—a speed more typical of a larger-engined car—running noise at high speeds is kept to a satisfactory level.
+At the same time, the lower engine speeds have brought a noticeable reduction in noise. The body styling already produced relatively little wind noise, but with the engine turning only around 3500rpm at 100km/h—an engine speed more typical of a larger-engined car—running noise at high speeds is kept comfortably low.
 
-The test car had covered just under 2,000km, so the engine was not fully run in. There was a tendency for it to become less eager to gain revs at higher engine speeds, but it nevertheless provided the enjoyable driving performance one would expect of a strong contender in the 1400cc class.
+The test car had covered just under 2,000km, so the engine was not fully run in. There was a tendency for it to become less eager to gain revs at higher engine speeds, but it nevertheless provided the enjoyable performance one would expect of a strong entry in the 1400cc class.
 
-In city driving, engine speeds down to around 1000-1500rpm are used frequently, but there was no shortage of throttle response in either third or top gear. This is only to be expected from the long 86mm stroke, but the engine also offers excellent response over a broad range from medium to high speeds. The feeling that the car surges forward the moment the accelerator is pressed, whatever the road speed, can be regarded as a distinctive Galant characteristic.
+In city driving, low engine speeds of around 1000-1500rpm are used frequently, but there was no shortage of throttle response in either third or top gear. This is only to be expected from the long 86mm stroke, but the engine also offers excellent response over a broad range of medium to high speeds. The feeling that the car surges forward the moment the accelerator is pressed, whatever the road speed, can be regarded as a distinctive Galant characteristic.
 
-Looking at the average power outputs in the 1400cc class, standard models generally develop around 87ps, while twin-carburetor sporting versions produce about 95ps. The Galant 14L, however, has the same 92ps engine throughout the range, from the basic Standard to the SL. In that respect, it is closer to the sporting versions of its competitors. Although its power output is relatively high, the strong, flat torque characteristics leave the impression of an unfussy car that anyone can drive easily. The design philosophy of using plenty of displacement and a single carburetor seems to have paid off in this respect.
+Looking at the average power outputs in the 1400cc class, standard models generally develop around 87ps, while twin-carburetor sporting versions produce about 95ps. The Galant 14L, however, has the same 92ps engine throughout the range, from the basic Standard to the SL. In that respect, it is closer to the sporting versions of its competitors. Although its power output is relatively high, the strong, flat torque characteristics give the impression of an unfussy car that anyone can drive easily. The design philosophy of using a larger displacement and a single carburetor seems to have paid off in this respect.
 
 The precise, smooth gearshift, easy-to-operate pedals and steering that maintains an appropriate degree of effort at both low and high speeds all contribute to making the car easy and pleasant to drive. These qualities undoubtedly play a part in the favorable impression of its performance.
 
@@ -111,21 +111,21 @@ The precise, smooth gearshift, easy-to-operate pedals and steering that maintain
 
 <b><u>Handling & Stability: Agile Handling</b></u> <i>(Katsuzo Kageyama)</i>
 
-Since the tilt steering wheel is one of the car's distinctive features, I expected it to be easier than usual to find a driving position that suited me exactly. I tried various combinations of steering-wheel angle and fore-and-aft seat adjustment, but was surprised at how much difficulty I had finding the best position.
+Since the tilt steering wheel is one of the car's distinctive features, I expected it to be easier than usual to find a driving position that fit me perfectly. I tried various combinations of steering-wheel angle and fore-and-aft seat adjustment, but was surprised at how much difficulty I had finding the best position.
 
-Eventually, I discovered that moving the seat slightly rearward and tilting the steering wheel down gave me a position that suited my build perfectly. Unfortunately, once I had adjusted everything to suit my arms and legs, the left fender mirror was almost completely hidden by the windshield wiper.
+Eventually, I discovered that moving the seat slightly rearward and tilting the steering wheel down gave a position that exactly suited my build. Unfortunately, once I had adjusted everything to suit my arms and legs, the left fender mirror was almost completely hidden by the windshield wiper.
 
-Moreover, the upper edge of the dashboard is high, and the raised portion in the center particularly obstructs the view ahead. Looking into the reasons for these difficulties, I concluded that the seat is simply too low. The roof is quite high, with plenty of headroom, so raising the seat a little should solve these problems. For better or worse, my bodily proportions are rather far removed from those of the average Japanese person, and perhaps that made these shortcomings especially noticeable to me. In any event, I was reminded just how difficult it is to achieve a proper dimensional relationship between the human driver and the car.
+Moreover, the upper edge of the dashboard is high, and the raised portion in the center particularly obstructs the view ahead. Looking into the reasons for these difficulties, I concluded that the seat is simply too low. The roof is quite high, with plenty of headroom, so raising the seat a little should solve these problems. For better or worse, my proportions are rather different from those of the average Japanese person, and perhaps that made these shortcomings especially noticeable. In any event, I was reminded just how difficult it is to achieve a proper dimensional relationship between the human driver and the car.
 
-The interior design has a decidedly luxurious appearance, and there is no denying that it looks impressive. But there are too many shiny surfaces around the center console, giving the whole area a rather cluttered and distracting appearance. From the driver's point of view, it is better not to have too many bright or reflective surfaces directly ahead. While I am on the subject, I cannot quite understand the reason for adopting rectangular gauges.
+The interior design is decidedly luxurious, and there is no denying that it looks impressive. But there are too many shiny surfaces around the center console, giving the whole area a rather cluttered and distracting appearance. From the driver's point of view, it is better not to have too many bright or reflective surfaces directly ahead. While I am on the subject, I cannot quite understand the reason for using rectangular gauges.
 
-Once underway, I found that the pedals, various switches and parking-brake lever were all well-positioned and easy to operate. I was slightly bothered by the gearshift, which tended to catch rather than move smoothly, but its position and travel were beyond criticism.
+Once underway, I found that the pedals, switches and parking-brake lever were all well-positioned and easy to operate. I was slightly bothered by the gearshift, which tended to catch rather than move smoothly, but its position and travel were beyond criticism.
 
-I did not have an opportunity for high-speed driving this time, but in ordinary city driving the steering effort was just right and the wheel returned easily. With the help of the excellent engine and brakes, I found that, when called upon, the car could execute remarkably quick, almost darting maneuvers with ease.
+I did not have an opportunity for high-speed driving this time, but in ordinary city driving the steering effort was just right and the wheel returned easily. With the help of the excellent engine and brakes, I found that, when called upon, the car could make remarkably quick, almost darting maneuvers with ease.
 
-Even reversing the steering direction when nearly stopped could be done quickly and with relatively little effort. I was left with a strong impression that much thought had gone into making this a car that could be driven easily and without strain.
+Even reversing the steering direction at a near-standstill could be done quickly and with relatively little effort. I was left with a strong impression that much thought had gone into making this a car that could be driven easily and without strain.
 
-Considered purely as a machine, this car is exceptionally well made, with hardly anything to criticize. Both in its mechanical design and in its operating characteristics, a great deal of thought has clearly gone into making it easy to use, and one finds oneself admiring one detail after another. It is difficult not to acknowledge how well executed it is. But when considered as a vehicle for people to actually travel in, there are still a few things that give cause for concern.
+Considered purely as a machine, this car is excellent, with hardly anything to criticize. Both in its mechanical design and in its operating characteristics, a great deal of thought has clearly gone into making it easy to use, and one finds oneself admiring one detail after another. It is difficult not to acknowledge how well it has been executed. But when considered as a vehicle for people to actually travel in, there are still a few things that give cause for concern.
 
 <i>"The steering effort remains appropriate at both low and medium speeds, making it easy to handle." — Mochizuki</i>
 
