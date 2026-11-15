@@ -118,19 +118,19 @@ From the front, the dominant impression is of a rather high-set grille. The bump
 
 The moment we entered the Tomei Expressway, our testing began. This was not a closed-course test, of course, but a practical evaluation with three aboard.
 
-Here, measurements are taken in real time, at a “real-world” level. This is not merely a list of personal impressions or subjective feelings. We ask readers to keep this firmly in mind.
+Here, measurements are taken in real time, at a “real-world” level. This is not merely a list of personal impressions or subjective feelings. We ask readers to keep this in mind.
 
-In the hexagonal chart that accompanies this test report, the topmost category--marked with a circle--is “Power Performance.” This includes standing-start acceleration, overtaking acceleration, hill-climbing ability, and maximum speed. Please refer carefully to the individual sections below for the measured results.
+In the hexagonal chart that accompanies this test report, the topmost category--marked with a circle--is "Performance." This includes standing-start acceleration, overtaking acceleration, hill-climbing ability, and maximum speed. Please refer to the individual sections below for the measured results.
 
-As noted in the chart, the performance is outstanding. All five drivers who alternated at the wheel during the two-day round trip from Tokyo were in unanimous agreement. At 87ps/6300rpm from 1300cc, it surpasses the Bluebird 1300 (72ps/6000rpm), yet falls short of the Honda 1300-77 (100ps/7200rpm). In other words, it sits squarely between them. But the quality of its acceleration deserves special mention.
+As noted in the chart, the performance is outstanding. All five drivers who alternated at the wheel during the two-day round trip from Tokyo agreed on this point. At 87ps/6300rpm from 1300cc, its output surpasses that of the Bluebird 1300 (72ps/6000rpm), yet falls short of the Honda 1300-77 (100ps/7200rpm). In other words, it sits squarely in the middle. But the quality of its acceleration deserves special mention.
 
-“It feels as though it would rev forever. Since the Custom doesn’t have a tachometer, I found myself worrying that I might exceed the allowable engine speed,” remarked Sanbon.
+“It feels as if it will rev forever. Since the Custom doesn’t have a tachometer, I found myself worrying that I might exceed the allowable engine speed,” remarked Sanbon.
 
 “As Mitsubishi claims, the combustion chamber shape, the improved intake and exhaust efficiency from the crossflow layout, the careful finishing work such as deburring inside the exhaust manifold, the large valve diameters--taken together, these produce a high-performance engine that can be revved easily to quite high speeds. It’s an engine where the torque doesn’t fall away as the revs rise,” said Oguchi.
 
-In modern automobiles, the ability to run comfortably on the expressway has become a fundamental requirement. The standard by which top speed, safety, and many other factors are now judged is whether a car is capable of traversing the still-incomplete Tomei-Meishin Expressway system. If it cannot, users will not feel at ease.
+In modern cars, the ability to run comfortably on the expressway has become a basic requirement. The standard by which top speed, safety, and many other factors are now judged is whether a car is capable of driving on the still-incomplete Tomei-Meishin Expressway system. If it cannot, users will not feel at ease.
 
-Yet when the moment comes to actually use the expressway--particularly for first-timers--there is often hesitation at the entrance ramp. That short approach road, curving uphill, the sudden lifting of the 40km/h restriction, merging onto the main line--can one accelerate from 40km/h to mainline speeds within the available 200-250m?
+Yet when the moment comes to actually use the expressway--particularly for first-timers--there is often hesitation at the entrance ramp. That short entrance lane, curving uphill, the sudden lifting of the 40km/h restriction, merging into the main lane--can one accelerate from 40km/h to main lane speeds within the available 200-250m?
 
 And similarly, when traveling along the main lane and catching up to a slower vehicle, can one move into the passing lane and overtake decisively?
 
@@ -140,7 +140,7 @@ In the merging test, we accelerated from 40km/h just before the end of the restr
 
 As for overtaking performance while underway, this is a 4-speed (floor-shift) car. By making proper use of third gear, overtaking can be accomplished without strain. In our test, we began 60m behind a truck traveling at 80km/h, accelerated from 80km/h to 100km/h, overtook, and returned to the main lane smoothly 60m ahead of it. The maneuver required 10.9 seconds and covered just 360m. These practical figures can hardly be rated as anything less than commendable.
 
-The catalog lists a top speed of 150km/h, but naturally we cannot attempt this on public roads. That said, in 100km/h zones we maintained a modest “plus alpha” above the limit for extended stretches. There were no problems whatsoever. On one occasion the needle slipped past 120km/h before the driver eased off the accelerator. It reaches such speeds almost too easily--and lightly. Precisely because this is a 1300cc practical sedan, users would do well to keep this in mind.
+The catalog lists a top speed of 150km/h, but naturally we could not attempt this on public roads. That said, in 100km/h zones we maintained a modest “plus alpha” above the limit for extended stretches. There were no problems whatsoever. On one occasion the needle slipped past 120km/h before the driver eased off the accelerator. It reaches such speeds almost too easily--and lightly. Precisely because this is a 1300cc practical sedan, users would do well to keep this in mind.
 
 Hill-climbing performance was evaluated on the Tokyu Turnpike in Hakone, with its undulating contours and significant gradients. The measured figures, as shown in the graph, are by no means poor.
 
