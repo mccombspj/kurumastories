@@ -66,7 +66,7 @@ draft = false
 
 There are surprisingly few convertibles in Japan.
 
-This tendency may be due to such factors as the amount of rain and the slow progress in improving the roads, but there are times when one feels the urge to enjoy an open, carefree drive beneath a blue sky.
+This may be due to such factors as the amount of rain and the slow progress in improving the roads, but there are times when one feels the urge to enjoy an open, carefree drive beneath a blue sky.
 
 As one of these few convertibles, the Compagno Spider is ideally suited to exactly this purpose.
 
@@ -82,9 +82,9 @@ At 10:00am on July 28, a Compagno Spider in especially vivid Oriental Red appear
 
 I settled into the cockpit and looked over the instrument panel.
 
-On the right is a large-diameter speedometer, and on the left, a tachometer scaled to 8000rpm, with a yellow zone beginning at 6500rpm and a red zone at 7000rpm. The speedometer is marked to 180km/h and incorporates the odometer, trip recorder, high-beam indicator, turn-signal indicator and charge warning lamp. Between these two large instruments, above the steering column, is a combination gauge incorporating an oil-pressure gauge.
+On the right is a large-diameter speedometer, and on the left, a tachometer scaled to 8000rpm, with a yellow zone beginning at 6500rpm and a red zone at 7000rpm. The speedometer is marked to 180km/h and incorporates the odometer, trip recorder, high-beam indicator, turn-signal indicator and charge warning lamp. Between these two large gauges, above the steering column, is a combination gauge incorporating an oil-pressure gauge.
 
-Cars equipped with an oil-temperature gauge as standard are extremely rare in Japan. Previously, the Spider did not have one either; it has been newly added with the recent model change. Daihatsu explains the reason: “When we offered an oil-temperature gauge as an option, it proved quite popular and many owners had one fitted, so we decided to incorporate it as standard when the model was changed.” Since it allows constant monitoring of the oil temperature, whether in sporting driving or when crawling through city traffic, it is extremely useful for keeping track of the engine’s condition.
+Cars equipped with an oil-temperature gauge as standard are extremely rare in Japan. Previously, the Spider did not have one either; it has been newly added with the recent model change. Daihatsu explains the reason: “When we offered an oil-temperature gauge as an option, it proved quite popular and many owners had one fitted, so we decided to incorporate it as standard with the model change.” Since it allows constant monitoring of the oil temperature, whether in sporting driving or when crawling through city traffic, it is extremely useful for keeping track of the engine’s condition.
 
 <b><u>Controls That Quickly Become Familiar</b></u>
 

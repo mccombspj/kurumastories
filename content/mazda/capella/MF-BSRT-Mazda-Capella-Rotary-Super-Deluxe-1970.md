@@ -111,7 +111,7 @@ The gearshift lever has a slightly long throw, and first gear in particular seem
 
 The steering response also felt somewhat sluggish. Weight distribution and other relevant factors should not be all that different from other cars, so it is possible that the tires themselves are to blame. I cannot say so with certainty, of course, but in theory this sort of behavior can occur when the tires' cornering power is insufficient for the load carried by the front wheels.
 
-<b>Directional Stability:</b> The car's straight-line stability when the steering wheel is released is fairly good. It takes little time for any deviation to settle down, and the car seems to regain a steady course quite positively.
+<b>Directional Stability:</b> The car's hands-off directional stability is fairly good. Steering oscillations converge quickly, and the car settles positively and reliably.
 
 <b>Cornering Performance:</b> The car has a fairly pronounced tendency toward understeer, appropriate to its character as a sedan. However, because the engine is so powerful in relation to the vehicle's weight, the reverse point—the point at which understeer changes to oversteer—seems to arrive relatively early. This tendency would be particularly pronounced on a wet road, though the same is true of any car.
 

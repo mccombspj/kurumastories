@@ -656,6 +656,9 @@
     <loc>http://localhost:1313/toyota/corona-mark-ii/cg-ri-toyota-corona-mark-ii-gsl-efi-1973/</loc>
     <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mazda/familia/mf-bs-mazda-familia-presto-1300-super-deluxe-1970/</loc>
+    <lastmod>2026-11-15T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/toyota/corona-mark-ii/cg-fomd-toyota-corona-mark-ii-lg-1973/</loc>
     <lastmod>2025-10-12T04:50:49-07:00</lastmod>
   </url><url>
@@ -692,17 +695,17 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mazda/capella/</loc>
-    <lastmod>2026-11-13T04:50:49-07:00</lastmod>
+    <loc>http://localhost:1313/mazda/familia/</loc>
+    <lastmod>2026-11-15T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mazda/</loc>
-    <lastmod>2026-11-13T04:50:49-07:00</lastmod>
+    <lastmod>2026-11-15T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-11-13T04:50:49-07:00</lastmod>
+    <lastmod>2026-11-15T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mazda/familia/</loc>
-    <lastmod>2026-11-11T04:50:49-07:00</lastmod>
+    <loc>http://localhost:1313/mazda/capella/</loc>
+    <lastmod>2026-11-13T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/gloria/</loc>
     <lastmod>2026-11-10T04:50:49-07:00</lastmod>
