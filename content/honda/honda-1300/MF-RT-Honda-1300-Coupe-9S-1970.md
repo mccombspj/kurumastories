@@ -69,23 +69,23 @@ draft = false
 
 <b>Magazine:</b> We recently had the opportunity to test both the Honda 1300 Coupe 9 and the automatic version of the Coupe 7. To begin, Mr. Mabuchi, could you tell us about the aims behind the Honda 1300 Coupe?
 
-<b>Mabuchi:</b> The coupe was introduced about a year after the sedan, but it had been planned as part of the model series from the very beginning.
+<b>Mabuchi:</b> We announced the Coupe about a year after introducing the sedan, but it had been planned as part of the model series from the very beginning.
 
-Since we were going to build a coupe, however, we wanted it to make people sit up and take notice--to offer something that would be readily accepted by the public. We gave considerable thought to what those elements should be. As a result, we concluded first that the styling had to appeal to younger buyers. At the same time, we also devoted a great deal of effort to improving the car's aerodynamics.
+Since we were going to build a coupe, however, we wanted it to make people sit up and take notice—or rather, we gave a great deal of thought to what would make it appealing to the public. As a result, we concluded first that the styling had to appeal to younger buyers. At the same time, we also devoted quite a lot of effort to improving the car's aerodynamics.
 
-As for the feeling one gets behind the wheel, the interior--what we call the "Flight Cockpit"--is intended to make a strong impression by combining mechanical functionality with sculptural design.
+As for the feeling one gets behind the wheel, the interior--what we call the "Flight Cockpit"--is intended to make a strong impression by combining the mechanical elements with a sense of design.
 
-We also wanted to avoid creating a car that emphasized only the traditional sports-car virtues, such as a very stiff ride, high top speed, but poor low-speed acceleration. Instead, we wanted it to offer a character that anyone could enjoy and find easy to drive.
+We also wanted to avoid creating a car that emphasized only the traditional sports-car qualities, such as a very stiff ride and high top speed, but poor low-speed acceleration. Instead, we wanted it to offer a character that anyone could enjoy and find easy to drive.
 
-At the same time, we felt it was important to give each model a clearly defined personality. Just as the sedan range is divided into the 77 and 99 series, each with its own character, the Coupe 9 was intended as the high-performance model, with the understanding that a somewhat firmer ride would be acceptable. The Coupe 7, by contrast, is positioned as the softer-riding alternative.
+At the same time, we felt it was important to give each model a clearly defined personality. Just as the sedan range is divided into the 77 and 99 series, each with its own character, the Coupe 9 is intended to be the high-performance model, with the understanding that a somewhat firmer ride would be acceptable. The Coupe 7, by contrast, is positioned as the softer-riding alternative.
 
 <b>Magazine:</b> And where does the automatic version fit into the lineup?
 
-<b>Mabuchi:</b> The primary aim of the automatic model was to create a car with a distinctly family-oriented character.
+<b>Mabuchi:</b> The main goal of the automatic model was to create a car with a distinctly family-oriented character.
 
-In America, it has already become common to see automatic transmissions offered even in cars such as the Chevy and Mustang, and some racing cars are beginning to use them as well. Japan, however, has not yet reached that stage. We therefore felt that the first step should be a family car. For that reason, the automatic transmission is offered only in the Coupe 7, and at the same time we reduced the engine's output even further compared with the manual-transmission Coupe 7 in order to place greater emphasis on low-speed performance.
+In America, it has already become common to see automatic transmissions offered even in cars such as the Chevy and Mustang, and some racing cars are beginning to use them as well. Japan, however, has not reached that stage yet. As a result, we felt that the first step should be a family car. For that reason, the automatic transmission is offered only in the Coupe 7, and at the same time we gave it an even lower engine output than the manual-transmission Coupe 7, placing greater emphasis on low-speed performance.
 
-We also developed a set of instruments specifically for the automatic model, giving the instrument panel a more family-oriented character. Rather than treating the automatic as merely an option, we wanted to establish it as a distinct automatic-transmission series in its own right.
+We also developed a set of gauges specifically for the automatic model, giving the instrument panel a more family-oriented character. Rather than treating the automatic as merely an option, we wanted to establish it as a distinct automatic-transmission series in its own right.
 
 Broadly speaking, then, the lineup can be divided as follows: first, the Coupe 7 Automatic; next, the Coupe 7 with manual transmission; and finally, the Coupe 9.
 
@@ -99,51 +99,51 @@ Of course, that construction method was adopted in part to suit mass-production 
 
 <b><u>The Aim of Reducing Horsepower</b></u>
 
-<b>Magazine:</b> Even so, the coupe still shares a strong family resemblance with the sedan. As for the automatic version, you've said it differs substantially from conventional automatic models--to the point of being treated as a series in its own right. Could you tell us a little more about that?
+<b>Magazine:</b> Even so, the coupe still shares a strong family resemblance with the sedan. As for the automatic version, you've said it is quite different from typical automatic models--to the point of being treated as a series in its own right. Could you tell us a little more about that?
 
-<b>Hattori:</b> Unlike the conventional view of an automatic transmission, where it is little more than an optional accessory, this is an automatic model that has been fully matched to the car itself. We revised the engine's design to increase low- and mid-range torque, making it a car that is easier to use in everyday driving. As a result, the engine's characteristics were altered specifically to suit the automatic transmission.
+<b>Hattori:</b> Unlike the conventional view of an automatic transmission, where it is little more than an optional accessory, this is a model in which the automatic has been fully matched to the car itself. We revised the engine's design to increase low- and mid-range torque, making it a car that is easier to use in everyday driving. As a result, the engine's characteristics were changed specifically to suit the automatic transmission.
 
-The most significant difference from conventional automatics is its two-shaft design. Most automatic transmissions use planetary gears, but Honda's automatic uses a two-shaft layout, making it an automatic transmission that is mechanically quite similar to a manual gearbox.
+The most significant difference from conventional automatics is its two-shaft design. Most automatic transmissions use planetary gears, but Honda's automatic uses a two-shaft layout, making it an automatic that is mechanically quite similar to a manual transmission.
 
 The hydraulic control system also incorporates Honda's own unique design, and the vehicle itself features a number of automatic-specific specifications, particularly around the instrument panel.
 
-<b>Magazine:</b> With the introduction of the Coupe 9, engine output has been reduced by 5ps across the range. What was the reason for lowering the power?
+<b>Magazine:</b> With the introduction of the Coupe 9, engine output has been reduced by 5ps across the range. What was the reason for that?
 
-<b>Irikawa:</b> That wasn't because the coupe was introduced. The change was made last November across the entire lineup, including the sedan.
+<b>Irikawa:</b> Actually, we didn't reduce the power because of the coupe's introduction. We made that change at the end of last November, including on the sedans.
 
-The reason was that Honda engines are often said to rev well at the top end but lack low-end performance. In reality, however, the low-speed torque people generally refer to--around 1,500 rpm, for example--is not especially poor.
+The reason was that Honda engines are often said to rev well at the top end but lack low-end performance. In reality, however, the low-speed torque people generally refer to--around 1500rpm, for example--is not especially poor.
 
 Even so, there were requests from sedan owners for a little more torque at extremely low engine speeds--just off idle, at the very bottom of the range. We felt there was room to improve drivability in that area, and that's what prompted the change.
 
-To achieve that, we sacrificed a certain amount of peak horsepower. Most of the change was accomplished simply through alterations to the valve timing.
+To achieve that, we sacrificed a certain amount of peak horsepower. Most of the change was accomplished simply by revising the valve timing.
 
 <b>Hirao:</b> So you've lowered the engine speed on the automatic model as well?
 
-<b>Irikawa:</b> That's right. If low-speed torque is insufficient, then the torque converter's stall speed has to be raised, which means the engine must operate at higher rpm all the time. And since an automatic transmission inevitably results in some deterioration in fuel economy, we felt it was more important to consider fuel consumption and overall usability than maximum horsepower at the top end.
+<b>Irikawa:</b> That's right. If low-speed torque is insufficient, then the torque converter's stall speed has to be raised, which means the engine must operate at higher rpm all the time. And since an automatic transmission inevitably results in some loss in fuel economy, we felt that consideration of fuel consumption and overall usability was more important than maximum horsepower at the top end.
 
 <b>Hirao:</b> So the reduction was made with fuel economy in mind.
 
 <b>Higuchi:</b> Or were you more concerned about excessive creep at idle?
 
-<b>Mabuchi:</b> That was part of it as well. It's related to fuel economy, but our primary objective was to create a car with a distinctly family-oriented character. From that standpoint, we felt a top speed of 150km/h would be entirely adequate, and in that context we reduced output to 80ps.
+<b>Mabuchi:</b> That was part of it as well. It's related to fuel economy, but our main objective was to create a car with a distinctly family-oriented character. From that standpoint, we felt a top speed of 150km/h would be entirely adequate, so with that in mind we reduced output to 80ps.
 
 At the end of last year, we reduced the output of the manual-transmission models from 100 to 95ps. However, what one might call practical top-speed performance actually improved. Because low- and mid-range acceleration became stronger--the kind of performance most useful on highways--the engine reaches speeds such as 150-160km/h more quickly despite the loss of 5ps at the top end.
 
 Moreover, because the coupe has lower running resistance, its top speed is still 175km/h in the Coupe 7 and 185km/h in the Coupe 9.
 
-<b>Higuchi:</b> From a marketing standpoint, saying you've reduced horsepower may sound a little strange to customers who've been hearing "more horsepower, more horsepower" up to now. Perhaps it would be better to say, "We've increased maximum torque and usable power."
+<b>Higuchi:</b> From a marketing standpoint, saying you've reduced horsepower may sound a little strange to customers who were used to hearing "more horsepower, more horsepower" up to now. It might be better to say, "We've increased maximum torque and usable power."
 
 After all, that's the kind of engine that's easiest for customers to drive.
 
-<b>Mabuchi:</b> When we say we've reduced horsepower, people generally complain. Interestingly enough, though, the motoring press seems to have received the change quite favorably. Perhaps that's because you've interpreted it in exactly the way we've been discussing.
+<b>Mabuchi:</b> When we say we've reduced horsepower, people do generally complain. Interestingly enough, though, the automotive press seems to have received the change quite favorably. Perhaps that's because you've interpreted it in exactly the way we've been discussing.
 
-<b>Hirao:</b> Perhaps the real selling point is being able to say, "We could have given it more power--but we chose not to." (laughs)
+<b>Hirao:</b> Maybe the real selling point is being able to say, "We could have given it more power--but we held back." (laughs)
 
 <b><u>A Cockpit with Excellent Design Sense</b></u>
 
 <b>Magazine:</b> What were your impressions of the cockpit?
 
-<b>Hirao:</b> I think the instruments are quite well done. The way they're arranged, wrapping around the driver from both sides, works very nicely.
+<b>Hirao:</b> I think the gauges are very well done. The way they're arranged, wrapping around the driver from both sides, works very nicely.
 
 <b>Higuchi:</b> The first thing I noticed when I got in was how low the eye point was. Then, with all those instruments spread out in front of you, I found myself thinking that if I were flying an airplane, it probably would feel very much like this.
 
@@ -153,53 +153,53 @@ After all, that's the kind of engine that's easiest for customers to drive.
 
 <b>Magazine:</b> And what about the car's family-car qualities?
 
-<b>Higuchi:</b> Though when you say "family-oriented," I wonder if perhaps you mean the sort of family car that's really for the father. (laughs)
+<b>Higuchi:</b> Actually, when you say "family-oriented," I wonder if perhaps you mean the sort of family car that's really for Dad. (laughs)
 
-<b>Mabuchi:</b> Well, our basic objective was simply to create a car that a great many people would want to buy.
+<b>Mabuchi:</b> Well, our basic objective was simply to create a car that many people would want to buy...
 
-<b>Okazaki:</b> It was just suggested that the car feels like something intended for a one-man owner, and I think there's some truth in that. The driver is very well looked after, but I've heard complaints from people riding in the passenger seat. Two people in particular remarked that the passenger seemed to have been treated as something of an afterthought. There is certainly a noticeable disparity.
+<b>Okazaki:</b> As for the suggestion that the car feels like something intended for a one-man owner, I think there's some truth to that. The driver is very well accommodated, but I've heard complaints from people riding in the passenger seat. Two people separately remarked that the passenger seemed to have been treated as something of an afterthought. There is certainly a noticeable disparity.
 
-<b>Higuchi:</b> Even something as simple as the ashtray--the passenger has to say, "Excuse me, could I borrow yours?" (laughs)
+<b>Higuchi:</b> Even with something as simple as the ashtray--the passenger has to ask, "Excuse me, could I borrow yours?" (laughs)
 
-<b>Hirao:</b> I think a little more attention could have been paid to the passenger side. It wouldn't have cost much to do so.
+<b>Hirao:</b> I think a little more attention could have been paid to the passenger. It wouldn't have cost much to do so.
 
-<b>Watari:</b> In that sense, the materials used throughout the interior are rather unbalanced as well. Some are quite expensive, while others seem rather cheap.
+<b>Watari:</b> In that sense, the various interior materials that are used are rather unbalanced as well. Some are quite rich, while others seem rather cheap.
 
-<b>Hoshijima:</b> On the Custom model, if a console is fitted in the center, then when air conditioning is installed it ends up directly in front of the passenger seat.
+<b>Hoshijima:</b> On the Custom model, if a center console is fitted, then when air conditioning is installed it ends up directly in front of the passenger seat.
 
 <b>Watari:</b> Exactly. Sitting in the passenger seat, you almost feel more like cargo than a passenger. (laughs)
 
-<b>Hirao:</b> Looking at the overall layout, I wonder if the 1300 might simply be a little too narrow. One could say that it offers the performance of a larger-class engine in a compact package. But isn't there a risk that people will instead say it has been given a body one size too small for its engine?
+<b>Hirao:</b> Looking at the overall layout, I also wonder if the 1300 might simply be a little too narrow. One could say that it offers the performance of a larger-class engine in a compact package. But isn't there a risk that people will instead say it has been given a body one size too small for its engine?
 
-<b>Watari:</b> In Europe, they'd certainly say the car is too small for the engine it carries.
+<b>Watari:</b> In Europe, they'd certainly say the car is too small for the engine it has.
 
-<b>Mabuchi:</b> That was actually discussed at length when the sedan was being developed as well. There were arguments that the car should have been made somewhat wider.
+<b>Mabuchi:</b> There was actually a great deal of discussion about that when the sedan was being developed as well. There were arguments that the car should have been made somewhat wider.
 
-Our view, however, was that as automobiles become increasingly common, bigger will not necessarily mean better. Sooner or later, people will begin moving back in the other direction. Furthermore, given Japan's road conditions and parking problems, we thought it was better to follow the old saying: "a sansho pepper may be small, but it packs a punch."
+Our view, however, was that as cars become more widespread, bigger will not necessarily mean better. Sooner or later, people will start moving back in the other direction. Furthermore, given Japan's road conditions and parking problems, we thought it was better to follow the old saying: "a <i>sansho</i> pepper may be small, but it packs a punch."
 
-Admittedly, whether five adults can ride in comfort is open to debate. Even so, we believe it compares quite favorably with other coupes.
+Admittedly, whether five adults can ride in comfort is open to debate. Even so, we believe it compares quite well with other coupes.
 
 <b><u>0–400m in 17.1 Seconds</b></u>
 
 <b>Magazine:</b> Next, let's have the results of the performance testing conducted by the Hirao Laboratory.
 
-<b>Furutani:</b> For the Coupe 9, standing-start acceleration figures were 0-200m in 10.9 seconds and 0-400m in 17.1 seconds. Expressed in terms of speed versus elapsed time, the car recorded 0-40km/h in 3.3 seconds, 0-60km/h in 5.3 seconds, 0-80km/h in 7.9 seconds, and 0-100km/h in 12.2 seconds.
+<b>Furutani:</b> For the Coupe 9, standing-start acceleration figures were 0-200m in 10.9 seconds and 0-400m in 17.1 seconds. Expressed in terms of time to speed, the car recorded 0-40km/h in 3.3 seconds, 0-60km/h in 5.3 seconds, 0-80km/h in 7.9 seconds, and 0-100km/h in 12.2 seconds.
 
 For third-gear overtaking acceleration from 30km/h, the figures were 1.9 seconds to 40km/h, 5.9 seconds to 60km/h, 9.5 seconds to 80km/h, and 13.6 seconds to 100km/h.
 
-Turning to the automatic Coupe 7, standing-start acceleration figures were 0-200m in 12.6 seconds and 0-400m in 19.7 seconds. In terms of speed versus elapsed time, it recorded 0-40km/h in 4.4 seconds, 0-60km/h in 7.4 seconds, 0-80km/h in 11.7 seconds, and 0-100km/h in 17.8 seconds.
+Turning to the automatic Coupe 7, standing-start acceleration figures were 0-200m in 12.6 seconds and 0-400m in 19.7 seconds. In terms of time to speed, it recorded 0-40km/h in 4.4 seconds, 0-60km/h in 7.4 seconds, 0-80km/h in 11.7 seconds, and 0-100km/h in 17.8 seconds.
 
 <b>Magazine:</b> The automatic didn't show much front-wheel spin at launch, did it?
 
 <b>Furutani:</b> No. The Coupe 9 exhibited quite a lot of front wheelspin, but the automatic hardly spun its wheels at all.
 
-<b>Magazine:</b> Even with an ordinary start, the tires break traction. One gets the impression that the front tires will wear out quickly...
+<b>Magazine:</b> Even when starting off normally, the tires can break traction. One gets the impression that the front tires will wear out quickly...
 
 <b>Mori:</b> Being a front-wheel-drive car, front-tire wear admittedly tends to be somewhat higher. We recommend regular tire rotation to our customers, however, and on average we don't believe tire life is poor at all.
 
 <b>Kizawa:</b> We recommend rotating the tires every 5,000km.
 
-In fact, the rear tires wear so little that the opposite problem arises. On cars used on the Tomei Expressway without any tire rotation at all, we've seen figures as high as 100,000 kilometers.
+In fact, the rear tires wear so little that we have the opposite problem. On cars used on the Tomei Expressway without any tire rotation at all, we've seen figures as high as 100,000 kilometers.
 
 <b>Magazine:</b> Next, we'd like to hear the noise-test results.
 
@@ -215,7 +215,7 @@ Noise levels for the Coupe 9 were 67 phons at 40km/h, 68 phons at 60km/h, 72 pho
 
 For the Coupe 7 Automatic, the figures were 62 phons at 40km/h, 66 phons at 60km/h, 66 phons at 70km/h, 72 phons at 80km/h, 77 phons at 100km/h, 76 phons at 110km/h, and 76 phons at 120km/h.
 
-<b>Watari:</b> I don't think the figures are especially high. If anything, what stands out is the sharp increase at 90km/h--the question is what's causing that peak. The low-speed figures are also somewhat elevated.
+<b>Watari:</b> I don't think the figures are especially high. If anything, what stands out is the sharp increase at 90km/h--the question is what's causing that peak. The low-speed figures are also somewhat high.
 
 We've seen the same tendency before when comparing coupe and sedan versions of the same model: the coupe usually produces slightly higher readings at lower speeds.
 
