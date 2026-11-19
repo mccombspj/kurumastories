@@ -37,7 +37,7 @@ draft = false
 
 This spring, we also carried out improvements to the sedan line with a focus on safety, and added items such as a column shift and vibration-damping rubber for the shift lever. In addition to these refinements, we have now introduced a new variation in the Corolla family: the Sprinter.
 
-This model is essentially the same as the one shown at last year’s Tokyo Motor Show. If the current Corolla sedan can be described as a semi-fastback, then this is a full fastback. It has what one might call a coupe-style silhouette, although we do not regard it as a coupe. Rather, we intend it to be used the same way as a four-passenger sedan.
+This model is essentially the same as the one shown at last year’s Tokyo Motor Show. If the current Corolla sedan can be described as a semi-fastback, then this is a full fastback. It has what one might call a coupe-style silhouette, although we do not think of it as a coupe. Rather, our intention is for it to be used the same way as a four-passenger sedan.
 
 For that reason, overall height has been reduced by 35mm compared to the sedan, but by lowering the seating position we have ensured adequate headroom. In particular, we have taken care not to compromise rear seat comfort, and have maintained a full five-passenger layout.
 
@@ -53,7 +53,7 @@ With that in mind, what we have created in the Corolla series is this Sprinter S
 
 <b><u>A Fastback Intended to Be Enjoyed by a Wide Range of Users</b></u>
 
-<b>Magazine:</b> This car drew a lot of attention at last autumn’s Motor Show as well. There's even a view that this fastback body is actually the original Corolla design, and that the Corolla sedan is a derivative of it--in other words, that this form existed from the beginning…
+<b>Magazine:</b> This car drew a lot of attention at last autumn’s Motor Show as well. There's even a view that this fastback body was actually designed first, and that the Corolla sedan is a derivative of it--in other words, that this is its original form…
 
 <b>Sasaki:</b> I don’t think it's correct to say that the Sprinter was the original. At the design stage, we explored a variety of body shapes, and this fastback was certainly one of them. There was considerable internal discussion at the time, but in terms of a mass-market car intended for a broad range of users, we questioned whether a pure fastback would really be appropriate. In the end, we adopted the semi-fastback form that was announced two years ago.
 
@@ -95,7 +95,7 @@ For that reason, we have taken care to ensure rear seat comfort. If you look at 
 
 <b>Hirao:</b> But from a safety point of view, even if there is a partition there, it’s basically like cardboard. I don’t think it makes much difference in terms of safety whether it exists or not.
 
-In fact, I once saw a frontal collision test where tools and the spare tire from the trunk broke through the partition and flew into the passenger compartment. It made me realize that tools really have to be secured properly.
+In fact, I once saw a frontal collision test where the tools and spare tire from the trunk broke through the partition and flew into the passenger compartment. It made me realize that tools really have to be secured properly.
 
 <b>Hoshijima:</b> This car carries the fuel tank behind the rear seat, doesn’t it? So if you try to make it into a "Japanese-style coupe," the position of the tank becomes an issue.
 
@@ -109,13 +109,13 @@ In a rear-end collision, they will almost certainly catch fire. And in that case
 
 <b>Magazine:</b> At the Motor Show, this car was displayed as the Corolla Fastback, wasn't it? So where does the name "Sprinter" come from?
 
-<b>Sasaki:</b> There isn’t any particularly elaborate reason. We simply chose the name "Sprinter" from the image of a car that runs with a good, sharp response.
+<b>Sasaki:</b> There isn’t any particularly elaborate reason. We simply chose the name "Sprinter" from the image of a car with a good, sharp "dash."
 
-<b>Okada:</b> Perhaps it also carries the meaning of "running faster," which is the ultimate objective of a car.
+<b>Okada:</b> It also carries the meaning of "running faster," which is the ultimate objective of a car.
 
 <b>Magazine:</b> Normally, a tuned engine is expected to gain about 20% more power, but this is a production engine that achieves more than a 20% increase over the base unit. What accounts for that?
 
-<b>Ishikawa:</b> There are many so-called "street-tuned" cars that are not necessarily built for racing, but are simply tuned for spirited driving in urban use. I wonder how far those actually go in terms of modification.
+<b>Ishikawa:</b> There are many so-called "street-tuned" cars that are not necessarily built for racing, but are simply tuned for spirited driving around town. I wonder how far those actually go in terms of modifications.
 
 <b>Sasaki:</b> As far as what is done through the dealer network, there appear to be various modifications, but I’m not familiar with the details.
 
