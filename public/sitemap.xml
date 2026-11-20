@@ -689,6 +689,9 @@
     <loc>http://localhost:1313/nissan/skyline/cg-ri-nissan-skyline-2000gt-x-hardtop-1973/</loc>
     <lastmod>2026-10-08T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/skyline/mf-rt-nissan-skyline-2000gt-x-hardtop-1973/</loc>
+    <lastmod>2026-11-19T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nissan/skyline/as-rt-nissan-skyline-2000gtr-1973/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
@@ -701,13 +704,19 @@
     <loc>http://localhost:1313/nissan/skyline/as-gt-nissan-skyline-2000gtr-vs-nissan-fairlady-z-1973/</loc>
     <lastmod>2026-05-04T04:50:49-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nissan/skyline/</loc>
+    <lastmod>2026-11-19T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nissan/</loc>
+    <lastmod>2026-11-19T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-11-19T04:50:49-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-1000/</loc>
     <lastmod>2026-11-17T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/</loc>
-    <lastmod>2026-11-17T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-11-17T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/honda/honda-1300/</loc>
@@ -726,9 +735,6 @@
     <lastmod>2026-11-13T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/gloria/</loc>
-    <lastmod>2026-11-10T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/</loc>
     <lastmod>2026-11-10T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nissan/silvia/</loc>
@@ -799,9 +805,6 @@
   </url><url>
     <loc>http://localhost:1313/subaru/leone/</loc>
     <lastmod>2026-10-09T04:50:49-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nissan/skyline/</loc>
-    <lastmod>2026-10-08T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mitsubishi/colt-800/</loc>
     <lastmod>2026-10-05T04:50:49-07:00</lastmod>

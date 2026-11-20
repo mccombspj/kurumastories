@@ -161,11 +161,11 @@ In terms of my personal preferences, I honestly don't care much about interior c
 
 
 
-The current situation is that we are somehow able to create cars that do so by accumulating experiments day after day to determine a car's dynamic faults, and then improve them. The influence of the racer, or rather the driver, plays a major role. What the driver feels during each test is essential to creating a safer car. In some ways, it is not an exaggeration to say that a single driver's feeling determines everything.
+The current situation is that we are somehow able to create cars that do so by accumulating experiments day after day to determine a car's dynamic faults, and then improve them. The influence of the racer, or rather the driver, plays a major role. What the driver feels during each test is essential to creating a safer car. In some ways, it is not an exaggeration to say that the feeling of a single driver determines everything.
 
 
 
-When it came to high-speed driving, the first thing I noticed in the Coupe 9 was that it was a very difficult car to get a grasp of. Of course, I am aware of the characteristics of the trendy FF mechanism. Even so, when I was winding through the curves of Otome Pass and around Gora, steering to the right and left, I felt that the way the steering wheel turned and returned to its original position was oddly inconsistent.
+When it came to high-speed driving, the first thing I noticed in the Coupe 9 was that it was a very difficult car to get a grasp of. Of course, I am aware of the characteristics of the FF mechanism currently in fashion. Even so, when I was winding through the curves of Otome Pass and around Gora, steering to the right and left, I felt that the way the steering wheel turned and returned to its original position was oddly inconsistent.
 
 
 
@@ -185,23 +185,23 @@ However, this judgment led me to the following speculation: Perhaps this instabi
 
 
 
-The difficulty is the same in any organization. There's always a fierce battle between engineers and salespeople. The struggle to find a balance between providing cars to users as quickly as possible, and collecting as much data as possible to create an even more perfect car, is what leads to the creation of the product on the market. There must be an element of high-level judgment at play that a simple person like myself can't understand.
+The difficulty is the same in any organization. There's always a fierce battle between engineers and salespeople. The struggle to find a balance between providing cars to users as quickly as possible, and collecting as much data as possible to create an even more perfect car, is what leads to the product that is finally released on the market. There must be an element of high-level judgment at play that a simple person like myself can't understand.
 
 
 
-However, I can't help but feel that with minor modifications to improve the handling, as opposed to fundamental changes, much better stability could have been achieved. I have a friend who is an engineer at Honda. He is a very talented guy. Honda has many young engineers with great potential. I have heard him express similar opinions, and perhaps this is why I am greedy, wanting still more from the car.
+However, I can't help but feel that with minor modifications to improve the handling, as opposed to fundamental changes, much better stability could have been achieved. I have a friend who is an engineer at Honda. He is a very talented person. Honda has many young engineers with great potential. I have heard him express similar opinions, and perhaps this is why I am greedy, wanting still more from the car.
 
 
 
-Of course, even if fixing this is just a matter of a "small" correction, it's not the kind of problem you can glance at and tell in an instant what that solution is. When it comes to handling, even a 1mm change in the way the wheels are mounted can make a big difference. That's how difficult carmaking is. Even if the answer is simple, it can sometimes take a long time, perhaps a year or two, to figure out the problem.
+Of course, even if fixing this is just a matter of a "small" adjustment, it's not the kind of problem you can glance at and tell in an instant how to correct it. When it comes to handling, even a 1mm change in the way the wheels are mounted can make a big difference. That's how difficult carmaking is. Even if the solution is simple, it can sometimes take a long time, perhaps a year or two, to figure out the problem.
 
 
 
-In this way, the manufacturer's so-called corporate social conscience determines the limits of safety, compromises are made, and the product is commercialized. It's true that I can't claim to understand everything after driving the car for a day or two. But since I agreed to write a test drive report for Motor Fan, it's my responsibility to at least express everything that comes to mind.
+In this way, the manufacturer's so-called corporate social conscience determines the limits of safety, compromises are made, and the product is put on sale. It's true that I can't claim to understand everything after driving the car for a day or two. But since I agreed to write a test drive report for Motor Fan, it's my responsibility to at least express everything that comes to mind.
 
 
 
-If I may add more, I also felt that the relationship between the steering and the suspension was a little lacking. In other words, its tracking didn't feel right. This is a slightly different nuance from the sharpness of the steering. Rather, I got the feeling that the way the steering wheel was turned and the way the car changed direction were somehow inconsistent. It wasn't that there was play in the steering, exactly, it was just...
+If I may add more, I also felt that the relationship between the steering and the suspension was a little lacking. In other words, its response didn't feel right. This is a slightly different nuance from the sharpness of the steering. Rather, I got the feeling that the way the steering wheel was turned and the way the car changed direction were somehow inconsistent. It wasn't that there was play in the steering, exactly, but...
 
 
 

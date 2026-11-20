@@ -42,7 +42,7 @@ draft = false
 
 
 
-![Nissan Life Touring GS](/images/MF-BS-Honda-Life-Touring-GS-1972.jpg)
+![Honda Life Touring GS](/images/MF-BS-Honda-Life-Touring-GS-1972.jpg)
 
 
 
