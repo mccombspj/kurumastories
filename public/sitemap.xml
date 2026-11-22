@@ -605,9 +605,6 @@
     <loc>http://localhost:1313/toyota/celica/cg-gt-nissan-bluebird-u-1600-sss-e-vs-toyota-celica-gtv-1972/</loc>
     <lastmod>2025-10-11T04:50:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/subaru/leone/mf-bs-subaru-leone-coupe-1400rx-1973/</loc>
-    <lastmod>2026-11-21T04:50:49-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/subaru/leone/mf-bs-subaru-leone-sedan-1400gl-1972/</loc>
     <lastmod>2026-10-09T04:50:49-07:00</lastmod>
   </url><url>
@@ -622,6 +619,9 @@
   </url><url>
     <loc>http://localhost:1313/nissan/skyline/mf-tdr-nissan-skyline-1800-sporty-deluxe-1969/</loc>
     <lastmod>2026-09-30T04:50:49-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/subaru/leone/mf-bs-subaru-leone-coupe-1400rx-1973/</loc>
+    <lastmod>2026-11-21T04:50:49-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/subaru/leone/cg-ri-subaru-leone-coupe-1400rx-1973/</loc>
     <lastmod>2026-10-04T04:50:49-07:00</lastmod>

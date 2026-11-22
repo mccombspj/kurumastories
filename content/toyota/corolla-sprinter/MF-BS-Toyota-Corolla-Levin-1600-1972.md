@@ -57,7 +57,7 @@ For that reason, the reports that follow do not attempt to impose a single commo
 
 Perhaps because it was conceived with competition in mind, every control is heavy--the steering, brakes, clutch, and even the accelerator pedal. When driven flat out, however, the car is consistently lively and forceful. In the hill-climb test it recorded a time of 39.2 seconds, establishing a new record for this series and surpassing the previous best of 40.7 seconds set by the Fairlady Z-L.
 
-On the other hand, torque in the 2000-3000rpm range is surprisingly modest, and low-speed response is not especially strong. To be sure, it remains superior to that of an ordinary sedan, but not by the margin one might expect.
+On the other hand, torque in the 2000-3000rpm range is surprisingly modest, and low-speed response is not especially strong. To be sure, it is superior to that of an ordinary sedan, but not by the margin one might expect.
 
 Taken as a whole, the Levin can perhaps best be summarized this way: powerful when driven at full throttle, yet surprisingly mild in everyday city traffic.
 
@@ -179,7 +179,7 @@ In rally-style rough-road driving, one might wish for a little more development.
 
 In ordinary driving, however, a rather different picture emerges.
 
-On highways, where the car is travelling straight and steering inputs remain gentle, the ample performance reserve combines with excellent stability to make for remarkably relaxed progress. The controls are undeniably heavy, and mechanical noise remains pronounced, but owners attracted to this kind of car may not regard either as a serious drawback.
+On highways, where the car is travelling straight and steering inputs remain gentle, the abundant performance in reserve combines with excellent stability to make for relaxed progress. The controls are undeniably heavy, and mechanical noise is pronounced, but owners attracted to this kind of car may not regard either as a serious drawback.
 
 The Levin feels entirely at ease on the expressway.
 
