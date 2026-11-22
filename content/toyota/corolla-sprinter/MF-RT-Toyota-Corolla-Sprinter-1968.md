@@ -205,7 +205,7 @@ So if the car is operated mainly in the 2500-3000rpm range, fuel consumption rem
 
 <b>Hirao:</b> Was the accelerator pedal made as heavy as it is deliberately? Or is it simply because of the twin carburetors?
 
-<b>Hoshijima:</b> I don’t think that’s the reason. Even in cars like the Toyota 1600GT, the pedal feels heavier than you would normally expect. It may be that a slightly heavier feel is being considered desirable.
+<b>Hoshijima:</b> I don’t think that’s the reason. Even in cars like the Toyota 1600GT, the pedal feels heavier than you would normally expect. It may be that they're considering a slightly heavier feel to be better.
 
 <b>Hirao:</b> I get that impression as well.
 
@@ -213,7 +213,7 @@ So if the car is operated mainly in the 2500-3000rpm range, fuel consumption rem
 
 <b>Hirao:</b> In that case, I think the accelerator should still be made a bit lighter. I'd very much like to see further efforts in that direction.
 
-When it's this heavy, I feel it negatively affects the sense of acceleration.
+When it's this heavy, I think it negatively affects the feeling of acceleration.
 
 <b>Hoshijima:</b> It also gives the impression that engine response is not quite as sharp as it should be.
 
@@ -293,7 +293,7 @@ Since vehicle weight is also almost the same, it is natural that the values are 
 
 <b>Magazine:</b> In terms of interior noise, is this on the high side for a sedan?
 
-<b>Tateishi:</b> To summarize, I think it is a good result. In the so-called "standard zone" for passenger cars, it runs slightly below the midpoint and rises in a fairly straight line.
+<b>Tateishi:</b> In short, I think it is a good result. In the so-called "standard zone" for passenger cars, it runs slightly below the midpoint and rises in a fairly straight line.
 
 <b>Hoshijima:</b> Of course, for a given vehicle speed, the engine rpm is exactly the same as the Corolla since the gear ratios and everything else are identical. The only difference is a slightly higher compression ratio.
 
@@ -319,7 +319,7 @@ Since vehicle weight is also almost the same, it is natural that the values are 
 
 <b>Magazine:</b> The steering and suspension systems are also the same as the Corolla, correct? But since this is now a fastback, how is its sensitivity to crosswinds?
 
-<b>Hirao:</b> Small cars are generally somewhat vulnerable to crosswinds, but I wonder about the Sprinter. If anything, it might be one of the more weaker ones (laughs).
+<b>Hirao:</b> Small cars are generally somewhat vulnerable to crosswinds, but I wonder about the Sprinter. If anything, it might be one of the weaker ones (laughs).
 
 <b>Sasaki:</b> I don’t think crosswinds are really a major issue.
 
@@ -329,7 +329,7 @@ Shortly after launch, I went to Canada, where I drove it at fairly high speeds. 
 
 <b>Hirao:</b> Generally, with the center of gravity biased a bit to the rear, I’d expect it not to be too bad. Is it any different from the sedan in that respect?
 
-<b>Sasaki:</b> The center of gravity relevant to crosswind sensitivity is a little different, but in the Sprinter's case, it's a bit further rearward.
+<b>Sasaki:</b> The center of gravity relevant to crosswind sensitivity is a little different, but in the Sprinter's case, it's slightly further rearward.
 
 <b>Hirao:</b> In that case, it should be a bit better than the sedan, especially since the roof is lower.
 
@@ -343,11 +343,11 @@ Shortly after launch, I went to Canada, where I drove it at fairly high speeds. 
 
 In short, because the vehicle is heavier, the initial rise in braking force was not as sharp. That is part of it. Also, for reasons we are not entirely sure of, the current Corolla’s drum brakes respond somewhat more like disc brakes…
 
-<b>Higuchi:</b> I think it's really a matter of feel, similar to the accelerator pedal we discussed earlier. It isn't a matter of, “at what g do you stop from how many km/h.”
+<b>Higuchi:</b> I think it's really a matter of feel, similar to the accelerator pedal we discussed earlier. It isn't a simple matter of, “at what g do you stop from how many km/h.”
 
 <b><u>Carefully Studied Brake Distribution</b></u>
 
-<b>Magazine:</b> Since we’re on the subject of brakes, let’s look at the data measured by the Funaken Institute…
+<b>Magazine:</b> Since we’re on the subject of brakes, let’s look at the data measured by the Ship Research Institute…
 
 <b>Ishikawa:</b> Starting with vehicle weight, with spare tire, tools, and a nearly empty fuel tank, it came to 725kg. The distribution is 195kg at the front left wheel, 216kg at the front right, 161kg at the rear left, and 153kg at the rear right, giving a front-to-rear weight distribution of 56.7% to 43.3%. This does not change when one or two occupants are in the front seats. With five occupants, it becomes slightly heavier at the rear, but not to the extent of the Corolla, at roughly 49.5% to 50.5%.
 
