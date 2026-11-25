@@ -19,7 +19,7 @@ draft = false
 
 <b><u>A Trustworthy High-Speed Cruiser</b></u>
 
-<i>"Even those older enthusiasts who used to frown and say, 'It's always the Skyline GT crowd blasting down the highway,' may find themselves wanting to drive this one. The new car possesses a degree of refinement that was absent before."</i>
+<i>"Even those older enthusiasts who used to frown and say, 'It's always the Skyline GT crowd blasting down the highway,' may find themselves wanting to drive this one. There is a degree of refinement in the new car that was missing before."</i>
 
 <b><u>An Interior Free of Unnecessary Gimmicks</b></u>
 
@@ -27,13 +27,13 @@ Finished in silver-gray metallic, with its low hood and long nose, the new Skyli
 
 Even so, I suspect the image projected by this new generation of Skyline GT will strike existing owners as more than a little provocative.
 
-According to the principles of modern marketing, "A product that projects tomorrow's image is one that guarantees benefits for the customer." The new Skyline GT seems very much a product of that philosophy. This is no longer a car belonging to the "good old days." Rather, it is conceived with the ambition of becoming a bestseller—a Skyline GT that will play a major role in modern automotive society.
+According to the principles of modern marketing, "A product that projects tomorrow's image is one that guarantees benefits for the customer." The new Skyline GT seems very much a product of that philosophy. This is no longer a car belonging to the "good old days." Rather, it was designed with the ambition of becoming a bestseller—a Skyline GT that will play a major role in modern automotive society.
 
 The driving position is generally well judged. The driver's eyepoint is a little higher than I would prefer, but the relationship between the pedals, instruments, and steering wheel is well balanced.
 
 The previous Skyline GT placed the driver in a slightly lower, more sporting position. It is somewhat disappointing that the new model, while not as tall in the seat as the Laurel, has nevertheless moved in that direction.
 
-The steering wheel itself, however, is another matter. Rather than the partially leather-wrapped style that I personally dislike, the GT receives a fully leather-covered steering wheel. Combined with its small diameter and thick rim, it is just about ideal. I much prefer it to the gaudier wheel fitted to the GT-X.
+The steering wheel itself is another matter. Rather than the partially leather-wrapped style that I personally dislike, the GT's wheel is fully leather-covered. Combined with its small diameter and thick rim, it is just about ideal. I much prefer it to the showy wheel fitted to the GT-X.
 
 The instruments are set into a flat wooden fascia reminiscent of the early GC10 Skyline GT, where they are easy to read and sensibly arranged.
 
