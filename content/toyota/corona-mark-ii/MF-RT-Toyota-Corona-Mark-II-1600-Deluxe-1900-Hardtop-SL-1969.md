@@ -34,7 +34,7 @@ Thus, the central theme of development became not only styling, but also improvi
 
 <b>Higuchi:</b> How does this car relate to the existing Corona, and what are the origins of the name, "Mark II?"
 
-<b>Amano:</b> The Corona has knock-down production facilities in other countries, including Australia and Korea, and its styling has been very well received both domestically and overseas. It would be a shame to discontinue it entirely. So we decided to freshen the existing Corona with a minor change, and position this as its larger, senior counterpart--hence the name Corona Mark II.
+<b>Amano:</b> The Corona has knock-down production facilities in other countries, including Australia and Korea, and its styling has been very well received both domestically and overseas. It would be a waste to discontinue it entirely. So we decided to freshen the existing Corona with a minor change, and position this as its larger, senior counterpart--hence the name Corona Mark II.
 
 In Japan, I believe this is the first time the “Mark II” designation has been used in this way, but it is quite common in Europe and America. We would like it to be understood as a car that is within the Corona lineage, but advanced one step further.
 
@@ -42,7 +42,7 @@ In Japan, I believe this is the first time the “Mark II” designation has bee
 
 <b>Amano:</b> There are sedan and hardtop body styles, as before, but this time we have also introduced a station wagon. These three are the passenger-car models. In addition, there are three commercial variants: the single- and double-cab pickups and the van.
 
-The sedan is the mainstay model. The hardtop has been given a somewhat bolder styling treatment, incorporating the recently popular “Coke-bottle” line, though we were careful not to make it excessive. We also made a conscious effort to increase the distinction between the sedan and hardtop compared to the previous model.
+The sedan is the mainstay model. The hardtop has been given a somewhat bolder styling treatment, incorporating the recently popular “Coke-bottle” line, though we were careful not to take it too far. We also made a conscious effort to increase the distinction between the sedan and hardtop compared to the previous model.
 
 As for the van and wagon, we significantly differentiated the rear styling of the two. We worked hard to create an image that would immediately identify the wagon at a glance. I believe the result has turned out rather well.
 
@@ -58,7 +58,7 @@ As for design, we paid attention to aligning it with the sensibilities of today'
 
 <b>Magazine:</b> You mentioned that, in terms of safety, it complies fully with American standards.
 
-<b>Amano:</b> Yes, that is one aspect. In addition, the fundamental body structure has been designed so that the front and rear sections can deform comparatively easily relative to the cabin, allowing them to help absorb energy in the event of a collision.
+<b>Amano:</b> Yes, that is one aspect. In addition, the fundamental body structure has been designed so that the front and rear sections can deform relatively easily compared to the cabin, allowing them to help absorb energy in the event of a collision.
 
 Under American standards, there are 21 individual regulated items. By carrying over the previous Corona’s specifications, 19 of those were already satisfied. To that we have added the remaining two items, and beyond that we have incorporated various further considerations.
 
@@ -68,9 +68,9 @@ The SL version is specially tuned, with the aim of providing performance appropr
 
 <b>Kumabe:</b> It has changed quite a bit from the standard Corona. To take such bold steps and yet improve it so much is impressive.
 
-<b>Hirao:</b> It's been called the Corona’s “big brother,” but to me it looks more like an older sister. (laughs) The lines have become rather feminine. Because of that femininity, I suspect it will appeal to men. On the other hand, I have heard some young women say the lines seem softened, and that the previous Corona was cleaner and more crisp.
+<b>Hirao:</b> It's been called the Corona’s “big brother,” but to me it looks more like a big sister. (laughs) The lines have become rather feminine. Because of that femininity, I suspect it will appeal to men. On the other hand, I have heard some young women say the lines seem softened, and that the previous Corona was cleaner and more crisp.
 
-<b>Watari:</b> My impression is that with the Mark II, the so-called "Arrow Line" has become genuinely cleaner. Whether the new lines are feminine or not, I can't say, but it has become very beautiful, especially at the rear.
+<b>Watari:</b> My impression is that with the Mark II, the so-called "Arrow Line" has become genuinely more attractive. Whether the new lines are feminine or not, I can't say, but it has become very beautiful, especially at the rear.
 
 <b>Amano:</b> Yes, the flowing line at the rear of the hardtop was an area where we devoted considerable effort from a design standpoint. We were also concerned whether it could be pressed successfully, but it turned out almost exactly as we had originally envisioned. When one contemplates it carefully, however, it does give something of an impression of human shapeliness. (laughs)
 
@@ -78,9 +78,9 @@ The SL version is specially tuned, with the aim of providing performance appropr
 
 <b><u>A Body That Retains the Corona Character</b></u>
 
-<b>Hoshijima:</b> I agree. The Corona had a sharp character before, but this mixes that sharpness with the rounded flavor of the Corolla, making a strong overall impression. In terms of attractiveness, the hardtop really stands out compared with the Mark II four-door sedan.
+<b>Hoshijima:</b> I agree. The Corona had a "sharp" character before, but this mixes that sharpness with the rounded flavor of the Corolla and makes a strong overall impression. In terms of attractiveness, the hardtop really stands out compared with the Mark II four-door sedan.
 
-<b>Magazine:</b> In bringing together the sedan’s styling, what aspects proved most difficult? For example, the provision of the air duct behind the rear side glass?
+<b>Magazine:</b> In bringing together the sedan’s styling, which aspects proved most difficult? For example, the provision of the air duct behind the rear side glass?
 
 <b>Amano:</b> Fundamentally, it was a question of how to refine the Arrow Line theme. There were quite a lot of comments regarding the previous Corona's front-end treatment. At the same time, since this was to be positioned as the Corona’s senior counterpart, we didn't want to stray too far from the established Corona lineage. We also expended considerable effort on the treatment of the rear lamps.
 
